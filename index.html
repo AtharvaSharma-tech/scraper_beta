@@ -50,7 +50,7 @@
       return new Date(dateStr).toLocaleString('en-IN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
     }
 
-    fetch('./data/announcements.json')
+    fetch('https://raw.githubusercontent.com/AtharvaSharma-tech/scraper_beta/main/data/announcements.json')
       .then(res => res.json())
       .then(data => {
         const rawContainer = document.getElementById('raw-feed');
