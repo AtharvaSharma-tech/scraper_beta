@@ -5,6 +5,7 @@ import time
 from datetime import date, datetime
 import pdfplumber
 import requests
+from curl_cffi import requests as cffi_requests
 
 DATA_FILE = "data/announcements.json"
 
@@ -12,15 +13,17 @@ def extract_pdf_text(attachment_name):
     if not attachment_name:
         return None
     url = f"https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attachment_name}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0"}
     try:
-        response = requests.get(url, headers=headers, timeout=15)
+        # Spoof Chrome fingerprint for PDF downloads to prevent blocking
+        response = cffi_requests.get(url, headers=headers, impersonate="chrome", timeout=15)
         response.raise_for_status()
         with pdfplumber.open(io.BytesIO(response.content)) as pdf:
             text = "\n".join(page.extract_text() or "" for page in pdf.pages[:2])
         clean = text.strip()
         return clean if len(clean) > 30 else None
-    except Exception:
+    except Exception as e:
+        print(f"   -> PDF error: {e}")
         return None
 
 def summarize_text(company_name, category, text):
@@ -31,7 +34,6 @@ def summarize_text(company_name, category, text):
     prompt = f"Summarize this corporate announcement for {company_name} ({category}) in 2 bullet points:\n{clean_text}"
     
     try:
-        # Free, keyless API endpoint
         response = requests.post(
             "https://text.pollinations.ai/",
             json={"messages": [{"role": "user", "content": prompt}], "model": "openai"},
@@ -57,7 +59,8 @@ def fetch_raw_bse_feed():
         "Referer": "https://www.bseindia.com/"
     }
     try:
-        response = requests.get(url, headers=headers, params=params, timeout=15)
+        # Use curl_cffi to perfectly impersonate Chrome and bypass Akamai firewall
+        response = cffi_requests.get(url, headers=headers, params=params, impersonate="chrome", timeout=15)
         return response.json().get("Table", [])
     except Exception as e:
         print(f"BSE API Error: {e}")
@@ -73,16 +76,14 @@ def run_once():
     raw_records = fetch_raw_bse_feed()
     new_count = 0
 
-    # Process top 10 items
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Found {len(raw_records)} total filings for today.")
+
     for raw in raw_records[:10]:
         record_id = raw.get("NEWSID")
         if record_id not in existing_ids:
             print(f"Processing: {raw.get('SLONGNAME')}")
             
-            # 1. Download Raw PDF
             pdf_text = extract_pdf_text(raw.get("ATTACHMENTNAME"))
-            
-            # 2. Try to summarize (with a 3 second delay to prevent rate limiting)
             raw["summary"] = summarize_text(raw.get("SLONGNAME"), raw.get("NEWSSUB"), pdf_text)
             
             existing.append(raw)
