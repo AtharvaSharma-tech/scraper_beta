@@ -4,7 +4,7 @@ from curl_cffi import requests as http
 from google import genai
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "llama-3.1-8b-instant"
 GEMINI_MODEL = "gemini-3.8-flash"
 
 _gemini_client = None
