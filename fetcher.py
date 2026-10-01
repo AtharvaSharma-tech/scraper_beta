@@ -5,52 +5,50 @@ import time
 from datetime import date, datetime
 import pdfplumber
 from curl_cffi import requests as cffi_requests
+from google import genai
 
 DATA_FILE = "data/announcements.json"
+
+# Initialize the official Gemini client using the secure GitHub Secret
+client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 def extract_pdf_text(attachment_name):
     if not attachment_name:
         return None
     url = f"https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attachment_name}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"}
     try:
-        # Spoof Chrome to download PDF without being blocked by BSE
         response = cffi_requests.get(url, headers=headers, impersonate="chrome", timeout=15)
         response.raise_for_status()
         with pdfplumber.open(io.BytesIO(response.content)) as pdf:
-            text = "\n".join(page.extract_text() or "" for page in pdf.pages[:2])
-        clean = text.strip()
-        return clean if len(clean) > 30 else None
+            text = "\n".join(page.extract_text() or "" for page in pdf.pages[:3])
+        return text.strip() if text else None
     except Exception as e:
         print(f"   -> PDF error: {e}")
         return None
 
-
 def summarize_text(company_name, category, text):
     if not text:
-        return "Attachment is a scanned image or contains no selectable text."
+        return "* Attachment contains no selectable text or is a scanned image."
 
-    clean_text = text[:3000].replace("\n", " ").strip()
-    prompt = f"Summarize this corporate announcement for {company_name} ({category}) in 2 bullet points:\n{clean_text}"
-    
-    # Try up to 3 times if the free API is busy or rate-limiting
-    for attempt in range(1, 4):
-        try:
-            # Spoof Chrome for the AI request to bypass Cloudflare bot detection
-            response = cffi_requests.post(
-                "https://text.pollinations.ai/",
-                json={"messages": [{"role": "user", "content": prompt}], "model": "openai"},
-                impersonate="chrome",
-                timeout=25
-            )
-            if response.status_code == 200 and response.text.strip():
-                return response.text.strip()
-        except Exception as e:
-            print(f"   -> AI attempt {attempt} failed: {e}")
-            time.sleep(3)  # Wait 3 seconds before retrying
-            
-    return "AI Summary unavailable (Endpoint rate limited or timed out)."
+    clean_text = text[:4000].replace("\n", " ").strip()
+    prompt = (
+        f"You are a financial analyst. Summarize this corporate announcement for {company_name} "
+        f"({category}) in 2 clear bullet points focusing on key numbers, dates, or financial decisions:\n{clean_text}"
+    )
 
+    try:
+        # Use Gemini Flash for instant, high-quality, free-tier summaries
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
+        if response and response.text:
+            return response.text.strip()
+    except Exception as e:
+        print(f"   -> Gemini AI error: {e}")
+        
+    return "AI Summary temporarily unavailable."
 
 def fetch_raw_bse_feed():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Connecting to BSE API...")
@@ -61,7 +59,7 @@ def fetch_raw_bse_feed():
         "strScrip": "", "strSearch": "P", "strToDate": today_str, "strType": "C"
     }
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
         "Referer": "https://www.bseindia.com/"
     }
     try:
@@ -70,7 +68,6 @@ def fetch_raw_bse_feed():
     except Exception as e:
         print(f"BSE API Error: {e}")
         return []
-
 
 def run_once():
     existing = []
@@ -95,9 +92,7 @@ def run_once():
             existing.append(raw)
             existing_ids.add(record_id)
             new_count += 1
-            
-            # Base delay between different companies to keep the IP safe
-            time.sleep(2) 
+            time.sleep(1) # Small buffer between calls
 
     if new_count > 0:
         existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
@@ -105,7 +100,7 @@ def run_once():
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(existing[:100], f, indent=2, ensure_ascii=False)
 
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saved {new_count} new announcements.")
+    print(f"[{datetime.now().strftime('%H:%M:%S') Saved {new_count} new announcements.")
 
 if __name__ == "__main__":
     run_once()
