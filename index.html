@@ -26,7 +26,7 @@
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
     }
-
+ 
     h1 {
       text-align: center;
       font-size: clamp(1.6rem, 4vw, 2.2rem);
@@ -45,7 +45,7 @@
       margin: 0.75rem auto 0;
       animation: grow 0.7s 0.2s cubic-bezier(.2,.8,.2,1) both;
     }
-
+ 
     .container { max-width: 720px; margin: 0 auto; }
     .column { animation: fade 0.6s 0.1s ease both; }
     .col-title {
@@ -56,7 +56,7 @@
       border-bottom: 1px solid var(--border);
     }
     #ai-feed { color: var(--text-soft); }
-
+ 
     .card {
       position: relative;
       background: var(--surface);
@@ -90,7 +90,7 @@
     .card:hover::before, .card:focus-visible::before { transform: scaleY(1); }
     .card:active { transform: translateY(-1px) scale(0.995); }
     .card:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
-
+ 
     .company { font-weight: 700; color: var(--green); font-size: 1.1rem; }
     .summary-text {
       font-size: 0.95rem;
@@ -105,11 +105,31 @@
     .summary-text a { color: var(--green); }
     .summary-text ul, .summary-text ol { padding-left: 1.2rem; }
     .summary-text li { margin: 0.25rem 0; }
-
+ 
+    .pdf-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-top: 0.9rem;
+      padding: 0.5rem 0.9rem;
+      border-radius: 8px;
+      background: var(--green);
+      color: #04120a;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    }
+    .pdf-btn svg { width: 14px; height: 14px; transition: transform 0.2s ease; }
+    .pdf-btn:hover { background: #86efac; transform: translateY(-1px); box-shadow: 0 6px 16px rgba(74, 222, 128, 0.25); }
+    .pdf-btn:hover svg { transform: translate(2px, -2px); }
+    .pdf-btn:active { transform: scale(0.97); }
+    .pdf-btn:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+ 
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
     @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
     @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-
+ 
     @media (prefers-reduced-motion: reduce) {
       * { animation: none !important; transition: none !important; }
       .card { opacity: 1; }
@@ -117,38 +137,43 @@
   </style>
 </head>
 <body>
-
+ 
   <h1>BSE ANNOUNCEMENT SUMMARISER</h1>
-
+ 
   <div class="container">
     <div class="column">
       <div class="col-title">AI Summaries</div>
       <div id="ai-feed">Loading AI summaries...</div>
     </div>
   </div>
-
+ 
   <script>
     fetch('https://raw.githubusercontent.com/AtharvaSharma-tech/scraper_beta/main/data/announcements.json')
       .then(res => res.json())
       .then(data => {
         const aiContainer = document.getElementById('ai-feed');
-
+ 
         if (!data || !data.length) {
           aiContainer.innerHTML = 'No data found.';
           return;
         }
-
+ 
         // Render AI Data
         aiContainer.innerHTML = data.map(item => {
           const parsedSummary = item.summary ? marked.parse(item.summary) : 'No summary available.';
+          const pdfUrl = item.ATTACHMENTNAME ? `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${item.ATTACHMENTNAME}` : '';
+          const pdfBtn = pdfUrl ? `
+              <a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn">View original PDF
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M8 7h9v9"/></svg>
+              </a>` : '';
           return `
             <div class="card">
               <div class="company">${item.SLONGNAME || 'Company'}</div>
-              <div class="summary-text">${parsedSummary}</div>
+              <div class="summary-text">${parsedSummary}</div>${pdfBtn}
             </div>
           `;
         }).join('');
-
+ 
         // Interaction polish only: stagger entrance + keyboard focus
         aiContainer.querySelectorAll('.card').forEach((card, i) => {
           card.style.setProperty('--i', Math.min(i, 12));
@@ -161,3 +186,4 @@
   </script>
 </body>
 </html>
+ 
