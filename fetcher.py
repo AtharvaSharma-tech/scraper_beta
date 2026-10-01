@@ -40,7 +40,7 @@ def summarize_text(company_name, category, text):
     try:
         # Use Gemini Flash for instant, high-quality, free-tier summaries
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.8-flash",
             contents=prompt,
         )
         if response and response.text:
