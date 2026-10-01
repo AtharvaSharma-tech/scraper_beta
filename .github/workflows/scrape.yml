@@ -4,13 +4,19 @@ on:
   schedule:
     # Runs every 30 minutes from Monday to Friday
     - cron: '*/30 * * * 1-5'
-  workflow_dispatch: # Allows you to click a button to run it manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  scrape:
+  scrape-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -27,8 +33,8 @@ jobs:
       - name: Run Fetcher and AI Model
         run: python fetcher.py
         env:
-            GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-            GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
       - name: Commit and Push Updated Data
         run: |
@@ -36,3 +42,15 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/announcements.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update BSE announcements" && git push)
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Website Files
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to Live Website
+        id: deployment
+        uses: actions/deploy-pages@v4
