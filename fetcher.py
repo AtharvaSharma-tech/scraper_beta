@@ -74,9 +74,16 @@ def save_announcements(announcements):
 
 def fetch_latest():
     today = date.today()
-    start_date = today - timedelta(days=2)
+    start_date = today - timedelta(days=7)  # Look back a full week
+    
+    print(f"Fetching BSE feed from {start_date} to {today}...")
+    
     with BSE(download_folder="./data") as bse:
         result = bse.announcements(page_no=1, from_date=start_date, to_date=today)
+        
+        # This will print exactly what the BSE server is returning
+        print("Raw BSE Response:", result) 
+        
         return result.get("Table", [])
 
 
