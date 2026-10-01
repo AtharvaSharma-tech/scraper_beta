@@ -37,18 +37,20 @@ def summarize_text(company_name, category, text):
         f"({category}) in 2 clear bullet points focusing on key numbers, dates, or financial decisions:\n{clean_text}"
     )
 
-    try:
-        # Use Gemini Flash for instant, high-quality, free-tier summaries
-        response = client.models.generate_content(
-            model="gemini-3.8-flash",
-            contents=prompt,
-        )
-        if response and response.text:
-            return response.text.strip()
-    except Exception as e:
-        print(f"   -> Gemini AI error: {e}")
+    # Retry loop with a backoff delay for high-demand / rate-limit responses
+    for attempt in range(1, 4):
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.8-flash",
+                contents=prompt,
+            )
+            if response and response.text:
+                return response.text.strip()
+        except Exception as e:
+            print(f"   -> Gemini AI attempt {attempt} error: {e}")
+            time.sleep(5 * attempt) # Wait longer with each failed attempt
         
-    return "AI Summary temporarily unavailable."
+    return "AI Summary temporarily unavailable due to high demand."
 
 def fetch_raw_bse_feed():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Connecting to BSE API...")
@@ -92,7 +94,9 @@ def run_once():
             existing.append(raw)
             existing_ids.add(record_id)
             new_count += 1
-            time.sleep(1) # Small buffer between calls
+            
+            # Generous delay to ensure free-tier token limits/burst limits aren't tripped
+            time.sleep(4)
 
     if new_count > 0:
         existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
