@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BSE AI Announcements</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; background: #f4f4f5; }
+    h1 { color: #111827; }
+    .card { background: white; border: 1px solid #e5e7eb; padding: 1.5rem; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+    .company { font-weight: 700; font-size: 1.2rem; color: #2563eb; margin-bottom: 0.25rem; }
+    .meta { font-size: 0.85rem; color: #6b7280; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #e5e7eb; }
+    .summary { white-space: pre-line; line-height: 1.5; color: #374151; }
+    .tag { background: #dbeafe; color: #1e40af; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
+  </style>
+</head>
+<body>
+  <h1>Latest BSE Filings (AI Summarized)</h1>
+  <div id="feed">Loading announcements...</div>
+
+  <script>
+    // GitHub Pages serves files from the same domain
+    fetch('./data/announcements.json')
+      .then(res => res.json())
+      .then(data => {
+        const container = document.getElementById('feed');
+        if (!data.length) { container.innerHTML = 'No announcements found yet.'; return; }
+        
+        container.innerHTML = data.map(item => `
+          <div class="card">
+            <div class="company">${item.SLONGNAME || 'Unknown Company'}</div>
+            <div class="meta">
+              <span class="tag">${item.NEWSSUB || 'Update'}</span> &nbsp;&bull;&nbsp; ${item.NEWS_DT || 'Unknown Date'}
+            </div>
+            <div class="summary">${item.summary || 'Summary pending...'}</div>
+          </div>
+        `).join('');
+      })
+      .catch(() => { 
+        document.getElementById('feed').innerHTML = 'Feed has not been generated yet. The AI is likely running its first batch!'; 
+      });
+  </script>
+</body>
+</html>
