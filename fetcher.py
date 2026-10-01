@@ -1,150 +1,102 @@
 import io
 import json
-import logging
 import os
 import time
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
 import pdfplumber
 import requests
-from bse import BSE
 
-# Import the GPT4Free client (No accounts/API keys needed)
-from g4f.client import Client
-
-logging.getLogger("pdfminer").setLevel(logging.ERROR)
 DATA_FILE = "data/announcements.json"
-ATTACHMENT_BASE_URL = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/"
-
-# Initialize the free AI client
-client = Client()
 
 def extract_pdf_text(attachment_name):
     if not attachment_name:
         return None
-    url = ATTACHMENT_BASE_URL + attachment_name
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    }
+    url = f"https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attachment_name}"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     try:
-        response = requests.get(url, headers=headers, timeout=20)
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         with pdfplumber.open(io.BytesIO(response.content)) as pdf:
-            text = "\n".join(page.extract_text() or "" for page in pdf.pages[:3])
+            text = "\n".join(page.extract_text() or "" for page in pdf.pages[:2])
         clean = text.strip()
         return clean if len(clean) > 30 else None
-    except Exception as e:
-        print(f"   -> PDF extraction note: {e}")
+    except Exception:
         return None
-
 
 def summarize_text(company_name, category, text):
     if not text:
         return "Attachment is a scanned image or contains no selectable text."
 
-    clean_text = text[:3500].replace("\n", " ").strip()
-    prompt = (
-        f"You are a financial analyst. Summarize this corporate announcement for {company_name} "
-        f"({category}) in 2 clear bullet points focusing on key numbers, dates, or decisions:\n{clean_text}"
-    )
-
+    clean_text = text[:3000].replace("\n", " ").strip()
+    prompt = f"Summarize this corporate announcement for {company_name} ({category}) in 2 bullet points:\n{clean_text}"
+    
     try:
-        # Automatically routes to free ChatGPT/DuckDuckGo/Claude endpoints
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
+        # Free, keyless API endpoint
+        response = requests.post(
+            "https://text.pollinations.ai/",
+            json={"messages": [{"role": "user", "content": prompt}], "model": "openai"},
+            timeout=20
         )
-        return response.choices[0].message.content.strip()
+        if response.status_code == 200 and response.text.strip():
+            return response.text.strip()
     except Exception as e:
         print(f"   -> AI error: {e}")
-        return "Summary temporarily delayed due to network traffic."
+        
+    return "AI Summary unavailable (Endpoint rate limited or timed out)."
 
-
-def load_existing():
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
-
-
-def save_announcements(announcements):
-    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(announcements, f, indent=2, ensure_ascii=False)
-
-
-def fetch_latest():
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Connecting directly to BSE API...")
-    
-    # Format today's date exactly how the BSE API expects it (YYYYMMDD)
+def fetch_raw_bse_feed():
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Connecting to BSE API...")
     today_str = date.today().strftime("%Y%m%d")
-    
-    # The hidden endpoint BSE's own website uses to load the feed
     url = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
-    
     params = {
-        "pageno": "1",
-        "strCat": "-1",
-        "strPrevDate": today_str,
-        "strScrip": "",
-        "strSearch": "P",
-        "strToDate": today_str,
-        "strType": "C"
+        "pageno": "1", "strCat": "-1", "strPrevDate": today_str, 
+        "strScrip": "", "strSearch": "P", "strToDate": today_str, "strType": "C"
     }
-    
-    # Disguise the automated script as a normal person browsing from Chrome
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://www.bseindia.com/",
-        "Accept": "application/json, text/plain, */*"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0",
+        "Referer": "https://www.bseindia.com/"
     }
-    
     try:
         response = requests.get(url, headers=headers, params=params, timeout=15)
-        response.raise_for_status()
-        data = response.json()
-        
-        table = data.get("Table", [])
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] Success! Fetched {len(table)} announcements.")
-        return table
-        
+        return response.json().get("Table", [])
     except Exception as e:
         print(f"BSE API Error: {e}")
         return []
 
-
 def run_once():
-    existing = load_existing()
+    existing = []
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+            
     existing_ids = {item.get("NEWSID") for item in existing}
-    raw_records = fetch_latest()
+    raw_records = fetch_raw_bse_feed()
     new_count = 0
 
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Starting scrape...")
-    
-    # Grab the top 20 items so the "Load Next 10" button has data to show
-    for raw in raw_records[:20]:
+    # Process top 10 items
+    for raw in raw_records[:10]:
         record_id = raw.get("NEWSID")
         if record_id not in existing_ids:
             print(f"Processing: {raw.get('SLONGNAME')}")
+            
+            # 1. Download Raw PDF
             pdf_text = extract_pdf_text(raw.get("ATTACHMENTNAME"))
             
-            raw["summary"] = summarize_text(
-                raw.get("SLONGNAME", "Company"),
-                raw.get("NEWSSUB", "Filing"),
-                pdf_text
-            )
+            # 2. Try to summarize (with a 3 second delay to prevent rate limiting)
+            raw["summary"] = summarize_text(raw.get("SLONGNAME"), raw.get("NEWSSUB"), pdf_text)
             
             existing.append(raw)
             existing_ids.add(record_id)
             new_count += 1
-            time.sleep(1) 
+            time.sleep(3) 
 
     if new_count > 0:
         existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
-        # Save up to 100 items to keep a deep backlog for the website
-        save_announcements(existing[:100])
+        os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(existing[:100], f, indent=2, ensure_ascii=False)
 
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saved {new_count} announcements.")
-
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saved {new_count} new announcements.")
 
 if __name__ == "__main__":
     run_once()
