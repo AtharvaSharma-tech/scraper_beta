@@ -8,11 +8,15 @@ import pdfplumber
 import requests
 from bse import BSE
 
-logging.getLogger("pdfminer").setLevel(logging.ERROR)
+# Import the GPT4Free client (No accounts/API keys needed)
+from g4f.client import Client
 
+logging.getLogger("pdfminer").setLevel(logging.ERROR)
 DATA_FILE = "data/announcements.json"
 ATTACHMENT_BASE_URL = "https://www.bseindia.com/xml-data/corpfiling/AttachLive/"
 
+# Initialize the free AI client
+client = Client()
 
 def extract_pdf_text(attachment_name):
     if not attachment_name:
@@ -43,24 +47,16 @@ def summarize_text(company_name, category, text):
         f"({category}) in 2 clear bullet points focusing on key numbers, dates, or decisions:\n{clean_text}"
     )
 
-    # Retry up to 3 times with backoff if the public endpoint is busy
-    for attempt in range(1, 4):
-        try:
-            response = requests.post(
-                "https://text.pollinations.ai/",
-                json={
-                    "messages": [{"role": "user", "content": prompt}],
-                    "model": "openai"
-                },
-                timeout=35
-            )
-            if response.status_code == 200 and response.text.strip():
-                return response.text.strip()
-            time.sleep(2 * attempt)
-        except Exception:
-            time.sleep(2 * attempt)
-
-    return "Summary temporarily delayed due to high network traffic."
+    try:
+        # Automatically routes to free ChatGPT/DuckDuckGo/Claude endpoints
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"   -> AI error: {e}")
+        return "Summary temporarily delayed due to network traffic."
 
 
 def load_existing():
@@ -90,28 +86,32 @@ def run_once():
     raw_records = fetch_latest()
     new_count = 0
 
-    # Process up to 10 newest announcements per run
-    for raw in raw_records[:10]:
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Starting scrape...")
+    
+    # Grab the top 20 items so the "Load Next 10" button has data to show
+    for raw in raw_records[:20]:
         record_id = raw.get("NEWSID")
         if record_id not in existing_ids:
             print(f"Processing: {raw.get('SLONGNAME')}")
             pdf_text = extract_pdf_text(raw.get("ATTACHMENTNAME"))
+            
             raw["summary"] = summarize_text(
                 raw.get("SLONGNAME", "Company"),
                 raw.get("NEWSSUB", "Filing"),
                 pdf_text
             )
+            
             existing.append(raw)
             existing_ids.add(record_id)
             new_count += 1
-            time.sleep(2)
+            time.sleep(1) 
 
     if new_count > 0:
         existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
-        # Save up to 100 items so the website has enough history to load
+        # Save up to 100 items to keep a deep backlog for the website
         save_announcements(existing[:100])
 
-    print(f"Saved {new_count} announcements.")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saved {new_count} announcements.")
 
 
 if __name__ == "__main__":
