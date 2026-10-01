@@ -90,8 +90,8 @@ def run_once():
     raw_records = fetch_latest()
     new_count = 0
 
-    # Process up to 5 newest announcements per run
-    for raw in raw_records[:5]:
+    # Process up to 10 newest announcements per run
+    for raw in raw_records[:10]:
         record_id = raw.get("NEWSID")
         if record_id not in existing_ids:
             print(f"Processing: {raw.get('SLONGNAME')}")
@@ -104,11 +104,12 @@ def run_once():
             existing.append(raw)
             existing_ids.add(record_id)
             new_count += 1
-            time.sleep(2)  # Pause to avoid rate-limiting
+            time.sleep(2)
 
     if new_count > 0:
         existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
-        save_announcements(existing[:50])
+        # Save up to 100 items so the website has enough history to load
+        save_announcements(existing[:100])
 
     print(f"Saved {new_count} announcements.")
 
