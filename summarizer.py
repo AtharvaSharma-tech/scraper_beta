@@ -5,7 +5,7 @@ from google import genai
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama-3.3-70b-versatile"
-GEMINI_MODEL = "gemini-2.5-flash-lite"  # verify this is still on the free tier
+GEMINI_MODEL = "gemini-3.8-flash"  # verify this is still on the free tier
 
 _gemini_client = None
 
