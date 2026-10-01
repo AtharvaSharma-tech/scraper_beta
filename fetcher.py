@@ -5,6 +5,7 @@ import time
 from datetime import date, datetime
 import pdfplumber
 from curl_cffi import requests as cffi_requests
+from duckduckgo_search import DDGS
 
 DATA_FILE = "data/announcements.json"
 
@@ -12,9 +13,8 @@ def extract_pdf_text(attachment_name):
     if not attachment_name:
         return None
     url = f"https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attachment_name}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"}
     try:
-        # Spoof Chrome to download PDF without being blocked by BSE
         response = cffi_requests.get(url, headers=headers, impersonate="chrome", timeout=15)
         response.raise_for_status()
         with pdfplumber.open(io.BytesIO(response.content)) as pdf:
@@ -25,7 +25,6 @@ def extract_pdf_text(attachment_name):
         print(f"   -> PDF error: {e}")
         return None
 
-
 def summarize_text(company_name, category, text):
     if not text:
         return "Attachment is a scanned image or contains no selectable text."
@@ -33,24 +32,19 @@ def summarize_text(company_name, category, text):
     clean_text = text[:3000].replace("\n", " ").strip()
     prompt = f"Summarize this corporate announcement for {company_name} ({category}) in 2 bullet points:\n{clean_text}"
     
-    # Try up to 3 times if the free API is busy or rate-limiting
+    # Try up to 3 times using DuckDuckGo's anonymous AI chat
     for attempt in range(1, 4):
         try:
-            # Spoof Chrome for the AI request to bypass Cloudflare bot detection
-            response = cffi_requests.post(
-                "https://text.pollinations.ai/",
-                json={"messages": [{"role": "user", "content": prompt}], "model": "openai"},
-                impersonate="chrome",
-                timeout=25
-            )
-            if response.status_code == 200 and response.text.strip():
-                return response.text.strip()
+            with DDGS() as ddgs:
+                # model options: "gpt-4o-mini" or "claude-3-haiku"
+                response = ddgs.chat(prompt, model="gpt-4o-mini")
+                if response:
+                    return response.strip()
         except Exception as e:
             print(f"   -> AI attempt {attempt} failed: {e}")
-            time.sleep(3)  # Wait 3 seconds before retrying
+            time.sleep(3)
             
-    return "AI Summary unavailable (Endpoint rate limited or timed out)."
-
+    return "AI Summary unavailable (Network blocked by provider)."
 
 def fetch_raw_bse_feed():
     print(f"[{datetime.now().strftime('%H:%M:%S')}] Connecting to BSE API...")
@@ -61,7 +55,7 @@ def fetch_raw_bse_feed():
         "strScrip": "", "strSearch": "P", "strToDate": today_str, "strType": "C"
     }
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
         "Referer": "https://www.bseindia.com/"
     }
     try:
@@ -70,7 +64,6 @@ def fetch_raw_bse_feed():
     except Exception as e:
         print(f"BSE API Error: {e}")
         return []
-
 
 def run_once():
     existing = []
@@ -95,8 +88,6 @@ def run_once():
             existing.append(raw)
             existing_ids.add(record_id)
             new_count += 1
-            
-            # Base delay between different companies to keep the IP safe
             time.sleep(2) 
 
     if new_count > 0:
