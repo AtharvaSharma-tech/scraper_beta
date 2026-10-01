@@ -3,77 +3,140 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BSE Feed: Raw vs AI</title>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <title>BSE ANNOUNCEMENT SUMMARISER</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
-    body { font-family: 'Plus Jakarta Sans', sans-serif; background: #f4f4f5; color: #18181b; margin: 0; padding: 2rem; }
-    h1 { text-align: center; margin-bottom: 2rem; color: #09090b; }
-    
-    .container { display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto; }
-    .column { flex: 1; background: white; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); }
-    .col-title { font-size: 1.25rem; font-weight: 700; border-bottom: 2px solid #e4e4e7; padding-bottom: 0.75rem; margin-bottom: 1.5rem; }
-    
-    .card { border: 1px solid #e4e4e7; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; background: #fafafa; }
-    .company { font-weight: 700; color: #2563eb; font-size: 1.1rem; }
-    .date { font-size: 0.8rem; color: #71717a; margin-bottom: 0.5rem; }
-    .badge { background: #e0e7ff; color: #3730a3; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; font-weight: 600; display: inline-block; margin-bottom: 0.5rem; }
-    
-    .summary-text { font-size: 0.9rem; color: #3f3f46; margin-top: 0.5rem; border-top: 1px solid #e4e4e7; padding-top: 0.5rem; }
-    .pdf-link { font-size: 0.8rem; color: #2563eb; text-decoration: none; font-weight: 600; }
-    .pdf-link:hover { text-decoration: underline; }
+    :root {
+      --bg: #0a0f0c;
+      --surface: #121a15;
+      --surface-hover: #172119;
+      --border: #24332a;
+      --text: #f1f5f2;
+      --text-soft: #b6c4bb;
+      --green: #4ade80;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 3rem 1.25rem 4rem;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
 
-    @media (max-width: 768px) { .container { flex-direction: column; } }
+    h1 {
+      text-align: center;
+      font-size: clamp(1.6rem, 4vw, 2.2rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin: 0 0 2rem;
+      animation: fade 0.6s ease both;
+    }
+    h1::after {
+      content: "";
+      display: block;
+      width: 48px;
+      height: 3px;
+      background: var(--green);
+      border-radius: 2px;
+      margin: 0.75rem auto 0;
+      animation: grow 0.7s 0.2s cubic-bezier(.2,.8,.2,1) both;
+    }
+
+    .container { max-width: 720px; margin: 0 auto; }
+    .column { animation: fade 0.6s 0.1s ease both; }
+    .col-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      padding-bottom: 0.75rem;
+      margin-bottom: 1.25rem;
+      border-bottom: 1px solid var(--border);
+    }
+    #ai-feed { color: var(--text-soft); }
+
+    .card {
+      position: relative;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.1rem 1.25rem 1.1rem 1.5rem;
+      margin-bottom: 1rem;
+      overflow: hidden;
+      opacity: 0;
+      animation: rise 0.55s cubic-bezier(.2,.8,.2,1) forwards;
+      animation-delay: calc(var(--i, 0) * 60ms);
+      transition: transform 0.25s ease, background 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+    }
+    /* Green accent bar that grows on hover */
+    .card::before {
+      content: "";
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 4px;
+      background: var(--green);
+      transform: scaleY(0.35);
+      transform-origin: top;
+      transition: transform 0.3s ease;
+    }
+    .card:hover, .card:focus-visible {
+      background: var(--surface-hover);
+      border-color: #35503f;
+      transform: translateY(-3px);
+      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.4);
+    }
+    .card:hover::before, .card:focus-visible::before { transform: scaleY(1); }
+    .card:active { transform: translateY(-1px) scale(0.995); }
+    .card:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+
+    .company { font-weight: 700; color: var(--green); font-size: 1.1rem; }
+    .summary-text {
+      font-size: 0.95rem;
+      color: var(--text-soft);
+      margin-top: 0.6rem;
+      border-top: 1px solid var(--border);
+      padding-top: 0.6rem;
+    }
+    .summary-text > :first-child { margin-top: 0; }
+    .summary-text > :last-child { margin-bottom: 0; }
+    .summary-text strong { color: var(--text); }
+    .summary-text a { color: var(--green); }
+    .summary-text ul, .summary-text ol { padding-left: 1.2rem; }
+    .summary-text li { margin: 0.25rem 0; }
+
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; transition: none !important; }
+      .card { opacity: 1; }
+    }
   </style>
 </head>
 <body>
 
-  <h1>BSE Diagnostic Dashboard</h1>
+  <h1>BSE ANNOUNCEMENT SUMMARISER</h1>
 
   <div class="container">
-    <!-- Left Column: Raw Data -->
     <div class="column">
-      <div class="col-title">📊 Section 1: Raw BSE Feed</div>
-      <div id="raw-feed">Loading raw data...</div>
-    </div>
-
-    <!-- Right Column: AI Data -->
-    <div class="column">
-      <div class="col-title">🤖 Section 2: AI Summaries</div>
+      <div class="col-title">AI Summaries</div>
       <div id="ai-feed">Loading AI summaries...</div>
     </div>
   </div>
 
   <script>
-    function formatDate(dateStr) {
-      if (!dateStr) return '';
-      return new Date(dateStr).toLocaleString('en-IN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-    }
-
     fetch('https://raw.githubusercontent.com/AtharvaSharma-tech/scraper_beta/main/data/announcements.json')
       .then(res => res.json())
       .then(data => {
-        const rawContainer = document.getElementById('raw-feed');
         const aiContainer = document.getElementById('ai-feed');
-        
+
         if (!data || !data.length) {
-          rawContainer.innerHTML = 'No data found.';
           aiContainer.innerHTML = 'No data found.';
           return;
         }
-
-        // Render Raw Data
-        rawContainer.innerHTML = data.map(item => {
-          const pdfUrl = item.ATTACHMENTNAME ? `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${item.ATTACHMENTNAME}` : '#';
-          return `
-            <div class="card">
-              <div class="company">${item.SLONGNAME || 'Company'}</div>
-              <div class="date">${formatDate(item.NEWS_DT)}</div>
-              <div class="badge">${item.NEWSSUB || 'Update'}</div>
-              <br><a href="${pdfUrl}" target="_blank" class="pdf-link">View PDF</a>
-            </div>
-          `;
-        }).join('');
 
         // Render AI Data
         aiContainer.innerHTML = data.map(item => {
@@ -85,9 +148,14 @@
             </div>
           `;
         }).join('');
+
+        // Interaction polish only: stagger entrance + keyboard focus
+        aiContainer.querySelectorAll('.card').forEach((card, i) => {
+          card.style.setProperty('--i', Math.min(i, 12));
+          card.tabIndex = 0;
+        });
       })
       .catch(() => {
-        document.getElementById('raw-feed').innerHTML = 'Waiting for data...';
         document.getElementById('ai-feed').innerHTML = 'Waiting for data...';
       });
   </script>
