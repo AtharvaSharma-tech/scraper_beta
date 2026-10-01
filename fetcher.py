@@ -73,18 +73,43 @@ def save_announcements(announcements):
 
 
 def fetch_latest():
-    today = date.today()
-    start_date = today - timedelta(days=7)  # Look back a full week
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Connecting directly to BSE API...")
     
-    print(f"Fetching BSE feed from {start_date} to {today}...")
+    # Format today's date exactly how the BSE API expects it (YYYYMMDD)
+    today_str = date.today().strftime("%Y%m%d")
     
-    with BSE(download_folder="./data") as bse:
-        result = bse.announcements(page_no=1, from_date=start_date, to_date=today)
+    # The hidden endpoint BSE's own website uses to load the feed
+    url = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
+    
+    params = {
+        "pageno": "1",
+        "strCat": "-1",
+        "strPrevDate": today_str,
+        "strScrip": "",
+        "strSearch": "P",
+        "strToDate": today_str,
+        "strType": "C"
+    }
+    
+    # Disguise the automated script as a normal person browsing from Chrome
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://www.bseindia.com/",
+        "Accept": "application/json, text/plain, */*"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, params=params, timeout=15)
+        response.raise_for_status()
+        data = response.json()
         
-        # This will print exactly what the BSE server is returning
-        print("Raw BSE Response:", result) 
+        table = data.get("Table", [])
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] Success! Fetched {len(table)} announcements.")
+        return table
         
-        return result.get("Table", [])
+    except Exception as e:
+        print(f"BSE API Error: {e}")
+        return []
 
 
 def run_once():
