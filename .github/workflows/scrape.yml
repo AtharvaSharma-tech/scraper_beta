@@ -1,0 +1,35 @@
+name: Scrape and Summarize Announcements
+
+on:
+  schedule:
+    # Runs every 30 minutes from Monday to Friday
+    - cron: '*/30 * * * 1-5'
+  workflow_dispatch: # Allows you to click a button to run it manually
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Fetcher and AI Model
+        run: python fetcher.py
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/announcements.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update BSE announcements" && git push)
