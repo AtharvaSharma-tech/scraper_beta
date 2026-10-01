@@ -1,69 +1,103 @@
+import io
+import json
 import os
 import time
-from curl_cffi import requests as http
-from google import genai
+from datetime import datetime, timedelta, timezone
+import pdfplumber
+from curl_cffi import requests as cffi_requests
+from summarizer import summarize
 
-GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL = "llama-3.3-70b-versatile"
-GEMINI_MODEL = "gemini-3.8-flash"  # verify this is still on the free tier
-
-_gemini_client = None
-
-
-def _status(e):
-    return getattr(e, "code", None) or getattr(getattr(e, "response", None), "status_code", None)
+DATA_FILE = "data/announcements.json"
+MAX_PER_RUN = 10
+IST = timezone(timedelta(hours=5, minutes=30))
 
 
-def _call_groq(prompt):
-    r = http.post(
-        GROQ_URL,
-        headers={"Authorization": f"Bearer {os.environ['GROQ_API_KEY']}"},
-        json={
-            "model": GROQ_MODEL,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.2,
-            "max_tokens": 300,
-        },
-        timeout=30,
-    )
-    r.raise_for_status()
-    return r.json()["choices"][0]["message"]["content"].strip()
+def now_ist():
+    return datetime.now(IST)
 
 
-def _call_gemini(prompt):
-    global _gemini_client
-    if _gemini_client is None:
-        _gemini_client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    resp = _gemini_client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
-    return (resp.text or "").strip()
+def extract_pdf_text(attachment_name):
+    if not attachment_name:
+        return None
+    url = f"https://www.bseindia.com/xml-data/corpfiling/AttachLive/{attachment_name}"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"}
+    try:
+        response = cffi_requests.get(url, headers=headers, impersonate="chrome", timeout=15)
+        response.raise_for_status()
+        with pdfplumber.open(io.BytesIO(response.content)) as pdf:
+            text = "\n".join(page.extract_text() or "" for page in pdf.pages[:3])
+        return text.strip() if text else None
+    except Exception as e:
+        print(f"   -> PDF error: {e}")
+        return None
 
 
-def summarize(company, category, text):
-    """Return a summary string, or None if every provider failed."""
-    clean = text[:6000].replace("\n", " ").strip()
-    prompt = (
-        f"You are a financial analyst. Summarize this corporate announcement for {company} "
-        f"({category}) in 2 clear bullet points focusing on key numbers, dates, or financial decisions. "
-        f"Use only facts present in the text. If it has no financial details, say so.\n\n{clean}"
-    )
-    providers = []
-    if os.environ.get("GROQ_API_KEY"):
-        providers.append(("groq", _call_groq))
-    if os.environ.get("GEMINI_API_KEY"):
-        providers.append(("gemini", _call_gemini))
+def fetch_raw_bse_feed():
+    print(f"[{now_ist().strftime('%H:%M:%S')} IST] Connecting to BSE API...")
+    today_str = now_ist().strftime("%Y%m%d")
+    url = "https://api.bseindia.com/BseIndiaAPI/api/AnnSubCategoryGetData/w"
+    params = {
+        "pageno": "1", "strCat": "-1", "strPrevDate": today_str,
+        "strScrip": "", "strSearch": "P", "strToDate": today_str, "strType": "C"
+    }
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+        "Referer": "https://www.bseindia.com/"
+    }
+    try:
+        response = cffi_requests.get(url, headers=headers, params=params, impersonate="chrome", timeout=15)
+        response.raise_for_status()
+        return response.json().get("Table", [])
+    except Exception as e:
+        print(f"BSE API Error: {e}")
+        return []
 
-    for name, call in providers:
-        for attempt in range(2):
-            try:
-                out = call(prompt)
-                if out:
-                    return out
+
+def save(existing):
+    existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
+    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
+        json.dump(existing[:100], f, indent=2, ensure_ascii=False)
+
+
+def run_once():
+    existing = []
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+
+    existing_ids = {item.get("NEWSID") for item in existing}
+    raw_records = fetch_raw_bse_feed()
+    pending = [r for r in raw_records if r.get("NEWSID") and r["NEWSID"] not in existing_ids]
+    print(f"{len(raw_records)} filings today, {len(pending)} unprocessed.")
+
+    new_count, failures = 0, 0
+    for raw in pending[:MAX_PER_RUN]:
+        print(f"Processing: {raw.get('SLONGNAME')}")
+        pdf_text = extract_pdf_text(raw.get("ATTACHMENTNAME"))
+
+        if pdf_text:
+            summary = summarize(raw.get("SLONGNAME"), raw.get("NEWSSUB"), pdf_text)
+        else:
+            summary = "* Attachment contains no selectable text or is a scanned image."
+
+        if summary is None:  # AI failed: don't store, retry next run
+            failures += 1
+            if failures >= 3:
+                print("Three AI failures, stopping this run.")
                 break
-            except Exception as e:
-                status = _status(e)
-                print(f"   -> {name} attempt {attempt + 1} failed (status {status}): {e}")
-                if status in (429, 500, 503) and attempt == 0:
-                    time.sleep(10)  # retry only transient errors
-                    continue
-                break  # permanent error: move to next provider
-    return None
+            continue
+
+        raw["summary"] = summary
+        existing.append(raw)
+        existing_ids.add(raw["NEWSID"])
+        new_count += 1
+        save(existing)  # incremental save so a crash doesn't lose progress
+        time.sleep(4)
+
+    print(f"Saved {new_count} new announcements.")
+
+
+if __name__ == "__main__":
+    print("fetcher.py started", flush=True)
+    run_once()
