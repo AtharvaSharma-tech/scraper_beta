@@ -100,7 +100,7 @@ def run_once():
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(existing[:100], f, indent=2, ensure_ascii=False)
 
-    print(f"[{datetime.now().strftime('%H:%M:%S') Saved {new_count} new announcements.")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] Saved {new_count} new announcements.")
 
 if __name__ == "__main__":
     run_once()
