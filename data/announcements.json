@@ -1,5 +1,270 @@
 [
   {
+    "NEWSID": "c94744b4-7a5c-4a0b-a0e0-08db3b7e3e20",
+    "SCRIP_CD": 542774,
+    "XML_NAME": "ANN_542774_C94744B4-7A5C-4A0B-A0E0-08DB3B7E3E20",
+    "NEWSSUB": "Mufin Green Finance Ltd - 542774 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+    "DT_TM": "2026-10-13T23:26:05.607",
+    "NEWS_DT": "2026-10-13T23:26:05.607",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "71d6e3d7-255b-4e8f-9811-bf4699c92458.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation  regarding allotment of Shares against exercise of ESOP options",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mufin-green-finance-ltd/mufin/542774/",
+    "SLONGNAME": "Mufin Green Finance Ltd",
+    "AGENDA_ID": 115,
+    "TotalPageCnt": 22,
+    "News_submission_dt": "2026-10-13T23:26:05",
+    "DissemDT": "2026-10-13T23:26:05.607",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 330607,
+    "SUBCATNAME": "Allotment of ESOP / ESPS",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d8d8207b-dbe3-493e-8254-71b6dbd97cdd",
+    "SCRIP_CD": 544922,
+    "XML_NAME": "ANN_544922_D8D8207B-DBE3-493E-8254-71B6DBD97CDD",
+    "NEWSSUB": "Om Galaxy Ltd - 544922 - Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-10-13T23:23:44.057",
+    "NEWS_DT": "2026-10-13T23:23:44.057",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b772a054-684e-4054-92fb-9dc6ec20f547.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation under Regulation 30 of SEBI(LODR) Regulations, 2015 about the inspection and search conducted by the GST Authorities, Maharashtra at the Company''s location situated at Vasai, Maharashtra.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/om-galaxy-ltd/omg/544922/",
+    "SLONGNAME": "Om Galaxy Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 22,
+    "News_submission_dt": "2026-10-13T23:23:44",
+    "DissemDT": "2026-10-13T23:23:44.057",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 499625,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Maharashtra State GST Department inspected Om Galaxy Ltd.’s factories in Vasai from 06 Oct 2026 to 12 Oct 2026; the company fully cooperated, and manufacturing operations were not disrupted.  \n\n- The company voluntarily deposited **₹1.88 crore** (GST plus interest) to address issues identified in the inspection, and, apart from this amount, reported no material impact on its financials or business operations.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Sr. No.": "1.",
+            "Particulars": "Name of the authority",
+            "Details": "Maharashtra State Goods & Services Tax Department."
+          },
+          {
+            "Sr. No.": "2",
+            "Particulars": "Nature and details of the action taken, or order passed.",
+            "Details": "The GST Department conducted inspection and search proceedings at the Company’s various locations in relation to GST matters. The search proceedings were completed on October 12, 2026."
+          },
+          {
+            "Sr. No.": "3",
+            "Particulars": "Date of receipt of direction or order, including any ad-interim or interim orders, or any other communication from the authority.",
+            "Details": "No interim order, or other order passed. No Show Cause notice received requiring specific action by the Company was received."
+          },
+          {
+            "Sr. No.": "4",
+            "Particulars": "Details of the violation/ contravention committed or alleged to be committed.",
+            "Details": "The GST authorities have conducted search and investigation proceedings at the Company's premises in connection with certain GST-related matters and have made few observations related to certain procedural issues including regular on-going compliances under GST provisions. The Company is exploring the legal standing with the GST consultants and cooperating with the concerned authorities and accordingly will file the necessary replies along-with reconciliation in consultation with its professional advisers."
+          },
+          {
+            "Sr. No.": "5",
+            "Particulars": "Impact on financial, operation, or other activities quantifiable in monetary terms to the extent possible.",
+            "Details": "The Company has taken appropriate steps in relation to the matters identified during the GST investigation and has voluntarily deposited ₹1.88 crore (GST and interest) towards the matters identified which include regular routine compliances for the current period subject to verification and reconciliation. Except for the aforesaid amount, there is no other material impact on the financials, business operations or any other activities of the Company due to the aforesaid Inspection/Search proceedings as on date."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "f2bee25d-8696-49f8-b2cc-d497dfd8e79e",
+    "SCRIP_CD": 539289,
+    "XML_NAME": "ANN_539289_F2BEE25D-8696-49F8-B2CC-D497DFD8E79E",
+    "NEWSSUB": "Aurum PropTech Ltd - 539289 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-10-13T23:22:48.267",
+    "NEWS_DT": "2026-10-13T23:22:48.267",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0aefd6ff-1399-49e0-9c2c-45bcc30cf5a8.pdf",
+    "MORE": "",
+    "HEADLINE": "Allotment of fully convertible warrants to Aurum RealEstate Developers Limited, Promoter of the Company, pursuant to Circular Resolution passed on October 13, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aurum-proptech-ltd/aurum/539289/",
+    "SLONGNAME": "Aurum PropTech Ltd",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 22,
+    "News_submission_dt": "2026-10-13T23:22:48",
+    "DissemDT": "2026-10-13T23:22:48.267",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 625572,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "5",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 1,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "",
+            "Pre-issue shareholding on fully paid-up equity shares basis (as on September 30, 2026)": "No. of Equity shares held",
+            "col_3": "%",
+            "*Post-issue shareholding (as on date on fully diluted basis)": "No. of Equity shares held",
+            "col_5": "%"
+          },
+          {
+            "Particulars": "Aurum RealEstate Developers Limited",
+            "Pre-issue shareholding on fully paid-up equity shares basis (as on September 30, 2026)": "3,67,78,355",
+            "col_3": "38.22",
+            "*Post-issue shareholding (as on date on fully diluted basis)": "4,18,78,355",
+            "col_5": "40.56"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "c2e76d18-c929-42de-84b1-84f4e5dfe787",
+    "SCRIP_CD": 538596,
+    "XML_NAME": "ANN_538596_C2E76D18-C929-42DE-84B1-84F4E5DFE787",
+    "NEWSSUB": "Cemantic Infra-Tech Ltd - 538596 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-13T23:09:02.14",
+    "NEWS_DT": "2026-10-13T23:09:02.14",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "31850f9e-5d00-4a3f-abc0-b9eb9b21a98e.pdf",
+    "MORE": "",
+    "HEADLINE": "Enclosed hereeith is the Certificate under regulation 74(5) of SEBI (DP) Regulation received from the RTA of the Company for the quarter ended on 30th September, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/cemantic-infra-tech-ltd/cemainfra/538596/",
+    "SLONGNAME": "Cemantic Infra-Tech Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 22,
+    "News_submission_dt": "2026-10-13T23:09:02",
+    "DissemDT": "2026-10-13T23:09:02.14",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 956944,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "57b88264-5360-4c45-8088-4c028f4be45b",
+    "SCRIP_CD": 500003,
+    "XML_NAME": "ANN_500003_57B88264-5360-4C45-8088-4C028F4BE45B",
+    "NEWSSUB": "Aegis Logistics Ltd - 500003 - Board Meeting Outcome for Outcome Of Board Meeting",
+    "DT_TM": "2026-10-13T23:07:52.537",
+    "NEWS_DT": "2026-10-13T23:07:52.537",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "fa5058c5-d664-461b-9b8d-ddaf5584f821.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome is attached",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aegis-logistics-ltd/aegislog/500003/",
+    "SLONGNAME": "Aegis Logistics Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 22,
+    "News_submission_dt": "2026-10-13T23:07:51",
+    "DissemDT": "2026-10-13T23:07:52.537",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 363828,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 3,
+        "rows": [
+          {
+            "FY": "2023",
+            "Revenue (US$ mn)": "1,089"
+          },
+          {
+            "FY": "2024",
+            "Revenue (US$ mn)": "1,220"
+          },
+          {
+            "FY": "2025",
+            "Revenue (US$ mn)": "1,401"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "e2c9e3e4-adad-46f7-a613-5caa083cec38",
     "SCRIP_CD": 500294,
     "XML_NAME": "ANN_500294_E2C9E3E4-ADAD-46F7-A613-5CAA083CEC38",
@@ -13142,996 +13407,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "0c4cdc7d-44f2-419f-8670-5c9ff8b9388f",
-    "SCRIP_CD": 532796,
-    "XML_NAME": "ANN_532796_0C4CDC7D-44F2-419F-8670-5C9FF8B9388F",
-    "NEWSSUB": "Lumax Auto Technologies Ltd - 532796 - Board Meeting Intimation for Consideration And Approval Of The Un-Audited Financial Results (Standalone And Consolidated) For The 2Nd Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-10-13T19:26:32.507",
-    "NEWS_DT": "2026-10-13T19:26:32.507",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2c3c3ee6-7695-495f-a644-bb62b2bc08e5.pdf",
-    "MORE": "Lumax Auto Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/10/2026 ,inter alia, to consider and approve the Un-audited Financial Results (Standalone and Consolidated) for the 2nd Quarter and Half Year ended September 30, 2026.",
-    "HEADLINE": "Lumax Auto Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/10/2026 ,inter alia, to consider and approve the Un-audited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lumax-auto-technologies-ltd/lumaxtech/532796/",
-    "SLONGNAME": "Lumax Auto Technologies Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-10-13T19:26:31",
-    "DissemDT": "2026-10-13T19:26:32.507",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 327013,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors will meet on **Saturday, 24 October 2026** to consider and approve the **un‑audited standalone and consolidated financial results for Q2 and the half‑year ended 30 September 2026**.  \n\n- The **trading window remains closed from 1 October 2026 until 26 October 2026** (48 hours after the results are announced).  \n\n*No specific financial figures or performance metrics are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "708d5556-f808-4154-9344-0da8f1431a3a",
-    "SCRIP_CD": 540602,
-    "XML_NAME": "ANN_540602_708D5556-F808-4154-9344-0DA8F1431A3A",
-    "NEWSSUB": "GTPL Hathway Ltd - 540602 - Unaudited Standalone And Consolidated Financial Results For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-10-13T19:25:26.25",
-    "NEWS_DT": "2026-10-13T19:25:26.25",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d2cd8dc7-cde4-4364-b0cd-3dbb3cad9dc5.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gtpl-hathway-ltd/gtpl/540602/",
-    "SLONGNAME": "GTPL Hathway Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-10-13T19:25:26",
-    "DissemDT": "2026-10-13T19:25:26.25",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3367620,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Unaudited interim results approved**",
-    "key_metrics": {
-      "revenue": "",
-      "total_assets": "31153.81",
-      "total_equity": "8695.13",
-      "total_debt": "1244.56",
-      "dividend": "0.01",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars": "",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "September JO, 2026",
-            "col_3": "June 30, 2026",
-            "col_4": "September 30, 2025",
-            "col_5": "September 30, 2026 September 30, 202 5",
-            "col_6": "",
-            "col_7": "Year Ended March JI, 2026"
-          },
-          {
-            "Particulars": "",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "Unaudited",
-            "col_3": "Unaudited'",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited",
-            "col_6": "Unaudited",
-            "col_7": "Audlt&d"
-          },
-          {
-            "Particulars": "I. Income a. Rc\\'enue from Operations b. Other Income",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "7,975.74 27.54",
-            "col_3": "6,877.25 54.85",
-            "col_4": "6,358.06 44.21",
-            "col_5": "14,852.99 82.39",
-            "col_6": "12,304.&5",
-            "col_7": "24,507.81"
-          },
-          {
-            "Particulars": "Total Income",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "8,003.28 38.64 J.86 6,366.13 161.94 112.79 572.71 765.26",
-            "col_3": "6,932.to",
-            "col_4": "6,402.27",
-            "col_5": "14,935.38",
-            "col_6": "87.62",
-            "col_7": "216.78"
-          },
-          {
-            "Particulars": "2. Expenses a. Purchase of Project Material b Chani?.cs in Inventories ofP roject Material c. Operating Exvenscs d. Emulovec Bcoetits E.xpe~e c. Finance Cost f. Depreciation and Amortisation Expense I.!, Other E.,:pen..o:~",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "",
-            "col_3": "17.96 35.43 5,425.60 148.62 83.72 532.7& 660.]8",
-            "col_4": "40.59 (6.83) 4,972.41 155.60 73.14 446.84 647.50",
-            "col_5": "56.60 ]9.29 11,791.73 310.56 196.51 1,105.49 1.425.64",
-            "col_6": "12.392.47 130.73 121.98) 9.455.08 343.30 144.73 889.85 1.300.17",
-            "col_7": "24,724.59 278.00 16.00 18,845.28 634.15 335.71 1,891.88 2 582.59"
-          },
-          {
-            "Particulars": "Total Expenses 3. Pront / (Loss) before Ei:ceotlonel Hems & Tax Expenses (1-2)",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "8,0?l.33",
-            "col_3": "6,904.49",
-            "col_4": "6,329.25",
-            "col_5": "14,925.82 9.56",
-            "col_6": "12.,241.88",
-            "col_7": "24,583.61"
-          },
-          {
-            "Particulars": "",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "!18.05)",
-            "col_3": "27.6t",
-            "col_4": "73.02",
-            "col_5": "",
-            "col_6": "150.59",
-            "col_7": "140.98"
-          },
-          {
-            "Particulars": "4. Exceptional l!ems rRerer Note 4)",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "150.59",
-            "col_7": "56.89"
-          },
-          {
-            "Particulars": "5. Profit/ (Loss) before Tax (3-4)",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "\\18.0,",
-            "col_3": "27.61",
-            "col_4": "73.02",
-            "col_5": "9.56",
-            "col_6": "",
-            "col_7": "84.09"
-          },
-          {
-            "Particulars": "6. Tax cxpe.rue a. CmTent Tax b. Deferred Ta.,; c. Previous Year Tax Adjuslment.s 7. Net Profit I (Loss) ro.-the Period/ Year artcrTax (S-._fil_",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "(4.58) (1.49) (3.09)",
-            "col_3": "7.49 6.46 1.03",
-            "col_4": "20.53 1.09 19.44",
-            "col_5": "2.91 4.97 (2.06)",
-            "col_6": "41.85 I0.71 31.14",
-            "col_7": "25.27 25.15 51.89 /51.77"
-          },
-          {
-            "Particulars": "",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "(13.47)",
-            "col_3": "20.12",
-            "col_4": "52.49",
-            "col_5": "6.65",
-            "col_6": "108.74",
-            "col_7": "58.82 (J.52) 0.89"
-          },
-          {
-            "Particulars": "8. Other Comprehensin'.· Income I (Loss) Items that will not be reclassified to profit or loss lnc<ime -Tax relatlni? to items 001 reclassified lo profit or loss",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "2.89 (0.73)",
-            "col_3": "(0.88) 0.22",
-            "col_4": "1.52 (0.38)",
-            "col_5": "2.01 (0.51)",
-            "col_6": "1.32 (0.JJ)",
-            "col_7": ""
-          },
-          {
-            "Particulars": "9. Total Other Comprehensive Income I (Lo.ssl (a0crTu)",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "2.16",
-            "col_3": "(0.66) 1.14",
-            "col_4": "",
-            "col_5": "1.50",
-            "col_6": "0.99",
-            "col_7": "(l.63)"
-          },
-          {
-            "Particulars": ".10. Tolal Comprehensive income/ (Loss) (after Tax) (7+9)",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "Ill.JI)",
-            "col_3": "19.46",
-            "col_4": "53.63",
-            "col_5": "8.15",
-            "col_6": "109.73",
-            "col_7": "56.19"
-          },
-          {
-            "Particulars": "II. Paid-Up Equln• share caoltal (Face Value Rs.IOI-)",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "I 124.63",
-            "col_3": "I 124.63",
-            "col_4": "1.124.63",
-            "col_5": "1.124.63",
-            "col_6": "1.124.63",
-            "col_7": "1.124.63"
-          },
-          {
-            "Particulars": "12. Oilier Equih\"",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "",
-            "col_3": "0.18",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "7,776.15"
-          },
-          {
-            "Particulars": "",
-            "(Rs in Million Quar1er Ended Su Months Enacd": "(0.12)",
-            "col_3": "",
-            "col_4": "0.47",
-            "col_5": "0.06",
-            "col_6": "0.97",
-            "col_7": "0.52"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "PARTICULARS",
-            "col_2": "For the Six Months Ended",
-            "col_3": ""
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "September 30, 2026",
-            "col_3": "September 30, 2025"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "Unaudited",
-            "col_3": "·unaudited"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "9.56",
-            "col_3": "150.59"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "1,105.49 196.51 10.46 39.62 7.52 1.20 (34.66",
-            "col_3": "889.85 144.73 2.04 51.25 (3.67) (5.07) 5.15 (48.23"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "1,326.30",
-            "col_3": "1,186.64"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(38.31) (7,168.74) (0.27) (189. 13) • (854.87) 8,070.56 137.66",
-            "col_3": "(35.09) (4,689.14) 0.06 (205.95) 141.92 4,269.75 (8171l"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "1,283.20",
-            "col_3": "586.48"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(54.02'",
-            "col_3": "(149.63)"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "1,229.18",
-            "col_3": "436.85"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(935.34) (355.54) 0.00 (6. 16) 301.50 3.42",
-            "col_3": "(1,027.22) (53.12) 0.03 (3.67) 215.00 43.48"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(992.12)",
-            "col_3": "(825.50)"
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(386.60) 228.67 (18.21) (94.46) (78.02) (0.01)",
-            "col_3": ""
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(348.63)",
-            "col_3": ""
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "(111.57)",
-            "col_3": ""
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "158.74",
-            "col_3": ""
-          },
-          {
-            "STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (Rs in Million)": "",
-            "col_2": "47.17",
-            "col_3": ""
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "",
-            "col_3": "June 30, 2026",
-            "col_4": "September 30, 2025",
-            "Six Months Ended": "September 30, 2026",
-            "col_6": "September 30, 2025",
-            "Year Ended": "March 31, 2026"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "Six Months Ended": "Unaudited",
-            "col_6": "Unaudited",
-            "Year Ended": "Audijed"
-          },
-          {
-            "Particulars": "1. Income a. Revenue ftom Operations b. Other Income",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "11,430.55 33.59",
-            "col_3": "10,154.07 44.86",
-            "col_4": "9,590.53 58.81",
-            "Six Months Ended": "21,584.62 78.45",
-            "col_6": "18,627.52 113.05",
-            "Year Ended": "37,192.17 274.30"
-          },
-          {
-            "Particulars": "Total Income",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "11,464.14",
-            "col_3": "10,198.93",
-            "col_4": "9,649.34",
-            "Six Months Ended": "21,663.07",
-            "col_6": "18,740.57",
-            "Year Ended": "37,466.47"
-          },
-          {
-            "Particulars": "2. Expenses a. Purchase or Project Material b. Changes in Inventories of Project Malerial c. Operatirig Expenses d. Employee Bener.ts Expense e. Finance Cost f. Depreciation and Amortisation Expense Q. Other Expenses",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "38.64 3.86 8,821.86 407.80 122.83 1,019.28 1,089.34",
-            "col_3": "17.96 35.43 7,673.99 404.62 95.33 967.41 975.31",
-            "col_4": "40.58 (6.83) 7,150.94 417.83 87.15 908.76 945.59",
-            "Six Months Ended": "56.60 39.29 16,495.85 812.42 218.21 1,986.69 2,064.65",
-            "col_6": "129.12 (21.98) 13,707.91 807.81 173.59 1,822.89 1,893.55",
-            "Year Ended": "276.36 16.00 27,288.08 1,629.51 385.66 3,761.23 3,933.09"
-          },
-          {
-            "Particulars": "Total Expenses",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "11,503.66",
-            "col_3": "10,170.05",
-            "col_4": "9,544.02",
-            "Six Months Ended": "21,673.71",
-            "col_6": "18,512.89",
-            "Year Ended": "37,289.93"
-          },
-          {
-            "Particulars": "3. Profit Before Share of Proflt/(loss) of Associate and Joint Ventures, Exceptional Item and Tax(1·2)",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(39.52)",
-            "col_3": "28.88",
-            "col_4": "105.32",
-            "Six Months Ended": "(10.64)",
-            "col_6": "227.68",
-            "Year Ended": "176.54"
-          },
-          {
-            "Particulars": "4. ExcepUonal Items (Refer Note 3)",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "",
-            "col_3": "",
-            "col_4": "",
-            "Six Months Ended": "",
-            "col_6": "",
-            "Year Ended": "4.65"
-          },
-          {
-            "Particulars": "5. Share of Profrt /(loss) of Associate/ Joint Ventures. (after tax)",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "1.16",
-            "col_3": "(0.05",
-            "col_4": "2.46",
-            "Six Months Ended": "1.11",
-            "col_6": "2.34",
-            "Year Ended": "6.26"
-          },
-          {
-            "Particulars": "6. Profit/(loss) before Tax (3-4+5)",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(38.36)",
-            "col_3": "28.83",
-            "col_4": "107.80",
-            "Six Months Ended": "(9.53)",
-            "col_6": "230.02",
-            "Year Ended": "178.15"
-          },
-          {
-            "Particulars": "7. Tax expense a. CurrenI Ta x b. Deferred Tax c. Previous Vear Tax Adiuslments",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(2.88) 1.92 (4.80)",
-            "col_3": "15,06 18.07 (3.01)",
-            "col_4": "33,83 (13.17) 43.33 3.67",
-            "Six Months Ended": "12.18 1°9.99 (7.81)",
-            "col_6": "82.82 19.60 59.63 3.59",
-            "Year Ended": "54.62 71.85 35.82 (53.05)"
-          },
-          {
-            "Particulars": "8. Net Profit/(Loss) for the period I year after Tax (6-7) 9. Other Comprehensive Income I (Loss) Items that will not be reclassified 1o profrt or toss Income Tax relating 1o items not reclassified to profit or loss 10. Total Other Comprehensive Income I (Loss)",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(35.48)",
-            "col_3": "13.77",
-            "col_4": "73.97",
-            "Six Months Ended": "(21.71)",
-            "col_6": "147.20",
-            "Year Ended": "123.53"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "6.68 (1.68\\",
-            "col_3": "(0.56) 0.14",
-            "col_4": "(1.17) 0.31",
-            "Six Months Ended": "6.12 (1.54)",
-            "col_6": "(1.28) 0.32",
-            "Year Ended": "0.13 (0.03)"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "• 5.00",
-            "col_3": "10,42)",
-            "col_4": "(0.86)",
-            "Six Months Ended": "4.58",
-            "col_6": "(0.96)",
-            "Year Ended": "0.10"
-          },
-          {
-            "Particulars": "11. Total Comprehensive Income/ (Loss) (8+10) 12. Profit/(loss) attributable to: • Equity Holders of tt,e Parent • Non Controlling Interests",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(30.48)",
-            "col_3": "13.35",
-            "col_4": "73.11",
-            "Six Months Ended": "(17.13",
-            "col_6": "146.24",
-            "Year Ended": "123,63"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(9.28) (26.20)",
-            "col_3": "23.22 f9.45)",
-            "col_4": "92.06 (18.09)",
-            "Six Months Ended": "13.94 (35.65)",
-            "col_6": "197.67 (50.47)",
-            "Year Ended": "157.56 (34.03)"
-          },
-          {
-            "Particulars": "13, Other comprehensive Income I (Loss) attributable to: • Equity Holders of the Parent • Non Controllirig Interests",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "4.00 (0.66) 1.00 0.24",
-            "col_3": "",
-            "col_4": "0.51 (1.37)",
-            "Six Months Ended": "3.34 1.24",
-            "col_6": "0.35 (1.311",
-            "Year Ended": "(1.50) 1.60"
-          },
-          {
-            "Particulars": "14. Total Comprehensive Income I (loss) attributable to: • Equity Holders of the Parent -Non Controlling Interests",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(5.28) (25.20)",
-            "col_3": "22.56 f9.21'",
-            "col_4": "92.57 (19.46)",
-            "Six Months Ended": "17.28 (34.41)",
-            "col_6": "19802 (5178'",
-            "Year Ended": "156.06 (32.43)"
-          },
-          {
-            "Particulars": "15. Paid-Up Equity Share Capijal (Face Value Rs.10I-) 16. Other Equity",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "1,124.63",
-            "col_3": "1,124.63",
-            "col_4": "1,124.63",
-            "Six Months Ended": "1,124.63",
-            "col_6": "1,124.63",
-            "Year Ended": "1,124.63"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "",
-            "col_3": "",
-            "col_4": "",
-            "Six Months Ended": "",
-            "col_6": "",
-            "Year Ended": "10,338.55"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended September 30, June 30, September 30, 2026 2026 2025": "(0.08",
-            "col_3": ") 0.21",
-            "col_4": "0.82",
-            "Six Months Ended": "0.13",
-            "col_6": "1.76",
-            "Year Ended": "1.40"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "As at",
-            "col_3": ""
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "",
-            "col_3": "March 31, 2026"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "Unaudited",
-            "col_3": "Audited"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "20,316.58 690.87 856.99 2,212.09 3.06 103.05 33.03 222.75 357.76 1,139.84",
-            "col_3": "19,367.32 662.52 856.99 1,984.90 113.86 33.03 496.10 352.58 1,071.50"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "25,936.02",
-            "col_3": "24,938.80"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "341.53 14,043.58 196.43 634.33 41.77 524.53 2,185.40",
-            "col_3": "282.20 5,454.73 309.62 363.49 46.02 353.55 1,007.08"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "17,967.57",
-            "col_3": "7,816.69"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "43,903.59",
-            "col_3": "32,755.49"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "1,124.63 10,138.31",
-            "col_3": "1,124.63 10,338.55"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "11,262.94 1,171.02",
-            "col_3": "11,463.18 1,209.89"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "12,433.96",
-            "col_3": "12,673.07"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "354.64 3,208.43 222.62 850.15 77.67",
-            "col_3": "696.72 2,536.58 213.04 851.24 78.00"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "4,713.51",
-            "col_3": "4,375.58"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "1,607.80 308.99 104.52 17,938.11 3,014.83 3,746.54 23.02 12.31",
-            "col_3": "1,576.24 210.92 118.95 7,867.40 2,317.19 3,559.92 24.21 32.01"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "26,756.12",
-            "col_3": "15,706.84"
-          },
-          {
-            "CONSOLIDATED UNAUDITED BALANCE SHEET (Rs. In Million)": "",
-            "col_2": "43,903.59",
-            "col_3": "32,755.49"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 23,
-        "rows": [
-          {
-            "Segments": "",
-            "Quarter Endtd": "September JO, 2026",
-            "col_3": "June 30, 2026",
-            "col_4": "Soptember JO, 2025",
-            "Six Months Ended": "September JO, 2026",
-            "col_6": "September JO, 2025",
-            "Year Ended": "llan:h 31, 2026"
-          },
-          {
-            "Segments": "",
-            "Quarter Endtd": "Unaud\"rltd",
-            "col_3": "Unamfrted",
-            "col_4": "Unaud\"rted",
-            "Six Months Ended": "Unaudited",
-            "col_6": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Segments": "Segment Revenue",
-            "Quarter Endtd": "",
-            "col_3": "",
-            "col_4": "",
-            "Six Months Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Segments": "Cable TV Business",
-            "Quarter Endtd": "9,625.95",
-            "col_3": "8,573.78",
-            "col_4": "8,026.44",
-            "Six Months Ended": "18,399.73",
-            "col_6": "15,503.08",
-            "Year Ended": "30,798.66"
-          },
-          {
-            "Segments": "Internet Service",
-            "Quarter Endtd": "t,464.65",
-            "col_3": "1,431.97",
-            "col_4": "1,401.14",
-            "Six Months Ended": "2,896.62",
-            "col_6": "2,768.80",
-            "Year Ended": "5,611.50"
-          },
-          {
-            "Segments": "Projects (lnc\"dina O&M)",
-            "Quarter Endtd": "196.55",
-            "col_3": "205.18",
-            "col_4": "198.00",
-            "Six Months Ended": "401.73",
-            "col_6": "439.00",
-            "Year Ended": "955.31"
-          },
-          {
-            "Segments": "Less: Inlet SeamentRevenue",
-            "Quarter Endtd": "15660'",
-            "col_3": "(56.86'",
-            "col_4": "(35.05)",
-            "Six Months Ended": "(113.46)",
-            "col_6": "(83.36",
-            "Year Ended": "(173.30)"
-          },
-          {
-            "Segments": "Total St11ment Rev,nue (Rev1nu1 from OperationI",
-            "Quarter Endtd": "11,'30.55",
-            "col_3": "10,15..07",
-            "col_4": "9,590.53",
-            "Six Months Ended": "21,534.62",
-            "col_6": "11,627.52",
-            "Year Ended": "37,192.17"
-          },
-          {
-            "Segments": "Segment Rosult",
-            "Quarter Endtd": "",
-            "col_3": "",
-            "col_4": "",
-            "Six Months Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Segments": "Cable TV Business",
-            "Quarter Endtd": "(91 06)",
-            "col_3": "(47.48)",
-            "col_4": "6.98",
-            "Six Months Ended": "(138.54)",
-            "col_6": "(43.19)",
-            "Year Ended": "(318.34)"
-          },
-          {
-            "Segments": "Internet Service",
-            "Quarter Endtd": "1468",
-            "col_3": "35,22",
-            "col_4": "53.30",
-            "Six Months Ended": "49.W",
-            "col_6": "179.32",
-            "Year Ended": "287.94"
-          },
-          {
-            "Segments": "Pmiects (lnclldilg O&M)",
-            "Quarter Endtd": "3802",
-            "col_3": "4109",
-            "col_4": "37.52",
-            "Six Months Ended": "79.11",
-            "col_6": "93.89",
-            "Year Ended": "208.55"
-          },
-          {
-            "Segments": "Tot.al Sogmtnt Result (PBT)",
-            "Quarter Endtd": "1n.m",
-            "col_3": "2UJ",
-            "col_4": "101.10",
-            "Six Months Ended": "(9,531",
-            "col_6": "230.02",
-            "Year Ended": "171.15"
-          },
-          {
-            "Segments": "Segment Assets",
-            "Quarter Endtd": "",
-            "col_3": "",
-            "col_4": "",
-            "Six Months Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Segments": "Cable TV Business",
-            "Quarter Endtd": "33,74321",
-            "col_3": "27,519.13",
-            "col_4": "27,789.27",
-            "Six Months Ended": "33,743.21",
-            "col_6": "27,789.27",
-            "Year Ended": "22,840.68"
-          },
-          {
-            "Segments": "Internet Sel'lice",
-            "Quarter Endtd": "9,041.10",
-            "col_3": "8,889.76",
-            "col_4": "9,161.26",
-            "Six Months Ended": "9,041.10",
-            "col_6": "9,161.26",
-            "Year Ended": "8,920.73"
-          },
-          {
-            "Segments": "il'rnwlt flnclJding O&M)",
-            "Quarter Endtd": "1,119 21",
-            "col_3": "1,21166",
-            "col_4": "1,029.12",
-            "Six Months Ended": "1,119.28",
-            "col_6": "1,029.12",
-            "Year Ended": "994.08"
-          },
-          {
-            "Segments": "Total StamtntAsse1$",
-            "Quarter Endtd": "4J,90U9",
-            "col_3": "J7,620.55",
-            "col_4": "37,979.65",
-            "Six Months Ended": "43,903.59",
-            "col_6": "37,979.65",
-            "Year Ended": "32,755.49"
-          },
-          {
-            "Segments": "Segmtnt Lllhllities",
-            "Quarter Endtd": "",
-            "col_3": "",
-            "col_4": "",
-            "Six Months Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Segments": "Cable 1V Business",
-            "Quarter Endtd": "26,427.59",
-            "col_3": "20,184.17",
-            "col_4": "20,410.79",
-            "Six Months Ended": "26,427.59",
-            "col_6": "20,410.79",
-            "Year Ended": "15,389.55"
-          },
-          {
-            "Segments": "lntsmet Setvlce",
-            "Quarter Endtd": "4,380.69",
-            "col_3": "4,141.76",
-            "col_4": "4,153.49",
-            "Six Months Ended": "4,360.69",
-            "col_6": "4,153.49",
-            "Year Ended": "3,974.69"
-          },
-          {
-            "Segments": "Prqacls (lnc.,d\"l'III O&Ul",
-            "Quarter Endtd": "66135",
-            "col_3": "610.53",
-            "col_4": "677.89",
-            "Six Months Ended": "661.35",
-            "col_6": "677.!9",
-            "Year Ended": "718.17"
-          },
-          {
-            "Segments": "To !AI Stamen! Liabilities",
-            "Quarter Endtd": "31,469.13",
-            "col_3": "24,931.53",
-            "col_4": "2.5,242.17",
-            "Six Months Ended": "31,469.63",
-            "col_6": "25,242.17",
-            "Year Ended": "20,082.42"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "September 30 1 2026",
-            "col_3": "June 30 1 • 2026",
-            "col_4": "Septeflmer 30, 2025",
-            "Six Mont": "September 30, 2026",
-            "hs Ended": "September 30, 2025",
-            "Toartnded": "llarch 31, 202,"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_3": "Unaud\"rted",
-            "col_4": "Unaudited",
-            "Six Mont": "Unaudited",
-            "hs Ended": "Unaudited",
-            "Toartnded": "Audited"
-          },
-          {
-            "Particulars": "Revenue from Operations",
-            "Quarter Ended": "7,975.74",
-            "col_3": "6.877.25",
-            "col_4": "6,358.06",
-            "Six Mont": "14.852.99",
-            "hs Ended": "12,304.85",
-            "Toartnded": "24,507.81"
-          },
-          {
-            "Particulars": "ProfiV(Lossl before Tax",
-            "Quarter Ended": "(18.05)",
-            "col_3": "27.61",
-            "col_4": "73,02",
-            "Six Mont": "9.56",
-            "hs Ended": "150.59",
-            "Toartnded": "84.09"
-          },
-          {
-            "Particulars": "Net Pro6tl(Lo<SI aft..-Tax",
-            "Quarter Ended": "(13.47)",
-            "col_3": "20.12",
-            "col_4": "52.49",
-            "Six Mont": "6.65",
-            "hs Ended": "108,74",
-            "Toartnded": "58.82"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "ece8c44a-d456-42b0-8d93-ef1ec0a02e0c",
-    "SCRIP_CD": 543921,
-    "XML_NAME": "ANN_543921_ECE8C44A-D456-42B0-8D93-EF1EC0A02E0C",
-    "NEWSSUB": "Comrade Appliances Ltd - 543921 - Announcement under Regulation 30 (LODR)-Issue of Securities",
-    "DT_TM": "2026-10-13T19:23:01.607",
-    "NEWS_DT": "2026-10-13T19:23:01.607",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b2ab8e03-aa63-450f-b7cc-c76ac51091bb.pdf",
-    "MORE": "",
-    "HEADLINE": "Announcemen under Regulation 30 (LODR).",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/comrade-appliances-ltd/comrade/543921/",
-    "SLONGNAME": "Comrade Appliances Ltd",
-    "AGENDA_ID": 132,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-10-13T19:23:01",
-    "DissemDT": "2026-10-13T19:23:01.607",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 498006,
-    "SUBCATNAME": "Issue of Securities",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "8c36a12d-c725-446b-a611-4806bb0aebd8",
-    "SCRIP_CD": 512408,
-    "XML_NAME": "ANN_512408_8C36A12D-C725-446B-A611-4806BB0AEBD8",
-    "NEWSSUB": "Uniworth Securities Ltd - 512408 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "DT_TM": "2026-10-13T19:21:29.383",
-    "NEWS_DT": "2026-10-13T19:21:29.383",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "49ae0dd7-92db-4352-805c-87951ee47436.pdf",
-    "MORE": "",
-    "HEADLINE": "Certificate 74(5)",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/uniworth-securities-ltd/uniwsec/512408/",
-    "SLONGNAME": "Uniworth Securities Ltd",
-    "AGENDA_ID": 212,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-10-13T19:21:29",
-    "DissemDT": "2026-10-13T19:21:29.383",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 181453,
-    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Compliance filing:** On 9 Oct 2026, Indoworth Holdings Ltd (formerly Uniworth Securities Ltd) submitted a Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30 Sep 2026, confirming receipt of the regulator‑required confirmation from its registrar, C B Management Services (P) Ltd.  \n\n- **No dematerialisation activity:** A separate confirmation from MUFG Intime India Private Ltd (dated 5 Oct 2026) states that **no securities were received from any depository participant for dematerialisation",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "edc3b83c-52fb-405b-a084-6a4b04785b36",
-    "SCRIP_CD": 539787,
-    "XML_NAME": "ANN_539787_EDC3B83C-52FB-405B-A084-6A4B04785B36",
-    "NEWSSUB": "HealthCare Global Enterprises Ltd - 539787 - Board Meeting Intimation for Consideration And Approval Of Unaudited Financial Results (Both Standalone And Consolidated) Of The Company For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-10-13T19:21:13.93",
-    "NEWS_DT": "2026-10-13T19:21:13.93",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "aa33968c-0607-4fb6-bb42-c7a153264fe9.pdf",
-    "MORE": "Healthcare Global Enterprises Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve inter-alia the Unaudited Financial Results (both Standalone and Consolidated) of the Company for the quarter and half year ended September 30, 2026",
-    "HEADLINE": "Healthcare Global Enterprises Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve inter-alia the ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/healthcare-global-enterprises-ltd/hcg/539787/",
-    "SLONGNAME": "HealthCare Global Enterprises Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-10-13T19:21:13",
-    "DissemDT": "2026-10-13T19:21:13.93",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 286391,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors of HealthCare Global Enterprises Ltd will meet on **Thursday, 5 November 2026** to consider and approve the **unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 September 2026**.  \n\n- In line with SEBI insider‑trading rules, the **trading window for all Designated Persons and their immediate relatives is closed from 1 October 2026** and will remain closed **until 48 hours after the financial results are announced**.  \n\n*No specific financial figures or performance numbers are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
   }
 ]
