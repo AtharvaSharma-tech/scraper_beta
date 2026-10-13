@@ -9,7 +9,7 @@ from curl_cffi import requests as cffi_requests
 from summarizer import summarize
 
 DATA_FILE = "data/announcements.json"
-MAX_PER_RUN = 10
+MAX_PER_RUN = 25
 IST = timezone(timedelta(hours=5, minutes=30))
 
 # Core financial statement indicators
