@@ -257,7 +257,7 @@ def save(existing):
     existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(existing, f, indent=2, ensure_ascii=False)
+        json.dump(existing[:100], f, indent=2, ensure_ascii=False)
 
 
 def run_once():
