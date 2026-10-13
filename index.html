@@ -3,174 +3,354 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BSE ANNOUNCEMENT SUMMARISER</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <title>BSE Market Radar & Corporate Filings Intelligence</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     :root {
-      --bg: #0a0f0c;
-      --surface: #121a15;
-      --surface-hover: #172119;
-      --border: #24332a;
-      --text: #f1f5f2;
-      --text-soft: #b6c4bb;
-      --green: #4ade80;
-      --accent: #38bdf8;
+      --bg: #090d0b;
+      --surface: #101713;
+      --surface-hover: #152019;
+      --surface-card: #131c16;
+      --border: #1f2e24;
+      --border-accent: #2d4536;
+      --text: #f0fdf4;
+      --text-muted: #8da496;
+      --green: #22c55e;
+      --green-light: #4ade80;
+      --green-glow: rgba(34, 197, 94, 0.15);
+      --amber: #f59e0b;
+      --blue: #38bdf8;
+      --purple: #c084fc;
+      --font-mono: 'JetBrains Mono', monospace;
     }
-    * { box-sizing: border-box; }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      font-family: 'Inter', system-ui, sans-serif;
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
       background: var(--bg);
       color: var(--text);
-      margin: 0;
-      padding: 3rem 1.25rem 4rem;
       line-height: 1.6;
+      padding: 2.5rem 1rem 5rem;
+      min-height: 100vh;
       -webkit-font-smoothing: antialiased;
     }
- 
-    h1 {
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    header {
       text-align: center;
-      font-size: clamp(1.6rem, 4vw, 2.2rem);
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      margin: 0 0 2rem;
-      animation: fade 0.6s ease both;
+      margin-bottom: 2rem;
     }
-    h1::after {
-      content: "";
-      display: block;
-      width: 48px;
-      height: 3px;
-      background: var(--green);
-      border-radius: 2px;
-      margin: 0.75rem auto 0;
-      animation: grow 0.7s 0.2s cubic-bezier(.2,.8,.2,1) both;
-    }
- 
-    .container { max-width: 840px; margin: 0 auto; }
-    .column { animation: fade 0.6s 0.1s ease both; }
-    .col-title {
-      font-size: 1.1rem;
-      font-weight: 600;
-      padding-bottom: 0.75rem;
-      margin-bottom: 1.25rem;
-      border-bottom: 1px solid var(--border);
-    }
-    #ai-feed { color: var(--text-soft); }
- 
-    .card {
-      position: relative;
+    .brand-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.25rem 1.4rem;
-      margin-bottom: 1.25rem;
-      overflow: hidden;
-      opacity: 0;
-      animation: rise 0.55s cubic-bezier(.2,.8,.2,1) forwards;
-      animation-delay: calc(var(--i, 0) * 60ms);
-      transition: transform 0.25s ease, background 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+      color: var(--green);
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.25rem 0.75rem;
+      border-radius: 9999px;
+      margin-bottom: 0.75rem;
     }
-    .card::before {
-      content: "";
-      position: absolute;
-      left: 0; top: 0; bottom: 0;
-      width: 4px;
+    .pulse-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
       background: var(--green);
-      transform: scaleY(0.35);
-      transform-origin: top;
-      transition: transform 0.3s ease;
+      box-shadow: 0 0 10px var(--green);
+      animation: pulse 2s infinite;
     }
-    .card:hover, .card:focus-visible {
-      background: var(--surface-hover);
-      border-color: #35503f;
-      transform: translateY(-3px);
-      box-shadow: 0 10px 24px rgba(0, 0, 0, 0.4);
+    h1 {
+      font-size: clamp(1.8rem, 4vw, 2.6rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: #fff;
     }
-    .card:hover::before, .card:focus-visible::before { transform: scaleY(1); }
-    .card:active { transform: translateY(-1px) scale(0.995); }
-    .card:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
- 
-    .company { font-weight: 700; color: var(--green); font-size: 1.1rem; }
-    .headline { font-size: 0.85rem; color: var(--text-soft); margin-top: 0.2rem; }
-    .summary-text {
+    .subtitle {
+      color: var(--text-muted);
       font-size: 0.95rem;
-      color: var(--text-soft);
-      margin-top: 0.6rem;
-      border-top: 1px solid var(--border);
-      padding-top: 0.6rem;
+      margin-top: 0.35rem;
     }
-    .summary-text > :first-child { margin-top: 0; }
-    .summary-text > :last-child { margin-bottom: 0; }
-    .summary-text strong { color: var(--text); }
-    .summary-text a { color: var(--green); }
-    .summary-text ul, .summary-text ol { padding-left: 1.2rem; }
-    .summary-text li { margin: 0.25rem 0; }
 
-    /* Financial Section Styling */
-    .financial-section {
-      margin-top: 0.9rem;
-      padding-top: 0.75rem;
-      border-top: 1px dashed var(--border);
+    /* Stats Overview Bar */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
     }
-    .financial-title {
-      font-size: 0.85rem;
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.85rem 1rem;
+      display: flex;
+      flex-direction: column;
+    }
+    .stat-title {
+      font-size: 0.72rem;
       font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.05em;
-      color: var(--green);
-      margin-bottom: 0.5rem;
+      color: var(--text-muted);
+    }
+    .stat-val {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: #fff;
+      font-family: var(--font-mono);
+      margin-top: 0.15rem;
+    }
+
+    /* Controls: Search and Filter Pills */
+    .controls-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+    }
+    .search-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .search-icon {
+      position: absolute;
+      left: 1rem;
+      color: var(--text-muted);
+      width: 16px;
+      height: 16px;
+      pointer-events: none;
+    }
+    .search-input {
+      width: 100%;
+      background: #0b110e;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.65rem 1rem 0.65rem 2.4rem;
+      color: var(--text);
+      font-size: 0.9rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .search-input:focus {
+      border-color: var(--green);
+      box-shadow: 0 0 0 3px var(--green-glow);
+    }
+    .filter-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+    .pill {
+      background: #0b110e;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 0.35rem 0.75rem;
+      border-radius: 6px;
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s;
+    }
+    .pill:hover {
+      border-color: var(--border-accent);
+      color: var(--text);
+    }
+    .pill.active {
+      background: var(--green);
+      border-color: var(--green);
+      color: #04120a;
+    }
+
+    /* Feed & Announcement Cards */
+    .feed-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .feed-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+    }
+    .feed-count {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+    }
+
+    .card {
+      position: relative;
+      background: var(--surface-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.35rem 1.45rem;
+      margin-bottom: 1.25rem;
+      transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s, background 0.2s;
+    }
+    .card:hover {
+      background: var(--surface-hover);
+      border-color: var(--border-accent);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    }
+
+    /* Card Header */
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 0.4rem;
+    }
+    .company-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+    }
+    .meta-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      align-items: center;
+    }
+    .scrip-badge {
+      background: #090e0b;
+      border: 1px solid var(--border);
+      color: var(--green-light);
+      font-size: 0.7rem;
+      font-weight: 700;
+      font-family: var(--font-mono);
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+    }
+    .cat-badge {
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.25);
+      color: var(--blue);
+      font-size: 0.7rem;
+      font-weight: 600;
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+    }
+    .time-badge {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      white-space: nowrap;
+    }
+
+    .headline {
+      font-size: 0.88rem;
+      color: #cbd5e1;
+      margin-bottom: 0.75rem;
+    }
+
+    /* AI Summary */
+    .summary-box {
+      background: #0c130f;
+      border-left: 3px solid var(--green);
+      border-radius: 0 6px 6px 0;
+      padding: 0.75rem 1rem;
+      font-size: 0.92rem;
+      color: #e2e8f0;
+      margin-bottom: 0.85rem;
+    }
+    .summary-box strong { color: #fff; }
+    .summary-box ul, .summary-box ol { padding-left: 1.2rem; }
+    .summary-box li { margin-bottom: 0.3rem; }
+
+    /* Financial Metrics Grid */
+    .financial-section {
+      background: #0c120f;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.85rem 1rem;
+      margin-top: 0.85rem;
+      margin-bottom: 0.85rem;
+    }
+    .fin-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 0.6rem;
+    }
+    .fin-title {
+      font-size: 0.76rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--green-light);
       display: flex;
       align-items: center;
       gap: 0.4rem;
     }
+    .fin-unit {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+    }
     .metrics-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       gap: 0.5rem;
-      margin-bottom: 0.75rem;
     }
     .metric-badge {
-      background: rgba(74, 222, 128, 0.08);
-      border: 1px solid rgba(74, 222, 128, 0.2);
+      background: var(--surface);
+      border: 1px solid var(--border);
       border-radius: 6px;
       padding: 0.4rem 0.6rem;
     }
-    .metric-label {
-      font-size: 0.72rem;
-      color: var(--text-soft);
+    .metric-key {
+      font-size: 0.68rem;
       text-transform: capitalize;
+      color: var(--text-muted);
     }
     .metric-val {
-      font-size: 0.95rem;
+      font-size: 0.98rem;
       font-weight: 700;
-      color: var(--text);
+      color: #fff;
+      font-family: var(--font-mono);
     }
 
-    /* Financial Table Styling */
+    /* Financial Tables */
     details.table-details {
-      margin-top: 0.5rem;
-      background: #0f1511;
+      margin-top: 0.6rem;
+      background: #090e0b;
       border: 1px solid var(--border);
       border-radius: 6px;
       padding: 0.4rem 0.6rem;
     }
     details.table-details summary {
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 600;
       cursor: pointer;
-      color: var(--text-soft);
+      color: var(--green-light);
       outline: none;
-      user-select: none;
-    }
-    details.table-details summary:hover {
-      color: var(--green);
     }
     .table-wrapper {
       overflow-x: auto;
       margin-top: 0.5rem;
-      max-height: 240px;
-      overflow-y: auto;
+      max-height: 250px;
     }
     table.fin-table {
       width: 100%;
@@ -179,80 +359,147 @@
       text-align: left;
     }
     table.fin-table th, table.fin-table td {
-      padding: 0.4rem 0.5rem;
+      padding: 0.4rem 0.6rem;
       border: 1px solid var(--border);
       white-space: nowrap;
     }
     table.fin-table th {
-      background: #172119;
+      background: #141f17;
       color: var(--green);
       position: sticky;
       top: 0;
     }
-    table.fin-table tr:nth-child(even) {
-      background: rgba(255, 255, 255, 0.02);
+
+    /* Actions */
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 0.9rem;
+      padding-top: 0.75rem;
+      border-top: 1px solid rgba(31, 46, 36, 0.6);
     }
- 
-    .pdf-btn {
+    .pdf-link {
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
-      margin-top: 0.9rem;
-      padding: 0.45rem 0.85rem;
-      border-radius: 8px;
-      background: var(--green);
-      color: #04120a;
+      color: var(--green);
       font-size: 0.82rem;
       font-weight: 600;
       text-decoration: none;
-      transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+      transition: color 0.2s;
     }
-    .pdf-btn svg { width: 14px; height: 14px; transition: transform 0.2s ease; }
-    .pdf-btn:hover { background: #86efac; transform: translateY(-1px); box-shadow: 0 6px 16px rgba(74, 222, 128, 0.25); }
-    .pdf-btn:hover svg { transform: translate(2px, -2px); }
-    .pdf-btn:active { transform: scale(0.97); }
-    .pdf-btn:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
- 
-    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
-    @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
-    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
- 
-    @media (prefers-reduced-motion: reduce) {
-      * { animation: none !important; transition: none !important; }
-      .card { opacity: 1; }
+    .pdf-link:hover { color: #86efac; text-decoration: underline; }
+    .pdf-link svg { width: 14px; height: 14px; }
+
+    .bse-link {
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      text-decoration: none;
+    }
+    .bse-link:hover { color: var(--text); }
+
+    /* Animations */
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.9); }
     }
   </style>
 </head>
 <body>
- 
-  <h1>BSE ANNOUNCEMENTS SUMMARISER</h1>
- 
+
   <div class="container">
-    <div class="column">
-      <div class="col-title">Live Announcements & Financial Insights</div>
-      <div id="ai-feed">Loading announcements...</div>
+    <header>
+      <div class="brand-tag">
+        <span class="pulse-dot"></span> Live BSE Radar
+      </div>
+      <h1>BSE ANNOUNCEMENTS INTELLIGENCE</h1>
+      <p class="subtitle">AI-synthesized filings with automated financial extraction & table detection</p>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="stats-bar">
+      <div class="stat-card">
+        <span class="stat-title">Tracked Filings</span>
+        <span class="stat-val" id="stat-total">0</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-title">Financial Data Extracted</span>
+        <span class="stat-val" id="stat-financials">0</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-title">Last Sync</span>
+        <span class="stat-val" id="stat-sync" style="font-size: 1rem; margin-top: 0.4rem;">Just now</span>
+      </div>
     </div>
+
+    <!-- Controls Panel -->
+    <div class="controls-panel">
+      <div class="search-wrapper">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="search-input" class="search-input" placeholder="Search by company name, scrip code, headline, or keywords...">
+      </div>
+
+      <div class="filter-pills" id="filter-container">
+        <button class="pill active" data-filter="all">All Filings</button>
+        <button class="pill" data-filter="financials">📊 Has Financial Data</button>
+        <button class="pill" data-filter="Board Meeting">Board Meetings</button>
+        <button class="pill" data-filter="Company Update">Company Updates</button>
+        <button class="pill" data-filter="AGM/EGM">AGM / EGM</button>
+        <button class="pill" data-filter="Corp Action">Corporate Actions</button>
+      </div>
+    </div>
+
+    <!-- Announcements Feed -->
+    <div class="feed-header">
+      <div class="feed-title">Latest Announcements</div>
+      <div class="feed-count" id="results-count">Showing 0 filings</div>
+    </div>
+
+    <div id="feed-container">Loading announcements...</div>
   </div>
- 
+
   <script>
-    // Try local data first, fallback to remote repo
+    let allAnnouncements = [];
+    let currentFilter = 'all';
+    let searchQuery = '';
+
     const DATA_URLS = [
       'data/announcements.json',
       'https://raw.githubusercontent.com/AtharvaSharma-tech/scraper_beta/main/data/announcements.json'
     ];
 
-    async function loadData() {
+    async function fetchData() {
       for (const url of DATA_URLS) {
         try {
           const res = await fetch(url);
-          if (res.ok) {
-            return await res.json();
-          }
-        } catch (e) {
-          // continue fallback
-        }
+          if (res.ok) return await res.json();
+        } catch (e) {}
       }
-      throw new Error('Failed to load data');
+      throw new Error('Failed to load announcements');
+    }
+
+    function escapeHtml(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function formatDate(dtStr) {
+      if (!dtStr) return '';
+      try {
+        const d = new Date(dtStr);
+        return d.toLocaleDateString('en-IN', {
+          day: '2-digit', month: 'short', year: 'numeric',
+          hour: '2-digit', minute: '2-digit'
+        });
+      } catch (e) {
+        return dtStr;
+      }
     }
 
     function renderTable(tableObj) {
@@ -274,88 +521,162 @@
       `;
     }
 
-    function escapeHtml(str) {
-      return String(str)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;');
+    function updateStats(data) {
+      document.getElementById('stat-total').textContent = data.length;
+      const finCount = data.filter(item => 
+        (item.key_metrics && Object.keys(item.key_metrics).length > 0) ||
+        (item.financial_tables && item.financial_tables.length > 0)
+      ).length;
+      document.getElementById('stat-financials').textContent = finCount;
+      if (data.length && data[0].NEWS_DT) {
+        document.getElementById('stat-sync').textContent = formatDate(data[0].NEWS_DT).split(',')[0];
+      }
     }
 
-    loadData()
-      .then(data => {
-        const aiContainer = document.getElementById('ai-feed');
- 
-        if (!data || !data.length) {
-          aiContainer.innerHTML = 'No announcements found.';
-          return;
+    function renderFeed() {
+      const container = document.getElementById('feed-container');
+
+      // Filter and search logic
+      const filtered = allAnnouncements.filter(item => {
+        // Category / financial filter
+        if (currentFilter === 'financials') {
+          const hasMetrics = item.key_metrics && Object.keys(item.key_metrics).length > 0;
+          const hasTables = item.financial_tables && item.financial_tables.length > 0;
+          if (!hasMetrics && !hasTables) return false;
+        } else if (currentFilter !== 'all') {
+          const cat = (item.CATEGORYNAME || '').trim();
+          if (cat !== currentFilter) return false;
         }
- 
-        aiContainer.innerHTML = data.map(item => {
-          const parsedSummary = item.summary ? marked.parse(item.summary) : 'No summary available.';
-          const pdfUrl = item.ATTACHMENTNAME ? `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${item.ATTACHMENTNAME}` : '';
-          const pdfBtn = pdfUrl ? `
-              <a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn">View original PDF
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M8 7h9v9"/></svg>
-              </a>` : '';
 
-          // Format Key Metrics
-          let financialHtml = '';
-          const metrics = item.key_metrics || {};
-          const metricKeys = Object.keys(metrics);
-          const hasMetrics = metricKeys.length > 0;
-          const tables = item.financial_tables || [];
-          const hasTables = tables.length > 0;
+        // Search query filter
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          const target = [
+            item.SLONGNAME,
+            String(item.SCRIP_CD),
+            item.NEWSSUB,
+            item.summary,
+            item.CATEGORYNAME
+          ].filter(Boolean).join(' ').toLowerCase();
 
-          if (hasMetrics || hasTables) {
-            let metricsBadges = '';
-            if (hasMetrics) {
-              metricsBadges = `<div class="metrics-grid">` +
-                metricKeys.map(k => `
-                  <div class="metric-badge">
-                    <div class="metric-label">${escapeHtml(k.replace('_', ' '))}</div>
-                    <div class="metric-val">${escapeHtml(metrics[k])}</div>
-                  </div>
-                `).join('') + `</div>`;
-            }
+          if (!target.includes(q)) return false;
+        }
 
-            let tablesHtml = '';
-            if (hasTables) {
-              tablesHtml = tables.map((t, idx) => `
-                <details class="table-details">
-                  <summary>📊 Financial Table (Page ${t.page}, Table ${t.table_index + 1})</summary>
-                  ${renderTable(t)}
-                </details>
-              `).join('');
-            }
+        return true;
+      });
 
-            financialHtml = `
-              <div class="financial-section">
-                <div class="financial-title">📈 Financial Extraction</div>
-                ${metricsBadges}
-                ${tablesHtml}
+      document.getElementById('results-count').textContent = `Showing ${filtered.length} of ${allAnnouncements.length} filings`;
+
+      if (!filtered.length) {
+        container.innerHTML = `<div style="text-align: center; padding: 3rem; color: var(--text-muted);">No filings match your criteria.</div>`;
+        return;
+      }
+
+      container.innerHTML = filtered.map(item => {
+        const summaryHtml = item.summary ? marked.parse(item.summary) : '<p>No summary available.</p>';
+        const pdfUrl = item.ATTACHMENTNAME ? `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${item.ATTACHMENTNAME}` : '';
+        const bseUrl = item.NSURL || (item.SCRIP_CD ? `https://www.bseindia.com/stock-share-price/scrip/${item.SCRIP_CD}/` : '');
+
+        // Financial extraction card
+        let finHtml = '';
+        const metrics = item.key_metrics || {};
+        const metricKeys = Object.keys(metrics).filter(k => k !== 'currency_unit');
+        const tables = item.financial_tables || [];
+        const hasFin = metricKeys.length > 0 || tables.length > 0;
+
+        if (hasFin) {
+          const unitBadge = metrics.currency_unit ? `<span class="fin-unit">Unit: ${escapeHtml(metrics.currency_unit)}</span>` : '';
+          const metricsBadges = metricKeys.map(k => `
+            <div class="metric-badge">
+              <div class="metric-key">${escapeHtml(k.replace('_', ' '))}</div>
+              <div class="metric-val">${escapeHtml(metrics[k])}</div>
+            </div>
+          `).join('');
+
+          const tablesHtml = tables.map((t, idx) => `
+            <details class="table-details">
+              <summary>📊 Financial Table (Page ${t.page}, Table ${t.table_index + 1})</summary>
+              ${renderTable(t)}
+            </details>
+          `).join('');
+
+          finHtml = `
+            <div class="financial-section">
+              <div class="fin-header">
+                <span class="fin-title">📈 Financial Extraction</span>
+                ${unitBadge}
               </div>
-            `;
-          }
-
-          return `
-            <div class="card">
-              <div class="company">${escapeHtml(item.SLONGNAME || 'Company')}</div>
-              ${item.NEWSSUB ? `<div class="headline">${escapeHtml(item.NEWSSUB)}</div>` : ''}
-              <div class="summary-text">${parsedSummary}</div>
-              ${financialHtml}
-              ${pdfBtn}
+              ${metricKeys.length ? `<div class="metrics-grid">${metricsBadges}</div>` : ''}
+              ${tablesHtml}
             </div>
           `;
-        }).join('');
- 
-        aiContainer.querySelectorAll('.card').forEach((card, i) => {
-          card.style.setProperty('--i', Math.min(i, 12));
-          card.tabIndex = 0;
-        });
+        }
+
+        return `
+          <div class="card">
+            <div class="card-top">
+              <div class="company-title">${escapeHtml(item.SLONGNAME || 'Company')}</div>
+              <div class="meta-tags">
+                ${item.SCRIP_CD ? `<span class="scrip-badge">#${escapeHtml(item.SCRIP_CD)}</span>` : ''}
+                ${item.CATEGORYNAME ? `<span class="cat-badge">${escapeHtml(item.CATEGORYNAME)}</span>` : ''}
+                <span class="time-badge">${formatDate(item.NEWS_DT)}</span>
+              </div>
+            </div>
+
+            ${item.NEWSSUB ? `<div class="headline">${escapeHtml(item.NEWSSUB)}</div>` : ''}
+
+            <div class="summary-box">
+              ${summaryHtml}
+            </div>
+
+            ${finHtml}
+
+            <div class="card-footer">
+              ${pdfUrl ? `
+                <a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-link">
+                  View PDF Filing
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                    <polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line>
+                  </svg>
+                </a>
+              ` : '<span></span>'}
+
+              ${bseUrl ? `
+                <a href="${bseUrl}" target="_blank" rel="noopener" class="bse-link">
+                  BSE Page →
+                </a>
+              ` : ''}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Set up search and filter listeners
+    document.getElementById('search-input').addEventListener('input', (e) => {
+      searchQuery = e.target.value.trim();
+      renderFeed();
+    });
+
+    document.getElementById('filter-container').addEventListener('click', (e) => {
+      const pill = e.target.closest('.pill');
+      if (!pill) return;
+      document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      currentFilter = pill.dataset.filter;
+      renderFeed();
+    });
+
+    // Initial Load
+    fetchData()
+      .then(data => {
+        allAnnouncements = data;
+        updateStats(data);
+        renderFeed();
       })
-      .catch(() => {
-        document.getElementById('ai-feed').innerHTML = 'Waiting for data...';
+      .catch(err => {
+        document.getElementById('feed-container').innerHTML = `<div style="text-align: center; color: var(--text-muted); padding: 3rem;">Waiting for announcement data...</div>`;
       });
   </script>
 </body>
