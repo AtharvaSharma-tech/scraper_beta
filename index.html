@@ -15,6 +15,7 @@
       --text: #f1f5f2;
       --text-soft: #b6c4bb;
       --green: #4ade80;
+      --accent: #38bdf8;
     }
     * { box-sizing: border-box; }
     body {
@@ -46,7 +47,7 @@
       animation: grow 0.7s 0.2s cubic-bezier(.2,.8,.2,1) both;
     }
  
-    .container { max-width: 720px; margin: 0 auto; }
+    .container { max-width: 840px; margin: 0 auto; }
     .column { animation: fade 0.6s 0.1s ease both; }
     .col-title {
       font-size: 1.1rem;
@@ -62,15 +63,14 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
-      padding: 1.1rem 1.25rem 1.1rem 1.5rem;
-      margin-bottom: 1rem;
+      padding: 1.25rem 1.4rem;
+      margin-bottom: 1.25rem;
       overflow: hidden;
       opacity: 0;
       animation: rise 0.55s cubic-bezier(.2,.8,.2,1) forwards;
       animation-delay: calc(var(--i, 0) * 60ms);
       transition: transform 0.25s ease, background 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
     }
-    /* Green accent bar that grows on hover */
     .card::before {
       content: "";
       position: absolute;
@@ -92,6 +92,7 @@
     .card:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
  
     .company { font-weight: 700; color: var(--green); font-size: 1.1rem; }
+    .headline { font-size: 0.85rem; color: var(--text-soft); margin-top: 0.2rem; }
     .summary-text {
       font-size: 0.95rem;
       color: var(--text-soft);
@@ -105,17 +106,103 @@
     .summary-text a { color: var(--green); }
     .summary-text ul, .summary-text ol { padding-left: 1.2rem; }
     .summary-text li { margin: 0.25rem 0; }
+
+    /* Financial Section Styling */
+    .financial-section {
+      margin-top: 0.9rem;
+      padding-top: 0.75rem;
+      border-top: 1px dashed var(--border);
+    }
+    .financial-title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--green);
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 0.5rem;
+      margin-bottom: 0.75rem;
+    }
+    .metric-badge {
+      background: rgba(74, 222, 128, 0.08);
+      border: 1px solid rgba(74, 222, 128, 0.2);
+      border-radius: 6px;
+      padding: 0.4rem 0.6rem;
+    }
+    .metric-label {
+      font-size: 0.72rem;
+      color: var(--text-soft);
+      text-transform: capitalize;
+    }
+    .metric-val {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    /* Financial Table Styling */
+    details.table-details {
+      margin-top: 0.5rem;
+      background: #0f1511;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.4rem 0.6rem;
+    }
+    details.table-details summary {
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: var(--text-soft);
+      outline: none;
+      user-select: none;
+    }
+    details.table-details summary:hover {
+      color: var(--green);
+    }
+    .table-wrapper {
+      overflow-x: auto;
+      margin-top: 0.5rem;
+      max-height: 240px;
+      overflow-y: auto;
+    }
+    table.fin-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.75rem;
+      text-align: left;
+    }
+    table.fin-table th, table.fin-table td {
+      padding: 0.4rem 0.5rem;
+      border: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    table.fin-table th {
+      background: #172119;
+      color: var(--green);
+      position: sticky;
+      top: 0;
+    }
+    table.fin-table tr:nth-child(even) {
+      background: rgba(255, 255, 255, 0.02);
+    }
  
     .pdf-btn {
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
       margin-top: 0.9rem;
-      padding: 0.5rem 0.9rem;
+      padding: 0.45rem 0.85rem;
       border-radius: 8px;
       background: var(--green);
       color: #04120a;
-      font-size: 0.85rem;
+      font-size: 0.82rem;
       font-weight: 600;
       text-decoration: none;
       transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
@@ -142,23 +229,68 @@
  
   <div class="container">
     <div class="column">
-      <div class="col-title">Announcements scraped from BSE and summarised by AI</div>
-      <div id="ai-feed">Loading summaries...</div>
+      <div class="col-title">Live Announcements & Financial Insights</div>
+      <div id="ai-feed">Loading announcements...</div>
     </div>
   </div>
  
   <script>
-    fetch('https://raw.githubusercontent.com/AtharvaSharma-tech/scraper_beta/main/data/announcements.json')
-      .then(res => res.json())
+    // Try local data first, fallback to remote repo
+    const DATA_URLS = [
+      'data/announcements.json',
+      'https://raw.githubusercontent.com/AtharvaSharma-tech/scraper_beta/main/data/announcements.json'
+    ];
+
+    async function loadData() {
+      for (const url of DATA_URLS) {
+        try {
+          const res = await fetch(url);
+          if (res.ok) {
+            return await res.json();
+          }
+        } catch (e) {
+          // continue fallback
+        }
+      }
+      throw new Error('Failed to load data');
+    }
+
+    function renderTable(tableObj) {
+      if (!tableObj || !tableObj.rows || !tableObj.rows.length) return '';
+      const headers = Object.keys(tableObj.rows[0]);
+      const ths = headers.map(h => `<th>${escapeHtml(h)}</th>`).join('');
+      const trs = tableObj.rows.map(row => {
+        const tds = headers.map(h => `<td>${escapeHtml(row[h] || '')}</td>`).join('');
+        return `<tr>${tds}</tr>`;
+      }).join('');
+
+      return `
+        <div class="table-wrapper">
+          <table class="fin-table">
+            <thead><tr>${ths}</tr></thead>
+            <tbody>${trs}</tbody>
+          </table>
+        </div>
+      `;
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    loadData()
       .then(data => {
         const aiContainer = document.getElementById('ai-feed');
  
         if (!data || !data.length) {
-          aiContainer.innerHTML = 'No data found.';
+          aiContainer.innerHTML = 'No announcements found.';
           return;
         }
  
-        // Render AI Data
         aiContainer.innerHTML = data.map(item => {
           const parsedSummary = item.summary ? marked.parse(item.summary) : 'No summary available.';
           const pdfUrl = item.ATTACHMENTNAME ? `https://www.bseindia.com/xml-data/corpfiling/AttachLive/${item.ATTACHMENTNAME}` : '';
@@ -166,15 +298,57 @@
               <a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn">View original PDF
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M8 7h9v9"/></svg>
               </a>` : '';
+
+          // Format Key Metrics
+          let financialHtml = '';
+          const metrics = item.key_metrics || {};
+          const metricKeys = Object.keys(metrics);
+          const hasMetrics = metricKeys.length > 0;
+          const tables = item.financial_tables || [];
+          const hasTables = tables.length > 0;
+
+          if (hasMetrics || hasTables) {
+            let metricsBadges = '';
+            if (hasMetrics) {
+              metricsBadges = `<div class="metrics-grid">` +
+                metricKeys.map(k => `
+                  <div class="metric-badge">
+                    <div class="metric-label">${escapeHtml(k.replace('_', ' '))}</div>
+                    <div class="metric-val">${escapeHtml(metrics[k])}</div>
+                  </div>
+                `).join('') + `</div>`;
+            }
+
+            let tablesHtml = '';
+            if (hasTables) {
+              tablesHtml = tables.map((t, idx) => `
+                <details class="table-details">
+                  <summary>📊 Financial Table (Page ${t.page}, Table ${t.table_index + 1})</summary>
+                  ${renderTable(t)}
+                </details>
+              `).join('');
+            }
+
+            financialHtml = `
+              <div class="financial-section">
+                <div class="financial-title">📈 Financial Extraction</div>
+                ${metricsBadges}
+                ${tablesHtml}
+              </div>
+            `;
+          }
+
           return `
             <div class="card">
-              <div class="company">${item.SLONGNAME || 'Company'}</div>
-              <div class="summary-text">${parsedSummary}</div>${pdfBtn}
+              <div class="company">${escapeHtml(item.SLONGNAME || 'Company')}</div>
+              ${item.NEWSSUB ? `<div class="headline">${escapeHtml(item.NEWSSUB)}</div>` : ''}
+              <div class="summary-text">${parsedSummary}</div>
+              ${financialHtml}
+              ${pdfBtn}
             </div>
           `;
         }).join('');
  
-        // Interaction polish only: stagger entrance + keyboard focus
         aiContainer.querySelectorAll('.card').forEach((card, i) => {
           card.style.setProperty('--i', Math.min(i, 12));
           card.tabIndex = 0;
@@ -186,4 +360,3 @@
   </script>
 </body>
 </html>
- 
