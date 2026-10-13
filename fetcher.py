@@ -12,17 +12,14 @@ DATA_FILE = "data/announcements.json"
 MAX_PER_RUN = 10
 IST = timezone(timedelta(hours=5, minutes=30))
 
-FINANCIAL_KEYWORDS = [
-    "revenue", "income", "profit", "loss", "earnings", "sales", "turnover",
-    "ebitda", "ebit", "assets", "liabilities", "equity", "capital", "debt",
-    "cash", "expenses", "cost", "margin", "dividend", "eps", "share",
-    "balance", "financial", "annual", "quarterly", "net", "gross",
-    "operating", "total", "current", "non-current", "retained",
-    "tax", "depreciation", "amortization", "interest", "borrowings",
-    "investments", "receivables", "payables", "inventory", "fixed assets",
-    "roce", "roe", "roa", "pe ratio", "book value", "face value",
-    "crore", "lakh", "million", "billion", "₹", "inr", "rs", "rupee",
-    "pat", "pbt", "ebt", "standalone", "consolidated", "net sales"
+# Core financial statement indicators
+FINANCIAL_INDICATORS = [
+    "revenue", "income", "turnover", "net sales",
+    "profit", "loss", "pat", "pbt", "ebitda", "ebit",
+    "assets", "liabilities", "equity", "debt", "borrowings",
+    "dividend", "eps", "quarter ended", "year ended",
+    "audited", "unaudited", "statement of profit", "balance sheet",
+    "cash flow", "particulars", "votes polled", "votes in favour"
 ]
 
 
@@ -30,37 +27,61 @@ def now_ist():
     return datetime.now(IST)
 
 
-def is_financial_table(table):
-    """Check if a table likely contains financial data."""
-    if not table or len(table) < 2:
+def is_true_financial_table(table):
+    """
+    Strict validation to ensure only genuine financial/numeric data tables
+    are kept, rejecting letterheads, addresses, cover letters, and layout blocks.
+    """
+    if not table or len(table) < 3 or len(table[0]) < 2:
         return False
-    flat_text = " ".join(
-        str(cell).lower()
-        for row in table
-        for cell in (row or [])
-        if cell
-    )
-    # Require at least one keyword and some numbers
-    has_keyword = any(kw in flat_text for kw in FINANCIAL_KEYWORDS)
-    has_digit = any(char.isdigit() for char in flat_text)
-    return has_keyword and has_digit
+
+    # Extract all text and cell values
+    flat_cells = [str(cell).strip() for row in table for cell in (row or []) if cell]
+    flat_text = " ".join(flat_cells).lower()
+
+    # 1. Reject obvious address blocks, cover letters, or corporate filings headers
+    header_block_keywords = [
+        "phiroze jeejeebhoy", "dalal street", "listing department",
+        "national stock exchange", "bse ltd", "dear sir", "dear madam",
+        "yours faithfully", "company secretary", "compliance officer"
+    ]
+    if any(kw in flat_text for kw in header_block_keywords):
+        return False
+
+    # 2. Require meaningful numeric content (financial tables MUST have figures)
+    numeric_count = 0
+    total_valid_cells = len(flat_cells)
+    for c in flat_cells:
+        c_clean = c.replace(",", "").replace("%", "").replace("₹", "").replace("rs.", "").strip()
+        if re.match(r"^-?\d+(?:\.\d+)?$", c_clean):
+            numeric_count += 1
+
+    # At least 4 cells must be real numbers, and at least 15% of cells must be numeric
+    if numeric_count < 4 or (total_valid_cells > 0 and (numeric_count / total_valid_cells) < 0.15):
+        return False
+
+    # 3. Must contain recognized financial indicators
+    matches = sum(1 for kw in FINANCIAL_INDICATORS if kw in flat_text)
+    if matches < 1:
+        return False
+
+    return True
 
 
 def clean_value(val):
     """Clean and normalize a cell value."""
     if val is None:
         return ""
-    # Standardize whitespace and line breaks
     return " ".join(str(val).replace("\n", " ").split())
 
 
 def table_to_dict(table):
-    """Convert a table (list of rows) to a list of dicts using header row."""
+    """Convert a genuine table into structured dictionary rows."""
     if not table:
         return []
     rows = [[clean_value(c) for c in (row or [])] for row in table]
 
-    # Find the first row that actually has text to serve as the header
+    # Find the first row that actually has text to serve as headers
     header_idx = 0
     for i, row in enumerate(rows):
         if any(cell for cell in row):
@@ -68,7 +89,7 @@ def table_to_dict(table):
             break
     headers = rows[header_idx]
 
-    # Deduplicate and normalize headers
+    # Clean and deduplicate headers
     seen = {}
     clean_headers = []
     for idx, h in enumerate(headers):
@@ -86,7 +107,6 @@ def table_to_dict(table):
             continue
         padded = row + [""] * (len(clean_headers) - len(row))
         row_dict = {clean_headers[i]: padded[i] for i in range(len(clean_headers))}
-        # Only add row if it contains meaningful data (at least 1 non-empty cell)
         if any(v for v in row_dict.values()):
             data_rows.append(row_dict)
     return data_rows
@@ -95,21 +115,20 @@ def table_to_dict(table):
 def extract_currency_unit(text):
     """Detect reporting units like (in Lakhs), (in Crores), (in Millions)."""
     text_lower = text.lower()
-    if re.search(r"\b(?:rs\.?|inr|₹)?\s*(?:in\s+)?crores?\b|\b(?:in\s+)?cr\.?\b", text_lower):
+    # Check for explicit reporting unit mentions in parentheses or headers
+    if re.search(r"\b(?:in\s+)?crores?\b|\b(?:in\s+)?cr\.?\b", text_lower):
         return "₹ in Crores"
-    if re.search(r"\b(?:rs\.?|inr|₹)?\s*(?:in\s+)?lakhs?\b|\b(?:in\s+)?lacs?\b", text_lower):
+    if re.search(r"\b(?:in\s+)?lakhs?\b|\b(?:in\s+)?lacs?\b", text_lower):
         return "₹ in Lakhs"
     if re.search(r"\b(?:in\s+)?millions?\b|\b(?:in\s+)?mn\.?\b", text_lower):
         return "in Millions"
     if re.search(r"\b(?:in\s+)?billions?\b|\b(?:in\s+)?bn\.?\b", text_lower):
         return "in Billions"
-    if "₹" in text or "inr" in text_lower or "rs." in text_lower:
-        return "INR (₹)"
     return None
 
 
 def extract_key_metrics_from_text(text):
-    """Extract common financial figures mentioned in text using enhanced regex."""
+    """Extract financial figures mentioned in text with verified units."""
     metrics = {}
     patterns = {
         "revenue": (
@@ -167,7 +186,7 @@ def extract_key_metrics_from_text(text):
         match = re.search(pattern, text_lower)
         if match:
             val = match.group(1).replace(",", "")
-            # If there's an optional unit suffix captured in group 2
+            # Check if there is an explicit unit in capture group 2
             if len(match.groups()) >= 2 and match.group(2):
                 unit = match.group(2).strip()
                 metrics[key] = f"{val} {unit}"
@@ -185,8 +204,8 @@ def extract_pdf_data(attachment_name):
     """
     Downloads the PDF once and extracts:
     - text for AI summary
-    - financial_tables (with clean headers, page info, row count)
-    - key_metrics (expanded regex for PAT, EBITDA, Debt, Revenue, Dividend, EPS, ROCE, ROE)
+    - genuine financial_tables (strictly filtering out cover letters and layout blocks)
+    - key_metrics
     """
     if not attachment_name:
         return None, {}, []
@@ -206,16 +225,13 @@ def extract_pdf_data(attachment_name):
                 page_text = page.extract_text() or ""
                 all_text_parts.append(page_text)
 
-                # Extract tables with both default and explicit line strategies
+                # Only use pdfplumber's standard gridline table detection
+                # Do NOT use horizontal_strategy='text' which turns raw paragraphs into garbage tables
                 tables = page.extract_tables()
-                if not tables:
-                    tables = page.extract_tables(table_settings={"vertical_strategy": "text", "horizontal_strategy": "text"})
-
                 for tbl_idx, table in enumerate(tables):
-                    if is_financial_table(table):
+                    if is_true_financial_table(table):
                         tbl_data = table_to_dict(table)
-                        # Only keep tables with meaningful rows
-                        if tbl_data and len(tbl_data) >= 1:
+                        if tbl_data:
                             financial_tables.append({
                                 "page": page_num,
                                 "table_index": tbl_idx,
