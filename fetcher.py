@@ -21,7 +21,8 @@ FINANCIAL_KEYWORDS = [
     "tax", "depreciation", "amortization", "interest", "borrowings",
     "investments", "receivables", "payables", "inventory", "fixed assets",
     "roce", "roe", "roa", "pe ratio", "book value", "face value",
-    "crore", "lakh", "million", "billion", "₹", "inr", "rs", "rupee"
+    "crore", "lakh", "million", "billion", "₹", "inr", "rs", "rupee",
+    "pat", "pbt", "ebt", "standalone", "consolidated", "net sales"
 ]
 
 
@@ -39,14 +40,18 @@ def is_financial_table(table):
         for cell in (row or [])
         if cell
     )
-    return any(kw in flat_text for kw in FINANCIAL_KEYWORDS)
+    # Require at least one keyword and some numbers
+    has_keyword = any(kw in flat_text for kw in FINANCIAL_KEYWORDS)
+    has_digit = any(char.isdigit() for char in flat_text)
+    return has_keyword and has_digit
 
 
 def clean_value(val):
     """Clean and normalize a cell value."""
     if val is None:
         return ""
-    return str(val).strip().replace("\n", " ").replace("  ", " ")
+    # Standardize whitespace and line breaks
+    return " ".join(str(val).replace("\n", " ").split())
 
 
 def table_to_dict(table):
@@ -54,16 +59,20 @@ def table_to_dict(table):
     if not table:
         return []
     rows = [[clean_value(c) for c in (row or [])] for row in table]
+
+    # Find the first row that actually has text to serve as the header
     header_idx = 0
     for i, row in enumerate(rows):
         if any(cell for cell in row):
             header_idx = i
             break
     headers = rows[header_idx]
+
+    # Deduplicate and normalize headers
     seen = {}
     clean_headers = []
-    for h in headers:
-        key = h if h else "col"
+    for idx, h in enumerate(headers):
+        key = h if h else f"col_{idx + 1}"
         if key in seen:
             seen[key] += 1
             key = f"{key}_{seen[key]}"
@@ -77,30 +86,98 @@ def table_to_dict(table):
             continue
         padded = row + [""] * (len(clean_headers) - len(row))
         row_dict = {clean_headers[i]: padded[i] for i in range(len(clean_headers))}
-        data_rows.append(row_dict)
+        # Only add row if it contains meaningful data (at least 1 non-empty cell)
+        if any(v for v in row_dict.values()):
+            data_rows.append(row_dict)
     return data_rows
 
 
+def extract_currency_unit(text):
+    """Detect reporting units like (in Lakhs), (in Crores), (in Millions)."""
+    text_lower = text.lower()
+    if re.search(r"\b(?:rs\.?|inr|₹)?\s*(?:in\s+)?crores?\b|\b(?:in\s+)?cr\.?\b", text_lower):
+        return "₹ in Crores"
+    if re.search(r"\b(?:rs\.?|inr|₹)?\s*(?:in\s+)?lakhs?\b|\b(?:in\s+)?lacs?\b", text_lower):
+        return "₹ in Lakhs"
+    if re.search(r"\b(?:in\s+)?millions?\b|\b(?:in\s+)?mn\.?\b", text_lower):
+        return "in Millions"
+    if re.search(r"\b(?:in\s+)?billions?\b|\b(?:in\s+)?bn\.?\b", text_lower):
+        return "in Billions"
+    if "₹" in text or "inr" in text_lower or "rs." in text_lower:
+        return "INR (₹)"
+    return None
+
+
 def extract_key_metrics_from_text(text):
-    """Extract common financial figures mentioned in text using regex."""
+    """Extract common financial figures mentioned in text using enhanced regex."""
     metrics = {}
     patterns = {
-        "revenue":      r"(?:revenue|turnover|net sales)[^\d₹rs.]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)\s*(?:crore|lakh|million|cr|mn)?",
-        "net_profit":   r"(?:net profit|net income|pat)[^\d₹rs.]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)\s*(?:crore|lakh|million|cr|mn)?",
-        "total_assets": r"total assets[^\d₹rs.]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)",
-        "total_equity": r"(?:total equity|shareholders[' ]equity|networth|net worth)[^\d₹rs.]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)",
-        "eps":          r"\beps\b[^\d-]*(-?[\d,]+(?:\.\d+)?)",
-        "face_value":   r"face value[^\d₹rs.]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)",
-        "book_value":   r"book value[^\d₹rs.]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)",
-        "dividend":     r"dividend[^\d₹rs.%]*[₹rs.]?\s*([\d,]+(?:\.\d+)?)\s*%?",
-        "roce":         r"\broce\b[^\d%]*([0-9]+(?:\.[0-9]+)?)\s*%?",
-        "roe":          r"\broe\b[^\d%]*([0-9]+(?:\.[0-9]+)?)\s*%?",
+        "revenue": (
+            r"(?:revenue(?:\s+from\s+operations)?|total\s+income|turnover|net\s+sales)"
+            r"[^\d₹rs.()]{0,40}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+            r"(?:\s*(crore|cr|lakh|lac|million|mn|billion|bn))?"
+        ),
+        "net_profit": (
+            r"(?:net\s+profit(?:\s+after\s+tax)?|profit\s+after\s+tax|\bpat\b|net\s+income)"
+            r"[^\d₹rs.()]{0,40}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+            r"(?:\s*(crore|cr|lakh|lac|million|mn|billion|bn))?"
+        ),
+        "operating_profit": (
+            r"(?:operating\s+profit|\bebitda\b|\bebit\b)"
+            r"[^\d₹rs.()]{0,40}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+            r"(?:\s*(crore|cr|lakh|lac|million|mn|billion|bn))?"
+        ),
+        "total_assets": (
+            r"total\s+assets[^\d₹rs.()]{0,40}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+            r"(?:\s*(crore|cr|lakh|lac|million|mn|billion|bn))?"
+        ),
+        "total_equity": (
+            r"(?:total\s+equity|shareholders[' ]equity|net\s*worth|networth)"
+            r"[^\d₹rs.()]{0,40}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+            r"(?:\s*(crore|cr|lakh|lac|million|mn|billion|bn))?"
+        ),
+        "total_debt": (
+            r"(?:total\s+debt|borrowings|total\s+borrowings)"
+            r"[^\d₹rs.()]{0,40}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+            r"(?:\s*(crore|cr|lakh|lac|million|mn|billion|bn))?"
+        ),
+        "eps": (
+            r"\b(?:basic\s+)?eps\b[^\d-]{0,25}(-?[\d,]+(?:\.\d+)?)"
+        ),
+        "dividend": (
+            r"(?:interim\s+dividend|final\s+dividend|dividend(?:\s+of)?)"
+            r"[^\d₹rs.%]{0,30}[₹rs.]?\s*([\d,]+(?:\.\d+)?)\s*(%|per\s+share|\/-\s*per\s+share)?"
+        ),
+        "face_value": (
+            r"face\s+value[^\d₹rs.]{0,25}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+        ),
+        "book_value": (
+            r"book\s+value[^\d₹rs.]{0,25}[₹rs.]?\s*([\d,]+(?:\.\d+)?)"
+        ),
+        "roce": (
+            r"\broce\b[^\d%]{0,20}([0-9]+(?:\.[0-9]+)?)\s*%"
+        ),
+        "roe": (
+            r"\broe\b[^\d%]{0,20}([0-9]+(?:\.[0-9]+)?)\s*%"
+        ),
     }
+
     text_lower = text.lower()
     for key, pattern in patterns.items():
         match = re.search(pattern, text_lower)
         if match:
-            metrics[key] = match.group(1).replace(",", "")
+            val = match.group(1).replace(",", "")
+            # If there's an optional unit suffix captured in group 2
+            if len(match.groups()) >= 2 and match.group(2):
+                unit = match.group(2).strip()
+                metrics[key] = f"{val} {unit}"
+            else:
+                metrics[key] = val
+
+    unit = extract_currency_unit(text)
+    if unit:
+        metrics["currency_unit"] = unit
+
     return metrics
 
 
@@ -108,8 +185,8 @@ def extract_pdf_data(attachment_name):
     """
     Downloads the PDF once and extracts:
     - text for AI summary
-    - financial_tables
-    - key_metrics
+    - financial_tables (with clean headers, page info, row count)
+    - key_metrics (expanded regex for PAT, EBITDA, Debt, Revenue, Dividend, EPS, ROCE, ROE)
     """
     if not attachment_name:
         return None, {}, []
@@ -120,6 +197,7 @@ def extract_pdf_data(attachment_name):
         response = cffi_requests.get(url, headers=headers, impersonate="chrome", timeout=15)
         response.raise_for_status()
         with pdfplumber.open(io.BytesIO(response.content)) as pdf:
+            # First 3 pages for quick text summary
             text_for_summary = "\n".join(page.extract_text() or "" for page in pdf.pages[:3]).strip()
 
             financial_tables = []
@@ -127,16 +205,24 @@ def extract_pdf_data(attachment_name):
             for page_num, page in enumerate(pdf.pages, start=1):
                 page_text = page.extract_text() or ""
                 all_text_parts.append(page_text)
+
+                # Extract tables with both default and explicit line strategies
                 tables = page.extract_tables()
+                if not tables:
+                    tables = page.extract_tables(table_settings={"vertical_strategy": "text", "horizontal_strategy": "text"})
+
                 for tbl_idx, table in enumerate(tables):
                     if is_financial_table(table):
                         tbl_data = table_to_dict(table)
-                        if tbl_data:
+                        # Only keep tables with meaningful rows
+                        if tbl_data and len(tbl_data) >= 1:
                             financial_tables.append({
                                 "page": page_num,
                                 "table_index": tbl_idx,
+                                "row_count": len(tbl_data),
                                 "rows": tbl_data,
                             })
+
             full_text = "\n".join(all_text_parts)
             key_metrics = extract_key_metrics_from_text(full_text)
 
@@ -171,7 +257,7 @@ def save(existing):
     existing.sort(key=lambda r: r.get("NEWS_DT") or "", reverse=True)
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
     with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(existing[:100], f, indent=2, ensure_ascii=False)
+        json.dump(existing, f, indent=2, ensure_ascii=False)
 
 
 def run_once():
@@ -185,7 +271,7 @@ def run_once():
     pending = [r for r in raw_records if r.get("NEWSID") and r["NEWSID"] not in existing_ids]
     print(f"{len(raw_records)} filings today, {len(pending)} unprocessed.")
 
-    new_count, failures = 0, 0
+    new_count = 0
     for raw in pending[:MAX_PER_RUN]:
         print(f"Processing: {raw.get('SLONGNAME')}")
         pdf_text, key_metrics, financial_tables = extract_pdf_data(raw.get("ATTACHMENTNAME"))
