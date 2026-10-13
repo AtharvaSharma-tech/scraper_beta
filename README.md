@@ -2,6 +2,8 @@
 
 An automated pipeline that monitors live Bombay Stock Exchange (BSE) corporate announcements, downloads PDF filings, extracts financial metrics and tables, synthesizes bullet-point summaries using AI, and publishes them to a responsive web dashboard.
 
+🔗 **Live Website Dashboard**: [https://atharvasharma-tech.github.io/scraper_beta/](https://atharvasharma-tech.github.io/scraper_beta/)
+
 ---
 
 ## 🚀 Features
