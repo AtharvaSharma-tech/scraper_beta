@@ -1,5 +1,287 @@
 [
   {
+    "NEWSID": "61f1a977-9a46-48de-ac1a-36860ec68ac0",
+    "SCRIP_CD": 543223,
+    "XML_NAME": "ANN_543223_61F1A977-9A46-48DE-AC1A-36860EC68AC0",
+    "NEWSSUB": "Max India Ltd - 543223 - Execution Of Letter Of Comfort In Favour Of Aditya Birla Capital Limited",
+    "DT_TM": "2026-10-14T22:29:37.63",
+    "NEWS_DT": "2026-10-14T22:29:37.63",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d776cfdb-8141-4f69-88d4-14991daafb88.pdf",
+    "MORE": "",
+    "HEADLINE": "As per detailed disclosure enclosed.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/max-india-ltd/maxind/543223/",
+    "SLONGNAME": "Max India Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-10-14T22:29:37",
+    "DissemDT": "2026-10-14T22:29:37.63",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 299158,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Oct 14 2026:** Max India Ltd executed a Letter of Comfort in favour of Aditya Birla Capital Ltd, guaranteeing **₹ 40 crore** for a credit facility being used by its wholly‑owned subsidiary **Antara Senior Living Ltd**.  \n\n- The guarantee was made within the board‑approved limits disclosed earlier on **May 28 2026**; the event occurred at **19:48 hrs**",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "0f1c8857-0e9d-4f45-9724-12a78ffe4fd0",
+    "SCRIP_CD": 540673,
+    "XML_NAME": "ANN_540673_0F1C8857-0E9D-4F45-9724-12A78FFE4FD0",
+    "NEWSSUB": "SIS Ltd - 540673 - Announcement under Regulation 30 (LODR)-Daily Buy Back of equity shares",
+    "DT_TM": "2026-10-14T22:15:33.4",
+    "NEWS_DT": "2026-10-14T22:15:33.4",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "cb1edece-6f1c-414e-ba41-7af7724b1125.pdf",
+    "MORE": "",
+    "HEADLINE": "SIS Limited has informed the Exchange regarding daily report with respect to Equity Shares bought back by the Company on October 14, 2026.",
+    "CATEGORYNAME": " Corp Action",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sis-ltd/sis/540673/",
+    "SLONGNAME": "SIS Ltd",
+    "AGENDA_ID": 117,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-10-14T22:15:33",
+    "DissemDT": "2026-10-14T22:15:33.4",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 337558,
+    "SUBCATNAME": "Daily Buy Back of equity shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "5"
+    },
+    "financial_tables": [
+      {
+        "page": 1,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "Name of the Broker": "",
+            "col_2": "",
+            "Number of Equity Shares bought": "back on October 14, 2026",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": ""
+          },
+          {
+            "Name of the Broker": "",
+            "col_2": "",
+            "Number of Equity Shares bought": "BSE",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "NSE",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": ""
+          },
+          {
+            "Name of the Broker": "Elara Securities (India) Private L imited",
+            "col_2": "2,000",
+            "Number of Equity Shares bought": "",
+            "col_4": "",
+            "col_5": "18,000",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "20,000",
+            "Average Price of acquisition* (₹)": "407.9137"
+          },
+          {
+            "Name of the Broker": "Cumulative Equity Shares bought as on yesterday (B)",
+            "col_2": "",
+            "Number of Equity Shares bought": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": "24,40,968"
+          },
+          {
+            "Name of the Broker": "Less: Quantity closed out today (C)",
+            "col_2": "",
+            "Number of Equity Shares bought": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": "0"
+          },
+          {
+            "Name of the Broker": "Quantity closed out as on yesterday (D)",
+            "col_2": "",
+            "Number of Equity Shares bought": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": "0"
+          },
+          {
+            "Name of the Broker": "Total Quantity closed out (C+D=E)",
+            "col_2": "",
+            "Number of Equity Shares bought": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": "0"
+          },
+          {
+            "Name of the Broker": "Total Equity Shares bought back as on October 14, 2026 (A) + (B) – (E)",
+            "col_2": "",
+            "Number of Equity Shares bought": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "Total shares bought back (A)": "",
+            "Average Price of acquisition* (₹)": "24,60,968"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "c46b3070-e967-4ee4-89b2-284eaf3026fe",
+    "SCRIP_CD": 534535,
+    "XML_NAME": "ANN_534535_C46B3070-E967-4EE4-89B2-284EAF3026FE",
+    "NEWSSUB": "String Metaverse Ltd - 534535 - Announcement under Regulation 30 (LODR)-Preferential Issue",
+    "DT_TM": "2026-10-14T22:15:02.323",
+    "NEWS_DT": "2026-10-14T22:15:02.323",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "807c3be0-1094-4696-b1b2-5311bb32f213.pdf",
+    "MORE": "",
+    "HEADLINE": "Update on Receipt of In-Principle Approval for Preferential Issue.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/string-metaverse-ltd/meta/534535/",
+    "SLONGNAME": "String Metaverse Ltd",
+    "AGENDA_ID": 140,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-10-14T22:15:02",
+    "DissemDT": "2026-10-14T22:15:02.323",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 915370,
+    "SUBCATNAME": "Preferential Issue",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Date & Approval:** On 14 October 2026, BSE granted String Metaverse Ltd. (formerly Bio Green Papers Ltd.) in‑principle approval under Regulation 30 of the SEBI (LODR) Regulations, 2015 for a proposed preferential issue of equity shares to non‑promoter investors.  \n\n- **Financial details:** The announcement does not disclose any specific numbers (e.g., issue size, price, or amount raised); it only confirms receipt of the regulatory approval.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7d051500-e558-49ea-9eea-dd721fb52b44",
+    "SCRIP_CD": 544028,
+    "XML_NAME": "ANN_544028_7D051500-E558-49EA-9EEA-DD721FB52B44",
+    "NEWSSUB": "Tata Technologies Ltd - 544028 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-10-14T22:11:03.013",
+    "NEWS_DT": "2026-10-14T22:11:03.013",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "74013610-1b39-4a65-9592-b9d76ff5f6de.pdf",
+    "MORE": "",
+    "HEADLINE": "Audio recording of the earnings call on unaudited standalone and consolidated financial results for the quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/tata-technologies-ltd/tatatech/544028/",
+    "SLONGNAME": "Tata Technologies Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-10-14T22:11:02",
+    "DissemDT": "2026-10-14T22:11:03.013",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 224060,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "7d051500-e558-49ea-9eea-dd721fb52b44",
+    "INVESTOR_PRESENTATION": "55251d3e-d038-42e1-9008-d733c4a7e871.pdf",
+    "RECORDID": 14549088,
+    "DataInsDate": "2026-10-14T22:11:02.89",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55251d3e-d038-42e1-9008-d733c4a7e871.pdf",
+    "summary": "- The company announced that the audio recording of its earnings conference call—covering the unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 September 2026—was made available on 14 October 2026 via its website (https://www.tatatechnologies.com/in/financial‑statements/).  \n\n- No specific financial figures, earnings numbers, or other quantitative decisions were disclosed in the announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f599a667-57f1-4484-89d5-ab847604cac9",
+    "SCRIP_CD": 500413,
+    "XML_NAME": "ANN_500413_F599A667-57F1-4484-89D5-AB847604CAC9",
+    "NEWSSUB": "Thomas Cook (India) Ltd - 500413 - Intimation Under Regulations 30 Of SEBI (Listing Obligations And Disclosure Requirements), Regulations, 2015",
+    "DT_TM": "2026-10-14T22:03:55.603",
+    "NEWS_DT": "2026-10-14T22:03:55.603",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "eb6ebd23-39a6-41de-80af-5a4f0b3fd973.pdf",
+    "MORE": "We enclose herewith Intimation under Regulations 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015 for voluntary dissolution of the stepdown subsidiary Digiphoto Entertainment Imaging INC in Canada.",
+    "HEADLINE": "We enclose herewith Intimation under Regulations 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015 for voluntary dissolution of the stepdown subsidiary Digiphoto ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/thomas-cook-(india)-ltd/thomascook/500413/",
+    "SLONGNAME": "Thomas Cook (India) Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-10-14T22:03:55",
+    "DissemDT": "2026-10-14T22:03:55.603",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 322558,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Voluntary dissolution of a step‑down subsidiary** – On 14 Oct 2026, Thomas Cook (India) Ltd disclosed that Digiphoto Entertainment Imaging Inc. (a wholly‑owned subsidiary of DEI Holdings Ltd and step‑down",
+    "key_metrics": {
+      "revenue": ""
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "11cb4458-6867-44cc-8ab9-ab22995bad4a",
     "SCRIP_CD": 532722,
     "XML_NAME": "ANN_532722_11CB4458-6867-44CC-8AB9-AB22995BAD4A",
@@ -17765,1193 +18047,6 @@
             "col_6": "127 787\\",
             "col_7": "(17.776\\",
             "col_8": "(85,795)"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "6b5f997b-1abf-42da-a3b2-26a0257fa16e",
-    "SCRIP_CD": 543625,
-    "XML_NAME": "ANN_543625_6B5F997B-1ABF-42DA-A3B2-26A0257FA16E",
-    "NEWSSUB": "SecUR Credentials Ltd - 543625 - Board Meeting Outcome for Outcome Of The Board Meeting Under Regulation 30,33 And Other Applicable Provisions Of The SEBI\r\n(Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-10-14T19:22:15.6",
-    "NEWS_DT": "2026-10-14T19:22:15.6",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6baed86d-2048-4d42-ad00-e10b13652b45.pdf",
-    "MORE": "",
-    "HEADLINE": "Considered and approved Financial Results for Quarter Ended June 25, Sept 25, Dec 25, March 26 and June 26, Appointment of of CFO",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/secur-credentials-ltd/securcred/543625/",
-    "SLONGNAME": "SecUR Credentials Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-10-14T19:22:09",
-    "DissemDT": "2026-10-14T19:22:15.6",
-    "TimeDiff": "00:00:06",
-    "Fld_Attachsize": 25946831,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "13.20",
-      "total_assets": "5859.71",
-      "total_equity": "3212.03",
-      "total_debt": "678.25",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2cc983aa-28d9-4c8a-97cc-a4718b8cbc9c",
-    "SCRIP_CD": 544608,
-    "XML_NAME": "ANN_544608_2CC983AA-28D9-4C8A-97CC-A4718B8CBC9C",
-    "NEWSSUB": "Emmvee Photovoltaic Power Ltd - 544608 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-14T19:21:30.673",
-    "NEWS_DT": "2026-10-14T19:21:30.673",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "101db260-4a66-4957-8e53-b0278a88bade.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find the attached investor presentation for the quarter and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/emmvee-photovoltaic-power-ltd/emmvee/544608/",
-    "SLONGNAME": "Emmvee Photovoltaic Power Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-10-14T19:21:30",
-    "DissemDT": "2026-10-14T19:21:30.673",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7572308,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "15764",
-      "operating_profit": "8.9",
-      "total_assets": "39139",
-      "total_equity": "5368",
-      "total_debt": "16889",
-      "roce": "39.4",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "Profit and Loss Statement": "INR mn",
-            "col_2": "Q2 FY27",
-            "col_3": "Q2 FY26",
-            "col_4": "Y-Y (%)",
-            "col_5": "Q1 FY27",
-            "col_6": "Q-Q (%)",
-            "col_7": "H1 FY27",
-            "col_8": "H1 FY26",
-            "col_9": "Y-Y (%)"
-          },
-          {
-            "Profit and Loss Statement": "Revenue from operations",
-            "col_2": "15,764",
-            "col_3": "11,310",
-            "col_4": "39%",
-            "col_5": "15,555",
-            "col_6": "1%",
-            "col_7": "31,319",
-            "col_8": "21,588",
-            "col_9": "45%"
-          },
-          {
-            "Profit and Loss Statement": "Other income 25 184 165 190 328",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Total income",
-            "col_2": "15,789",
-            "col_3": "11,494",
-            "col_4": "37%",
-            "col_5": "15,720",
-            "col_6": "0%",
-            "col_7": "31,509",
-            "col_8": "21,916",
-            "col_9": "44%"
-          },
-          {
-            "Profit and Loss Statement": "Cost of Materials Consumed 8,767 7,219 9,526 18,293 13,924",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Changes in inventories of finished goods 305 (1,270) (745) (439) (2,381)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Gross Profit",
-            "col_2": "6,692",
-            "col_3": "5,362",
-            "col_4": "25%",
-            "col_5": "6,773",
-            "col_6": "(1%)",
-            "col_7": "13,465",
-            "col_8": "10,046",
-            "col_9": "34%"
-          },
-          {
-            "Profit and Loss Statement": "Gross Profit (%) 42% 47% 44% 43% 47%",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Employee benefits expenses",
-            "col_2": "329",
-            "col_3": "326",
-            "col_4": "",
-            "col_5": "333",
-            "col_6": "",
-            "col_7": "662",
-            "col_8": "587",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Other expenses",
-            "col_2": "794",
-            "col_3": "1,042",
-            "col_4": "",
-            "col_5": "959",
-            "col_6": "",
-            "col_7": "1,753",
-            "col_8": "1,960",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "EBITDA 5,569 3,994 39% 5,481 2% 11,050 7,499 47%",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "EBITDA (%)",
-            "col_2": "35%",
-            "col_3": "35%",
-            "col_4": "",
-            "col_5": "35%",
-            "col_6": "",
-            "col_7": "35%",
-            "col_8": "35%",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Depreciation and amortisation expense",
-            "col_2": "846",
-            "col_3": "709",
-            "col_4": "",
-            "col_5": "839",
-            "col_6": "",
-            "col_7": "1,685",
-            "col_8": "1,425",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Finance costs",
-            "col_2": "95",
-            "col_3": "552",
-            "col_4": "",
-            "col_5": "111",
-            "col_6": "",
-            "col_7": "205",
-            "col_8": "1,084",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Total expenses 11,136 8,577 30% 11,024 1% 22,160 16,598 34%",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Profit before tax for the year / period 4,653 2,917 60% 4,696 (1%) 9,349 5,319 76%",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Current tax 771 390 864 1,634 722",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Deferred tax",
-            "col_2": "62",
-            "col_3": "148",
-            "col_4": "",
-            "col_5": "30",
-            "col_6": "",
-            "col_7": "91",
-            "col_8": "341",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Total tax expense 832 538 893 1,726 1,063",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Profit and Loss Statement": "Profit after tax for the year / period",
-            "col_2": "3,820",
-            "col_3": "2,379",
-            "col_4": "61%",
-            "col_5": "3,803",
-            "col_6": "0%",
-            "col_7": "7,623",
-            "col_8": "4,255",
-            "col_9": "79%"
-          },
-          {
-            "Profit and Loss Statement": "PAT (%) 24% 21% 24% 24% 19%",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 0,
-        "row_count": 23,
-        "rows": [
-          {
-            "Assets (INR Mn)": "Non-current assets",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Property, plant and equipment 19,241 24,563 24,519",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Right-of-use assets 1,206 1,761 1,848",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Capital work-in-progress 134 99 2,133",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Other intangible assets 14 12 9",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Financial assets",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "- Investments - 273 326",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "- Other financial assets 197 228 394",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Deferred tax assets - - -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Other non-current assets 1,498 193 6,349",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Total non-current assets",
-            "FY25": "22,289",
-            "FY26": "27,128",
-            "H1FY27": "35,578"
-          },
-          {
-            "Assets (INR Mn)": "Current assets",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Inventories 7,584 17,106 18,842",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Financial assets",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "(i) Investments 2,568 301 -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "(ii) Trade receivables 1,903 6,950 8,194",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "(iii) Cash and cash equivalents 2,186 2,426 3,795",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "(iv) Bank balances other than (iii) above 1,055 1,110 25",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "(v) Other financial assets 35 69 31",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Current tax assets (net) 29 5 281",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Other current assets 1,490 2,631 1,661",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Assets (INR Mn)": "Total current assets",
-            "FY25": "16,850",
-            "FY26": "30,597",
-            "H1FY27": "32,830"
-          },
-          {
-            "Assets (INR Mn)": "Total assets",
-            "FY25": "39,139",
-            "FY26": "57,725",
-            "H1FY27": "68,407"
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 1,
-        "row_count": 26,
-        "rows": [
-          {
-            "Equity & Liabilities (INR Mn)": "EQUITY",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Equity share capital 108 1,385 1,385",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Other equity 5,260 35,565 42,516",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Total equity",
-            "FY25": "5,368",
-            "FY26": "36,949",
-            "H1FY27": "43,901"
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Non-current liabilities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Financial liabilities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(i) Borrowings 16,889 489 8,496",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(ii) Lease liabilities 956 1,486 1,574",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(iii) Other financial liabilities 1 1 1",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Provisions 39 81 100",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Deferred tax liabilities 458 1,031 1,122",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Other non-current liabilities 1,931 2,840 2,748",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Total non-current liabilities",
-            "FY25": "20,273",
-            "FY26": "5,929",
-            "H1FY27": "14,042"
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Current liabilities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Financial liabilities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(i) Borrowings 2,608 1,283 609",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(ii) Lease liabilities 200 342 402",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(iii) Trade payables",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "- MSMEs 403 188 210",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "- Others 3,088 8,633 4,024",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "(iv) Other financial liabilities 1,451 1,579 700",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Provisions 39 50 34",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Other current liabilities 5,494 2,449 3,262",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Current tax liabilities (net) 215 322 1,225",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Total current liabilities",
-            "FY25": "13,498",
-            "FY26": "14,847",
-            "H1FY27": "10,465"
-          },
-          {
-            "Equity & Liabilities (INR Mn)": "Total equity and liabilities",
-            "FY25": "39,139",
-            "FY26": "57,725",
-            "H1FY27": "68,407"
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 0,
-        "row_count": 36,
-        "rows": [
-          {
-            "(INR Mn)": "A. Cash flow from operating activities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "(INR Mn)": "Profit before tax 4,828 13,376",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "9,349"
-          },
-          {
-            "(INR Mn)": "Adjustments for:",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "(INR Mn)": "Depreciation and amortisation expenses 1,560 2,956",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "1,685"
-          },
-          {
-            "(INR Mn)": "Finance costs 1,079 1,547",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "205"
-          },
-          {
-            "(INR Mn)": "Gain on lease termination -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Net Gain on disposal of property, plant & equipment - (71)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "2"
-          },
-          {
-            "(INR Mn)": "Net Gain on disposal of other intangible assets (1) -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Net Gain on disposal of investment subsidiaries - -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Interest income (213) (72)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(12)"
-          },
-          {
-            "(INR Mn)": "Income from government grants (4) (154)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(96)"
-          },
-          {
-            "(INR Mn)": "Net gains on disposal of inv in MFs measured at FVTPL (16) (55)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(9)"
-          },
-          {
-            "(INR Mn)": "Impairment of non-financial assets 200",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Foreign exchange differences (7) 335",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(238)"
-          },
-          {
-            "(INR Mn)": "Liabilities no longer payable written back -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(2)"
-          },
-          {
-            "(INR Mn)": "Bad debts written off 13",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Reversal/utilisation of Prov of exp credit loss on TR (12) 256",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "210"
-          },
-          {
-            "(INR Mn)": "Provision for warranties & advances 25 60",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "4"
-          },
-          {
-            "(INR Mn)": "Unwinding of disc on security deposits at amortised cost (7) (14)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(9)"
-          },
-          {
-            "(INR Mn)": "Net changes in fair value of forex forward contracts 4 (30)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "24"
-          },
-          {
-            "(INR Mn)": "Amortisation of security deposit (initial deferred portion) 1",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Operating profit before working capital changes",
-            "FY25": "7,449",
-            "FY26": "18,133",
-            "H1FY27": "11,113"
-          },
-          {
-            "(INR Mn)": "Changes in working capital",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "(INR Mn)": "(Increase)/Decrease in trade receivables (943) (5,313)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(1,453)"
-          },
-          {
-            "(INR Mn)": "(Increase)/Decrease in inventories (4,522) (9,522)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(1,736)"
-          },
-          {
-            "(INR Mn)": "(Increase)/Decrease in other financial assets (120 ) (74)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(134)"
-          },
-          {
-            "(INR Mn)": "(Increase)/Decrease in Other Current assets (868) (1,131)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "956"
-          },
-          {
-            "(INR Mn)": "(Increase)/Decrease Other non current assets (48) (18)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(5)"
-          },
-          {
-            "(INR Mn)": "Increase/(Decrease) in trade payables 1,921 5130",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(4,449)"
-          },
-          {
-            "(INR Mn)": "Increase/(Decrease) in other financial liabilities 39 36",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(4)"
-          },
-          {
-            "(INR Mn)": "Increase/(Decrease) in provision 9 9",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "2"
-          },
-          {
-            "(INR Mn)": "Increase/(Decrease) in other current liabilities 3,226 (3,140)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "909"
-          },
-          {
-            "(INR Mn)": "Increase/(Decrease) in other non current liabilities 762 (204)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(93)"
-          },
-          {
-            "(INR Mn)": "Cash generated from operations",
-            "FY25": "6,904",
-            "FY26": "3,906",
-            "H1FY27": "5,107"
-          },
-          {
-            "(INR Mn)": "Income taxes paid (net of refunds) (655) (1,905)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(1,008)"
-          },
-          {
-            "(INR Mn)": "Net cash flow/(Used) from/in operating activities (A)",
-            "FY25": "6,249",
-            "FY26": "2,001",
-            "H1FY27": "4,099"
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 1,
-        "row_count": 28,
-        "rows": [
-          {
-            "(INR Mn)": "B. Cash flows from investing activities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "(INR Mn)": "Purchase of property, plant and equipment (including CWIP (9,883) (6,531) and capital advances)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(11,118)"
-          },
-          {
-            "(INR Mn)": "Proceeds from government grant 1,268",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Purchase of intangible assets (2) (3)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Proceeds from sale of Property, Plant and Equipment - 134",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "4"
-          },
-          {
-            "(INR Mn)": "Proceeds from sale of other intangible assets 1 -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Proceeds from bank deposits other than cash 2,355 (48)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "1,085"
-          },
-          {
-            "(INR Mn)": "Loan given to a related party (145)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Loan repayments received from a related party 145",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Investments in mutual funds (8,677) (12,129)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Investments in equity - (265)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(53)"
-          },
-          {
-            "(INR Mn)": "Proceeds from disposal of investment in debt MFs 6,125 14,452",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "310"
-          },
-          {
-            "(INR Mn)": "Sale of Investments in subsidiaries -",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Interest received 224 79",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "28"
-          },
-          {
-            "(INR Mn)": "Net cash flow/(Used) from investing activities (B)",
-            "FY25": "(9,857)",
-            "FY26": "(3,041)",
-            "H1FY27": "(9,744)"
-          },
-          {
-            "(INR Mn)": "C. Cash flow from financing activities",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": ""
-          },
-          {
-            "(INR Mn)": "Proceeds from borrowings 7,253 1,450",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "8,007"
-          },
-          {
-            "(INR Mn)": "Repayment of borrowings (2,169) (19,112)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(674)"
-          },
-          {
-            "(INR Mn)": "Principal paid on lease liabilities (23) (134)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(113)"
-          },
-          {
-            "(INR Mn)": "Interest paid on lease liabilities (25) (168)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(93)"
-          },
-          {
-            "(INR Mn)": "Proceeds from issue of equity shares (Net of share 20,600 expenses of INR 811.62 mn",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Interest paid (1,065) (1,333)",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "(112)"
-          },
-          {
-            "(INR Mn)": "Net cash flow from/in financing activities (C)",
-            "FY25": "3,970",
-            "FY26": "1,303",
-            "H1FY27": "7,014"
-          },
-          {
-            "(INR Mn)": "D. Net increase/(decrease) in cash and cash equivalents (A+B+C)",
-            "FY25": "362",
-            "FY26": "263",
-            "H1FY27": "1,369"
-          },
-          {
-            "(INR Mn)": "Cash and cash equivalents at the beginning of the year 1,823 2,186",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "2,426"
-          },
-          {
-            "(INR Mn)": "Cash and cash equivalents transferred on disposal of a - subsidiary",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Effect of exchange rate changes on cash and cash 1 (24) equivalents",
-            "FY25": "",
-            "FY26": "",
-            "H1FY27": "-"
-          },
-          {
-            "(INR Mn)": "Cash & cash equivalents at end of the year",
-            "FY25": "2,186",
-            "FY26": "2,426",
-            "H1FY27": "3,795"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "eb5de737-4b03-49af-98f7-fffce3465a92",
-    "SCRIP_CD": 500878,
-    "XML_NAME": "ANN_500878_EB5DE737-4B03-49AF-98F7-FFFCE3465A92",
-    "NEWSSUB": "Ceat Ltd - 500878 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-14T19:21:08.72",
-    "NEWS_DT": "2026-10-14T19:21:08.72",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5030bfa8-95ca-43dc-a881-0fa944399f32.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ceat-ltd/ceatltd/500878/",
-    "SLONGNAME": "Ceat Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-10-14T19:21:08",
-    "DissemDT": "2026-10-14T19:21:08.72",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2294696,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "4762",
-      "net_profit": "112",
-      "operating_profit": "1.93",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1db94521-3299-49ca-aa3e-d395fd77180a",
-    "SCRIP_CD": 544837,
-    "XML_NAME": "ANN_544837_1DB94521-3299-49CA-AA3E-D395FD77180A",
-    "NEWSSUB": "INDO-MIM Ltd - 544837 - Announcement under Regulation 30 (LODR)-Acquisition",
-    "DT_TM": "2026-10-14T19:20:58.937",
-    "NEWS_DT": "2026-10-14T19:20:58.937",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e6cecc53-7d10-480f-b6c3-2d760602977a.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board Meeting held on today i.e Wednesday, October 14, 2026, pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/indo-mim-ltd/indomim/544837/",
-    "SLONGNAME": "INDO-MIM Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-10-14T19:20:58",
-    "DissemDT": "2026-10-14T19:20:58.937",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 209777,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "32a00522-b724-4952-9f18-ef6eb0d6a064",
-    "SCRIP_CD": 537254,
-    "XML_NAME": "ANN_537254_32A00522-B724-4952-9F18-EF6EB0D6A064",
-    "NEWSSUB": "JTL Defence Ltd - 537254 - Announcement under Regulation 30 (LODR)-Raising of Funds",
-    "DT_TM": "2026-10-14T19:20:26.15",
-    "NEWS_DT": "2026-10-14T19:20:26.15",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "01cb2f48-dd3a-44c2-8ddc-18cc31c99fc2.pdf",
-    "MORE": "",
-    "HEADLINE": "Raising of Funds through Rights Issue",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jtl-defence-ltd/jtldefence/537254/",
-    "SLONGNAME": "JTL Defence Ltd",
-    "AGENDA_ID": 146,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-10-14T19:20:26",
-    "DissemDT": "2026-10-14T19:20:26.15",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1979389,
-    "SUBCATNAME": "Raising of Funds",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Particulars": "Type of securities proposed to be issued (viz. equity shares, convertibles etc.);",
-            "Details": "Fully paid-up equity shares of the Company"
-          },
-          {
-            "S. No.": "2",
-            "Particulars": "Type of issuance (further public offering, rights issue, depository receipts (ADR/GDR), qualified institutions placement, preferential allotment etc.);",
-            "Details": "Rights Issue to eligible Public Shareholders of the Company"
-          },
-          {
-            "S. No.": "3",
-            "Particulars": "Total number of securities proposed to be issued or the total amount for which the securities will be issued (approximately);",
-            "Details": "Not exceeding INR 2,460 Lakhs"
-          },
-          {
-            "S. No.": "4",
-            "Particulars": "In case of preferential issue the listed entity shall disclose the following additional details to the stock exchange(s): i. names of the investors; ii. post allotment of securities - outcome of the subscription, issue price / allotted price (in case of convertibles), number of investors; iii. in case of convertibles - intimation on conversion of securities or on lapse of the tenure of the instrument;",
-            "Details": "Not Applicable"
-          },
-          {
-            "S. No.": "5",
-            "Particulars": "In case of bonus issue the listed entity shall disclose the following additional details to the stock exchange(s): i. whether bonus is out of free reserves created out of profits or share premium account; ii. bonus ratio; iii. details of share capital - pre and post bonus issue; iv. free reserves and/ or share premium required for implementing the bonus issue; v. free reserves and/ or share premium available for capitalization and the date as on which such balance is available; vi. whether the aforesaid figures are audited; vii. estimated date by which such bonus shares would be credited/dispatched;",
-            "Details": "Not Applicable"
-          },
-          {
-            "S. No.": "6",
-            "Particulars": "In case of issuance of depository receipts (ADR/GDR) or FCCB the listed entity shall disclose following additional details to the stock exchange(s): i. name of the stock exchange(s) where ADR/GDR/FCCBs are listed (opening – closing status) / proposed to be listed; ii. proposed no. of equity shares underlying the ADR/GDR or on conversion of FCCBs; iii. proposed date of allotment, tenure, date of maturity and coupon offered, if any of FCCB’s; iv. issue price of ADR/GDR/FCCBs (in terms of USD and in INR after considering conversion rate); v. change in terms of FCCBs, if any; vi. details of defaults, if any, by the listed entity in payment of coupon on FCCBs & subsequent updates in relation to the",
-            "Details": "Not Applicable"
           }
         ]
       }
