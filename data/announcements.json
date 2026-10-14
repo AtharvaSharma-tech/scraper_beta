@@ -1,5 +1,43 @@
 [
   {
+    "NEWSID": "2b7d5ca3-9b64-440f-922f-7b7e0ed5b318",
+    "SCRIP_CD": 503310,
+    "XML_NAME": "ANN_503310_2B7D5CA3-9B64-440F-922F-7B7E0ED5B318",
+    "NEWSSUB": "Swan Corp Ltd - 503310 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-14T07:26:35.233",
+    "NEWS_DT": "2026-10-14T07:26:35.233",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4886e297-4ed0-4255-871e-14465f503291.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release - Swan Realty Launches ''Bodhi'' - an exquisite, low-density residential project in Jayanagar.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/swan-corp-ltd/swancorp/503310/",
+    "SLONGNAME": "Swan Corp Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-14T07:26:35",
+    "DissemDT": "2026-10-14T07:26:35.237",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 935039,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Swan Realty, the real‑estate arm of Swan Corp Ltd, announced the launch of “Bodhi,” a low‑density luxury residential project in Jayanagar, Bengaluru. The development spans **30,000 sq ft**, comprises **24",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "c94744b4-7a5c-4a0b-a0e0-08db3b7e3e20",
     "SCRIP_CD": 542774,
     "XML_NAME": "ANN_542774_C94744B4-7A5C-4A0B-A0E0-08DB3B7E3E20",
@@ -13030,379 +13068,6 @@
             "Sl. No.": "13",
             "Particulars": "Delay in payment of interest/ principal amount for a period of more than 3 months from the due date or default in payment of interest/ principal",
             "Details": "Not Applicable"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "4ce61844-4abf-43a6-b077-1009d50684ca",
-    "SCRIP_CD": 544420,
-    "XML_NAME": "ANN_544420_4CE61844-4ABF-43A6-B077-1009D50684CA",
-    "NEWSSUB": "Raymond Realty Ltd - 544420 - Announcement Under Regulation 30 Of SEBI Listing Regulations - Clarifications With Regards To Queries Raised By NSE In The Notice Of EGM Held On October 08, 2026.",
-    "DT_TM": "2026-10-13T19:26:34.517",
-    "NEWS_DT": "2026-10-13T19:26:34.517",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4388f528-e1c1-49c7-ac5c-0f937233510b.pdf",
-    "MORE": "Please find enclosed herewith the clarifications with regards to queries raised by NSE in the Notice of the Extra-Ordinary General Meeting of the Company held on October 08, 2026 for approval of increase in authorized share capital and preferential issue of securities on private placement basis.",
-    "HEADLINE": "Please find enclosed herewith the clarifications with regards to queries raised by NSE in the Notice of the Extra-Ordinary General Meeting of the Company held on October 08, 2026 for approval ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/raymond-realty-ltd/raymondrel/544420/",
-    "SLONGNAME": "Raymond Realty Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-10-13T19:26:34",
-    "DissemDT": "2026-10-13T19:26:34.517",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 284058,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* **Allocation of Issue Proceeds:** The company detailed the planned utilization of preferential issue proceeds within three years of receipt, allocating ₹247 crore for approval and construction of the Pokhran Road project in Thane, ₹60 crore for the realty project near Lake Shore Mall in Thane, and ₹102 crore for general corporate purposes (with warrant proceeds to be received within 18 months of allotment).\n* **Impact on Shareholding Pattern:** Following the preferential issue (post-warrant and ESOP), the Promoter and Promoter Group's total holding is set to increase from 3,39,04,628 shares (50.93% as of September 11, 2026) to 4,05,62,001 shares (55.04%).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 25,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Category & Name of the Shareholders (I)": "",
-            "Pre-Warrant (As on September 11, 2026)": "Total nos. shares held",
-            "col_4": "Shareholding as a % of total no. of shares",
-            "Post-Warrant + ESOP": "Total nos. shares held",
-            "col_6": "Shareholding as a % of total no. of shares"
-          },
-          {
-            "Sr. No.": "A",
-            "Category & Name of the Shareholders (I)": "Table II - Statement showing shareholding pattern of the Promoter and Promoter Group",
-            "Pre-Warrant (As on September 11, 2026)": "",
-            "col_4": "",
-            "Post-Warrant + ESOP": "",
-            "col_6": ""
-          },
-          {
-            "Sr. No.": "(1)",
-            "Category & Name of the Shareholders (I)": "Indian",
-            "Pre-Warrant (As on September 11, 2026)": "",
-            "col_4": "",
-            "Post-Warrant + ESOP": "",
-            "col_6": ""
-          },
-          {
-            "Sr. No.": "(a)",
-            "Category & Name of the Shareholders (I)": "Individuals/Hindu undivided Family",
-            "Pre-Warrant (As on September 11, 2026)": "8,607",
-            "col_4": "0.01",
-            "Post-Warrant + ESOP": "8,607",
-            "col_6": "0.01"
-          },
-          {
-            "Sr. No.": "(b)",
-            "Category & Name of the Shareholders (I)": "Central Government/ State Government(s)",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(c)",
-            "Category & Name of the Shareholders (I)": "Financial Institutions/ Banks",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(d)",
-            "Category & Name of the Shareholders (I)": "Any Other (specify)",
-            "Pre-Warrant (As on September 11, 2026)": "3,38,96,021",
-            "col_4": "50.92",
-            "Post-Warrant + ESOP": "4,05,53,394",
-            "col_6": "55.03"
-          },
-          {
-            "Sr. No.": "",
-            "Category & Name of the Shareholders (I)": "Sub-Total (A)(1)",
-            "Pre-Warrant (As on September 11, 2026)": "3,39,04,628",
-            "col_4": "50.93",
-            "Post-Warrant + ESOP": "4,05,62,001",
-            "col_6": "55.04"
-          },
-          {
-            "Sr. No.": "(2)",
-            "Category & Name of the Shareholders (I)": "Foreign",
-            "Pre-Warrant (As on September 11, 2026)": "",
-            "col_4": "",
-            "Post-Warrant + ESOP": "",
-            "col_6": ""
-          },
-          {
-            "Sr. No.": "(a)",
-            "Category & Name of the Shareholders (I)": "Individuals (Non Resident Individuals/ Foreign Individuals)",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(b)",
-            "Category & Name of the Shareholders (I)": "Government",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(c)",
-            "Category & Name of the Shareholders (I)": "Institutions",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(d)",
-            "Category & Name of the Shareholders (I)": "Foreign Portfolio Investor",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(e)",
-            "Category & Name of the Shareholders (I)": "Any Other (specify)",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "",
-            "Category & Name of the Shareholders (I)": "Sub-Total (A)(2)",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "-",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "-"
-          },
-          {
-            "Sr. No.": "",
-            "Category & Name of the Shareholders (I)": "Total Shareholding of Promoter and Promoter Group (A)=(A)(1)+(A)(2)",
-            "Pre-Warrant (As on September 11, 2026)": "3,39,04,628",
-            "col_4": "50.93",
-            "Post-Warrant + ESOP": "4,05,62,001",
-            "col_6": "55.04"
-          },
-          {
-            "Sr. No.": "",
-            "Category & Name of the Shareholders (I)": "Details of Shares which remain unclaimed for Promoter & Promoter Group",
-            "Pre-Warrant (As on September 11, 2026)": "",
-            "col_4": "",
-            "Post-Warrant + ESOP": "",
-            "col_6": ""
-          },
-          {
-            "Sr. No.": "B",
-            "Category & Name of the Shareholders (I)": "Table III - Statement showing shareholding pattern of the Public shareholder",
-            "Pre-Warrant (As on September 11, 2026)": "",
-            "col_4": "",
-            "Post-Warrant + ESOP": "",
-            "col_6": ""
-          },
-          {
-            "Sr. No.": "(1)",
-            "Category & Name of the Shareholders (I)": "Institutions (Domestic)",
-            "Pre-Warrant (As on September 11, 2026)": "",
-            "col_4": "",
-            "Post-Warrant + ESOP": "",
-            "col_6": ""
-          },
-          {
-            "Sr. No.": "(a)",
-            "Category & Name of the Shareholders (I)": "Mutual Funds",
-            "Pre-Warrant (As on September 11, 2026)": "250",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "250",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(b)",
-            "Category & Name of the Shareholders (I)": "Venture Capital Funds",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(c)",
-            "Category & Name of the Shareholders (I)": "Alternate Investment Funds",
-            "Pre-Warrant (As on September 11, 2026)": "8,72,930",
-            "col_4": "1.31",
-            "Post-Warrant + ESOP": "8,72,930",
-            "col_6": "1.18"
-          },
-          {
-            "Sr. No.": "(d)",
-            "Category & Name of the Shareholders (I)": "Banks",
-            "Pre-Warrant (As on September 11, 2026)": "3,353",
-            "col_4": "0.01",
-            "Post-Warrant + ESOP": "3,353",
-            "col_6": "0.00"
-          },
-          {
-            "Sr. No.": "(e)",
-            "Category & Name of the Shareholders (I)": "Insurance Companies",
-            "Pre-Warrant (As on September 11, 2026)": "7,11,908",
-            "col_4": "1.07",
-            "Post-Warrant + ESOP": "7,11,908",
-            "col_6": "0.97"
-          },
-          {
-            "Sr. No.": "(f)",
-            "Category & Name of the Shareholders (I)": "Provident Funds/ Pension Funds",
-            "Pre-Warrant (As on September 11, 2026)": "-",
-            "col_4": "0.00",
-            "Post-Warrant + ESOP": "-",
-            "col_6": "0.00"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "(g)": "(h)",
-            "Resident Individuals": "Any Other",
-            "2,11,32,551": "-",
-            "31.74": "0.00",
-            "2,15,93,766": "-",
-            "29.30": "0.00"
-          },
-          {
-            "(g)": "(i)",
-            "Resident Individuals": "Non Resident Indians (NRIs)",
-            "2,11,32,551": "12,04,716",
-            "31.74": "1.81",
-            "2,15,93,766": "12,04,716",
-            "29.30": "1.63"
-          },
-          {
-            "(g)": "(j)",
-            "Resident Individuals": "Foreign Nationals",
-            "2,11,32,551": "-",
-            "31.74": "0.00",
-            "2,15,93,766": "-",
-            "29.30": "0.00"
-          },
-          {
-            "(g)": "(k)",
-            "Resident Individuals": "Foreign Companies",
-            "2,11,32,551": "-",
-            "31.74": "0.00",
-            "2,15,93,766": "-",
-            "29.30": "0.00"
-          },
-          {
-            "(g)": "(l)",
-            "Resident Individuals": "Bodies Corporate",
-            "2,11,32,551": "21,08,652",
-            "31.74": "3.17",
-            "2,15,93,766": "21,08,652",
-            "29.30": "2.86"
-          },
-          {
-            "(g)": "(m)",
-            "Resident Individuals": "Any Other (specify) - Trust, Escrow Account, Body Corp-Ltd Liability Partnership, Office Bearers, Hindu Undivided Family, Clearing Member",
-            "2,11,32,551": "21,25,523",
-            "31.74": "3.19",
-            "2,15,93,766": "21,25,523",
-            "29.30": "2.88"
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Sub-Total (B)(4)",
-            "2,11,32,551": "2,72,42,278",
-            "31.74": "40.92",
-            "2,15,93,766": "2,77,03,493",
-            "29.30": "37.59"
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Total Public Shareholding (B)=(B)(1)+(B)(2)+(B)(3)+(B)(4)",
-            "2,11,32,551": "3,26,46,803",
-            "31.74": "49.04",
-            "2,15,93,766": "3,31,08,018",
-            "29.30": "44.93"
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Details of the shareholders acting as persons in Concert for Public",
-            "2,11,32,551": "",
-            "31.74": "",
-            "2,15,93,766": "",
-            "29.30": ""
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Details of Shares which remain unclaimed for Public",
-            "2,11,32,551": "",
-            "31.74": "",
-            "2,15,93,766": "",
-            "29.30": ""
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Table IV - Statement showing shareholding pattern of the Non Promoter- Non Public shareholder",
-            "2,11,32,551": "",
-            "31.74": "",
-            "2,15,93,766": "",
-            "29.30": ""
-          },
-          {
-            "(g)": "(1)",
-            "Resident Individuals": "Custodian/DR Holder - Name of DR Holders (If Available)",
-            "2,11,32,551": "",
-            "31.74": "",
-            "2,15,93,766": "",
-            "29.30": ""
-          },
-          {
-            "(g)": "(2)",
-            "Resident Individuals": "Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",
-            "2,11,32,551": "22,300",
-            "31.74": "0.03",
-            "2,15,93,766": "22,300",
-            "29.30": "0.03"
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Total Non Promoter - Non Public Shareholding (C)= (C)(1)+(C)(2)",
-            "2,11,32,551": "22,300",
-            "31.74": "0.03",
-            "2,15,93,766": "22,300",
-            "29.30": "0.03"
-          },
-          {
-            "(g)": "",
-            "Resident Individuals": "Total (A+B+C )",
-            "2,11,32,551": "6,65,73,731",
-            "31.74": "100.00",
-            "2,15,93,766": "7,36,92,319",
-            "29.30": "100.00"
           }
         ]
       }
