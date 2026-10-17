@@ -1,5 +1,270 @@
 [
   {
+    "NEWSID": "39e85cd2-0cd8-404f-9d33-cf3d03d95238",
+    "SCRIP_CD": 539872,
+    "XML_NAME": "ANN_539872_39E85CD2-0CD8-404F-9D33-CF3D03D95238",
+    "NEWSSUB": "Bajaj Healthcare Ltd - 539872 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-17T22:28:35.52",
+    "NEWS_DT": "2026-10-17T22:28:35.52",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d29cfa8f-60de-43db-9c0a-2c190a699eee.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release on the financial results of the Company for the quarter ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bajaj-healthcare-ltd/bajajhcare/539872/",
+    "SLONGNAME": "Bajaj Healthcare Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-10-17T22:28:35",
+    "DissemDT": "2026-10-17T22:28:35.52",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 691212,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Q2 FY27 (quarter ended 30 Sept 2026) performance:** Revenue rose to **₹175.9 cr** (+18.9% YoY, +6.2% QoQ); EBITDA increased to **₹32.1",
+    "key_metrics": {
+      "revenue": "18.9",
+      "net_profit": "26.9",
+      "operating_profit": "12.2",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "API — Domestic",
+            "col_2": "",
+            "Q2 FY27": "71.6",
+            "col_4": "76.3",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "(6.1%)",
+            "col_8": "",
+            "Q1 FY27": "92.3",
+            "col_10": "(22.4%)",
+            "Q-o-Q": "",
+            "H1 FY27": "163.9",
+            "col_13": "",
+            "H1 FY26": "148.9",
+            "col_15": "10.1%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "API — Exports",
+            "col_2": "",
+            "Q2 FY27": "62.6",
+            "col_4": "48.7",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "28.5%",
+            "col_8": "",
+            "Q1 FY27": "50.1",
+            "col_10": "25.1%",
+            "Q-o-Q": "",
+            "H1 FY27": "112.7",
+            "col_13": "",
+            "H1 FY26": "100.9",
+            "col_15": "11.6%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "Formulations",
+            "col_2": "",
+            "Q2 FY27": "41.7",
+            "col_4": "22.9",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "82.0%",
+            "col_8": "",
+            "Q1 FY27": "23.3",
+            "col_10": "78.8%",
+            "Q-o-Q": "",
+            "H1 FY27": "65.0",
+            "col_13": "",
+            "H1 FY26": "47.0",
+            "col_15": "38.4%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "Revenue from Operations",
+            "col_2": "",
+            "Q2 FY27": "175.9",
+            "col_4": "147.9",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "18.9%",
+            "col_8": "",
+            "Q1 FY27": "165.6",
+            "col_10": "6.2%",
+            "Q-o-Q": "",
+            "H1 FY27": "341.5",
+            "col_13": "",
+            "H1 FY26": "296.8",
+            "col_15": "15.1%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "Gross Profit",
+            "col_2": "",
+            "Q2 FY27": "85.4",
+            "col_4": "76.0",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "12.4%",
+            "col_8": "",
+            "Q1 FY27": "80.3",
+            "col_10": "6.3%",
+            "Q-o-Q": "",
+            "H1 FY27": "165.8",
+            "col_13": "",
+            "H1 FY26": "145.1",
+            "col_15": "14.2%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "Gross Margin (%)",
+            "col_2": "",
+            "Q2 FY27": "48.3%",
+            "col_4": "50.8%",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "",
+            "col_8": "",
+            "Q1 FY27": "48.3%",
+            "col_10": "",
+            "Q-o-Q": "",
+            "H1 FY27": "48.3%",
+            "col_13": "",
+            "H1 FY26": "48.5%",
+            "col_15": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "EBITDA",
+            "col_2": "",
+            "Q2 FY27": "32.1",
+            "col_4": "28.6",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "12.2%",
+            "col_8": "",
+            "Q1 FY27": "29.6",
+            "col_10": "8.6%",
+            "Q-o-Q": "",
+            "H1 FY27": "61.7",
+            "col_13": "",
+            "H1 FY26": "54.0",
+            "col_15": "14.2%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "EBITDA Margin (%)",
+            "col_2": "",
+            "Q2 FY27": "18.2%",
+            "col_4": "19.3%",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "",
+            "col_8": "",
+            "Q1 FY27": "17.8%",
+            "col_10": "",
+            "Q-o-Q": "",
+            "H1 FY27": "18.1%",
+            "col_13": "",
+            "H1 FY26": "18.2%",
+            "col_15": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "PAT*",
+            "col_2": "",
+            "Q2 FY27": "14.1",
+            "col_4": "11.1",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "26.9%",
+            "col_8": "",
+            "Q1 FY27": "13.7",
+            "col_10": "2.9%",
+            "Q-o-Q": "",
+            "H1 FY27": "27.8",
+            "col_13": "",
+            "H1 FY26": "22.9",
+            "col_15": "21.1%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars": "PAT Margin",
+            "col_2": "",
+            "Q2 FY27": "8.0%",
+            "col_4": "7.5%",
+            "Q2 FY26": "",
+            "col_6": "",
+            "Y-o-Y": "",
+            "col_8": "",
+            "Q1 FY27": "8.3%",
+            "col_10": "",
+            "Q-o-Q": "",
+            "H1 FY27": "8.1%",
+            "col_13": "",
+            "H1 FY26": "7.7%",
+            "col_15": "",
+            "Y-o-Y_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "01894d11-473e-4d23-b680-8ff3a6ae8eb7",
+    "SCRIP_CD": 500180,
+    "XML_NAME": "ANN_500180_01894D11-473E-4D23-B680-8FF3A6AE8EB7",
+    "NEWSSUB": "HDFC Bank Ltd - 500180 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-10-17T22:09:53.187",
+    "NEWS_DT": "2026-10-17T22:09:53.187",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "02249387-5ae1-4593-8555-3d1ae1bb4d91.pdf",
+    "MORE": "",
+    "HEADLINE": "Audio Recording of Earnings Call in relation to the unaudited standalone and consolidated financial results of the HDFC Bank Limited for the quarter and half-year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hdfc-bank-ltd/hdfcbank/500180/",
+    "SLONGNAME": "HDFC Bank Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-10-17T22:09:53",
+    "DissemDT": "2026-10-17T22:09:53.187",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 243773,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "01894d11-473e-4d23-b680-8ff3a6ae8eb7",
+    "INVESTOR_PRESENTATION": "d7e336d9-69ff-499a-b202-0e4c32d84989.pdf",
+    "RECORDID": 14585451,
+    "DataInsDate": "2026-10-17T22:09:53.123",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e336d9-69ff-499a-b202-0e4c32d84989.pdf",
+    "summary": "- HDFC Bank announced that the audio recording of its earnings call with analysts and investors—covering the unaudited standalone and consolidated results for the quarter and half‑year ended 30 September 2026—has been posted on its investor‑relations website (https://www.hdfc.bank.in/about-us/investor-relations).  \n- The call was held on 17 October 2026, and the announcement was issued on the same date (Ref. No. SE/2026‑27/131).  \n\n*No specific financial figures or decisions are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "b6d6fb8d-32a1-4234-a8a9-e3c741c4515b",
     "SCRIP_CD": 530075,
     "XML_NAME": "ANN_530075_B6D6FB8D-32A1-4234-A8A9-E3C741C4515B",
@@ -16709,361 +16974,6 @@
             "col_10": "",
             "col_11": "",
             "col_12": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "7792bf8a-2944-4f8a-a36a-9f9e28107fa4",
-    "SCRIP_CD": 544537,
-    "XML_NAME": "ANN_544537_7792BF8A-2944-4F8A-A36A-9F9E28107FA4",
-    "NEWSSUB": "Jain Resource Recycling Ltd - 544537 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-17T18:09:36.91",
-    "NEWS_DT": "2026-10-17T18:09:36.91",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8deb8c67-eb4d-4097-b39a-dd843ef1765b.pdf",
-    "MORE": "",
-    "HEADLINE": "Jain Resource Recycling Limited has informed the exchange on newspaper publication relating to Postal Ballot",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jain-resource-recycling-ltd/jainrec/544537/",
-    "SLONGNAME": "Jain Resource Recycling Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-10-17T18:09:36",
-    "DissemDT": "2026-10-17T18:09:36.91",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 10978869,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "6782",
-      "operating_profit": "1615",
-      "face_value": "2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 2,
-        "row_count": 11,
-        "rows": [
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "StatementofUnauditedConsolidatedandStandaloneFinancialResultsfortheQuarterandHalfY",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "Sl. No.",
-            "col_2": "Particulars",
-            "col_3": "ConsolidatedResults",
-            "col_4": ""
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "",
-            "col_2": "",
-            "col_3": "QuarterEnded 30-Sep-26",
-            "col_4": "HalfYearEnded QuarterEnded QuarterEnde 30-Sep-26 30-Sep-25 30-Sep-26"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "1",
-            "col_2": "Revenuefromoperations",
-            "col_3": "Unaudited 3,931",
-            "col_4": "Unaudited Unaudited Unaudited 7,669 3,106 2,94"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "2",
-            "col_2": "NetProtfortheperiod(beforeTaxand/or Exceptionalitems)",
-            "col_3": "393",
-            "col_4": "615 365 26"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "3",
-            "col_2": "NetProtfortheperiodbeforetax (afterExceptionalitems)",
-            "col_3": "393",
-            "col_4": "615 365 26"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "4",
-            "col_2": "NetProtfortheperiodaftertax (afterExceptionalitems) TotalComprehensiveIncomefortheperiod",
-            "col_3": "340",
-            "col_4": "503 321 19"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "5",
-            "col_2": "",
-            "col_3": "373",
-            "col_4": "539 333 19"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "6",
-            "col_2": "EarningsPerShare[FaceValueof`10pershare]* (a)Basic(in`)",
-            "col_3": "4.28",
-            "col_4": "6.34 4.05 2.4"
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "(b)Diluted(in`) 4.28 6.33 4.05 2.4",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "CyientDLMLimited Regdofce:PlotNo.5G,SurveyNo.99/1,MamidipalliVillage,GMRAe GMRHyderabadAviationSEZLimited,RajivGandhiInternationalAirpo Shamshabad,Hyderabad-500108. Tel.No.+91-040-69354601,Email:company.secretary@cyientdlm.c Website:www.cyientdlm.comCINNo.:L31909TG1993PLC141346": "*EPSforthequarterlyandhalfyearlyperiodarenotannualised. NOTES: 1 TheunauditednancialresultswerereviewedandrecommendedbytheAuditCommitteeandapprovedbytheBoardofDire 2026.TheStatutoryAuditorshavecarriedoutalimitedreviewontheunauditedconsolidatedandstandalonenancialresultsa 2 TheabovenancialresultsareanextractofthedetailedformatofquarterlynancialresultsledwiththeStockExchangesu OtherDisclosureRequirements)Regulations,2015.ThefullformatofthequarterlynancialresultsisavailableontheStockE www.nseindia.com,andalsoontheCompany’swebsite:www.cyientdlm.com.Thesamecanalsobeaccessedbyscanningt Place:Hyderabad Date: October15,2026 Chief",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "bce4125c-77e5-4184-b436-5302985fa25b",
-    "SCRIP_CD": 539437,
-    "XML_NAME": "ANN_539437_BCE4125C-77E5-4184-B436-5302985FA25B",
-    "NEWSSUB": "IDFC First Bank Ltd - 539437 - Announcement under Regulation 30 (LODR)-Credit Rating",
-    "DT_TM": "2026-10-17T18:07:52.407",
-    "NEWS_DT": "2026-10-17T18:07:52.407",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "53f104de-0c93-464c-8b4a-e2cd44b48c96.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed disclosure.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/idfc-first-bank-ltd/idfcfirstb/539437/",
-    "SLONGNAME": "IDFC First Bank Ltd",
-    "AGENDA_ID": 46,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-10-17T18:07:52",
-    "DissemDT": "2026-10-17T18:07:52.407",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1024448,
-    "SUBCATNAME": "Credit Rating",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "As on/for the period ended": "Total assets",
-            "Unit": "Rs crore",
-            "Jun’26": "4,20,790",
-            "Jun’25": "3,61,525",
-            "Mar’26": "3,99,775",
-            "Mar’25": "3,43,909"
-          },
-          {
-            "As on/for the period ended": "Total income (net of interest expense)",
-            "Unit": "Rs crore",
-            "Jun’26": "8,284",
-            "Jun’25": "7,160",
-            "Mar’26": "29,089",
-            "Mar’25": "26,270"
-          },
-          {
-            "As on/for the period ended": "Pre-provisioning operating profit",
-            "Unit": "Rs crore",
-            "Jun’26": "2,626",
-            "Jun’25": "2,230",
-            "Mar’26": "7,186",
-            "Mar’25": "7,379"
-          },
-          {
-            "As on/for the period ended": "PAT",
-            "Unit": "Rs crore",
-            "Jun’26": "1,148",
-            "Jun’25": "453",
-            "Mar’26": "1,611",
-            "Mar’25": "1,490"
-          },
-          {
-            "As on/for the period ended": "Return on assets (annualized)",
-            "Unit": "%",
-            "Jun’26": "1.1",
-            "Jun’25": "0.5",
-            "Mar’26": "0.4",
-            "Mar’25": "0.5"
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 1,
-        "row_count": 3,
-        "rows": [
-          {
-            "As on/for the period ended": "GNPAs",
-            "Unit": "%",
-            "Jun’26": "1.51",
-            "Jun’25": "1.97",
-            "Mar’26": "1.61",
-            "Mar’25": "1.87"
-          },
-          {
-            "As on/for the period ended": "PAT",
-            "Unit": "Rs crore",
-            "Jun’26": "1,075",
-            "Jun’25": "463",
-            "Mar’26": "1,636",
-            "Mar’25": "1,525"
-          },
-          {
-            "As on/for the period ended": "Overall capital adequacy ratio",
-            "Unit": "%",
-            "Jun’26": "15.1",
-            "Jun’25": "15.0",
-            "Mar’26": "15.6",
-            "Mar’25": "15.5"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 23,
-        "rows": [
-          {
-            "2": "3",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI)*$",
-            "MCA": "RBI"
-          },
-          {
-            "2": "4",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI)*",
-            "MCA": "SEBI"
-          },
-          {
-            "2": "5",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI)*",
-            "MCA": "RBI"
-          },
-          {
-            "2": "6",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
-            "MCA": "RBI"
-          },
-          {
-            "2": "7",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
-            "MCA": "RBI"
-          },
-          {
-            "2": "8",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/FIs ^",
-            "MCA": "RBI"
-          },
-          {
-            "2": "9",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "External Commercial Borrowings and other similar borrowings",
-            "MCA": "RBI"
-          },
-          {
-            "2": "10",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Certificates of Deposit",
-            "MCA": "RBI"
-          },
-          {
-            "2": "11a",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Fixed Deposits raised by NBFC's, HFCs, Fis",
-            "MCA": "RBI"
-          },
-          {
-            "2": "11b",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Fixed Deposits raised by Banks",
-            "MCA": "+"
-          },
-          {
-            "2": "12",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
-            "MCA": "MCA"
-          },
-          {
-            "2": "13",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Inter Corporate Deposits/Loans extended by Corporates",
-            "MCA": "MCA"
-          },
-          {
-            "2": "14",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Borrowing programme ~",
-            "MCA": "-"
-          },
-          {
-            "2": "15",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Issuer Ratings #",
-            "MCA": "-"
-          },
-          {
-            "2": "16",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Credit Ratings for Capital Protection Oriented Schemes (by Mutual Funds and AIFs)",
-            "MCA": "SEBI"
-          },
-          {
-            "2": "17",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
-            "MCA": "SEBI"
-          },
-          {
-            "2": "18",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed Security Receipts$",
-            "MCA": "RBI"
-          },
-          {
-            "2": "19",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted Security Receipts",
-            "MCA": "RBI"
-          },
-          {
-            "2": "20",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Independent Credit Evaluation (ICE)",
-            "MCA": "RBI"
-          },
-          {
-            "2": "21",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Expected Loss Ratings (for Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/Fis)",
-            "MCA": "+"
-          },
-          {
-            "2": "22",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Expected Loss Ratings (Listed/Proposed to be listed bonds/debentures/preference share (all securities))",
-            "MCA": "SEBI"
-          },
-          {
-            "2": "23",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Expected Loss Ratings (Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities))",
-            "MCA": "MCA"
-          },
-          {
-            "2": "24",
-            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) *",
-            "MCA": "Investor-side regulator such as IRDAI, PFRDA @"
           }
         ]
       }
