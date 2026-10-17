@@ -1,5 +1,2153 @@
 [
   {
+    "NEWSID": "b2af046c-3097-4760-8f00-26947116163e",
+    "SCRIP_CD": 531583,
+    "XML_NAME": "ANN_531583_B2AF046C-3097-4760-8F00-26947116163E",
+    "NEWSSUB": "Rap Corp Ltd - 531583 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:59:36.84",
+    "NEWS_DT": "2026-10-17T16:59:36.84",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5a432937-f764-476d-b686-d6ad3f8a98dc.pdf",
+    "MORE": "",
+    "HEADLINE": "Certificate under regulation 74(5) of the SEBI (DP) Regulations 2018 for the quarter ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rap-corp-ltd/rap/531583/",
+    "SLONGNAME": "Rap Corp Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:59:36",
+    "DissemDT": "2026-10-17T16:59:36.84",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 631113,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Rap Corp Ltd received a Certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter 1 July – 30 September 2026, confirming that no physical share certificates were received for dematerialisation during this period.  \n- The certificate, issued by Satellite Corporate Services Pvt. Ltd. (SEBI Reg. INR000003639), confirms that all securities are already listed on stock exchanges and have been duly cancelled/mutilated in favour of the depository.  \n\n*No specific financial figures or monetary decisions are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "676b8c27-db28-4ca0-bcc7-a5fb021097b3",
+    "SCRIP_CD": 541358,
+    "XML_NAME": "ANN_541358_676B8C27-DB28-4CA0-BCC7-A5FB021097B3",
+    "NEWSSUB": "Unifinz Capital India Ltd - 541358 - Shareholder Meeting-EGM On 11Th November, 2026",
+    "DT_TM": "2026-10-17T16:56:19.94",
+    "NEWS_DT": "2026-10-17T16:56:19.94",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "fd2a280d-270d-47f9-8bba-1a8fd4e4174f.pdf",
+    "MORE": "",
+    "HEADLINE": "Notice of Extra-Ordinary General Meeting to be held on 11th November, 2026 at 03:00 P.M.",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/unifinz-capital-india-ltd/ucil/541358/",
+    "SLONGNAME": "Unifinz Capital India Ltd",
+    "AGENDA_ID": 28,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:56:19",
+    "DissemDT": "2026-10-17T16:56:19.94",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 897983,
+    "SUBCATNAME": "EGM",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Extra‑Ordinary General Meeting (EGM) details:** The meeting (EGM‑01/2026‑27) will be held on **Wednesday, 11 Nov 2026 at 03:00 PM** via video‑conferencing/other",
+    "key_metrics": {
+      "dividend": "",
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 23,
+        "table_index": 0,
+        "row_count": 20,
+        "rows": [
+          {
+            "Sr. No.": "",
+            "Category": "",
+            "Pre-Issue Shareholding": "No. of equity shares held (A)",
+            "col_4": "% of Shares",
+            "Proposed Preferenti al Issue": "Warrants to Be Allotted Upto (B)",
+            "Post-Issue shareholding (Post Preferential allotment)": "No. of equity shares held (A+B)",
+            "col_7": "% of Shares",
+            "No. Of Outstandi ng ESOP Granted (C)": "",
+            "Post issue fully diluted shareholding": "No of Equity Shares (A+B+C)#",
+            "col_10": "% of holdings"
+          },
+          {
+            "Sr. No.": "A",
+            "Category": "Promoter & Promoter Group Shareholding",
+            "Pre-Issue Shareholding": "",
+            "col_4": "",
+            "Proposed Preferenti al Issue": "",
+            "Post-Issue shareholding (Post Preferential allotment)": "",
+            "col_7": "",
+            "No. Of Outstandi ng ESOP Granted (C)": "",
+            "Post issue fully diluted shareholding": "",
+            "col_10": ""
+          },
+          {
+            "Sr. No.": "A1",
+            "Category": "Indian Promoter",
+            "Pre-Issue Shareholding": "87,82,125",
+            "col_4": "19.84%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "87,82,125",
+            "col_7": "16.24%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "87,82,125",
+            "col_10": "15.10%"
+          },
+          {
+            "Sr. No.": "A2",
+            "Category": "Foreign Promoter",
+            "Pre-Issue Shareholding": "0",
+            "col_4": "0",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "0",
+            "col_7": "0.00%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "0",
+            "col_10": "0.00%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Sub Total (A)",
+            "Pre-Issue Shareholding": "87,82,125",
+            "col_4": "19.84%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "87,82,125",
+            "col_7": "16.24%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "87,82,125",
+            "col_10": "15.10%"
+          },
+          {
+            "Sr. No.": "B",
+            "Category": "Public Shareholding",
+            "Pre-Issue Shareholding": "",
+            "col_4": "",
+            "Proposed Preferenti al Issue": "",
+            "Post-Issue shareholding (Post Preferential allotment)": "",
+            "col_7": "",
+            "No. Of Outstandi ng ESOP Granted (C)": "",
+            "Post issue fully diluted shareholding": "",
+            "col_10": ""
+          },
+          {
+            "Sr. No.": "B1",
+            "Category": "Institutions",
+            "Pre-Issue Shareholding": "",
+            "col_4": "",
+            "Proposed Preferenti al Issue": "",
+            "Post-Issue shareholding (Post Preferential allotment)": "",
+            "col_7": "",
+            "No. Of Outstandi ng ESOP Granted (C)": "",
+            "Post issue fully diluted shareholding": "",
+            "col_10": ""
+          },
+          {
+            "Sr. No.": "B2",
+            "Category": "Institutions (Domestic)",
+            "Pre-Issue Shareholding": "38,50,000",
+            "col_4": "8.70%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "38,50,000",
+            "col_7": "7.12%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "38,50,000",
+            "col_10": "6.62%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Mutual Funds",
+            "Pre-Issue Shareholding": "0",
+            "col_4": "0",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "0",
+            "col_7": "0.00%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "0",
+            "col_10": "0.00%"
+          },
+          {
+            "Sr. No.": "B3",
+            "Category": "Institutions (Foreign)",
+            "Pre-Issue Shareholding": "50,00,000",
+            "col_4": "11.29%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "50,00,000",
+            "col_7": "9.25%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "50,00,000",
+            "col_10": "8.60%"
+          },
+          {
+            "Sr. No.": "B4",
+            "Category": "Central Government/ State Government(s)/ President of India",
+            "Pre-Issue Shareholding": "0",
+            "col_4": "0",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "0",
+            "col_7": "0.00%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "0",
+            "col_10": "0.00%"
+          },
+          {
+            "Sr. No.": "B5",
+            "Category": "Non-Institutions",
+            "Pre-Issue Shareholding": "",
+            "col_4": "",
+            "Proposed Preferenti al Issue": "",
+            "Post-Issue shareholding (Post Preferential allotment)": "",
+            "col_7": "",
+            "No. Of Outstandi ng ESOP Granted (C)": "",
+            "Post issue fully diluted shareholding": "",
+            "col_10": ""
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Resident Individuals holding nominal share capital up to Rs. 2 lakhs",
+            "Pre-Issue Shareholding": "9,54,848",
+            "col_4": "2.16%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "9,54,848",
+            "col_7": "1.77%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "9,54,848",
+            "col_10": "1.64%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Resident Individuals holding nominal share capital in excess of Rs. 2 lakhs",
+            "Pre-Issue Shareholding": "2,06,88,899",
+            "col_4": "46.74%",
+            "Proposed Preferenti al Issue": "59,41,000",
+            "Post-Issue shareholding (Post Preferential allotment)": "2,66,29,899",
+            "col_7": "49.25%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "2,66,29,899",
+            "col_10": "45.78%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Non-Resident Indians (NRIs)",
+            "Pre-Issue Shareholding": "57,498",
+            "col_4": "0.13%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "57,498",
+            "col_7": "0.11%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "57,498",
+            "col_10": "0.10%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Foreign Companies",
+            "Pre-Issue Shareholding": "0",
+            "col_4": "0",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "0",
+            "col_7": "0.00%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "0",
+            "col_10": "0.00%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Bodies Corporate",
+            "Pre-Issue Shareholding": "45,15,661",
+            "col_4": "10.20%",
+            "Proposed Preferenti al Issue": "38,60,000",
+            "Post-Issue shareholding (Post Preferential allotment)": "83,75,661",
+            "col_7": "15.49%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "83,75,661",
+            "col_10": "14.40%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Any Other (specify)",
+            "Pre-Issue Shareholding": "4,19,054",
+            "col_4": "0.95%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "4,19,054",
+            "col_7": "0.78%",
+            "No. Of Outstandi ng ESOP Granted (C)": "40,95,000",
+            "Post issue fully diluted shareholding": "45,14,054",
+            "col_10": "7.76%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Sub Total B= B1+B2+B3+B4+B5",
+            "Pre-Issue Shareholding": "3,54,85,960",
+            "col_4": "80.16%",
+            "Proposed Preferenti al Issue": "0",
+            "Post-Issue shareholding (Post Preferential allotment)": "4,52,86,960",
+            "col_7": "82.76%",
+            "No. Of Outstandi ng ESOP Granted (C)": "0",
+            "Post issue fully diluted shareholding": "4,93,81,960",
+            "col_10": "84.90%"
+          },
+          {
+            "Sr. No.": "",
+            "Category": "Total Shareholding(A+B)",
+            "Pre-Issue Shareholding": "4,42,68,085",
+            "col_4": "100%",
+            "Proposed Preferenti al Issue": "98,01,000",
+            "Post-Issue shareholding (Post Preferential allotment)": "5,40,69,085",
+            "col_7": "100.00%",
+            "No. Of Outstandi ng ESOP Granted (C)": "40,95,000",
+            "Post issue fully diluted shareholding": "5,81,64,085",
+            "col_10": "100.00%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "c1adf2c6-00cb-4448-af73-e377980ad1a9",
+    "SCRIP_CD": 531859,
+    "XML_NAME": "ANN_531859_C1ADF2C6-00CB-4448-AF73-E377980AD1A9",
+    "NEWSSUB": "Oriental Rail Infrastructure Ltd - 531859 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-17T16:54:56.153",
+    "NEWS_DT": "2026-10-17T16:54:56.153",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "79ae3131-f187-4d0e-8d7a-5c8d77a291a1.pdf",
+    "MORE": "",
+    "HEADLINE": "Earnings Call scheduled on Saturday, October 24, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+    "SLONGNAME": "Oriental Rail Infrastructure Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:54:56",
+    "DissemDT": "2026-10-17T16:54:56.153",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1030754,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "c1adf2c6-00cb-4448-af73-e377980ad1a9",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14584924,
+    "DataInsDate": "2026-10-17T16:54:56.067",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Oriental Rail Infrastructure Ltd will hold its Q2 FY 27 earnings call on **Saturday, 24 October 2026 at 12:00 pm IST**, with management (Chairman/MD/CFO and other representatives) participating; the call’s transcript and audio will be posted on the company’s website thereafter as required by SEBI Regulation 30.  \n\n- The announcement contains **no specific financial figures or decisions**; it solely informs about the timing, participants, and access details for the upcoming earnings discussion.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c04ba836-7b62-471c-9914-e0cd15be7e37",
+    "SCRIP_CD": 532174,
+    "XML_NAME": "ANN_532174_C04BA836-7B62-471C-9914-E0CD15BE7E37",
+    "NEWSSUB": "ICICI Bank Ltd - 532174 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-17T16:53:49.853",
+    "NEWS_DT": "2026-10-17T16:53:49.853",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b831cebf-9ddc-48a6-861f-1879e07a86fc.pdf",
+    "MORE": "",
+    "HEADLINE": "The investor presentation which will be referred during the earnings call with analysts and investors for the financial results of the Bank for the quarter and six months ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/icici-bank-ltd/icicibank/532174/",
+    "SLONGNAME": "ICICI Bank Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:53:49",
+    "DissemDT": "2026-10-17T16:53:49.853",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1210986,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "7.50 bn",
+      "net_profit": "501.47",
+      "operating_profit": "704.01",
+      "total_assets": "2",
+      "total_equity": "3114.42",
+      "total_debt": "1118.18",
+      "eps": "70.2",
+      "dividend": "1",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "(₹ billion)": "Net interest income1",
+            "FY2026": "880.75",
+            "Q2- 2026": "215.29",
+            "H1- 2026": "431.64",
+            "Q1- 2027": "243.84",
+            "Q2- 2027": "253.39",
+            "H1- 2027": "497.23",
+            "Q2-o-Q2 (%)": "17.7%"
+          },
+          {
+            "(₹ billion)": "Non-interest income",
+            "FY2026": "295.60",
+            "Q2- 2026": "73.56",
+            "H1- 2026": "146.20",
+            "Q1- 2027": "84.25",
+            "Q2- 2027": "82.77",
+            "H1- 2027": "167.02",
+            "Q2-o-Q2 (%)": "12.5%"
+          },
+          {
+            "(₹ billion)": "- Fee income",
+            "FY2026": "257.42",
+            "Q2- 2026": "64.91",
+            "H1- 2026": "123.91",
+            "Q1- 2027": "72.86",
+            "Q2- 2027": "77.95",
+            "H1- 2027": "150.81",
+            "Q2-o-Q2 (%)": "20.1%"
+          },
+          {
+            "(₹ billion)": "- Dividend income from subsidiaries",
+            "FY2026": "34.58",
+            "Q2- 2026": "8.10",
+            "H1- 2026": "21.46",
+            "Q1- 2027": "11.10",
+            "Q2- 2027": "4.63",
+            "H1- 2027": "15.73",
+            "Q2-o-Q2 (%)": "(42.9)%"
+          },
+          {
+            "(₹ billion)": "- Others",
+            "FY2026": "3.60",
+            "Q2- 2026": "0.55",
+            "H1- 2026": "0.83",
+            "Q1- 2027": "0.29",
+            "Q2- 2027": "0.19",
+            "H1- 2027": "0.48",
+            "Q2-o-Q2 (%)": "(64.4)%"
+          },
+          {
+            "(₹ billion)": "Core operating income",
+            "FY2026": "1,176.35",
+            "Q2- 2026": "288.85",
+            "H1- 2026": "577.84",
+            "Q1- 2027": "328.09",
+            "Q2- 2027": "336.16",
+            "H1- 2027": "664.25",
+            "Q2-o-Q2 (%)": "16.4%"
+          },
+          {
+            "(₹ billion)": "Operating expenses",
+            "FY2026": "472.34",
+            "Q2- 2026": "118.07",
+            "H1- 2026": "232.01",
+            "Q1- 2027": "125.74",
+            "Q2- 2027": "128.11",
+            "H1- 2027": "253.85",
+            "Q2-o-Q2 (%)": "8.5%"
+          },
+          {
+            "(₹ billion)": "- Employee expenses",
+            "FY2026": "179.75",
+            "Q2- 2026": "43.42",
+            "H1- 2026": "90.85",
+            "Q1- 2027": "50.05",
+            "Q2- 2027": "49.28",
+            "H1- 2027": "99.33",
+            "Q2-o-Q2 (%)": "13.5%"
+          },
+          {
+            "(₹ billion)": "- Non-employee expenses",
+            "FY2026": "292.59",
+            "Q2- 2026": "74.65",
+            "H1- 2026": "141.16",
+            "Q1- 2027": "75.69",
+            "Q2- 2027": "78.83",
+            "H1- 2027": "154.52",
+            "Q2-o-Q2 (%)": "5.6%"
+          },
+          {
+            "(₹ billion)": "Core operating profit",
+            "FY2026": "704.01",
+            "Q2- 2026": "170.78",
+            "H1- 2026": "345.83",
+            "Q1- 2027": "202.35",
+            "Q2- 2027": "208.05",
+            "H1- 2027": "410.40",
+            "Q2-o-Q2 (%)": "21.8%"
+          },
+          {
+            "(₹ billion)": "Core operating profit excluding dividend income",
+            "FY2026": "669.43",
+            "Q2- 2026": "162.68",
+            "H1- 2026": "324.37",
+            "Q1- 2027": "191.25",
+            "Q2- 2027": "203.42",
+            "H1- 2027": "394.67",
+            "Q2-o-Q2 (%)": "25.0%"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "₹ in billion": "Core operating profit",
+            "FY2026": "704.01",
+            "Q2- 2026": "170.78",
+            "H1- 2026": "345.83",
+            "Q1- 2027": "202.35",
+            "Q2- 2027": "208.05"
+          },
+          {
+            "₹ in billion": "Provisions",
+            "FY2026": "1 53.80",
+            "Q2- 2026": "9.14",
+            "H1- 2026": "27.29",
+            "Q1- 2027": "12.60",
+            "Q2- 2027": "8.51"
+          },
+          {
+            "₹ in billion": "Profit before tax excluding treasury",
+            "FY2026": "650.21",
+            "Q2- 2026": "161.64",
+            "H1- 2026": "318.54",
+            "Q1- 2027": "189.75",
+            "Q2- 2027": "199.54"
+          },
+          {
+            "₹ in billion": "Treasury income",
+            "FY2026": "11.98",
+            "Q2- 2026": "2.20",
+            "H1- 2026": "14.61",
+            "Q1- 2027": "1.51",
+            "Q2- 2027": "(2.30)"
+          },
+          {
+            "₹ in billion": "Profit before tax",
+            "FY2026": "662.19",
+            "Q2- 2026": "163.84",
+            "H1- 2026": "333.15",
+            "Q1- 2027": "191.26",
+            "Q2- 2027": "197.24"
+          },
+          {
+            "₹ in billion": "Tax",
+            "FY2026": "160.72",
+            "Q2- 2026": "40.25",
+            "H1- 2026": "81.88",
+            "Q1- 2027": "43.21",
+            "Q2- 2027": "48.81"
+          },
+          {
+            "₹ in billion": "Profit after tax",
+            "FY2026": "501.47",
+            "Q2- 2026": "123.59",
+            "H1- 2026": "251.27",
+            "Q1- 2027": "148.05",
+            "Q2- 2027": "148.43"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "Percent": "Net interest margin1,2",
+            "FY2026": "4.32",
+            "Q2- 2026": "4.30",
+            "H1- 2026": "4.32",
+            "Q1- 2027": "4.36",
+            "Q2- 2027": "4.18",
+            "H1- 2027": "4.27"
+          },
+          {
+            "Percent": "",
+            "FY2026": "",
+            "Q2- 2026": "4.64",
+            "H1- 2026": "4.75 4.41",
+            "Q1- 2027": "",
+            "Q2- 2027": "4.50",
+            "H1- 2027": "4.45"
+          },
+          {
+            "Percent": "Cost-to-income",
+            "FY2026": "39.7",
+            "Q2- 2026": "40.6",
+            "H1- 2026": "39.2",
+            "Q1- 2027": "38.1",
+            "Q2- 2027": "38.4",
+            "H1- 2027": "38.3"
+          },
+          {
+            "Percent": "Core operating profit/average assets",
+            "FY2026": "3.26",
+            "Q2- 2026": "3.22",
+            "H1- 2026": "3.28",
+            "Q1- 2027": "3.40",
+            "Q2- 2027": "3.17",
+            "H1- 2027": "3.28"
+          },
+          {
+            "Percent": "Provisions/core operating profit",
+            "FY2026": "7.6",
+            "Q2- 2026": "5.4",
+            "H1- 2026": "7.9",
+            "Q1- 2027": "6.2",
+            "Q2- 2027": "4.1",
+            "H1- 2027": "5.1"
+          },
+          {
+            "Percent": "Provisions/average advances",
+            "FY2026": "0.38",
+            "Q2- 2026": "0.26",
+            "H1- 2026": "0.40",
+            "Q1- 2027": "0.32",
+            "Q2- 2027": "0.20",
+            "H1- 2027": "0.25"
+          },
+          {
+            "Percent": "Return on average assets",
+            "FY2026": "2.32",
+            "Q2- 2026": "2.33",
+            "H1- 2026": "2.38",
+            "Q1- 2027": "2.49",
+            "Q2- 2027": "2.26",
+            "H1- 2027": "2.37"
+          },
+          {
+            "Percent": "Standalone return on equity",
+            "FY2026": "16.0",
+            "Q2- 2026": "16.0",
+            "H1- 2026": "16.6",
+            "Q1- 2027": "17.1",
+            "Q2- 2027": "16.6",
+            "H1- 2027": "16.9"
+          },
+          {
+            "Percent": "Weighted average EPS (₹)",
+            "FY2026": "70.2",
+            "Q2- 2026": "69.2",
+            "H1- 2026": "70.4",
+            "Q1- 2027": "82.6",
+            "Q2- 2027": "82.7",
+            "H1- 2027": "82.7"
+          },
+          {
+            "Percent": "Book value (₹)",
+            "FY2026": "471.2",
+            "Q2- 2026": "436.0",
+            "H1- 2026": "436.0",
+            "Q1- 2027": "492.8",
+            "Q2- 2027": "502.3",
+            "H1- 2027": "502.3"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Profit before tax (₹ billion)": "Retail",
+            "FY2026": "232.44",
+            "Q2-2026": "63.18",
+            "H1-2026": "110.53",
+            "Q1-2027": "62.39",
+            "Q2-2027": "77.17",
+            "H1-2027": "139.56"
+          },
+          {
+            "Profit before tax (₹ billion)": "Wholesale",
+            "FY2026": "244.89",
+            "Q2-2026": "57.60",
+            "H1-2026": "111.47",
+            "Q1-2027": "74.79",
+            "Q2-2027": "79.11",
+            "H1-2027": "153.90"
+          },
+          {
+            "Profit before tax (₹ billion)": "Treasury",
+            "FY2026": "172.30",
+            "Q2-2026": "41.42",
+            "H1-2026": "104.03",
+            "Q1-2027": "48.22",
+            "Q2-2027": "40.15",
+            "H1-2027": "88.38"
+          },
+          {
+            "Profit before tax (₹ billion)": "Others",
+            "FY2026": "12.56",
+            "Q2-2026": "1.64",
+            "H1-2026": "7.12",
+            "Q1-2027": "5.86",
+            "Q2-2027": "0.81",
+            "H1-2027": "6.66"
+          },
+          {
+            "Profit before tax (₹ billion)": "Total",
+            "FY2026": "662.19",
+            "Q2-2026": "163.84",
+            "H1-2026": "333.15",
+            "Q1-2027": "191.26",
+            "Q2-2027": "197.24",
+            "H1-2027": "388.50"
+          }
+        ]
+      },
+      {
+        "page": 36,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "col_1": "",
+            "Sep 30, 20251,2": "(₹ billion) %",
+            "Jun 30, 20261,2": "(₹ billion)",
+            "col_4": "%",
+            "Sep 30, 20261,2": "(₹ billion)",
+            "col_6": "%"
+          },
+          {
+            "col_1": "Total capital",
+            "Sep 30, 20251,2": "2,903.86 17.00%",
+            "Jun 30, 20261,2": "3,281.48",
+            "col_4": "16.84%",
+            "Sep 30, 20261,2": "3,398.72",
+            "col_6": "16.68%"
+          },
+          {
+            "col_1": "- Tier I",
+            "Sep 30, 20251,2": "2,792.69 16.35%",
+            "Jun 30, 20261,2": "3,154.12",
+            "col_4": "16.19%",
+            "Sep 30, 20261,2": "3,262.33",
+            "col_6": "16.01%"
+          },
+          {
+            "col_1": "- of which: CET1",
+            "Sep 30, 20251,2": "2,792.69 16.35%",
+            "Jun 30, 20261,2": "3,154.12",
+            "col_4": "16.19%",
+            "Sep 30, 20261,2": "3,262.33",
+            "col_6": "16.01%"
+          },
+          {
+            "col_1": "- Tier II",
+            "Sep 30, 20251,2": "111.17 0.65%",
+            "Jun 30, 20261,2": "127.36",
+            "col_4": "0.65%",
+            "Sep 30, 20261,2": "136.39",
+            "col_6": "0.67%"
+          },
+          {
+            "col_1": "Risk weighted assets",
+            "Sep 30, 20251,2": "17,084.47",
+            "Jun 30, 20261,2": "19,487.59",
+            "col_4": "",
+            "Sep 30, 20261,2": "20,375.68",
+            "col_6": ""
+          },
+          {
+            "col_1": "- On balance sheet",
+            "Sep 30, 20251,2": "15,194.33",
+            "Jun 30, 20261,2": "17,297.93",
+            "col_4": "",
+            "Sep 30, 20261,2": "17,987.17",
+            "col_6": ""
+          },
+          {
+            "col_1": "- Off balance sheet",
+            "Sep 30, 20251,2": "1,890.14",
+            "Jun 30, 20261,2": "2,189.66",
+            "col_4": "",
+            "Sep 30, 20261,2": "2,388.51",
+            "col_6": ""
+          }
+        ]
+      },
+      {
+        "page": 38,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Profit after tax (₹ billion)": "ICICI Life Insurance",
+            "FY2026": "16.00",
+            "Q2- 2026": "2.99",
+            "H1- Q1- 2026 2027": "6.01 3.86",
+            "Q2- 2027": "3.74",
+            "H1- 2027": "7.60"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Lombard General Insurance",
+            "FY2026": "27.72",
+            "Q2- 2026": "8.20",
+            "H1- Q1- 2026 2027": "3 15.67 4.03",
+            "Q2- 2027": "9.46",
+            "H1- 2027": "13.50"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Prudential Asset Management1",
+            "FY2026": "33.13",
+            "Q2- 2026": "8.38",
+            "H1- Q1- 2026 2027": "16.22 9.65",
+            "Q2- 2027": "8.89",
+            "H1- 2027": "18.54"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Securities (Consolidated)1",
+            "FY2026": "17.13",
+            "Q2- 2026": "4.25",
+            "H1- Q1- 2026 2027": "8.16 4.19",
+            "Q2- 2027": "4.39",
+            "H1- 2027": "8.58"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Securities Primary Dealership1,2",
+            "FY2026": "4.47",
+            "Q2- 2026": "(0.32)",
+            "H1- Q1- 2026 2027": "4.12 0.98",
+            "Q2- 2027": "0.06",
+            "H1- 2027": "1.04"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Home Finance1",
+            "FY2026": "8.61",
+            "Q2- 2026": "2.03",
+            "H1- Q1- 2026 2027": "4.17 2.00",
+            "Q2- 2027": "2.20",
+            "H1- 2027": "4.20"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Venture",
+            "FY2026": "1.48",
+            "Q2- 2026": "1.31",
+            "H1- Q1- 2026 2027": "1.30 0.86",
+            "Q2- 2027": "0.11",
+            "H1- 2027": "0.97"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Bank UK (USD million)",
+            "FY2026": "25.3",
+            "Q2- 2026": "6.4",
+            "H1- Q1- 2026 2027": "12.3 7.2",
+            "Q2- 2027": "6.5",
+            "H1- 2027": "13.8"
+          },
+          {
+            "Profit after tax (₹ billion)": "ICICI Bank Canada (CAD million)",
+            "FY2026": "24.0",
+            "Q2- 2026": "6.3",
+            "H1- Q1- 2026 2027": "14.1 5.4",
+            "Q2- 2027": "5.0",
+            "H1- 2027": "10.4"
+          }
+        ]
+      },
+      {
+        "page": 45,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Movement in yield, costs & margins (Percent)1": "Yield on total interest-earning assets",
+            "FY2026": "8.33",
+            "Q2-2026": "8.34",
+            "H1-2026": "8.47",
+            "Q1-2027": "8.17",
+            "Q2-2027": "8.09",
+            "H1-2027": "8.13"
+          },
+          {
+            "Movement in yield, costs & margins (Percent)1": "- Yield on advances",
+            "FY2026": "9.19",
+            "Q2-2026": "9.29",
+            "H1-2026": "9.41",
+            "Q1-2027": "8.86",
+            "Q2-2027": "8.82",
+            "H1-2027": "8.83"
+          },
+          {
+            "Movement in yield, costs & margins (Percent)1": "Cost of funds",
+            "FY2026": "4.75",
+            "Q2-2026": "4.78",
+            "H1-2026": "4.90",
+            "Q1-2027": "4.51",
+            "Q2-2027": "4.59",
+            "H1-2027": "4.55"
+          },
+          {
+            "Movement in yield, costs & margins (Percent)1": "- Cost of deposits",
+            "FY2026": "4.62",
+            "Q2-2026": "4.64",
+            "H1-2026": "4.75",
+            "Q1-2027": "4.41",
+            "Q2-2027": "4.50",
+            "H1-2027": "4.45"
+          },
+          {
+            "Movement in yield, costs & margins (Percent)1": "Net interest margin2",
+            "FY2026": "4.32",
+            "Q2-2026": "4.302",
+            "H1-2026": "4.32",
+            "Q1-2027": "4.36",
+            "Q2-2027": "4.18",
+            "H1-2027": "4.27"
+          },
+          {
+            "Movement in yield, costs & margins (Percent)1": "- Domestic",
+            "FY2026": "4.39",
+            "Q2-2026": "4.37",
+            "H1-2026": "4.39",
+            "Q1-2027": "4.45",
+            "Q2-2027": "4.32",
+            "H1-2027": "4.38"
+          },
+          {
+            "Movement in yield, costs & margins (Percent)1": "- Overseas",
+            "FY2026": "0.96",
+            "Q2-2026": "0.98",
+            "H1-2026": "0.96",
+            "Q1-2027": "1.01",
+            "Q2-2027": "1.07",
+            "H1-2027": "1.05"
+          }
+        ]
+      },
+      {
+        "page": 46,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "(₹ billion)": "Net interest income",
+            "FY2026": "1,061.90",
+            "Q2- 2026": "261.63",
+            "H1- 2026": "521.53",
+            "Q1- 2027": "291.77",
+            "Q2- 2027": "303.36"
+          },
+          {
+            "(₹ billion)": "Non-interest income",
+            "FY2026": "1,169.00",
+            "Q2- 2026": "279.66",
+            "H1- 2026": "534.62",
+            "Q1- 2027": "274.48",
+            "Q2- 2027": "321.69"
+          },
+          {
+            "(₹ billion)": "",
+            "FY2026": "",
+            "Q2- 2026": "86.60",
+            "H1- 2026": "166.54 96.35 331.69 167.80",
+            "Q1- 2027": "",
+            "Q2- 2027": "103.28"
+          },
+          {
+            "(₹ billion)": "",
+            "FY2026": "",
+            "Q2- 2026": "184.33",
+            "H1- 2026": "",
+            "Q1- 2027": "",
+            "Q2- 2027": "213.93"
+          },
+          {
+            "(₹ billion)": "- Other income",
+            "FY2026": "46.81",
+            "Q2- 2026": "8.73",
+            "H1- 2026": "36.39",
+            "Q1- 2027": "10.33",
+            "Q2- 2027": "4.49"
+          },
+          {
+            "(₹ billion)": "Total income",
+            "FY2026": "2,230.90",
+            "Q2- 2026": "541.29",
+            "H1- 2026": "1,056.15",
+            "Q1- 2027": "566.25",
+            "Q2- 2027": "625.05"
+          },
+          {
+            "(₹ billion)": "Operating expenses",
+            "FY2026": "1,403.94",
+            "Q2- 2026": "341.55",
+            "H1- 2026": "643.24",
+            "Q1- 2027": "340.21",
+            "Q2- 2027": "384.95"
+          },
+          {
+            "(₹ billion)": "Operating profit",
+            "FY2026": "826.96",
+            "Q2- 2026": "199.74",
+            "H1- 2026": "412.91",
+            "Q1- 2027": "226.04",
+            "Q2- 2027": "240.10"
+          }
+        ]
+      },
+      {
+        "page": 47,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "(₹ billion)": "Operating profit",
+            "FY2026": "826.96",
+            "Q2- 2026": "199.74",
+            "H1- 2026": "412.91",
+            "Q1- 2027": "226.04",
+            "Q2- 2027": "240.10"
+          },
+          {
+            "(₹ billion)": "Provisions",
+            "FY2026": "56.39",
+            "Q2- 2026": "9.10",
+            "H1- 2026": "27.32",
+            "Q1- 2027": "12.97",
+            "Q2- 2027": "8.95"
+          },
+          {
+            "(₹ billion)": "Profit before tax",
+            "FY2026": "770.57",
+            "Q2- 2026": "190.64",
+            "H1- 2026": "385.59",
+            "Q1- 2027": "213.07",
+            "Q2- 2027": "231.15"
+          },
+          {
+            "(₹ billion)": "Tax",
+            "FY2026": "193.83",
+            "Q2- 2026": "48.07",
+            "H1- 2026": "99.08",
+            "Q1- 2027": "50.97",
+            "Q2- 2027": "58.03"
+          },
+          {
+            "(₹ billion)": "Share in profit of associates",
+            "FY2026": "2.63",
+            "Q2- 2026": "0.61",
+            "H1- 2026": "1.24",
+            "Q1- 2027": "0.66",
+            "Q2- 2027": "0.77"
+          },
+          {
+            "(₹ billion)": "Minority interest",
+            "FY2026": "37.29",
+            "Q2- 2026": "9.61",
+            "H1- 2026": "18.60",
+            "Q1- 2027": "8.36",
+            "Q2- 2027": "10.56"
+          },
+          {
+            "(₹ billion)": "Profit after tax",
+            "FY2026": "542.08",
+            "Q2- 2026": "133.57",
+            "H1- 2026": "269.15",
+            "Q1- 2027": "154.40",
+            "Q2- 2027": "163.33"
+          }
+        ]
+      },
+      {
+        "page": 48,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "Percent": "Return on equity",
+            "col_2": "",
+            "FY2026": "16.0",
+            "Q2- 2026": "16.1",
+            "H1- 2026": "16.5",
+            "Q1- 2027": "16.6",
+            "Q2- 2027": "16.9",
+            "H1- 2027": "16.8"
+          },
+          {
+            "Percent": "Weighted average EPS (₹)",
+            "col_2": "",
+            "FY2026": "75.9",
+            "Q2- 2026": "74.8",
+            "H1- 2026": "75.5",
+            "Q1- 2027": "86.2",
+            "Q2- 2027": "91.0",
+            "H1- 2027": "88.6"
+          },
+          {
+            "Percent": "Book value (₹)",
+            "col_2": "",
+            "FY2026": "492",
+            "Q2- 2026": "458",
+            "H1- 2026": "458",
+            "Q1- 2027": "516",
+            "Q2- 2027": "528",
+            "H1- 2027": "528"
+          }
+        ]
+      },
+      {
+        "page": 49,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "(₹ billion)": "Net worth",
+            "Sep 30, 2025": "3,114.42",
+            "Jun 30, 2026": "3,534.91 14.35 3,520.56",
+            "Sep 30, 2026": "3,605.94"
+          },
+          {
+            "(₹ billion)": "- Equity capital",
+            "Sep 30, 2025": "14.29",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "14.36"
+          },
+          {
+            "(₹ billion)": "- Reserves",
+            "Sep 30, 2025": "3,100.13",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "3,591.58"
+          },
+          {
+            "(₹ billion)": "Deposits",
+            "Sep 30, 2025": "16,128.25",
+            "Jun 30, 2026": "18,335.86 2,478.86 4,763.70 11,093.30",
+            "Sep 30, 2026": "20,498.74"
+          },
+          {
+            "(₹ billion)": "- Current",
+            "Sep 30, 2025": "2,067.47",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "2,652.47"
+          },
+          {
+            "(₹ billion)": "- Savings",
+            "Sep 30, 2025": "4,521.24",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "4,756.04"
+          },
+          {
+            "(₹ billion)": "- Term",
+            "Sep 30, 2025": "9,539.54",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "13,090.23"
+          },
+          {
+            "(₹ billion)": "Borrowings",
+            "Sep 30, 2025": "1,118.18",
+            "Jun 30, 2026": "1,262.92",
+            "Sep 30, 2026": "2,045.53"
+          },
+          {
+            "(₹ billion)": "Other liabilities",
+            "Sep 30, 2025": "1,001.86",
+            "Jun 30, 2026": "1,190.57",
+            "Sep 30, 2026": "1,102.66"
+          },
+          {
+            "(₹ billion)": "Total liabilities",
+            "Sep 30, 2025": "21,362.71",
+            "Jun 30, 2026": "24,324.26",
+            "Sep 30, 2026": "27,252.87"
+          }
+        ]
+      },
+      {
+        "page": 50,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "(₹ billion)": "Domestic",
+            "Sep 30, 2025": "888.11",
+            "Jun 30, 2026": "963.82",
+            "Sep 30, 2026": "936.49"
+          },
+          {
+            "(₹ billion)": "- Capital instruments",
+            "Sep 30, 2025": "15.00",
+            "Jun 30, 2026": "53.72 910.10 352.69",
+            "Sep 30, 2026": "52.27"
+          },
+          {
+            "(₹ billion)": "- Other borrowings",
+            "Sep 30, 2025": "873.11",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "884.22"
+          },
+          {
+            "(₹ billion)": "- Long term infrastructure bonds",
+            "Sep 30, 2025": "417.69",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "352.69"
+          },
+          {
+            "(₹ billion)": "- Refinance",
+            "Sep 30, 2025": "350.05",
+            "Jun 30, 2026": "474.39",
+            "Sep 30, 2026": "447.10"
+          },
+          {
+            "(₹ billion)": "Overseas borrowings",
+            "Sep 30, 2025": "230.07",
+            "Jun 30, 2026": "299.10",
+            "Sep 30, 2026": "1,109.04"
+          },
+          {
+            "(₹ billion)": "Total borrowings",
+            "Sep 30, 2025": "1,118.18",
+            "Jun 30, 2026": "1,262.92",
+            "Sep 30, 2026": "2,045.53"
+          }
+        ]
+      },
+      {
+        "page": 51,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "(₹ billion)": "Cash & bank balances",
+            "Sep 30, 2025": "1,675.68",
+            "Jun 30, 2026": "1,964.93",
+            "Sep 30, 2026": "2,752.62"
+          },
+          {
+            "(₹ billion)": "Investments",
+            "Sep 30, 2025": "8,997.98",
+            "Jun 30, 2026": "9,393.00",
+            "Sep 30, 2026": "9,487.28"
+          },
+          {
+            "(₹ billion)": "Advances",
+            "Sep 30, 2025": "14,921.61",
+            "Jun 30, 2026": "17,293.28",
+            "Sep 30, 2026": "19,353.85"
+          },
+          {
+            "(₹ billion)": "Fixed & other assets",
+            "Sep 30, 2025": "1,269.58",
+            "Jun 30, 2026": "1,372.86",
+            "Sep 30, 2026": "1,335.78"
+          },
+          {
+            "(₹ billion)": "Total assets",
+            "Sep 30, 2025": "26,864.85",
+            "Jun 30, 2026": "30,024.07",
+            "Sep 30, 2026": "32,929.53"
+          }
+        ]
+      },
+      {
+        "page": 51,
+        "table_index": 1,
+        "row_count": 6,
+        "rows": [
+          {
+            "Net worth": "Minority interest",
+            "3,355.53": "162.38",
+            "3,805.30": "175.33",
+            "3,905.24": "196.81"
+          },
+          {
+            "Net worth": "Deposits",
+            "3,355.53": "16,458.65",
+            "3,805.30": "18,703.63",
+            "3,905.24": "20,915.39"
+          },
+          {
+            "Net worth": "Borrowings",
+            "3,355.53": "2,152.40",
+            "3,805.30": "2,263.18",
+            "3,905.24": "2,955.61"
+          },
+          {
+            "Net worth": "Liabilities on policies in force",
+            "3,355.53": "3,049.90",
+            "3,805.30": "3,146.92",
+            "3,905.24": "3,096.34"
+          },
+          {
+            "Net worth": "Other liabilities",
+            "3,355.53": "1,685.99",
+            "3,805.30": "1,929.71",
+            "3,905.24": "1,860.14"
+          },
+          {
+            "Net worth": "Total liabilities",
+            "3,355.53": "26,864.85",
+            "3,805.30": "30,024.07",
+            "3,905.24": "32,929.53"
+          }
+        ]
+      },
+      {
+        "page": 53,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "(₹ billion)": "Cash & bank balances",
+            "Sep 30, 2025": "1,366.81",
+            "Jun 30, 2026": "1,630.47",
+            "Sep 30, 2026": "2,443.88"
+          },
+          {
+            "(₹ billion)": "Investments",
+            "Sep 30, 2025": "4,995.92",
+            "Jun 30, 2026": "5,385.34 4,255.10 220.29",
+            "Sep 30, 2026": "5,574.94"
+          },
+          {
+            "(₹ billion)": "- SLR investments",
+            "Sep 30, 2025": "3,984.72",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "4,405.95"
+          },
+          {
+            "(₹ billion)": "- Equity investment in subsidiaries",
+            "Sep 30, 2025": "191.72",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "235.00"
+          },
+          {
+            "(₹ billion)": "Advances",
+            "Sep 30, 2025": "14,084.56",
+            "Jun 30, 2026": "16,312.60",
+            "Sep 30, 2026": "18,315.80"
+          },
+          {
+            "(₹ billion)": "Fixed & other assets",
+            "Sep 30, 2025": "915.42",
+            "Jun 30, 2026": "995.85 97.02",
+            "Sep 30, 2026": "918.25"
+          },
+          {
+            "(₹ billion)": "-RIDF1 and related",
+            "Sep 30, 2025": "122.74",
+            "Jun 30, 2026": "",
+            "Sep 30, 2026": "91.67"
+          },
+          {
+            "(₹ billion)": "Total assets",
+            "Sep 30, 2025": "21,362.71",
+            "Jun 30, 2026": "24,324.26",
+            "Sep 30, 2026": "27,252.87"
+          }
+        ]
+      },
+      {
+        "page": 59,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "ICICI Life (₹ billion)": "Annualised premium equivalent",
+            "FY2026": "106.41",
+            "Q2-2026": "24.21",
+            "Q1-2027": "21.36",
+            "Q2-2027": "27.99"
+          },
+          {
+            "ICICI Life (₹ billion)": "- Of which: protection",
+            "FY2026": "19.06",
+            "Q2-2026": "4.19",
+            "Q1-2027": "5.96",
+            "Q2-2027": "5.60"
+          },
+          {
+            "ICICI Life (₹ billion)": "Assets under management",
+            "FY2026": "3,136.34",
+            "Q2-2026": "3,214.94",
+            "Q1-2027": "3,338.18",
+            "Q2-2027": "3,289.64"
+          },
+          {
+            "ICICI Life (₹ billion)": "",
+            "FY2026": "",
+            "Q2-2026": "17.7%",
+            "Q1-2027": "21.8%",
+            "Q2-2027": "18.7%"
+          }
+        ]
+      },
+      {
+        "page": 59,
+        "table_index": 1,
+        "row_count": 3,
+        "rows": [
+          {
+            "ICICI General (₹ billion)": "Gross written premium",
+            "FY2026": "306.18",
+            "Q2-2026": "70.59",
+            "Q1-2027": "88.60",
+            "Q2-2027": "77.02"
+          },
+          {
+            "ICICI General (₹ billion)": "Combined ratio",
+            "FY2026": "103.4%",
+            "Q2-2026": "105.1%3",
+            "Q1-2027": "107.2%4",
+            "Q2-2027": "107.0%3"
+          },
+          {
+            "ICICI General (₹ billion)": "Return on average equity2",
+            "FY2026": "17.8%",
+            "Q2-2026": "21.4%",
+            "Q1-2027": "9.6%4",
+            "Q2-2027": "21.7%"
+          }
+        ]
+      },
+      {
+        "page": 60,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "(USD million)": "Net interest income",
+            "FY2026": "67.2",
+            "Q2-2026": "17.0",
+            "H1-2026": "34.0",
+            "Q1-2027": "16.9",
+            "Q2-2027": "17.1",
+            "H1-2027": "34.0"
+          },
+          {
+            "(USD million)": "Operating profit",
+            "FY2026": "31.6",
+            "Q2-2026": "6.7",
+            "H1-2026": "14.9",
+            "Q1-2027": "9.9",
+            "Q2-2027": "8.9",
+            "H1-2027": "18.7"
+          },
+          {
+            "(USD million)": "Loans and advances",
+            "FY2026": "1,483.7",
+            "Q2-2026": "1,190.4",
+            "H1-2026": "1,190.4",
+            "Q1-2027": "1,664.6",
+            "Q2-2027": "1,827.6",
+            "H1-2027": "1,827.6"
+          },
+          {
+            "(USD million)": "Deposits",
+            "FY2026": "2,248.3",
+            "Q2-2026": "1,881.6",
+            "H1-2026": "1,881.6",
+            "Q1-2027": "2,232.3",
+            "Q2-2027": "2,561.2",
+            "H1-2027": "2,561.2"
+          },
+          {
+            "(USD million)": "- Retail term deposits",
+            "FY2026": "578.8",
+            "Q2-2026": "486.8",
+            "H1-2026": "486.8",
+            "Q1-2027": "672.2",
+            "Q2-2027": "944.6",
+            "H1-2027": "944.6"
+          },
+          {
+            "(USD million)": "Capital adequacy ratio",
+            "FY2026": "19.7%",
+            "Q2-2026": "22.4%",
+            "H1-2026": "22.4%",
+            "Q1-2027": "18.9%",
+            "Q2-2027": "18.1%",
+            "H1-2027": "18.1%"
+          },
+          {
+            "(USD million)": "- Tier I",
+            "FY2026": "17.1%",
+            "Q2-2026": "19.4%",
+            "H1-2026": "19.4%",
+            "Q1-2027": "16.4%",
+            "Q2-2027": "15.7%",
+            "H1-2027": "15.7%"
+          },
+          {
+            "(USD million)": "Net impaired loans",
+            "FY2026": "2.3",
+            "Q2-2026": "1 -",
+            "H1-2026": "1 - 2.3",
+            "Q1-2027": "",
+            "Q2-2027": "2.2",
+            "H1-2027": "2.2"
+          }
+        ]
+      },
+      {
+        "page": 62,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "(CAD million)": "Net interest income",
+            "FY2026": "78.8",
+            "Q2-2026": "20.5",
+            "H1-2026": "42.8",
+            "Q1-2027": "16.8",
+            "Q2-2027": "17.0",
+            "H1-2027": "33.8"
+          },
+          {
+            "(CAD million)": "Operating profit",
+            "FY2026": "36.3",
+            "Q2-2026": "8.6",
+            "H1-2026": "20.0",
+            "Q1-2027": "8.0",
+            "Q2-2027": "7.7",
+            "H1-2027": "15.7"
+          },
+          {
+            "(CAD million)": "Loans and advances",
+            "FY2026": "4,173.8",
+            "Q2-2026": "3,910.5",
+            "H1-2026": "3,910.5",
+            "Q1-2027": "4,235.9",
+            "Q2-2027": "4,255.6",
+            "H1-2027": "4,255.6"
+          },
+          {
+            "(CAD million)": "- Residential mortgages",
+            "FY2026": "2,438.4",
+            "Q2-2026": "2,317.4",
+            "H1-2026": "2,317.4",
+            "Q1-2027": "2,359.6",
+            "Q2-2027": "2,311.6",
+            "H1-2027": "2,311.6"
+          },
+          {
+            "(CAD million)": "Deposits",
+            "FY2026": "2,639.1",
+            "Q2-2026": "2,806.0",
+            "H1-2026": "2,806.0",
+            "Q1-2027": "2,756.3",
+            "Q2-2027": "2,951.6",
+            "H1-2027": "2,951.6"
+          },
+          {
+            "(CAD million)": "Capital adequacy ratio",
+            "FY2026": "18.6%",
+            "Q2-2026": "20.1%",
+            "H1-2026": "20.1%",
+            "Q1-2027": "18.4%",
+            "Q2-2027": "18.2%",
+            "H1-2027": "18.2%"
+          },
+          {
+            "(CAD million)": "- Tier I",
+            "FY2026": "18.3%",
+            "Q2-2026": "19.8%",
+            "H1-2026": "19.8%",
+            "Q1-2027": "18.1%",
+            "Q2-2027": "18.0%",
+            "H1-2027": "18.0%"
+          },
+          {
+            "(CAD million)": "Net impaired loans",
+            "FY2026": "30.8",
+            "Q2-2026": "26.6",
+            "H1-2026": "26.6",
+            "Q1-2027": "31.0",
+            "Q2-2027": "29.8",
+            "H1-2027": "29.8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "36527261-ade6-4f9a-95cc-2a9ed5292d26",
+    "SCRIP_CD": 511712,
+    "XML_NAME": "ANN_511712_36527261-ADE6-4F9A-95CC-2A9ED5292D26",
+    "NEWSSUB": "Relic Technologies Ltd - 511712 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:53:41.77",
+    "NEWS_DT": "2026-10-17T16:53:41.77",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "625262fc-92e9-4302-8ab4-228932be9d89.pdf",
+    "MORE": "",
+    "HEADLINE": "Compliances-Certificate Under Reg. 74(5) of SEBI(DP) Regulation 2018 for Quarter Ended September 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/relic-technologies-ltd/relictec/511712/",
+    "SLONGNAME": "Relic Technologies Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:53:41",
+    "DissemDT": "2026-10-17T16:53:41.77",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 410961,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d9531498-9af7-4635-8941-6c18f035bbaf",
+    "SCRIP_CD": 533282,
+    "XML_NAME": "ANN_533282_D9531498-9AF7-4635-8941-6C18F035BBAF",
+    "NEWSSUB": "Gravita India Ltd - 533282 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "DT_TM": "2026-10-17T16:51:47.94",
+    "NEWS_DT": "2026-10-17T16:51:47.94",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "649865c0-9c63-4060-bf8d-4ef48713ac79.pdf",
+    "MORE": "",
+    "HEADLINE": "Aquisition through subscription to the rights issue of Rashtriya Metal Industries Limited(\"RMIL\"),a material subsidiary of the company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gravita-india-ltd/gravita/533282/",
+    "SLONGNAME": "Gravita India Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:51:47",
+    "DissemDT": "2026-10-17T16:51:47.94",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 818948,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "total_assets": "330",
+      "total_equity": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "39488ae8-a952-4449-8d5f-999d2c899cf9",
+    "SCRIP_CD": 532978,
+    "XML_NAME": "ANN_532978_39488AE8-A952-4449-8D5F-999D2C899CF9",
+    "NEWSSUB": "Bajaj Finserv Ltd - 532978 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "DT_TM": "2026-10-17T16:50:49.577",
+    "NEWS_DT": "2026-10-17T16:50:49.577",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "64f18be1-6f9f-4313-b982-204185bbd5be.pdf",
+    "MORE": "",
+    "HEADLINE": "We wish to inform you about the incorporation of a wholly owned subsidiary company i.e. Bajaj Reinsurance Limited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bajaj-finserv-ltd/bajajfinsv/532978/",
+    "SLONGNAME": "Bajaj Finserv Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:50:49",
+    "DissemDT": "2026-10-17T16:50:49.577",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 247207,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "db964fb6-eca2-4961-adfd-2c5db06e3dc0",
+    "SCRIP_CD": 540902,
+    "XML_NAME": "ANN_540902_DB964FB6-ECA2-4961-ADFD-2C5DB06E3DC0",
+    "NEWSSUB": "Amber Enterprises India Ltd - 540902 - Intimation Regarding Changes In Board Of Directors And Key Managerial Personnel(S) Of IL JIN Electronics (India) Limited, A Material Subsidiary Of The Company",
+    "DT_TM": "2026-10-17T16:49:34.033",
+    "NEWS_DT": "2026-10-17T16:49:34.033",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e11c38cb-c6a3-4b3b-b1bc-0639bee8b3ab.pdf",
+    "MORE": "We hereby inform the exchange that the Board of Directors of IL JIN Electronics (India) Limited (Formerly known as IL JIN Electronics (India) Private Limited at its meeting held on 16th October 2026 approved the appointment of Mr. Satendra Singh as Chief Executive Officer and Whole Time Director of IL JIN with effect from 16th October 2026 for a term of 5 (five) consecutive years. Further, the Board of IL JIN has also noted the cessation of Mr. Sanjay Kumar Arora as Whole Time Director of IL JIN with effect from close of business hours on 16th October 2026.",
+    "HEADLINE": "We hereby inform the exchange that the Board of Directors of IL JIN Electronics (India) Limited (Formerly known as IL JIN Electronics (India) Private Limited at its meeting held on 16th ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/amber-enterprises-india-ltd/amber/540902/",
+    "SLONGNAME": "Amber Enterprises India Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:49:34",
+    "DissemDT": "2026-10-17T16:49:34.033",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1375946,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "in Billions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f00868a0-6e05-4f7a-b58c-7e628716fa21",
+    "SCRIP_CD": 519574,
+    "XML_NAME": "ANN_519574_F00868A0-6E05-4F7A-B58C-7E628716FA21",
+    "NEWSSUB": "Hindustan Agrigenetics Ltd - 519574 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:49:31.223",
+    "NEWS_DT": "2026-10-17T16:49:31.223",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8c4bc82d-23f4-4474-9d0b-5bee577e03f8.pdf",
+    "MORE": "",
+    "HEADLINE": "Certificate Under Regulation 74(5) 0f SEBI (Depositories and Participants ) Regulation,2018 for the quarter ended September 30,2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hindustan-agrigenetics-ltd/hindust/519574/",
+    "SLONGNAME": "Hindustan Agrigenetics Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:49:31",
+    "DissemDT": "2026-10-17T16:49:31.223",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 817677,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9a8be7cd-2ba2-477a-8ab2-a9433e7fd0c1",
+    "SCRIP_CD": 544074,
+    "XML_NAME": "ANN_544074_9A8BE7CD-2BA2-477A-8AB2-A9433E7FD0C1",
+    "NEWSSUB": "Shri Balaji Valve Components Ltd - 544074 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:46:11.597",
+    "NEWS_DT": "2026-10-17T16:46:11.597",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "cd55edb9-e0b0-4528-a9ee-b0cb71a3845b.pdf",
+    "MORE": "With reference to the subject matter, please find enclosed a certificate under Regulation 74 (5) of the SEBI (Depositories and Participants) Regulations, 2018, for the quarter ended 30th September 2026, received from M/s Big Share Services Private Ltd., Registrar and Share Transfer Agent of our Company. \r\n\r\nWe request you to kindly take the same on record.\r\nThanking you.",
+    "HEADLINE": "With reference to the subject matter, please find enclosed a certificate under Regulation 74 (5) of the SEBI (Depositories and Participants) Regulations, 2018, for the quarter ended 30th ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shri-balaji-valve-components-ltd/sbvcl/544074/",
+    "SLONGNAME": "Shri Balaji Valve Components Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:46:11",
+    "DissemDT": "2026-10-17T16:46:11.597",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3574129,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f5dbe971-51a9-4520-a06b-909f1a72451d",
+    "SCRIP_CD": 526628,
+    "XML_NAME": "ANN_526628_F5DBE971-51A9-4520-A06B-909F1A72451D",
+    "NEWSSUB": "Ajwa Fun World & Resort Ltd - 526628 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "DT_TM": "2026-10-17T16:43:53.97",
+    "NEWS_DT": "2026-10-17T16:43:53.97",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "cd9366b7-0721-4e07-b2eb-7de7913e7109.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation Under Regulation 30 of the SEBI (LODR) Regulations, 2015 - Resignation of Secreterial Auditor of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ajwa-fun-world--resort-ltd/ajwafun/526628/",
+    "SLONGNAME": "Ajwa Fun World & Resort Ltd",
+    "AGENDA_ID": 124,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:43:53",
+    "DissemDT": "2026-10-17T16:43:53.97",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 464611,
+    "SUBCATNAME": "Change in Management",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8d3cbba0-e4e8-4e1e-b408-0d87b9493de2",
+    "SCRIP_CD": 544081,
+    "XML_NAME": "ANN_544081_8D3CBBA0-E4E8-4E1E-B408-0D87B9493DE2",
+    "NEWSSUB": "Jyoti CNC Automation Ltd - 544081 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-10-17T16:38:41.003",
+    "NEWS_DT": "2026-10-17T16:38:41.003",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5c2afd69-1b7c-4c3f-ab0b-81982ddc19a5.pdf",
+    "MORE": "",
+    "HEADLINE": "Credit Rating by Crisil Rating as attached herewith",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/jyoti-cnc-automation-ltd/jyoticnc/544081/",
+    "SLONGNAME": "Jyoti CNC Automation Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:38:40",
+    "DissemDT": "2026-10-17T16:38:41.003",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 465634,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "768c165c-b7c5-4b0c-8ac4-a0b99fe9dd7f",
+    "SCRIP_CD": 516106,
+    "XML_NAME": "ANN_516106_768C165C-B7C5-4B0C-8AC4-A0B99FE9DD7F",
+    "NEWSSUB": "Shree Karthik Papers Ltd - 516106 - Disclosure under Regulation 30A of LODR",
+    "DT_TM": "2026-10-17T16:37:44.75",
+    "NEWS_DT": "2026-10-17T16:37:44.75",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1bca5c81-d325-413b-9731-6c786efd9882.pdf",
+    "MORE": "",
+    "HEADLINE": "The compliance substantial acquisition letter is filed for taking on record for Sep 26",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shree-karthik-papers-ltd/shkartp/516106/",
+    "SLONGNAME": "Shree Karthik Papers Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:37:44",
+    "DissemDT": "2026-10-17T16:37:44.75",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1520806,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4cfeb1bc-408f-4ca6-9e11-317e32d67fff",
+    "SCRIP_CD": 531431,
+    "XML_NAME": "ANN_531431_4CFEB1BC-408F-4CA6-9E11-317E32D67FFF",
+    "NEWSSUB": "Shakti Pumps India Ltd-$ - 531431 - Board Meeting Intimation for Consideration And Approval Of Un-Audited Standalone And Consolidated Financial Results For The Quarter And Half Year Ended September 30, 2026.",
+    "DT_TM": "2026-10-17T16:36:51.907",
+    "NEWS_DT": "2026-10-17T16:36:51.907",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "abedd7ab-b268-4088-9c3a-e2b76b89fecf.pdf",
+    "MORE": "Shakti Pumps India Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve the Un-Audited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026 along with Limited Review Report.",
+    "HEADLINE": "Shakti Pumps India Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve the Un-Audited Standalone ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shakti-pumps-india-ltd/shaktipump/531431/",
+    "SLONGNAME": "Shakti Pumps India Ltd-$",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:36:50",
+    "DissemDT": "2026-10-17T16:36:51.907",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 730573,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "6a8d5228-fcc0-483d-9166-1ad80d07bc0c",
+    "SCRIP_CD": 531112,
+    "XML_NAME": "ANN_531112_6A8D5228-FCC0-483D-9166-1AD80D07BC0C",
+    "NEWSSUB": "Balu Forge Industries Ltd - 531112 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:35:48.543",
+    "NEWS_DT": "2026-10-17T16:35:48.543",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7cf650a1-960b-40a9-b949-6286961492b4.pdf",
+    "MORE": "",
+    "HEADLINE": "Compliance Certificate under Reg. 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/balu-forge-industries-ltd/baluforge/531112/",
+    "SLONGNAME": "Balu Forge Industries Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:35:48",
+    "DissemDT": "2026-10-17T16:35:48.543",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2838357,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "540b705b-0dcd-4acd-80d1-d556b60b1c7d",
+    "SCRIP_CD": 516106,
+    "XML_NAME": "ANN_516106_540B705B-0DCD-4ACD-80D1-D556B60B1C7D",
+    "NEWSSUB": "Shree Karthik Papers Ltd - 516106 - Compliance-57 (5) : intimation after the end of quarter",
+    "DT_TM": "2026-10-17T16:33:55.607",
+    "NEWS_DT": "2026-10-17T16:33:55.607",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e0b7de42-3541-408a-8867-27a5754da165.pdf",
+    "MORE": "",
+    "HEADLINE": "The Compliance letter under Regulation 57(5) of SEBI(LODR) is filed for taking on record",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shree-karthik-papers-ltd/shkartp/516106/",
+    "SLONGNAME": "Shree Karthik Papers Ltd",
+    "AGENDA_ID": 229,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:33:55",
+    "DissemDT": "2026-10-17T16:33:55.607",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1492719,
+    "SUBCATNAME": "57 (5) : intimation after the end of quarter",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5d189644-4339-4106-bf18-ef48be4af5dd",
+    "SCRIP_CD": 532734,
+    "XML_NAME": "ANN_532734_5D189644-4339-4106-BF18-EF48BE4AF5DD",
+    "NEWSSUB": "Godawari Power and Ispat Ltd - 532734 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "DT_TM": "2026-10-17T16:33:36.09",
+    "NEWS_DT": "2026-10-17T16:33:36.09",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "720750c7-60a9-4510-bef4-66b226e69ef1.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached herewith the intimation regarding incorporation Godawari Energy Solutions Private Limited, a wholly owned subsidiray of Godawari Power and Ispat Limited on 17.10.2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/godawari-power-and-ispat-ltd/gpil/532734/",
+    "SLONGNAME": "Godawari Power and Ispat Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:33:36",
+    "DissemDT": "2026-10-17T16:33:36.09",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 568090,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "abe25f12-b57a-49c8-9dfd-7f376795a92f",
+    "SCRIP_CD": 543990,
+    "XML_NAME": "ANN_543990_ABE25F12-B57A-49C8-9DFD-7F376795A92F",
+    "NEWSSUB": "Signatureglobal (India) Ltd - 543990 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:32:53.117",
+    "NEWS_DT": "2026-10-17T16:32:53.117",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e4250371-c809-44b6-9ab9-666956121d43.pdf",
+    "MORE": "",
+    "HEADLINE": "RTA Certificate pursuant to Regulation 74(5) of DP Regulations",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/signatureglobal-(india)-ltd/signature/543990/",
+    "SLONGNAME": "Signatureglobal (India) Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:32:53",
+    "DissemDT": "2026-10-17T16:32:53.117",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 427358,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "0621b1f5-10b9-4cf5-b303-e9139e7e64a0",
+    "SCRIP_CD": 516098,
+    "XML_NAME": "ANN_516098_0621B1F5-10B9-4CF5-B303-E9139E7E64A0",
+    "NEWSSUB": "Ventura Textiles Ltd - 516098 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-17T16:32:09.37",
+    "NEWS_DT": "2026-10-17T16:32:09.37",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5878c311-b5b6-4fd5-9b69-c4f549d8f5e0.pdf",
+    "MORE": "",
+    "HEADLINE": "Certificate under Regulation 7495) of under SEBI( Depository and Participants) Regulations, 2018 for the quarter ended 30th Setpember''2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ventura-textiles-ltd/ventura/516098/",
+    "SLONGNAME": "Ventura Textiles Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:32:09",
+    "DissemDT": "2026-10-17T16:32:09.37",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1531926,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "7af37d75-5058-40cd-b7a3-3787106eed94",
     "SCRIP_CD": 543933,
     "XML_NAME": "ANN_543933_7AF37D75-5058-40CD-B7A3-3787106EED94",
@@ -1026,6 +3174,102 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
+  },
+  {
+    "NEWSID": "922acafb-aabe-409a-89c0-7d0714701c83",
+    "SCRIP_CD": 504614,
+    "XML_NAME": "ANN_504614_922ACAFB-AABE-409A-89C0-7D0714701C83",
+    "NEWSSUB": "Sarda Energy & Minerals Ltd-$ - 504614 - Update",
+    "DT_TM": "2026-10-17T16:00:14.17",
+    "NEWS_DT": "2026-10-17T16:00:14.17",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bbc2b910-fab8-4702-a707-35eb337d6615.pdf",
+    "MORE": "",
+    "HEADLINE": "Update",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sarda-energy--minerals-ltd/sardaen/504614/",
+    "SLONGNAME": "Sarda Energy & Minerals Ltd-$",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-10-17T16:00:14",
+    "DissemDT": "2026-10-17T16:00:14.17",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 419840,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "S.No.": "1",
+            "Particulars": "Name of Entity",
+            "Details": "Yet to be incorporated"
+          },
+          {
+            "S.No.": "2",
+            "Particulars": "Whether Related Party Transaction",
+            "Details": "The incorporation of the new entity shall be as Wholly Owned Subsidiary of Sarda Metals & Alloys Ltd. Once incorporated, it will become a step-down Wholly Owned Subsidiary of the Company. The transaction does not fall within related party transactions at this stage, but once incorporated, transactions will be on an arm's length basis."
+          },
+          {
+            "S.No.": "3",
+            "Particulars": "Industry",
+            "Details": "Trading"
+          },
+          {
+            "S.No.": "4",
+            "Particulars": "Object and impact of incorporation",
+            "Details": "Trading and distribution/selling of company’s products in the Middle East."
+          },
+          {
+            "S.No.": "5",
+            "Particulars": "Details of government / regulatory approvals",
+            "Details": "Registration and incorporation approvals from Dubai corporate regulatory authorities (e.g., DET / DED / Free Zone Authorities) and other applicable approvals in India / Dubai."
+          },
+          {
+            "S.No.": "6",
+            "Particulars": "Time period for completion of acquisition",
+            "Details": "4-6 months from the date of Board approval."
+          },
+          {
+            "S.No.": "7",
+            "Particulars": "Consideration",
+            "Details": "Cash investment"
+          },
+          {
+            "S.No.": "8",
+            "Particulars": "Cost of acquisition",
+            "Details": "Initial investment in the form of Equity Capital / Loan / Guarantee upto an aggregate amount not exceeding ₹ 3 crore."
+          },
+          {
+            "S.No.": "9",
+            "Particulars": "% Control acquired",
+            "Details": "100% shareholding shall be with Sarda Metals & Alloys Ltd., making it a 100% step-down Wholly Owned Subsidiary of the Company."
+          },
+          {
+            "S.No.": "10",
+            "Particulars": "Background of entity",
+            "Details": "The new entity is yet to be incorporated. The new entity will expand company's business footprints in the Middle East region and leverage global market opportunities."
+          }
+        ]
+      }
+    ]
   },
   {
     "NEWSID": "efaa233f-488f-43c6-bd32-aef483e4a777",
@@ -8792,2669 +11036,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "* **No Financial Details Provided:** The document contains no actual financial figures, earnings data, or quantitative performance metrics; it is strictly a formal compliance notice stating that the Unaudited Financial Results for the quarter and half year ended September 30, 2026, have been advertised.\n* **Key Dates and Filing Information:** On October 17, 2026, Carnation Industries Limited notified the stock exchanges (BSE Scrip Code: 530609, CSE Scrip Code: 13067) that the newspaper advertisements were published on October 17, 2026, in *The Echo of India* (English) and *Arthik Lipi* (Kolkata Edition) in accordance with Regulation 47 of SEBI (LODR) Regulations, 2015.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "46d5abd1-fa11-49f7-9423-7711be02c8d0",
-    "SCRIP_CD": 500245,
-    "XML_NAME": "ANN_500245_46D5ABD1-FA11-49F7-9423-7711BE02C8D0",
-    "NEWSSUB": "Kirloskar Ferrous Industries Ltd - 500245 - Resumption Of The Operations At Hiriyur Plant",
-    "DT_TM": "2026-10-17T14:22:22.79",
-    "NEWS_DT": "2026-10-17T14:22:22.79",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "3f3a9488-71a7-421e-900b-d5b063414854.pdf",
-    "MORE": "",
-    "HEADLINE": "Resumption of the operations at Hiriyur plant",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kirloskar-ferrous-industries-ltd/kirlfer/500245/",
-    "SLONGNAME": "Kirloskar Ferrous Industries Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:22:22",
-    "DissemDT": "2026-10-17T14:22:22.79",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 467049,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Mini Blast Furnace at Kirloskar Ferrous Industries’ Hiriyur plant in Karnataka resumed operations on **16 October 2026**, as per the latest regulatory filing (Regulation 30, SEBI LODR).  \n- The announcement contains **no financial figures, monetary commitments, or other financial decisions**; it solely reports the operational restart.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9e78c78b-fbf2-4afb-af09-44fda0ae89f0",
-    "SCRIP_CD": 502219,
-    "XML_NAME": "ANN_502219_9E78C78B-FBF2-4AFB-AF09-44FDA0AE89F0",
-    "NEWSSUB": "Borosil Renewables Ltd - 502219 - Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Receipt Of An Adjudication Order From Additional Commissioner Of Customs (NS-V), JNCH, Nhava Sheva",
-    "DT_TM": "2026-10-17T14:20:43.217",
-    "NEWS_DT": "2026-10-17T14:20:43.217",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1d1bf83d-8c27-40b2-ad70-215895d3515f.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Regulation 30 - receipt of an adjudication order from Additional Commissioner of Customs (NS-V), JNCH, Nhava Sheva.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/borosil-renewables-ltd/bororenew/502219/",
-    "SLONGNAME": "Borosil Renewables Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:20:43",
-    "DissemDT": "2026-10-17T14:20:43.22",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 838200,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0035894c-0afe-4ee7-a066-c42e0ec15b0b",
-    "SCRIP_CD": 524687,
-    "XML_NAME": "ANN_524687_0035894C-0AFE-4EE7-A066-C42E0EC15B0B",
-    "NEWSSUB": "Basant Agro Tech India Ltd-$ - 524687 - Board Meeting Intimation for Notice Of The Meeting Of The Board Of Directors",
-    "DT_TM": "2026-10-17T14:14:12.08",
-    "NEWS_DT": "2026-10-17T14:14:12.08",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d0c5a814-32e4-4bfe-b73f-9f620cfd0415.pdf",
-    "MORE": "Basant Agro Tech India Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve  the Unaudited Financial Results for the Second quarter and Half Year ended September 30, 2026. \r\n",
-    "HEADLINE": "Basant Agro Tech India Ltd-has informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve  the Unaudited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/basant-agro-tech-india-ltd/basantgl/524687/",
-    "SLONGNAME": "Basant Agro Tech India Ltd-$",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:14:11",
-    "DissemDT": "2026-10-17T14:14:12.08",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 926141,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c2a70af6-656c-4895-8a2a-edae57f06ff5",
-    "SCRIP_CD": 532885,
-    "XML_NAME": "ANN_532885_C2A70AF6-656C-4895-8A2A-EDAE57F06FF5",
-    "NEWSSUB": "Central Bank of India - 532885 - Compliances-Reg. 54 - Asset Cover details ",
-    "DT_TM": "2026-10-17T14:13:46.88",
-    "NEWS_DT": "2026-10-17T14:13:46.88",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "35865832-6e9e-45e6-9a7b-867b59dba020.pdf",
-    "MORE": "",
-    "HEADLINE": "Security Cover Certificate for the quarter ended 30th September, 2026",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/central-bank-of-india/centralbk/532885/",
-    "SLONGNAME": "Central Bank of India",
-    "AGENDA_ID": 188,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:13:46",
-    "DissemDT": "2026-10-17T14:13:46.88",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2919589,
-    "SUBCATNAME": "Reg. 54 - Asset Cover details",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "757ce769-11a1-4537-b554-4252964974f2",
-    "SCRIP_CD": 531595,
-    "XML_NAME": "ANN_531595_757CE769-11A1-4537-B554-4252964974F2",
-    "NEWSSUB": "Capri Global Capital Ltd - 531595 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-17T14:13:38.423",
-    "NEWS_DT": "2026-10-17T14:13:38.423",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bc55a857-9c00-4c90-ae33-c4ca8f59436d.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Regulation 30 & 51 of SEBI (Listing Obligations and Disclosures Requirements), 2015 - Newspaper Publication",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/capri-global-capital-ltd/cgcl/531595/",
-    "SLONGNAME": "Capri Global Capital Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:13:38",
-    "DissemDT": "2026-10-17T14:13:38.423",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 9028891,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fe1805c3-2022-471d-8dbf-e6ec94c1c3ed",
-    "SCRIP_CD": 532344,
-    "XML_NAME": "ANN_532344_FE1805C3-2022-471D-8DBF-E6EC94C1C3ED",
-    "NEWSSUB": "Madala Holdings Ltd - 532344 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "DT_TM": "2026-10-17T14:11:28.16",
-    "NEWS_DT": "2026-10-17T14:11:28.16",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "949d7f29-69ca-42c5-9b57-b32bf2ed0d0d.pdf",
-    "MORE": "",
-    "HEADLINE": "Certificate under Reg 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/madala-holdings-ltd/madala/532344/",
-    "SLONGNAME": "Madala Holdings Ltd",
-    "AGENDA_ID": 212,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:11:28",
-    "DissemDT": "2026-10-17T14:11:28.16",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 413525,
-    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5c277f6c-7838-4331-967f-657d6305d6b6",
-    "SCRIP_CD": 519031,
-    "XML_NAME": "ANN_519031_5C277F6C-7838-4331-967F-657D6305D6B6",
-    "NEWSSUB": "Shah Foods Ltd - 519031 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "DT_TM": "2026-10-17T14:11:26.037",
-    "NEWS_DT": "2026-10-17T14:11:26.037",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "47afd9a6-50e3-4da5-9c8c-57a617363cf9.pdf",
-    "MORE": "",
-    "HEADLINE": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/shah-foods-ltd/shahfood/519031/",
-    "SLONGNAME": "Shah Foods Ltd",
-    "AGENDA_ID": 212,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:11:26",
-    "DissemDT": "2026-10-17T14:11:26.037",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 371041,
-    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e4256237-5155-465d-a736-ae4455df04f7",
-    "SCRIP_CD": 544814,
-    "XML_NAME": "ANN_544814_E4256237-5155-465D-A736-AE4455DF04F7",
-    "NEWSSUB": "Knack Packaging Ltd - 544814 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-10-17T14:10:14.213",
-    "NEWS_DT": "2026-10-17T14:10:14.213",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c571d94b-a8db-44c2-a3a3-ec4b22fbdb6e.pdf",
-    "MORE": "",
-    "HEADLINE": "Resignation of a Senior Management Personnel (SMP) of the Company.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/knack-packaging-ltd/knack/544814/",
-    "SLONGNAME": "Knack Packaging Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:10:14",
-    "DissemDT": "2026-10-17T14:10:14.213",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1077053,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b9c9b4d8-e7ec-45ca-b58d-ea44ad682ba1",
-    "SCRIP_CD": 524687,
-    "XML_NAME": "ANN_524687_B9C9B4D8-E7EC-45CA-B58D-EA44AD682BA1",
-    "NEWSSUB": "Basant Agro Tech India Ltd-$ - 524687 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "DT_TM": "2026-10-17T14:08:46.56",
-    "NEWS_DT": "2026-10-17T14:08:46.56",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "751f7c95-9ea5-4cb1-a1be-688180317e05.pdf",
-    "MORE": "",
-    "HEADLINE": "Certificate under Regulation 74 (5) of the Securities and Exchange Board of India (Depositories and Participants) Regulations, 2018 for the quarter ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/basant-agro-tech-india-ltd/basantgl/524687/",
-    "SLONGNAME": "Basant Agro Tech India Ltd-$",
-    "AGENDA_ID": 212,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:08:46",
-    "DissemDT": "2026-10-17T14:08:46.56",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1254491,
-    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6d989a51-4b95-446d-9fd5-53a8667a9c65",
-    "SCRIP_CD": 531640,
-    "XML_NAME": "ANN_531640_6D989A51-4B95-446D-9FD5-53A8667A9C65",
-    "NEWSSUB": "Suvidha Infraestate Corporation Ltd - 531640 - Board Meeting Intimation for Taking On Record Unaudited Financial Results For The Quarter Ended On 30Th September, 2026.",
-    "DT_TM": "2026-10-17T14:02:24.863",
-    "NEWS_DT": "2026-10-17T14:02:24.863",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "3959c58f-7bf0-494a-aaea-225df3afbc1e.pdf",
-    "MORE": "Suvidha Infraestate Corporation Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve the Unaudited Financial Results of the Company for the quarter ended on 30th September, 2026.",
-    "HEADLINE": "Suvidha Infraestate Corporation Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/10/2026 ,inter alia, to consider and approve the Unaudited ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/suvidha-infraestate-corporation-ltd/sicl/531640/",
-    "SLONGNAME": "Suvidha Infraestate Corporation Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:02:24",
-    "DissemDT": "2026-10-17T14:02:24.863",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 420711,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "340047b1-5c13-4584-b33b-571885b85b53",
-    "SCRIP_CD": 532885,
-    "XML_NAME": "ANN_532885_340047B1-5C13-4584-B33B-571885B85B53",
-    "NEWSSUB": "Central Bank of India - 532885 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-17T14:00:35.437",
-    "NEWS_DT": "2026-10-17T14:00:35.437",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "57f5e6c6-821b-460f-af66-48bd4490b797.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release on Performance of the Bank for the Second Quarter and Half Year ended 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/central-bank-of-india/centralbk/532885/",
-    "SLONGNAME": "Central Bank of India",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T14:00:35",
-    "DissemDT": "2026-10-17T14:00:35.437",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1160742,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "bddc5f3c-9d55-44f6-ae83-60e853149d71",
-    "SCRIP_CD": 539289,
-    "XML_NAME": "ANN_539289_BDDC5F3C-9D55-44F6-AE83-60E853149D71",
-    "NEWSSUB": "Aurum PropTech Ltd - 539289 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-17T13:59:14.397",
-    "NEWS_DT": "2026-10-17T13:59:14.397",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a2587496-0fc6-4cb7-a807-e19a6b05bad4.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication - Financial Results for the quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aurum-proptech-ltd/aurum/539289/",
-    "SLONGNAME": "Aurum PropTech Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:59:14",
-    "DissemDT": "2026-10-17T13:59:14.397",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2041134,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The announcement informs that Aurum PropTech Ltd has submitted newspaper clippings of its **unaudited financial results for the quarter and half‑year ended 30 September 2026**, as published in *Financial Express* (English) and *Loksatta* (Marathi) on **17 October 2026**.  \n\n- No specific financial figures, dates of future actions, or decisions are disclosed in the text; it only records the filing of the unaudited results.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d2cf72cf-c8b7-4f0b-a2a6-6b3e99ce9e53",
-    "SCRIP_CD": 539046,
-    "XML_NAME": "ANN_539046_D2CF72CF-C8B7-4F0B-A2A6-6B3E99CE9E53",
-    "NEWSSUB": "Manaksia Coated Metals & Industries Ltd - 539046 - Board Meeting Intimation for  \r\n\r\nBoard Meeting Intimation To Consider, Approve And Take On Record The Un-Audited Financial Result Of The Company Along With Limited Review Report For The Second Quarter And Half Year Ended  On 30Th September, 2026",
-    "DT_TM": "2026-10-17T13:57:42.313",
-    "NEWS_DT": "2026-10-17T13:57:42.313",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ba37ea9c-aeb9-4d33-a52c-c39245e3a94a.pdf",
-    "MORE": "",
-    "HEADLINE": "Manaksia Coated Metals & Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/10/2026 ,inter alia, to consider and approve PLease find enclosed",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/manaksia-coated-metals--industries-ltd/manakcoat/539046/",
-    "SLONGNAME": "Manaksia Coated Metals & Industries Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:57:41",
-    "DissemDT": "2026-10-17T13:57:42.313",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 281254,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors will meet on **Wednesday, 28 October 2026** to consider, approve and record the **un‑audited financial results and limited review report for the second quarter and half‑year ended 30 September 2026** (subject to prior Audit Committee review).  \n\n- The company’s **trading window** for its equity shares, already closed from **1 October 2026**, will remain closed **until 48 hours after the financial results are declared and become publicly available**.  \n\n*No specific financial figures or quantitative results are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ae8b989d-e24d-45bf-8958-f610b3c0e66a",
-    "SCRIP_CD": 500180,
-    "XML_NAME": "ANN_500180_AE8B989D-E24D-45BF-8958-F610B3C0E66A",
-    "NEWSSUB": "HDFC Bank Ltd - 500180 - Board Meeting Outcome for Approval Of Unaudited Standalone And Consolidated Financial Results Of The Bank For The Quarter And Half-Year Ended September 30, 2026",
-    "DT_TM": "2026-10-17T13:56:35.27",
-    "NEWS_DT": "2026-10-17T13:56:35.27",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f5d5fb37-aa66-401c-85d6-58ccd3982828.pdf",
-    "MORE": "",
-    "HEADLINE": "Approval of unaudited standalone and consolidated financial results of the Bank for the quarter and half-year ended September 30, 2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hdfc-bank-ltd/hdfcbank/500180/",
-    "SLONGNAME": "HDFC Bank Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:56:34",
-    "DissemDT": "2026-10-17T13:56:35.27",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1193121,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "63448.91",
-      "net_profit": "38569.68",
-      "total_assets": "10.68",
-      "total_equity": "566722.23",
-      "total_debt": "489017.54",
-      "eps": "1",
-      "dividend": "20021.05",
-      "face_value": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "34a7ec5f-13bd-43bb-ad3f-2323bff306e4",
-    "SCRIP_CD": 544469,
-    "XML_NAME": "ANN_544469_34A7EC5F-13BD-43BB-AD3F-2323BFF306E4",
-    "NEWSSUB": "Sri Lotus Developers and Realty Ltd - 544469 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-17T13:45:49.523",
-    "NEWS_DT": "2026-10-17T13:45:49.523",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e1616e42-c143-470d-a2e7-d7d20bd4c0bc.pdf",
-    "MORE": "",
-    "HEADLINE": "Dear Sir/Madam,\r\n\r\nEnclosed herewith newspaper intimation for financial results of quarter and half year ended September 30, 2026.\r\n\r\nKindly take above information on your record.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sri-lotus-developers-and-realty-ltd/lotusdev/544469/",
-    "SLONGNAME": "Sri Lotus Developers and Realty Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:45:49",
-    "DissemDT": "2026-10-17T13:45:49.523",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7204814,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "eps": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "133e72ba-5fba-42dc-8a37-e3e1a09c006f",
-    "SCRIP_CD": 532407,
-    "XML_NAME": "ANN_532407_133E72BA-5FBA-42DC-8A37-E3E1A09C006F",
-    "NEWSSUB": "Moschip Technologies Ltd - 532407 - Disclosure under Regulation 30A of LODR",
-    "DT_TM": "2026-10-17T13:44:20.933",
-    "NEWS_DT": "2026-10-17T13:44:20.933",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e1c8c8d9-6777-4356-b499-e89b7a11f763.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Reg 30 - Update on Supreme Court Judgement.",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/moschip-technologies-ltd/moschip/532407/",
-    "SLONGNAME": "Moschip Technologies Ltd",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:44:20",
-    "DissemDT": "2026-10-17T13:44:20.933",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 362452,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- On 12 October 2026, the judgment debtor deposited an additional security amount of **₹200 crore** with the Supreme Court of India, leading to the vacating of the status‑quo order dated 11 May 2026 for MosChip Technologies Ltd.  \n- The company confirms, as per its earlier disclosures (12 May 2026 and 2 September 2026), that it is not involved in the underlying dispute and that there is **no financial, operational or business impact** on MosChip.",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7e99c81d-8cc7-40e5-8aa8-5c1f608f2a98",
-    "SCRIP_CD": 543411,
-    "XML_NAME": "ANN_543411_7E99C81D-8CC7-40E5-8AA8-5C1F608F2A98",
-    "NEWSSUB": "Hi-Tech Pipes Ltd - 543411 - Announcement under Regulation 30 (LODR)-Credit Rating",
-    "DT_TM": "2026-10-17T13:40:08.317",
-    "NEWS_DT": "2026-10-17T13:40:08.317",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "541af70d-2578-4837-8f23-6169177693e1.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Credit Rating",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hi-tech-pipes-ltd/hitech/543411/",
-    "SLONGNAME": "Hi-Tech Pipes Ltd",
-    "AGENDA_ID": 46,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:40:08",
-    "DissemDT": "2026-10-17T13:40:08.317",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4797480,
-    "SUBCATNAME": "Credit Rating",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Credit rating update (16 Oct 2026):** CRISIL reaffirmed Hi‑Tech Pipes Ltd’s long‑term rating at **A+ (Stable)** and short‑term rating at **A1**, covering its bank facilities.  \n- **Bank loan facility size:** The total bank loan facilities were **re‑rated at ₹565 crore**, up from the previous **₹510 crore**.",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b3ed7f9d-ac44-4609-9d30-4fb16b64999e",
-    "SCRIP_CD": 541633,
-    "XML_NAME": "ANN_541633_B3ED7F9D-AC44-4609-9D30-4FB16B64999E",
-    "NEWSSUB": "Sophia Traexpo Ltd - 541633 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "DT_TM": "2026-10-17T13:38:15.38",
-    "NEWS_DT": "2026-10-17T13:38:15.38",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cf0cfac8-df5f-407e-a31c-6620a09efff9.pdf",
-    "MORE": "",
-    "HEADLINE": "RTA letter dated 05.10.2026 attached herewith",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sophia-traexpo-ltd/straexpo/541633/",
-    "SLONGNAME": "Sophia Traexpo Ltd",
-    "AGENDA_ID": 212,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:38:15",
-    "DissemDT": "2026-10-17T13:38:15.38",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 538826,
-    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c305afe9-1d39-414a-bd5d-75965bfcba59",
-    "SCRIP_CD": 532885,
-    "XML_NAME": "ANN_532885_C305AFE9-1D39-414A-BD5D-75965BFCBA59",
-    "NEWSSUB": "Central Bank of India - 532885 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-17T13:37:45.09",
-    "NEWS_DT": "2026-10-17T13:37:45.09",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2209ca85-3b83-4ac8-822f-c71ea5e02c97.pdf",
-    "MORE": "",
-    "HEADLINE": "Presentation on Financial Results of the Bank for the Second Quarter and Half Year ended 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/central-bank-of-india/centralbk/532885/",
-    "SLONGNAME": "Central Bank of India",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:37:45",
-    "DissemDT": "2026-10-17T13:37:45.09",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 9624666,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "10678",
-      "net_profit": "1324",
-      "operating_profit": "2186",
-      "total_assets": "1795.31",
-      "total_debt": "31481",
-      "dividend": "2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 18,
-        "rows": [
-          {
-            "Particulars": "",
-            "Year Ended": "Mar'26 (FY)",
-            "Quarter Ended": "Sep'25",
-            "col_4": "Sep'26",
-            "Growth": "Y-o-Y",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Yield on Advances (%)",
-            "Year Ended": "8.21",
-            "Quarter Ended": "8.36",
-            "col_4": "7.87",
-            "Growth": "(49 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Yield on Investments (%)",
-            "Year Ended": "6.74",
-            "Quarter Ended": "6.77",
-            "col_4": "6.82",
-            "Growth": "5 bps",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Yield on Funds (%)",
-            "Year Ended": "7.82",
-            "Quarter Ended": "7.71",
-            "col_4": "7.52",
-            "Growth": "(19 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Cost of Deposits (%)",
-            "Year Ended": "4.82",
-            "Quarter Ended": "4.88",
-            "col_4": "4.60",
-            "Growth": "(28 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Cost of Funds (%)",
-            "Year Ended": "4.83",
-            "Quarter Ended": "4.88",
-            "col_4": "4.63",
-            "Growth": "(25 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "NIM (%)",
-            "Year Ended": "3.07",
-            "Quarter Ended": "2.89",
-            "col_4": "3.01",
-            "Growth": "12 bps",
-            "col_6": ""
-          },
-          {
-            "Particulars": "ROE (%)",
-            "Year Ended": "13.00*",
-            "Quarter Ended": "14.22",
-            "col_4": "15.78",
-            "Growth": "156 bps",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Book Value of Share",
-            "Year Ended": "38.23",
-            "Quarter Ended": "37.70",
-            "col_4": "41.15",
-            "Growth": "9.15%",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Credit Cost(%)",
-            "Year Ended": "0.52",
-            "Quarter Ended": "0.21",
-            "col_4": "0.53",
-            "Growth": "32 bps",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Slippage Ratio (%)",
-            "Year Ended": "1.16",
-            "Quarter Ended": "0.30**",
-            "col_4": "0.24**",
-            "Growth": "(6 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Staff Cost Share in Cost to Income(%) (a)",
-            "Year Ended": "37.01",
-            "Quarter Ended": "39.83",
-            "col_4": "37.49",
-            "Growth": "(234 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Other Operating Exp in Cost to Income (%) (b)",
-            "Year Ended": "21.60",
-            "Quarter Ended": "22.59",
-            "col_4": "21.46",
-            "Growth": "(113 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Cost to Income(%) (a+b)",
-            "Year Ended": "58.61",
-            "Quarter Ended": "62.42",
-            "col_4": "58.95",
-            "Growth": "(347 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Liquidity Coverage Ratio (%) (average)",
-            "Year Ended": "210.35",
-            "Quarter Ended": "241.96",
-            "col_4": "155.17",
-            "Growth": "(8679 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Net Stable Funding Ratio (%)",
-            "Year Ended": "136.91",
-            "Quarter Ended": "150.47",
-            "col_4": "126.38",
-            "Growth": "(2409 bps)",
-            "col_6": ""
-          },
-          {
-            "Particulars": "Earning Per Share",
-            "Year Ended": "4.83*",
-            "Quarter Ended": "1.34**",
-            "col_4": "1.62**",
-            "Growth": "20.90%",
-            "col_6": ""
-          },
-          {
-            "Particulars": "ROA (%)",
-            "Year Ended": "0.89*",
-            "Quarter Ended": "1.01",
-            "col_4": "1.03",
-            "Growth": "2 bps",
-            "col_6": ""
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun'26",
-            "col_3": "Sep'25",
-            "col_4": "Sep'26",
-            "col_5": "Y-o-Y (%)",
-            "col_6": "Q-o-Q (%)",
-            "Half Year Ended": "Sep'25",
-            "col_8": "Sep'26",
-            "col_9": "Y-o-Y (%)"
-          },
-          {
-            "Particulars": "Interest on Advances",
-            "Quarter Ended": "6756",
-            "col_3": "5668",
-            "col_4": "7231",
-            "col_5": "27.58",
-            "col_6": "7.03",
-            "Half Year Ended": "11600",
-            "col_8": "13987",
-            "col_9": "20.58"
-          },
-          {
-            "Particulars": "Interest on Investments",
-            "Quarter Ended": "2645",
-            "col_3": "2588",
-            "col_4": "2718",
-            "col_5": "5.02",
-            "col_6": "2.76",
-            "Half Year Ended": "4928",
-            "col_8": "5363",
-            "col_9": "8.83"
-          },
-          {
-            "Particulars": "Interest on balances with RBI and Other Banks",
-            "Quarter Ended": "253",
-            "col_3": "454",
-            "col_4": "364",
-            "col_5": "(19.82)",
-            "col_6": "43.87",
-            "Half Year Ended": "729",
-            "col_8": "617",
-            "col_9": "(15.36)"
-          },
-          {
-            "Particulars": "Others",
-            "Quarter Ended": "37",
-            "col_3": "34",
-            "col_4": "44",
-            "col_5": "29.41",
-            "col_6": "18.92",
-            "Half Year Ended": "75",
-            "col_8": "81",
-            "col_9": "8.00"
-          },
-          {
-            "Particulars": "Total Interest Income",
-            "Quarter Ended": "9691",
-            "col_3": "8744",
-            "col_4": "10357",
-            "col_5": "18.45",
-            "col_6": "6.87",
-            "Half Year Ended": "17332",
-            "col_8": "20048",
-            "col_9": "15.67"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun'26",
-            "col_3": "Sep'25",
-            "col_4": "Sep'26",
-            "col_5": "Y-o-Y (%)",
-            "col_6": "Q-o-Q (%)",
-            "Half Year Ended": "Sep'25",
-            "col_8": "Sep'26",
-            "col_9": "Y-o-Y (%)"
-          },
-          {
-            "Particulars": "Fee Based Income (i + ii + iii)",
-            "Quarter Ended": "487",
-            "col_3": "611",
-            "col_4": "635",
-            "col_5": "3.93",
-            "col_6": "30.39",
-            "Half Year Ended": "1054",
-            "col_8": "1122",
-            "col_9": "6.45"
-          },
-          {
-            "Particulars": "Commission Exchange & Brokerage (i)",
-            "Quarter Ended": "93",
-            "col_3": "101",
-            "col_4": "105",
-            "col_5": "3.96",
-            "col_6": "12.90",
-            "Half Year Ended": "181",
-            "col_8": "198",
-            "col_9": "9.39"
-          },
-          {
-            "Particulars": "- Commission on LC/BG/DDs",
-            "Quarter Ended": "49",
-            "col_3": "43",
-            "col_4": "42",
-            "col_5": "(2.33)",
-            "col_6": "(14.29)",
-            "Half Year Ended": "86",
-            "col_8": "91",
-            "col_9": "5.81"
-          },
-          {
-            "Particulars": "- Govt. Business",
-            "Quarter Ended": "13",
-            "col_3": "17",
-            "col_4": "16",
-            "col_5": "(5.88)",
-            "col_6": "23.08",
-            "Half Year Ended": "29",
-            "col_8": "29",
-            "col_9": "-"
-          },
-          {
-            "Particulars": "- Banc assurance",
-            "Quarter Ended": "31",
-            "col_3": "41",
-            "col_4": "47",
-            "col_5": "14.63",
-            "col_6": "51.61",
-            "Half Year Ended": "66",
-            "col_8": "78",
-            "col_9": "18.18"
-          },
-          {
-            "Particulars": "Service Charges (ii)",
-            "Quarter Ended": "296",
-            "col_3": "354",
-            "col_4": "310",
-            "col_5": "(12.43)",
-            "col_6": "4.73",
-            "Half Year Ended": "618",
-            "col_8": "606",
-            "col_9": "(1.94)"
-          },
-          {
-            "Particulars": "Miscellaneous (iii)",
-            "Quarter Ended": "98",
-            "col_3": "156",
-            "col_4": "220",
-            "col_5": "41.03",
-            "col_6": "124.49",
-            "Half Year Ended": "255",
-            "col_8": "318",
-            "col_9": "24.71"
-          },
-          {
-            "Particulars": "Treasury Income",
-            "Quarter Ended": "276",
-            "col_3": "186",
-            "col_4": "128",
-            "col_5": "(31.18)",
-            "col_6": "(53.62)",
-            "Half Year Ended": "850",
-            "col_8": "404",
-            "col_9": "(52.47)"
-          },
-          {
-            "Particulars": "- Profit on Sale of Investments",
-            "Quarter Ended": "102",
-            "col_3": "190",
-            "col_4": "133",
-            "col_5": "(30.00)",
-            "col_6": "30.39",
-            "Half Year Ended": "767",
-            "col_8": "235",
-            "col_9": "(69.36)"
-          },
-          {
-            "Particulars": "- Profit/Loss on Revaluation of Investment",
-            "Quarter Ended": "101",
-            "col_3": "(51)",
-            "col_4": "(87)",
-            "col_5": "70.59",
-            "col_6": "(186.14)",
-            "Half Year Ended": "(3)",
-            "col_8": "14",
-            "col_9": "(566.67)"
-          },
-          {
-            "Particulars": "- Profit on Exchange Transactions",
-            "Quarter Ended": "73",
-            "col_3": "45",
-            "col_4": "82",
-            "col_5": "82.22",
-            "col_6": "12.33",
-            "Half Year Ended": "84",
-            "col_8": "155",
-            "col_9": "84.52"
-          },
-          {
-            "Particulars": "- Dividend Income",
-            "Quarter Ended": "-",
-            "col_3": "2",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "Half Year Ended": "2",
-            "col_8": "-",
-            "col_9": "-"
-          },
-          {
-            "Particulars": "Other Receipts (Recovery in Written off & Others)",
-            "Quarter Ended": "224",
-            "col_3": "672",
-            "col_4": "617",
-            "col_5": "(8.18)",
-            "col_6": "175.45",
-            "Half Year Ended": "1336",
-            "col_8": "841",
-            "col_9": "(37.05)"
-          },
-          {
-            "Particulars": "Total Non-Interest Income",
-            "Quarter Ended": "987",
-            "col_3": "1469",
-            "col_4": "1380",
-            "col_5": "(6.06)",
-            "col_6": "39.82",
-            "Half Year Ended": "3240",
-            "col_8": "2367",
-            "col_9": "(26.94)"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun'26",
-            "col_3": "Sep'25",
-            "col_4": "Sep'26",
-            "col_5": "Y-o-Y (%)",
-            "col_6": "Q-o-Q (%)",
-            "Half Year Ended": "Sep'25",
-            "col_8": "Sep'26",
-            "col_9": "Y-o-Y (%)"
-          },
-          {
-            "Particulars": "Interest Expenses",
-            "Quarter Ended": "5777",
-            "col_3": "5461",
-            "col_4": "6211",
-            "col_5": "13.73",
-            "col_6": "7.51",
-            "Half Year Ended": "10666",
-            "col_8": "11988",
-            "col_9": "12.39"
-          },
-          {
-            "Particulars": "Interest Paid on Deposits",
-            "Quarter Ended": "5365",
-            "col_3": "5326",
-            "col_4": "5752",
-            "col_5": "8.00",
-            "col_6": "7.21",
-            "Half Year Ended": "10415",
-            "col_8": "11117",
-            "col_9": "6.74"
-          },
-          {
-            "Particulars": "Other Interest",
-            "Quarter Ended": "412",
-            "col_3": "135",
-            "col_4": "459",
-            "col_5": "240.00",
-            "col_6": "11.41",
-            "Half Year Ended": "251",
-            "col_8": "871",
-            "col_9": "247.00"
-          },
-          {
-            "Particulars": "Operating Expenses",
-            "Quarter Ended": "2715",
-            "col_3": "2966",
-            "col_4": "3258",
-            "col_5": "9.84",
-            "col_6": "20.00",
-            "Half Year Ended": "5816",
-            "col_8": "5973",
-            "col_9": "2.70"
-          },
-          {
-            "Particulars": "Staff Cost",
-            "Quarter Ended": "1759",
-            "col_3": "1893",
-            "col_4": "2072",
-            "col_5": "9.46",
-            "col_6": "17.79",
-            "Half Year Ended": "3727",
-            "col_8": "3831",
-            "col_9": "2.79"
-          },
-          {
-            "Particulars": "Other Operating Expenses",
-            "Quarter Ended": "956",
-            "col_3": "1073",
-            "col_4": "1186",
-            "col_5": "10.53",
-            "col_6": "24.06",
-            "Half Year Ended": "2089",
-            "col_8": "2142",
-            "col_9": "2.54"
-          },
-          {
-            "Particulars": "Total Expenses",
-            "Quarter Ended": "8492",
-            "col_3": "8427",
-            "col_4": "9469",
-            "col_5": "12.37",
-            "col_6": "11.50",
-            "Half Year Ended": "16482",
-            "col_8": "17961",
-            "col_9": "8.97"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun'26",
-            "col_3": "Sep'25",
-            "col_4": "Sep'26",
-            "col_5": "Y-o-Y (%)",
-            "col_6": "Q-o-Q (%)",
-            "Half Year Ended": "Sep'25",
-            "col_8": "Sep'26",
-            "col_9": "Y-o-Y (%)"
-          },
-          {
-            "Particulars": "Employee Benefit",
-            "Quarter Ended": "1420",
-            "col_3": "1392",
-            "col_4": "1487",
-            "col_5": "6.82",
-            "col_6": "4.72",
-            "Half Year Ended": "2711",
-            "col_8": "2907",
-            "col_9": "7.23"
-          },
-          {
-            "Particulars": "Retrial Benefit",
-            "Quarter Ended": "339",
-            "col_3": "501",
-            "col_4": "585",
-            "col_5": "16.77",
-            "col_6": "72.57",
-            "Half Year Ended": "1016",
-            "col_8": "924",
-            "col_9": "(9.06)"
-          },
-          {
-            "Particulars": "Rent, Taxes and Lighting",
-            "Quarter Ended": "139",
-            "col_3": "182",
-            "col_4": "217",
-            "col_5": "19.23",
-            "col_6": "56.12",
-            "Half Year Ended": "314",
-            "col_8": "356",
-            "col_9": "13.38"
-          },
-          {
-            "Particulars": "Depreciation",
-            "Quarter Ended": "121",
-            "col_3": "108",
-            "col_4": "124",
-            "col_5": "14.81",
-            "col_6": "2.48",
-            "Half Year Ended": "299",
-            "col_8": "245",
-            "col_9": "(18.06)"
-          },
-          {
-            "Particulars": "Insurance",
-            "Quarter Ended": "82",
-            "col_3": "133",
-            "col_4": "78",
-            "col_5": "(41.35)",
-            "col_6": "(4.88)",
-            "Half Year Ended": "269",
-            "col_8": "160",
-            "col_9": "(40.52)"
-          },
-          {
-            "Particulars": "Legal Expenses",
-            "Quarter Ended": "11",
-            "col_3": "14",
-            "col_4": "15",
-            "col_5": "7.14",
-            "col_6": "36.36",
-            "Half Year Ended": "27",
-            "col_8": "26",
-            "col_9": "(3.70)"
-          },
-          {
-            "Particulars": "Professional Fees",
-            "Quarter Ended": "101",
-            "col_3": "87",
-            "col_4": "150",
-            "col_5": "72.41",
-            "col_6": "48.51",
-            "Half Year Ended": "199",
-            "col_8": "251",
-            "col_9": "26.13"
-          },
-          {
-            "Particulars": "Postage",
-            "Quarter Ended": "24",
-            "col_3": "24",
-            "col_4": "24",
-            "col_5": "-",
-            "col_6": "-",
-            "Half Year Ended": "46",
-            "col_8": "48",
-            "col_9": "4.35"
-          },
-          {
-            "Particulars": "Repair and Maintenance",
-            "Quarter Ended": "49",
-            "col_3": "50",
-            "col_4": "47",
-            "col_5": "(6.00)",
-            "col_6": "(4.08)",
-            "Half Year Ended": "102",
-            "col_8": "96",
-            "col_9": "(5.88)"
-          },
-          {
-            "Particulars": "Printing and stationery",
-            "Quarter Ended": "8",
-            "col_3": "9",
-            "col_4": "11",
-            "col_5": "22.22",
-            "col_6": "37.50",
-            "Half Year Ended": "15",
-            "col_8": "19",
-            "col_9": "26.67"
-          },
-          {
-            "Particulars": "Travelling Expenses",
-            "Quarter Ended": "61",
-            "col_3": "65",
-            "col_4": "77",
-            "col_5": "18.46",
-            "col_6": "26.23",
-            "Half Year Ended": "111",
-            "col_8": "138",
-            "col_9": "24.32"
-          },
-          {
-            "Particulars": "CGTMSE and other guarantee Fees",
-            "Quarter Ended": "7",
-            "col_3": "3",
-            "col_4": "2",
-            "col_5": "(33.33)",
-            "col_6": "(71.43)",
-            "Half Year Ended": "7",
-            "col_8": "9",
-            "col_9": "28.57"
-          },
-          {
-            "Particulars": "ATM Issuer Fees",
-            "Quarter Ended": "90",
-            "col_3": "91",
-            "col_4": "91",
-            "col_5": "-",
-            "col_6": "1.11",
-            "Half Year Ended": "167",
-            "col_8": "181",
-            "col_9": "8.38"
-          },
-          {
-            "Particulars": "Other",
-            "Quarter Ended": "263",
-            "col_3": "307",
-            "col_4": "350",
-            "col_5": "14.01",
-            "col_6": "33.08",
-            "Half Year Ended": "533",
-            "col_8": "613",
-            "col_9": "15.01"
-          },
-          {
-            "Particulars": "Operating Expenses",
-            "Quarter Ended": "2715",
-            "col_3": "2966",
-            "col_4": "3258",
-            "col_5": "9.84",
-            "col_6": "20.00",
-            "Half Year Ended": "5816",
-            "col_8": "5973",
-            "col_9": "2.70"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun'26",
-            "col_3": "Sep'25",
-            "col_4": "Sep'26",
-            "col_5": "Y-o-Y (%)",
-            "col_6": "Q-o-Q (%)",
-            "Half Year Ended": "Sep'25",
-            "col_8": "Sep'26",
-            "col_9": "Y-o-Y (%)"
-          },
-          {
-            "Particulars": "NPAs",
-            "Quarter Ended": "346",
-            "col_3": "143",
-            "col_4": "490",
-            "col_5": "242.66",
-            "col_6": "41.62",
-            "Half Year Ended": "611",
-            "col_8": "836",
-            "col_9": "36.82"
-          },
-          {
-            "Particulars": "Standard Assets",
-            "Quarter Ended": "81",
-            "col_3": "30",
-            "col_4": "379",
-            "col_5": "1163.33",
-            "col_6": "367.90",
-            "Half Year Ended": "(137)",
-            "col_8": "460",
-            "col_9": "435.80"
-          },
-          {
-            "Particulars": "Investment Including SRs",
-            "Quarter Ended": "(45)",
-            "col_3": "(11)",
-            "col_4": "(336)",
-            "col_5": "(2954.55)",
-            "col_6": "(646.67)",
-            "Half Year Ended": "(25)",
-            "col_8": "(381)",
-            "col_9": "(1424.00)"
-          },
-          {
-            "Particulars": "Income Tax",
-            "Quarter Ended": "461",
-            "col_3": "259",
-            "col_4": "236",
-            "col_5": "(8.88)",
-            "col_6": "(48.81)",
-            "Half Year Ended": "873",
-            "col_8": "697",
-            "col_9": "(20.16)"
-          },
-          {
-            "Particulars": "Others",
-            "Quarter Ended": "35",
-            "col_3": "39",
-            "col_4": "54",
-            "col_5": "38.46",
-            "col_6": "54.29",
-            "Half Year Ended": "37",
-            "col_8": "89",
-            "col_9": "140.50"
-          },
-          {
-            "Particulars": "Restructured A/c’s",
-            "Quarter Ended": "(16)",
-            "col_3": "113",
-            "col_4": "(24)",
-            "col_5": "(121.24)",
-            "col_6": "(50.00)",
-            "Half Year Ended": "349",
-            "col_8": "(40)",
-            "col_9": "(111.50)"
-          },
-          {
-            "Particulars": "Total Provision",
-            "Quarter Ended": "862",
-            "col_3": "573",
-            "col_4": "799",
-            "col_5": "39.44",
-            "col_6": "(7.31)",
-            "Half Year Ended": "1708",
-            "col_8": "1661",
-            "col_9": "(2.75)"
-          }
-        ]
-      },
-      {
-        "page": 18,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun'26",
-            "col_3": "Sep'25",
-            "col_4": "Sep'26",
-            "col_5": "Y-o-Y (%)",
-            "col_6": "Q-o-Q (%)",
-            "Half Year Ended": "Sep'25",
-            "col_8": "Sep'26",
-            "col_9": "Y-o-Y (%)"
-          },
-          {
-            "Particulars": "Total Interest Income",
-            "Quarter Ended": "9691",
-            "col_3": "8744",
-            "col_4": "10357",
-            "col_5": "18.45",
-            "col_6": "6.87",
-            "Half Year Ended": "17332",
-            "col_8": "20048",
-            "col_9": "15.67"
-          },
-          {
-            "Particulars": "Total Interest Expenses",
-            "Quarter Ended": "5777",
-            "col_3": "5461",
-            "col_4": "6211",
-            "col_5": "13.73",
-            "col_6": "7.51",
-            "Half Year Ended": "10666",
-            "col_8": "11988",
-            "col_9": "12.39"
-          },
-          {
-            "Particulars": "Net Interest Income",
-            "Quarter Ended": "3914",
-            "col_3": "3283",
-            "col_4": "4146",
-            "col_5": "26.29",
-            "col_6": "5.93",
-            "Half Year Ended": "6666",
-            "col_8": "8060",
-            "col_9": "20.91"
-          },
-          {
-            "Particulars": "Net Interest Income (excluding one off item)",
-            "Quarter Ended": "3881",
-            "col_3": "3255",
-            "col_4": "4105",
-            "col_5": "26.11",
-            "col_6": "5.77",
-            "Half Year Ended": "6604",
-            "col_8": "7986",
-            "col_9": "20.93"
-          },
-          {
-            "Particulars": "Total Income",
-            "Quarter Ended": "10678",
-            "col_3": "10213",
-            "col_4": "11737",
-            "col_5": "14.92",
-            "col_6": "9.92",
-            "Half Year Ended": "20572",
-            "col_8": "22415",
-            "col_9": "8.96"
-          },
-          {
-            "Particulars": "Total Expenditure",
-            "Quarter Ended": "8492",
-            "col_3": "8427",
-            "col_4": "9469",
-            "col_5": "12.37",
-            "col_6": "11.50",
-            "Half Year Ended": "16482",
-            "col_8": "17961",
-            "col_9": "8.97"
-          },
-          {
-            "Particulars": "Operating Profit",
-            "Quarter Ended": "2186",
-            "col_3": "1786",
-            "col_4": "2268",
-            "col_5": "26.99",
-            "col_6": "3.75",
-            "Half Year Ended": "4090",
-            "col_8": "4454",
-            "col_9": "8.90"
-          },
-          {
-            "Particulars": "Operating Profit (excluding one off item)",
-            "Quarter Ended": "2153",
-            "col_3": "1758",
-            "col_4": "2227",
-            "col_5": "26.68",
-            "col_6": "3.44",
-            "Half Year Ended": "4028",
-            "col_8": "4380",
-            "col_9": "8.74"
-          },
-          {
-            "Particulars": "Provisions",
-            "Quarter Ended": "862",
-            "col_3": "573",
-            "col_4": "799",
-            "col_5": "39.44",
-            "col_6": "(7.31)",
-            "Half Year Ended": "1708",
-            "col_8": "1661",
-            "col_9": "(2.75)"
-          },
-          {
-            "Particulars": "Net Profit",
-            "Quarter Ended": "1324",
-            "col_3": "1213",
-            "col_4": "1469",
-            "col_5": "21.10",
-            "col_6": "10.95",
-            "Half Year Ended": "2382",
-            "col_8": "2793",
-            "col_9": "17.25"
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "CAPITAL & LIABILITIES",
-            "As on 31st Mar'26": "",
-            "As on 30th Sep'25": "",
-            "As on 30th Sep'26": ""
-          },
-          {
-            "Particulars": "Capital",
-            "As on 31st Mar'26": "9051",
-            "As on 30th Sep'25": "9051",
-            "As on 30th Sep'26": "9051"
-          },
-          {
-            "Particulars": "Reserves and Surplus",
-            "As on 31st Mar'26": "29419",
-            "As on 30th Sep'25": "28976",
-            "As on 30th Sep'26": "32041"
-          },
-          {
-            "Particulars": "Deposits",
-            "As on 31st Mar'26": "467923",
-            "As on 30th Sep'25": "444451",
-            "As on 30th Sep'26": "508509"
-          },
-          {
-            "Particulars": "Borrowings",
-            "As on 31st Mar'26": "31481",
-            "As on 30th Sep'25": "12104",
-            "As on 30th Sep'26": "38287"
-          },
-          {
-            "Particulars": "Other Liabilities and Provisions",
-            "As on 31st Mar'26": "11606",
-            "As on 30th Sep'25": "8768",
-            "As on 30th Sep'26": "9425"
-          },
-          {
-            "Particulars": "Total",
-            "As on 31st Mar'26": "549480",
-            "As on 30th Sep'25": "503350",
-            "As on 30th Sep'26": "597313"
-          },
-          {
-            "Particulars": "ASSETS",
-            "As on 31st Mar'26": "",
-            "As on 30th Sep'25": "",
-            "As on 30th Sep'26": ""
-          },
-          {
-            "Particulars": "Cash and Balances with Reserve Bank of India",
-            "As on 31st Mar'26": "18953",
-            "As on 30th Sep'25": "21700",
-            "As on 30th Sep'26": "17809"
-          },
-          {
-            "Particulars": "Balances with Banks and Money at Call and Short Notice",
-            "As on 31st Mar'26": "18882",
-            "As on 30th Sep'25": "16593",
-            "As on 30th Sep'26": "25135"
-          },
-          {
-            "Particulars": "Investments",
-            "As on 31st Mar'26": "157320",
-            "As on 30th Sep'25": "160297",
-            "As on 30th Sep'26": "164110"
-          },
-          {
-            "Particulars": "Loans & Advances",
-            "As on 31st Mar'26": "336997",
-            "As on 30th Sep'25": "286024",
-            "As on 30th Sep'26": "373070"
-          },
-          {
-            "Particulars": "Fixed Assets",
-            "As on 31st Mar'26": "5125",
-            "As on 30th Sep'25": "5036",
-            "As on 30th Sep'26": "5162"
-          },
-          {
-            "Particulars": "Other Assets",
-            "As on 31st Mar'26": "12203",
-            "As on 30th Sep'25": "13700",
-            "As on 30th Sep'26": "12027"
-          },
-          {
-            "Particulars": "Total",
-            "As on 31st Mar'26": "549480",
-            "As on 30th Sep'25": "503350",
-            "As on 30th Sep'26": "597313"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars": "Global Gross Advances",
-            "Sep'25": "293488",
-            "Dec'25": "323531",
-            "Mar'26": "344516",
-            "Jun'26": "354348",
-            "Sep'26": "381032"
-          },
-          {
-            "Particulars": "Net Advances",
-            "Sep'25": "286024",
-            "Dec'25": "316219",
-            "Mar'26": "336997",
-            "Jun'26": "346837",
-            "Sep'26": "373070"
-          },
-          {
-            "Particulars": "Gross NPA",
-            "Sep'25": "8827",
-            "Dec'25": "8726",
-            "Mar'26": "9185",
-            "Jun'26": "9225",
-            "Sep'26": "9109"
-          },
-          {
-            "Particulars": "Net NPA",
-            "Sep'25": "1364",
-            "Dec'25": "1414",
-            "Mar'26": "1666",
-            "Jun'26": "1715",
-            "Sep'26": "1146"
-          },
-          {
-            "Particulars": "Gross NPA %",
-            "Sep'25": "3.01",
-            "Dec'25": "2.70",
-            "Mar'26": "2.67",
-            "Jun'26": "2.60",
-            "Sep'26": "2.39"
-          },
-          {
-            "Particulars": "Net NPA %",
-            "Sep'25": "0.48",
-            "Dec'25": "0.45",
-            "Mar'26": "0.49",
-            "Jun'26": "0.49",
-            "Sep'26": "0.31"
-          }
-        ]
-      },
-      {
-        "page": 22,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Particulars": "Opening Gross NPAs",
-            "Sep'25 (QTR)": "8638",
-            "FY 25-26": "9225",
-            "JUN'26(QTR)": "9185",
-            "Sep'26 (QTR)": "9225",
-            "Sep'26 (HY)": "9185"
-          },
-          {
-            "Particulars": "Add: Slippage of PA to NPAs",
-            "Sep'25 (QTR)": "733",
-            "FY 25-26": "2968",
-            "JUN'26(QTR)": "939",
-            "Sep'26 (QTR)": "734",
-            "Sep'26 (HY)": "1386"
-          },
-          {
-            "Particulars": "Increase in Balance of existing NPAs",
-            "Sep'25 (QTR)": "64",
-            "FY 25-26": "299",
-            "JUN'26(QTR)": "47",
-            "Sep'26 (QTR)": "96",
-            "Sep'26 (HY)": "114"
-          },
-          {
-            "Particulars": "Sub-Total",
-            "Sep'25 (QTR)": "797",
-            "FY 25-26": "3267",
-            "JUN'26(QTR)": "986",
-            "Sep'26 (QTR)": "830",
-            "Sep'26 (HY)": "1500"
-          },
-          {
-            "Particulars": "Less:",
-            "Sep'25 (QTR)": "",
-            "FY 25-26": "",
-            "JUN'26(QTR)": "",
-            "Sep'26 (QTR)": "",
-            "Sep'26 (HY)": ""
-          },
-          {
-            "Particulars": "Up-gradation",
-            "Sep'25 (QTR)": "244",
-            "FY 25-26": "443",
-            "JUN'26(QTR)": "311",
-            "Sep'26 (QTR)": "247",
-            "Sep'26 (HY)": "369"
-          },
-          {
-            "Particulars": "Recovery",
-            "Sep'25 (QTR)": "313",
-            "FY 25-26": "1120",
-            "JUN'26(QTR)": "261",
-            "Sep'26 (QTR)": "613",
-            "Sep'26 (HY)": "747"
-          },
-          {
-            "Particulars": "Regular Write-off",
-            "Sep'25 (QTR)": "37",
-            "FY 25-26": "283",
-            "JUN'26(QTR)": "59",
-            "Sep'26 (QTR)": "76",
-            "Sep'26 (HY)": "135"
-          },
-          {
-            "Particulars": "Technical Write-off",
-            "Sep'25 (QTR)": "1",
-            "FY 25-26": "1435",
-            "JUN'26(QTR)": "309",
-            "Sep'26 (QTR)": "-",
-            "Sep'26 (HY)": "309"
-          },
-          {
-            "Particulars": "Other Recovery by Adjustment",
-            "Sep'25 (QTR)": "13",
-            "FY 25-26": "26",
-            "JUN'26(QTR)": "6",
-            "Sep'26 (QTR)": "10",
-            "Sep'26 (HY)": "16"
-          },
-          {
-            "Particulars": "Sub-Total",
-            "Sep'25 (QTR)": "608",
-            "FY 25-26": "3307",
-            "JUN'26(QTR)": "946",
-            "Sep'26 (QTR)": "946",
-            "Sep'26 (HY)": "1576"
-          },
-          {
-            "Particulars": "Gross NPAs",
-            "Sep'25 (QTR)": "8827",
-            "FY 25-26": "9185",
-            "JUN'26(QTR)": "9225",
-            "Sep'26 (QTR)": "9109",
-            "Sep'26 (HY)": "9109"
-          },
-          {
-            "Particulars": "% of Gross NPAs to Gross Advances",
-            "Sep'25 (QTR)": "3.01",
-            "FY 25-26": "2.67",
-            "JUN'26(QTR)": "2.60",
-            "Sep'26 (QTR)": "2.39",
-            "Sep'26 (HY)": "2.39"
-          }
-        ]
-      },
-      {
-        "page": 23,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars": "",
-            "GNPA": "Sep'25",
-            "col_3": "Jun'26",
-            "col_4": "Sep'26",
-            "Advances (Sep'26)": "",
-            "GNPA %": "",
-            "TOTAL NNPA": "",
-            "NNPA %": ""
-          },
-          {
-            "Particulars": "Total NPA",
-            "GNPA": "8827",
-            "col_3": "9225",
-            "col_4": "9109",
-            "Advances (Sep'26)": "381032",
-            "GNPA %": "2.39",
-            "TOTAL NNPA": "1146",
-            "NNPA %": "0.31"
-          },
-          {
-            "Particulars": "Retail",
-            "GNPA": "944",
-            "col_3": "1050",
-            "col_4": "1040",
-            "Advances (Sep'26)": "112299",
-            "GNPA %": "0.93",
-            "TOTAL NNPA": "124",
-            "NNPA %": "0.11"
-          },
-          {
-            "Particulars": "Agriculture & Allied",
-            "GNPA": "3378",
-            "col_3": "3743",
-            "col_4": "3598",
-            "Advances (Sep'26)": "67778",
-            "GNPA %": "5.31",
-            "TOTAL NNPA": "564",
-            "NNPA %": "0.87"
-          },
-          {
-            "Particulars": "MSME",
-            "GNPA": "3226",
-            "col_3": "3701",
-            "col_4": "3673",
-            "Advances (Sep'26)": "74196",
-            "GNPA %": "4.95",
-            "TOTAL NNPA": "450",
-            "NNPA %": "0.63"
-          },
-          {
-            "Particulars": "Corporate & Others",
-            "GNPA": "1279",
-            "col_3": "732",
-            "col_4": "798",
-            "Advances (Sep'26)": "126759",
-            "GNPA %": "0.63",
-            "TOTAL NNPA": "8",
-            "NNPA %": "0.01"
-          }
-        ]
-      },
-      {
-        "page": 23,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars": "",
-            "GNPA": "Sep'25",
-            "col_3": "Jun'26",
-            "col_4": "Sep'26",
-            "Advances (Sep'26)": "",
-            "GNPA %": "",
-            "TOTAL NNPA": "",
-            "NNPA %": ""
-          },
-          {
-            "Particulars": "Total Retail NPA",
-            "GNPA": "944",
-            "col_3": "1050",
-            "col_4": "1040",
-            "Advances (Sep'26)": "112299",
-            "GNPA %": "0.93",
-            "TOTAL NNPA": "124",
-            "NNPA %": "0.11"
-          },
-          {
-            "Particulars": "Housing Loan",
-            "GNPA": "616",
-            "col_3": "743",
-            "col_4": "747",
-            "Advances (Sep'26)": "62259",
-            "GNPA %": "1.20",
-            "TOTAL NNPA": "59",
-            "NNPA %": "0.10"
-          },
-          {
-            "Particulars": "Vehicle Loan",
-            "GNPA": "48",
-            "col_3": "53",
-            "col_4": "53",
-            "Advances (Sep'26)": "4665",
-            "GNPA %": "1.15",
-            "TOTAL NNPA": "5",
-            "NNPA %": "0.11"
-          },
-          {
-            "Particulars": "Education Loan",
-            "GNPA": "112",
-            "col_3": "86",
-            "col_4": "82",
-            "Advances (Sep'26)": "6954",
-            "GNPA %": "1.18",
-            "TOTAL NNPA": "6",
-            "NNPA %": "0.09"
-          },
-          {
-            "Particulars": "Other Personal Loans",
-            "GNPA": "168",
-            "col_3": "168",
-            "col_4": "158",
-            "Advances (Sep'26)": "38421",
-            "GNPA %": "0.41",
-            "TOTAL NNPA": "54",
-            "NNPA %": "0.14"
-          }
-        ]
-      },
-      {
-        "page": 28,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "PARTICULARS": "Global Business",
-            "SEP'25": "737938",
-            "SEP'26": "889541",
-            "Y-o-Y Growth %": "20.54"
-          },
-          {
-            "PARTICULARS": "Total Deposits (Including Interbank Deposits)",
-            "SEP'25": "444450",
-            "SEP'26": "508509",
-            "Y-o-Y Growth %": "14.41"
-          },
-          {
-            "PARTICULARS": "Certificate of Deposit (Included in Total Deposits)",
-            "SEP'25": "NIL",
-            "SEP'26": "9550",
-            "Y-o-Y Growth %": "-"
-          },
-          {
-            "PARTICULARS": "CASA Deposits",
-            "SEP'25": "207616",
-            "SEP'26": "226774",
-            "Y-o-Y Growth %": "9.23"
-          },
-          {
-            "PARTICULARS": "CASA %",
-            "SEP'25": "46.83",
-            "SEP'26": "44.65",
-            "Y-o-Y Growth %": "Z (218 bps)"
-          },
-          {
-            "PARTICULARS": "Global Advances",
-            "SEP'25": "293488",
-            "SEP'26": "381032",
-            "Y-o-Y Growth %": "29.83"
-          },
-          {
-            "PARTICULARS": "RAM",
-            "SEP'25": "209948",
-            "SEP'26": "254273",
-            "Y-o-Y Growth %": "21.11"
-          },
-          {
-            "PARTICULARS": "Corporate",
-            "SEP'25": "83540",
-            "SEP'26": "118666",
-            "Y-o-Y Growth %": "42.05"
-          },
-          {
-            "PARTICULARS": "Overseas Advances",
-            "SEP'25": "-",
-            "SEP'26": "8093",
-            "Y-o-Y Growth %": "-"
-          },
-          {
-            "PARTICULARS": "CD Ratio (excluding interbank deposit)",
-            "SEP'25": "66.20",
-            "SEP'26": "75.02",
-            "Y-o-Y Growth %": "882 bps"
-          }
-        ]
-      },
-      {
-        "page": 29,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "PARTICULARS": "Current",
-            "SEP'25": "21501",
-            "SEP'26": "23174",
-            "Y-o-Y Growth %": "7.78"
-          },
-          {
-            "PARTICULARS": "Savings",
-            "SEP'25": "186115",
-            "SEP'26": "203600",
-            "Y-o-Y Growth %": "9.39"
-          },
-          {
-            "PARTICULARS": "Total CASA Deposits",
-            "SEP'25": "207616",
-            "SEP'26": "226774",
-            "Y-o-Y Growth %": "9.23"
-          },
-          {
-            "PARTICULARS": "CASA %",
-            "SEP'25": "46.83",
-            "SEP'26": "44.65",
-            "Y-o-Y Growth %": "(218 bps)"
-          },
-          {
-            "PARTICULARS": "Core Time Deposits",
-            "SEP'25": "235749",
-            "SEP'26": "281143",
-            "Y-o-Y Growth %": "19.26"
-          },
-          {
-            "PARTICULARS": "Total Core Deposits",
-            "SEP'25": "443365",
-            "SEP'26": "507917",
-            "Y-o-Y Growth %": "14.56"
-          },
-          {
-            "PARTICULARS": "Inter Bank Deposits",
-            "SEP'25": "1085",
-            "SEP'26": "592",
-            "Y-o-Y Growth %": "(45.44)"
-          },
-          {
-            "PARTICULARS": "Total Deposits",
-            "SEP'25": "444450",
-            "SEP'26": "508509",
-            "Y-o-Y Growth %": "14.41"
-          }
-        ]
-      },
-      {
-        "page": 36,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars": "Govt. Securities",
-            "SEP'25": "131243",
-            "SEP'26": "134399"
-          },
-          {
-            "Particulars": "Other Approved",
-            "SEP'25": "-",
-            "SEP'26": "-"
-          },
-          {
-            "Particulars": "Shares",
-            "SEP'25": "1910",
-            "SEP'26": "1600"
-          },
-          {
-            "Particulars": "Debentures & Bonds",
-            "SEP'25": "26830",
-            "SEP'26": "26427"
-          },
-          {
-            "Particulars": "Subsidiaries & Joint Ventures",
-            "SEP'25": "573",
-            "SEP'26": "702"
-          },
-          {
-            "Particulars": "Others",
-            "SEP'25": "1277",
-            "SEP'26": "2049"
-          },
-          {
-            "Particulars": "Total Investment In India",
-            "SEP'25": "161833",
-            "SEP'26": "165176"
-          },
-          {
-            "Particulars": "Investment Outside India",
-            "SEP'25": "47",
-            "SEP'26": "47"
-          },
-          {
-            "Particulars": "Grand Total",
-            "SEP'25": "161880",
-            "SEP'26": "165223"
-          }
-        ]
-      },
-      {
-        "page": 37,
-        "table_index": 1,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "Aggregate Investment",
-            "Sep'25 (QTR)": "161880",
-            "Sep’26 (QTR)": "165223",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Interest on Investment",
-            "Sep'25 (QTR)": "2588",
-            "Sep’26 (QTR)": "2718",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Yield on Investment %",
-            "Sep'25 (QTR)": "6.77",
-            "Sep’26 (QTR)": "6.82",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Profit on Sale of Investments",
-            "Sep'25 (QTR)": "190",
-            "Sep’26 (QTR)": "133",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Profit on Exchange Transaction",
-            "Sep'25 (QTR)": "45",
-            "Sep’26 (QTR)": "82",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Dividend Income",
-            "Sep'25 (QTR)": "2",
-            "Sep’26 (QTR)": "-",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Profit/Loss on Revaluation of Investment",
-            "Sep'25 (QTR)": "(51)",
-            "Sep’26 (QTR)": "(87)",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Yield on Investment (Including Trading Profit)%",
-            "Sep'25 (QTR)": "7.12",
-            "Sep’26 (QTR)": "7.01",
-            "col_5": ""
-          },
-          {
-            "Particulars": "M - Duration (AFS)",
-            "col_2": "",
-            "Sep'25 (QTR)": "",
-            "Sep’26 (QTR)": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Sep'25 (QTR)": "3.93",
-            "Sep’26 (QTR)": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "10 Year Bench Mark %",
-            "col_2": "",
-            "Sep'25 (QTR)": "6.58",
-            "Sep’26 (QTR)": "7.18",
-            "col_5": ""
-          }
-        ]
-      },
-      {
-        "page": 45,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Subsidiaries": "Cent Bank Home Finance Ltd. Engaged into Housing Finance Activity • Presence in 12 States through 38 Branches • Advances & Investment Portfolio of ₹ 1800.96 Cr",
-            "col_2": "(Unaudited)",
-            "Shareholding": "64.40%",
-            "Particulars": "Total Income",
-            "Sep’25 (HY)": "90.40",
-            "Sep’26 (HY)": "96.42"
-          },
-          {
-            "Subsidiaries": "",
-            "col_2": "",
-            "Shareholding": "",
-            "Particulars": "Net Profit/(Loss)",
-            "Sep’25 (HY)": "12.51",
-            "Sep’26 (HY)": "11.09"
-          },
-          {
-            "Subsidiaries": "",
-            "col_2": "",
-            "Shareholding": "",
-            "Particulars": "Total Assets",
-            "Sep’25 (HY)": "1795.31",
-            "Sep’26 (HY)": "1842.72"
-          },
-          {
-            "Subsidiaries": "",
-            "col_2": "",
-            "Shareholding": "",
-            "Particulars": "Capital & Reserves",
-            "Sep’25 (HY)": "251.74",
-            "Sep’26 (HY)": "267.24"
-          },
-          {
-            "Subsidiaries": "Centbank Financial Services Ltd. • Engaged mainly into Trusteeship Services",
-            "col_2": "(Unaudited)",
-            "Shareholding": "100%",
-            "Particulars": "Total Income",
-            "Sep’25 (HY)": "5.52",
-            "Sep’26 (HY)": "5.95"
-          },
-          {
-            "Subsidiaries": "",
-            "col_2": "",
-            "Shareholding": "",
-            "Particulars": "Net Profit/(Loss)",
-            "Sep’25 (HY)": "3.12",
-            "Sep’26 (HY)": "2.68"
-          },
-          {
-            "Subsidiaries": "",
-            "col_2": "",
-            "Shareholding": "",
-            "Particulars": "Total Assets",
-            "Sep’25 (HY)": "60.66",
-            "Sep’26 (HY)": "73.12"
-          },
-          {
-            "Subsidiaries": "",
-            "col_2": "",
-            "Shareholding": "",
-            "Particulars": "Capital & Reserves",
-            "Sep’25 (HY)": "45.85",
-            "Sep’26 (HY)": "55.68"
-          }
-        ]
-      },
-      {
-        "page": 45,
-        "table_index": 1,
-        "row_count": 3,
-        "rows": [
-          {
-            "Associates": "Generali Central Life Insurance Company Ltd#",
-            "col_2": "(Unaudited)",
-            "Shareholding": "25.32%",
-            "Particulars": "Net Profit/(Loss)",
-            "Sep’25 (HY)": "(23.46)",
-            "Sep’26 (HY)": "(42)"
-          },
-          {
-            "Associates": "Generali Central Insurance Company Ltd#",
-            "col_2": "(Unaudited)",
-            "Shareholding": "26.00%",
-            "Particulars": "Net Profit/(Loss)",
-            "Sep’25 (HY)": "9.66",
-            "Sep’26 (HY)": "(148.59)"
-          },
-          {
-            "Associates": "Indo Zambia Bank Limited, Zambia",
-            "col_2": "(Unaudited)",
-            "Shareholding": "20%",
-            "Particulars": "Net Profit/(Loss)",
-            "Sep’25 (HY)": "197.71",
-            "Sep’26 (HY)": "282.99"
-          }
-        ]
-      },
-      {
-        "page": 46,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars": "CAPITAL & LIABILITIES",
-            "As on 30th Sep'25": "",
-            "As on 30th Sep’26": ""
-          },
-          {
-            "Particulars": "Capital",
-            "As on 30th Sep'25": "9051",
-            "As on 30th Sep’26": "9051"
-          },
-          {
-            "Particulars": "Reserves and Surplus",
-            "As on 30th Sep'25": "29483",
-            "As on 30th Sep’26": "32587"
-          },
-          {
-            "Particulars": "Minorities Interest",
-            "As on 30th Sep'25": "90",
-            "As on 30th Sep’26": "95"
-          },
-          {
-            "Particulars": "Deposits",
-            "As on 30th Sep'25": "445053",
-            "As on 30th Sep’26": "508863"
-          },
-          {
-            "Particulars": "Borrowings",
-            "As on 30th Sep'25": "12399",
-            "As on 30th Sep’26": "38908"
-          },
-          {
-            "Particulars": "Other Liabilities and Provisions",
-            "As on 30th Sep'25": "8847",
-            "As on 30th Sep’26": "9518"
-          },
-          {
-            "Particulars": "Total",
-            "As on 30th Sep'25": "504923",
-            "As on 30th Sep’26": "599022"
-          },
-          {
-            "Particulars": "ASSETS",
-            "As on 30th Sep'25": "",
-            "As on 30th Sep’26": ""
-          },
-          {
-            "Particulars": "Cash and Balances with Reserve Bank of India",
-            "As on 30th Sep'25": "21700",
-            "As on 30th Sep’26": "17810"
-          },
-          {
-            "Particulars": "Balances with Banks and Money at Call and Short Notice",
-            "As on 30th Sep'25": "16608",
-            "As on 30th Sep’26": "25135"
-          },
-          {
-            "Particulars": "Investments",
-            "As on 30th Sep'25": "160642",
-            "As on 30th Sep’26": "164475"
-          },
-          {
-            "Particulars": "Loans & Advances",
-            "As on 30th Sep'25": "287209",
-            "As on 30th Sep’26": "374377"
-          },
-          {
-            "Particulars": "Fixed Assets",
-            "As on 30th Sep'25": "5037",
-            "As on 30th Sep’26": "5163"
-          },
-          {
-            "Particulars": "Other Assets",
-            "As on 30th Sep'25": "13718",
-            "As on 30th Sep’26": "12053"
-          },
-          {
-            "Particulars": "Goodwill on Consolidation",
-            "As on 30th Sep'25": "9",
-            "As on 30th Sep’26": "9"
-          },
-          {
-            "Particulars": "Total",
-            "As on 30th Sep'25": "504923",
-            "As on 30th Sep’26": "599022"
-          }
-        ]
-      },
-      {
-        "page": 47,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "",
-            "Half Year ended": "SEP'25",
-            "col_3": "SEP’26"
-          },
-          {
-            "Particulars": "INCOME",
-            "Half Year ended": "",
-            "col_3": ""
-          },
-          {
-            "Particulars": "Interest and Dividend Earned",
-            "Half Year ended": "17400",
-            "col_3": "20120"
-          },
-          {
-            "Particulars": "Other Income",
-            "Half Year ended": "3327",
-            "col_3": "2369"
-          },
-          {
-            "Particulars": "Total",
-            "Half Year ended": "20727",
-            "col_3": "22489"
-          },
-          {
-            "Particulars": "EXPENDITURE",
-            "Half Year ended": "",
-            "col_3": ""
-          },
-          {
-            "Particulars": "Interest Expended",
-            "Half Year ended": "10698",
-            "col_3": "12021"
-          },
-          {
-            "Particulars": "Operating Expenses",
-            "Half Year ended": "5833",
-            "col_3": "5993"
-          },
-          {
-            "Particulars": "Provisions and Contingencies",
-            "Half Year ended": "1716",
-            "col_3": "1671"
-          },
-          {
-            "Particulars": "Total",
-            "Half Year ended": "18247",
-            "col_3": "19685"
-          },
-          {
-            "Particulars": "Consolidated Net Profit/(Loss) of the Parent & Subsidiaries before Minority Interest",
-            "Half Year ended": "2480",
-            "col_3": "2804"
-          },
-          {
-            "Particulars": "Less: Minority Interest",
-            "Half Year ended": "4",
-            "col_3": "4"
-          },
-          {
-            "Particulars": "Consolidated Net Profit/(Loss) after deducting Minority's Interest",
-            "Half Year ended": "2476",
-            "col_3": "2800"
-          },
-          {
-            "Particulars": "Add: Share of Earnings in Associates",
-            "Half Year ended": "38",
-            "col_3": "9"
-          },
-          {
-            "Particulars": "Consolidated Net Profit/(Loss) Attributable to the Group",
-            "Half Year ended": "2514",
-            "col_3": "2809"
-          }
-        ]
-      },
-      {
-        "page": 50,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "PARAMETERS": "Business Growth",
-            "GUIDANCE FOR FY 26-27": "14-15%",
-            "ACHIVEMENTS (QTR Sep’2026)": "20.54%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Deposit Growth",
-            "GUIDANCE FOR FY 26-27": "10-12%",
-            "ACHIVEMENTS (QTR Sep’2026)": "14.41%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Advances Growth",
-            "GUIDANCE FOR FY 26-27": "14-16%",
-            "ACHIVEMENTS (QTR Sep’2026)": "29.83%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "CASA",
-            "GUIDANCE FOR FY 26-27": "48%(+/- 1%)",
-            "ACHIVEMENTS (QTR Sep’2026)": "44.65%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "RAM: Corporate Credit Ratio",
-            "GUIDANCE FOR FY 26-27": "65:35 (+/-5%)",
-            "ACHIVEMENTS (QTR Sep’2026)": "68:32",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "NIM",
-            "GUIDANCE FOR FY 26-27": "Above 3%",
-            "ACHIVEMENTS (QTR Sep’2026)": "3.01%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Gross NPA",
-            "GUIDANCE FOR FY 26-27": "Below 2.50%",
-            "ACHIVEMENTS (QTR Sep’2026)": "2.39%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Net NPA",
-            "GUIDANCE FOR FY 26-27": "Below 0.50%",
-            "ACHIVEMENTS (QTR Sep’2026)": "0.31%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "PCR",
-            "GUIDANCE FOR FY 26-27": "96 – 98%",
-            "ACHIVEMENTS (QTR Sep’2026)": "97.16%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Slippage Ratio",
-            "GUIDANCE FOR FY 26-27": "Less than 0.25% on Q-o-Q basis",
-            "ACHIVEMENTS (QTR Sep’2026)": "0.24%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Credit Cost (Annualized)",
-            "GUIDANCE FOR FY 26-27": "Upto 0.75%",
-            "ACHIVEMENTS (QTR Sep’2026)": "0.53%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Return on Assets",
-            "GUIDANCE FOR FY 26-27": "1 % and above",
-            "ACHIVEMENTS (QTR Sep’2026)": "1.03%",
-            "col_4": ""
-          },
-          {
-            "PARAMETERS": "Cost to Income Ratio",
-            "GUIDANCE FOR FY 26-27": "< 56%",
-            "ACHIVEMENTS (QTR Sep’2026)": "58.95%",
-            "col_4": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "1941bb62-768d-4b95-a6b2-2b2fd47df55a",
-    "SCRIP_CD": 543265,
-    "XML_NAME": "ANN_543265_1941BB62-768D-4B95-A6B2-2B2FD47DF55A",
-    "NEWSSUB": "RailTel Corporation of India Ltd - 543265 - Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
-    "DT_TM": "2026-10-17T13:36:06.56",
-    "NEWS_DT": "2026-10-17T13:36:06.56",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8e60f79f-8457-489c-ade9-b65de1deba89.pdf",
-    "MORE": "",
-    "HEADLINE": "New Order Received",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
-    "SLONGNAME": "RailTel Corporation of India Ltd",
-    "AGENDA_ID": 8,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-10-17T13:36:06",
-    "DissemDT": "2026-10-17T13:36:06.56",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 331778,
-    "SUBCATNAME": "Award of Order / Receipt of Order",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
