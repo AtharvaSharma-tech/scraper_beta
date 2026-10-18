@@ -1,5 +1,89 @@
 [
   {
+    "NEWSID": "78b64d58-88ca-40f2-ae4f-e01b45bd3d29",
+    "SCRIP_CD": 532175,
+    "XML_NAME": "ANN_532175_78B64D58-88CA-40F2-AE4F-E01B45BD3D29",
+    "NEWSSUB": "Cyient Ltd - 532175 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "DT_TM": "2026-10-18T10:10:57.013",
+    "NEWS_DT": "2026-10-18T10:10:57.013",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7d883984-9238-44bd-8c32-4d10a935378e.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Completion of Tenure of Independent Director",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/cyient-ltd/cyient/532175/",
+    "SLONGNAME": "Cyient Ltd",
+    "AGENDA_ID": 124,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-18T10:10:56",
+    "DissemDT": "2026-10-18T10:10:57.013",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 394536,
+    "SUBCATNAME": "Change in Management",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Mr. Vikas Sehgal (DIN 05218876) ceased to be a Non‑Executive Independent Director of Cyient Ltd, ending his second five‑year term on **16 October 2026 (24:00 hrs IST)**, and consequently stepped down from the Stakeholders’ Engagement Committee and the ESG Committee.  \n\n- The announcement contains **no financial figures, transactions, or monetary decisions**; it solely reports the change in board composition.",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "Sr.": "",
+            "col_2": "Particulars",
+            "col_3": "Details"
+          },
+          {
+            "Sr.": "No.",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Sr.": "1",
+            "col_2": "Reason for change viz. appointment, re-appointment, resignation, removal, death or otherwise",
+            "col_3": "Cessation upon completion of the second term of five consecutive years as an Independent Director."
+          },
+          {
+            "Sr.": "2",
+            "col_2": "Date of cessation",
+            "col_3": "16 October 2026 (24:00 hrs IST)"
+          },
+          {
+            "Sr.": "3",
+            "col_2": "Brief profile (in case of appointment)",
+            "col_3": "Not Applicable"
+          },
+          {
+            "Sr.": "4",
+            "col_2": "Disclosure of relationships between directors (in case of appointment of a director)",
+            "col_3": "Not Applicable"
+          },
+          {
+            "Sr.": "5",
+            "col_2": "Name of the listed entities in which the resigning director holds directorship, indicating the category of directorship and membership of board committees, if any",
+            "col_3": "Not Applicable"
+          },
+          {
+            "Sr.": "6",
+            "col_2": "The independent director shall, along with detailed reasons, also provide confirmation that there are no other material reasons other than those provided",
+            "col_3": "Not Applicable, since the cessation is due to completion of tenure and not resignation. Further, the cessation of Mr. Vikas Sehgal as an Independent Director is due to completion of his second term of five consecutive years and is not attributable to any other reason."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "abafdfce-6fdd-4a69-9ab6-cd2406052a03",
     "SCRIP_CD": 543541,
     "XML_NAME": "ANN_543541_ABAFDFCE-6FDD-4A69-9AB6-CD2406052A03",
@@ -15741,48 +15825,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a69756b4-44e5-4d63-84f4-4df12adf8372",
-    "SCRIP_CD": 543831,
-    "XML_NAME": "ANN_543831_A69756B4-44E5-4D63-84F4-4DF12ADF8372",
-    "NEWSSUB": "Bright Outdoor Media Ltd - 543831 - Pursuant To Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements), Regulations, 2015, We Are Enclosing Herewith The Business Update Of The Company.",
-    "DT_TM": "2026-10-17T18:23:05.06",
-    "NEWS_DT": "2026-10-17T18:23:05.06",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "64b00302-8761-4c35-8c1e-a1b0eba0b7fe.pdf",
-    "MORE": "",
-    "HEADLINE": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015, we are enclosing herewith the Business Update of the Company.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bright-outdoor-media-ltd/bright/543831/",
-    "SLONGNAME": "Bright Outdoor Media Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-10-17T18:23:05",
-    "DissemDT": "2026-10-17T18:23:05.06",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 472175,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "71.85 cr",
-      "net_profit": "11.03 cr",
-      "operating_profit": "15.96 cr",
-      "eps": "12.26",
-      "currency_unit": "₹ in Crores"
-    },
     "financial_tables": []
   }
 ]
