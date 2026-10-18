@@ -1,5 +1,496 @@
 [
   {
+    "NEWSID": "5d3bc8a9-f3ea-4f63-a8a8-d5249e214eb8",
+    "SCRIP_CD": 544091,
+    "XML_NAME": "ANN_544091_5D3BC8A9-F3EA-4F63-A8A8-D5249E214EB8",
+    "NEWSSUB": "Qualitek Labs Ltd - 544091 - Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
+    "DT_TM": "2026-10-18T22:44:31.997",
+    "NEWS_DT": "2026-10-18T22:44:31.997",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d0ca2f7e-1a45-4a40-8d6d-2403caa89e96.pdf",
+    "MORE": "",
+    "HEADLINE": "Qualitek Labs Limited has informed the Exchange the regarding the E-voting results and Scrutinizer report for the Extra-Ordinary General Meeting held on October 16,2026.",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/qualitek-labs-ltd/qll/544091/",
+    "SLONGNAME": "Qualitek Labs Ltd",
+    "AGENDA_ID": 28,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-18T22:44:31",
+    "DissemDT": "2026-10-18T22:44:31.997",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1292068,
+    "SUBCATNAME": "EGM",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company disclosed the e‑voting results and the Scrutinizer’s report for its Extra‑Ordinary General Meeting held on **16 Oct 2026 (12:30 PM – 1:06 PM)**; e‑voting ran from **13 Oct 2026 09:00 IST to 15 Oct 2026 17:00 IST** and was also conducted during the meeting.  \n- No financial figures, monetary decisions, or other financial details were included in the announcement.",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 20,
+        "rows": [
+          {
+            "Resolution(1)": "Resolution required: (Ordinary / Special)",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "Special",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution(1)": "Whether promoter/promoter group are interested in the agenda/resolution?",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "No",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution(1)": "Description of resolution considered",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "Issuance of 3,86,000 Equity Shares on a Preferential Basis to the persons belonging to the Promoter/Promoter Group and Non- Promoter Category/Strategic Investors",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution(1)": "Category",
+            "col_2": "Mode of voting",
+            "col_3": "No. of shares held",
+            "col_4": "No. of votes polled",
+            "col_5": "% of Votes polled on outstanding shares",
+            "col_6": "No. of votes – in favour",
+            "col_7": "No. of votes – against",
+            "col_8": "% of votes in favour on votes polled",
+            "col_9": "% of Votes against on votes polled"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "",
+            "col_3": "(1)",
+            "col_4": "(2)",
+            "col_5": "(3)=[(2)/(1)]*100",
+            "col_6": "(4)",
+            "col_7": "(5)",
+            "col_8": "(6)= [(4)/(2)]*100",
+            "col_9": "(7)= [(5)/(2)]*100"
+          },
+          {
+            "Resolution(1)": "Promoter and Promoter Group",
+            "col_2": "E-Voting",
+            "col_3": "6578379",
+            "col_4": "6578375",
+            "col_5": "99.9999",
+            "col_6": "6578375",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Postal Ballot (if applicable)",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Total",
+            "col_3": "6578379",
+            "col_4": "6578375",
+            "col_5": "99.9999",
+            "col_6": "6578375",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "Public- Institutions",
+            "col_2": "E-Voting",
+            "col_3": "196800",
+            "col_4": "139600",
+            "col_5": "70.935",
+            "col_6": "139600",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Postal Ballot (if applicable)",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Total",
+            "col_3": "196800",
+            "col_4": "139600",
+            "col_5": "70.935",
+            "col_6": "139600",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "Public- Non Institutions",
+            "col_2": "E-Voting",
+            "col_3": "4876852",
+            "col_4": "88000",
+            "col_5": "1.8044",
+            "col_6": "88000",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Postal Ballot (if applicable)",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "",
+            "col_2": "Total",
+            "col_3": "4876852",
+            "col_4": "88000",
+            "col_5": "1.8044",
+            "col_6": "88000",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "Total",
+            "col_2": "",
+            "col_3": "11652031",
+            "col_4": "6805975",
+            "col_5": "58.4102",
+            "col_6": "6805975",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(1)": "Whether resolution is Pass or Not.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "Yes",
+            "col_9": ""
+          },
+          {
+            "Resolution(1)": "Disclosure of notes on resolution",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 20,
+        "rows": [
+          {
+            "Resolution(2)": "Resolution required: (Ordinary / Special)",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "Special",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution(2)": "Whether promoter/promoter group are interested in the agenda/resolution?",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "No",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution(2)": "Description of resolution considered",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "Issuance of up to 5,20,000 Fully Convertible Warrants to the persons/ entities belonging to the “Promoter and Promoter Group” category on preferential basis.",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution(2)": "Category",
+            "col_2": "Mode of voting",
+            "col_3": "No. of shares held",
+            "col_4": "No. of votes polled",
+            "col_5": "% of Votes polled on outstanding shares",
+            "col_6": "No. of votes – in favour",
+            "col_7": "No. of votes – against",
+            "col_8": "% of votes in favour on votes polled",
+            "col_9": "% of Votes against on votes polled"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "",
+            "col_3": "(1)",
+            "col_4": "(2)",
+            "col_5": "(3)=[(2)/(1)]*100",
+            "col_6": "(4)",
+            "col_7": "(5)",
+            "col_8": "(6)= [(4)/(2)]*100",
+            "col_9": "(7)= [(5)/(2)]*100"
+          },
+          {
+            "Resolution(2)": "Promoter and Promoter Group",
+            "col_2": "E-Voting",
+            "col_3": "6578379",
+            "col_4": "6578375",
+            "col_5": "99.9999",
+            "col_6": "6578375",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Postal Ballot (if applicable)",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Total",
+            "col_3": "6578379",
+            "col_4": "6578375",
+            "col_5": "99.9999",
+            "col_6": "6578375",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "Public- Institutions",
+            "col_2": "E-Voting",
+            "col_3": "196800",
+            "col_4": "139600",
+            "col_5": "70.935",
+            "col_6": "139600",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Postal Ballot (if applicable)",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Total",
+            "col_3": "196800",
+            "col_4": "139600",
+            "col_5": "70.935",
+            "col_6": "139600",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "Public- Non Institutions",
+            "col_2": "E-Voting",
+            "col_3": "4876852",
+            "col_4": "88000",
+            "col_5": "1.8044",
+            "col_6": "88000",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Postal Ballot (if applicable)",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "0",
+            "col_7": "0",
+            "col_8": "0",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "",
+            "col_2": "Total",
+            "col_3": "4876852",
+            "col_4": "88000",
+            "col_5": "1.8044",
+            "col_6": "88000",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "Total",
+            "col_2": "",
+            "col_3": "11652031",
+            "col_4": "6805975",
+            "col_5": "58.4102",
+            "col_6": "6805975",
+            "col_7": "0",
+            "col_8": "100",
+            "col_9": "0"
+          },
+          {
+            "Resolution(2)": "Whether resolution is Pass or Not.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "Yes",
+            "col_9": ""
+          },
+          {
+            "Resolution(2)": "Disclosure of notes on resolution",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "c5af96ff-0e9d-449a-bb93-4f1771d33013",
     "SCRIP_CD": 539527,
     "XML_NAME": "ANN_539527_C5AF96FF-0E9D-449A-BB93-4F1771D33013",
@@ -13260,1014 +13751,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "05903f98-9ae0-4f7d-8e45-81b15daf76d3",
-    "SCRIP_CD": 500184,
-    "XML_NAME": "ANN_500184_05903F98-9AE0-4F7D-8E45-81B15DAF76D3",
-    "NEWSSUB": "Himadri Speciality Chemical Ltd - 500184 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-17T19:16:17.28",
-    "NEWS_DT": "2026-10-17T19:16:17.28",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "93e33f8d-7638-4a7d-8d72-3a8bd896a115.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/himadri-speciality-chemical-ltd/hscl/500184/",
-    "SLONGNAME": "Himadri Speciality Chemical Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 8,
-    "News_submission_dt": "2026-10-17T19:16:17",
-    "DissemDT": "2026-10-17T19:16:17.28",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7136803,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "operating_profit": "308.19",
-      "total_assets": "6735.59",
-      "total_equity": "6735.59",
-      "total_debt": "2.76",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 53,
-        "table_index": 1,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars (Rs. in Cr)": "Net Revenue From Operations",
-            "Q2FY27": "1,542.67",
-            "Q2FY26": "1,070.41",
-            "Y-o-Y": "44.12%",
-            "Q1FY27": "1,274.26",
-            "Q-o-Q": "21.06%",
-            "H1FY27": "2,816.93",
-            "H1FY26": "2,170.83",
-            "Y-o-Y_1": "29.76%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Cost of Materials Consumed",
-            "Q2FY27": "1,048.83",
-            "Q2FY26": "675.60",
-            "Y-o-Y": "",
-            "Q1FY27": "804.17",
-            "Q-o-Q": "",
-            "H1FY27": "1,853.00",
-            "H1FY26": "1,379.65",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Gross Profit",
-            "Q2FY27": "493.84",
-            "Q2FY26": "394.81",
-            "Y-o-Y": "25.08%",
-            "Q1FY27": "470.09",
-            "Q-o-Q": "5.05%",
-            "H1FY27": "963.93",
-            "H1FY26": "791.18",
-            "Y-o-Y_1": "21.83%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Employee Benefits Expense",
-            "Q2FY27": "42.94",
-            "Q2FY26": "40.14",
-            "Y-o-Y": "",
-            "Q1FY27": "42.09",
-            "Q-o-Q": "",
-            "H1FY27": "85.03",
-            "H1FY26": "73.87",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Expenses",
-            "Q2FY27": "142.71",
-            "Q2FY26": "111.96",
-            "Y-o-Y": "",
-            "Q1FY27": "126.64",
-            "Q-o-Q": "",
-            "H1FY27": "269.35",
-            "H1FY26": "240.63",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "EBITDA",
-            "Q2FY27": "308.19",
-            "Q2FY26": "242.71",
-            "Y-o-Y": "26.98%",
-            "Q1FY27": "301.36",
-            "Q-o-Q": "2.27%",
-            "H1FY27": "609.55",
-            "H1FY26": "476.68",
-            "Y-o-Y_1": "27.87%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Income",
-            "Q2FY27": "44.33",
-            "Q2FY26": "38.29",
-            "Y-o-Y": "",
-            "Q1FY27": "58.45",
-            "Q-o-Q": "",
-            "H1FY27": "102.78",
-            "H1FY26": "65.89",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Foreign Exchange Fluctuation Gain/(Loss)",
-            "Q2FY27": "11.59",
-            "Q2FY26": "(5.10)",
-            "Y-o-Y": "",
-            "Q1FY27": "(25.27)",
-            "Q-o-Q": "",
-            "H1FY27": "(13.68)",
-            "H1FY26": "4.70",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Depreciation and Amortization Expense",
-            "Q2FY27": "19.69",
-            "Q2FY26": "15.59",
-            "Y-o-Y": "",
-            "Q1FY27": "19.25",
-            "Q-o-Q": "",
-            "H1FY27": "38.94",
-            "H1FY26": "28.49",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "EBIT",
-            "Q2FY27": "344.42",
-            "Q2FY26": "260.31",
-            "Y-o-Y": "32.31%",
-            "Q1FY27": "315.29",
-            "Q-o-Q": "9.24%",
-            "H1FY27": "659.71",
-            "H1FY26": "518.78",
-            "Y-o-Y_1": "27.17%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Finance Costs",
-            "Q2FY27": "26.55",
-            "Q2FY26": "13.17",
-            "Y-o-Y": "",
-            "Q1FY27": "21.22",
-            "Q-o-Q": "",
-            "H1FY27": "47.77",
-            "H1FY26": "27.54",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Exceptional Items",
-            "Q2FY27": "0.00",
-            "Q2FY26": "0.00",
-            "Y-o-Y": "",
-            "Q1FY27": "0.00",
-            "Q-o-Q": "",
-            "H1FY27": "0.00",
-            "H1FY26": "0.00",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Profit / (Loss) Before Tax",
-            "Q2FY27": "317.87",
-            "Q2FY26": "247.14",
-            "Y-o-Y": "28.62%",
-            "Q1FY27": "294.07",
-            "Q-o-Q": "8.09%",
-            "H1FY27": "611.94",
-            "H1FY26": "491.24",
-            "Y-o-Y_1": "24.57%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Tax Expenses",
-            "Q2FY27": "78.10",
-            "Q2FY26": "60.29",
-            "Y-o-Y": "",
-            "Q1FY27": "70.65",
-            "Q-o-Q": "",
-            "H1FY27": "148.75",
-            "H1FY26": "121.82",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Profit / (Loss) for the year",
-            "Q2FY27": "239.77",
-            "Q2FY26": "186.85",
-            "Y-o-Y": "28.32%",
-            "Q1FY27": "223.42",
-            "Q-o-Q": "7.32%",
-            "H1FY27": "463.19",
-            "H1FY26": "369.42",
-            "Y-o-Y_1": "25.38%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Comprehensive Income",
-            "Q2FY27": "0.04",
-            "Q2FY26": "(0.90)",
-            "Y-o-Y": "",
-            "Q1FY27": "3.18",
-            "Q-o-Q": "",
-            "H1FY27": "3.22",
-            "H1FY26": "0.66",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total Comprehensive Income for the year",
-            "Q2FY27": "239.81",
-            "Q2FY26": "185.95",
-            "Y-o-Y": "28.96%",
-            "Q1FY27": "226.60",
-            "Q-o-Q": "5.83%",
-            "H1FY27": "466.41",
-            "H1FY26": "370.08",
-            "Y-o-Y_1": "26.03%"
-          }
-        ]
-      },
-      {
-        "page": 54,
-        "table_index": 1,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars (Rs. in Cr)": "Net Revenue From Operations",
-            "Q2FY27": "1,691.43",
-            "Q2FY26": "1,071.03",
-            "Y-o-Y": "57.93%",
-            "Q1FY27": "1,431.88",
-            "Q-o-Q": "18.13%",
-            "H1FY27": "3,123.31",
-            "H1FY26": "2,189.32",
-            "Y-o-Y_1": "42.66%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Cost of Materials Consumed",
-            "Q2FY27": "1,171.01",
-            "Q2FY26": "661.95",
-            "Y-o-Y": "",
-            "Q1FY27": "912.11",
-            "Q-o-Q": "",
-            "H1FY27": "2,083.12",
-            "H1FY26": "1,371.40",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Gross Profit",
-            "Q2FY27": "520.42",
-            "Q2FY26": "409.08",
-            "Y-o-Y": "27.22%",
-            "Q1FY27": "519.77",
-            "Q-o-Q": "0.13%",
-            "H1FY27": "1,040.19",
-            "H1FY26": "817.92",
-            "Y-o-Y_1": "27.18%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Employee Benefits Expense",
-            "Q2FY27": "60.68",
-            "Q2FY26": "51.38",
-            "Y-o-Y": "",
-            "Q1FY27": "58.27",
-            "Q-o-Q": "",
-            "H1FY27": "118.95",
-            "H1FY26": "92.50",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Expenses",
-            "Q2FY27": "156.52",
-            "Q2FY26": "119.85",
-            "Y-o-Y": "",
-            "Q1FY27": "148.39",
-            "Q-o-Q": "",
-            "H1FY27": "304.91",
-            "H1FY26": "252.32",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "EBITDA",
-            "Q2FY27": "303.22",
-            "Q2FY26": "237.85",
-            "Y-o-Y": "27.48%",
-            "Q1FY27": "313.11",
-            "Q-o-Q": "(3.16%)",
-            "H1FY27": "616.33",
-            "H1FY26": "473.10",
-            "Y-o-Y_1": "30.27%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Income",
-            "Q2FY27": "41.79",
-            "Q2FY26": "35.93",
-            "Y-o-Y": "",
-            "Q1FY27": "56.31",
-            "Q-o-Q": "",
-            "H1FY27": "98.10",
-            "H1FY26": "62.61",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Foreign Exchange Fluctuation (Loss)/Gain",
-            "Q2FY27": "11.74",
-            "Q2FY26": "(5.07)",
-            "Y-o-Y": "",
-            "Q1FY27": "(25.20)",
-            "Q-o-Q": "",
-            "H1FY27": "(13.46)",
-            "H1FY26": "4.69",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Depreciation and Amortization Expense",
-            "Q2FY27": "21.69",
-            "Q2FY26": "17.39",
-            "Y-o-Y": "",
-            "Q1FY27": "21.30",
-            "Q-o-Q": "",
-            "H1FY27": "42.99",
-            "H1FY26": "32.03",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "EBIT",
-            "Q2FY27": "335.06",
-            "Q2FY26": "251.32",
-            "Y-o-Y": "33.32%",
-            "Q1FY27": "322.92",
-            "Q-o-Q": "3.76%",
-            "H1FY27": "657.98",
-            "H1FY26": "508.37",
-            "Y-o-Y_1": "29.43%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Finance Costs",
-            "Q2FY27": "27.72",
-            "Q2FY26": "14.78",
-            "Y-o-Y": "",
-            "Q1FY27": "22.41",
-            "Q-o-Q": "",
-            "H1FY27": "50.13",
-            "H1FY26": "30.61",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Exceptional Items",
-            "Q2FY27": "0.00",
-            "Q2FY26": "0.00",
-            "Y-o-Y": "",
-            "Q1FY27": "0.00",
-            "Q-o-Q": "",
-            "H1FY27": "0.00",
-            "H1FY26": "0.00",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Profit / (Loss) Before Tax",
-            "Q2FY27": "307.34",
-            "Q2FY26": "236.54",
-            "Y-o-Y": "29.93%",
-            "Q1FY27": "300.51",
-            "Q-o-Q": "2.27%",
-            "H1FY27": "607.85",
-            "H1FY26": "477.76",
-            "Y-o-Y_1": "27.23%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Tax Expenses",
-            "Q2FY27": "76.02",
-            "Q2FY26": "60.40",
-            "Y-o-Y": "",
-            "Q1FY27": "72.08",
-            "Q-o-Q": "",
-            "H1FY27": "148.10",
-            "H1FY26": "122.26",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Profit / (Loss) for the year",
-            "Q2FY27": "231.32",
-            "Q2FY26": "176.14",
-            "Y-o-Y": "31.33%",
-            "Q1FY27": "228.43",
-            "Q-o-Q": "1.27%",
-            "H1FY27": "459.75",
-            "H1FY26": "355.50",
-            "Y-o-Y_1": "29.32%"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Comprehensive Income",
-            "Q2FY27": "0.88",
-            "Q2FY26": "2.80",
-            "Y-o-Y": "",
-            "Q1FY27": "5.58",
-            "Q-o-Q": "",
-            "H1FY27": "6.46",
-            "H1FY26": "4.53",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total Comprehensive Income for the year",
-            "Q2FY27": "232.20",
-            "Q2FY26": "178.94",
-            "Y-o-Y": "29.76%",
-            "Q1FY27": "234.01",
-            "Q-o-Q": "(0.77%)",
-            "H1FY27": "466.21",
-            "H1FY26": "360.03",
-            "Y-o-Y_1": "29.49%"
-          }
-        ]
-      },
-      {
-        "page": 55,
-        "table_index": 1,
-        "row_count": 24,
-        "rows": [
-          {
-            "Particulars (Rs. in Cr)": "ASSETS",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Current Assets",
-            "Sep'26": "3,960.90",
-            "Mar' 26": "3,488.50"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Property, Plant and Equipment",
-            "Sep'26": "1,808.36",
-            "Mar' 26": "1,726.79"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Capital work-in-progress",
-            "Sep'26": "230.41",
-            "Mar' 26": "234.16"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Right of use Assets",
-            "Sep'26": "34.64",
-            "Mar' 26": "40.98"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Intangible Assets",
-            "Sep'26": "0.40",
-            "Mar' 26": "0.47"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial Assets",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Investments",
-            "Sep'26": "1,425.03",
-            "Mar' 26": "1,133.93"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Trade Receivables",
-            "Sep'26": "161.11",
-            "Mar' 26": "141.30"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Loans",
-            "Sep'26": "10.18",
-            "Mar' 26": "10.18"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iv) Other Financial Assets",
-            "Sep'26": "148.59",
-            "Mar' 26": "126.91"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Current Tax Assets (net)",
-            "Sep'26": "9.00",
-            "Mar' 26": "9.00"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Non-Current Assets",
-            "Sep'26": "133.18",
-            "Mar' 26": "64.78"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Current Assets",
-            "Sep'26": "2,774.69",
-            "Mar' 26": "2,598.76"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Inventories",
-            "Sep'26": "699.01",
-            "Mar' 26": "695.21"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial Assets",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Investments",
-            "Sep'26": "15.35",
-            "Mar' 26": "113.12"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Trade Receivables",
-            "Sep'26": "1,089.04",
-            "Mar' 26": "751.76"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Cash and Cash Equivalents",
-            "Sep'26": "76.62",
-            "Mar' 26": "143.97"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iv) Bank Balances other than (iii) above",
-            "Sep'26": "516.65",
-            "Mar' 26": "566.67"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(v) Loans",
-            "Sep'26": "1.14",
-            "Mar' 26": "1.97"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(vi) Other Financial Assets",
-            "Sep'26": "35.36",
-            "Mar' 26": "24.01"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Current Assets",
-            "Sep'26": "341.52",
-            "Mar' 26": "302.05"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total Assets",
-            "Sep'26": "6,735.59",
-            "Mar' 26": "6,087.26"
-          }
-        ]
-      },
-      {
-        "page": 55,
-        "table_index": 2,
-        "row_count": 22,
-        "rows": [
-          {
-            "Particulars (Rs. in Cr)": "EQUITY AND LIABILITIES",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Equity",
-            "Sep'26": "5,049.26",
-            "Mar' 26": "4,622.76"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Equity Share Capital",
-            "Sep'26": "50.46",
-            "Mar' 26": "50.45"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Equity",
-            "Sep'26": "4,998.80",
-            "Mar' 26": "4,572.31"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Current liabilities",
-            "Sep'26": "322.16",
-            "Mar' 26": "302.26"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial Liabilities",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Borrowings",
-            "Sep'26": "2.76",
-            "Mar' 26": "2.51"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Lease Liabilities",
-            "Sep'26": "0.65",
-            "Mar' 26": "0.72"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Other Financial Liabilities",
-            "Sep'26": "0.26",
-            "Mar' 26": "0.26"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Provisions",
-            "Sep'26": "12.96",
-            "Mar' 26": "12.92"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Deferred Tax Liabilities (net)",
-            "Sep'26": "305.53",
-            "Mar' 26": "285.85"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Current Liabilities",
-            "Sep'26": "1,364.17",
-            "Mar' 26": "1,162.24"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial liabilities",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Borrowings",
-            "Sep'26": "1,082.93",
-            "Mar' 26": "719.24"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Trade Payables",
-            "Sep'26": "150.29",
-            "Mar' 26": "360.82"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Lease Liabilities",
-            "Sep'26": "0.51",
-            "Mar' 26": "0.84"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iv) Derivatives",
-            "Sep'26": "0.00",
-            "Mar' 26": "0.00"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(v) Other Financial Liabilities",
-            "Sep'26": "39.32",
-            "Mar' 26": "67.93"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Current Liabilities",
-            "Sep'26": "10.30",
-            "Mar' 26": "7.10"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Provisions",
-            "Sep'26": "3.76",
-            "Mar' 26": "2.51"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Current tax liabilities (net)",
-            "Sep'26": "77.06",
-            "Mar' 26": "3.80"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total Equity & Liability",
-            "Sep'26": "6,735.59",
-            "Mar' 26": "6,087.26"
-          }
-        ]
-      },
-      {
-        "page": 56,
-        "table_index": 1,
-        "row_count": 24,
-        "rows": [
-          {
-            "Particulars (Rs. in Cr)": "ASSETS",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Current Assets",
-            "Sep'26": "3,947.58",
-            "Mar' 26": "3,482.87"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Property, Plant and Equipment",
-            "Sep'26": "1,892.83",
-            "Mar' 26": "1,811.51"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Capital work-in-progress",
-            "Sep'26": "370.06",
-            "Mar' 26": "372.18"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Right of use Assets",
-            "Sep'26": "40.74",
-            "Mar' 26": "45.85"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Goodwill",
-            "Sep'26": "24.43",
-            "Mar' 26": "24.43"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Intangible Assets",
-            "Sep'26": "58.01",
-            "Mar' 26": "59.73"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial Assets",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Investments",
-            "Sep'26": "1,226.23",
-            "Mar' 26": "935.14"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Trade Receivables",
-            "Sep'26": "10.18",
-            "Mar' 26": "10.18"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Other Financial Assets",
-            "Sep'26": "168.70",
-            "Mar' 26": "144.24"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Current Tax Assets (net)",
-            "Sep'26": "16.16",
-            "Mar' 26": "13.41"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Non-Current Assets",
-            "Sep'26": "140.24",
-            "Mar' 26": "66.20"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Current Assets",
-            "Sep'26": "3,029.24",
-            "Mar' 26": "2,823.52"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Inventories",
-            "Sep'26": "805.68",
-            "Mar' 26": "762.96"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial Assets",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Investments",
-            "Sep'26": "23.42",
-            "Mar' 26": "124.77"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Trade Receivables",
-            "Sep'26": "1,026.18",
-            "Mar' 26": "696.42"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Cash and Cash Equivalents",
-            "Sep'26": "95.93",
-            "Mar' 26": "164.76"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iv) Bank Balances other than (iii) above",
-            "Sep'26": "516.72",
-            "Mar' 26": "570.71"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(v) Loans",
-            "Sep'26": "14.21",
-            "Mar' 26": "14.37"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(vi) Other Financial Assets",
-            "Sep'26": "31.74",
-            "Mar' 26": "27.04"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Current Assets",
-            "Sep'26": "515.36",
-            "Mar' 26": "462.49"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total Assets",
-            "Sep'26": "6,976.82",
-            "Mar' 26": "6,306.39"
-          }
-        ]
-      },
-      {
-        "page": 56,
-        "table_index": 2,
-        "row_count": 23,
-        "rows": [
-          {
-            "Particulars (Rs. in Cr)": "EQUITY AND LIABILITIES",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "Equity",
-            "Sep'26": "5,188.39",
-            "Mar' 26": "4,762.08"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Equity Share Capital",
-            "Sep'26": "50.46",
-            "Mar' 26": "50.45"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Equity",
-            "Sep'26": "5,084.76",
-            "Mar' 26": "4,656.23"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total equity attributable to equity shareholder of the company",
-            "Sep'26": "5,135.22",
-            "Mar' 26": "4,706.68"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Controlling Interest",
-            "Sep'26": "53.17",
-            "Mar' 26": "55.40"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Non-Current liabilities",
-            "Sep'26": "326.83",
-            "Mar' 26": "308.16"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial Liabilities",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Borrowings",
-            "Sep'26": "3.58",
-            "Mar' 26": "4.45"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Lease Liabilities",
-            "Sep'26": "2.30",
-            "Mar' 26": "1.50"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Other Financial Liabilities",
-            "Sep'26": "0.26",
-            "Mar' 26": "0.26"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Provisions",
-            "Sep'26": "15.52",
-            "Mar' 26": "14.06"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Deferred Tax Liabilities (net)",
-            "Sep'26": "305.17",
-            "Mar' 26": "287.89"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Current Liabilities",
-            "Sep'26": "1,461.60",
-            "Mar' 26": "1,236.15"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Financial liabilities",
-            "Sep'26": "",
-            "Mar' 26": ""
-          },
-          {
-            "Particulars (Rs. in Cr)": "(i) Borrowings",
-            "Sep'26": "1,152.26",
-            "Mar' 26": "762.11"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(ii) Lease Liabilities",
-            "Sep'26": "1.97",
-            "Mar' 26": "1.91"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iii) Trade Payable",
-            "Sep'26": "160.47",
-            "Mar' 26": "375.42"
-          },
-          {
-            "Particulars (Rs. in Cr)": "(iv) Other Financial Liabilities",
-            "Sep'26": "48.85",
-            "Mar' 26": "74.69"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Other Current Liabilities",
-            "Sep'26": "16.08",
-            "Mar' 26": "12.38"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Provisions",
-            "Sep'26": "3.93",
-            "Mar' 26": "2.94"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Current tax liabilities (net)",
-            "Sep'26": "78.04",
-            "Mar' 26": "6.70"
-          },
-          {
-            "Particulars (Rs. in Cr)": "Total Equity & Liability",
-            "Sep'26": "6,976.82",
-            "Mar' 26": "6,306.39"
-          }
-        ]
-      },
-      {
-        "page": 57,
-        "table_index": 1,
-        "row_count": 11,
-        "rows": [
-          {
-            "col_1": "Particulars (Rs. in Cr)",
-            "Standalone": "Sep-26",
-            "col_3": "Sep-25",
-            "Consolidated": "Sep-26",
-            "col_5": "Sep-25"
-          },
-          {
-            "col_1": "Profit Before Tax",
-            "Standalone": "611.94",
-            "col_3": "491.24",
-            "Consolidated": "607.85",
-            "col_5": "477.76"
-          },
-          {
-            "col_1": "Adjustments for: Non-Cash Items / Other Investment or Financial Items",
-            "Standalone": "(25.14)",
-            "col_3": "5.18",
-            "Consolidated": "(13.20)",
-            "col_5": "5.27"
-          },
-          {
-            "col_1": "Operating profit before working capital changes",
-            "Standalone": "586.80",
-            "col_3": "496.42",
-            "Consolidated": "594.65",
-            "col_5": "483.03"
-          },
-          {
-            "col_1": "Changes in working capital",
-            "Standalone": "(626.60)",
-            "col_3": "(342.93)",
-            "Consolidated": "(686.25)",
-            "col_5": "(474.16)"
-          },
-          {
-            "col_1": "Cash generated from/ (used in) Operations",
-            "Standalone": "(39.80)",
-            "col_3": "153.49",
-            "Consolidated": "(91.60)",
-            "col_5": "8.87"
-          },
-          {
-            "col_1": "Direct taxes paid (net of refund)",
-            "Standalone": "(56.33)",
-            "col_3": "(99.69)",
-            "Consolidated": "(62.75)",
-            "col_5": "(103.73)"
-          },
-          {
-            "col_1": "Net Cash generated from/ (used in) operating activities (A)",
-            "Standalone": "(96.13)",
-            "col_3": "53.80",
-            "Consolidated": "(154.35)",
-            "col_5": "(94.86)"
-          },
-          {
-            "col_1": "Net Cash generated from/ (used in) Investing Activities (B)",
-            "Standalone": "(247.80)",
-            "col_3": "(580.03)",
-            "Consolidated": "(214.98)",
-            "col_5": "(463.93)"
-          },
-          {
-            "col_1": "Net Cash generated from/ (used in) financing activities (C)",
-            "Standalone": "276.58",
-            "col_3": "436.76",
-            "Consolidated": "300.50",
-            "col_5": "471.65"
-          },
-          {
-            "col_1": "Net increase/ (decrease) in Cash and Cash equivalents",
-            "Standalone": "(67.35)",
-            "col_3": "(89.47)",
-            "Consolidated": "(68.83)",
-            "col_5": "(87.14)"
-          }
-        ]
-      }
-    ]
   }
 ]
