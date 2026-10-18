@@ -1,5 +1,974 @@
 [
   {
+    "NEWSID": "3fc69690-cd44-4f96-a7a2-c33e5ea781dc",
+    "SCRIP_CD": 543213,
+    "XML_NAME": "ANN_543213_3FC69690-CD44-4F96-A7A2-C33E5EA781DC",
+    "NEWSSUB": "Rossari Biotech Ltd - 543213 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-19T00:48:03.143",
+    "NEWS_DT": "2026-10-19T00:48:03.143",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1396ca73-c44f-4ba8-a87c-be1859a51776.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release for Q2 FY27 Results",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rossari-biotech-ltd/rossari/543213/",
+    "SLONGNAME": "Rossari Biotech Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-19T00:48:03",
+    "DissemDT": "2026-10-19T00:48:03.143",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1066963,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the announcement:\n\n* **Record Financial Performance (Q2 & H1 FY27):** For the quarter ended September 30, 2026, Rossari Biotech posted its highest-ever quarterly revenue of Rs. 697.6 crores (up 19.0% YoY), highest-ever EBITDA of Rs. 87.0 crores (up 20.9% YoY), and PAT of Rs. 38.9 crores; for H1 FY27, revenue reached Rs. 1,394.8 crores (up 23.4% YoY), while net debt declined from Rs. 281 crores (as of March 2026) to Rs. 221 crores.\n* **Key Strategic Investment:** The Board approved the leasing of land by wholly owned subsidiary Rossari International Limited Company to set up a new greenfield manufacturing facility in the Kingdom of Saudi Arabia (KSA).",
+    "key_metrics": {
+      "revenue": "17",
+      "operating_profit": "17",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "24c74940-c98b-4121-a32e-5d2dd6bfbf22",
+    "SCRIP_CD": 543213,
+    "XML_NAME": "ANN_543213_24C74940-C98B-4121-A32E-5D2DD6BFBF22",
+    "NEWSSUB": "Rossari Biotech Ltd - 543213 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-19T00:37:45.99",
+    "NEWS_DT": "2026-10-19T00:37:45.99",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b79b44e6-1e84-4856-82a6-d8ebeed65a1a.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Q2 & H1 FY27- Earnings Presentation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rossari-biotech-ltd/rossari/543213/",
+    "SLONGNAME": "Rossari Biotech Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-19T00:37:45",
+    "DissemDT": "2026-10-19T00:37:45.99",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3144121,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement informs that Rossari Biotech Ltd. has submitted its Q2 FY 27 (quarter) and H1 FY 27 (half‑year) earnings presentation covering the period ended 30 September 2026.  \n- No specific financial figures, dates of results release, or quantitative decisions are disclosed in the text; it contains only a standard safe‑harbour disclaimer and forward‑looking statement notice.",
+    "key_metrics": {
+      "revenue": "14.8",
+      "net_profit": "12.3",
+      "operating_profit": "14.8",
+      "total_assets": "2359.5",
+      "total_equity": "2359.5",
+      "total_debt": "82.1",
+      "eps": "7.02",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Particulars (INR in crores)": "Revenues from Operations",
+            "Q2FY27": "697.6",
+            "Q2FY26": "586.1",
+            "YoY%": "19.0%",
+            "H1FY27": "1,394.8",
+            "H1FY26": "1,129.8",
+            "YoY%_1": "23.5%"
+          },
+          {
+            "Particulars (INR in crores)": "Cost of Goods Sold",
+            "Q2FY27": "477.3",
+            "Q2FY26": "400.9",
+            "YoY%": "",
+            "H1FY27": "968.1",
+            "H1FY26": "772.2",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Gross Profit",
+            "Q2FY27": "220.3",
+            "Q2FY26": "185.2",
+            "YoY%": "18.9%",
+            "H1FY27": "426.7",
+            "H1FY26": "357.6",
+            "YoY%_1": "19.3%"
+          },
+          {
+            "Particulars (INR in crores)": "Gross Profit Margin (%)",
+            "Q2FY27": "31.6%",
+            "Q2FY26": "31.6%",
+            "YoY%": "",
+            "H1FY27": "30.6%",
+            "H1FY26": "31.7%",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Employee expense",
+            "Q2FY27": "43.6",
+            "Q2FY26": "37.8",
+            "YoY%": "",
+            "H1FY27": "87.7",
+            "H1FY26": "75.3",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Other expenses",
+            "Q2FY27": "89.7",
+            "Q2FY26": "75.5",
+            "YoY%": "",
+            "H1FY27": "171.4",
+            "H1FY26": "142.6",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "EBITDA",
+            "Q2FY27": "87.0",
+            "Q2FY26": "71.9",
+            "YoY%": "21.0%",
+            "H1FY27": "167.6",
+            "H1FY26": "139.7",
+            "YoY%_1": "20.0%"
+          },
+          {
+            "Particulars (INR in crores)": "EBITDA Margin (%)",
+            "Q2FY27": "12.5%",
+            "Q2FY26": "12.3%",
+            "YoY%": "",
+            "H1FY27": "12.0%",
+            "H1FY26": "12.4%",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Other Income",
+            "Q2FY27": "0.6",
+            "Q2FY26": "1.6",
+            "YoY%": "",
+            "H1FY27": "3.8",
+            "H1FY26": "2.8",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Depreciation and Amortization",
+            "Q2FY27": "30.1",
+            "Q2FY26": "18.2",
+            "YoY%": "",
+            "H1FY27": "55.7",
+            "H1FY26": "36.0",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "EBIT",
+            "Q2FY27": "57.5",
+            "Q2FY26": "55.3",
+            "YoY%": "",
+            "H1FY27": "115.7",
+            "H1FY26": "106.6",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "EBIT Margin (%)",
+            "Q2FY27": "8.2%",
+            "Q2FY26": "9.4%",
+            "YoY%": "",
+            "H1FY27": "8.3%",
+            "H1FY26": "9.4%",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Finance Costs",
+            "Q2FY27": "8.7",
+            "Q2FY26": "6.1",
+            "YoY%": "",
+            "H1FY27": "19.7",
+            "H1FY26": "11.8",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Share of profit of joint venture and associate",
+            "Q2FY27": "0.5",
+            "Q2FY26": "0.5",
+            "YoY%": "",
+            "H1FY27": "0.9",
+            "H1FY26": "1.0",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "PBT",
+            "Q2FY27": "49.3",
+            "Q2FY26": "49.7",
+            "YoY%": "",
+            "H1FY27": "96.9",
+            "H1FY26": "95.8",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "Tax expense",
+            "Q2FY27": "10.4",
+            "Q2FY26": "12.8",
+            "YoY%": "",
+            "H1FY27": "22.9",
+            "H1FY26": "25.3",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "PAT",
+            "Q2FY27": "38.9",
+            "Q2FY26": "36.9",
+            "YoY%": "5.4%",
+            "H1FY27": "74.0",
+            "H1FY26": "70.5",
+            "YoY%_1": "5.0%"
+          },
+          {
+            "Particulars (INR in crores)": "PAT Margin (%)",
+            "Q2FY27": "5.6%",
+            "Q2FY26": "6.3%",
+            "YoY%": "",
+            "H1FY27": "5.3%",
+            "H1FY26": "6.2%",
+            "YoY%_1": ""
+          },
+          {
+            "Particulars (INR in crores)": "EPS Diluted (Rs.)*",
+            "Q2FY27": "7.02",
+            "Q2FY26": "6.65",
+            "YoY%": "",
+            "H1FY27": "13.36",
+            "H1FY26": "12.74",
+            "YoY%_1": ""
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 25,
+        "rows": [
+          {
+            "ASSETS (INR in crores)": "Non-current Assets",
+            "Sep-26": "1,058.8",
+            "Mar-26": "1,045.1"
+          },
+          {
+            "ASSETS (INR in crores)": "Property, plant and equipment",
+            "Sep-26": "510.7",
+            "Mar-26": "466.5"
+          },
+          {
+            "ASSETS (INR in crores)": "Right of Use Assets",
+            "Sep-26": "91.7",
+            "Mar-26": "94.0"
+          },
+          {
+            "ASSETS (INR in crores)": "Capital Work-in-progress",
+            "Sep-26": "156.2",
+            "Mar-26": "173.3"
+          },
+          {
+            "ASSETS (INR in crores)": "Goodwill",
+            "Sep-26": "118.7",
+            "Mar-26": "118.7"
+          },
+          {
+            "ASSETS (INR in crores)": "Other Intangible Assets",
+            "Sep-26": "95.8",
+            "Mar-26": "105.2"
+          },
+          {
+            "ASSETS (INR in crores)": "Investments accounted using equity method",
+            "Sep-26": "27.9",
+            "Mar-26": "27.0"
+          },
+          {
+            "ASSETS (INR in crores)": "Financial Assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "ASSETS (INR in crores)": "(i) Investments",
+            "Sep-26": "0.0*",
+            "Mar-26": "0.2"
+          },
+          {
+            "ASSETS (INR in crores)": "(ii) Other Financial Assets",
+            "Sep-26": "9.7",
+            "Mar-26": "8.9"
+          },
+          {
+            "ASSETS (INR in crores)": "Income Tax Assets (Net)",
+            "Sep-26": "11.9",
+            "Mar-26": "12.0"
+          },
+          {
+            "ASSETS (INR in crores)": "Deferred Tax Assets (Net)",
+            "Sep-26": "17.3",
+            "Mar-26": "14.9"
+          },
+          {
+            "ASSETS (INR in crores)": "Other Non-current Assets",
+            "Sep-26": "18.9",
+            "Mar-26": "24.4"
+          },
+          {
+            "ASSETS (INR in crores)": "Current Assets",
+            "Sep-26": "1,300.6",
+            "Mar-26": "1,235.9"
+          },
+          {
+            "ASSETS (INR in crores)": "Inventories",
+            "Sep-26": "444.0",
+            "Mar-26": "404.5"
+          },
+          {
+            "ASSETS (INR in crores)": "Financial Assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "ASSETS (INR in crores)": "(i) Investments",
+            "Sep-26": "30.0",
+            "Mar-26": "35.1"
+          },
+          {
+            "ASSETS (INR in crores)": "(ii) Trade Receivables",
+            "Sep-26": "553.7",
+            "Mar-26": "557.4"
+          },
+          {
+            "ASSETS (INR in crores)": "(iii) Cash and cash Equivalents",
+            "Sep-26": "84.4",
+            "Mar-26": "75.3"
+          },
+          {
+            "ASSETS (INR in crores)": "(iv) Bank balances other than cash",
+            "Sep-26": "26.4",
+            "Mar-26": "16.9"
+          },
+          {
+            "ASSETS (INR in crores)": "(v) Loans",
+            "Sep-26": "1.0",
+            "Mar-26": "1.2"
+          },
+          {
+            "ASSETS (INR in crores)": "(vi) Other Financial Assets",
+            "Sep-26": "6.4",
+            "Mar-26": "5.9"
+          },
+          {
+            "ASSETS (INR in crores)": "Other Current Assets",
+            "Sep-26": "154.8",
+            "Mar-26": "139.6"
+          },
+          {
+            "ASSETS (INR in crores)": "Non current assets held for sale",
+            "Sep-26": "-",
+            "Mar-26": "7.8"
+          },
+          {
+            "ASSETS (INR in crores)": "Total Assets",
+            "Sep-26": "2,359.5",
+            "Mar-26": "2,288.8"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 1,
+        "row_count": 19,
+        "rows": [
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Equity",
+            "Sep-26": "1,407.6",
+            "Mar-26": "1,333.3"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Equity Share Capital",
+            "Sep-26": "11.1",
+            "Mar-26": "11.1"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Other Equity",
+            "Sep-26": "1,396.5",
+            "Mar-26": "1,322.2"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Non-Current Liabilities",
+            "Sep-26": "149.0",
+            "Mar-26": "165.9"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Financial Liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(i) Borrowings",
+            "Sep-26": "82.1",
+            "Mar-26": "94.3"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(ii) Lease Liabilities",
+            "Sep-26": "17.2",
+            "Mar-26": "20.3"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Provisions",
+            "Sep-26": "9.5",
+            "Mar-26": "8.3"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Deferred Tax Liabilities (Net)",
+            "Sep-26": "40.2",
+            "Mar-26": "43.0"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Current Liabilities",
+            "Sep-26": "802.9",
+            "Mar-26": "789.6"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Financial Liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(i) Borrowings",
+            "Sep-26": "279.7",
+            "Mar-26": "313.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(ii) Lease Liabilities",
+            "Sep-26": "9.1",
+            "Mar-26": "7.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(iii) Trade Payables",
+            "Sep-26": "343.6",
+            "Mar-26": "323.5"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(iv) Other Financial Liabilities",
+            "Sep-26": "123.9",
+            "Mar-26": "116.0"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Other Current Liabilities",
+            "Sep-26": "26.0",
+            "Mar-26": "11.4"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Provisions",
+            "Sep-26": "8.8",
+            "Mar-26": "8.3"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Current Tax Liabilities (Net)",
+            "Sep-26": "11.8",
+            "Mar-26": "9.0"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Total Equity & Liabilities",
+            "Sep-26": "2,359.5",
+            "Mar-26": "2,288.8"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars (INR in crores)": "Net Profit before Tax",
+            "Sep-26": "96.9",
+            "Sep-25": "95.8"
+          },
+          {
+            "Particulars (INR in crores)": "Adjustments for: Non-Cash Items/ Other Investment or Financial Items",
+            "Sep-26": "76.1",
+            "Sep-25": "42.5"
+          },
+          {
+            "Particulars (INR in crores)": "Operating Profit before working capital changes",
+            "Sep-26": "173.0",
+            "Sep-25": "138.3"
+          },
+          {
+            "Particulars (INR in crores)": "Changes in Working Capital",
+            "Sep-26": "-16.1",
+            "Sep-25": "-132.2"
+          },
+          {
+            "Particulars (INR in crores)": "Cash generated from Operations",
+            "Sep-26": "156.9",
+            "Sep-25": "6.1"
+          },
+          {
+            "Particulars (INR in crores)": "Direct taxes paid (net of refund)*",
+            "Sep-26": "-25.5",
+            "Sep-25": "-31.1"
+          },
+          {
+            "Particulars (INR in crores)": "Net Cash from Operating Activities",
+            "Sep-26": "131.4",
+            "Sep-25": "-25.0"
+          },
+          {
+            "Particulars (INR in crores)": "Net Cash from Investing Activities",
+            "Sep-26": "-49.5",
+            "Sep-25": "-106.3"
+          },
+          {
+            "Particulars (INR in crores)": "Net Cash from Financing Activities",
+            "Sep-26": "-72.4",
+            "Sep-25": "121.6"
+          },
+          {
+            "Particulars (INR in crores)": "Net Decrease in Cash and Cash Equivalents",
+            "Sep-26": "9.5",
+            "Sep-25": "-9.7"
+          },
+          {
+            "Particulars (INR in crores)": "Net Foreign exchange difference on translation of foreign operations",
+            "Sep-26": "-0.4",
+            "Sep-25": "1.0"
+          },
+          {
+            "Particulars (INR in crores)": "Add: Cash & Cash equivalents at the beginning of the period",
+            "Sep-26": "75.3",
+            "Sep-25": "44.2"
+          },
+          {
+            "Particulars (INR in crores)": "Cash & Cash equivalents at the end of the period",
+            "Sep-26": "84.4",
+            "Sep-25": "35.5"
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Particulars (INR in crores)": "Revenues from Operations",
+            "FY26": "2,396.4",
+            "FY25": "2,080.3",
+            "FY24": "1,830.6"
+          },
+          {
+            "Particulars (INR in crores)": "Cost of Goods Sold",
+            "FY26": "1,668.7",
+            "FY25": "1,433.3",
+            "FY24": "1,293.5"
+          },
+          {
+            "Particulars (INR in crores)": "Gross Profit",
+            "FY26": "727.6",
+            "FY25": "647.0",
+            "FY24": "537.1"
+          },
+          {
+            "Particulars (INR in crores)": "Gross Profit Margin (%)",
+            "FY26": "30.4%",
+            "FY25": "31.1%",
+            "FY24": "29.3%"
+          },
+          {
+            "Particulars (INR in crores)": "Employee expense",
+            "FY26": "154.7",
+            "FY25": "132.3",
+            "FY24": "103.1"
+          },
+          {
+            "Particulars (INR in crores)": "Other expenses",
+            "FY26": "287.0",
+            "FY25": "249.6",
+            "FY24": "184.2"
+          },
+          {
+            "Particulars (INR in crores)": "EBITDA",
+            "FY26": "285.9",
+            "FY25": "265.1",
+            "FY24": "249.8"
+          },
+          {
+            "Particulars (INR in crores)": "EBITDA Margin (%)",
+            "FY26": "11.9%",
+            "FY25": "12.7%",
+            "FY24": "13.6%"
+          },
+          {
+            "Particulars (INR in crores)": "Other Income",
+            "FY26": "22.4",
+            "FY25": "4.0",
+            "FY24": "7.4"
+          },
+          {
+            "Particulars (INR in crores)": "Depreciation and Amortization",
+            "FY26": "79.1",
+            "FY25": "67.1",
+            "FY24": "60.4"
+          },
+          {
+            "Particulars (INR in crores)": "EBIT",
+            "FY26": "229.2",
+            "FY25": "202.0",
+            "FY24": "196.8"
+          },
+          {
+            "Particulars (INR in crores)": "EBIT Margin (%)",
+            "FY26": "9.6%",
+            "FY25": "9.7%",
+            "FY24": "10.7%"
+          },
+          {
+            "Particulars (INR in crores)": "Finance Costs",
+            "FY26": "28.5",
+            "FY25": "17.8",
+            "FY24": "19.4"
+          },
+          {
+            "Particulars (INR in crores)": "Share of profit of joint venture and associate",
+            "FY26": "1.9",
+            "FY25": "1.0",
+            "FY24": "0.2"
+          },
+          {
+            "Particulars (INR in crores)": "PBT",
+            "FY26": "202.5",
+            "FY25": "185.2",
+            "FY24": "177.6"
+          },
+          {
+            "Particulars (INR in crores)": "Tax expense",
+            "FY26": "53.3",
+            "FY25": "48.8",
+            "FY24": "46.9"
+          },
+          {
+            "Particulars (INR in crores)": "PAT",
+            "FY26": "149.2",
+            "FY25": "136.4",
+            "FY24": "130.7"
+          },
+          {
+            "Particulars (INR in crores)": "PAT Margin (%)",
+            "FY26": "6.2%",
+            "FY25": "6.6%",
+            "FY24": "7.1%"
+          },
+          {
+            "Particulars (INR in crores)": "EPS Diluted (Rs.)",
+            "FY26": "26.95",
+            "FY25": "24.66",
+            "FY24": "23.67"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 25,
+        "rows": [
+          {
+            "ASSETS (INR in crores)": "Non-current Assets",
+            "FY26": "1,045.1",
+            "FY25": "853.0",
+            "FY24": "727.4"
+          },
+          {
+            "ASSETS (INR in crores)": "Property, plant and equipment",
+            "FY26": "466.5",
+            "FY25": "285.2",
+            "FY24": "260.6"
+          },
+          {
+            "ASSETS (INR in crores)": "Right of Use Assets",
+            "FY26": "94.0",
+            "FY25": "68.4",
+            "FY24": "54.1"
+          },
+          {
+            "ASSETS (INR in crores)": "Capital Work-in-progress",
+            "FY26": "173.3",
+            "FY25": "140.2",
+            "FY24": "47.2"
+          },
+          {
+            "ASSETS (INR in crores)": "Goodwill",
+            "FY26": "118.7",
+            "FY25": "118.7",
+            "FY24": "118.7"
+          },
+          {
+            "ASSETS (INR in crores)": "Other Intangible Assets",
+            "FY26": "105.2",
+            "FY25": "126.1",
+            "FY24": "144.2"
+          },
+          {
+            "ASSETS (INR in crores)": "Investments accounted using equity method",
+            "FY26": "27.0",
+            "FY25": "26.3",
+            "FY24": "25.1"
+          },
+          {
+            "ASSETS (INR in crores)": "Financial Assets",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "ASSETS (INR in crores)": "(i)Investments",
+            "FY26": "0.2",
+            "FY25": "0.2",
+            "FY24": "0.2"
+          },
+          {
+            "ASSETS (INR in crores)": "(ii) Other Financial Assets",
+            "FY26": "8.8",
+            "FY25": "7.4",
+            "FY24": "3.4"
+          },
+          {
+            "ASSETS (INR in crores)": "Income Tax Assets (Net)",
+            "FY26": "12.0",
+            "FY25": "7.7",
+            "FY24": "5.5"
+          },
+          {
+            "ASSETS (INR in crores)": "Deferred Tax Assets (Net)",
+            "FY26": "14.9",
+            "FY25": "10.5",
+            "FY24": "4.8"
+          },
+          {
+            "ASSETS (INR in crores)": "Other Non-current Assets",
+            "FY26": "24.4",
+            "FY25": "62.3",
+            "FY24": "63.6"
+          },
+          {
+            "ASSETS (INR in crores)": "Current Assets",
+            "FY26": "1,235.9",
+            "FY25": "1,041.9",
+            "FY24": "843.6"
+          },
+          {
+            "ASSETS (INR in crores)": "Inventories",
+            "FY26": "404.5",
+            "FY25": "355.1",
+            "FY24": "282.3"
+          },
+          {
+            "ASSETS (INR in crores)": "Financial Assets",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "ASSETS (INR in crores)": "(i)Investments",
+            "FY26": "35.1",
+            "FY25": "57.3",
+            "FY24": "37.6"
+          },
+          {
+            "ASSETS (INR in crores)": "(ii) Trade Receivables",
+            "FY26": "557.4",
+            "FY25": "474.5",
+            "FY24": "425.1"
+          },
+          {
+            "ASSETS (INR in crores)": "(iii) Cash and cash Equivalents",
+            "FY26": "75.3",
+            "FY25": "44.2",
+            "FY24": "25.2"
+          },
+          {
+            "ASSETS (INR in crores)": "(iv) Bank balances other than cash",
+            "FY26": "16.9",
+            "FY25": "13.0",
+            "FY24": "5.0"
+          },
+          {
+            "ASSETS (INR in crores)": "(v) Loans",
+            "FY26": "1.2",
+            "FY25": "1.2",
+            "FY24": "0.7"
+          },
+          {
+            "ASSETS (INR in crores)": "(vi) Other Financial Assets",
+            "FY26": "5.9",
+            "FY25": "3.2",
+            "FY24": "4.6"
+          },
+          {
+            "ASSETS (INR in crores)": "Other Current Assets",
+            "FY26": "139.6",
+            "FY25": "93.4",
+            "FY24": "63.0"
+          },
+          {
+            "ASSETS (INR in crores)": "Non current assets held for sale",
+            "FY26": "7.8",
+            "FY25": "1.2",
+            "FY24": "1.2"
+          },
+          {
+            "ASSETS (INR in crores)": "Total Assets",
+            "FY26": "2,288.8",
+            "FY25": "1,896.2",
+            "FY24": "1,572.2"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 1,
+        "row_count": 19,
+        "rows": [
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Equity",
+            "FY26": "1,333.3",
+            "FY25": "1,185.4",
+            "FY24": "1,047.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Equity Share Capital",
+            "FY26": "11.1",
+            "FY25": "11.1",
+            "FY24": "11.0"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Other Equity",
+            "FY26": "1,322.3",
+            "FY25": "1,174.4",
+            "FY24": "1,036.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Non-Current Liabilities",
+            "FY26": "165.9",
+            "FY25": "174.2",
+            "FY24": "99.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Financial Liabilities",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(i) Borrowings",
+            "FY26": "94.3",
+            "FY25": "100.0",
+            "FY24": "33.3"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(ii) Lease Liabilities",
+            "FY26": "20.3",
+            "FY25": "22.3",
+            "FY24": "10.9"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Provisions",
+            "FY26": "8.3",
+            "FY25": "5.3",
+            "FY24": "4.0"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Deferred Tax Liabilities (Net)",
+            "FY26": "43.0",
+            "FY25": "46.6",
+            "FY24": "51.5"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Current Liabilities",
+            "FY26": "789.6",
+            "FY25": "536.6",
+            "FY24": "424.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Financial Liabilities",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(i) Borrowings",
+            "FY26": "313.7",
+            "FY25": "87.9",
+            "FY24": "72.5"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(ii) Lease Liabilities",
+            "FY26": "7.7",
+            "FY25": "7.7",
+            "FY24": "2.1"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(iii) Trade Payables",
+            "FY26": "323.5",
+            "FY25": "286.3",
+            "FY24": "219.1"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "(iv) Other Financial Liabilities",
+            "FY26": "116.0",
+            "FY25": "114.9",
+            "FY24": "100.7"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Other Current Liabilities",
+            "FY26": "11.4",
+            "FY25": "20.1",
+            "FY24": "15.8"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Provisions",
+            "FY26": "8.3",
+            "FY25": "7.3",
+            "FY24": "4.5"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Current Tax Liabilities (Net)",
+            "FY26": "9.0",
+            "FY25": "12.2",
+            "FY24": "10.1"
+          },
+          {
+            "EQUITY & LIABILITIES (INR in crores)": "Total Equity & Liabilities",
+            "FY26": "2,288.8",
+            "FY25": "1,896.2",
+            "FY24": "1,572.2"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "5d3bc8a9-f3ea-4f63-a8a8-d5249e214eb8",
     "SCRIP_CD": 544091,
     "XML_NAME": "ANN_544091_5D3BC8A9-F3EA-4F63-A8A8-D5249E214EB8",
@@ -11788,1966 +12757,6 @@
     "key_metrics": {
       "net_profit": "3123 cr",
       "operating_profit": "600 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a4c4ca83-e604-4aef-86b3-4798aa93021d",
-    "SCRIP_CD": 532648,
-    "XML_NAME": "ANN_532648_A4C4CA83-E604-4AEF-86B3-4798AA93021D",
-    "NEWSSUB": "Yes Bank Ltd - 532648 - Outcome Of The Board Meeting - SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations')",
-    "DT_TM": "2026-10-17T19:18:22.787",
-    "NEWS_DT": "2026-10-17T19:18:22.787",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dff89f1b-89bd-40b5-9b2a-81ddaa411e19.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board Meeting - SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"Listing Regulations\")",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/yes-bank-ltd/yesbank/532648/",
-    "SLONGNAME": "Yes Bank Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 8,
-    "News_submission_dt": "2026-10-17T19:18:22",
-    "DissemDT": "2026-10-17T19:18:22.787",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 11996576,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "13 lakh",
-      "total_assets": "5",
-      "total_equity": "5326755",
-      "total_debt": "",
-      "face_value": "2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 43,
-        "rows": [
-          {
-            "Sr No.": "",
-            "PARTICULARS": "",
-            "Quarter ended": "30.09.2026",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "Half Year ended": "30.09.2026",
-            "col_7": "30.09.2025",
-            "Year ended": "31.03.2026"
-          },
-          {
-            "Sr No.": "",
-            "PARTICULARS": "",
-            "Quarter ended": ", (Unaudited)",
-            "col_4": "'(Unauditedt",
-            "col_5": "(Unaudited)",
-            "Half Year ended": "/Unaudited)",
-            "col_7": "_(Unaudited)",
-            "Year ended": "(~udited)"
-          },
-          {
-            "Sr No.": "1",
-            "PARTICULARS": "Interest earned (a)+(b)+(c)+(d)",
-            "Quarter ended": "863,980",
-            "col_4": "804,432",
-            "col_5": "737,884",
-            "Half Year ended": "1,668,412",
-            "col_7": "1,497,471",
-            "Year ended": "3,016,883"
-          },
-          {
-            "Sr No.": "(a)",
-            "PARTICULARS": "Interest/ discount on advances/bills",
-            "Quarter ended": "659,998",
-            "col_4": "610,714",
-            "col_5": "563,299",
-            "Half Year ended": "1,270,712",
-            "col_7": "1,139,938",
-            "Year ended": "2,300,942"
-          },
-          {
-            "Sr No.": "(b)",
-            "PARTICULARS": "Income on investments",
-            "Quarter ended": "155,012",
-            "col_4": "147,874",
-            "col_5": "128,452",
-            "Half Year ended": "302,886",
-            "col_7": "264,800",
-            "Year ended": "542,370"
-          },
-          {
-            "Sr No.": "(c)",
-            "PARTICULARS": "Interest on balances with Reserve Bank of India and other inter-bank funds",
-            "Quarter ended": "21,574",
-            "col_4": "15,555",
-            "col_5": "11,236",
-            "Half Year ended": "37,129",
-            "col_7": "22,582",
-            "Year ended": "40,960"
-          },
-          {
-            "Sr No.": "(d)",
-            "PARTICULARS": "Others",
-            "Quarter ended": "27,396",
-            "col_4": "30,289",
-            "col_5": "34,897",
-            "Half Year ended": "57,685",
-            "col_7": "70,151",
-            "Year ended": "132,611"
-          },
-          {
-            "Sr No.": "2",
-            "PARTICULARS": "Other Income (Note 6)",
-            "Quarter ended": "188,155",
-            "col_4": "179,794",
-            "col_5": "164,431",
-            "Half Year ended": "367,949",
-            "col_7": "339,655",
-            "Year ended": "675,934"
-          },
-          {
-            "Sr No.": "3",
-            "PARTICULARS": "TOTA L INCOME (1 +2)",
-            "Quarter ended": "1,052,135",
-            "col_4": "984,226",
-            "col_5": "902,315",
-            "Half Year ended": "2,036,361",
-            "col_7": "1,837,126",
-            "Year ended": "3,692,817"
-          },
-          {
-            "Sr No.": "4",
-            "PARTICULARS": "Interest Expended",
-            "Quarter ended": "581,746",
-            "col_4": "525,786",
-            "col_5": "507,796",
-            "Half Year ended": "1,107,532",
-            "col_7": "1,030,237",
-            "Year ended": "2,039,319"
-          },
-          {
-            "Sr No.": "5",
-            "PARTICULARS": "Operating Expenses (i)+(ii)",
-            "Quarter ended": "302,606",
-            "col_4": "288,043",
-            "col_5": "264,869",
-            "Half Year ended": "590,649",
-            "col_7": "541,436",
-            "Year ended": "1,102,859"
-          },
-          {
-            "Sr No.": "(i)",
-            "PARTICULARS": "Payments to and provisions for employees",
-            "Quarter ended": "116,374",
-            "col_4": "114,056",
-            "col_5": "100,684",
-            "Half Year ended": "230,430",
-            "col_7": "202,726",
-            "Year ended": "423,684"
-          },
-          {
-            "Sr No.": "(ii)",
-            "PARTICULARS": "Other operatinit expenses",
-            "Quarter ended": "186,232",
-            "col_4": "173,987",
-            "col_5": "164,185",
-            "Half Year ended": "360,219",
-            "col_7": "338,710",
-            "Year ended": "679,175"
-          },
-          {
-            "Sr No.": "6",
-            "PARTICULARS": "TOTAL EXPENDITURE (4+5) (excluding provisions and contingencies)",
-            "Quarter ended": "884,352",
-            "col_4": "813,829",
-            "col_5": "772,665",
-            "Half Year ended": "1,698,181",
-            "col_7": "1,571,673",
-            "Year ended": "3,142,178"
-          },
-          {
-            "Sr No.": "7",
-            "PARTICULARS": "Operating Profit (before Provisions and Contingencies) (3-6)",
-            "Quarter ended": "167,783",
-            "col_4": "170,397",
-            "col_5": "129,650",
-            "Half Year ended": "338,180",
-            "col_7": "265,453",
-            "Year ended": "550,639"
-          },
-          {
-            "Sr No.": "8",
-            "PARTICULARS": "Provisions (other than Tax expense) and Contingencies (net)",
-            "Quarter ended": "31,739",
-            "col_4": "39,448",
-            "col_5": "41,895",
-            "Half Year ended": "71,187",
-            "col_7": "70,295",
-            "Year ended": "91,239"
-          },
-          {
-            "Sr No.": "9",
-            "PARTICULARS": "Exceptional Items",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr No.": "10",
-            "PARTICULARS": "Profit from ordinary activities before tax (7-8-9)",
-            "Quarter ended": "136,044",
-            "col_4": "130,949",
-            "col_5": "87,755",
-            "Half Year ended": "266,993",
-            "col_7": "195,158",
-            "Year ended": "459,400"
-          },
-          {
-            "Sr No.": "11",
-            "PARTICULARS": "Tax Expense",
-            "Quarter ended": "28,044-",
-            "col_4": "23,850",
-            "col_5": "22,308",
-            "Half Year ended": "51,894",
-            "col_7": "49,603",
-            "Year ended": "111,841"
-          },
-          {
-            "Sr No.": "12",
-            "PARTICULARS": "Net profit from Ordinary Activities after tax (10-11)",
-            "Quarter ended": "108,000",
-            "col_4": "107,099",
-            "col_5": "65,447",
-            "Half Year ended": "215,099",
-            "col_7": "145,555",
-            "Year ended": "347,559"
-          },
-          {
-            "Sr No.": "13",
-            "PARTICULARS": "Extraordinary Items (Net of tax)",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year ended": "-",
-            "col_7": ".",
-            "Year ended": "-"
-          },
-          {
-            "Sr No.": "14",
-            "PARTICULARS": "NET PROFIT (12-13)",
-            "Quarter ended": "108,000",
-            "col_4": "107,099",
-            "col_5": "65,447",
-            "Half Year ended": "215,099",
-            "col_7": "145,555",
-            "Year ended": "347,559"
-          },
-          {
-            "Sr No.": "15",
-            "PARTICULARS": "Paid-up equity Share Capital (Face value of { 2 each)",
-            "Quarter ended": "627,781",
-            "col_4": "627,735",
-            "col_5": "627,446",
-            "Half Year ended": "627,781",
-            "col_7": "627,446",
-            "Year ended": "627,595"
-          },
-          {
-            "Sr No.": "16",
-            "PARTICULARS": "Reserves & Surplus excluding revaluation reserves",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": "4,478,606"
-          },
-          {
-            "Sr No.": "17",
-            "PARTICULARS": "Analytical ratios ;",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No.": "(i)",
-            "PARTICULARS": "Percentage of Shares held by Government of India",
-            "Quarter ended": "Nil",
-            "col_4": "Nil",
-            "col_5": "Nil",
-            "Half Year ended": "Nil",
-            "col_7": "Nil",
-            "Year ended": "Nil"
-          },
-          {
-            "Sr No.": "(ii)",
-            "PARTICULARS": "Capital Adequacy ratio -Basel III",
-            "Quarter ended": "14.5%",
-            "col_4": "15.1%",
-            "col_5": "15.0%",
-            "Half Year ended": "14.5%",
-            "col_7": "15.0%",
-            "Year ended": "15.3%"
-          },
-          {
-            "Sr No.": "(iii)",
-            "PARTICULARS": "Earnings per share for the period (not annualized) / year (annualized) before and after extraordinary items",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No.": "",
-            "PARTICULARS": "-Basic {",
-            "Quarter ended": "0.34",
-            "col_4": "0.34",
-            "col_5": "0.21",
-            "Half Year ended": "0.69",
-            "col_7": "0.46",
-            "Year ended": "1.11"
-          },
-          {
-            "Sr No.": "",
-            "PARTICULARS": "-Diluted {",
-            "Quarter ended": "0.34",
-            "col_4": "0.34",
-            "col_5": "0.21",
-            "Half Year ended": "0.68",
-            "col_7": "0.46",
-            "Year ended": "1.11"
-          },
-          {
-            "Sr No.": "(iv)",
-            "PARTICULARS": "NPA ratios (Note 7)",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No.": "(a)",
-            "PARTICULARS": "Gross NPA",
-            "Quarter ended": "387,523",
-            "col_4": "370,485",
-            "col_5": "405,531",
-            "Half Year ended": "387,523",
-            "col_7": "405,531",
-            "Year ended": "360,493"
-          },
-          {
-            "Sr No.": "(b)",
-            "PARTICULARS": "NetNPA",
-            "Quarter ended": "75,705",
-            "col_4": "67,685",
-            "col_5": "77,084",
-            "Half Year ended": "75,705",
-            "col_7": "77,084",
-            "Year ended": "65,300"
-          },
-          {
-            "Sr No.": ". (c)",
-            "PARTICULARS": "% of Gross NP A",
-            "Quarter ended": "1.2%",
-            "col_4": "1.3%",
-            "col_5": "1.6%",
-            "Half Year ended": "1.2%",
-            "col_7": "1.6%",
-            "Year ended": "1.3%"
-          },
-          {
-            "Sr No.": "(d)",
-            "PARTICULARS": "% ofNetNPA",
-            "Quarter ended": "0.2%",
-            "col_4": "0.2%",
-            "col_5": "0.3%",
-            "Half Year ended": "0.2%",
-            "col_7": "0.3%",
-            "Year ended": "0.2%"
-          },
-          {
-            "Sr No.": "(v)",
-            "PARTICULARS": "Return on assets (average) (annualized) (Note 8)",
-            "Quarter ended": "0.9%",
-            "col_4": "0.9%",
-            "col_5": "0.6%",
-            "Half Year ended": "0.9%",
-            "col_7": "0.7%",
-            "Year ended": "0.8%"
-          },
-          {
-            "Sr No.": "(vi)",
-            "PARTICULARS": "Net worth*",
-            "Quarter ended": "5,326,755",
-            "col_4": "5,233,768",
-            "col_5": "4,919,742",
-            "Half Year ended": "5,326,755",
-            "col_7": "4,919,742",
-            "Year ended": "5,106,201"
-          },
-          {
-            "Sr No.": "(vii)",
-            "PARTICULARS": "Outstanding redeemable preference shares",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr No.": "(viii)",
-            "PARTICULARS": "Capital redemption reserve",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr No.": "(ix)",
-            "PARTICULARS": "Debt Service Coverage Ratio",
-            "Quarter ended": "NA",
-            "col_4": "NA",
-            "col_5": "NA",
-            "Half Year ended": "NA",
-            "col_7": "NA",
-            "Year ended": "NA"
-          },
-          {
-            "Sr No.": "(x)",
-            "PARTICULARS": "Interest Service Coverage Ratio",
-            "Quarter ended": "NA",
-            "col_4": "NA",
-            "col_5": "NA",
-            "Half Year ended": "NA",
-            "col_7": "NA",
-            "Year ended": "NA"
-          },
-          {
-            "Sr No.": "(xi)",
-            "PARTICULARS": "Debt-equity ratio5",
-            "Quarter ended": "0.73",
-            "col_4": "0.66",
-            "col_5": "0.64",
-            "Half Year ended": "0.73",
-            "col_7": "0.64",
-            "Year ended": "0.72"
-          },
-          {
-            "Sr No.": "(xii)",
-            "PARTICULARS": "Total debts to total assets5",
-            "Quarter ended": "15.1%",
-            "col_4": "14.7%",
-            "col_5": "14.4%",
-            "Half Year ended": "15.1 %",
-            "col_7": "14.4%",
-            "Year ended": "13.8%"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 41,
-        "rows": [
-          {
-            "Sr No": "",
-            "PARTICULARS": "",
-            "Quarter ended": "30.09.2026",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "Half Year ended": "30.09.2026",
-            "col_7": "30.09.2025",
-            "Year ended": "31.03.2026"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "",
-            "Quarter ended": "(Unaudited)",
-            "col_4": "(Unaudited)",
-            "col_5": "(Unaudited)",
-            "Half Year ended": "(Unaudited)",
-            "col_7": "(Unaudited)",
-            "Year ended": "(Audited)"
-          },
-          {
-            "Sr No": "1",
-            "PARTICULARS": "Sesrment revenue",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "217,007",
-            "col_4": "213,510",
-            "col_5": "177,649",
-            "Half Year ended": "430,517",
-            "col_7": "416,472",
-            "Year ended": "772,113"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "363,342",
-            "col_4": "335,986",
-            "col_5": "302,554",
-            "Half Year ended": "699,329",
-            "col_7": "602,522",
-            "Year ended": "1,229,047"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "439,690",
-            "col_4": "404,671",
-            "col_5": "377,914",
-            "Half Year ended": "844,362",
-            "col_7": "762,182",
-            "Year ended": "1,542,126"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "I. Digital Banking",
-            "Quarter ended": "38",
-            "col_4": "32",
-            "col_5": "13",
-            "Half Year ended": "71",
-            "col_7": "21",
-            "Year ended": "57"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "439,652",
-            "col_4": "404,639",
-            "col_5": "377,901",
-            "Half Year ended": "844,291",
-            "col_7": "762,161",
-            "Year ended": "1,542,069"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "26,830",
-            "col_4": "18,448",
-            "col_5": "26,315",
-            "Half Year ended": "45,278",
-            "col_7": "43,669",
-            "Year ended": "101,264"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "7,540",
-            "col_4": "11,952",
-            "col_5": "647",
-            "Half Year ended": "19,492",
-            "col_7": "577",
-            "Year ended": "11,130"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Total",
-            "Quarter ended": "1,054,409",
-            "col_4": "984,567",
-            "col_5": "885,079",
-            "Half Year ended": "2,038,978",
-            "col_7": "1,825,422",
-            "Year ended": "3,655,680"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Add J (Less): Inter Segment Revenue",
-            "Quarter ended": "(2,275)",
-            "col_4": "(341)",
-            "col_5": "17,236",
-            "Half Year ended": "(2,617)",
-            "col_7": "11,704",
-            "Year ended": "37,137"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Income from Operations",
-            "Quarter ended": "1,052,134",
-            "col_4": "984,226",
-            "col_5": "902,315",
-            "Half Year ended": "2,036,361",
-            "col_7": "1,837,126",
-            "Year ended": "3,692,817"
-          },
-          {
-            "Sr No": "2",
-            "PARTICULARS": "Segmental Results",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "71,526",
-            "col_4": "50,676",
-            "col_5": "37;978",
-            "Half Year ended": "122,202",
-            "col_7": "140,656",
-            "Year ended": "276,003"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "57,298",
-            "col_4": "63,096",
-            "col_5": "79,000",
-            "Half Year ended": "120,394",
-            "col_7": "155,954",
-            "Year ended": "314,471"
-          },
-          {
-            "Sr No": "(cl",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "(1,462'",
-            "col_4": "3,572",
-            "col_5": "(35,813)",
-            "Half Year ended": "2,110",
-            "col_7": "(102,617)",
-            "Year ended": "(164,893)"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "i. Digital Banking",
-            "Quarter ended": "(41'",
-            "col_4": "(39)",
-            "col_5": "(36)",
-            "Half Year ended": "(80)",
-            "col_7": "(79)",
-            "Year ended": "(169)"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "(1,421)",
-            "col_4": "3,611",
-            "col_5": "(35,777)",
-            "Half Year ended": "2,190",
-            "col_7": "(102,538)",
-            "Year ended": "(164,724)"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "18,912",
-            "col_4": "11,956",
-            "col_5": "19,155",
-            "Half Year ended": "30,868",
-            "col_7": "31,191",
-            "Year ended": "76,486"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "(10,230)",
-            "col_4": "1,649",
-            "col_5": "(12,565)",
-            "Half Year ended": "(8,581)",
-            "col_7": "(30,026)",
-            "Year ended": "(42,667)"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Profit before Tax",
-            "Quarter ended": "136,044",
-            "col_4": "130,949",
-            "col_5": "87,755",
-            "Half Year ended": "266,993",
-            "col_7": "195,158",
-            "Year ended": "459,400"
-          },
-          {
-            "Sr No": "3",
-            "PARTICULARS": "Segment Assets",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "18,402,105",
-            "col_4": "15,356,783",
-            "col_5": "16,050,786",
-            "Half Year ended": "18,402,105",
-            "col_7": "16,050,786",
-            "Year ended": "17,251,661"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "16,459,806",
-            "col_4": "16,428,312",
-            "col_5": "12,820,958",
-            "Half Year ended": "16,459,806",
-            "col_7": "12,820,958",
-            "Year ended": "15,286,550"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "15,528,553",
-            "col_4": "13,436,892",
-            "col_5": "12,991,526",
-            "Half Year ended": "15,528,553",
-            "col_7": "12,991,526",
-            "Year ended": "13,362,115"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "i. Digital Banking",
-            "Quarter ended": "149",
-            "col_4": "159",
-            "col_5": "164",
-            "Half Year ended": "149",
-            "col_7": "164",
-            "Year ended": "159"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "15,528,404",
-            "col_4": "13,436,733",
-            "col_5": "12,991,362",
-            "Half Year ended": "15,528,404",
-            "col_7": "12,991,362",
-            "Year ended": "13,361,956"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "37,754",
-            "col_4": "31,013",
-            "col_5": "21,100",
-            "Half Year ended": "37,754",
-            "col_7": "21,100",
-            "Year ended": "26,754"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "948,758",
-            "col_4": "953,389",
-            "col_5": "1,019,101",
-            "Half Year ended": "948,758",
-            "col_7": "1,019,101",
-            "Year ended": "983,376"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Total",
-            "Quarter ended": "51,376,976",
-            "col_4": "46,206,389",
-            "col_5": "42,903,473 •",
-            "Half Year ended": "51,376,976",
-            "col_7": "42,903,473",
-            "Year ended": "46,910,456"
-          },
-          {
-            "Sr No": "4",
-            "PARTICULARS": "Segment Liabilities",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "10,564,429",
-            "col_4": "9,061,628",
-            "col_5": "7,361,911",
-            "Half Year ended": "10,564,429",
-            "col_7": "7,361,911",
-            "Year ended": "9,469,514"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "14,586,105",
-            "col_4": "13,299,622",
-            "col_5": "12,653,693",
-            "Half Year ended": "14,586,105",
-            "col_7": "12,653,693",
-            "Year ended": "13,611,513"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "20,834,938",
-            "col_4": "18,558,957",
-            "col_5": "17,851,332",
-            "Half Year ended": "20,834,938",
-            "col_7": "17,851,332",
-            "Year ended": "18,654,319"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "i. Digital Banking",
-            "Quarter ended": "1,655",
-            "col_4": "1,766",
-            "col_5": "566",
-            "Half Year ended": "1,655",
-            "col_7": "566",
-            "Year ended": "1,487"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "20;833,283",
-            "col_4": "18,557,191",
-            "col_5": "17,850,766",
-            "Half Year ended": "20,833,283",
-            "col_7": "17,850,766",
-            "Year ended": "18,652,832"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "9,262",
-            "col_4": "8,315",
-            "col_5": "7,222",
-            "Half Year ended": "9,262",
-            "col_7": "7,222",
-            "Year ended": "8,683"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "55,487",
-            "col_4": "44,099",
-            "col_5": "109,573",
-            "Half Year ended": "55,487",
-            "col_7": "109,573",
-            "Year ended": "60,226"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Capital and Reserves",
-            "Quarter ended": "5,326,755",
-            "col_4": "5,233,768",
-            "col_5": "4,919,742",
-            "Half Year ended": "5,326,755",
-            "col_7": "4,919,742",
-            "Year ended": "5,106,201"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Total",
-            "Quarter ended": "51,376,976",
-            "col_4": "46,206,389",
-            "col_5": "42,903,473",
-            "Half Year ended": "51,376,976",
-            "col_7": "42,903,473",
-            "Year ended": "46,910,456"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "PARTICULARS": "",
-            "As re,orted": "Quarter ended",
-            "col_3": "Half Year ended",
-            "Proform.a": "Quarter ended",
-            "col_5": "Half Year ended"
-          },
-          {
-            "PARTICULARS": "",
-            "As re,orted": "30.09.2026",
-            "col_3": "30.09.2026",
-            "Proform.a": "30.09.2026",
-            "col_5": "30.09.2026"
-          },
-          {
-            "PARTICULARS": "",
-            "As re,orted": "(Unaudited)",
-            "col_3": "(Unaudited)",
-            "Proform.a": "(Unaudited)",
-            "col_5": "(Unaudited)"
-          },
-          {
-            "PARTICULARS": "Net Profit (Rs in crores)",
-            "As re,orted": "1,080",
-            "col_3": "2,151",
-            "Proform.a": "(5,217)\"",
-            "col_5": "(4,146) •"
-          },
-          {
-            "PARTICULARS": "Cavital Adeouacv ratio -Basel III",
-            "As re,orted": "14.5%",
-            "col_3": "14.5%",
-            "Proform.a": "14.5%",
-            "col_5": "14.5%"
-          },
-          {
-            "PARTICULARS": "Return on assets (average) {annualized)",
-            "As re,orted": "0.9%",
-            "col_3": "0.9%",
-            "Proform.a": "(4.3%)",
-            "col_5": "(1.7%)"
-          },
-          {
-            "PARTICULARS": "Net worth !Rs in crores)",
-            "As re,orted": "53,268",
-            "col_3": "53,268",
-            "Proform.a": "46,970",
-            "col_5": "46.970"
-          },
-          {
-            "PARTICULARS": "BorrowinR;s",
-            "As re,orted": "77.734",
-            "col_3": "77,734",
-            "Proform.a": "86.149",
-            "col_5": "86,149"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "Type of borrower": "Person,.J Loans",
-            "Exp051lle to a.ccowtts ~•ified as Standard comequent to implementation of re.alution plan -Pa.ition as al the end of the previou• half-year (A)": "?.39",
-            "Of (A), aggregate debt that slipped into NPA during half-year": "0.03",
-            "Of (A), amount written off during the half-year": "",
-            "Of (A), amount paid by the borrower. during the half-year": "0.87",
-            "Exposure to account, classified as Standard consequent to implementation of resolution plan -Pa.ilion as at the end of this h.tlf. year": "1.-.19"
-          },
-          {
-            "Type of borrower": "Corporate Person's•",
-            "Exp051lle to a.ccowtts ~•ified as Standard comequent to implementation of re.alution plan -Pa.ition as al the end of the previou• half-year (A)": "30.59",
-            "Of (A), aggregate debt that slipped into NPA during half-year": "3.b5",
-            "Of (A), amount written off during the half-year": "",
-            "Of (A), amount paid by the borrower. during the half-year": "?.98",
-            "Exposure to account, classified as Standard consequent to implementation of resolution plan -Pa.ilion as at the end of this h.tlf. year": "23.97"
-          },
-          {
-            "Type of borrower": "Ofwluch. MS.WE's",
-            "Exp051lle to a.ccowtts ~•ified as Standard comequent to implementation of re.alution plan -Pa.ition as al the end of the previou• half-year (A)": "20.92",
-            "Of (A), aggregate debt that slipped into NPA during half-year": "3.65",
-            "Of (A), amount written off during the half-year": "",
-            "Of (A), amount paid by the borrower. during the half-year": "LIO",
-            "Exposure to account, classified as Standard consequent to implementation of resolution plan -Pa.ilion as at the end of this h.tlf. year": "15.S7"
-          },
-          {
-            "Type of borrower": "Others",
-            "Exp051lle to a.ccowtts ~•ified as Standard comequent to implementation of re.alution plan -Pa.ition as al the end of the previou• half-year (A)": "132.1-!",
-            "Of (A), aggregate debt that slipped into NPA during half-year": "1.77",
-            "Of (A), amount written off during the half-year": "0.0-!",
-            "Of (A), amount paid by the borrower. during the half-year": "14.21",
-            "Exposure to account, classified as Standard consequent to implementation of resolution plan -Pa.ilion as at the end of this h.tlf. year": "llti.13"
-          },
-          {
-            "Type of borrower": "Total",
-            "Exp051lle to a.ccowtts ~•ified as Standard comequent to implementation of re.alution plan -Pa.ition as al the end of the previou• half-year (A)": "165.12",
-            "Of (A), aggregate debt that slipped into NPA during half-year": "5.45",
-            "Of (A), amount written off during the half-year": "0.04",
-            "Of (A), amount paid by the borrower. during the half-year": "18.06",
-            "Exposure to account, classified as Standard consequent to implementation of resolution plan -Pa.ilion as at the end of this h.tlf. year": "141.59"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 3,
-        "row_count": 9,
-        "rows": [
-          {
-            "SrNo": "l",
-            "Particulars": "Quantum of CLA •",
-            "As at September 30, 202": ""
-          },
-          {
-            "SrNo": ",1",
-            "Particulars": "N11n1/Jc1 of CL-\\ P111 t11crs (Nos)",
-            "As at September 30, 202": "3"
-          },
-          {
-            "SrNo": "b",
-            "Particulars": "N1u11be1 of 01tts/1llldi11,'< c,1ses (Nos)",
-            "As at September 30, 202": "259,850"
-          },
-          {
-            "SrNo": "c",
-            "Particulars": "Anw1t11/ o{G,oss 01</st,111di11R",
-            "As at September 30, 202": "f 3,869.66 CIOIC"
-          },
-          {
-            "SrNo": "2",
-            "Particulars": "Weighted a\\'erage rate of Interest ( 0b)",
-            "As at September 30, 202": "12.57°"
-          },
-          {
-            "SrNo": "3",
-            "Particulars": "Fees Paid during the quarter",
-            "As at September 30, 202": "a!' 1.47 crores"
-          },
-          {
-            "SrNo": "4",
-            "Particulars": "Broad Sector in which CL\\ was made",
-            "As at September 30, 202": "loans against Properties, Gold and Personal loan"
-          },
-          {
-            "SrNo": "5",
-            "Particulars": "Performance of loans under ClA",
-            "As at September 30, 202": "Standard loans (Including S:\\IA): { 3,858.14 crore >Jon Performing loans:~ 11.52 crore"
-          },
-          {
-            "SrNo": "6",
-            "Particulars": "Details of Default loss Guilrilntee",
-            "As at September 30, 202": ""
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 38,
-        "rows": [
-          {
-            "Sr No.": "",
-            "PARTICULARS 30.09.2026 (Unaudited)": "",
-            "col_3": "",
-            "Quarter ended": "30.06.2026",
-            "col_5": "30.09.2025",
-            "Half Year ended": "30.09.2026",
-            "col_7": "30.09.2025",
-            "Year ended": "31.03.2026"
-          },
-          {
-            "Sr No.": "",
-            "PARTICULARS 30.09.2026 (Unaudited)": "",
-            "col_3": "(Unaudited)",
-            "Quarter ended": "(Unaudited)",
-            "col_5": "(Unaudited)",
-            "Half Year ended": "(Unaudited)",
-            "col_7": "(Unaudited)",
-            "Year ended": "(Audited)"
-          },
-          {
-            "Sr No.": "1",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Interest earned (a)+(b)+(c)+(d)",
-            "col_3": "864,954",
-            "Quarter ended": "805,449",
-            "col_5": "738,875",
-            "Half Year ended": "1,670,404",
-            "col_7": "1,499,337",
-            "Year ended": "3,020,845"
-          },
-          {
-            "Sr No.": "(a)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Interest/ discount on advances/bills",
-            "col_3": "659,991",
-            "Quarter ended": "610,714",
-            "col_5": "563,292",
-            "Half Year ended": "1,270,705",
-            "col_7": "1,139,819",
-            "Year ended": "2,300,819"
-          },
-          {
-            "Sr No.": "(b)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Income on investments",
-            "col_3": "155,012",
-            "Quarter ended": "147,874",
-            "col_5": "128,452",
-            "Half Year ended": "302,886",
-            "col_7": "264,800",
-            "Year ended": "542,370"
-          },
-          {
-            "Sr No.": "(c)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Interest on balances with Reserve Bank of India and other inter-bank funds",
-            "col_3": "21,573",
-            "Quarter ended": "15,555",
-            "col_5": "11,236",
-            "Half Year ended": "37,129",
-            "col_7": "22,582",
-            "Year ended": "40,960"
-          },
-          {
-            "Sr No.": "(d)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Others",
-            "col_3": "28,378",
-            "Quarter ended": "31,306",
-            "col_5": "35,895",
-            "Half Year ended": "59,684",
-            "col_7": "72,136",
-            "Year ended": "136,696"
-          },
-          {
-            "Sr No.": "2",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Other Income (Note 6)",
-            "col_3": "195,245",
-            "Quarter ended": "187,050",
-            "col_5": "172,438",
-            "Half Year ended": "382,295",
-            "col_7": "354,893",
-            "Year ended": "708,430"
-          },
-          {
-            "Sr No.": "3",
-            "PARTICULARS 30.09.2026 (Unaudited)": "TOTA L INCOME (1 +2)",
-            "col_3": "1,060,199",
-            "Quarter ended": "992,499",
-            "col_5": "911,313",
-            "Half Year ended": "2,052,699",
-            "col_7": "1,854,230",
-            "Year ended": "3,729,275"
-          },
-          {
-            "Sr No.": "4",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Interest Expended '",
-            "col_3": "582,976",
-            "Quarter ended": "526,901",
-            "col_5": "509,263",
-            "Half Year ended": "1,109,877",
-            "col_7": "1,032,755",
-            "Year ended": "2,045,028"
-          },
-          {
-            "Sr No.": "5",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Operating Expenses (i)+(ii)",
-            "col_3": "308,884",
-            "Quarter ended": "295,045",
-            "col_5": "271,050",
-            "Half Year ended": "603,930",
-            "col_7": "553,606",
-            "Year ended": "1,128,666"
-          },
-          {
-            "Sr No.": "(i)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Payments to and provisions for employees",
-            "col_3": "120,433",
-            "Quarter ended": "118,133",
-            "col_5": "104,578",
-            "Half Year ended": "238,567",
-            "col_7": "210,229",
-            "Year ended": "440,136"
-          },
-          {
-            "Sr No.": "(ii)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Other operating expenses",
-            "col_3": "188,451",
-            "Quarter ended": "176,912",
-            "col_5": "166,472",
-            "Half Year ended": "365,363",
-            "col_7": "343,377",
-            "Year ended": "688,530"
-          },
-          {
-            "Sr No.": "6",
-            "PARTICULARS 30.09.2026 (Unaudited)": "TOTAL EXPENDITURE (4+5) (excluding provisions and contingencies)",
-            "col_3": "891,860",
-            "Quarter ended": "821,946",
-            "col_5": "780,314",
-            "Half Year ended": "1,713,807",
-            "col_7": "1,586,361",
-            "Year ended": "3,173,694"
-          },
-          {
-            "Sr No.": "7 ,",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Operating Profit (before Provisions and Contingencies)(3-6)",
-            "col_3": "168,339",
-            "Quarter ended": "170,553",
-            "col_5": "130,999",
-            "Half Year ended": "338,892",
-            "col_7": "267,869",
-            "Year ended": "555,581"
-          },
-          {
-            "Sr No.": "8",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Provisions (other than Tax expense) and Contingencies (net)",
-            "col_3": "31,739",
-            "Quarter ended": "39,448",
-            "col_5": "41,894",
-            "Half Year ended": "71,187",
-            "col_7": "70,295",
-            "Year ended": "91,239"
-          },
-          {
-            "Sr No.": "9",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Exceptional Items",
-            "col_3": "-",
-            "Quarter ended": "-",
-            "col_5": "-",
-            "Half Year ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr No.": "10",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Profit from ordinary activities before tax (7-8-9)",
-            "col_3": "136,600",
-            "Quarter ended": "131,105",
-            "col_5": "89,105",
-            "Half Year ended": "267,705",
-            "col_7": "197,574",
-            "Year ended": "464,342"
-          },
-          {
-            "Sr No.": "11",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Tax Expense",
-            "col_3": "28,188",
-            "Quarter ended": "23,924",
-            "col_5": "22,661",
-            "Half Year ended": "52,112",
-            "col_7": "50,260",
-            "Year ended": "113,137"
-          },
-          {
-            "Sr No.": "12",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Net profit from Ordinary Activities after tax before Minority Interest (10-11)",
-            "col_3": "108,412",
-            "Quarter ended": "107,181",
-            "col_5": "66,443",
-            "Half Year ended": "215,593",
-            "col_7": "147,314",
-            "Year ended": "351,205"
-          },
-          {
-            "Sr No.": "13",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Extraordinary Items (Net of tax)",
-            "col_3": "-",
-            "Quarter ended": "-",
-            "col_5": "-",
-            "Half Year ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr No.": "14",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Net profit after tax before Minority Interest (12-13)",
-            "col_3": "108,412",
-            "Quarter ended": "107,181",
-            "col_5": "66,443",
-            "Half Year ended": "215,593",
-            "col_7": "147,314",
-            "Year ended": "351,205"
-          },
-          {
-            "Sr No.": "15",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Less: share of Minority Interest",
-            "col_3": "4",
-            "Quarter ended": "1",
-            "col_5": "12",
-            "Half Year ended": "5",
-            "col_7": "17",
-            "Year ended": "34"
-          },
-          {
-            "Sr No.": "16",
-            "PARTICULARS 30.09.2026 (Unaudited)": "NET PROFIT (14-15)",
-            "col_3": "108,408",
-            "Quarter ended": "107,180",
-            "col_5": "66,431",
-            "Half Year ended": "\"215,588",
-            "col_7": "147,297",
-            "Year ended": "351,171"
-          },
-          {
-            "Sr No.": "17",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Paid-up equity Share Capital (Face value oft 2 each)",
-            "col_3": "627,781",
-            "Quarter ended": "627,735",
-            "col_5": "627,446",
-            "Half Year ended": "627,781",
-            "col_7": "627,446",
-            "Year ended": "627,595"
-          },
-          {
-            "Sr No.": "18",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Reserves & Surplus excluding revaluation reserves",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": "4,488,250"
-          },
-          {
-            "Sr No.": "19",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Analytical ratios:",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No.": "(i)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Percentage of Shares held by Government of India",
-            "col_3": "Nil",
-            "Quarter ended": "NIL",
-            "col_5": "Nil",
-            "Half Year ended": "Nil",
-            "col_7": "Nil",
-            "Year ended": "Nil"
-          },
-          {
-            "Sr No.": "(ii)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Capital Adequacy ratio -Basel III",
-            "col_3": "14.6%",
-            "Quarter ended": "15.2%",
-            "col_5": "15.0%",
-            "Half Year ended": "14.6%",
-            "col_7": "15.0%",
-            "Year ended": "15.4%"
-          },
-          {
-            "Sr No.": "(iii)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Earnings per share for the period (not annualized)/ year (annualized) before and after extraordinary items",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No.": "",
-            "PARTICULARS 30.09.2026 (Unaudited)": "-Basic t",
-            "col_3": "0.35",
-            "Quarter ended": "0.34",
-            "col_5": "0.21",
-            "Half Year ended": "0.69",
-            "col_7": "0.47",
-            "Year ended": "1.12"
-          },
-          {
-            "Sr No.": "",
-            "PARTICULARS 30.09.2026 (Unaudited)": "-Diluted t",
-            "col_3": "0.34",
-            "Quarter ended": "0.34",
-            "col_5": "0.21",
-            "Half Year ended": "0.68",
-            "col_7": "0.47",
-            "Year ended": "1.12"
-          },
-          {
-            "Sr No.": "(iv)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "NP A ratios (Note 7)",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No.": "(a)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Gross NPA",
-            "col_3": "387,523",
-            "Quarter ended": "370,485",
-            "col_5": "405,531",
-            "Half Year ended": "387,523",
-            "col_7": "405,531",
-            "Year ended": "360,493"
-          },
-          {
-            "Sr No.": "(b)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "NetNPA",
-            "col_3": "75,705",
-            "Quarter ended": "67,685",
-            "col_5": "77,084",
-            "Half Year ended": "75,705",
-            "col_7": "77,084",
-            "Year ended": "65,300"
-          },
-          {
-            "Sr No.": "(c)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "% of Gross NP A",
-            "col_3": "1.2%",
-            "Quarter ended": "1.3%",
-            "col_5": "1.6%",
-            "Half Year ended": "1.2%",
-            "col_7": "1.6%",
-            "Year ended": "1.3%"
-          },
-          {
-            "Sr No.": "(d)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "% of Net NPA",
-            "col_3": "0.2%",
-            "Quarter ended": "0.2%",
-            "col_5": "0.3%",
-            "Half Year ended": "0.2%",
-            "col_7": "0.3%",
-            "Year ended": "0.2%"
-          },
-          {
-            "Sr No.": "(v)",
-            "PARTICULARS 30.09.2026 (Unaudited)": "Return on assets (average) (annualized) (Note 8)",
-            "col_3": "0.9%",
-            "Quarter ended": "0.9%",
-            "col_5": "0.6%",
-            "Half Year ended": "0.9%",
-            "col_7": "0.5%",
-            "Year ended": "0.8%"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 41,
-        "rows": [
-          {
-            "Sr No": "",
-            "PARTICULARS": "",
-            "Quarter ended": "30.09.2026",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "Half Year ended": "30.09.2026",
-            "col_7": "30.09.2025",
-            "Year ended": "31.03.2026"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "",
-            "Quarter ended": "(Ynaudite~",
-            "col_4": "(!Jnaudited)",
-            "col_5": "{Unaudite<!)",
-            "Half Year ended": "0.151301668",
-            "col_7": "(Unaudited)",
-            "Year ended": "(Audited)"
-          },
-          {
-            "Sr No": "1",
-            "PARTICULARS": "Se=ent revenue '",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "217,007",
-            "col_4": "213,510",
-            "col_5": "177,649",
-            "Half Year ended": "430,517",
-            "col_7": "416,472",
-            "Year ended": "772,113"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "364,317",
-            "col_4": "337,004",
-            "col_5": "303,559",
-            "Half Year ended": "701,321",
-            "col_7": "604,638",
-            "Year ended": "1,233,266"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "439,691",
-            "col_4": "404,671",
-            "col_5": "377,914",
-            "Half Year ended": "844,362",
-            "col_7": "762,182",
-            "Year ended": "1,542,126"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": ". i. Digital Banking",
-            "Quarter ended": "38",
-            "col_4": "32",
-            "col_5": "13",
-            "Half Year ended": "71",
-            "col_7": "21",
-            "Year ended": "57"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking '",
-            "Quarter ended": "439,653",
-            "col_4": "404,639",
-            "col_5": "377,901",
-            "Half Year ended": "844,291",
-            "col_7": "762,161",
-            "Year ended": "1,542,069"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "33,920",
-            "col_4": "25,704",
-            "col_5": "34,465",
-            "Half Year ended": "59,624",
-            "col_7": "59,046",
-            "Year ended": "134,128"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "7,540",
-            "col_4": "11,951",
-            "col_5": "490",
-            "Half Year ended": "19,492",
-            "col_7": "189",
-            "Year ended": "10,505"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Total",
-            "Quarter ended": "1,062,475",
-            "col_4": "992,840",
-            "col_5": "894,078",
-            "Half Year ended": "2,055,316",
-            "col_7": "1,842,526",
-            "Year ended": "3,692,138"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Add/ (Less): Inter Sevnent Revenue",
-            "Quarter ended": "(2,276)",
-            "col_4": "(341)",
-            "col_5": "17,235",
-            "Half Year ended": "(2,617)",
-            "col_7": "11,704",
-            "Year ended": "37,137"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Income from Operations",
-            "Quarter ended": "1,060,199",
-            "col_4": "992,499",
-            "col_5": "911,313",
-            "Half Year ended": "2,052,699",
-            "col_7": "1,854,230",
-            "Year ended": "3,729,275"
-          },
-          {
-            "Sr No": "2",
-            "PARTICULARS": "Segmental Results",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "71,526",
-            "col_4": "50,676",
-            "col_5": "37,978",
-            "Half Year ended": "122,202",
-            "col_7": "140,656",
-            "Year ended": "276,003"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "57,043",
-            "col_4": "62,998",
-            "col_5": "80,175",
-            "Half Year ended": "120,041",
-            "col_7": "158,706",
-            "Year ended": "319,569"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "(1,462)",
-            "col_4": "3,572",
-            "col_5": "(35,813)",
-            "Half Year ended": "2,110",
-            "col_7": "(102,617)",
-            "Year ended": "(164,893)"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "i. Digital Banking",
-            "Quarter ended": "(41)",
-            "col_4": "(39)",
-            "col_5": "(36)",
-            "Half Year ended": "(80)",
-            "col_7": "(79)",
-            "Year ended": "(169)"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "(1,421)",
-            "col_4": "3,611",
-            "col_5": "(35,777)",
-            "Half Year ended": "2,190",
-            "col_7": "(102,538)",
-            "Year ended": "(164,724)"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "19,723",
-            "col_4": "12,210",
-            "col_5": "19,486",
-            "Half Year ended": "31,933",
-            "col_7": "31,242",
-            "Year ended": "76,954"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "(10,230'",
-            "col_4": "1,649",
-            "col_5": "(12,722)",
-            "Half Year ended": "(8,581)",
-            "col_7": "(30,414)",
-            "Year ended": "(43,291)"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Profit before Tax",
-            "Quarter ended": "136,600",
-            "col_4": "131,105",
-            "col_5": "89,105",
-            "Half Year ended": "267,705",
-            "col_7": "197,574",
-            "Year ended": "464,342"
-          },
-          {
-            "Sr No": "3",
-            "PARTICULARS": "Segment Assets",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "18,424,683",
-            "col_4": "15,379,628",
-            "col_5": "16,104,737",
-            "Half Year ended": "18,424,683",
-            "col_7": "16,104,737",
-            "Year ended": "17,324,953"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "16,459,806",
-            "col_4": "16,428,312",
-            "col_5": "12,820,428",
-            "Half Year ended": "16,459,806",
-            "col_7": "12,820,428",
-            "Year ended": "15,286,462"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "15,528,553",
-            "col_4": "13,436,892",
-            "col_5": "12,991,526",
-            "Half Year ended": "15,528,553",
-            "col_7": "12,991,526",
-            "Year ended": "13,362,115"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "i. Digital Banking",
-            "Quarter ended": "149",
-            "col_4": "159",
-            "col_5": "164",
-            "Half Year ended": "149",
-            "col_7": "164",
-            "Year ended": "159"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "15,528,404",
-            "col_4": "13,436,733",
-            "col_5": "12,991,363",
-            "Half Year ended": "15,528,404",
-            "col_7": "12,991,363",
-            "Year ended": "13,361,956"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "133,183",
-            "col_4": "116,803",
-            "col_5": "119,926",
-            "Half Year ended": "133,183",
-            "col_7": "119,926",
-            "Year ended": "103,073"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "949,400",
-            "col_4": "954,131",
-            "col_5": "979,450",
-            "Half Year ended": "949,400",
-            "col_7": "979,450",
-            "Year ended": "943,804"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Total",
-            "Quarter ended": "51,495,625",
-            "col_4": "46,315,766",
-            "col_5": "43,016,067",
-            "Half Year ended": "51,495,625",
-            "col_7": "43,016,067",
-            "Year ended": "47,020,407"
-          },
-          {
-            "Sr No": "4",
-            "PARTICULARS": "Segment LiabiHties",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "Sr No": "(a)",
-            "PARTICULARS": "Treasury",
-            "Quarter ended": "10,632,017",
-            "col_4": "9,118,565",
-            "col_5": "7,431,475",
-            "Half Year ended": "10,632,017",
-            "col_7": "7,431,475",
-            "Year ended": "9,528,239"
-          },
-          {
-            "Sr No": "(b)",
-            "PARTICULARS": "Corporate Banking",
-            "Quarter ended": "14,586,072",
-            "col_4": "13,299,533",
-            "col_5": "12,653,220",
-            "Half Year ended": "14,586,072",
-            "col_7": "12,653,220",
-            "Year ended": "13,611,403"
-          },
-          {
-            "Sr No": "(c)",
-            "PARTICULARS": "Retail Banking",
-            "Quarter ended": "20,834,938",
-            "col_4": "18,558,958",
-            "col_5": "17,851,332",
-            "Half Year ended": "20,834,938",
-            "col_7": "17,851,332",
-            "Year ended": "18,654,319"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "i. Digital Banking",
-            "Quarter ended": "1,655",
-            "col_4": "1,766",
-            "col_5": "566",
-            "Half Year ended": "1,655",
-            "col_7": "566",
-            "Year ended": "1,481"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "ii. Other Retail Banking",
-            "Quarter ended": "20,833,283",
-            "col_4": "18,557,192",
-            "col_5": "17,850,766",
-            "Half Year ended": "20,833,283",
-            "col_7": "17,850,766",
-            "Year ended": "18,652,832"
-          },
-          {
-            "Sr No": "(d)",
-            "PARTICULARS": "Other Banking Operations",
-            "Quarter ended": "49,312",
-            "col_4": "50,500",
-            "col_5": "43,272",
-            "Half Year ended": "49,312",
-            "col_7": "43,272",
-            "Year ended": "49,905"
-          },
-          {
-            "Sr No": "(e)",
-            "PARTICULARS": "Unallocated",
-            "Quarter ended": "55,487",
-            "col_4": "44,099",
-            "col_5": "109,574",
-            "Half Year ended": "55,487",
-            "col_7": "109,574",
-            "Year ended": "60,225"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Capital and Reserves",
-            "Quarter ended": "5,337,799",
-            "col_4": "5,244,111",
-            "col_5": "4,927,195",
-            "Half Year ended": "5,337,799",
-            "col_7": "4,927,195",
-            "Year ended": "5,116,316"
-          },
-          {
-            "Sr No": "",
-            "PARTICULARS": "Total",
-            "Quarter ended": "51,495,625",
-            "col_4": "46,315,766",
-            "col_5": "43,016,067",
-            "Half Year ended": "51,495,625",
-            "col_7": "43,016,067",
-            "Year ended": "47,020,407"
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "PARTICULARS": "",
-            "As reported": "Quarter ended",
-            "col_3": "Half Year ended",
-            "Proforma": "Quarter ended",
-            "col_5": "Half Year ended"
-          },
-          {
-            "PARTICULARS": "",
-            "As reported": "30.09.2026",
-            "col_3": "30.09.2026",
-            "Proforma": "30.09.2026",
-            "col_5": "30.09.2026"
-          },
-          {
-            "PARTICULARS": "",
-            "As reported": "(Unaudited)",
-            "col_3": "(Unaudited)",
-            "Proforma": "(Unaudited)",
-            "col_5": "(Unaudited)"
-          },
-          {
-            "PARTICULARS": "Net Profit (Rs in crores)",
-            "As reported": "1,084",
-            "col_3": "2,156",
-            "Proforma": "(5,213) •",
-            "col_5": "(4,141)\""
-          },
-          {
-            "PARTICULARS": "Capital Adequacy ratio -Basel ill",
-            "As reported": "14.6%",
-            "col_3": "14.6%",
-            "Proforma": "14.6%",
-            "col_5": "14.6%"
-          },
-          {
-            "PARTICULARS": "Return on assets (average) (annuahzed)",
-            "As reported": "0.9%",
-            "col_3": "0.9%",
-            "Proforma": "(4.3%)",
-            "col_5": "(1.7%)"
-          },
-          {
-            "PARTICULARS": "Borrowings",
-            "As reported": "78,410",
-            "col_3": "78,410",
-            "Proforma": "86,825",
-            "col_5": "86,825"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "06517b1f-592e-42ae-9cd2-758924649be6",
-    "SCRIP_CD": 524590,
-    "XML_NAME": "ANN_524590_06517B1F-592E-42AE-9CD2-758924649BE6",
-    "NEWSSUB": "Hemo Organic Ltd - 524590 - Statement On Deviation(S) / Variation(S) In Utilization Of Proceeds Raised Through Preferential Issue Of Convertible Warrants, Pursuant To Regulation 32 Of SEBI (LODR) Regulations, 2015 ('SEBI Listing Regulations) For The Quarter Ended On September 30, 2026",
-    "DT_TM": "2026-10-17T19:16:37.46",
-    "NEWS_DT": "2026-10-17T19:16:37.46",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ba6fe507-6e5d-4019-b0a8-ec37bbc42a2c.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Statement of deviation / variation for the quarter ended 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hemo-organic-ltd/hemorganic/524590/",
-    "SLONGNAME": "Hemo Organic Ltd",
-    "AGENDA_ID": 84,
-    "TotalPageCnt": 8,
-    "News_submission_dt": "2026-10-17T19:16:37",
-    "DissemDT": "2026-10-17T19:16:37.46",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3085539,
-    "SUBCATNAME": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10.00",
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
