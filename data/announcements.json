@@ -1,5 +1,96 @@
 [
   {
+    "NEWSID": "6d78f020-4613-4225-95ea-beaa5f4c84c8",
+    "SCRIP_CD": 533339,
+    "XML_NAME": "ANN_533339_6D78F020-4613-4225-95EA-BEAA5F4C84C8",
+    "NEWSSUB": "ZEN Technologies Ltd - 533339 - Update",
+    "DT_TM": "2026-10-19T09:21:43.73",
+    "NEWS_DT": "2026-10-19T09:21:43.73",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "41839306-aea4-4e2f-9990-d9e210d5ef43.pdf",
+    "MORE": "",
+    "HEADLINE": "Update",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/",
+    "SLONGNAME": "ZEN Technologies Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-19T09:21:43",
+    "DissemDT": "2026-10-19T09:21:43.73",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 460167,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A fire broke out on 18 October 2026 (≈4:00 PM IST) at the production centre of Unistring Tech Solutions Private Limited, a Zen Technologies subsidiary in Hyderabad, damaging two testing chambers and associated equipment; the preliminary loss is estimated at up to **₹4 crore**, and the assets are covered by insurance.  \n- Management says the incident is expected to have **minimal impact** on operations, with alternative testing arrangements already being put in place while a detailed loss assessment is completed.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Sr.": "1",
+            "Particulars": "Nature of event",
+            "Details": "Fire at the production centre of UTS, a subsidiary of the Zen Technologies Limited"
+          },
+          {
+            "Sr.": "2",
+            "Particulars": "Date and time of occurrence",
+            "Details": "October 18, 2026, at approximately 4:00 PM (IST)"
+          },
+          {
+            "Sr.": "3",
+            "Particulars": "Location",
+            "Details": "Production centre of UTS, Hyderabad, Telangana"
+          },
+          {
+            "Sr.": "4",
+            "Particulars": "Expected quantum of loss/damage caused",
+            "Details": "Two testing chambers and the equipment under test damaged; preliminary estimate up to a sum of ₹4 crore, subject to detailed assessment"
+          },
+          {
+            "Sr.": "5",
+            "Particulars": "Whether loss/damage covered by insurance or not, including amount",
+            "Details": "Damaged assets are covered by insurance"
+          },
+          {
+            "Sr.": "6",
+            "Particulars": "Estimated impact on production/operations",
+            "Details": "Alternative arrangements for testing and the affected material are being put in place; impact expected to be minimal, based on management's present assessment"
+          },
+          {
+            "Sr.": "7",
+            "Particulars": "Factory/unit where strike/lock-out takes place, including reasons",
+            "Details": "Not applicable"
+          },
+          {
+            "Sr.": "8",
+            "Particulars": "Casualties/injuries",
+            "Details": "None"
+          },
+          {
+            "Sr.": "9",
+            "Particulars": "Cause",
+            "Details": "Under investigation"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "03618217-7380-4d4e-a448-09dbf221e61d",
     "SCRIP_CD": 544283,
     "XML_NAME": "ANN_544283_03618217-7380-4D4E-A448-09DBF221E61D",
@@ -10833,42 +10924,6 @@
     "key_metrics": {
       "revenue": ""
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c7f559ee-bbf5-44f0-a42f-6e55aff4e2b6",
-    "SCRIP_CD": 500184,
-    "XML_NAME": "ANN_500184_C7F559EE-BBF5-44F0-A42F-6E55AFF4E2B6",
-    "NEWSSUB": "Himadri Speciality Chemical Ltd - 500184 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-17T19:23:19.377",
-    "NEWS_DT": "2026-10-17T19:23:19.377",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b0d27d3b-8243-45c3-bdb0-2bb982fe60ce.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/himadri-speciality-chemical-ltd/hscl/500184/",
-    "SLONGNAME": "Himadri Speciality Chemical Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 8,
-    "News_submission_dt": "2026-10-17T19:23:19",
-    "DissemDT": "2026-10-17T19:23:19.377",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 25449727,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Himadri Speciality Chemical Ltd disclosed that its un‑audited standalone and consolidated financial results for the quarter and six‑month period ended 30 September 2026 were published in three newspapers (Financial Express, Ei Samay and Jansatta) on 17 October 2026, with the same extracts also posted on the company’s website (www.himadri.com).  \n\n- The announcement does **not**",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
