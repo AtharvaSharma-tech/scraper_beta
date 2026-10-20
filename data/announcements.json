@@ -1,5 +1,116 @@
 [
   {
+    "NEWSID": "0c0c1fc1-4e14-457d-8dc7-d915cb8c31bd",
+    "SCRIP_CD": 532648,
+    "XML_NAME": "ANN_532648_0C0C1FC1-4E14-457D-8DC7-D915CB8C31BD",
+    "NEWSSUB": "Yes Bank Ltd - 532648 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-10-20T09:26:50.007",
+    "NEWS_DT": "2026-10-20T09:26:50.007",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "10e3d300-ce85-42c5-97d7-aa3f8a3c53dc.pdf",
+    "MORE": "",
+    "HEADLINE": "Update on Moody''s Investor Service",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/yes-bank-ltd/yesbank/532648/",
+    "SLONGNAME": "Yes Bank Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-20T09:26:50",
+    "DissemDT": "2026-10-20T09:26:50.007",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 301328,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the announcement:\n\n* **Credit Rating Affirmed (October 20, 2026):** Moody’s Ratings affirmed Yes Bank's long-term foreign and local currency deposit ratings at Ba1, Baseline Credit Assessment (BCA) at ba2, and senior unsecured medium-term note program rating at (P)Ba1, maintaining a Stable outlook.\n* **Capital and Financial Metrics Impact:** Following an October 15, 2026, Supreme Court ruling ordering the reinstatement of its written-down AT1 securities, management estimates the bank's Common Equity Tier 1 (CET1) ratio will decline from 13.7% to 11.4% on a pro-forma basis as of September 2026, while the bank maintained a liquidity coverage ratio of 131%, a gross nonperforming loan ratio of 1.2%, and an annualized net income to tangible assets of 0.8%.",
+    "key_metrics": {
+      "total_assets": "5.1",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5cd1df03-cb25-495a-8b75-1ee37d1b23e9",
+    "SCRIP_CD": 532777,
+    "XML_NAME": "ANN_532777_5CD1DF03-CB25-495A-8B75-1EE37D1B23E9",
+    "NEWSSUB": "Info Edge (India) Ltd - 532777 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-20T09:14:12.08",
+    "NEWS_DT": "2026-10-20T09:14:12.08",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1e55e1ba-3390-4664-b898-0079ac48fe37.pdf",
+    "MORE": "",
+    "HEADLINE": "Conference Call w.r.t. Financial Results for the Quarter and Half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/info-edge-(india)-ltd/naukri/532777/",
+    "SLONGNAME": "Info Edge (India) Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-20T09:14:11",
+    "DissemDT": "2026-10-20T09:14:12.08",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 270268,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "5cd1df03-cb25-495a-8b75-1ee37d1b23e9",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14604452,
+    "DataInsDate": "2026-10-20T09:14:11.997",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Info Edge (India) Ltd will host a conference call on **Wednesday, 28 October 2026 at 04:00 PM IST** to discuss its **financial results for the quarter and half‑year ended 30 September 2026** (Regulation 30 disclosure).  \n- The call will be webcast live (registration link provided) and the transcript/recording will be posted on the company’s website; **no specific financial figures or decisions are disclosed in the announcement**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "40ca8eaf-a93c-4e24-af52-c6226c8aab8b",
+    "SCRIP_CD": 532648,
+    "XML_NAME": "ANN_532648_40CA8EAF-A93C-4E24-AF52-C6226C8AAB8B",
+    "NEWSSUB": "Yes Bank Ltd - 532648 - Update On Outcome Of The Board Meeting Dated October 17, 2026 - SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations')",
+    "DT_TM": "2026-10-20T09:13:07.007",
+    "NEWS_DT": "2026-10-20T09:13:07.007",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f5260252-fa88-4407-a384-032428a81fe2.pdf",
+    "MORE": "",
+    "HEADLINE": "Update on Outcome of the Board Meeting dated October 17, 2026 - SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"Listing Regulations\")",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/yes-bank-ltd/yesbank/532648/",
+    "SLONGNAME": "Yes Bank Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-20T09:13:07",
+    "DissemDT": "2026-10-20T09:13:07.007",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 259228,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board clarified that the Joint Statutory Auditors **did not issue an audit report with a modified opinion** for Q2 and H1 2026; instead, they **expressed a qualified conclusion in a Limited Review Report** on the Bank’s unaudited standalone and consolidated results for the quarter and half‑year ended **30 September 2026**.  \n- The correction does **not affect any other information, annexures, or details** disclosed in the original announcement dated **17 October 2026**; no additional financial figures or decisions were provided.  \n\n*The announcement contains no specific financial numbers or quantitative decisions.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "bcff9f02-97be-4d7c-8ba6-7b1f6cc35f72",
     "SCRIP_CD": 544865,
     "XML_NAME": "ANN_544865_BCFF9F02-97BE-4D7C-8BA6-7B1F6CC35F72",
@@ -11906,301 +12017,6 @@
     "DataInsDate": "2026-10-19T19:50:05.987",
     "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/3d034225-f06b-4e4f-938d-f797c46b9f47.mp3",
     "summary": "- The Investors/Analysts conference call was held on **19 October 2026**.  \n- The audio recording of the call has been posted on HFCL Ltd.’s website (https://www.hfcl.com/) for stakeholder access.  \n\n*The announcement does not contain any specific financial figures, decisions, or other monetary details.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7bd4fdfe-53ed-4f6e-b878-83bc7f6ca894",
-    "SCRIP_CD": 544946,
-    "XML_NAME": "ANN_544946_7BD4FDFE-53ED-4F6E-B878-83BC7F6CA894",
-    "NEWSSUB": "Liqvd Digital India Ltd - 544946 - Clarification On Price Movement",
-    "DT_TM": "2026-10-19T19:47:49.047",
-    "NEWS_DT": "2026-10-19T19:47:49.047",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "42febf73-39dd-43d3-aaa7-f5af9d0319e8.pdf",
-    "MORE": "The Company would like to inform that the price movement in the scrip of the company is purely due to market conditions and is driven by market forces. The management of the Company neither has any control nor has any knowledge of the reasons for significant movement in price of our scrip.",
-    "HEADLINE": "The Company would like to inform that the price movement in the scrip of the company is purely due to market conditions and is driven by market forces. The management of the Company neither ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/liqvd-digital-india-ltd/liqvd/544946/",
-    "SLONGNAME": "Liqvd Digital India Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-10-19T19:47:49",
-    "DissemDT": "2026-10-19T19:47:49.05",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 399237,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "90c7b89b-01fc-4649-8254-fc58e580d5c8",
-    "SCRIP_CD": 512115,
-    "XML_NAME": "ANN_512115_90C7B89B-01FC-4649-8254-FC58E580D5C8",
-    "NEWSSUB": "Rose Merc Ltd - 512115 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-    "DT_TM": "2026-10-19T19:46:31.557",
-    "NEWS_DT": "2026-10-19T19:46:31.557",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "aea6166f-63e4-40bd-85f9-36078af317ad.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Allotment of 80,000 Equity Shares pursuant to Exercise of Employee Stock Options under RML Employee Stock Option Plan II-2023 and RML Employee Stock Option Plan 2024.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rose-merc-ltd/rosemer/512115/",
-    "SLONGNAME": "Rose Merc Ltd",
-    "AGENDA_ID": 115,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-10-19T19:46:31",
-    "DissemDT": "2026-10-19T19:46:31.557",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1143262,
-    "SUBCATNAME": "Allotment of ESOP / ESPS",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Company name and address of Registered Office:",
-            "Details": "Rose Merc Limited 15/B/4, New Sion Chs, Swami Vallabhdas Road, Opp SIES College, Behind Dmart Store, Sion West, Mumbai 400022"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Name of the recognised Stock Exchanges on which the company's shares are listed:",
-            "Details": "BSE"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Filing date of the statement referred in regulation 10(b) of the Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021 with the recognised Stock Exchange:",
-            "Details": "11th August, 2023"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Filing Number, if any:",
-            "Details": "-"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Title of the Scheme pursuant to which shares are issued, if any:",
-            "Details": "“RML Employee Stock Option Plan II, 2023” (“RML ESOP II - 2023”)"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Kind of security to be listed:",
-            "Details": "Equity"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Par value of the shares:",
-            "Details": "Rs.10"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Date of issue of shares:",
-            "Details": "October 19, 2026"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Number of shares issued:",
-            "Details": "20,000 (Twenty Thousand)"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Share Certificate No., if applicable:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Distinctive number of the share, if applicable:",
-            "Details": "7886048 to 7906047"
-          },
-          {
-            "Sr. No.": "12",
-            "Particulars": "ISIN Number of the shares if issued in Demat:",
-            "Details": "INE649C01012"
-          },
-          {
-            "Sr. No.": "13",
-            "Particulars": "Exercise price per share:",
-            "Details": "RS.50"
-          },
-          {
-            "Sr. No.": "14",
-            "Particulars": "Premium per share:",
-            "Details": "RS.40"
-          },
-          {
-            "Sr. No.": "15",
-            "Particulars": "Total issued shares after this issue:",
-            "Details": "7906047"
-          },
-          {
-            "Sr. No.": "16",
-            "Particulars": "Total issued share capital after this issue:",
-            "Details": "7,90,60,470"
-          },
-          {
-            "Sr. No.": "17",
-            "Particulars": "Details of any lock-in on the shares:",
-            "Details": "N.A"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Company name and address of Registered Office:",
-            "Details": "Rose Merc Limited 15/B/4, New Sion Chs, Swami Vallabhdas Road, Opp SIES College, Behind Dmart Store, Sion West, Mumbai 400022"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Name of the recognised Stock Exchanges on which the company's shares are listed:",
-            "Details": "BSE"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Filing date of the statement referred in regulation 10(b) of the Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021 with the recognised Stock Exchange:",
-            "Details": "26th November 2024"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Filing Number, if any:",
-            "Details": "-"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Title of the Scheme pursuant to which shares are issued, if any:",
-            "Details": "“RML Employee Stock Option Plan 2024” (“RML ESOP – 2024”)"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Kind of security to be listed :",
-            "Details": "Equity"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Par value of the shares :",
-            "Details": "Rs.10"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Date of issue of shares :",
-            "Details": "October 19, 2026"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Number of shares issued :",
-            "Details": "60,000 (Sixty Thousand)"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Share Certificate No., if applicable :",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Distinctive number of the share, if applicable :",
-            "Details": "7906048 to 7966047"
-          },
-          {
-            "Sr. No.": "12",
-            "Particulars": "ISIN Number of the shares if issued in Demat :",
-            "Details": "INE649C01012"
-          },
-          {
-            "Sr. No.": "13",
-            "Particulars": "Exercise price per share:",
-            "Details": "RS.50"
-          },
-          {
-            "Sr. No.": "14",
-            "Particulars": "Premium per share :",
-            "Details": "RS.40"
-          },
-          {
-            "Sr. No.": "15",
-            "Particulars": "Total issued shares after this issue :",
-            "Details": "7966047"
-          },
-          {
-            "Sr. No.": "16",
-            "Particulars": "Total issued share capital after this issue :",
-            "Details": "7,96,60,470"
-          },
-          {
-            "Sr. No.": "17",
-            "Particulars": "Details of any lock-in on the shares :",
-            "Details": "N.A"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "369f95f6-50bf-41d1-8064-24aface01c48",
-    "SCRIP_CD": 500365,
-    "XML_NAME": "ANN_500365_369F95F6-50BF-41D1-8064-24AFACE01C48",
-    "NEWSSUB": "Welspun Specialty Solutions Ltd - 500365 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-10-19T19:46:23.52",
-    "NEWS_DT": "2026-10-19T19:46:23.52",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e03616c7-587c-4e0f-b039-ae538d4bbae3.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Conference Call",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/welspun-specialty-solutions-ltd/welsplsol/500365/",
-    "SLONGNAME": "Welspun Specialty Solutions Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-10-19T19:46:23",
-    "DissemDT": "2026-10-19T19:46:23.52",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 594437,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "369f95f6-50bf-41d1-8064-24aface01c48",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14599001,
-    "DataInsDate": "2026-10-19T19:46:23.447",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
