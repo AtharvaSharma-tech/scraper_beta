@@ -1,5 +1,2978 @@
 [
   {
+    "NEWSID": "dfa4cf98-be34-468c-85e9-19cad951943b",
+    "SCRIP_CD": 534741,
+    "XML_NAME": "ANN_534741_DFA4CF98-BE34-468C-85E9-19CAD951943B",
+    "NEWSSUB": "Virtual Global Education Ltd - 534741 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-10-21T22:29:53.573",
+    "NEWS_DT": "2026-10-21T22:29:53.573",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "05c71bd0-ccb3-43e5-8cfa-20002ff333de.pdf",
+    "MORE": "",
+    "HEADLINE": "as pdf attched",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/virtual-global-education-ltd/virtualg/534741/",
+    "SLONGNAME": "Virtual Global Education Ltd",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:29:53",
+    "DissemDT": "2026-10-21T22:29:53.573",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 488433,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "S. No.": "1",
+            "Particulars": "Type of securities proposed to be Issued",
+            "Disclosures": "Fully Convertible Warrants ('Warrants')"
+          },
+          {
+            "S. No.": "2",
+            "Particulars": "Type of issuance",
+            "Disclosures": "Preferential Allotment"
+          },
+          {
+            "S. No.": "3",
+            "Particulars": "Total number of securities proposed to be issued or total amount for which the securities will be issued",
+            "Disclosures": "Up to 42,00,00,000 (Forty-Two Crore Only) Fully convertible warrants at an issue price of Re. 1/- (Rupee One Only) each to the proposed allottees, belonging to the “Promoter/Promoter Group” and “Non-Promoter, Public Category’, for an aggregate amount of Rs. 42,00,00,000/- (Rupees Forty-Two Crore Only)"
+          },
+          {
+            "S. No.": "4",
+            "Particulars": "Name and number of the Investor(s)",
+            "Disclosures": "As per the list attached as Annexure-II"
+          },
+          {
+            "S. No.": "5",
+            "Particulars": "Issue price",
+            "Disclosures": "Re. 1/- (Rupee One Only) Per Warrant"
+          },
+          {
+            "S. No.": "6",
+            "Particulars": "post allotment of securities - outcome of the subscription,",
+            "Disclosures": "Category Pre preferential issue Post preferential issue presuming full conversion No of fully paid % No of fully % -up Shares paid-up Shares Promoters and 4,66,06,012 8.23 14,66,06,012 14.87 Promoter Group (A) Public (B) 51,95,57,686 91.77 83,95,57,686 85.13 Total (A) + (B) 56,61,63,698 100.00 98,61,63,698 100.00"
+          },
+          {
+            "S. No.": "7",
+            "Particulars": "in case of convertibles - intimation on conversion of securities or on lapse of the tenure of the instrument",
+            "Disclosures": "The tenure of the warrants shall not exceed 18 (eighteen) months from the date of allotment. Each warrant shall carry a right to subscribe 1 (one) Equity Share per warrant, which may be exercised in one or more tranches during the period commencing from allotment of warrants until the expiry of 18(eighteen) months from the date of allotment of the warrants. In the event that, a warrant holder does not exercise the warrants within a period of 18 (Eighteen) months from the date of allotment of Such warrants, the unexercised warrants shall lapse and the amount paid by the warrants holders on such warrants shall stand forfeited by the Company."
+          },
+          {
+            "S. No.": "8",
+            "Particulars": "Nature of Consideration",
+            "Disclosures": "Cash"
+          },
+          {
+            "S. No.": "9",
+            "Particulars": "Any cancellation or termination of proposal for issuance of securities",
+            "Disclosures": "Not Applicable"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 19,
+        "rows": [
+          {
+            "S. No.": "A",
+            "Name of the Proposed Allottees": "Promoter/Promoter Group",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": ""
+          },
+          {
+            "S. No.": "1",
+            "Name of the Proposed Allottees": "SHREE ASSETS RECONSTRUCTION LIMITED",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "10,00,00,000"
+          },
+          {
+            "S. No.": "Total (A)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "10,00,00,000"
+          },
+          {
+            "S. No.": "B",
+            "Name of the Proposed Allottees": "Non-Promoter, Public Category",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": ""
+          },
+          {
+            "S. No.": "1",
+            "Name of the Proposed Allottees": "PAWAN KUMAR BASUDEV AGARWAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "80,00,000"
+          },
+          {
+            "S. No.": "2",
+            "Name of the Proposed Allottees": "PAWAN KUMAR BASUDEV AGARWAL (HUF)",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,00,00,000"
+          },
+          {
+            "S. No.": "3",
+            "Name of the Proposed Allottees": "KALPANA PAWAN KUMAR AGARWAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "75,00,000"
+          },
+          {
+            "S. No.": "4",
+            "Name of the Proposed Allottees": "SHREE DURGA CAPITAL LTD.",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,20,00,000"
+          },
+          {
+            "S. No.": "5",
+            "Name of the Proposed Allottees": "SAROJ GOYAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "6",
+            "Name of the Proposed Allottees": "RAM GOPAL GOYAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "7",
+            "Name of the Proposed Allottees": "SUCHIT JAYRAJ SHAH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,00,00,000"
+          },
+          {
+            "S. No.": "8",
+            "Name of the Proposed Allottees": "MAMTA SUCHIT SHAH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "85,00,000"
+          },
+          {
+            "S. No.": "9",
+            "Name of the Proposed Allottees": "ADITI SINGH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "50,00,000"
+          },
+          {
+            "S. No.": "10",
+            "Name of the Proposed Allottees": "ANKIT SINGH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "25,00,000"
+          },
+          {
+            "S. No.": "11",
+            "Name of the Proposed Allottees": "GAJANAND GUPTA",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "12",
+            "Name of the Proposed Allottees": "ANITA GUPTA",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "13",
+            "Name of the Proposed Allottees": "GREEN OPEN TECHNOLOGIES PRIVATE LIMITED",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "8,65,00,000"
+          },
+          {
+            "S. No.": "Total (B)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "32,00,00,000"
+          },
+          {
+            "S. No.": "Grand Total (A+B)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "42,00,00,000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "395751fd-211e-4eb1-90ad-32dfbc27d809",
+    "SCRIP_CD": 534741,
+    "XML_NAME": "ANN_534741_395751FD-211E-4EB1-90AD-32DFBC27D809",
+    "NEWSSUB": "Virtual Global Education Ltd - 534741 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "DT_TM": "2026-10-21T22:28:13.91",
+    "NEWS_DT": "2026-10-21T22:28:13.91",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "062afcae-e1d4-4848-a51e-b3c60fd4505b.pdf",
+    "MORE": "",
+    "HEADLINE": "as pdf attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/virtual-global-education-ltd/virtualg/534741/",
+    "SLONGNAME": "Virtual Global Education Ltd",
+    "AGENDA_ID": 124,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:28:13",
+    "DissemDT": "2026-10-21T22:28:13.91",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 719214,
+    "SUBCATNAME": "Change in Management",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Appointment:** Effective 21 Oct 2026, Virtual Global Education Ltd appointed Mr. Krishan Bansal (DIN 05127328) as Chief Financial Officer and Executive Director, following board approval and a declaration that he is not debarred and has no related‑party interests.  \n\n- **Profile & Disclosure:** Mr. Bansal is a commerce (honours) graduate from DU with over 30 years of experience in finance, accounts, HR, compliance and business development across government, PSU and corporate sectors; the announcement contains no monetary figures, financial commitments, or other financial details.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9dc2a102-bfca-4dce-a1aa-fa147454a260",
+    "SCRIP_CD": 534741,
+    "XML_NAME": "ANN_534741_9DC2A102-BFCA-4DCE-A1AA-FA147454A260",
+    "NEWSSUB": "Virtual Global Education Ltd - 534741 - Announcement under Regulation 30 (LODR)-Resignation of Chief Financial Officer (CFO)",
+    "DT_TM": "2026-10-21T22:24:10.377",
+    "NEWS_DT": "2026-10-21T22:24:10.377",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d5ae2c42-78cc-4858-b056-b701977fa38d.pdf",
+    "MORE": "",
+    "HEADLINE": "as pdf attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/virtual-global-education-ltd/virtualg/534741/",
+    "SLONGNAME": "Virtual Global Education Ltd",
+    "AGENDA_ID": 106,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:24:10",
+    "DissemDT": "2026-10-21T22:24:10.377",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 607055,
+    "SUBCATNAME": "Resignation of Chief Financial Officer (CFO)",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f3ed766b-f0c6-4e4c-ad8c-594511161804",
+    "SCRIP_CD": 531971,
+    "XML_NAME": "ANN_531971_F3ED766B-F0C6-4E4C-AD8C-594511161804",
+    "NEWSSUB": "Popees Baby Care India Ltd - 531971 - Board Meeting Intimation for Modification Of The Preferential Issue Proposal (Share Swap, Private Placement) And Extension Of The EGM Date",
+    "DT_TM": "2026-10-21T22:23:53.94",
+    "NEWS_DT": "2026-10-21T22:23:53.94",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "37412a2a-468c-4130-9462-fe76467b351e.pdf",
+    "MORE": "Popees Baby Care India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/10/2026 ,inter alia, to consider and approve 1. Modification to the proposal approved by the Board on 08 October 2026 for raising funds through issuance of securities on a preferential basis by way of private placement, pursuant to a Share Swap Arrangement, for consideration other than cash.\r\n2. Extension of the date of the Extra-Ordinary General Meeting (EGM) convened to seek shareholders'' approval for the Preferential Issue.\r\n3. To transact any other business with the permission of the Chairperson.\r\n\r\nFurther, the trading window for dealing in the securities of the Company shall remain closed for all designated persons and their immediate relatives until 48 hours after the declaration of the Financial Results of the Company.",
+    "HEADLINE": "Popees Baby Care India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 24/10/2026 ,inter alia, to consider and approve 1. Modification to the ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/popees-baby-care-india-ltd/popees/531971/",
+    "SLONGNAME": "Popees Baby Care India Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:23:52",
+    "DissemDT": "2026-10-21T22:23:53.94",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 764468,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting on 24 Oct 2026** – The directors will consider (i) a modification to the 8 Oct 2026 approved preferential issue proposal, now to raise funds via a share‑swap private placement (consideration other than cash), and (ii) an extension of the date of the Extraordinary General Meeting (EGM) that seeks shareholder approval for this preferential issue.  \n\n- **Trading window** – The trading window for all designated persons and their immediate relatives will remain closed until 48 hours after the company’s financial results are announced.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7b90cf83-6fc4-444a-b018-cc3970bb7572",
+    "SCRIP_CD": 534741,
+    "XML_NAME": "ANN_534741_7B90CF83-6FC4-444A-B018-CC3970BB7572",
+    "NEWSSUB": "Virtual Global Education Ltd - 534741 - Results For Quarter Ended 30.09.2026",
+    "DT_TM": "2026-10-21T22:20:54.23",
+    "NEWS_DT": "2026-10-21T22:20:54.23",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "130492a4-2e65-4362-b72c-79d71f95f8a8.pdf",
+    "MORE": "",
+    "HEADLINE": "as pdf",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/virtual-global-education-ltd/virtualg/534741/",
+    "SLONGNAME": "Virtual Global Education Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:20:54",
+    "DissemDT": "2026-10-21T22:20:54.23",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5248597,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "6",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 52,
+        "rows": [
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "CIN: L67120DL1993PLC052256",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Regd. Office::1108, 11th Floor,RG Trade Tower, Netaji Subhash Place, New Delhi-110034",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Email Id: cfovirtualgloabal@gmail.com, Website: www.virtualeducation.co.in, Ph: 011-41522143",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Particulars",
+            "col_3": "HALF YEAR ENDED 30.09.2026",
+            "col_4": "YEAR ENDED 31.03.2026"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "A",
+            "col_2": "ASSETS",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Non-current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Property, Plant & Equipment",
+            "col_3": "2 56.31",
+            "col_4": "258.85"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Capital Work-in-Progress",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Goodwill",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Other Intangible Assets",
+            "col_3": "1,117.32",
+            "col_4": "1,117.32"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(e)Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Investments",
+            "col_3": "4 0.01",
+            "col_4": "4 0.01"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Loans",
+            "col_3": "1,572.58",
+            "col_4": "1 ,662.04"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(f) Other Non current Assets",
+            "col_3": "1,998.87",
+            "col_4": "1,998.87"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(g) Deferred Tax Assets",
+            "col_3": "6 .97",
+            "col_4": "6 .97"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current assets",
+            "col_3": "4,992.06",
+            "col_4": "5 ,084.06"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Inventories",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Financial Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "1,750.38",
+            "col_4": "1 ,689.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Cash and Cash Equivalents",
+            "col_3": "9 .40",
+            "col_4": "42.47"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Bank Balances",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "B",
+            "col_2": "(iv) Trade Receivables",
+            "col_3": "1,516.17",
+            "col_4": "1,506.08"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "(v) Other Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other Current Assets",
+            "col_3": "9 9.78",
+            "col_4": "80.36"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current assets",
+            "col_3": "3,375.73",
+            "col_4": "3 ,318.55"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - ASSETS",
+            "col_3": "8,367.80",
+            "col_4": "8,402.61"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "B",
+            "col_2": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Equity",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Equity Share Capital",
+            "col_3": "5,661.64",
+            "col_4": "5,661.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Equity",
+            "col_3": "1,855.37",
+            "col_4": "1,845.40"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Equity",
+            "col_3": "7,517.00",
+            "col_4": "7,507.04"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Non-current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Financial Liabilities",
+            "col_3": "3 2.34",
+            "col_4": "32.34"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Non -Current Liabilities",
+            "col_3": "4 52.81",
+            "col_4": "458.38"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Deferred Tax Liabilities",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current liabilities",
+            "col_3": "4 85.15",
+            "col_4": "490.72"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "1 03.10",
+            "col_4": "142.77"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Trade Payables",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Provisions",
+            "col_3": "2 28.11",
+            "col_4": "228.71"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other current Liabilities",
+            "col_3": "3 4.43",
+            "col_4": "33.36"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Liabilities",
+            "col_3": "",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current liabilities",
+            "col_3": "3 65.64",
+            "col_4": "404.84"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - EQUITY AND LIABILITIES",
+            "col_3": "8,367.80",
+            "col_4": "8,402.61"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "For Virtual Global Education Limited Prem Gupta Place: New Delhi Director Date: 21.10.2026 DIN: 00180250",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Place: New Delhi Date: 21.10.2026",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 43,
+        "rows": [
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "CIN: L67120DL1993PLC052256",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Regd. Office::1108, 11th Floor,RG Trade Tower, Netaji Subhash Place, New Delhi-110034",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Email Id: cfovirtualglobal@gmail.com, Website: www.virtualeducation.co.in, Ph: 011-41522143",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Statement of Consolidated Un-audited Financial Results for the Quarter and Half year ended on 30th September 2026",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "(in Lakhs)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "S. No.",
+            "col_2": "Particulars",
+            "col_3": "Quarter Ended",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Half year ended",
+            "col_7": "",
+            "col_8": "Year ended"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "30-Sep-26",
+            "col_4": "30-Jun-26",
+            "col_5": "30-Sep-25",
+            "col_6": "30-Sep-26",
+            "col_7": "30-Sep-25",
+            "col_8": "31-Mar-26"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "Un-Audited",
+            "col_4": "Un-Audited",
+            "col_5": "Un-Audited",
+            "col_6": "Un-Audited",
+            "col_7": "Un-Audited",
+            "col_8": "Audited"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "I",
+            "col_2": "Revenue from operations",
+            "col_3": "6 .89",
+            "col_4": "3.19",
+            "col_5": "-",
+            "col_6": "1 0.08",
+            "col_7": "-",
+            "col_8": "0.00"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "II",
+            "col_2": "Other Income",
+            "col_3": "1 7.94",
+            "col_4": "22.86",
+            "col_5": "1 8.41",
+            "col_6": "4 0.80",
+            "col_7": "37.96",
+            "col_8": "58.54"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "III",
+            "col_2": "Total Revenue from operations (net) (I+II)",
+            "col_3": "24.83",
+            "col_4": "26.05",
+            "col_5": "18.41",
+            "col_6": "5 0.88",
+            "col_7": "37.96",
+            "col_8": "58.54"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "IV",
+            "col_2": "Expenses",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Direct Cost of Service Rendered",
+            "col_3": "",
+            "col_4": "0.00",
+            "col_5": "-",
+            "col_6": "",
+            "col_7": "-",
+            "col_8": "0.00"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Purchases of Stock-in -Trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Changes in inventories of finished goods,work-in-progress and stock-in-trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Employee benefits expense",
+            "col_3": "13.92",
+            "col_4": "10.04",
+            "col_5": "1 4.68",
+            "col_6": "2 3.96",
+            "col_7": "22.27",
+            "col_8": "37.57"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(e) Finance Costs",
+            "col_3": "",
+            "col_4": "0.00",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "0.00"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(f) Depreciation and amortisation expense",
+            "col_3": "1.52",
+            "col_4": "1.50",
+            "col_5": "2 .01",
+            "col_6": "3.02",
+            "col_7": "3.28",
+            "col_8": "7.29"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(g) Other expenses",
+            "col_3": "6.45",
+            "col_4": "7.51",
+            "col_5": "1 7.38",
+            "col_6": "1 3.96",
+            "col_7": "27.80",
+            "col_8": "47.07"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Total Expenses",
+            "col_3": "2 1.89",
+            "col_4": "19.05",
+            "col_5": "34.07",
+            "col_6": "40.94",
+            "col_7": "53.35",
+            "col_8": "91.93"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "V",
+            "col_2": "Profit/ (Loss) Before Exceptional and Extraordinary Items and Tax (III-IV)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.39)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "VI",
+            "col_2": "Exceptional Items",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "VII",
+            "col_2": "Profit/ (Loss) before extraordinary items and Tax (V-VI)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.39)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "VIII",
+            "col_2": "Extraordinary items",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "IX",
+            "col_2": "Profit/ (Loss) before Tax (VII-VIII)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.39)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "X",
+            "col_2": "Tax Expenses",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "- Current Tax",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "- Deferred Tax",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "0 .50"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XI",
+            "col_2": "Profit/ (Loss) for the period from continuing operations (IX-X)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "(15.65)",
+            "col_6": "9.94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.89)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XII",
+            "col_2": "Net Profit/ (Loss) from discontinuing operation (before Tax)",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XIII",
+            "col_2": "Tax Expense of discontinuing operations",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XIV",
+            "col_2": "Net Profit/ (Loss) from discontinuing operation after Tax (XII-XIII)",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XV",
+            "col_2": "Net Profit/ (Loss) for the Period (XI+XIV)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.89)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XVI",
+            "col_2": "Share of profit / (loss) of associates",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XVII",
+            "col_2": "Share of profit / (loss) of Minority Interest",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "(0.06)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XVIII",
+            "col_2": "Net Profit/ (Loss) after taxes,minority interest and share of profit/(loss) of associates",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.84)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XIX",
+            "col_2": "Other Comprehensive Income",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XX",
+            "col_2": "Total Comprehensive Income for the period (XVIII+XIX)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.84)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XXI",
+            "col_2": "Paid-up equity share capital (Face value of Rs.1/- per share)",
+            "col_3": "5,661.64",
+            "col_4": "5,661.64",
+            "col_5": "4,236.64",
+            "col_6": "5,661.64",
+            "col_7": "4,236.64",
+            "col_8": "5 ,661.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XXII",
+            "col_2": "Reserves excluding Revaluation Reserves as per balance sheet of previous accounting year",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XXIII",
+            "col_2": "Earning Per Share (of Rs. 1/- each) (not annualised) A) Basic B) Diluted",
+            "col_3": "0 . 0 0 1",
+            "col_4": "0 . 0 0 1",
+            "col_5": "( 0.004)",
+            "col_6": "0 .002",
+            "col_7": "( 0.004)",
+            "col_8": "( 0.006)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Notes: 1 The Un-audited Financial Results of the Company has been prepared in accordance with the Indian Accounting Standard (IND-AS) prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder. 2 The above Un-audited Financial Results were subjected to limited review by the Statutory Auditors of the Company, reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on October 21,2026. There are no qualifications in the report issued by the Auditors and the same is being filed with the Bombay Stock Exchange Limited (BSE). 3 As the Company is mainly operating in one reportable business segment, hence the disclosure requirements of Indian Accounting Standard (Ind AS-108) \"Operating Segment\" is not applicable. 4 The Previous Quarter ended figures have been re-grouped/ re-arranged, whenever necessary. 5 This statement is as per Regulation 33 of the SEBI(Listing Obligation and Disclosure Requirements) Regulations, 2015 6 Provision for Income Tax shall be made at the end of the year. For Virtual Global Education Limited Place: New Delhi Prem Gupta Date: 21.10.2026 Director DIN:00180250",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "Director DIN:00180250",
+            "col_8": ""
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 51,
+        "rows": [
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "CIN: L67120DL1993PLC052256",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Regd. Office::1108, 11th Floor,RG Trade Tower, Netaji Subhash Place, New Delhi-110034",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Email Id: cfovirtualglobal@gmail.com, Website: www.virtualeducation.co.in, Ph: 011-41522143",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Particulars",
+            "col_3": "HALF YEAR ENDED 30.09.2026",
+            "col_4": "YEAR ENDED 31.03.2026"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "A",
+            "col_2": "ASSETS",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Non-current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Property, Plant & Equipment",
+            "col_3": "256.31",
+            "col_4": "2 58.85"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Capital Work-in-Progress",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Goodwill",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Other Intangible Assets",
+            "col_3": "1,119.82",
+            "col_4": "1 ,119.82"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(e)Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Investments",
+            "col_3": "39.50",
+            "col_4": "39.50"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Loans",
+            "col_3": "1,572.58",
+            "col_4": "1 ,662.04"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(f) Other Non current Assets",
+            "col_3": "1,998.87",
+            "col_4": "1 ,998.87"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(g) Deferred Tax Assets",
+            "col_3": "6 .97",
+            "col_4": "6 .97"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current assets",
+            "col_3": "4 ,994.05",
+            "col_4": "5 ,086.05"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Inventories",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Financial Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "1,750.38",
+            "col_4": "1 ,689.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Cash and Cash Equivalents",
+            "col_3": "9.50",
+            "col_4": "42.58"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Bank Balances",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iv) Trade Receivables",
+            "col_3": "1,516.99",
+            "col_4": "1 ,506.90"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(v) Short term loans and Advances",
+            "col_3": "-",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other Current Assets",
+            "col_3": "99.78",
+            "col_4": "80.36"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current assets",
+            "col_3": "3 ,376.66",
+            "col_4": "3 ,319.48"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - ASSETS",
+            "col_3": "8,370.71",
+            "col_4": "8 ,405.53"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "B",
+            "col_2": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Equity",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Equity Share Capital",
+            "col_3": "5,661.64",
+            "col_4": "5 ,661.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Equity",
+            "col_3": "1,853.66",
+            "col_4": "1,843.71"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) NCI",
+            "col_3": "1.47",
+            "col_4": "1.47"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Equity",
+            "col_3": "7,516.77",
+            "col_4": "7 ,506.82"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Non-current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Financial Liabilities",
+            "col_3": "33.94",
+            "col_4": "33.94"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Non - Current Liabilities",
+            "col_3": "452.81",
+            "col_4": "4 58.38"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Deferred Tax Liabilities",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current liabilities",
+            "col_3": "486.75",
+            "col_4": "4 92.32"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "103.10",
+            "col_4": "1 42.77"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Trade Payables",
+            "col_3": "1 .55",
+            "col_4": "1.25"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Provisions",
+            "col_3": "228.11",
+            "col_4": "2 28.75"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other current Liabilities",
+            "col_3": "34.43",
+            "col_4": "33.62"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Liabilities",
+            "col_3": "",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current liabilities",
+            "col_3": "367.19",
+            "col_4": "4 06.39"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - EQUITY AND LIABILITIES",
+            "col_3": "C",
+            "col_4": "8 ,405.53"
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "S. No.": "A",
+            "Name of the Proposed Allottees": "Promoter/Promoter Group",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": ""
+          },
+          {
+            "S. No.": "1",
+            "Name of the Proposed Allottees": "SHREE ASSETS RECONSTRUCTION LIMITED",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "10,00,00,000"
+          },
+          {
+            "S. No.": "Total (A)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "10,00,00,000"
+          },
+          {
+            "S. No.": "B",
+            "Name of the Proposed Allottees": "Non-Promoter, Public Category",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": ""
+          },
+          {
+            "S. No.": "1",
+            "Name of the Proposed Allottees": "PAWAN KUMAR BASUDEV AGARWAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "80,00,000"
+          },
+          {
+            "S. No.": "2",
+            "Name of the Proposed Allottees": "PAWAN KUMAR BASUDEV AGARWAL (HUF)",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,00,00,000"
+          },
+          {
+            "S. No.": "3",
+            "Name of the Proposed Allottees": "KALPANA PAWAN KUMAR AGARWAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "75,00,000"
+          },
+          {
+            "S. No.": "4",
+            "Name of the Proposed Allottees": "SHREE DURGA CAPITAL LTD.",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,20,00,000"
+          },
+          {
+            "S. No.": "5",
+            "Name of the Proposed Allottees": "SAROJ GOYAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "6",
+            "Name of the Proposed Allottees": "RAM GOPAL GOYAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "7",
+            "Name of the Proposed Allottees": "SUCHIT JAYRAJ SHAH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,00,00,000"
+          },
+          {
+            "S. No.": "8",
+            "Name of the Proposed Allottees": "MAMTA SUCHIT SHAH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "85,00,000"
+          },
+          {
+            "S. No.": "9",
+            "Name of the Proposed Allottees": "ADITI SINGH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "50,00,000"
+          },
+          {
+            "S. No.": "10",
+            "Name of the Proposed Allottees": "ANKIT SINGH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "25,00,000"
+          },
+          {
+            "S. No.": "11",
+            "Name of the Proposed Allottees": "GAJANAND GUPTA",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "12",
+            "Name of the Proposed Allottees": "ANITA GUPTA",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "13",
+            "Name of the Proposed Allottees": "GREEN OPEN TECHNOLOGIES PRIVATE LIMITED",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "8,65,00,000"
+          },
+          {
+            "S. No.": "Total (B)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "32,00,00,000"
+          },
+          {
+            "S. No.": "Grand Total (A+B)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "42,00,00,000"
+          }
+        ]
+      },
+      {
+        "page": 20,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "S. No.": "1",
+            "Particulars": "Type of securities proposed to be Issued",
+            "Disclosures": "Fully Convertible Warrants ('Warrants')"
+          },
+          {
+            "S. No.": "2",
+            "Particulars": "Type of issuance",
+            "Disclosures": "Preferential Allotment"
+          },
+          {
+            "S. No.": "3",
+            "Particulars": "Total number of securities proposed to be issued or total amount for which the securities will be issued",
+            "Disclosures": "Up to 42,00,00,000 (Forty-Two Crore Only) Fully convertible warrants at an issue price of Re. 1/- (Rupee One Only) each to the proposed allottees, belonging to the “Promoter/Promoter Group” and “Non-Promoter, Public Category’, for an aggregate amount of Rs. 42,00,00,000/- (Rupees Forty-Two Crore Only)"
+          },
+          {
+            "S. No.": "4",
+            "Particulars": "Name and number of the Investor(s)",
+            "Disclosures": "As per the list attached as Annexure-IV"
+          },
+          {
+            "S. No.": "5",
+            "Particulars": "Issue price",
+            "Disclosures": "Re. 1/- (Rupee One Only) Per Warrant"
+          },
+          {
+            "S. No.": "6",
+            "Particulars": "post allotment of securities - outcome of the subscription,",
+            "Disclosures": "Category Pre preferential issue Post preferential issue presuming full conversion No of fully paid % No of fully % -up Shares paid-up Shares Promoters and 4,66,06,012 8.23 14,66,06,012 14.87 Promoter Group (A) Public (B) 51,95,57,686 91.77 83,95,57,686 85.13 Total (A) + (B) 56,61,63,698 100.00 98,61,63,698 100.00"
+          },
+          {
+            "S. No.": "7",
+            "Particulars": "in case of convertibles - intimation on conversion of securities or on lapse of the tenure of the instrument",
+            "Disclosures": "The tenure of the warrants shall not exceed 18 (eighteen) months from the date of allotment. Each warrant shall carry a right to subscribe 1 (one) Equity Share per warrant, which may be exercised in one or more tranches during the period commencing from allotment of warrants until the expiry of 18(eighteen) months from the date of allotment of the warrants. In the event that, a warrant holder does not exercise the warrants within a period of 18 (Eighteen) months from the date of allotment of Such warrants, the unexercised warrants shall lapse and the amount paid by the warrants holders on such warrants shall stand forfeited by the Company."
+          },
+          {
+            "S. No.": "8",
+            "Particulars": "Nature of Consideration",
+            "Disclosures": "Cash"
+          },
+          {
+            "S. No.": "9",
+            "Particulars": "Any cancellation or termination of proposal for issuance of securities including reasons thereof.",
+            "Disclosures": "Not Applicable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "e9744b74-edc7-40f7-a6c4-0ff1a8c1b64c",
+    "SCRIP_CD": 534741,
+    "XML_NAME": "ANN_534741_E9744B74-EDC7-40F7-A6C4-0FF1A8C1B64C",
+    "NEWSSUB": "Virtual Global Education Ltd - 534741 - Board Meeting Outcome for Board Meeting Outcome For Considering Unaudited Financial Results For The Quarter Ended 30.09.2026",
+    "DT_TM": "2026-10-21T22:16:51.327",
+    "NEWS_DT": "2026-10-21T22:16:51.327",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5cca22ad-d1ab-485f-b6d9-5027631efd39.pdf",
+    "MORE": "",
+    "HEADLINE": "as pdf attached",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/virtual-global-education-ltd/virtualg/534741/",
+    "SLONGNAME": "Virtual Global Education Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:16:46",
+    "DissemDT": "2026-10-21T22:16:51.327",
+    "TimeDiff": "00:00:05",
+    "Fld_Attachsize": 5248597,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "6",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 52,
+        "rows": [
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "CIN: L67120DL1993PLC052256",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Regd. Office::1108, 11th Floor,RG Trade Tower, Netaji Subhash Place, New Delhi-110034",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Email Id: cfovirtualgloabal@gmail.com, Website: www.virtualeducation.co.in, Ph: 011-41522143",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Particulars",
+            "col_3": "HALF YEAR ENDED 30.09.2026",
+            "col_4": "YEAR ENDED 31.03.2026"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "A",
+            "col_2": "ASSETS",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Non-current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Property, Plant & Equipment",
+            "col_3": "2 56.31",
+            "col_4": "258.85"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Capital Work-in-Progress",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Goodwill",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Other Intangible Assets",
+            "col_3": "1,117.32",
+            "col_4": "1,117.32"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(e)Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Investments",
+            "col_3": "4 0.01",
+            "col_4": "4 0.01"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Loans",
+            "col_3": "1,572.58",
+            "col_4": "1 ,662.04"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(f) Other Non current Assets",
+            "col_3": "1,998.87",
+            "col_4": "1,998.87"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(g) Deferred Tax Assets",
+            "col_3": "6 .97",
+            "col_4": "6 .97"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current assets",
+            "col_3": "4,992.06",
+            "col_4": "5 ,084.06"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Inventories",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Financial Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "1,750.38",
+            "col_4": "1 ,689.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Cash and Cash Equivalents",
+            "col_3": "9 .40",
+            "col_4": "42.47"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Bank Balances",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "B",
+            "col_2": "(iv) Trade Receivables",
+            "col_3": "1,516.17",
+            "col_4": "1,506.08"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "(v) Other Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other Current Assets",
+            "col_3": "9 9.78",
+            "col_4": "80.36"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current assets",
+            "col_3": "3,375.73",
+            "col_4": "3 ,318.55"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - ASSETS",
+            "col_3": "8,367.80",
+            "col_4": "8,402.61"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "B",
+            "col_2": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Equity",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Equity Share Capital",
+            "col_3": "5,661.64",
+            "col_4": "5,661.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Equity",
+            "col_3": "1,855.37",
+            "col_4": "1,845.40"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Equity",
+            "col_3": "7,517.00",
+            "col_4": "7,507.04"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Non-current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Financial Liabilities",
+            "col_3": "3 2.34",
+            "col_4": "32.34"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Non -Current Liabilities",
+            "col_3": "4 52.81",
+            "col_4": "458.38"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Deferred Tax Liabilities",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current liabilities",
+            "col_3": "4 85.15",
+            "col_4": "490.72"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "1 03.10",
+            "col_4": "142.77"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Trade Payables",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Provisions",
+            "col_3": "2 28.11",
+            "col_4": "228.71"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other current Liabilities",
+            "col_3": "3 4.43",
+            "col_4": "33.36"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Liabilities",
+            "col_3": "",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current liabilities",
+            "col_3": "3 65.64",
+            "col_4": "404.84"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - EQUITY AND LIABILITIES",
+            "col_3": "8,367.80",
+            "col_4": "8,402.61"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "For Virtual Global Education Limited Prem Gupta Place: New Delhi Director Date: 21.10.2026 DIN: 00180250",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Place: New Delhi Date: 21.10.2026",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 43,
+        "rows": [
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "CIN: L67120DL1993PLC052256",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Regd. Office::1108, 11th Floor,RG Trade Tower, Netaji Subhash Place, New Delhi-110034",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Email Id: cfovirtualglobal@gmail.com, Website: www.virtualeducation.co.in, Ph: 011-41522143",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Statement of Consolidated Un-audited Financial Results for the Quarter and Half year ended on 30th September 2026",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "(in Lakhs)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "S. No.",
+            "col_2": "Particulars",
+            "col_3": "Quarter Ended",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Half year ended",
+            "col_7": "",
+            "col_8": "Year ended"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "30-Sep-26",
+            "col_4": "30-Jun-26",
+            "col_5": "30-Sep-25",
+            "col_6": "30-Sep-26",
+            "col_7": "30-Sep-25",
+            "col_8": "31-Mar-26"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "Un-Audited",
+            "col_4": "Un-Audited",
+            "col_5": "Un-Audited",
+            "col_6": "Un-Audited",
+            "col_7": "Un-Audited",
+            "col_8": "Audited"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "I",
+            "col_2": "Revenue from operations",
+            "col_3": "6 .89",
+            "col_4": "3.19",
+            "col_5": "-",
+            "col_6": "1 0.08",
+            "col_7": "-",
+            "col_8": "0.00"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "II",
+            "col_2": "Other Income",
+            "col_3": "1 7.94",
+            "col_4": "22.86",
+            "col_5": "1 8.41",
+            "col_6": "4 0.80",
+            "col_7": "37.96",
+            "col_8": "58.54"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "III",
+            "col_2": "Total Revenue from operations (net) (I+II)",
+            "col_3": "24.83",
+            "col_4": "26.05",
+            "col_5": "18.41",
+            "col_6": "5 0.88",
+            "col_7": "37.96",
+            "col_8": "58.54"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "IV",
+            "col_2": "Expenses",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Direct Cost of Service Rendered",
+            "col_3": "",
+            "col_4": "0.00",
+            "col_5": "-",
+            "col_6": "",
+            "col_7": "-",
+            "col_8": "0.00"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Purchases of Stock-in -Trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Changes in inventories of finished goods,work-in-progress and stock-in-trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Employee benefits expense",
+            "col_3": "13.92",
+            "col_4": "10.04",
+            "col_5": "1 4.68",
+            "col_6": "2 3.96",
+            "col_7": "22.27",
+            "col_8": "37.57"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(e) Finance Costs",
+            "col_3": "",
+            "col_4": "0.00",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "0.00"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(f) Depreciation and amortisation expense",
+            "col_3": "1.52",
+            "col_4": "1.50",
+            "col_5": "2 .01",
+            "col_6": "3.02",
+            "col_7": "3.28",
+            "col_8": "7.29"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(g) Other expenses",
+            "col_3": "6.45",
+            "col_4": "7.51",
+            "col_5": "1 7.38",
+            "col_6": "1 3.96",
+            "col_7": "27.80",
+            "col_8": "47.07"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Total Expenses",
+            "col_3": "2 1.89",
+            "col_4": "19.05",
+            "col_5": "34.07",
+            "col_6": "40.94",
+            "col_7": "53.35",
+            "col_8": "91.93"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "V",
+            "col_2": "Profit/ (Loss) Before Exceptional and Extraordinary Items and Tax (III-IV)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.39)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "VI",
+            "col_2": "Exceptional Items",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "VII",
+            "col_2": "Profit/ (Loss) before extraordinary items and Tax (V-VI)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.39)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "VIII",
+            "col_2": "Extraordinary items",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "IX",
+            "col_2": "Profit/ (Loss) before Tax (VII-VIII)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.39)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "X",
+            "col_2": "Tax Expenses",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "- Current Tax",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "- Deferred Tax",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "0 .50"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XI",
+            "col_2": "Profit/ (Loss) for the period from continuing operations (IX-X)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "(15.65)",
+            "col_6": "9.94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.89)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XII",
+            "col_2": "Net Profit/ (Loss) from discontinuing operation (before Tax)",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XIII",
+            "col_2": "Tax Expense of discontinuing operations",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XIV",
+            "col_2": "Net Profit/ (Loss) from discontinuing operation after Tax (XII-XIII)",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XV",
+            "col_2": "Net Profit/ (Loss) for the Period (XI+XIV)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.89)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XVI",
+            "col_2": "Share of profit / (loss) of associates",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XVII",
+            "col_2": "Share of profit / (loss) of Minority Interest",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "(0.06)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XVIII",
+            "col_2": "Net Profit/ (Loss) after taxes,minority interest and share of profit/(loss) of associates",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.84)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XIX",
+            "col_2": "Other Comprehensive Income",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XX",
+            "col_2": "Total Comprehensive Income for the period (XVIII+XIX)",
+            "col_3": "2.94",
+            "col_4": "7.00",
+            "col_5": "( 15.65)",
+            "col_6": "9 .94",
+            "col_7": "( 15.39)",
+            "col_8": "(33.84)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XXI",
+            "col_2": "Paid-up equity share capital (Face value of Rs.1/- per share)",
+            "col_3": "5,661.64",
+            "col_4": "5,661.64",
+            "col_5": "4,236.64",
+            "col_6": "5,661.64",
+            "col_7": "4,236.64",
+            "col_8": "5 ,661.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XXII",
+            "col_2": "Reserves excluding Revaluation Reserves as per balance sheet of previous accounting year",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "XXIII",
+            "col_2": "Earning Per Share (of Rs. 1/- each) (not annualised) A) Basic B) Diluted",
+            "col_3": "0 . 0 0 1",
+            "col_4": "0 . 0 0 1",
+            "col_5": "( 0.004)",
+            "col_6": "0 .002",
+            "col_7": "( 0.004)",
+            "col_8": "( 0.006)"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Notes: 1 The Un-audited Financial Results of the Company has been prepared in accordance with the Indian Accounting Standard (IND-AS) prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder. 2 The above Un-audited Financial Results were subjected to limited review by the Statutory Auditors of the Company, reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on October 21,2026. There are no qualifications in the report issued by the Auditors and the same is being filed with the Bombay Stock Exchange Limited (BSE). 3 As the Company is mainly operating in one reportable business segment, hence the disclosure requirements of Indian Accounting Standard (Ind AS-108) \"Operating Segment\" is not applicable. 4 The Previous Quarter ended figures have been re-grouped/ re-arranged, whenever necessary. 5 This statement is as per Regulation 33 of the SEBI(Listing Obligation and Disclosure Requirements) Regulations, 2015 6 Provision for Income Tax shall be made at the end of the year. For Virtual Global Education Limited Place: New Delhi Prem Gupta Date: 21.10.2026 Director DIN:00180250",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "Director DIN:00180250",
+            "col_8": ""
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 51,
+        "rows": [
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "CIN: L67120DL1993PLC052256",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Regd. Office::1108, 11th Floor,RG Trade Tower, Netaji Subhash Place, New Delhi-110034",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "Email Id: cfovirtualglobal@gmail.com, Website: www.virtualeducation.co.in, Ph: 011-41522143",
+            "col_2": "",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Particulars",
+            "col_3": "HALF YEAR ENDED 30.09.2026",
+            "col_4": "YEAR ENDED 31.03.2026"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "A",
+            "col_2": "ASSETS",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Non-current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Property, Plant & Equipment",
+            "col_3": "256.31",
+            "col_4": "2 58.85"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Capital Work-in-Progress",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Goodwill",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Other Intangible Assets",
+            "col_3": "1,119.82",
+            "col_4": "1 ,119.82"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(e)Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Investments",
+            "col_3": "39.50",
+            "col_4": "39.50"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Loans",
+            "col_3": "1,572.58",
+            "col_4": "1 ,662.04"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(f) Other Non current Assets",
+            "col_3": "1,998.87",
+            "col_4": "1 ,998.87"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(g) Deferred Tax Assets",
+            "col_3": "6 .97",
+            "col_4": "6 .97"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current assets",
+            "col_3": "4 ,994.05",
+            "col_4": "5 ,086.05"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Current assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Inventories",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Financial Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "1,750.38",
+            "col_4": "1 ,689.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Cash and Cash Equivalents",
+            "col_3": "9.50",
+            "col_4": "42.58"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Bank Balances",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iv) Trade Receivables",
+            "col_3": "1,516.99",
+            "col_4": "1 ,506.90"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(v) Short term loans and Advances",
+            "col_3": "-",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other Current Assets",
+            "col_3": "99.78",
+            "col_4": "80.36"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current assets",
+            "col_3": "3 ,376.66",
+            "col_4": "3 ,319.48"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - ASSETS",
+            "col_3": "8,370.71",
+            "col_4": "8 ,405.53"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "B",
+            "col_2": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "1",
+            "col_2": "Equity",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Equity Share Capital",
+            "col_3": "5,661.64",
+            "col_4": "5 ,661.64"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Equity",
+            "col_3": "1,853.66",
+            "col_4": "1,843.71"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) NCI",
+            "col_3": "1.47",
+            "col_4": "1.47"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Equity",
+            "col_3": "7,516.77",
+            "col_4": "7 ,506.82"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "2",
+            "col_2": "Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Non-current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a) Financial Liabilities",
+            "col_3": "33.94",
+            "col_4": "33.94"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Other Non - Current Liabilities",
+            "col_3": "452.81",
+            "col_4": "4 58.38"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Deferred Tax Liabilities",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Non-current liabilities",
+            "col_3": "486.75",
+            "col_4": "4 92.32"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(a)Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(i) Loans",
+            "col_3": "103.10",
+            "col_4": "1 42.77"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(ii) Trade Payables",
+            "col_3": "1 .55",
+            "col_4": "1.25"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(iii) Other Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(b) Provisions",
+            "col_3": "228.11",
+            "col_4": "2 28.75"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(c) Other current Liabilities",
+            "col_3": "34.43",
+            "col_4": "33.62"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "(d) Current Tax Liabilities",
+            "col_3": "",
+            "col_4": "-"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "Sub-total - Current liabilities",
+            "col_3": "367.19",
+            "col_4": "4 06.39"
+          },
+          {
+            "VIRTUAL GLOBAL EDUCATION LIMITED": "",
+            "col_2": "TOTAL - EQUITY AND LIABILITIES",
+            "col_3": "C",
+            "col_4": "8 ,405.53"
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "S. No.": "A",
+            "Name of the Proposed Allottees": "Promoter/Promoter Group",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": ""
+          },
+          {
+            "S. No.": "1",
+            "Name of the Proposed Allottees": "SHREE ASSETS RECONSTRUCTION LIMITED",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "10,00,00,000"
+          },
+          {
+            "S. No.": "Total (A)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "10,00,00,000"
+          },
+          {
+            "S. No.": "B",
+            "Name of the Proposed Allottees": "Non-Promoter, Public Category",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": ""
+          },
+          {
+            "S. No.": "1",
+            "Name of the Proposed Allottees": "PAWAN KUMAR BASUDEV AGARWAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "80,00,000"
+          },
+          {
+            "S. No.": "2",
+            "Name of the Proposed Allottees": "PAWAN KUMAR BASUDEV AGARWAL (HUF)",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,00,00,000"
+          },
+          {
+            "S. No.": "3",
+            "Name of the Proposed Allottees": "KALPANA PAWAN KUMAR AGARWAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "75,00,000"
+          },
+          {
+            "S. No.": "4",
+            "Name of the Proposed Allottees": "SHREE DURGA CAPITAL LTD.",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,20,00,000"
+          },
+          {
+            "S. No.": "5",
+            "Name of the Proposed Allottees": "SAROJ GOYAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "6",
+            "Name of the Proposed Allottees": "RAM GOPAL GOYAL",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "7",
+            "Name of the Proposed Allottees": "SUCHIT JAYRAJ SHAH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "1,00,00,000"
+          },
+          {
+            "S. No.": "8",
+            "Name of the Proposed Allottees": "MAMTA SUCHIT SHAH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "85,00,000"
+          },
+          {
+            "S. No.": "9",
+            "Name of the Proposed Allottees": "ADITI SINGH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "50,00,000"
+          },
+          {
+            "S. No.": "10",
+            "Name of the Proposed Allottees": "ANKIT SINGH",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "25,00,000"
+          },
+          {
+            "S. No.": "11",
+            "Name of the Proposed Allottees": "GAJANAND GUPTA",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "12",
+            "Name of the Proposed Allottees": "ANITA GUPTA",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "4,25,00,000"
+          },
+          {
+            "S. No.": "13",
+            "Name of the Proposed Allottees": "GREEN OPEN TECHNOLOGIES PRIVATE LIMITED",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "8,65,00,000"
+          },
+          {
+            "S. No.": "Total (B)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "32,00,00,000"
+          },
+          {
+            "S. No.": "Grand Total (A+B)",
+            "Name of the Proposed Allottees": "",
+            "Warrants to be allotted on Preferential basis Maximum Quantity for the respective allottee": "42,00,00,000"
+          }
+        ]
+      },
+      {
+        "page": 20,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "S. No.": "1",
+            "Particulars": "Type of securities proposed to be Issued",
+            "Disclosures": "Fully Convertible Warrants ('Warrants')"
+          },
+          {
+            "S. No.": "2",
+            "Particulars": "Type of issuance",
+            "Disclosures": "Preferential Allotment"
+          },
+          {
+            "S. No.": "3",
+            "Particulars": "Total number of securities proposed to be issued or total amount for which the securities will be issued",
+            "Disclosures": "Up to 42,00,00,000 (Forty-Two Crore Only) Fully convertible warrants at an issue price of Re. 1/- (Rupee One Only) each to the proposed allottees, belonging to the “Promoter/Promoter Group” and “Non-Promoter, Public Category’, for an aggregate amount of Rs. 42,00,00,000/- (Rupees Forty-Two Crore Only)"
+          },
+          {
+            "S. No.": "4",
+            "Particulars": "Name and number of the Investor(s)",
+            "Disclosures": "As per the list attached as Annexure-IV"
+          },
+          {
+            "S. No.": "5",
+            "Particulars": "Issue price",
+            "Disclosures": "Re. 1/- (Rupee One Only) Per Warrant"
+          },
+          {
+            "S. No.": "6",
+            "Particulars": "post allotment of securities - outcome of the subscription,",
+            "Disclosures": "Category Pre preferential issue Post preferential issue presuming full conversion No of fully paid % No of fully % -up Shares paid-up Shares Promoters and 4,66,06,012 8.23 14,66,06,012 14.87 Promoter Group (A) Public (B) 51,95,57,686 91.77 83,95,57,686 85.13 Total (A) + (B) 56,61,63,698 100.00 98,61,63,698 100.00"
+          },
+          {
+            "S. No.": "7",
+            "Particulars": "in case of convertibles - intimation on conversion of securities or on lapse of the tenure of the instrument",
+            "Disclosures": "The tenure of the warrants shall not exceed 18 (eighteen) months from the date of allotment. Each warrant shall carry a right to subscribe 1 (one) Equity Share per warrant, which may be exercised in one or more tranches during the period commencing from allotment of warrants until the expiry of 18(eighteen) months from the date of allotment of the warrants. In the event that, a warrant holder does not exercise the warrants within a period of 18 (Eighteen) months from the date of allotment of Such warrants, the unexercised warrants shall lapse and the amount paid by the warrants holders on such warrants shall stand forfeited by the Company."
+          },
+          {
+            "S. No.": "8",
+            "Particulars": "Nature of Consideration",
+            "Disclosures": "Cash"
+          },
+          {
+            "S. No.": "9",
+            "Particulars": "Any cancellation or termination of proposal for issuance of securities including reasons thereof.",
+            "Disclosures": "Not Applicable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "35238183-70f4-4ca9-854c-5ea2a3695cb4",
+    "SCRIP_CD": 523704,
+    "XML_NAME": "ANN_523704_35238183-70F4-4CA9-854C-5EA2A3695CB4",
+    "NEWSSUB": "Mastek Ltd - 523704 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-21T22:13:59.02",
+    "NEWS_DT": "2026-10-21T22:13:59.02",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c09c52dc-f69c-44e3-81cd-c3b50f27af48.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Schedule of Analyst/Institutional Investor Meetings - Non-Deal Roadshow",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mastek-ltd/mastek/523704/",
+    "SLONGNAME": "Mastek Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:13:58",
+    "DissemDT": "2026-10-21T22:13:59.02",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 253712,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "35238183-70f4-4ca9-854c-5ea2a3695cb4",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14616628,
+    "DataInsDate": "2026-10-21T22:13:58.99",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c130992f-8fce-4a55-893b-d3744a759903",
+    "SCRIP_CD": 509692,
+    "XML_NAME": "ANN_509692_C130992F-8FCE-4A55-893B-D3744A759903",
+    "NEWSSUB": "Indian Card Clothing Company Ltd - 509692 - Clarification In Respect Of Outcome Of The Board Meeting Submitted To The Stock Exchange(S) On October 20, 2026",
+    "DT_TM": "2026-10-21T22:12:04.677",
+    "NEWS_DT": "2026-10-21T22:12:04.677",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "277b0e61-8177-427f-89dc-42e934e0d6f4.pdf",
+    "MORE": "",
+    "HEADLINE": "Clarification in respect of outcome of the Board Meeting submitted to the Stock Exchange(s) on October 20, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/indian-card-clothing-company-ltd/indiancard/509692/",
+    "SLONGNAME": "Indian Card Clothing Company Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:12:04",
+    "DissemDT": "2026-10-21T22:12:04.677",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3247925,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "177dc123-1067-4659-b696-2500c581497a",
+    "SCRIP_CD": 544720,
+    "XML_NAME": "ANN_544720_177DC123-1067-4659-B696-2500C581497A",
+    "NEWSSUB": "Omnitech Engineering Ltd - 544720 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-21T22:08:21.68",
+    "NEWS_DT": "2026-10-21T22:08:21.68",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d9d69e8b-c0c3-44b6-b2eb-6ef1da428868.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed Press Release titled : Omnitech Engineering strengthens Aerospace & Defence manufacturing portfolio with new Commercial orders",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/omnitech-engineering-ltd/omni/544720/",
+    "SLONGNAME": "Omnitech Engineering Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:08:21",
+    "DissemDT": "2026-10-21T22:08:21.68",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3345502,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": ""
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "857494aa-79ae-46aa-981b-6b5c662baf74",
+    "SCRIP_CD": 543899,
+    "XML_NAME": "ANN_543899_857494AA-79AE-46AA-981B-6B5C662BAF74",
+    "NEWSSUB": "Cube Highways Trust - 543899 - Reg 23(5)(i): Disclosure of material issue",
+    "DT_TM": "2026-10-21T22:07:11.3",
+    "NEWS_DT": "2026-10-21T22:07:11.3",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "73ba973c-72bc-4582-a463-cddbb1d8b143.pdf",
+    "MORE": "",
+    "HEADLINE": "Cube Highways Trust has informed the Exchange regarding Disclosure of material issue",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/cube-highways-trust/cubeinvit/543899/",
+    "SLONGNAME": "Cube Highways Trust",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 16,
+    "News_submission_dt": "2026-10-21T22:07:11",
+    "DissemDT": "2026-10-21T22:07:11.3",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 417680,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "af6c34de-a610-46e3-9765-747174e57130",
     "SCRIP_CD": 531330,
     "XML_NAME": "ANN_531330_AF6C34DE-A610-46E3-9765-747174E57130",
@@ -6373,383 +9346,6 @@
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
     "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "915709d7-4cc0-4910-8cb2-d066a6f47e63",
-    "SCRIP_CD": 544826,
-    "XML_NAME": "ANN_544826_915709D7-4CC0-4910-8CB2-D066A6F47E63",
-    "NEWSSUB": "Millworks Technologies Ltd - 544826 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-21T19:22:21.333",
-    "NEWS_DT": "2026-10-21T19:22:21.333",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8309fc19-4115-4b2f-b968-20264c1d1fc9.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find attached Press Release titled \"Millworks Technologies secures HAL orders and signs MoU with TridenTech for UAV engines\".",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/millworks-technologies-ltd/millworks/544826/",
-    "SLONGNAME": "Millworks Technologies Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:22:21",
-    "DissemDT": "2026-10-21T19:22:21.333",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1260999,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "153.40 crore",
-      "net_profit": "37.06 crore",
-      "operating_profit": "56.65 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "18872731-78c7-4e80-a76b-f6c9ce0f01f2",
-    "SCRIP_CD": 542772,
-    "XML_NAME": "ANN_542772_18872731-78C7-4E80-A76B-F6C9CE0F01F2",
-    "NEWSSUB": "360 ONE WAM LTD - 542772 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-10-21T19:22:10.29",
-    "NEWS_DT": "2026-10-21T19:22:10.29",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8f2076b5-bfcf-41d6-a215-abae55aacba1.pdf",
-    "MORE": "",
-    "HEADLINE": "360 ONE WAM LIMITED has informed the Exchange about Transcript of Earnings Call held on October 15, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/360-one-wam-ltd/360one/542772/",
-    "SLONGNAME": "360 ONE WAM LTD",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:22:10",
-    "DissemDT": "2026-10-21T19:22:10.29",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 710549,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "total_equity": "",
-      "dividend": "7.5 per\nshare",
-      "roe": "16.9",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "05a76733-e43d-462b-bcd7-e6911a620c62",
-    "SCRIP_CD": 544829,
-    "XML_NAME": "ANN_544829_05A76733-E43D-462B-BCD7-E6911A620C62",
-    "NEWSSUB": "SBI Funds Management Ltd - 544829 - Announcement under Regulation 31A (LODR)-(8)(a) Receipt of request",
-    "DT_TM": "2026-10-21T19:21:40.57",
-    "NEWS_DT": "2026-10-21T19:21:40.57",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1b4706f8-2fa4-4172-93e3-0ec66b6f9375.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of request received for re-classification",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sbi-funds-management-ltd/sbifunds/544829/",
-    "SLONGNAME": "SBI Funds Management Ltd",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:21:40",
-    "DissemDT": "2026-10-21T19:21:40.57",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 323027,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6b155224-e7a5-488c-bd5e-c02b7e0da745",
-    "SCRIP_CD": 544339,
-    "XML_NAME": "ANN_544339_6B155224-E7A5-488C-BD5E-C02B7E0DA745",
-    "NEWSSUB": "Laxmi Dental Ltd - 544339 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
-    "DT_TM": "2026-10-21T19:21:05.907",
-    "NEWS_DT": "2026-10-21T19:21:05.907",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cabdce21-611d-45ec-99ad-8fd08d0ac5bd.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/laxmi-dental-ltd/laxmidentl/544339/",
-    "SLONGNAME": "Laxmi Dental Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:21:05",
-    "DissemDT": "2026-10-21T19:21:05.907",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 641380,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5f00980e-357d-40e2-a34d-2e8f104df277",
-    "SCRIP_CD": 533179,
-    "XML_NAME": "ANN_533179_5F00980E-357D-40E2-A34D-2E8F104DF277",
-    "NEWSSUB": "Persistent Systems Ltd - 533179 - Announcement under Regulation 30 (LODR)-Issue of Securities",
-    "DT_TM": "2026-10-21T19:21:01.967",
-    "NEWS_DT": "2026-10-21T19:21:01.967",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f7cde952-83d0-475d-b216-02af2204013a.pdf",
-    "MORE": "",
-    "HEADLINE": "The outcome of the Committee Meeting in relation to the QIP issue opening dated October 21, 2026, is as enclosed.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/persistent-systems-ltd/persistent/533179/",
-    "SLONGNAME": "Persistent Systems Ltd",
-    "AGENDA_ID": 132,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:21:01",
-    "DissemDT": "2026-10-21T19:21:01.967",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 212599,
-    "SUBCATNAME": "Issue of Securities",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5312f9b1-4e6d-4f74-bec5-315a193a0c17",
-    "SCRIP_CD": 500003,
-    "XML_NAME": "ANN_500003_5312F9B1-4E6D-4F74-BEC5-315A193A0C17",
-    "NEWSSUB": "Aegis Logistics Ltd - 500003 - Announcement under Regulation 30 (LODR)-Credit Rating",
-    "DT_TM": "2026-10-21T19:19:59.26",
-    "NEWS_DT": "2026-10-21T19:19:59.26",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "92f1d4e3-ddc2-4b00-8966-4e080f9ba8bf.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation is attached.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aegis-logistics-ltd/aegislog/500003/",
-    "SLONGNAME": "Aegis Logistics Ltd",
-    "AGENDA_ID": 46,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:19:59",
-    "DissemDT": "2026-10-21T19:19:59.26",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 279465,
-    "SUBCATNAME": "Credit Rating",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Date:** October 21 2026 – Aegis Logistics Ltd disclosed an update to its credit ratings under SEBI Regulation 30.  \n- **Ratings:** CARE Ratings placed the company’s **Long‑Term Bank Facilities** rating at **AA (RWD)** and put it on a rating watch with “developing implications,” while the **Short‑Term Bank Facilities** rating was **reaffirmed at A1+.**",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d479e319-6410-4ac5-90bf-fc8393402c03",
-    "SCRIP_CD": 543285,
-    "XML_NAME": "ANN_543285_D479E319-6410-4AC5-90BF-FC8393402C03",
-    "NEWSSUB": "Rajeshwari Cans Ltd - 543285 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "DT_TM": "2026-10-21T19:19:49.503",
-    "NEWS_DT": "2026-10-21T19:19:49.503",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9e1df00a-c082-4867-9e6d-8da5eee70f38.pdf",
-    "MORE": "",
-    "HEADLINE": "Compliance Under Regulation 74(5) of SEBI (DP) Regulations, 2018.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rajeshwari-cans-ltd/rcan/543285/",
-    "SLONGNAME": "Rajeshwari Cans Ltd",
-    "AGENDA_ID": 212,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:19:49",
-    "DissemDT": "2026-10-21T19:19:49.503",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 651311,
-    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a6ca0978-9be6-476e-8029-15ff26d45145",
-    "SCRIP_CD": 543374,
-    "XML_NAME": "ANN_543374_A6CA0978-9BE6-476E-8029-15FF26D45145",
-    "NEWSSUB": "Aditya Birla Sun Life AMC Ltd - 543374 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-10-21T19:18:51.587",
-    "NEWS_DT": "2026-10-21T19:18:51.587",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cae3046f-4487-4a55-833e-28becaf5bb34.pdf",
-    "MORE": "",
-    "HEADLINE": "Audio Recording of Earnings Conference Call for the quarter ended and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aditya-birla-sun-life-amc-ltd/abslamc/543374/",
-    "SLONGNAME": "Aditya Birla Sun Life AMC Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:18:51",
-    "DissemDT": "2026-10-21T19:18:51.587",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 341643,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "a6ca0978-9be6-476e-8029-15ff26d45145",
-    "INVESTOR_PRESENTATION": "3fe9e262-2644-417b-8204-670b37356ca8.zip",
-    "RECORDID": 14615993,
-    "DataInsDate": "2026-10-21T19:18:51.47",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/3fe9e262-2644-417b-8204-670b37356ca8.zip",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "998906f5-4298-4498-8977-a63f685ad332",
-    "SCRIP_CD": 533179,
-    "XML_NAME": "ANN_533179_998906F5-4298-4498-8977-A63F685AD332",
-    "NEWSSUB": "Persistent Systems Ltd - 533179 - Announcement under Regulation 30 (LODR)-Meeting Updates",
-    "DT_TM": "2026-10-21T19:17:49.4",
-    "NEWS_DT": "2026-10-21T19:17:49.4",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c4c190cd-e98b-41fe-add8-8a367bb3917b.pdf",
-    "MORE": "",
-    "HEADLINE": "The outcome of the Committee Meeting held on October 21, 2026, is as enclosed.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/persistent-systems-ltd/persistent/533179/",
-    "SLONGNAME": "Persistent Systems Ltd",
-    "AGENDA_ID": 133,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:17:49",
-    "DissemDT": "2026-10-21T19:17:49.4",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 212599,
-    "SUBCATNAME": "Meeting Updates",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "aab9b8d9-0a66-4336-8001-c59b7f6e0a70",
-    "SCRIP_CD": 543386,
-    "XML_NAME": "ANN_543386_AAB9B8D9-0A66-4336-8001-C59B7F6E0A70",
-    "NEWSSUB": "Fino Payments Bank Ltd - 543386 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-10-21T19:17:02.907",
-    "NEWS_DT": "2026-10-21T19:17:02.907",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a135fb04-41bb-4252-b95d-441585a47e97.pdf",
-    "MORE": "",
-    "HEADLINE": "Earnings Call for the quarter ended September 30, 2026, is scheduled to be held on October 30, 2026, at 4 P.M. (IST)",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/fino-payments-bank-ltd/finopb/543386/",
-    "SLONGNAME": "Fino Payments Bank Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-10-21T19:17:02",
-    "DissemDT": "2026-10-21T19:17:02.907",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 310519,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "aab9b8d9-0a66-4336-8001-c59b7f6e0a70",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14615991,
-    "DataInsDate": "2026-10-21T19:17:02.803",
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
