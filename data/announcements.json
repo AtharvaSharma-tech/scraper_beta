@@ -1,5 +1,474 @@
 [
   {
+    "NEWSID": "1b1c0abe-32a1-4f51-8622-f4c745b7b539",
+    "SCRIP_CD": 531279,
+    "XML_NAME": "ANN_531279_1B1C0ABE-32A1-4F51-8622-F4C745B7B539",
+    "NEWSSUB": "Trishakti Industries Ltd - 531279 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-23T09:59:18.173",
+    "NEWS_DT": "2026-10-23T09:59:18.173",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6ea19c94-0e9d-4200-8853-5e14ab879c42.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation - Q2FY27 & H1FY27.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/trishakti-industries-ltd/trishakt/531279/",
+    "SLONGNAME": "Trishakti Industries Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:59:18",
+    "DissemDT": "2026-10-23T09:59:18.173",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 25047913,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "33244",
+      "net_profit": "251.56",
+      "operating_profit": "60",
+      "total_assets": "14966.06",
+      "total_equity": "3638.43",
+      "total_debt": "2409.01",
+      "face_value": "2.00",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1f4389e1-43b0-4644-9cce-83e9384a87b9",
+    "SCRIP_CD": 500257,
+    "XML_NAME": "ANN_500257_1F4389E1-43B0-4644-9CCE-83E9384A87B9",
+    "NEWSSUB": "Lupin Ltd - 500257 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-23T09:59:02.183",
+    "NEWS_DT": "2026-10-23T09:59:02.183",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0e576a91-4bdc-4c68-b915-b363923bb983.pdf",
+    "MORE": "",
+    "HEADLINE": "Lupin Appoints Brian Savage as President, Chief Legal Officer.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/lupin-ltd/lupin/500257/",
+    "SLONGNAME": "Lupin Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:59:02",
+    "DissemDT": "2026-10-23T09:59:02.183",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1275629,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Oct 23 2026:** Lupin Ltd announced the appointment of **Brian Savage** as President, Chief Legal Officer, who will head the company’s global Legal, Compliance, and Intellectual Property Management Group from New Jersey.  \n\n- **Financial details:** The release contains **no monetary figures, financial metrics, or fiscal decisions**; it solely reports the executive appointment.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a87e6cbf-a3ea-4a9b-8ea9-35fa43629e28",
+    "SCRIP_CD": 501425,
+    "XML_NAME": "ANN_501425_A87E6CBF-A3EA-4A9B-8EA9-35FA43629E28",
+    "NEWSSUB": "The Bombay Burmah Trading Corporation Ltd - 501425 - Disclosures under Reg. 10(5) in respect of acquisition under Reg. 10(1)(a) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-10-23T09:56:25.71",
+    "NEWS_DT": "2026-10-23T09:56:25.71",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "A87E6CBF_A3EA_4A9B_8EA9_35FA43629E28_095620.pdf",
+    "MORE": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Nowrosjee Wadia & Sons Ltd",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, ....",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/the-bombay-burmah-trading-corporation-ltd/bbtc/501425/",
+    "SLONGNAME": "The Bombay Burmah Trading Corporation Ltd",
+    "AGENDA_ID": 53,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-10-23T09:56:25.71",
+    "TimeDiff": null,
+    "Fld_Attachsize": 2129079,
+    "SUBCATNAME": "Disclosures under Reg. 10(5) in respect of acquisition under Reg. 10(1)(a) of SEBI (SAST) Reg. 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c4b174f5-1cac-47b0-85af-66cfec505756",
+    "SCRIP_CD": 503804,
+    "XML_NAME": "ANN_503804_C4B174F5-1CAC-47B0-85AF-66CFEC505756",
+    "NEWSSUB": "Shri Dinesh Mills Ltd-$ - 503804 - Disclosures under Reg. 10(5) in respect of acquisition under Reg. 10(1)(a) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-10-23T09:54:55.693",
+    "NEWS_DT": "2026-10-23T09:54:55.693",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "C4B174F5_1CAC_47B0_85AF_66CFEC505756_095451.pdf",
+    "MORE": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Bharatbhai Patel",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 10(5) in respect of acquisition under Regulation 10(1)(a) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, ....",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shri-dinesh-mills-ltd/shridine/503804/",
+    "SLONGNAME": "Shri Dinesh Mills Ltd-$",
+    "AGENDA_ID": 53,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-10-23T09:54:55.693",
+    "TimeDiff": null,
+    "Fld_Attachsize": 471464,
+    "SUBCATNAME": "Disclosures under Reg. 10(5) in respect of acquisition under Reg. 10(1)(a) of SEBI (SAST) Reg. 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Share transfer details:** On or after 29 Oct 2026, a total of **1,363,245 shares (24.34% of Shri Dinesh Mills Ltd.’s capital)** will be moved among promoters/ immediate relatives as a **gift** (no cash consideration). The breakdown is 7,95,088 shares (14.20%), 54,554 shares (0.97%),",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 2,
+        "rows": [
+          {
+            "col_1": "",
+            "2.": "3.",
+            "Roopaben Bharatbhai Patel jointly with Bharatbhai Upendrabhai Patel": "Aditya Bharatbhai Patel jointly with Roopaben Bharatbhai Patel",
+            "54,554": "4,92,443",
+            "0.97": "8.79",
+            "-": "-",
+            "-_1": "-"
+          },
+          {
+            "col_1": "",
+            "2.": "4.",
+            "Roopaben Bharatbhai Patel jointly with Bharatbhai Upendrabhai Patel": "Jemika Karna Parikh jointly with Bharatbhai Upendrabhai Patel",
+            "54,554": "21,160",
+            "0.97": "0.38",
+            "-": "-",
+            "-_1": "-"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "6518ea44-1022-4c1d-9c7a-7d91c672717f",
+    "SCRIP_CD": 542752,
+    "XML_NAME": "ANN_542752_6518EA44-1022-4C1D-9C7A-7D91C672717F",
+    "NEWSSUB": "Affle 3I Ltd - 542752 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-10-23T09:53:44.65",
+    "NEWS_DT": "2026-10-23T09:53:44.65",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6518EA44_1022_4C1D_9C7A_7D91C672717F_095339.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Affle Holdings Pte Ltd",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/affle-3i-ltd/affle/542752/",
+    "SLONGNAME": "Affle 3I Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-10-23T09:53:44.65",
+    "TimeDiff": null,
+    "Fld_Attachsize": 1291506,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Share allotments:** Affle Holdings Pte. Ltd. received 1,704,324 equity shares on 19 Oct 2026 and 1,277,155 equity shares on 21 Oct 2026 (total 2,981,479 shares) under warrant exercises; the shares were pending credit to its demat account.  \n\n- **Resulting ownership:** The acquisition raised Affle Holdings’ voting‑shareholding in Affle 3I Ltd. from",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "495d387f-5f69-4348-a773-aad5da52443a",
+    "SCRIP_CD": 532407,
+    "XML_NAME": "ANN_532407_495D387F-5F69-4348-A773-AAD5DA52443A",
+    "NEWSSUB": "Moschip Technologies Ltd - 532407 - Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+    "DT_TM": "2026-10-23T09:51:25.963",
+    "NEWS_DT": "2026-10-23T09:51:25.963",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "495D387F_5F69_4348_A773_AAD5DA52443A_095114.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on October 22, 2026 for Mayuka Holdings Pvt Ltd",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/moschip-technologies-ltd/moschip/532407/",
+    "SLONGNAME": "Moschip Technologies Ltd",
+    "AGENDA_ID": 51,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-10-23T09:51:25.963",
+    "TimeDiff": null,
+    "Fld_Attachsize": 105719,
+    "SUBCATNAME": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "01fba773-406b-40ab-880d-0601e0fff5e6",
+    "SCRIP_CD": 530355,
+    "XML_NAME": "ANN_530355_01FBA773-406B-40AB-880D-0601E0FFF5E6",
+    "NEWSSUB": "Asian Energy Services Ltd - 530355 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Execution Of Revenue Sharing Contract For Contract Area GK/OSDSF/GKOSN/2025 Under DSF Bid Round-IV.",
+    "DT_TM": "2026-10-23T09:49:15.25",
+    "NEWS_DT": "2026-10-23T09:49:15.25",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5c106357-b38b-4d53-8741-1f86701375c6.pdf",
+    "MORE": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 - Execution of Revenue Sharing Contract for Contract Area GK/OSDSF/GKOSN/2025 Under DSF Bid Round - IV",
+    "HEADLINE": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 - Execution of Revenue Sharing Contract for Contract Area GK/OSDSF/GKOSN/2025 ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/asian-energy-services-ltd/asianene/530355/",
+    "SLONGNAME": "Asian Energy Services Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:49:15",
+    "DissemDT": "2026-10-23T09:49:15.25",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 715786,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Key dates & contractual milestones**:  \n  - The Revenue Sharing Contract (RSC) for Contract Area GK/OSDSF/GKOSN/2025 was signed on **22 Oct 2026** (following a Letter of Award dated **31 Aug 2026** and an earlier intimation on **1 Sep 2026**).  \n  - The National Company Law Tribunal approved the merger of Oilmax Energy Private Ltd. (OEPL) into Asian Energy Services Ltd. on **29 Sep 2026**, after which OEPL’s rights in the contract area will vest in Asian Energy Services, subject to required approvals.\n\n- **Ownership & operational details**:  \n  - OEPL",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3a442375-7233-4ddb-8204-15aecd9f92c0",
+    "SCRIP_CD": 538891,
+    "XML_NAME": "ANN_538891_3A442375-7233-4DDB-8204-15AECD9F92C0",
+    "NEWSSUB": "Magellanic Cloud Ltd - 538891 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-23T09:49:01.447",
+    "NEWS_DT": "2026-10-23T09:49:01.447",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1372691d-d95a-4e6a-9f06-380f7aa87f3b.pdf",
+    "MORE": "",
+    "HEADLINE": "Attached herewith the Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+    "SLONGNAME": "Magellanic Cloud Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:49:01",
+    "DissemDT": "2026-10-23T09:49:01.447",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 418221,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Contract award (Oct 23 2026):** Provigil Surveillance Ltd., a wholly‑owned subsidiary of Magellanic Cloud Ltd., received a Letter of Acceptance from Dedicated Freight Corridor Corporation of India Ltd. (DFCCIL) for CCTV surveillance solutions on the Western Dedicated Freight Corridor, valued at **₹3,16,00,452.60** (including duties and taxes) on a **five‑year OPEX model**.  \n\n- **Implementation timeline:** The scope includes supply, installation, testing, commissioning, integration of existing cameras, and centralized monitoring with video analytics; **installation and commissioning must be completed within 90 days** of the LOA, followed by five years of operation and maintenance.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "aaff0361-3892-4787-8514-ef0b0866f30a",
+    "SCRIP_CD": 505036,
+    "XML_NAME": "ANN_505036_AAFF0361-3892-4787-8514-EF0B0866F30A",
+    "NEWSSUB": "Automobile Corporation of Goa Ltd-$ - 505036 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-10-23T09:47:39.76",
+    "NEWS_DT": "2026-10-23T09:47:39.76",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1e14568c-fb3f-4a7a-8cf3-fda1be1d9bcf.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper announcement for Financial Results for Quarter and Half year ended 30th September 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/automobile-corporation-of-goa-ltd/acgl/505036/",
+    "SLONGNAME": "Automobile Corporation of Goa Ltd-$",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:47:39",
+    "DissemDT": "2026-10-23T09:47:39.76",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1135616,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement details:** Automobile Corporation of Goa Ltd. notified that its financial results for the quarter/half‑year ended 30 September 2026 were published in the *Financial Express* and *Dainik Pudhari* on 23 October 2026 (also posted on the company’s website).  \n- **Financial information:** The notice contains no specific financial figures, ratios, or monetary decisions—only the fact that the results have been released.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "513eb143-b054-4e83-8e1a-eb96f4113415",
+    "SCRIP_CD": 538891,
+    "XML_NAME": "ANN_538891_513EB143-B054-4E83-8E1A-EB96F4113415",
+    "NEWSSUB": "Magellanic Cloud Ltd - 538891 - Magellanic Cloud Limited'S Wholly Owned Subsidiary, Provigil Surveillance Limited, Receives Letter Of Acceptance Worth ?3,16,00,452.60 From Dedicated Freight Corridor Corporation Of India Limited (DFCCIL), Office Of CGM, Jaipur For CCTV Surveillance Solutions",
+    "DT_TM": "2026-10-23T09:41:31.103",
+    "NEWS_DT": "2026-10-23T09:41:31.103",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9b885a0a-9659-4f79-9071-6f624e34402a.pdf",
+    "MORE": "",
+    "HEADLINE": "Attached herewith the intimation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+    "SLONGNAME": "Magellanic Cloud Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:41:31",
+    "DissemDT": "2026-10-23T09:41:31.103",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 335669,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Contract award:** Provigil Surveillance Ltd., a wholly‑owned subsidiary of Magellanic Cloud Ltd., received a Letter of Acceptance from Dedicated Freight Corridor Corporation of India Ltd. (DFCCIL) for CCTV surveillance solutions valued at **₹3,16,00,452.60** (including duties and taxes) on an **OPEX model** for a **five‑year** term.  \n\n- **Implementation timeline:** The supply, installation, testing and commissioning of the system must be completed **within 90 days** of the LOA, after which Provigil will provide **operation and maintenance services for five years**. (Announcement dated **23 Oct 2026**.)",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c00a2b01-5802-4e2d-bddc-ce18700e8597",
+    "SCRIP_CD": 533106,
+    "XML_NAME": "ANN_533106_C00A2B01-5802-4E2D-BDDC-CE18700E8597",
+    "NEWSSUB": "Oil India Ltd - 533106 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-23T09:40:24.41",
+    "NEWS_DT": "2026-10-23T09:40:24.41",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ca599e26-3790-42aa-9d44-560af45fbc42.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release - Discovery of Natural Gas in the Shallow Offshore Block KG-DSF/GSKW/2018 of Krishna Godavari Basin by Oil India Limited",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oil-india-ltd/oil/533106/",
+    "SLONGNAME": "Oil India Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:40:24",
+    "DissemDT": "2026-10-23T09:40:24.41",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 660547,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Discovery & Production Test (Oct 2026):** Oil India Ltd drilled the appraisal well “Godavari‑1” in the shallow offshore KG‑DSF/GSKW/2018 block (Krishna‑Godavari Basin) and, starting 16 Oct 2026, recorded natural‑gas flow of roughly **1 lakh SCF per day (MMSCFD)**, peaking at **2 lakh SCF per day**; condensate production was about **170 bbl per day** (API 55.8) with well‑head pressure of **1,815 psi**.\n\n- **Operational Details:** Hydrocarbon presence was confirmed in the **2024‑2027 m** depth interval of the “Matsyapuri” formation; the well is the sole‑operator appraisal in the KG‑DSF/GSKW/2018 small‑field block, and testing of the next higher zone is being prepared. No financial figures or decisions were disclosed.",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "275af1a3-8aef-4dd7-ae46-b7ae8128376c",
+    "SCRIP_CD": 519602,
+    "XML_NAME": "ANN_519602_275AF1A3-8AEF-4DD7-AE46-B7AE8128376C",
+    "NEWSSUB": "Kellton Tech Solutions Ltd - 519602 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-23T09:35:32.307",
+    "NEWS_DT": "2026-10-23T09:35:32.307",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ac6c0eae-e616-48ef-b56f-66b49e4bcadd.pdf",
+    "MORE": "",
+    "HEADLINE": "Kellton Secures Centralised Digital Engineering with leading Middle East Airline",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kellton-tech-solutions-ltd/kelltontec/519602/",
+    "SLONGNAME": "Kellton Tech Solutions Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-23T09:35:32",
+    "DissemDT": "2026-10-23T09:35:32.307",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 532012,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **23 Oct 2026 – New Engagement:** Kellton Tech announced that it has secured a contract to assume end‑to‑end ownership of a centralized digital engineering function for a leading Middle‑East airline, aiming to unify engineering processes, SDLC practices and a scalable engineering model across the airline’s web and mobile ecosystem.  \n\n- **Company Scale (No Financial Figures Disclosed):** Kellton highlighted that it operates with **over 2,000 professionals** across North America, Europe, the Middle East and Asia. The announcement does **",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "ce68490c-fa2c-46f3-877b-bb1af7ed1e14",
     "SCRIP_CD": 531802,
     "XML_NAME": "ANN_531802_CE68490C-FA2C-46F3-877B-BB1AF7ED1E14",
@@ -9798,1521 +10267,6 @@
       "revenue": "",
       "currency_unit": "₹ in Lakhs"
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3c4e701a-e711-4f52-9db5-2ae8ef3bba71",
-    "SCRIP_CD": 513519,
-    "XML_NAME": "ANN_513519_3C4E701A-E711-4F52-9DB5-2AE8EF3BBA71",
-    "NEWSSUB": "Pitti Engineering Ltd-$ - 513519 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-22T20:24:41.59",
-    "NEWS_DT": "2026-10-22T20:24:41.59",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0f1e80ed-e3f9-4467-9482-633fb91e6b03.pdf",
-    "MORE": "",
-    "HEADLINE": "Press release on financial results Q2 & H1FY27",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pitti-engineering-ltd/pittieng/513519/",
-    "SLONGNAME": "Pitti Engineering Ltd-$",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:24:41",
-    "DissemDT": "2026-10-22T20:24:41.59",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3799441,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "12968da0-7682-4707-886e-84031765759f",
-    "SCRIP_CD": 531515,
-    "XML_NAME": "ANN_531515_12968DA0-7682-4707-886E-84031765759F",
-    "NEWSSUB": "Mahan Industries Ltd - 531515 - Board Meeting Outcome for Outcome Of Board Meeting Under Regulation 30 Of SEBI (LODR) Regulations, 2015",
-    "DT_TM": "2026-10-22T20:22:40.48",
-    "NEWS_DT": "2026-10-22T20:22:40.48",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "20124997-f19e-4a83-b73f-cdaab0790ddc.pdf",
-    "MORE": "",
-    "HEADLINE": "As per attachment",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mahan-industries-ltd/mahanin/531515/",
-    "SLONGNAME": "Mahan Industries Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:22:39",
-    "DissemDT": "2026-10-22T20:22:40.48",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 2350286,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fb6af358-43a3-4c11-9362-fb3be81d6a66",
-    "SCRIP_CD": 531515,
-    "XML_NAME": "ANN_531515_FB6AF358-43A3-4C11-9362-FB3BE81D6A66",
-    "NEWSSUB": "Mahan Industries Ltd - 531515 - Half Yearly Results Ended On 30.09.2026",
-    "DT_TM": "2026-10-22T20:20:56.59",
-    "NEWS_DT": "2026-10-22T20:20:56.59",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "25c47b53-27a0-401b-9d2d-223d3d862931.pdf",
-    "MORE": "",
-    "HEADLINE": "As per attachments",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mahan-industries-ltd/mahanin/531515/",
-    "SLONGNAME": "Mahan Industries Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:20:56",
-    "DissemDT": "2026-10-22T20:20:56.59",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2350286,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9f0aa406-03ba-4dca-a835-1242a6558c19",
-    "SCRIP_CD": 513519,
-    "XML_NAME": "ANN_513519_9F0AA406-03BA-4DCA-A835-1242A6558C19",
-    "NEWSSUB": "Pitti Engineering Ltd-$ - 513519 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-22T20:20:46.203",
-    "NEWS_DT": "2026-10-22T20:20:46.203",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7122b8e7-f5b6-4e2c-bfdd-b3ce9da902bc.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pitti-engineering-ltd/pittieng/513519/",
-    "SLONGNAME": "Pitti Engineering Ltd-$",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:20:46",
-    "DissemDT": "2026-10-22T20:20:46.203",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5218592,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "15.3",
-      "operating_profit": "91.3",
-      "total_assets": "2247.0",
-      "total_equity": "911.7",
-      "total_debt": "372.5",
-      "roce": "22.2",
-      "roe": "22.2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 25,
-        "rows": [
-          {
-            "Profit and Loss (Rs. Crs)": "Revenuefrom Operations",
-            "Q2FY27": "578.4",
-            "Q2FY26": "477.7",
-            "Y-o-Y": "21.1%",
-            "H1FY27": "1,107.5",
-            "H1FY26": "934.3",
-            "Y-o-Y_1": "18.5%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Other Income",
-            "Q2FY27": "2.1",
-            "Q2FY26": "21.3",
-            "Y-o-Y": "",
-            "H1FY27": "3.0",
-            "H1FY26": "28.7",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Total Income",
-            "Q2FY27": "580.5",
-            "Q2FY26": "499.1",
-            "Y-o-Y": "16.3%",
-            "H1FY27": "1,110.5",
-            "H1FY26": "963.0",
-            "Y-o-Y_1": "15.3%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Cost of goods sold",
-            "Q2FY27": "354.1",
-            "Q2FY26": "289.7",
-            "Y-o-Y": "",
-            "H1FY27": "675.0",
-            "H1FY26": "567.6",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Gross Profit*",
-            "Q2FY27": "224.3",
-            "Q2FY26": "188.0",
-            "Y-o-Y": "19.3%",
-            "H1FY27": "432.6",
-            "H1FY26": "366.7",
-            "Y-o-Y_1": "18.0%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Gross Profit Margin*",
-            "Q2FY27": "38.8%",
-            "Q2FY26": "39.4%",
-            "Y-o-Y": "",
-            "H1FY27": "39.1%",
-            "H1FY26": "39.2%",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Employee Cost (excluding ESOP cost)",
-            "Q2FY27": "47.2",
-            "Q2FY26": "37.0",
-            "Y-o-Y": "",
-            "H1FY27": "90.8",
-            "H1FY26": "76.6",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Other Expenses",
-            "Q2FY27": "85.8",
-            "Q2FY26": "70.6",
-            "Y-o-Y": "",
-            "H1FY27": "161.7",
-            "H1FY26": "131.6",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted EBITDA*",
-            "Q2FY27": "91.3",
-            "Q2FY26": "80.4",
-            "Y-o-Y": "13.6%",
-            "H1FY27": "180.1",
-            "H1FY26": "158.5",
-            "Y-o-Y_1": "13.6%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted EBITDA Margin*",
-            "Q2FY27": "15.8%",
-            "Q2FY26": "16.8%",
-            "Y-o-Y": "",
-            "H1FY27": "16.3%",
-            "H1FY26": "17.0%",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Impact of ESOP Cost",
-            "Q2FY27": "2.5",
-            "Q2FY26": "2.7",
-            "Y-o-Y": "",
-            "H1FY27": "4.8",
-            "H1FY26": "5.5",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Reported EBITDA*",
-            "Q2FY27": "88.9",
-            "Q2FY26": "77.7",
-            "Y-o-Y": "14.5%",
-            "H1FY27": "175.3",
-            "H1FY26": "153.0",
-            "Y-o-Y_1": "14.6%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Reported EBITDA Margin*",
-            "Q2FY27": "15.4%",
-            "Q2FY26": "16.3%",
-            "Y-o-Y": "",
-            "H1FY27": "15.8%",
-            "H1FY26": "16.4%",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Depreciation",
-            "Q2FY27": "29.4",
-            "Q2FY26": "25.8",
-            "Y-o-Y": "",
-            "H1FY27": "57.8",
-            "H1FY26": "51.4",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "EBIT",
-            "Q2FY27": "61.6",
-            "Q2FY26": "73.2",
-            "Y-o-Y": "-15.9%",
-            "H1FY27": "120.4",
-            "H1FY26": "130.3",
-            "Y-o-Y_1": "-7.6%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "EBIT Margin",
-            "Q2FY27": "10.7%",
-            "Q2FY26": "15.3%",
-            "Y-o-Y": "",
-            "H1FY27": "10.9%",
-            "H1FY26": "14.0%",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Finance Cost (excl FX loss)",
-            "Q2FY27": "18.2",
-            "Q2FY26": "18.4",
-            "Y-o-Y": "",
-            "H1FY27": "37.7",
-            "H1FY26": "36.4",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "FX loss / (Gain)",
-            "Q2FY27": "-1.8",
-            "Q2FY26": "1.0",
-            "Y-o-Y": "",
-            "H1FY27": "1.3",
-            "H1FY26": "3.6",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Profit before Tax",
-            "Q2FY27": "45.3",
-            "Q2FY26": "53.9",
-            "Y-o-Y": "-15.9%",
-            "H1FY27": "81.5",
-            "H1FY26": "90.4",
-            "Y-o-Y_1": "-9.9%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Profit before Tax*",
-            "Q2FY27": "7.8%",
-            "Q2FY26": "11.3%",
-            "Y-o-Y": "",
-            "H1FY27": "7.4%",
-            "H1FY26": "9.7%",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Tax",
-            "Q2FY27": "11.4",
-            "Q2FY26": "13.8",
-            "Y-o-Y": "",
-            "H1FY27": "18.1",
-            "H1FY26": "27.4",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Profit After Tax",
-            "Q2FY27": "33.9",
-            "Q2FY26": "40.1",
-            "Y-o-Y": "-15.3%",
-            "H1FY27": "63.4",
-            "H1FY26": "63.0",
-            "Y-o-Y_1": "0.7%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Add: ESOP cost#",
-            "Q2FY27": "2.5",
-            "Q2FY26": "2.7",
-            "Y-o-Y": "",
-            "H1FY27": "4.8",
-            "H1FY26": "5.5",
-            "Y-o-Y_1": ""
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted Profit After Tax",
-            "Q2FY27": "36.3",
-            "Q2FY26": "42.8",
-            "Y-o-Y": "-15.1%",
-            "H1FY27": "68.2",
-            "H1FY26": "68.5",
-            "Y-o-Y_1": "-0.4%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted Profit After Tax Margin",
-            "Q2FY27": "6.3%",
-            "Q2FY26": "9.0%",
-            "Y-o-Y": "",
-            "H1FY27": "6.2%",
-            "H1FY26": "7.3%",
-            "Y-o-Y_1": ""
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 18,
-        "rows": [
-          {
-            "Assets (in Rs. Crs)": "Non - Current Assets",
-            "Sep-26": "1,300.7",
-            "Mar-26": "1,096.4"
-          },
-          {
-            "Assets (in Rs. Crs)": "Property, plant and equipment",
-            "Sep-26": "967.9",
-            "Mar-26": "881.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Capital work-in-progress",
-            "Sep-26": "120.3",
-            "Mar-26": "49.8"
-          },
-          {
-            "Assets (in Rs. Crs)": "Right-of-use assets",
-            "Sep-26": "105.8",
-            "Mar-26": "129.0"
-          },
-          {
-            "Assets (in Rs. Crs)": "Intangible assets",
-            "Sep-26": "5.2",
-            "Mar-26": "5.8"
-          },
-          {
-            "Assets (in Rs. Crs)": "Financial Assets",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Assets (in Rs. Crs)": "Investments",
-            "Sep-26": "0.1",
-            "Mar-26": "0.1"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other Financial Assets",
-            "Sep-26": "3.2",
-            "Mar-26": "1.8"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other non-current assets",
-            "Sep-26": "98.1",
-            "Mar-26": "27.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Current Assets",
-            "Sep-26": "946.4",
-            "Mar-26": "905.3"
-          },
-          {
-            "Assets (in Rs. Crs)": "Inventories",
-            "Sep-26": "478.7",
-            "Mar-26": "394.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Financial Assets",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Assets (in Rs. Crs)": "(i)Trade receivables",
-            "Sep-26": "216.9",
-            "Mar-26": "206.3"
-          },
-          {
-            "Assets (in Rs. Crs)": "(ii)Cash and cash equivalents",
-            "Sep-26": "59.1",
-            "Mar-26": "119.5"
-          },
-          {
-            "Assets (in Rs. Crs)": "(iii)Bank balances other than cash and cash equivalents",
-            "Sep-26": "42.7",
-            "Mar-26": "27.3"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other Financial Assets",
-            "Sep-26": "0.8",
-            "Mar-26": "4.6"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other Current Assets",
-            "Sep-26": "148.2",
-            "Mar-26": "152.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Total Assets",
-            "Sep-26": "2,247.0",
-            "Mar-26": "2,001.7"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 1,
-        "row_count": 19,
-        "rows": [
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Total Equity",
-            "Sep-26": "911.7",
-            "Mar-26": "850.8"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Share Capital",
-            "Sep-26": "18.8",
-            "Mar-26": "18.8"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Other Equity",
-            "Sep-26": "892.9",
-            "Mar-26": "832.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Non-Current Liabilities",
-            "Sep-26": "504.3",
-            "Mar-26": "505.4"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(i) Borrowings",
-            "Sep-26": "372.5",
-            "Mar-26": "380.8"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(ii) Lease Liabilities",
-            "Sep-26": "82.6",
-            "Mar-26": "77.2"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Provisions",
-            "Sep-26": "26.0",
-            "Mar-26": "23.8"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Deferred tax liabilities (net)",
-            "Sep-26": "23.3",
-            "Mar-26": "23.7"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Current Liabilities",
-            "Sep-26": "831.0",
-            "Mar-26": "645.4"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(i) Borrowings",
-            "Sep-26": "268.0",
-            "Mar-26": "318.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(ii) Trade Payables",
-            "Sep-26": "474.8",
-            "Mar-26": "243.3"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(iii) Lease Liability",
-            "Sep-26": "31.3",
-            "Mar-26": "34.5"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(iv) Other Financial Liabilities",
-            "Sep-26": "29.1",
-            "Mar-26": "24.6"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Other Current Liabilities",
-            "Sep-26": "14.0",
-            "Mar-26": "11.2"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Income tax liabilities (net)",
-            "Sep-26": "2.3",
-            "Mar-26": "5.5"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Provisions",
-            "Sep-26": "11.5",
-            "Mar-26": "8.4"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Total Equity & Liabilities",
-            "Sep-26": "2,247.0",
-            "Mar-26": "2,001.7"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars (Rs. Crs)": "Net Profit Before Tax",
-            "Sep-26": "81.5",
-            "Sep-25": "90.4"
-          },
-          {
-            "Particulars (Rs. Crs)": "Adjustments for: Non -Cash Items / Other Investment or Financial Items",
-            "Sep-26": "99.1",
-            "Sep-25": "101.4"
-          },
-          {
-            "Particulars (Rs. Crs)": "Operating profit before working capital changes",
-            "Sep-26": "180.6",
-            "Sep-25": "191.8"
-          },
-          {
-            "Particulars (Rs. Crs)": "Changes in working capital",
-            "Sep-26": "164.8",
-            "Sep-25": "-84.4"
-          },
-          {
-            "Particulars (Rs. Crs)": "Cash generated from Operations",
-            "Sep-26": "345.5",
-            "Sep-25": "107.5"
-          },
-          {
-            "Particulars (Rs. Crs)": "Direct taxes paid (net of refund)",
-            "Sep-26": "22.4",
-            "Sep-25": "12.1"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Cash from Operating Activities",
-            "Sep-26": "323.0",
-            "Sep-25": "95.4"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Cash from Investing Activities",
-            "Sep-26": "-263.2",
-            "Sep-25": "-93.8"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Cash from Financing Activities",
-            "Sep-26": "-120.2",
-            "Sep-25": "1.5"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Increase/(Decrease) in Cash and Cash equivalents",
-            "Sep-26": "-60.4",
-            "Sep-25": "3.0"
-          },
-          {
-            "Particulars (Rs. Crs)": "Add: Cash & Cash equivalents at the beginning of the period",
-            "Sep-26": "119.5",
-            "Sep-25": "98.7"
-          },
-          {
-            "Particulars (Rs. Crs)": "Cash & Cash equivalents at the end of the period",
-            "Sep-26": "59.1",
-            "Sep-25": "101.7"
-          }
-        ]
-      },
-      {
-        "page": 27,
-        "table_index": 0,
-        "row_count": 24,
-        "rows": [
-          {
-            "Profit and Loss (Rs. Crs)": "Revenuefrom Operations",
-            "FY26 (Restated)": "1,912.8",
-            "FY25": "1,704.6",
-            "FY24": "1,244.2",
-            "FY23": "1,100.2"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Other Income",
-            "FY26 (Restated)": "40.1",
-            "FY25": "38.8",
-            "FY24": "48.5",
-            "FY23": "17.9"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Total Income",
-            "FY26 (Restated)": "1,952.9",
-            "FY25": "1,743.36",
-            "FY24": "1,292.7",
-            "FY23": "1,118.1"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Cost of Goods Sold",
-            "FY26 (Restated)": "1,159.7",
-            "FY25": "1,016.5",
-            "FY24": "771.0",
-            "FY23": "782.3"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Gross Profit*",
-            "FY26 (Restated)": "753.1",
-            "FY25": "688.1",
-            "FY24": "473.2",
-            "FY23": "317.9"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Gross Profit Margin*",
-            "FY26 (Restated)": "39.4%",
-            "FY25": "40.4%",
-            "FY24": "38.0%",
-            "FY23": "28.9%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Employee Cost excluding ESOP Cost",
-            "FY26 (Restated)": "156.3",
-            "FY25": "140.2",
-            "FY24": "99.0",
-            "FY23": "59.7"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Other Expenses",
-            "FY26 (Restated)": "271.0",
-            "FY25": "276.2",
-            "FY24": "193.1",
-            "FY23": "106.9"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted EBITDA*",
-            "FY26 (Restated)": "325.8",
-            "FY25": "271.7",
-            "FY24": "181.1",
-            "FY23": "151.4"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted EBITDA Margin*",
-            "FY26 (Restated)": "17.0%",
-            "FY25": "15.9%",
-            "FY24": "14.6%",
-            "FY23": "13.8%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Impact of ESOP cost",
-            "FY26 (Restated)": "10.3",
-            "FY25": "0.6",
-            "FY24": "-",
-            "FY23": "-"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Reported EBITDA *",
-            "FY26 (Restated)": "315.5",
-            "FY25": "271.1",
-            "FY24": "181.1",
-            "FY23": "151.4"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Reported EBITDA Margin*",
-            "FY26 (Restated)": "16.5%",
-            "FY25": "15.9%",
-            "FY24": "14.6%",
-            "FY23": "13.8%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Depreciation",
-            "FY26 (Restated)": "104.7",
-            "FY25": "80.5",
-            "FY24": "58.7",
-            "FY23": "44.7"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "EBIT",
-            "FY26 (Restated)": "251.0",
-            "FY25": "229.4",
-            "FY24": "170.9",
-            "FY23": "124.6"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "EBIT Margin",
-            "FY26 (Restated)": "13.1%",
-            "FY25": "13.5%",
-            "FY24": "13.7%",
-            "FY23": "11.3%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Finance Cost",
-            "FY26 (Restated)": "83.4",
-            "FY25": "67.8",
-            "FY24": "51.5",
-            "FY23": "44.7"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Profit before Tax",
-            "FY26 (Restated)": "167.6",
-            "FY25": "161.6",
-            "FY24": "119.4",
-            "FY23": "79.9"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Profit before Tax Margin",
-            "FY26 (Restated)": "8.8%",
-            "FY25": "9.5%",
-            "FY24": "9.6%",
-            "FY23": "7.3%"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Tax",
-            "FY26 (Restated)": "49.8",
-            "FY25": "39.3",
-            "FY24": "29.7",
-            "FY23": "21.1"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Profit After Tax",
-            "FY26 (Restated)": "117.8",
-            "FY25": "122.3",
-            "FY24": "89.7",
-            "FY23": "58.8"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Add: ESOP cost",
-            "FY26 (Restated)": "10.3",
-            "FY25": "0.6",
-            "FY24": "-",
-            "FY23": "-"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted Profit After Tax",
-            "FY26 (Restated)": "128.1",
-            "FY25": "122.9",
-            "FY24": "89.7",
-            "FY23": "58.8"
-          },
-          {
-            "Profit and Loss (Rs. Crs)": "Adjusted Profit Tax Margin",
-            "FY26 (Restated)": "6.7%",
-            "FY25": "7.2%",
-            "FY24": "7.2%",
-            "FY23": "5.3%"
-          }
-        ]
-      },
-      {
-        "page": 28,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "Assets (in Rs. Crs)": "Non - Current Assets",
-            "Mar26 (Restated)": "1,096.4",
-            "Mar-25": "1,149.2",
-            "Mar-24": "657.0",
-            "Mar-23": "435.7"
-          },
-          {
-            "Assets (in Rs. Crs)": "Property, plant and equipment",
-            "Mar26 (Restated)": "881.9",
-            "Mar-25": "766.2",
-            "Mar-24": "371.8",
-            "Mar-23": "278.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Capital work-in-progress",
-            "Mar26 (Restated)": "49.8",
-            "Mar-25": "63.0",
-            "Mar-24": "122.2",
-            "Mar-23": "24.1"
-          },
-          {
-            "Assets (in Rs. Crs)": "Right-of-use assets",
-            "Mar26 (Restated)": "129.0",
-            "Mar-25": "116.8",
-            "Mar-24": "83.5",
-            "Mar-23": "74.3"
-          },
-          {
-            "Assets (in Rs. Crs)": "Investment Property",
-            "Mar26 (Restated)": "0.0",
-            "Mar-25": "0.0",
-            "Mar-24": "0.0",
-            "Mar-23": "1.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Goodwill",
-            "Mar26 (Restated)": "0.0",
-            "Mar-25": "136.1",
-            "Mar-24": "0.0",
-            "Mar-23": "0.0"
-          },
-          {
-            "Assets (in Rs. Crs)": "Intangible assets",
-            "Mar26 (Restated)": "5.8",
-            "Mar-25": "7.9",
-            "Mar-24": "9.3",
-            "Mar-23": "9.2"
-          },
-          {
-            "Assets (in Rs. Crs)": "Capital work-in-progress - Intangible",
-            "Mar26 (Restated)": "0.0",
-            "Mar-25": "0.1",
-            "Mar-24": "0.0",
-            "Mar-23": "0.0"
-          },
-          {
-            "Assets (in Rs. Crs)": "Financial Assets",
-            "Mar26 (Restated)": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Assets (in Rs. Crs)": "Investments",
-            "Mar26 (Restated)": "0.1",
-            "Mar-25": "0.0",
-            "Mar-24": "0.0",
-            "Mar-23": "15.1"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other Financial Assets",
-            "Mar26 (Restated)": "1.8",
-            "Mar-25": "17.3",
-            "Mar-24": "3.8",
-            "Mar-23": "8.5"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other non-current assets",
-            "Mar26 (Restated)": "27.9",
-            "Mar-25": "41.8",
-            "Mar-24": "66.4",
-            "Mar-23": "23.7"
-          },
-          {
-            "Assets (in Rs. Crs)": "Current Assets",
-            "Mar26 (Restated)": "905.3",
-            "Mar-25": "854.9",
-            "Mar-24": "734.1",
-            "Mar-23": "542.3"
-          },
-          {
-            "Assets (in Rs. Crs)": "Inventories",
-            "Mar26 (Restated)": "394.9",
-            "Mar-25": "329.1",
-            "Mar-24": "287.2",
-            "Mar-23": "239.3"
-          },
-          {
-            "Assets (in Rs. Crs)": "Financial Assets",
-            "Mar26 (Restated)": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Assets (in Rs. Crs)": "(i)Trade receivables*",
-            "Mar26 (Restated)": "206.3",
-            "Mar-25": "254.6",
-            "Mar-24": "214.2",
-            "Mar-23": "181.4"
-          },
-          {
-            "Assets (in Rs. Crs)": "(ii)Cash and cash equivalents",
-            "Mar26 (Restated)": "119.5",
-            "Mar-25": "98.7",
-            "Mar-24": "77.0",
-            "Mar-23": "39.7"
-          },
-          {
-            "Assets (in Rs. Crs)": "(iii)Bank balances",
-            "Mar26 (Restated)": "27.3",
-            "Mar-25": "41.8",
-            "Mar-24": "34.0",
-            "Mar-23": "25.5"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other Financial Assets*",
-            "Mar26 (Restated)": "4.6",
-            "Mar-25": "3.5",
-            "Mar-24": "1.4",
-            "Mar-23": "0.9"
-          },
-          {
-            "Assets (in Rs. Crs)": "Other Current Assets",
-            "Mar26 (Restated)": "152.9",
-            "Mar-25": "127.3",
-            "Mar-24": "120.3",
-            "Mar-23": "55.5"
-          },
-          {
-            "Assets (in Rs. Crs)": "Total Assets",
-            "Mar26 (Restated)": "2,001.7",
-            "Mar-25": "2,004.1",
-            "Mar-24": "1,391.1",
-            "Mar-23": "978.0"
-          }
-        ]
-      },
-      {
-        "page": 28,
-        "table_index": 1,
-        "row_count": 20,
-        "rows": [
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Total Equity",
-            "Mar-26 (Restated)": "850.8",
-            "Mar-25": "898.7",
-            "Mar-24": "472.9",
-            "Mar-23": "334.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Share Capital",
-            "Mar-26 (Restated)": "18.8",
-            "Mar-25": "18.8",
-            "Mar-24": "16.0",
-            "Mar-23": "16.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Other Equity",
-            "Mar-26 (Restated)": "832.0",
-            "Mar-25": "879.8",
-            "Mar-24": "455.8",
-            "Mar-23": "318.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Instrument Entirely Equity in nature",
-            "Mar-26 (Restated)": "0.0",
-            "Mar-25": "0.0",
-            "Mar-24": "1.1",
-            "Mar-23": "0.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Non-Current Liabilities",
-            "Mar-26 (Restated)": "505.5",
-            "Mar-25": "407.2",
-            "Mar-24": "348.2",
-            "Mar-23": "192.6"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities",
-            "Mar-26 (Restated)": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(i) Borrowings",
-            "Mar-26 (Restated)": "380.8",
-            "Mar-25": "281.3",
-            "Mar-24": "262.9",
-            "Mar-23": "121.9"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(ii) Lease Liabilities",
-            "Mar-26 (Restated)": "77.2",
-            "Mar-25": "84.7",
-            "Mar-24": "62.7",
-            "Mar-23": "54.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Provisions",
-            "Mar-26 (Restated)": "23.8",
-            "Mar-25": "26.3",
-            "Mar-24": "20.6",
-            "Mar-23": "8.2"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Deferred tax liabilities (net)",
-            "Mar-26 (Restated)": "23.7",
-            "Mar-25": "15.0",
-            "Mar-24": "2.0",
-            "Mar-23": "8.5"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Current Liabilities",
-            "Mar-26 (Restated)": "645.4",
-            "Mar-25": "698.2",
-            "Mar-24": "570.0",
-            "Mar-23": "451.4"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities",
-            "Mar-26 (Restated)": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(i) Borrowings",
-            "Mar-26 (Restated)": "318.0",
-            "Mar-25": "297.2",
-            "Mar-24": "285.2",
-            "Mar-23": "168.0"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(ii) Trade Payables*",
-            "Mar-26 (Restated)": "243.3",
-            "Mar-25": "327.5",
-            "Mar-24": "239.1",
-            "Mar-23": "251.3"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(iii) Lease Liability",
-            "Mar-26 (Restated)": "34.5",
-            "Mar-25": "26.7",
-            "Mar-24": "16.9",
-            "Mar-23": "12.5"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "(iv) Other Financial Liabilities*",
-            "Mar-26 (Restated)": "24.6",
-            "Mar-25": "25.9",
-            "Mar-24": "14.0",
-            "Mar-23": "8.3"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Other Current Liabilities",
-            "Mar-26 (Restated)": "11.2",
-            "Mar-25": "11.6",
-            "Mar-24": "3.5",
-            "Mar-23": "4.6"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Income tax liabilities (net)",
-            "Mar-26 (Restated)": "5.5",
-            "Mar-25": "1.1",
-            "Mar-24": "4.4",
-            "Mar-23": "2.4"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Provisions",
-            "Mar-26 (Restated)": "8.4",
-            "Mar-25": "8.2",
-            "Mar-24": "6.8",
-            "Mar-23": "4.3"
-          },
-          {
-            "Equity & Liabilities (in Rs. Crs)": "Total Equity & Liabilities",
-            "Mar-26 (Restated)": "2,001.7",
-            "Mar-25": "2,004.1",
-            "Mar-24": "1,391.1",
-            "Mar-23": "978.0"
-          }
-        ]
-      },
-      {
-        "page": 29,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars (Rs. Crs)": "Net Profit Before Tax",
-            "Mar-26 (Restated)": "167.6",
-            "Mar-25": "161.6",
-            "Mar-24": "119.4",
-            "Mar-23": "79.9"
-          },
-          {
-            "Particulars (Rs. Crs)": "Adjustments for: Non -Cash Items / Other Investment or Financial Items",
-            "Mar-26 (Restated)": "197.7",
-            "Mar-25": "140.9",
-            "Mar-24": "101.4",
-            "Mar-23": "88.2"
-          },
-          {
-            "Particulars (Rs. Crs)": "Operating profit before working capital changes",
-            "Mar-26 (Restated)": "365.3",
-            "Mar-25": "302.5",
-            "Mar-24": "220.8",
-            "Mar-23": "168.1"
-          },
-          {
-            "Particulars (Rs. Crs)": "Changes in working capital",
-            "Mar-26 (Restated)": "(125.2)",
-            "Mar-25": "23.6",
-            "Mar-24": "(130.3)",
-            "Mar-23": "88.6"
-          },
-          {
-            "Particulars (Rs. Crs)": "Cash generated from Operations",
-            "Mar-26 (Restated)": "240.1",
-            "Mar-25": "326.1",
-            "Mar-24": "90.5",
-            "Mar-23": "256.7"
-          },
-          {
-            "Particulars (Rs. Crs)": "Direct taxes paid (net of refund)",
-            "Mar-26 (Restated)": "35.2",
-            "Mar-25": "37.5",
-            "Mar-24": "10.5",
-            "Mar-23": "34.5"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Cash from Operating Activities",
-            "Mar-26 (Restated)": "204.9",
-            "Mar-25": "288.5",
-            "Mar-24": "80.0",
-            "Mar-23": "222.2"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Cash from Investing Activities",
-            "Mar-26 (Restated)": "(174.9)",
-            "Mar-25": "(536.2)",
-            "Mar-24": "(247.0)",
-            "Mar-23": "(103.5)"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Cash from Financing Activities",
-            "Mar-26 (Restated)": "(9.2)",
-            "Mar-25": "269.3",
-            "Mar-24": "204.3",
-            "Mar-23": "(86.7)"
-          },
-          {
-            "Particulars (Rs. Crs)": "Net Increase/(Decrease) in Cash and Cash equivalents",
-            "Mar-26 (Restated)": "20.8",
-            "Mar-25": "21.6",
-            "Mar-24": "37.3",
-            "Mar-23": "32.0"
-          },
-          {
-            "Particulars (Rs. Crs)": "Add: Cash & Cash equivalents at the beginning of the period",
-            "Mar-26 (Restated)": "98.7",
-            "Mar-25": "77.1",
-            "Mar-24": "39.7",
-            "Mar-23": "7.7"
-          },
-          {
-            "Particulars (Rs. Crs)": "Cash & Cash equivalents at the end of the period",
-            "Mar-26 (Restated)": "119.5",
-            "Mar-25": "98.7",
-            "Mar-24": "77.0",
-            "Mar-23": "39.7"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "a3be92f9-4382-45dc-a858-982b7b1f46ba",
-    "SCRIP_CD": 543896,
-    "XML_NAME": "ANN_543896_A3BE92F9-4382-45DC-A858-982B7B1F46BA",
-    "NEWSSUB": "Avalon Technologies Ltd - 543896 - Board Meeting Intimation for The Meeting To Be Held On October 27, 2026",
-    "DT_TM": "2026-10-22T20:18:30.4",
-    "NEWS_DT": "2026-10-22T20:18:30.4",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8aac03f5-4b27-489c-b45e-c1b8d06a449a.pdf",
-    "MORE": "Avalon Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 27/10/2026 ,inter alia, to consider and approve the amendment of Articles of Association and proposal for raising of funds, as detailed in the disclosure enclosed herewith.",
-    "HEADLINE": "Avalon Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 27/10/2026 ,inter alia, to consider and approve the amendment of Articles ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/avalon-technologies-ltd/avalon/543896/",
-    "SLONGNAME": "Avalon Technologies Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:18:29",
-    "DissemDT": "2026-10-22T20:18:30.4",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 248322,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "00d21523-f47c-4f59-8312-feef16dd327d",
-    "SCRIP_CD": 524500,
-    "XML_NAME": "ANN_524500_00D21523-F47C-4F59-8312-FEEF16DD327D",
-    "NEWSSUB": "Kilitch Drugs India Ltd - 524500 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-10-22T20:18:03.683",
-    "NEWS_DT": "2026-10-22T20:18:03.683",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "13480e0f-8012-4d00-9a4c-2738c39c59ba.pdf",
-    "MORE": "",
-    "HEADLINE": "Disvestment of entire stake in Material subsidiary\r\nConvert outstanding debt extended to Material subsidiary into equity shares\r\nAppointment of Additional independent non-executive director",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kilitch-drugs-india-ltd/kilitch/524500/",
-    "SLONGNAME": "Kilitch Drugs India Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:18:01",
-    "DissemDT": "2026-10-22T20:18:03.683",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 5815001,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "47.57",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cc0c39d6-1e35-47f7-bc92-278039ee9e58",
-    "SCRIP_CD": 543899,
-    "XML_NAME": "ANN_543899_CC0C39D6-1E35-47F7-BC92-278039EE9E58",
-    "NEWSSUB": "Cube Highways Trust - 543899 - Reg 23(5)(i): Disclosure of material issue",
-    "DT_TM": "2026-10-22T20:16:46.1",
-    "NEWS_DT": "2026-10-22T20:16:46.1",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "06fb9dc5-e4bd-438f-82e6-8df1d14d23d3.pdf",
-    "MORE": "",
-    "HEADLINE": "Cube Highways Trust has informed the Exchange regarding Disclosure of material issue",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/cube-highways-trust/cubeinvit/543899/",
-    "SLONGNAME": "Cube Highways Trust",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:16:46",
-    "DissemDT": "2026-10-22T20:16:46.103",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 327818,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ffdf7290-92cf-4388-824a-4fa8911072d8",
-    "SCRIP_CD": 500365,
-    "XML_NAME": "ANN_500365_FFDF7290-92CF-4388-824A-4FA8911072D8",
-    "NEWSSUB": "Welspun Specialty Solutions Ltd - 500365 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-10-22T20:14:28.667",
-    "NEWS_DT": "2026-10-22T20:14:28.667",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "064a4dee-1462-476c-aead-d796919692a6.pdf",
-    "MORE": "",
-    "HEADLINE": "Audio recording of the Conference Call has been made available on the website of the Company.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/welspun-specialty-solutions-ltd/welsplsol/500365/",
-    "SLONGNAME": "Welspun Specialty Solutions Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:14:28",
-    "DissemDT": "2026-10-22T20:14:28.667",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 271847,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "ffdf7290-92cf-4388-824a-4fa8911072d8",
-    "INVESTOR_PRESENTATION": "72417c76-72d7-476e-8880-effe4ae1e95d.mp3",
-    "RECORDID": 14630607,
-    "DataInsDate": "2026-10-22T20:14:28.617",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/72417c76-72d7-476e-8880-effe4ae1e95d.mp3",
-    "summary": "- **Date & Announcement:** On 22 October 2026, Welspun Specialty Solutions Ltd. informed BSE that the audio recording of its Q2 FY 27 conference call (pertaining to the quarter’s financial results) is now available.  \n- **Access Details:** The recording can be accessed on the company’s website (Investors → Notice → Others) or directly via the link https://www.welspunspecialty.com/pdf/others/10048144.mp3.  \n\n*The announcement does not contain any specific financial numbers, dates of financial events, or decisions.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fe728ffc-b646-488e-b597-1b84c6f8f25a",
-    "SCRIP_CD": 531328,
-    "XML_NAME": "ANN_531328_FE728FFC-B646-488E-B597-1B84C6F8F25A",
-    "NEWSSUB": "Kretto Syscon Ltd - 531328 - Financial Results On 30.09.2026",
-    "DT_TM": "2026-10-22T20:14:28.457",
-    "NEWS_DT": "2026-10-22T20:14:28.457",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4931ea17-e057-4c84-9548-5d4b07a0de14.pdf",
-    "MORE": "",
-    "HEADLINE": "We are hereby submitiing Financial results for the quarter ended on 30.09.2026.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kretto-syscon-ltd/krettosys/531328/",
-    "SLONGNAME": "Kretto Syscon Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:14:28",
-    "DissemDT": "2026-10-22T20:14:28.457",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2399243,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c5e077da-2562-4dd2-b765-e2ae2f26cfe2",
-    "SCRIP_CD": 513683,
-    "XML_NAME": "ANN_513683_C5E077DA-2562-4DD2-B765-E2AE2F26CFE2",
-    "NEWSSUB": "NLC India Ltd - 513683 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-22T20:11:49.23",
-    "NEWS_DT": "2026-10-22T20:11:49.23",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5b77ef1f-c531-4306-9259-b958dc4cdd61.pdf",
-    "MORE": "",
-    "HEADLINE": "Please refer the attachment.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/nlc-india-ltd/nlcindia/513683/",
-    "SLONGNAME": "NLC India Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:11:49",
-    "DissemDT": "2026-10-22T20:11:49.23",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 312897,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "38ddc590-ff69-4563-929a-37e665dbf60d",
-    "SCRIP_CD": 506197,
-    "XML_NAME": "ANN_506197_38DDC590-FF69-4563-929A-37E665DBF60D",
-    "NEWSSUB": "Bliss GVS Pharma Ltd - 506197 - Board Meeting Intimation for To Consider And Approve, Inter Alia, The Unaudited Standalone And Consolidated Financial Results Of The Company For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-10-22T20:11:19.853",
-    "NEWS_DT": "2026-10-22T20:11:19.853",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1c600cdf-f05e-4d0c-bc92-5812f98cecc1.pdf",
-    "MORE": "Bliss GVS Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that a meeting of the Board of Directors of the Company will be held on Thursday, October 29, 2026, at the registered office of the Company to consider and approve, inter alia, the Unaudited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026.",
-    "HEADLINE": "Bliss GVS Pharma Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Pursuant to Regulation 29 ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bliss-gvs-pharma-ltd/blissgvs/506197/",
-    "SLONGNAME": "Bliss GVS Pharma Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:11:18",
-    "DissemDT": "2026-10-22T20:11:19.857",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 326125,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f811f6f9-1aac-458b-9a37-57679c74a133",
-    "SCRIP_CD": 524342,
-    "XML_NAME": "ANN_524342_F811F6F9-1AAC-458B-9A37-57679C74A133",
-    "NEWSSUB": "Indo Borax & Chemicals Ltd-$ - 524342 - Announcement Under Regulation 30 Read With Schedule III Of SEBI (LODR) Regulations 2015",
-    "DT_TM": "2026-10-22T20:10:59.837",
-    "NEWS_DT": "2026-10-22T20:10:59.837",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c969a8df-5194-45cd-884b-87476c1c2872.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under regulation 30 read with Schedule III of SEBI (LODR) Regulations, 2015-Amendment of the Share Purchase Agreement",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/indo-borax--chemicals-ltd/indoborax/524342/",
-    "SLONGNAME": "Indo Borax & Chemicals Ltd-$",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-22T20:10:59",
-    "DissemDT": "2026-10-22T20:10:59.837",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 727934,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
