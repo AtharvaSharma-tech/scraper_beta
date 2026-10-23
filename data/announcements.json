@@ -1,5 +1,555 @@
 [
   {
+    "NEWSID": "9441f132-6fed-484f-a296-a40763277807",
+    "SCRIP_CD": 500547,
+    "XML_NAME": "ANN_500547_9441F132-6FED-484F-A296-A40763277807",
+    "NEWSSUB": "Bharat Petroleum Corporation Ltd - 500547 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-23T23:27:27.667",
+    "NEWS_DT": "2026-10-23T23:27:27.667",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e84e2b25-4c3b-4ac9-bff3-99ca57a32d21.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor handout for unaudited financial results",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bharat-petroleum-corporation-ltd/bpcl/500547/",
+    "SLONGNAME": "Bharat Petroleum Corporation Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-23T23:27:27",
+    "DissemDT": "2026-10-23T23:27:27.667",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 408983,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 36,
+        "rows": [
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Handout highlighting key figures of financial results",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Financial Highlights",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Financial parameters",
+            "col_2": "Unit",
+            "col_3": "2026-27",
+            "col_4": "2025-26",
+            "col_5": "2026-27",
+            "col_6": "2025-26",
+            "col_7": "2025-26"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "",
+            "col_2": "",
+            "col_3": "Jul-Sep",
+            "col_4": "Jul-Sep",
+            "col_5": "Apr-Sep",
+            "col_6": "Apr-Sep",
+            "col_7": "Apr-Mar"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Profit before tax",
+            "col_2": "₹ crores",
+            "col_3": "6,686",
+            "col_4": "8,596",
+            "col_5": "1,381",
+            "col_6": "16,752",
+            "col_7": "31,104"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Profit after tax",
+            "col_2": "₹ crores",
+            "col_3": "4,993",
+            "col_4": "6,443",
+            "col_5": "1,031",
+            "col_6": "12,566",
+            "col_7": "23,303"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Forex Fluctuation gain/(loss)",
+            "col_2": "₹ crores",
+            "col_3": "(397)",
+            "col_4": "(561)",
+            "col_5": "(51)",
+            "col_6": "(541)",
+            "col_7": "(1,644)"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Marketing Inventory Gain/(Loss)",
+            "col_2": "₹ crores",
+            "col_3": "(330)",
+            "col_4": "895",
+            "col_5": "2,804",
+            "col_6": "60",
+            "col_7": "842"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Interest",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- Interest Expenditure*",
+            "col_2": "₹ crores",
+            "col_3": "659",
+            "col_4": "420",
+            "col_5": "1,074",
+            "col_6": "794",
+            "col_7": "1,634"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- Interest Income",
+            "col_2": "₹ crores",
+            "col_3": "270",
+            "col_4": "460",
+            "col_5": "637",
+            "col_6": "850",
+            "col_7": "1,612"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Debt Position (Excluding IND AS 116 Liabilities)**",
+            "col_2": "₹ crores",
+            "col_3": "15,246",
+            "col_4": "12,262",
+            "col_5": "15,246",
+            "col_6": "12,262",
+            "col_7": "10,480"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Oil Bond Holding including Government Stock(Face Value)",
+            "col_2": "₹ crores",
+            "col_3": "2,826",
+            "col_4": "3,590",
+            "col_5": "2,826",
+            "col_6": "3,590",
+            "col_7": "2,327"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "GRM (BPCL)#",
+            "col_2": "US $/bbl",
+            "col_3": "32.53",
+            "col_4": "10.78",
+            "col_5": "36.90",
+            "col_6": "7.77",
+            "col_7": "11.74"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Operational parameters",
+            "col_2": "Unit",
+            "col_3": "2026-27",
+            "col_4": "2025-26",
+            "col_5": "2026-27",
+            "col_6": "2025-26",
+            "col_7": "2025-26"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "",
+            "col_2": "",
+            "col_3": "Jul-Sep",
+            "col_4": "Jul-Sep",
+            "col_5": "Apr-Sep",
+            "col_6": "Apr-Sep",
+            "col_7": "Apr-Mar"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "REFINING",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Refinery Throughput",
+            "col_2": "MMT",
+            "col_3": "10.41",
+            "col_4": "9.82",
+            "col_5": "20.56",
+            "col_6": "20.24",
+            "col_7": "41.15"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- MR",
+            "col_2": "MMT",
+            "col_3": "4.07",
+            "col_4": "4.17",
+            "col_5": "7.84",
+            "col_6": "8.11",
+            "col_7": "16.11"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- KR",
+            "col_2": "MMT",
+            "col_3": "4.22",
+            "col_4": "4.29",
+            "col_5": "8.53",
+            "col_6": "8.80",
+            "col_7": "17.66"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- BR",
+            "col_2": "MMT",
+            "col_3": "2.12",
+            "col_4": "1.36",
+            "col_5": "4.19",
+            "col_6": "3.33",
+            "col_7": "7.38"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Distillate Yield",
+            "col_2": "%",
+            "col_3": "84.38%",
+            "col_4": "85.12%",
+            "col_5": "84.21%",
+            "col_6": "85.36%",
+            "col_7": "84.54%"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "High Sulphur as a % of total crude",
+            "col_2": "%",
+            "col_3": "78.00%",
+            "col_4": "74.65%",
+            "col_5": "76.22%",
+            "col_6": "75.50%",
+            "col_7": "76.14%"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "MARKETING",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Sale of Petroleum Products",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "a. Domestic",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- LPG",
+            "col_2": "MMT",
+            "col_3": "1.92",
+            "col_4": "2.35",
+            "col_5": "3.61",
+            "col_6": "4.48",
+            "col_7": "9.14"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- MS",
+            "col_2": "MMT",
+            "col_3": "3.04",
+            "col_4": "2.79",
+            "col_5": "6.15",
+            "col_6": "5.66",
+            "col_7": "11.38"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- HSD",
+            "col_2": "MMT",
+            "col_3": "5.76",
+            "col_4": "5.16",
+            "col_5": "12.32",
+            "col_6": "11.24",
+            "col_7": "23.35"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- SKO",
+            "col_2": "MMT",
+            "col_3": "0.02",
+            "col_4": "0.03",
+            "col_5": "0.05",
+            "col_6": "0.06",
+            "col_7": "0.12"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- ATF",
+            "col_2": "MMT",
+            "col_3": "0.57",
+            "col_4": "0.51",
+            "col_5": "1.15",
+            "col_6": "1.05",
+            "col_7": "2.19"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "- Others",
+            "col_2": "MMT",
+            "col_3": "2.16",
+            "col_4": "1.83",
+            "col_5": "3.81",
+            "col_6": "3.76",
+            "col_7": "8.00"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Total Domestic",
+            "col_2": "MMT",
+            "col_3": "13.47",
+            "col_4": "12.67",
+            "col_5": "27.09",
+            "col_6": "26.25",
+            "col_7": "54.18"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "b. Exports",
+            "col_2": "MMT",
+            "col_3": "0.59",
+            "col_4": "0.36",
+            "col_5": "1.10",
+            "col_6": "0.81",
+            "col_7": "1.54"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "Total Sales",
+            "col_2": "MMT",
+            "col_3": "14.06",
+            "col_4": "13.03",
+            "col_5": "28.19",
+            "col_6": "27.06",
+            "col_7": "55.72"
+          },
+          {
+            "BHARAT PETROLEUM CORPORATION LIMITED": "* Interest expense for Apr-Sep 2026 includes interest of Rs. 408 crore (Apr-Sep 2025: Rs. 377 crore) on lease liability on account of leases under IND AS 116. ** Debt position as on 30th Sept 2026 excludes lease liability of Rs. 11,848 Crore (Rs. 10,942 Crore as on 31st March 2026) on account of implementation of IND AS 116. # The above GRMs are before factoring the impact of Special Additional Excise Duty and Road & Infrastructure Cess, levied w.e.f. 27th March 2026.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "3c35684c-966c-4700-93e4-7775ab2f9fe1",
+    "SCRIP_CD": 511218,
+    "XML_NAME": "ANN_511218_3C35684C-966C-4700-93E4-7775AB2F9FE1",
+    "NEWSSUB": "Shriram Finance Ltd - 511218 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-10-23T23:26:38.503",
+    "NEWS_DT": "2026-10-23T23:26:38.503",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9f4c6205-d8a6-474d-8138-13c6bd865eda.pdf",
+    "MORE": "",
+    "HEADLINE": "Audio Recording Link for the Earnings Call for the Quarter Ended September 30,2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shriram-finance-ltd/shriramfin/511218/",
+    "SLONGNAME": "Shriram Finance Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-23T23:26:38",
+    "DissemDT": "2026-10-23T23:26:38.503",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 307847,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company announced that the Q2 FY 2026‑27 earnings‑call audio recording (held on **Friday, 23 Oct 2026 at 7:00 pm**) is now available at the link `cdn.shriramfinance.in/sfl-kalam/files/2026-10/10047778_0.mp3`.  \n- A written transcript of the call will be posted on the Shriram Finance website **in due course**; the announcement contains **no financial figures, dates of future events, or decisions** beyond the availability of the audio.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "dae7ca99-418c-4e04-8dee-3d1e60bfb7c7",
+    "SCRIP_CD": 533339,
+    "XML_NAME": "ANN_533339_DAE7CA99-418C-4E04-8DEE-3D1E60BFB7C7",
+    "NEWSSUB": "ZEN Technologies Ltd - 533339 - Board Meeting Intimation for Consideration And Approval Of Standalone And Consolidated Un-Audited Financial Results For The Quarter And Half Year Ended September 30, 2026",
+    "DT_TM": "2026-10-23T23:21:58.83",
+    "NEWS_DT": "2026-10-23T23:21:58.83",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ff1124a4-3dcd-4b72-9069-b5c737b2ef0a.pdf",
+    "MORE": "ZEN Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 31/10/2026 ,inter alia, to consider and approve Standalone and Consolidated Un-audited Financial Results for the quarter and half year ended September 30, 2026",
+    "HEADLINE": "ZEN Technologies Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 31/10/2026 ,inter alia, to consider and approve Standalone and Consolidated ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/zen-technologies-ltd/zentec/533339/",
+    "SLONGNAME": "ZEN Technologies Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-23T23:21:58",
+    "DissemDT": "2026-10-23T23:21:58.83",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 337827,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors will meet on **Saturday, 31 October 2026** to consider and approve ZEN Technologies Ltd.’s **stand‑alone and consolidated unaudited financial results for Q2 and the half‑year ended 30 September 2026**.  \n\n- The company’s **trading window is closed from 1 October 2026 until 48 hours after the results are announced, i.e",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "325d8e1a-57a9-42f8-8a91-66d5b4bbe333",
+    "SCRIP_CD": 517214,
+    "XML_NAME": "ANN_517214_325D8E1A-57A9-42F8-8A91-66D5B4BBE333",
+    "NEWSSUB": "Digispice Technologies Ltd-$ - 517214 - Grant Of In-Principle Authorisation, As PA-P To Spice Money Limited, Material Subsidiary",
+    "DT_TM": "2026-10-23T23:18:29.18",
+    "NEWS_DT": "2026-10-23T23:18:29.18",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8c44cd10-f909-4567-b94f-94ed03649d99.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached intimation for grant of in-principle authorisation as Payment Aggregator-Physical (PA-P) by RBI to Spice Money Limited, a material subsidiary of the Company",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/digispice-technologies-ltd/digispice/517214/",
+    "SLONGNAME": "Digispice Technologies Ltd-$",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-23T23:18:29",
+    "DissemDT": "2026-10-23T23:18:29.18",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 558066,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "cd36a839-29df-4ae2-856e-a58e014bca22",
+    "SCRIP_CD": 500245,
+    "XML_NAME": "ANN_500245_CD36A839-29DF-4AE2-856E-A58E014BCA22",
+    "NEWSSUB": "Kirloskar Ferrous Industries Ltd - 500245 - Board Meeting Intimation for Consideration Of The Financial Results",
+    "DT_TM": "2026-10-23T23:17:00.673",
+    "NEWS_DT": "2026-10-23T23:17:00.673",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c058f17a-0a41-4db3-9c3e-390862405f40.pdf",
+    "MORE": "Kirloskar Ferrous Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve the unaudited financial results (standalone and consolidated) for the quarter and six months ended 30 September 2026.",
+    "HEADLINE": "Kirloskar Ferrous Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve the unaudited ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kirloskar-ferrous-industries-ltd/kirlfer/500245/",
+    "SLONGNAME": "Kirloskar Ferrous Industries Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-23T23:16:59",
+    "DissemDT": "2026-10-23T23:17:00.673",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 466993,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A board meeting of Kirloskar Ferrous Industries Ltd is scheduled for **Friday, 30 October 2026** to consider and approve the **unaudited standalone and consolidated financial results for the quarter and six‑month period ending 30 September 2026**.  \n- The announcement does **not disclose any specific financial figures**; it only informs that the results will be reviewed and approved at the meeting.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b22aa64d-f098-4925-8133-e6d8684530a0",
+    "SCRIP_CD": 500547,
+    "XML_NAME": "ANN_500547_B22AA64D-F098-4925-8133-E6D8684530A0",
+    "NEWSSUB": "Bharat Petroleum Corporation Ltd - 500547 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-23T23:10:55.263",
+    "NEWS_DT": "2026-10-23T23:10:55.263",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "18156521-76a0-4b06-83e9-eaa0ba2a13bf.pdf",
+    "MORE": "",
+    "HEADLINE": "Rescheduling of 2Q FY27 Post Results Conference Call",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bharat-petroleum-corporation-ltd/bpcl/500547/",
+    "SLONGNAME": "Bharat Petroleum Corporation Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-23T23:10:55",
+    "DissemDT": "2026-10-23T23:10:55.263",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 886849,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "b22aa64d-f098-4925-8133-e6d8684530a0",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14645404,
+    "DataInsDate": "2026-10-23T23:10:55.223",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "9b46fcc6-8eb4-4e4c-bbd5-db764dfaafb0",
     "SCRIP_CD": 520151,
     "XML_NAME": "ANN_520151_9B46FCC6-8EB4-4E4C-BBD5-DB764DFAAFB0",
@@ -16626,1517 +17176,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "5d092300-6c3e-4e95-a436-b93c89874155",
-    "SCRIP_CD": 505075,
-    "XML_NAME": "ANN_505075_5D092300-6C3E-4E95-A436-B93C89874155",
-    "NEWSSUB": "Setco Automotive Ltd - 505075 - Board Meeting Outcome for Outcome Of The Board Meeting",
-    "DT_TM": "2026-10-23T20:17:25.89",
-    "NEWS_DT": "2026-10-23T20:17:25.89",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "68efeecd-1ca9-4fab-8646-953365b5b7b5.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board meeting held on October 23, 2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/setco-automotive-ltd/setco/505075/",
-    "SLONGNAME": "Setco Automotive Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-23T20:17:24",
-    "DissemDT": "2026-10-23T20:17:25.89",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1154236,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "total_assets": "11987 lakh",
-      "dividend": "26",
-      "face_value": "2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "Jun 30, 2026",
-            "col_3": "Mar 31, 2026",
-            "col_4": "Jun 30, 2025",
-            "Year Ended": "Mar 31, 2026"
-          },
-          {
-            "Particulars": "Foreign Exchange Fluctuation gain",
-            "Quarter Ended": "5",
-            "col_3": "90",
-            "col_4": "88",
-            "Year Ended": "247"
-          },
-          {
-            "Particulars": "Finance income on Financial Guarantee",
-            "Quarter Ended": "0",
-            "col_3": "-16",
-            "col_4": "9",
-            "Year Ended": "-16"
-          },
-          {
-            "Particulars": "Interest on Income Tax Refund",
-            "Quarter Ended": "0",
-            "col_3": "0",
-            "col_4": "0",
-            "Year Ended": "0"
-          },
-          {
-            "Particulars": "Gain on Investment",
-            "Quarter Ended": "21428",
-            "col_3": "0",
-            "col_4": "0",
-            "Year Ended": "0"
-          },
-          {
-            "Particulars": "Other Misc. income",
-            "Quarter Ended": "225*",
-            "col_3": "0",
-            "col_4": "1",
-            "Year Ended": "2"
-          },
-          {
-            "Particulars": "Total *Non compete income",
-            "Quarter Ended": "21,658",
-            "col_3": "75",
-            "col_4": "98",
-            "Year Ended": "233"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 52,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30-Jun-26",
-            "col_3": "31-Mar-26",
-            "col_4": "30-Jun-25",
-            "col_5": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_3": "Audited",
-            "col_4": "Unaudited",
-            "col_5": "Audited"
-          },
-          {
-            "Particulars": "Income",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Revenue from Operations",
-            "Quarter Ended": "5 ,290",
-            "col_3": "5 ,278",
-            "col_4": "4,712",
-            "col_5": "17,916"
-          },
-          {
-            "Particulars": "Other Income",
-            "Quarter Ended": "21,822",
-            "col_3": "740",
-            "col_4": "9 6",
-            "col_5": "910"
-          },
-          {
-            "Particulars": "Total Income",
-            "Quarter Ended": "2 7,112",
-            "col_3": "6 ,018",
-            "col_4": "4,808",
-            "col_5": "1 8,826"
-          },
-          {
-            "Particulars": "Expenses",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Cost of materials consumed",
-            "Quarter Ended": "2 ,795",
-            "col_3": "2 ,387",
-            "col_4": "2,012",
-            "col_5": "7 ,803"
-          },
-          {
-            "Particulars": "Purchases of stock-in-trade",
-            "Quarter Ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Changes in inventories of finished goods and work-in-progress",
-            "Quarter Ended": "(15)",
-            "col_3": "11",
-            "col_4": "( 37)",
-            "col_5": "162"
-          },
-          {
-            "Particulars": "Employee benefits expense",
-            "Quarter Ended": "1 ,949",
-            "col_3": "1 ,233",
-            "col_4": "1,058",
-            "col_5": "4 ,389"
-          },
-          {
-            "Particulars": "Finance costs",
-            "Quarter Ended": "182",
-            "col_3": "552",
-            "col_4": "234",
-            "col_5": "1 ,278"
-          },
-          {
-            "Particulars": "Depreciation and amortisation expense",
-            "Quarter Ended": "222",
-            "col_3": "360",
-            "col_4": "316",
-            "col_5": "1 ,261"
-          },
-          {
-            "Particulars": "Other expenses",
-            "Quarter Ended": "1 ,767",
-            "col_3": "2 ,155",
-            "col_4": "1,676",
-            "col_5": "6 ,617"
-          },
-          {
-            "Particulars": "Total Expenses",
-            "Quarter Ended": "6 ,900",
-            "col_3": "6 ,698",
-            "col_4": "5,259",
-            "col_5": "2 1,510"
-          },
-          {
-            "Particulars": "Profit / (Loss) before exceptional and tax (1-2)",
-            "Quarter Ended": "2 0,212",
-            "col_3": "( 680)",
-            "col_4": "(452)",
-            "col_5": "( 2,686)"
-          },
-          {
-            "Particulars": "Exceptional Items",
-            "Quarter Ended": "(205)",
-            "col_3": "( 0)",
-            "col_4": "112",
-            "col_5": "( 0)"
-          },
-          {
-            "Particulars": "Profit / (Loss) before tax (3-4)",
-            "Quarter Ended": "2 0,417",
-            "col_3": "( 680)",
-            "col_4": "(564)",
-            "col_5": "( 2,687)"
-          },
-          {
-            "Particulars": "Tax Expense",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Current Tax",
-            "Quarter Ended": "-",
-            "col_3": "157",
-            "col_4": "(153)",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Deferred Tax",
-            "Quarter Ended": "-",
-            "col_3": "(176)",
-            "col_4": "-",
-            "col_5": "1 ,645"
-          },
-          {
-            "Particulars": "Profit/(loss) for the period/year(5-6) from Continuing opertations -I",
-            "Quarter Ended": "2 0,417",
-            "col_3": "( 661)",
-            "col_4": "(411)",
-            "col_5": "( 4,332)"
-          },
-          {
-            "Particulars": "Profit/(loss)before tax for the period/year from discontinuing opertatio",
-            "Quarter Ended": "n s ( 85)",
-            "col_3": "1 4,402",
-            "col_4": "(3,813)",
-            "col_5": "4 ,003"
-          },
-          {
-            "Particulars": "Tax Expense from discontinuing opertations",
-            "Quarter Ended": "-",
-            "col_3": "9 9",
-            "col_4": "-",
-            "col_5": "9 9"
-          },
-          {
-            "Particulars": "Profit/(loss)after tax for the period/year from discontinuing opertation",
-            "Quarter Ended": "s - I I ( 85)",
-            "col_3": "1 4,303",
-            "col_4": "(3,813)",
-            "col_5": "3 ,904"
-          },
-          {
-            "Particulars": "Profit/(loss) for the period/year -I+II",
-            "Quarter Ended": "2 0,332",
-            "col_3": "1 3,642",
-            "col_4": "(4,223)",
-            "col_5": "( 428)"
-          },
-          {
-            "Particulars": "Other Comprehensive Income (OCI) Continuing opertations -III",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Items that will not be reclassified to Profit or Loss",
-            "Quarter Ended": "-",
-            "col_3": "7",
-            "col_4": "( 11)",
-            "col_5": "7"
-          },
-          {
-            "Particulars": "Income Tax relating to items that will not be reclassified to Profit or Loss",
-            "Quarter Ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Items that will be reclassified to Profit or Loss",
-            "Quarter Ended": "(36)",
-            "col_3": "370",
-            "col_4": "",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Income Tax relating to items that will be reclassified to Profit or Loss",
-            "Quarter Ended": "-",
-            "col_3": "-",
-            "col_4": "",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Other Comprehensive Income (OCI) discontinuing opertations - IV",
-            "Quarter Ended": "",
-            "col_3": "47",
-            "col_4": "",
-            "col_5": "47"
-          },
-          {
-            "Particulars": "Other Comprehensive Income (Net of Tax) - III+IV",
-            "Quarter Ended": "( 36)",
-            "col_3": "4 24",
-            "col_4": "(11)",
-            "col_5": "5 4"
-          },
-          {
-            "Particulars": "Total Comprehensive income for the period/year (7a+8)",
-            "Quarter Ended": "2 0,296",
-            "col_3": "1 4,066",
-            "col_4": "(4,234)",
-            "col_5": "( 374)"
-          },
-          {
-            "Particulars": "Profit for the period attributable to",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Owners of the company",
-            "Quarter Ended": "20,361",
-            "col_3": "11,944",
-            "col_4": "(3,492)",
-            "col_5": "(12)"
-          },
-          {
-            "Particulars": "Non-controlling Interest",
-            "Quarter Ended": "(30)",
-            "col_3": "1 ,696",
-            "col_4": "(731)",
-            "col_5": "(416)"
-          },
-          {
-            "Particulars": "Other Comprehensive Income attributable to",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Owners of the company",
-            "Quarter Ended": "(36)",
-            "col_3": "413",
-            "col_4": "( 11)",
-            "col_5": "43"
-          },
-          {
-            "Particulars": "Non-controlling Interest",
-            "Quarter Ended": "-",
-            "col_3": "11",
-            "col_4": "-",
-            "col_5": "11"
-          },
-          {
-            "Particulars": "Total Comprehensive Income for the period attributable to",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Owners of the company",
-            "Quarter Ended": "20,326",
-            "col_3": "12,352",
-            "col_4": "(3,503)",
-            "col_5": "25"
-          },
-          {
-            "Particulars": "Non-controlling Interest",
-            "Quarter Ended": "(30)",
-            "col_3": "1 ,707",
-            "col_4": "(731)",
-            "col_5": "(405)"
-          },
-          {
-            "Particulars": "Earnings per equity share (Face Value of Rs. 2/-) (not annualised) :for Continued operations",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "(a) Basic - Rs.",
-            "Quarter Ended": "1 5.24",
-            "col_3": "6.26",
-            "col_4": "(1.90)",
-            "col_5": "(0.74)"
-          },
-          {
-            "Particulars": "(b) Diluted - Rs.",
-            "Quarter Ended": "1 5.24",
-            "col_3": "6.26",
-            "col_4": "(1.90)",
-            "col_5": "(0.74)"
-          },
-          {
-            "Particulars": "Earnings per equity share (Face Value of Rs. 2/-) (not annualised) :for discontinued operations",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "(a) Basic - Rs.",
-            "Quarter Ended": "(0.02)",
-            "col_3": "2.67",
-            "col_4": "(0.71)",
-            "col_5": "0.73"
-          },
-          {
-            "Particulars": "(b) Diluted - Rs.",
-            "Quarter Ended": "(0.02)",
-            "col_3": "2.67",
-            "col_4": "(0.71)",
-            "col_5": "0.73"
-          },
-          {
-            "Particulars": "Earnings per equity share (Face Value of Rs. 2/-) (not annualised) :for continued and discontinued operations",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "(a) Basic - Rs.",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "(b) Diluted - Rs.",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "6281426f-ad5a-4b46-b383-aecc68b5f214",
-    "SCRIP_CD": 540318,
-    "XML_NAME": "ANN_540318_6281426F-AD5A-4B46-B383-AECC68B5F214",
-    "NEWSSUB": "Sueryaa Knitwear Ltd - 540318 - Outcome Of Board Meeting Dated 23Rd October 2026",
-    "DT_TM": "2026-10-23T20:16:51.333",
-    "NEWS_DT": "2026-10-23T20:16:51.333",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8d811a77-c187-4a1a-a051-373db1584832.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting dated 23rd October 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sueryaa-knitwear-ltd/sueryaakni/540318/",
-    "SLONGNAME": "Sueryaa Knitwear Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-23T20:16:51",
-    "DissemDT": "2026-10-23T20:16:51.333",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 719738,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4e1bccad-c88f-49b0-8337-90782ab893b7",
-    "SCRIP_CD": 542678,
-    "XML_NAME": "ANN_542678_4E1BCCAD-C88F-49B0-8337-90782AB893B7",
-    "NEWSSUB": "Cian Healthcare Ltd - 542678 - Announcement under Regulation 30 (LODR)-Restructuring",
-    "DT_TM": "2026-10-23T20:16:43.74",
-    "NEWS_DT": "2026-10-23T20:16:43.74",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "070e0c50-def4-4775-bc32-87d305059636.pdf",
-    "MORE": "",
-    "HEADLINE": "As per the Attachment.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/cian-healthcare-ltd/chcl/542678/",
-    "SLONGNAME": "Cian Healthcare Ltd",
-    "AGENDA_ID": 147,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-23T20:16:43",
-    "DissemDT": "2026-10-23T20:16:43.74",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 839537,
-    "SUBCATNAME": "Restructuring",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2946.87 lakh",
-      "total_equity": "853.60 lakh",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9985b2cd-d3ea-48ab-a6aa-0f03be620494",
-    "SCRIP_CD": 524174,
-    "XML_NAME": "ANN_524174_9985B2CD-D3EA-48AB-A6AA-0F03BE620494",
-    "NEWSSUB": "Kesar Petroproducts Ltd - 524174 - Standalone Unaudited Financial Result For Quarter And Half Year Ended 30.09.2026",
-    "DT_TM": "2026-10-23T20:15:23.677",
-    "NEWS_DT": "2026-10-23T20:15:23.677",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "69672e73-4e4b-4885-8687-6b76ea56996b.pdf",
-    "MORE": "",
-    "HEADLINE": "PFA pdf for detailed information.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kesar-petroproducts-ltd/kesarpe/524174/",
-    "SLONGNAME": "Kesar Petroproducts Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-23T20:15:23",
-    "DissemDT": "2026-10-23T20:15:23.677",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 840775,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "6006",
-      "total_assets": "26855",
-      "total_equity": "17413",
-      "total_debt": "3933",
-      "eps": "0.11",
-      "face_value": "1",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "Particulars",
-            "col_2": "",
-            "col_3": "Quarter ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half year ended",
-            "col_7": "",
-            "col_8": "Year ended"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "30.09.2026 Unaudited",
-            "col_4": "30.06.2026 Unaudited",
-            "col_5": "30.09.2025 Unaudited",
-            "col_6": "30.09.2026 Unaudited",
-            "col_7": "30.09.2025 Unaudited",
-            "col_8": "31.03.2026 Audited"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "I II III IV V VI VII VIII IX X",
-            "col_2": "Income a) i) Revenue from operations ii) Less : GST recovered Revenue from operations (i - ii) b) Other income Total income (I) Expenses a) Cost of materials consumed b) Purchase of stock-in-trade c) Changes in inventories of finished goods, stock-in-trade and work-in-progress d) Employee benefits expense e) Finance costs f) Depreciation and amortisation expense g) Other expenses Total expenses (II) Profit before tax (I - II) Exception Items Tax expense Current tax Deferred tax (credit) / charged Net profit after tax (III - IV) Other comprehensive income (i) Items that will not be reclassified to profit or loss (ii) Income tax relating to items that will not be reclassified to profit or loss Other comprehensive income (Net of tax) (VI) Total comprehensive income for the period (V+VI) Paid-up equity share capital (Face value INR 1 per share) Other equity (excluding revaluation reserves) Earnings per equity share (EPS) [Not annualised] a) Basic EPS (INR) b) Diluted EPS (INR)",
-            "col_3": "6,006 836",
-            "col_4": "5,404 492",
-            "col_5": "5,908 888",
-            "col_6": "11,410 1,328",
-            "col_7": "11,576 1,603",
-            "col_8": "21,840 3,118"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "5,170 19",
-            "col_4": "4,912 11",
-            "col_5": "5,020 29",
-            "col_6": "10,082 30",
-            "col_7": "9,973 96",
-            "col_8": "18,722 152"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "5,189",
-            "col_4": "4,923",
-            "col_5": "5,049",
-            "col_6": "10,112",
-            "col_7": "10,069",
-            "col_8": "18,874"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "4,050 - 2 214 185 202 416",
-            "col_4": "4,031 - (167) 218 165 201 424",
-            "col_5": "3,923 - (115) 122 49 110 368",
-            "col_6": "8,081 - (165) 432 350 403 840",
-            "col_7": "7,843 - (397) 235 106 208 716",
-            "col_8": "15,886 - (1,262) 596 391 608 1,412"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "5,069",
-            "col_4": "4,872",
-            "col_5": "4,457",
-            "col_6": "9,941",
-            "col_7": "8,711",
-            "col_8": "17,630"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "120 - - -",
-            "col_4": "51 - - -",
-            "col_5": "592 - - -",
-            "col_6": "171 - - -",
-            "col_7": "1,358 - 176 -",
-            "col_8": "1,243 - 55 221"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "176",
-            "col_8": "276"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "120 284 -",
-            "col_4": "51 2 -",
-            "col_5": "591 (278) -",
-            "col_6": "171 286 -",
-            "col_7": "1,182 (5) -",
-            "col_8": "968 (410) -"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "284",
-            "col_4": "2",
-            "col_5": "(278)",
-            "col_6": "286",
-            "col_7": "(5)",
-            "col_8": "(410)"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "",
-            "col_2": "",
-            "col_3": "404 1,117 - 0.11 0.11",
-            "col_4": "53 1,117 - 0.05 0.05",
-            "col_5": "313 967 - 0.61 0.51",
-            "col_6": "457 1,117 - 0.15 0.15",
-            "col_7": "1,177 967 - 1.22 1.01",
-            "col_8": "557 967 13,979 1.00 0.83"
-          },
-          {
-            "Statement of standalone financial results for the quarter and half year ended 30th September 2026 INR in Lacs": "Notes 1) TheabovefinancialresultswhicharepublishedinaccordancewithRegulation33oftheSEBI(ListingObligations&DisclosureRequirements)Regulations,2015 ('ListingRegulations')havebeenreviewedbytheAuditCommitteeatameetingheldon23rdOctober,2026andapprovedbytheBoardofDirectorsattheir meetingheldon23rdOctober,2026. ThefinancialresultsarepreparedinaccordancewiththeIndASprescribedunderSection133oftheCompaniesAct, 2013 and other recognised accounting practices and policies. 2) Provision for DTA/DTL not considered on quarterly basis. 3) The figures for the corresponding previous periods have been regrouped/ reclassified, wherever necessary, to make them comparable. For and on behalf of the Board of Directors For Kesar Petroproducts Limited Ramjan Shaikh Place : Mumbai Director Date : 23rd October, 2026 DIN : 08286732",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "col_1": "ASSETS Non-current assets (a) Property, plant and equipment (b) Capital work-in-progress (c) Other intangible assets (d) Financial assets (i) Investments (ii) Trade receivables (iii) Loans (iv) Other financial assets (e) Other non current assets (f) Deferred tax assets (Net) Total non-current assets Current assets (a) Inventories (b) Financial assets (i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank balances other than (iii) above (v) Loans (vi) Other financial assets (c) Other current assets Total current assets Total assets EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity Total equity Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (b) Provisions (c) Deferred tax liabilities (Net) Total non-current liabilities Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables - Total outstanding dues of micro and small enterprises - Total outstanding dues of creditors other than Micro and Small Enterprises (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (Net) Total current liabilities Total liabilities Total equity and liabilities",
-            "As at 30th Sept 2026 Unaudited": "13,135 2,482 - 1,591 - - 24 11 -",
-            "As at 31st Mar 2026 Audited": "13,495 1,661 - 1,305 - - 24 11 -"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "17,243",
-            "As at 31st Mar 2026 Audited": "16,496"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "5,073 15 2,884 67 824 152 - 597",
-            "As at 31st Mar 2026 Audited": "4,491 - 1,516 633 817 82 - 472"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "9,612",
-            "As at 31st Mar 2026 Audited": "8,011"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "26,855",
-            "As at 31st Mar 2026 Audited": "24,507"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "1,117 16,297",
-            "As at 31st Mar 2026 Audited": "967 13,979"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "17,413",
-            "As at 31st Mar 2026 Audited": "14,946"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "3,933 - 55 293",
-            "As at 31st Mar 2026 Audited": "3,451 - 55 293"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "4,281",
-            "As at 31st Mar 2026 Audited": "3,799"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "2,127 - - 2,609 59 88 31 247",
-            "As at 31st Mar 2026 Audited": "3,775 - - 1,538 52 84 31 282"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "5,161",
-            "As at 31st Mar 2026 Audited": "5,762"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "9,442",
-            "As at 31st Mar 2026 Audited": "9,561"
-          },
-          {
-            "col_1": "",
-            "As at 30th Sept 2026 Unaudited": "26,855",
-            "As at 31st Mar 2026 Audited": "24,507"
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "col_1": "A. Cash flow from operating activities: Profit before tax Adjustment to reconcile profit before tax to net cash flows: Depreciation and amortization expense Finance cost Other non operating income Interest Income Unrealised exchange loss / (gain) Operating profit before working capital changes Movements in working capital: (Increase) / Decrease in inventories (Increase) / Decrease in trade receivables (Increase) / Decrease in Investment (Increase) / Decrease in loans (Increase) / Decrease in other assets (Decrease) / Increase in trade payables (Decrease) / Increase in Borrowings (Decrease) / Increase in other financial liabilities (Decrease) / Increase in other current liabilities (Decrease) / Increase in Provisions Cash generated from operations Taxes paid Net cash generated from operating activities (A) B. Cash flow from investing activities: Purchase of property, plant and equipment Bank deposit matured during the year (with maturity more than three months) (ne Dividend received Other Non operating income Unrealised exchange loss / (gain) Interest Received Net cash used in investing activities (B) C. Cash flow from financing activities: Proceeds from borrowings Proceeds from allotment of equity shares incl. premium Finance cost Net cash used in financing activities Net Increase / (Decrease) in cash and cash equivalents (A)+(B)+(C) Effect of exchange difference on cash and cash equivalent held in foreign currency Cash and cash equivalents as at the beginning of the year Cash and cash equivalents as at the end of the year",
-            "Year Ended 30th Sept 2026 Unaudited": "171 403 350 (9) (18) (3)",
-            "Year Ended 31st March 2026 Audited": "1,243 608 391 (59) (87) (5)"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "894 (582) (1,368) (15) (70) (125) 1,071 (1,649) 7 4 -",
-            "Year Ended 31st March 2026 Audited": "2,091 (603) 862 214 116 (61) (78) 524 (41) 9 31"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "(1,833) (35)",
-            "Year Ended 31st March 2026 Audited": "3,064 (16)"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "(1,868)",
-            "Year Ended 31st March 2026 Audited": "3,048"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "(864) (8) - 9 3 18",
-            "Year Ended 31st March 2026 Audited": "(3,761) 793 - 59 5 87"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "(842)",
-            "Year Ended 31st March 2026 Audited": "(2,817)"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "482 2,012 (350)",
-            "Year Ended 31st March 2026 Audited": "(592) - (391)"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "2,144",
-            "Year Ended 31st March 2026 Audited": "(983)"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "(566)",
-            "Year Ended 31st March 2026 Audited": "(752)"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "- 633",
-            "Year Ended 31st March 2026 Audited": "- 1,385"
-          },
-          {
-            "col_1": "",
-            "Year Ended 30th Sept 2026 Unaudited": "67",
-            "Year Ended 31st March 2026 Audited": "633"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "f7de1406-8782-4678-9b69-420c6a8f15ea",
-    "SCRIP_CD": 540318,
-    "XML_NAME": "ANN_540318_F7DE1406-8782-4678-9B69-420C6A8F15EA",
-    "NEWSSUB": "Sueryaa Knitwear Ltd - 540318 - Unaudited Standalone Financial Results For Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-10-23T20:14:25.023",
-    "NEWS_DT": "2026-10-23T20:14:25.023",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e14fcb7b-7a8f-424a-be8c-b1584230fa86.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Standalone Financial Results for quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sueryaa-knitwear-ltd/sueryaakni/540318/",
-    "SLONGNAME": "Sueryaa Knitwear Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-23T20:14:25",
-    "DissemDT": "2026-10-23T20:14:25.023",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1860496,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_assets": "1",
-      "total_equity": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 1,
-        "row_count": 44,
-        "rows": [
-          {
-            "Amt. (In Lakhs)": "Particulars",
-            "col_2": "Quarter Ended",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Half Year Ended",
-            "col_6": "",
-            "col_7": "Year Ended"
-          },
-          {
-            "Amt. (In Lakhs)": "",
-            "col_2": "30-09-2026",
-            "col_3": "30-06-2026",
-            "col_4": "30-09-2025",
-            "col_5": "30-09-2026",
-            "col_6": "30-09-2025",
-            "col_7": "31-03-2026"
-          },
-          {
-            "Amt. (In Lakhs)": "",
-            "col_2": "(Unaudited)",
-            "col_3": "(Unaudited)",
-            "col_4": "(Unaudited)",
-            "col_5": "(Unaudited)",
-            "col_6": "(Unaudited)",
-            "col_7": "(Audited)"
-          },
-          {
-            "Amt. (In Lakhs)": "I. Revenue from Operations",
-            "col_2": "-",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "II. Other Income",
-            "col_2": "2 .47",
-            "col_3": "0 .52",
-            "col_4": "1.26",
-            "col_5": "2.99",
-            "col_6": "1.26",
-            "col_7": "3 .05"
-          },
-          {
-            "Amt. (In Lakhs)": "III. Total Income (I +II)",
-            "col_2": "2 .47",
-            "col_3": "0.52",
-            "col_4": "1 .26",
-            "col_5": "2 .99",
-            "col_6": "1 .26",
-            "col_7": "3 .05"
-          },
-          {
-            "Amt. (In Lakhs)": "IV. Expenses",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Amt. (In Lakhs)": "Cost of Material Consumed",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "Purchases of Stock-in-trade",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "Changes in inventories of finished goods, Work-in- progress and stock-in-trade",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "Employee Benefits Expenses",
-            "col_2": "0 .50",
-            "col_3": "-",
-            "col_4": "0.43",
-            "col_5": "0.50",
-            "col_6": "0.87",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "Finance Costs",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "0.00",
-            "col_5": "-",
-            "col_6": "0.00",
-            "col_7": "0.01"
-          },
-          {
-            "Amt. (In Lakhs)": "Depreciation and amortisation expenses",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "0.08"
-          },
-          {
-            "Amt. (In Lakhs)": "Other Expenses",
-            "col_2": "0 .71",
-            "col_3": "3 .85",
-            "col_4": "0.54",
-            "col_5": "4.56",
-            "col_6": "3.98",
-            "col_7": "9.71"
-          },
-          {
-            "Amt. (In Lakhs)": "Total Expenses (IV)",
-            "col_2": "1 .21",
-            "col_3": "3.85",
-            "col_4": "0 .97",
-            "col_5": "5 .06",
-            "col_6": "4 .85",
-            "col_7": "9 .80"
-          },
-          {
-            "Amt. (In Lakhs)": "V. Profit/(Loss) before exceptional items and tax (III- IV)",
-            "col_2": "1.26",
-            "col_3": "-3.33",
-            "col_4": "0.29",
-            "col_5": "-2.07",
-            "col_6": "-3.59",
-            "col_7": "-6.75"
-          },
-          {
-            "Amt. (In Lakhs)": "VI. Exceptional items",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "VII. Profit/(Loss) before tax (V-VI)",
-            "col_2": "1.26",
-            "col_3": "-3.33",
-            "col_4": "0.29",
-            "col_5": "-2.07",
-            "col_6": "-3.59",
-            "col_7": "-6.75"
-          },
-          {
-            "Amt. (In Lakhs)": "VIII. Tax Expense",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Amt. (In Lakhs)": "(1) Current tax",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "(2) Deferred tax",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "0.15"
-          },
-          {
-            "Amt. (In Lakhs)": "(3) Previous Year Tax",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": ""
-          },
-          {
-            "Amt. (In Lakhs)": "IX. Profit/(Loss) for the period from continuing operations (VII-VIII)",
-            "col_2": "1.26",
-            "col_3": "-3.33",
-            "col_4": "0.29",
-            "col_5": "-2.07",
-            "col_6": "-3.59",
-            "col_7": "-6.90"
-          },
-          {
-            "Amt. (In Lakhs)": "X. Profit/(Loss) from discontinued operations",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "XI. Tax expense of discontinued operations",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "XII. Profit/(Loss) from Discontinued operations (after tax) (X-XI)",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "XIII. Profit/(Loss) for the period (IX+XII)",
-            "col_2": "1.26",
-            "col_3": "-3.33",
-            "col_4": "0.29",
-            "col_5": "-2.07",
-            "col_6": "-3.59",
-            "col_7": "-6.90"
-          },
-          {
-            "Amt. (In Lakhs)": "XIV. Other Comprehensive Income",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "1.87",
-            "col_5": "-",
-            "col_6": "1.87",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "(A) (i) Items that will not be reclassified to profit or loss",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "1.87",
-            "col_5": "-",
-            "col_6": "1.87",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "(ii) Income tax relating to items that will not be reclassified to profit or loss",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "(B) (i) Items that will be classified to profit or loss",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "(ii) Income tax relating to items that will be reclassified to profit or loss",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "XV. Total Comprehensive Income for the period (XIII+XIV) (Comprising Profit (Loss) and Other Comprehensive Income for the Period)",
-            "col_2": "1.26",
-            "col_3": "-3.33",
-            "col_4": "2.17",
-            "col_5": "-2.07",
-            "col_6": "-1.72",
-            "col_7": "-6.90"
-          },
-          {
-            "Amt. (In Lakhs)": "XVI. Paid-up Equity Capital (Face Value of Rs. 10 each)",
-            "col_2": "259.78",
-            "col_3": "259.78",
-            "col_4": "259.78",
-            "col_5": "259.78",
-            "col_6": "259.78",
-            "col_7": "259.78"
-          },
-          {
-            "Amt. (In Lakhs)": "XVII. Other Equity",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "XVIII. Earnings per equity share (for continuing operation):",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Amt. (In Lakhs)": "(1) Basic",
-            "col_2": "0 .05",
-            "col_3": "-0.13",
-            "col_4": "0.01",
-            "col_5": "- 0.08",
-            "col_6": "- 0.14",
-            "col_7": "- 0.27"
-          },
-          {
-            "Amt. (In Lakhs)": "(2) Diluted",
-            "col_2": "0 .05",
-            "col_3": "-0.13",
-            "col_4": "0.01",
-            "col_5": "- 0.08",
-            "col_6": "- 0.14",
-            "col_7": "- 0.27"
-          },
-          {
-            "Amt. (In Lakhs)": "XIX. Earnings per equity share (for discontinued operation):",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Amt. (In Lakhs)": "(1) Basic",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "(2) Diluted",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "Amt. (In Lakhs)": "XX. Earnings per equity share (for discontinued & continuing operations)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Amt. (In Lakhs)": "(1) Basic",
-            "col_2": "0 .05",
-            "col_3": "-0.13",
-            "col_4": "0.01",
-            "col_5": "- 0.08",
-            "col_6": "- 0.14",
-            "col_7": "- 0.27"
-          },
-          {
-            "Amt. (In Lakhs)": "(2) Diluted",
-            "col_2": "0 .05",
-            "col_3": "-0.13",
-            "col_4": "0.01",
-            "col_5": "- 0.08",
-            "col_6": "- 0.14",
-            "col_7": "- 0.27"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 28,
-        "rows": [
-          {
-            "Particulars": "Cash flow from Operating Activities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": ""
-          },
-          {
-            "Particulars": "Profit Before Tax",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-2.07"
-          },
-          {
-            "Particulars": "Adjustments for",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": ""
-          },
-          {
-            "Particulars": "Adjustments for decrease (increase) in trade receivables, non-current",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "0.49"
-          },
-          {
-            "Particulars": "Adjustments for decrease (increase) in other current assets",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-5.75"
-          },
-          {
-            "Particulars": "Adjustments for other financial assets, non-current",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-36.30"
-          },
-          {
-            "Particulars": "Adjustments for other financial assets, current",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "2 2.23"
-          },
-          {
-            "Particulars": "Adjustments for other bank balances",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-0.01"
-          },
-          {
-            "Particulars": "Adjustments for increase (decrease) in trade payables, current",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "1.59"
-          },
-          {
-            "Particulars": "Adjustments for increase (decrease) in other current liabilities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-1.40"
-          },
-          {
-            "Particulars": "Adjustments for interest income",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-"
-          },
-          {
-            "Particulars": "Total adjustments for reconcile profit (loss)",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-19.15"
-          },
-          {
-            "Particulars": "Net cash flows from (used in) operations",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-21.22"
-          },
-          {
-            "Particulars": "Interest received",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-2.86"
-          },
-          {
-            "Particulars": "Other inflows (outflows) of cash",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-0.39"
-          },
-          {
-            "Particulars": "Net cash flows from (used in) operating activities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-24.47"
-          },
-          {
-            "Particulars": "Cash flows from used in investing activities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": ""
-          },
-          {
-            "Particulars": "Interest received",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "2.86"
-          },
-          {
-            "Particulars": "Net cash flows from (used in) investing activities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "2.86"
-          },
-          {
-            "Particulars": "Cash flows from used in financing activities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": ""
-          },
-          {
-            "Particulars": "Net cash flows from (used in) financing activities",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-"
-          },
-          {
-            "Particulars": "Net increase (decrease) in cash and cash equivalents before effect of exchange rate changes",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-21.61"
-          },
-          {
-            "Particulars": "Effect of exchange rate changes on cash and cash equivalents",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-"
-          },
-          {
-            "Particulars": "Effect of exchange rate changes on cash and cash equivalents",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-"
-          },
-          {
-            "Particulars": "Net increase (decrease) in cash and cash equivalents",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "-21.61"
-          },
-          {
-            "Particulars": "Cash and cash equivalents cash flow statement at beginning of period",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "3 2.29"
-          },
-          {
-            "Particulars": "Cash and cash equivalents cash flow statement at end of period",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": "1 0.68"
-          },
-          {
-            "Particulars": "Notes:",
-            "Half Year ended September 30, 2026 (01.04.2026 to 30.09.2026) (Unaudited)": ""
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Sr. No.": "1.",
-            "Particulars": "Loans / revolving facilities like cash credit from banks / financial institutions",
-            "In INR Crore": "0.00"
-          },
-          {
-            "Sr. No.": "A.",
-            "Particulars": "Total amount outstanding as on date",
-            "In INR Crore": "0.00"
-          },
-          {
-            "Sr. No.": "B.",
-            "Particulars": "Of the total amount outstanding, amount",
-            "In INR Crore": "0.00"
-          },
-          {
-            "Sr. No.": "2.",
-            "Particulars": "Unlisted debt securities i.e. NCDs and NCRPS",
-            "In INR Crore": "0.00"
-          },
-          {
-            "Sr. No.": "A.",
-            "Particulars": "Total amount outstanding as on date",
-            "In INR Crore": "0.00"
-          },
-          {
-            "Sr. No.": "B.",
-            "Particulars": "Of the total amount outstanding, amount",
-            "In INR Crore": "0.00"
-          },
-          {
-            "Sr. No.": "3.",
-            "Particulars": "Total financial indebtedness of the listed entity including short-term and long-term debt",
-            "In INR Crore": "0.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "84f80efc-2dde-41d0-8ccf-ad210c7b985c",
-    "SCRIP_CD": 500405,
-    "XML_NAME": "ANN_500405_84F80EFC-2DDE-41D0-8CCF-AD210C7B985C",
-    "NEWSSUB": "Supreme Petrochem Ltd - 500405 - Corporate Action-Board approves Dividend",
-    "DT_TM": "2026-10-23T20:14:07.213",
-    "NEWS_DT": "2026-10-23T20:14:07.213",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bb7f1684-f586-447b-906e-8de8dd9a4ea4.pdf",
-    "MORE": "",
-    "HEADLINE": "Board of Directors of the Company at its meeting held today i.e. October 23, 2026 have declared Interim Dividend of Rs. 2.50 per equity share for FY 2026-27",
-    "CATEGORYNAME": "Corp. Action",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/supreme-petrochem-ltd/splpetro/500405/",
-    "SLONGNAME": "Supreme Petrochem Ltd",
-    "AGENDA_ID": 27,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-23T20:14:07",
-    "DissemDT": "2026-10-23T20:14:07.213",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 955355,
-    "SUBCATNAME": "Dividend",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "196805.7",
-      "total_assets": "405377.16",
-      "total_equity": "254886.12",
-      "total_debt": "172.88",
-      "dividend": "",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
   }
 ]
