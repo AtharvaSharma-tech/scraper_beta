@@ -1,5 +1,79 @@
 [
   {
+    "NEWSID": "806ab713-a1f3-4465-9289-af8ff77ff161",
+    "SCRIP_CD": 520151,
+    "XML_NAME": "ANN_520151_806AB713-A1F3-4465-9289-AF8FF77FF161",
+    "NEWSSUB": "Transworld Shipping Lines Ltd - 520151 - Signing Of Memorandum Of Agreement",
+    "DT_TM": "2026-10-25T00:44:40.967",
+    "NEWS_DT": "2026-10-25T00:44:40.967",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "304f8ea5-bf34-4027-a315-c08c5206a97c.pdf",
+    "MORE": "",
+    "HEADLINE": "Signing of Memorandum of Agreement",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/transworld-shipping-lines-ltd/transworld/520151/",
+    "SLONGNAME": "Transworld Shipping Lines Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-25T00:44:40",
+    "DissemDT": "2026-10-25T00:44:40.967",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 322436,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Deal details (announced 25 Oct 2026, MOA received 24 Oct 2026):** Transworld Shipping Lines Ltd signed a Memorandum of Agreement to buy two vessels – **OEL Surya** for **US $22,030,000** and **OEL Varun** for **US $20,750,000**, totaling **US $42,780,000**.  \n\n- **Transaction context:** The seller, Orient Express Lines Inc., is a wholly‑owned subsidiary of Transworld Sea‑Connect (a related party), but the",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Particulars": "Name(s) of parties with whom the agreement is entered;",
+            "Details- OEL Surya": "Transworld Sea-Connect IFSC Private Limited, wholly owned subsidiary of Transworld Shipping Lines Limited (“the Buyer”) and Orient Express Lines Inc. (“the Seller”).",
+            "Details- OEL Varun": "Transworld Sea-Connect IFSC Private Limited, wholly owned subsidiary of Transworld Shipping Lines Limited (“the Buyer”) and Orient Express Lines Inc. (“the Seller”)."
+          },
+          {
+            "Sr. No.": "2",
+            "Particulars": "Purpose of entering into the agreement;",
+            "Details- OEL Surya": "Purchase of vessel “OEL Surya” from Orient Express Lines INC., Panama, for consideration of US$ 22,030,000",
+            "Details- OEL Varun": "Purchase of vessel “OEL Varun” from Orient Express Lines INC., Panama, for consideration of US$ 20,750,000"
+          },
+          {
+            "Sr. No.": "3",
+            "Particulars": "Shareholding, if any, in the entity with whom the agreement is executed;",
+            "Details- OEL Surya": "Orient Express Lines Inc. – N.A. Transworld Sea-Connect IFSC Private Limited – 100%",
+            "Details- OEL Varun": "Orient Express Lines Inc. – N.A. Transworld Sea-Connect IFSC Private Limited – 100%"
+          },
+          {
+            "Sr. No.": "4",
+            "Particulars": "Significant terms of the agreement (in brief) special rights like right to appoint directors, first right to share subscription in case of issuance of shares, right to restrict any change in capital structure etc.;",
+            "Details- OEL Surya": "NA",
+            "Details- OEL Varun": "NA"
+          },
+          {
+            "Sr. No.": "5",
+            "Particulars": "Whether, the said parties are related to promoter/promoter group/ group companies in any manner. If yes, nature of relationship;",
+            "Details- OEL Surya": "The Buyer and the Seller are under common ultimate ownership / control.",
+            "Details- OEL Varun": "The Buyer and the Seller are under common ultimate ownership / control."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "114d96f2-88f6-4693-9c10-6e6bdc2a7706",
     "SCRIP_CD": 523218,
     "XML_NAME": "ANN_523218_114D96F2-88F6-4693-9C10-6E6BDC2A7706",
@@ -13679,42 +13753,6 @@
     "TimeDiff": "00:00:00",
     "Fld_Attachsize": 674539,
     "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "62ef20e9-1227-4148-9b49-dcd78c1d566b",
-    "SCRIP_CD": 544179,
-    "XML_NAME": "ANN_544179_62EF20E9-1227-4148-9B49-DCD78C1D566B",
-    "NEWSSUB": "Go Digit General Insurance Ltd - 544179 - Announcement under Regulation 30 (LODR)-Credit Rating",
-    "DT_TM": "2026-10-24T18:05:30.5",
-    "NEWS_DT": "2026-10-24T18:05:30.5",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "80868c56-8a6e-48d9-861f-83019086a4f2.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Credit Rating",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/go-digit-general-insurance-ltd/godigit/544179/",
-    "SLONGNAME": "Go Digit General Insurance Ltd",
-    "AGENDA_ID": 46,
-    "TotalPageCnt": 8,
-    "News_submission_dt": "2026-10-24T18:05:30",
-    "DissemDT": "2026-10-24T18:05:30.5",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1552530,
-    "SUBCATNAME": "Credit Rating",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
