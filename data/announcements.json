@@ -1,5 +1,1257 @@
 [
   {
+    "NEWSID": "797c6bc6-ca02-4fbf-a964-820578c96dc5",
+    "SCRIP_CD": 544383,
+    "XML_NAME": "ANN_544383_797C6BC6-CA02-4FBF-A964-820578C96DC5",
+    "NEWSSUB": "Paradeep Parivahan Ltd - 544383 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-25T21:58:54.377",
+    "NEWS_DT": "2026-10-25T21:58:54.377",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f1781736-f72d-4755-96eb-56688f997262.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Regulation 30 (LODR)-Media Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/paradeep-parivahan-ltd/pparivah/544383/",
+    "SLONGNAME": "Paradeep Parivahan Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-25T21:58:54",
+    "DissemDT": "2026-10-25T21:58:54.377",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 775765,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Contract details (25 Oct 2026):** Paradeep Parivahan Ltd signed a **10‑year agreement** with the JSW Group to **deploy and operate 100 electric trucks** for bulk transport of clinker and slag over a **≈ 330 km corridor",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5b5ce1d3-05c7-495a-b261-d68acde51fd8",
+    "SCRIP_CD": 542117,
+    "XML_NAME": "ANN_542117_5B5CE1D3-05C7-495A-B261-D68ACDE51FD8",
+    "NEWSSUB": "Netripples Software Ltd - 542117 - SQ21- UPDATED BOM REG 33 FIN RESULTS, ASSETS AND LIABILITIES, CASHFLOW, LIMITED REVIEW REPORT BY AUDITO - UPDATE OF OLD RECORDS IN DASHBOARD",
+    "DT_TM": "2026-10-25T21:50:19.73",
+    "NEWS_DT": "2026-10-25T21:50:19.73",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "11080296-eb5c-497d-a6a0-cf3dbc387fed.pdf",
+    "MORE": "",
+    "HEADLINE": "SQ21-UPDATED BOM-REG 33FIN RESULTS ASSETS AND LIABILITIES, CASHFLOW, LIMITED REVIEW REPORT BY AUDITOR. OLD RECORDS UPDATED",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/netripples-software-ltd/netripples/542117/",
+    "SLONGNAME": "Netripples Software Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-25T21:50:19",
+    "DissemDT": "2026-10-25T21:50:19.73",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 664388,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "253.366",
+      "total_assets": "711.280",
+      "total_equity": "681.690",
+      "total_debt": "",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 35,
+        "rows": [
+          {
+            "S.N o": "",
+            "Particulars": "",
+            "col_3": "",
+            "3 Months": "Ended",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "Ended",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "",
+            "Particulars": "",
+            "col_3": "",
+            "3 Months": "30-09-",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "30-06-",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "",
+            "Particulars": "",
+            "col_3": "",
+            "3 Months": "2021",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "2021",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "",
+            "Particulars": "",
+            "col_3": "",
+            "3 Months": "(Unaudit",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "(Unaudit",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "",
+            "Particulars": "",
+            "col_3": "",
+            "3 Months": "ed)",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "ed)",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "1",
+            "Particulars": "Revenue from operations",
+            "col_3": "253.366",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "306.066",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "559.432",
+            "Half Year Ended 30-09- 2020 (Audited)": "478.140",
+            "Last Year 2019-20 Audited Results": "1091.11"
+          },
+          {
+            "S.N o": "",
+            "Particulars": "Other income",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "",
+            "Particulars": "Total Income (1)",
+            "col_3": "253.366",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "306.066",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "559.432",
+            "Half Year Ended 30-09- 2020 (Audited)": "478.140",
+            "Last Year 2019-20 Audited Results": "1091.11"
+          },
+          {
+            "S.N o": "2",
+            "Particulars": "Expenses",
+            "col_3": "",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "(a)",
+            "Particulars": "Cost of materials consumed",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "(b)",
+            "Particulars": "Purchases of stock-in-trade",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "(c)",
+            "Particulars": "Changes in inventories of finished goods & WIP",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "-21.76"
+          },
+          {
+            "S.N o": "(d)",
+            "Particulars": "Employee benefit expense",
+            "col_3": "1.850",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "2.450",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "4.300",
+            "Half Year Ended 30-09- 2020 (Audited)": "3.584",
+            "Last Year 2019-20 Audited Results": "21.77"
+          },
+          {
+            "S.N o": "(e)",
+            "Particulars": "Finance costs",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "(f)",
+            "Particulars": "Depreciation, depletion and amortisation expense",
+            "col_3": "0.850",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.950",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "1.800",
+            "Half Year Ended 30-09- 2020 (Audited)": "3.900",
+            "Last Year 2019-20 Audited Results": "9.27"
+          },
+          {
+            "S.N o": "(g)",
+            "Particulars": "Other Onsite and Project Expenses",
+            "col_3": "244.961",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "283.345",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "537.411",
+            "Half Year Ended 30-09- 2020 (Audited)": "452.034",
+            "Last Year 2019-20 Audited Results": "1080.68"
+          },
+          {
+            "S.N o": "",
+            "Particulars": "Total Expenses (2)",
+            "col_3": "247.661",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "286.745",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "543.511",
+            "Half Year Ended 30-09- 2020 (Audited)": "459.518",
+            "Last Year 2019-20 Audited Results": "1089.98"
+          },
+          {
+            "S.N o": "3",
+            "Particulars": "Total profit before exceptional items and tax (1-2)",
+            "col_3": "5.705",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "15.921",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "15.921",
+            "Half Year Ended 30-09- 2020 (Audited)": "11.137",
+            "Last Year 2019-20 Audited Results": "1.13"
+          },
+          {
+            "S.N o": "4",
+            "Particulars": "Exceptional items",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.0"
+          },
+          {
+            "S.N o": "5",
+            "Particulars": "Total profit before tax (3-4)",
+            "col_3": "5.705",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "15.921",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "15.921",
+            "Half Year Ended 30-09- 2020 (Audited)": "11.137",
+            "Last Year 2019-20 Audited Results": "1.13"
+          },
+          {
+            "S.N o": "6",
+            "Particulars": "Tax expense",
+            "col_3": "",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "",
+            "Half Year Ended 30-09- 2020 (Audited)": "",
+            "Last Year 2019-20 Audited Results": ""
+          },
+          {
+            "S.N o": "(a)",
+            "Particulars": "Current tax",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.23"
+          },
+          {
+            "S.N o": "(b)",
+            "Particulars": "Deferred tax",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "7",
+            "Particulars": "Net Profit / (Loss) for the period from continuing operations",
+            "col_3": "5.705",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "15.921",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "15.921",
+            "Half Year Ended 30-09- 2020 (Audited)": "11.137",
+            "Last Year 2019-20 Audited Results": "1.13"
+          },
+          {
+            "S.N o": "8",
+            "Particulars": "Profit / (loss) from discontinued operations after tax",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "9",
+            "Particulars": "Share of profit (loss) of associates/joint ventures",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "10",
+            "Particulars": "Total Profit / (Loss) for the period",
+            "col_3": "5.705",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "15.921",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "15.921",
+            "Half Year Ended 30-09- 2020 (Audited)": "11.137",
+            "Last Year 2019-20 Audited Results": "1.13"
+          },
+          {
+            "S.N o": "11",
+            "Particulars": "Other Comprehensive Income net of taxes",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "12",
+            "Particulars": "Total Comprehensive Income for the period",
+            "col_3": "5.705",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "15.921",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "15.921",
+            "Half Year Ended 30-09- 2020 (Audited)": "11.137",
+            "Last Year 2019-20 Audited Results": "1.13"
+          },
+          {
+            "S.N o": "13",
+            "Particulars": "Paid-up equity share capital (Face Value Rs. 10/-)",
+            "col_3": "681.690",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "681.690",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "681.690",
+            "Half Year Ended 30-09- 2020 (Audited)": "681.690",
+            "Last Year 2019-20 Audited Results": "681.69"
+          },
+          {
+            "S.N o": "14",
+            "Particulars": "Reserves excluding Revaluation Reserves",
+            "col_3": "331.164",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "325.459",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "331.164",
+            "Half Year Ended 30-09- 2020 (Audited)": "303.936",
+            "Last Year 2019-20 Audited Results": "304.83"
+          },
+          {
+            "S.N o": "15",
+            "Particulars": "Earnings Per Share (EPS) - Basic & Diluted (in Rs.)",
+            "col_3": "0.008",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.023",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.486",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.163",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "16",
+            "Particulars": "Debt Equity Ratio",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "17",
+            "Particulars": "Debt Service Coverage Ratio",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          },
+          {
+            "S.N o": "18",
+            "Particulars": "Interest Service Coverage Ratio",
+            "col_3": "0.000",
+            "3 Months": "",
+            "col_5": "",
+            "col_6": "0.000",
+            "3 Months_1": "",
+            "col_8": "",
+            "Half Year Ended 30-09-2021 (Unaudited)": "0.000",
+            "Half Year Ended 30-09- 2020 (Audited)": "0.000",
+            "Last Year 2019-20 Audited Results": "0.00"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 44,
+        "rows": [
+          {
+            "S.No": "",
+            "Particulars": "",
+            "col_3": "",
+            "As at 30-09-2021": "(Unaudited)",
+            "col_5": ""
+          },
+          {
+            "S.No": "I.",
+            "Particulars": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "1",
+            "Particulars": "Equity",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(a)",
+            "Particulars": "Equity Share capital",
+            "col_3": "681.690",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(b)",
+            "Particulars": "Other Equity",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Equity Attributable to Owners",
+            "col_3": "681.690",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Non-controlling Interest",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Equity",
+            "col_3": "681.690",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "2",
+            "Particulars": "Non-Current Liabilities",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(a)",
+            "Particulars": "Financial Liabilities",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(i)",
+            "Particulars": "Borrowings, non-current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(ii)",
+            "Particulars": "Trade payables, non-current",
+            "col_3": "5.740",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(iii)",
+            "Particulars": "Other non-current financial liabilities",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Non-Current Financial Liabilities",
+            "col_3": "5.740",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(b)",
+            "Particulars": "Provisions, non-current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(c)",
+            "Particulars": "Deferred tax liabilities (net)",
+            "col_3": "23.610",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(d)",
+            "Particulars": "Deferred government grants, Non-current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(e)",
+            "Particulars": "Other non-current liabilities",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Non-Current Liabilities",
+            "col_3": "29.350",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "3",
+            "Particulars": "Current Liabilities",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(a)",
+            "Particulars": "Financial Liabilities",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(i)",
+            "Particulars": "Borrowings, current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(ii)",
+            "Particulars": "Trade payables, current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(iii)",
+            "Particulars": "Other current financial liabilities",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Current Financial Liabilities",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(b)",
+            "Particulars": "Other current liabilities",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(c)",
+            "Particulars": "Provisions, current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(d)",
+            "Particulars": "Current tax liabilities (Net)",
+            "col_3": "0.240",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(e)",
+            "Particulars": "Deferred government grants, Current",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Current Liabilities",
+            "col_3": "0.240",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "4",
+            "Particulars": "Liabilities directly associated with assets in disposal group",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "5",
+            "Particulars": "Regulatory deferral account credit balances & deferred tax liability",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "TOTAL EQUITY AND LIABILITIES",
+            "col_3": "711.280",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "II.",
+            "Particulars": "ASSETS",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "1",
+            "Particulars": "Non-Current Assets",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(a)",
+            "Particulars": "Property, plant and equipment",
+            "col_3": "24.701",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(b)",
+            "Particulars": "Capital work-in-progress",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(c)",
+            "Particulars": "Investment property",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(d)",
+            "Particulars": "Goodwill",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(e)",
+            "Particulars": "Other intangible assets",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(f)",
+            "Particulars": "Intangible assets under development",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(g)",
+            "Particulars": "Biological assets other than bearer plants",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(h)",
+            "Particulars": "Investments accounted for using equity method",
+            "col_3": "0.000",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "(i)",
+            "Particulars": "Non-current financial assets",
+            "col_3": "",
+            "As at 30-09-2021": "",
+            "col_5": ""
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 23,
+        "rows": [
+          {
+            "(i)": "(ii)",
+            "Non-current investments": "Trade receivables, non-current",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(iii)",
+            "Non-current investments": "Loans, non-current",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(iv)",
+            "Non-current investments": "Other non-current financial assets",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "",
+            "Non-current investments": "Total Non-Current Financial Assets",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(j)",
+            "Non-current investments": "Deferred tax assets (net)",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(k)",
+            "Non-current investments": "Other non-current assets",
+            "0.000": "3.388"
+          },
+          {
+            "(i)": "",
+            "Non-current investments": "Total Non-Current Assets",
+            "0.000": "28.089"
+          },
+          {
+            "(i)": "2",
+            "Non-current investments": "Current Assets",
+            "0.000": ""
+          },
+          {
+            "(i)": "(a)",
+            "Non-current investments": "Inventories",
+            "0.000": "663.629"
+          },
+          {
+            "(i)": "(b)",
+            "Non-current investments": "Current financial assets",
+            "0.000": ""
+          },
+          {
+            "(i)": "(i)",
+            "Non-current investments": "Current investments",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(ii)",
+            "Non-current investments": "Trade receivables, current",
+            "0.000": "18.558"
+          },
+          {
+            "(i)": "(iii)",
+            "Non-current investments": "Cash and cash equivalents",
+            "0.000": "0.900"
+          },
+          {
+            "(i)": "(iv)",
+            "Non-current investments": "Bank balance other than cash and cash equivalents",
+            "0.000": "0.104"
+          },
+          {
+            "(i)": "(v)",
+            "Non-current investments": "Loans, current",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(vi)",
+            "Non-current investments": "Other current financial assets",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "",
+            "Non-current investments": "Total Current Financial Assets",
+            "0.000": "19.562"
+          },
+          {
+            "(i)": "(c)",
+            "Non-current investments": "Current tax assets (net)",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "(d)",
+            "Non-current investments": "Other current assets",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "",
+            "Non-current investments": "Total Current Assets",
+            "0.000": "683.191"
+          },
+          {
+            "(i)": "3",
+            "Non-current investments": "Non-current assets classified as held for sale",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "4",
+            "Non-current investments": "Regulatory deferral account debit balances & deferred tax assets",
+            "0.000": "0.000"
+          },
+          {
+            "(i)": "",
+            "Non-current investments": "TOTAL ASSETS",
+            "0.000": "711.280"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 28,
+        "rows": [
+          {
+            "S.No": "",
+            "Particulars": "",
+            "col_3": "",
+            "Half Year Ended": "30-09-2021",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "",
+            "col_3": "",
+            "Half Year Ended": "(Unaudited)",
+            "col_5": ""
+          },
+          {
+            "S.No": "A.",
+            "Particulars": "CASH FLOW FROM OPERATING ACTIVITIES",
+            "col_3": "",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Profit before tax",
+            "col_3": "15.921",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for reconcile profit (loss):",
+            "col_3": "",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for finance costs",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for decrease (increase) in inventories",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for decrease (increase) in trade receivables, current",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for decrease (increase) in other current assets",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for increase (decrease) in trade payables",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Adjustments for depreciation and amortisation expense",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Adjustments",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Net Cash flows from (used in) operations",
+            "col_3": "15.921",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Dividends received / Interest paid / Income taxes refund",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Net cash flows from (used in) operating activities (A)",
+            "col_3": "15.921",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "B.",
+            "Particulars": "CASH FLOW FROM INVESTING ACTIVITIES",
+            "col_3": "",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Proceeds / (Purchase) of Property, Plant and Equipment",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Proceeds / (Purchase) of Intangible Assets",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Other inflows (outflows) of cash from investing activities",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Net cash flows from (used in) investing activities (B)",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "C.",
+            "Particulars": "CASH FLOW FROM FINANCING ACTIVITIES",
+            "col_3": "",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Proceeds from issuing shares / borrowings",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Repayments of borrowings / lease liabilities",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Dividends / Interest paid",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Net cash flows from (used in) financing activities (C)",
+            "col_3": "0.000",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "D.",
+            "Particulars": "NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C)",
+            "col_3": "15.921",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Cash and cash equivalents at beginning of period",
+            "col_3": "0.430",
+            "Half Year Ended": "",
+            "col_5": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Cash and cash equivalents at end of period",
+            "col_3": "16.35",
+            "Half Year Ended": "",
+            "col_5": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "079e9eb2-425b-4dca-be29-52334012a09f",
+    "SCRIP_CD": 530475,
+    "XML_NAME": "ANN_530475_079E9EB2-425B-4DCA-BE29-52334012A09F",
+    "NEWSSUB": "Tinna Rubber and Infrastructure Ltd - 530475 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-25T21:44:21.127",
+    "NEWS_DT": "2026-10-25T21:44:21.127",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9b0a07c2-1514-42e8-b333-e1f5ceb0c76c.pdf",
+    "MORE": "",
+    "HEADLINE": "updated investor presentation for earnings call to be held on 26/October/2026 on operational and financial performance for the the second quarter and half year ended on 30/September/2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/tinna-rubber-and-infrastructure-ltd/tinnarubr/530475/",
+    "SLONGNAME": "Tinna Rubber and Infrastructure Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-25T21:44:21",
+    "DissemDT": "2026-10-25T21:44:21.127",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 10106715,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & coverage** – On 25 Oct 2026, Tinna Rubber & Infrastructure Ltd filed a Regulation 30 disclosure announcing the release of its updated Investor & Earnings Presentation covering the company’s financial and operational performance for Q2 and the first half of FY 2027 (the period ended 30 Sept 2026).  \n\n- **Content & availability** – The presentation (which lists product segments such as rubber conveyor, polymer‑moulded tyres, masterbatches, pyrolysis tiles, etc.) contains no specific financial figures, earnings numbers, or monetary decisions in the excerpt; it is made available on the company’s website https://tinna.in/notices‑announcements/.",
+    "key_metrics": {
+      "revenue": "1.85",
+      "net_profit": "2.4",
+      "operating_profit": "2.5",
+      "total_assets": "193",
+      "total_equity": "96",
+      "total_debt": "24",
+      "eps": "9.45",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 47,
+        "table_index": 13,
+        "row_count": 2,
+        "rows": [
+          {
+            "Total current liabilities": "Total Liabilities",
+            "66": "97",
+            "85": "140",
+            "130": "207",
+            "169": "229",
+            "157": "227"
+          },
+          {
+            "Total current liabilities": "Total equity and liabilities",
+            "66": "193",
+            "85": "268",
+            "130": "385",
+            "169": "529",
+            "157": "560"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "d7cef4a4-5eb7-4e5e-a822-73cea4b302fd",
     "SCRIP_CD": 500469,
     "XML_NAME": "ANN_500469_D7CEF4A4-5EB7-4E5E-A822-73CEA4B302FD",
@@ -8385,167 +9637,6 @@
     "TimeDiff": "00:00:00",
     "Fld_Attachsize": 1735018,
     "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "87d2cc8a-73b8-4544-8dcc-34040608ccda",
-    "SCRIP_CD": 532388,
-    "XML_NAME": "ANN_532388_87D2CC8A-73B8-4544-8DCC-34040608CCDA",
-    "NEWSSUB": "Indian Overseas Bank - 532388 - Announcement Under Regulation 30",
-    "DT_TM": "2026-10-24T19:04:29.71",
-    "NEWS_DT": "2026-10-24T19:04:29.71",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "61fbe373-3687-4b62-9e05-40cd95ed7287.pdf",
-    "MORE": "",
-    "HEADLINE": "Announcement under Regulation 30",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/indian-overseas-bank/iob/532388/",
-    "SLONGNAME": "Indian Overseas Bank",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 9,
-    "News_submission_dt": "2026-10-24T19:04:29",
-    "DissemDT": "2026-10-24T19:04:29.71",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 505888,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 1,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "Particular": "Total Risk Weighted Assets",
-            "Calculated by the Bank": "1,97,931.60",
-            "Assessed by RBI as part of ISE 2026": "2,05,323.69"
-          },
-          {
-            "Particular": "Common Equity Tier 1 (CET 1) / Tier 1 Capital",
-            "Calculated by the Bank": "33,524.49",
-            "Assessed by RBI as part of ISE 2026": "33,514.49"
-          },
-          {
-            "Particular": "Total Capital",
-            "Calculated by the Bank": "39,143.98",
-            "Assessed by RBI as part of ISE 2026": "39,133.98"
-          },
-          {
-            "Particular": "Common Equity Tier 1 (CET1)/ Tier I CRAR (%)",
-            "Calculated by the Bank": "16.94",
-            "Assessed by RBI as part of ISE 2026": "16.32"
-          },
-          {
-            "Particular": "Tier 2 CRAR (%)",
-            "Calculated by the Bank": "2.84",
-            "Assessed by RBI as part of ISE 2026": "2.74"
-          },
-          {
-            "Particular": "Total CRAR (%)",
-            "Calculated by the Bank": "19.78",
-            "Assessed by RBI as part of ISE 2026": "19.06"
-          },
-          {
-            "Particular": "Leverage Ratio (%)",
-            "Calculated by the Bank": "6.60",
-            "Assessed by RBI as part of ISE 2026": "6.58"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "dfea79f2-a871-4f63-833e-7a13aee1b124",
-    "SCRIP_CD": 500233,
-    "XML_NAME": "ANN_500233_DFEA79F2-A871-4F63-833E-7A13AEE1B124",
-    "NEWSSUB": "Kajaria Ceramics Ltd - 500233 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-10-24T19:04:15.74",
-    "NEWS_DT": "2026-10-24T19:04:15.74",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8f2a8680-c3e8-4640-8ca9-084241e02dce.pdf",
-    "MORE": "",
-    "HEADLINE": "The Board of Directors of the Company at its meeting held today, approved the items mentioned in the attached document.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kajaria-ceramics-ltd/kajariacer/500233/",
-    "SLONGNAME": "Kajaria Ceramics Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 9,
-    "News_submission_dt": "2026-10-24T19:04:14",
-    "DissemDT": "2026-10-24T19:04:15.74",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1598805,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "1331.90",
-      "net_profit": "16.92 crore",
-      "total_assets": "3.715",
-      "eps": "1",
-      "dividend": "94",
-      "face_value": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0708bd22-e954-4a75-afd9-208763c90b92",
-    "SCRIP_CD": 544599,
-    "XML_NAME": "ANN_544599_0708BD22-E954-4A75-AFD9-208763C90B92",
-    "NEWSSUB": "Studds Accessories Ltd - 544599 - Board Meeting Intimation for Consider And Approve The Standalone And Consolidated Unaudited Financial Results Of The Company For The Quarter And Half Year Ended On September 30, 2026.\r\n",
-    "DT_TM": "2026-10-24T19:03:22.867",
-    "NEWS_DT": "2026-10-24T19:03:22.867",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2d978f97-a00e-4c20-ac51-7de5d28f5261.pdf",
-    "MORE": "Studds Accessories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 31/10/2026 ,inter alia, to consider and approve the Standalone and Consolidated Unaudited Financial Results of the Company for the quarter and half year ended on September 30, 2026.",
-    "HEADLINE": "Studds Accessories Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 31/10/2026 ,inter alia, to consider and approve the Standalone and Consolidated ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/studds-accessories-ltd/studds/544599/",
-    "SLONGNAME": "Studds Accessories Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 9,
-    "News_submission_dt": "2026-10-24T19:03:22",
-    "DissemDT": "2026-10-24T19:03:22.867",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 283127,
-    "SUBCATNAME": "Board Meeting",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
