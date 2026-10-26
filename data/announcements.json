@@ -1,5 +1,441 @@
 [
   {
+    "NEWSID": "f6e4f5e1-a79c-4caa-82cb-c243c7f4c744",
+    "SCRIP_CD": 544865,
+    "XML_NAME": "ANN_544865_F6E4F5E1-A79C-4CAA-82CB-C243C7F4C744",
+    "NEWSSUB": "LEAP India Ltd - 544865 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-26T22:51:17.58",
+    "NEWS_DT": "2026-10-26T22:51:17.58",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "489c3581-7831-41c4-b425-289d119fdf3b.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release for acqusition of business undertaking by wholly owned subsidaries of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/leap-india-ltd/leapind/544865/",
+    "SLONGNAME": "LEAP India Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-26T22:51:17",
+    "DissemDT": "2026-10-26T22:51:17.58",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 334894,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Acquisition agreements signed on 26 Oct 2026",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Disclosure requirement": "Name of the target entity, details in brief such as size, turnover etc.",
+            "Details": "M/s Vimprotech (a sole proprietorship firm represented by the sole proprietor Ms. B Sumitha) is in the business of manufacturing of vacuum-formed, thermoformed and injection-moulded products and packaging solution with its manufacturing units located in South India. Vimprotech caters to various industries including automobiles, electrical and electronics, consumer durables, agriculture, food packaging, logistics and industrial manufacturing sectors (“Vimprotech Business”). Vimprotech had total revenue of Rs. 47 crores (Rs. Forty- Seven crores) for the business taken over in the financial year 2025-26."
+          },
+          {
+            "Sr. No": "2",
+            "Disclosure requirement": "Whether the acquisition would fall within related party transaction(s) and whether the promoter/ promoter group/ group companies have any interest in the entity being acquired? If yes, nature of interest and details thereof and whether the same is done at “arm’s length”;",
+            "Details": "The acquisition does not fall within the related party transactions. The Promoter/ Promoter group of LEAP has no interest in the above entity."
+          },
+          {
+            "Sr. No": "3",
+            "Disclosure requirement": "Industry to which the entity being acquired belongs;",
+            "Details": "Manufacturing of Plastic Packaging Products."
+          },
+          {
+            "Sr. No": "4",
+            "Disclosure requirement": "Objects and impact of acquisition (including but not limited to, disclosure of reasons for acquisition of target entity, if its business is outside the main line of business of the listed entity);",
+            "Details": "The transaction is consistent with LEAP’s growth strategy and enhances its capabilities with backward integration. LEAP has identified the facilities located in South India as a suitable acquisition target because it is into designing, mould manufacturing and production of comprehensive range of Plastic Packaging products. The acquisition will strengthen the LEAP’s design capabilities, in-house production for container business, broaden its portfolio of vacuum-formed, thermoformed & injection-moulded packaging products and increase cross- selling opportunities across its existing and prospective customer base, thereby generating operational and cost efficiencies, faster turnaround time and improved customer experience. The BTA 1 records the process and manner of transfer of the business undertaking of Vimprotech located in South India including the conditions precedent."
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Sr. No": "5",
+            "Disclosure requirement": "Brief details of any governmental or regulatory approvals required for the acquisition;",
+            "Details": "Not Applicable."
+          },
+          {
+            "Sr. No": "6",
+            "Disclosure requirement": "Indicative time period for completion of the acquisition;",
+            "Details": "Subject to fulfilment of the conditions precedent set out under BTA 1, the acquisition of the Vimprotech Business is expected to be completed by 3rd Quarter of FY2026-27."
+          },
+          {
+            "Sr. No": "7",
+            "Disclosure requirement": "Consideration - whether cash consideration or share swap or any other form and details of the same",
+            "Details": "Cash consideration only which shall be payable in tranches."
+          },
+          {
+            "Sr. No": "8",
+            "Disclosure requirement": "Cost of acquisition and/or the price at which the shares are acquired",
+            "Details": "The Vimprotech Business will be acquired by M/s. Vimprotech Private Limited (“Acquirer 1”), subject to closing of the transaction, for a cash consideration of Rs. 102 crores (Rs. One Hundred and Two crores only) to M/s. Vimprotech payable in tranches in accordance with the terms and conditions set out in BTA 1."
+          },
+          {
+            "Sr. No": "9",
+            "Disclosure requirement": "Percentage of shareholding/control acquired and / or number of shares acquired.",
+            "Details": "Not Applicable."
+          },
+          {
+            "Sr. No": "10",
+            "Disclosure requirement": "Brief background about the entity acquired in terms of products/line of business acquired, date of incorporation, history of last 3 years turnover, country in which the acquired entity has presence and any other significant information (in brief)",
+            "Details": "Not applicable since the transaction is acquisition of Vimprotech Business by way of a slump sale on a going concern basis."
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Disclosure requirement": "Name of the target entity, details in brief such as size, turnover etc.",
+            "Details": "Total International Packaging Solutions is in the business of pooling returnable packing materials, catering to Auto industry (“TIPS Business”). As per the audited financial statements, TIPS had total revenue of Rs. 18 crores (Rs. Eighteen Crores) in the financial year 2025-26."
+          },
+          {
+            "Sr. No": "2",
+            "Disclosure requirement": "Whether the acquisition would fall within related party transaction(s) and whether the promoter/ promoter group/ group companies have any interest in the entity being acquired? If yes, nature of interest and details thereof and whether the same is done at “arm’s length”;",
+            "Details": "The acquisition does not fall within the related party transactions. The Promoter/ Promoter group of LEAP has no interest in the above entity."
+          },
+          {
+            "Sr. No": "3",
+            "Disclosure requirement": "Industry to which the entity being acquired belongs;",
+            "Details": "Pooling of Plastic Packaging Products"
+          },
+          {
+            "Sr. No": "4",
+            "Disclosure requirement": "Objects and impact of acquisition (including but not limited to, disclosure of reasons for acquisition of target entity, if its business is outside the main line of business of the listed entity);",
+            "Details": "The transaction is consistent with LEAP’s growth strategy to expand its Pooling of returnable packaging solutions business across India and further strengthen its position into automotive sector. TIPS has been identified as a suitable target because of its presence into asset pooling with varied product categories such as Trays, Covers, Flute Boards & Pallets across South and Central India. The BTA 2 records the process and manner of transfer of the business undertaking of TIPS including the conditions precedent set out in the BTA 2."
+          },
+          {
+            "Sr. No": "5",
+            "Disclosure requirement": "Brief details of any governmental or regulatory approvals required for the acquisition;",
+            "Details": "Not Applicable."
+          },
+          {
+            "Sr. No": "6",
+            "Disclosure requirement": "Indicative time period for completion of the acquisition;",
+            "Details": "Subject to fulfilment of the conditions precedent set out under BTA 2, the acquisition of the TIPS Business is expected to be completed by 3rd Quarter of FY2026-27."
+          },
+          {
+            "Sr. No": "7",
+            "Disclosure requirement": "Consideration - whether cash consideration or share swap or any other form and details of the same",
+            "Details": "Cash consideration only, which shall be payable in tranches."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "d3b6f2ff-88de-4168-b487-d727c9b7a862",
+    "SCRIP_CD": 532955,
+    "XML_NAME": "ANN_532955_D3B6F2FF-88DE-4168-B487-D727C9B7A862",
+    "NEWSSUB": "REC Ltd - 532955 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-26T22:49:00.247",
+    "NEWS_DT": "2026-10-26T22:49:00.247",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f3608ada-8df1-4f0e-9808-6666efcfb2e0.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Investors Conference Call on Thursday, October 29, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rec-ltd/recltd/532955/",
+    "SLONGNAME": "REC Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-26T22:49:00",
+    "DissemDT": "2026-10-26T22:49:00.247",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3376429,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "d3b6f2ff-88de-4168-b487-d727c9b7a862",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14661419,
+    "DataInsDate": "2026-10-26T22:49:00.213",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- REC Ltd. announced an investor/analyst conference call on **Thursday, 29 October 2026 at 13:00 IST** to present its financial results for the quarter and half‑year ended 30 September 2026 (Q2 & H1 FY 27). The call will be led by senior management, and the audio recording and presentation will be posted on the company’s website afterward.  \n\n- The notice contains **no specific financial figures or decisions**; it only informs stakeholders of the upcoming discussion of the results.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "cb8dfdce-356e-4392-8c1f-a00a1e6c2bd8",
+    "SCRIP_CD": 544865,
+    "XML_NAME": "ANN_544865_CB8DFDCE-356E-4392-8C1F-A00A1E6C2BD8",
+    "NEWSSUB": "LEAP India Ltd - 544865 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "DT_TM": "2026-10-26T22:48:30.043",
+    "NEWS_DT": "2026-10-26T22:48:30.043",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a8243b46-2412-4f3a-b72d-6b95bb256cd2.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of execution of Business Transfer Agreement for acquisition of business undertaking by wholly owned subsidaries of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/leap-india-ltd/leapind/544865/",
+    "SLONGNAME": "LEAP India Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-26T22:48:30",
+    "DissemDT": "2026-10-26T22:48:30.043",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 334894,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Disclosure requirement": "Name of the target entity, details in brief such as size, turnover etc.",
+            "Details": "M/s Vimprotech (a sole proprietorship firm represented by the sole proprietor Ms. B Sumitha) is in the business of manufacturing of vacuum-formed, thermoformed and injection-moulded products and packaging solution with its manufacturing units located in South India. Vimprotech caters to various industries including automobiles, electrical and electronics, consumer durables, agriculture, food packaging, logistics and industrial manufacturing sectors (“Vimprotech Business”). Vimprotech had total revenue of Rs. 47 crores (Rs. Forty- Seven crores) for the business taken over in the financial year 2025-26."
+          },
+          {
+            "Sr. No": "2",
+            "Disclosure requirement": "Whether the acquisition would fall within related party transaction(s) and whether the promoter/ promoter group/ group companies have any interest in the entity being acquired? If yes, nature of interest and details thereof and whether the same is done at “arm’s length”;",
+            "Details": "The acquisition does not fall within the related party transactions. The Promoter/ Promoter group of LEAP has no interest in the above entity."
+          },
+          {
+            "Sr. No": "3",
+            "Disclosure requirement": "Industry to which the entity being acquired belongs;",
+            "Details": "Manufacturing of Plastic Packaging Products."
+          },
+          {
+            "Sr. No": "4",
+            "Disclosure requirement": "Objects and impact of acquisition (including but not limited to, disclosure of reasons for acquisition of target entity, if its business is outside the main line of business of the listed entity);",
+            "Details": "The transaction is consistent with LEAP’s growth strategy and enhances its capabilities with backward integration. LEAP has identified the facilities located in South India as a suitable acquisition target because it is into designing, mould manufacturing and production of comprehensive range of Plastic Packaging products. The acquisition will strengthen the LEAP’s design capabilities, in-house production for container business, broaden its portfolio of vacuum-formed, thermoformed & injection-moulded packaging products and increase cross- selling opportunities across its existing and prospective customer base, thereby generating operational and cost efficiencies, faster turnaround time and improved customer experience. The BTA 1 records the process and manner of transfer of the business undertaking of Vimprotech located in South India including the conditions precedent."
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Sr. No": "5",
+            "Disclosure requirement": "Brief details of any governmental or regulatory approvals required for the acquisition;",
+            "Details": "Not Applicable."
+          },
+          {
+            "Sr. No": "6",
+            "Disclosure requirement": "Indicative time period for completion of the acquisition;",
+            "Details": "Subject to fulfilment of the conditions precedent set out under BTA 1, the acquisition of the Vimprotech Business is expected to be completed by 3rd Quarter of FY2026-27."
+          },
+          {
+            "Sr. No": "7",
+            "Disclosure requirement": "Consideration - whether cash consideration or share swap or any other form and details of the same",
+            "Details": "Cash consideration only which shall be payable in tranches."
+          },
+          {
+            "Sr. No": "8",
+            "Disclosure requirement": "Cost of acquisition and/or the price at which the shares are acquired",
+            "Details": "The Vimprotech Business will be acquired by M/s. Vimprotech Private Limited (“Acquirer 1”), subject to closing of the transaction, for a cash consideration of Rs. 102 crores (Rs. One Hundred and Two crores only) to M/s. Vimprotech payable in tranches in accordance with the terms and conditions set out in BTA 1."
+          },
+          {
+            "Sr. No": "9",
+            "Disclosure requirement": "Percentage of shareholding/control acquired and / or number of shares acquired.",
+            "Details": "Not Applicable."
+          },
+          {
+            "Sr. No": "10",
+            "Disclosure requirement": "Brief background about the entity acquired in terms of products/line of business acquired, date of incorporation, history of last 3 years turnover, country in which the acquired entity has presence and any other significant information (in brief)",
+            "Details": "Not applicable since the transaction is acquisition of Vimprotech Business by way of a slump sale on a going concern basis."
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Disclosure requirement": "Name of the target entity, details in brief such as size, turnover etc.",
+            "Details": "Total International Packaging Solutions is in the business of pooling returnable packing materials, catering to Auto industry (“TIPS Business”). As per the audited financial statements, TIPS had total revenue of Rs. 18 crores (Rs. Eighteen Crores) in the financial year 2025-26."
+          },
+          {
+            "Sr. No": "2",
+            "Disclosure requirement": "Whether the acquisition would fall within related party transaction(s) and whether the promoter/ promoter group/ group companies have any interest in the entity being acquired? If yes, nature of interest and details thereof and whether the same is done at “arm’s length”;",
+            "Details": "The acquisition does not fall within the related party transactions. The Promoter/ Promoter group of LEAP has no interest in the above entity."
+          },
+          {
+            "Sr. No": "3",
+            "Disclosure requirement": "Industry to which the entity being acquired belongs;",
+            "Details": "Pooling of Plastic Packaging Products"
+          },
+          {
+            "Sr. No": "4",
+            "Disclosure requirement": "Objects and impact of acquisition (including but not limited to, disclosure of reasons for acquisition of target entity, if its business is outside the main line of business of the listed entity);",
+            "Details": "The transaction is consistent with LEAP’s growth strategy to expand its Pooling of returnable packaging solutions business across India and further strengthen its position into automotive sector. TIPS has been identified as a suitable target because of its presence into asset pooling with varied product categories such as Trays, Covers, Flute Boards & Pallets across South and Central India. The BTA 2 records the process and manner of transfer of the business undertaking of TIPS including the conditions precedent set out in the BTA 2."
+          },
+          {
+            "Sr. No": "5",
+            "Disclosure requirement": "Brief details of any governmental or regulatory approvals required for the acquisition;",
+            "Details": "Not Applicable."
+          },
+          {
+            "Sr. No": "6",
+            "Disclosure requirement": "Indicative time period for completion of the acquisition;",
+            "Details": "Subject to fulfilment of the conditions precedent set out under BTA 2, the acquisition of the TIPS Business is expected to be completed by 3rd Quarter of FY2026-27."
+          },
+          {
+            "Sr. No": "7",
+            "Disclosure requirement": "Consideration - whether cash consideration or share swap or any other form and details of the same",
+            "Details": "Cash consideration only, which shall be payable in tranches."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "136c31ee-ca78-45a5-9933-f22735c31130",
+    "SCRIP_CD": 538567,
+    "XML_NAME": "ANN_538567_136C31EE-CA78-45A5-9933-F22735C31130",
+    "NEWSSUB": "Gulf Oil Lubricants India Ltd - 538567 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-26T22:46:47.033",
+    "NEWS_DT": "2026-10-26T22:46:47.033",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "598fd1eb-238f-403d-81ae-d67ca1b065ca.pdf",
+    "MORE": "",
+    "HEADLINE": "We hereby inform you that a Physical Meet is scheduled to be held with the Institutional Investors/Analyst Groups on Thursday, October 29, 2026 in Mumbai.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gulf-oil-lubricants-india-ltd/gulfoillub/538567/",
+    "SLONGNAME": "Gulf Oil Lubricants India Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-26T22:46:46",
+    "DissemDT": "2026-10-26T22:46:47.033",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 292989,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "136c31ee-ca78-45a5-9933-f22735c31130",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14661417,
+    "DataInsDate": "2026-10-26T22:46:46.943",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Gulf Oil Lubricants India Ltd has scheduled a physical Institutional Investors/Analysts’ Meet for **Thursday, 29 October 2026** in Mumbai (subject to change).  \n- The announcement contains **no financial figures, dates of financial events, or decisions**—it only informs about the upcoming investor/analyst meeting.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4137df6d-581a-4bd9-a4e5-131d0e73c61c",
+    "SCRIP_CD": 544570,
+    "XML_NAME": "ANN_544570_4137DF6D-581A-4BD9-A4E5-131D0E73C61C",
+    "NEWSSUB": "WeWork India Management Ltd - 544570 - Intimation Under Regulation 8(2) Of The Securities And Exchange Board Of India (Prohibition Of Insider Trading) Regulations, 2015",
+    "DT_TM": "2026-10-26T22:37:10.517",
+    "NEWS_DT": "2026-10-26T22:37:10.517",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b4c7db44-6cd6-4191-a00a-9da9bfce113a.pdf",
+    "MORE": "",
+    "HEADLINE": "Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/wework-india-management-ltd/wework/544570/",
+    "SLONGNAME": "WeWork India Management Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-26T22:37:10",
+    "DissemDT": "2026-10-26T22:37:10.517",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3511541,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "422d1e61-8449-44de-a1d3-cd2a4328018a",
+    "SCRIP_CD": 544397,
+    "XML_NAME": "ANN_544397_422D1E61-8449-44DE-A1D3-CD2A4328018A",
+    "NEWSSUB": "Ather Energy Ltd - 544397 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-10-26T22:31:16.42",
+    "NEWS_DT": "2026-10-26T22:31:16.42",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "94f56f4d-1234-4cb2-b87c-36b589f09fea.pdf",
+    "MORE": "With reference to the captioned subject, please be informed that the Earnings call of the Company for the quarter and half year ended September 30, 2026, was held today, October 26, 2026 and the audio recording with respect to the Earnings call is available on the Company's website at https://media.atherenergy.com/Earnings-Call-Q2-FY-2026-27.mp3",
+    "HEADLINE": "With reference to the captioned subject, please be informed that the Earnings call of the Company for the quarter and half year ended September 30, 2026, was held today, October 26, 2026 ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ather-energy-ltd/atherenerg/544397/",
+    "SLONGNAME": "Ather Energy Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 23,
+    "News_submission_dt": "2026-10-26T22:31:16",
+    "DissemDT": "2026-10-26T22:31:16.42",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 424276,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "422d1e61-8449-44de-a1d3-cd2a4328018a",
+    "INVESTOR_PRESENTATION": "146d2030-3324-4db1-8adb-48b65bd9f28b.pdf",
+    "RECORDID": 14661411,
+    "DataInsDate": "2026-10-26T22:31:16.383",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=146d2030-3324-4db1-8adb-48b65bd9f28b.pdf",
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "0f2d6162-05bd-4a36-889b-1d03ee40d2c9",
     "SCRIP_CD": 543396,
     "XML_NAME": "ANN_543396_0F2D6162-05BD-4A36-889B-1D03EE40D2C9",
@@ -12548,230 +12984,6 @@
     "RECORDID": 14661196,
     "DataInsDate": "2026-10-26T20:20:56.84",
     "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/1cfdb1e8-e2a5-48a3-b927-9538f81f191b.mp3",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "8bddce31-88a7-44b0-9e9c-995d5963b250",
-    "SCRIP_CD": 543396,
-    "XML_NAME": "ANN_543396_8BDDCE31-88A7-44B0-9E9C-995D5963B250",
-    "NEWSSUB": "One 97 Communications Ltd - 543396 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-    "DT_TM": "2026-10-26T20:17:47.49",
-    "NEWS_DT": "2026-10-26T20:17:47.49",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "83f55753-2a34-46c2-bda2-c682bc9622c4.pdf",
-    "MORE": "",
-    "HEADLINE": "Allotment of 2,69,796 equity shares pursuant to exercise of stock options under One 97 Employees Stock Option Scheme 2019.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/one-97-communications-ltd/paytm/543396/",
-    "SLONGNAME": "One 97 Communications Ltd",
-    "AGENDA_ID": 115,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:17:47",
-    "DissemDT": "2026-10-26T20:17:47.49",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 346173,
-    "SUBCATNAME": "Allotment of ESOP / ESPS",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "1"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6c78f233-326e-41e2-88df-491864a217ef",
-    "SCRIP_CD": 544962,
-    "XML_NAME": "ANN_544962_6C78F233-326E-41E2-88DF-491864A217EF",
-    "NEWSSUB": "Acevector Ltd - 544962 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-26T20:15:02.053",
-    "NEWS_DT": "2026-10-26T20:15:02.053",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "95cd85e0-0705-4c5c-83c6-25de29127862.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release for the Unaudited (Standalone and Consolidated) Financial Results for the quarter and half year ended on 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/acevector-ltd/acevector/544962/",
-    "SLONGNAME": "Acevector Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:15:02",
-    "DissemDT": "2026-10-26T20:15:02.053",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 528335,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7237b538-8b04-474e-a06b-b712dbd38498",
-    "SCRIP_CD": 543396,
-    "XML_NAME": "ANN_543396_7237B538-8B04-474E-A06B-B712DBD38498",
-    "NEWSSUB": "One 97 Communications Ltd - 543396 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-10-26T20:14:09.06",
-    "NEWS_DT": "2026-10-26T20:14:09.06",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "64f8147d-25a2-47ca-a63a-8f8fe6282fbe.pdf",
-    "MORE": "",
-    "HEADLINE": "Grant of 1,93,072 stock options under One 97 Employees Stock Option Scheme 2019.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/one-97-communications-ltd/paytm/543396/",
-    "SLONGNAME": "One 97 Communications Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:14:09",
-    "DissemDT": "2026-10-26T20:14:09.06",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 346173,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "1"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "61d0d212-7f73-46f1-8454-a379366eee08",
-    "SCRIP_CD": 544477,
-    "XML_NAME": "ANN_544477_61D0D212-7F73-46F1-8454-A379366EEE08",
-    "NEWSSUB": "Highway Infrastructure Ltd - 544477 - Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
-    "DT_TM": "2026-10-26T20:14:06.137",
-    "NEWS_DT": "2026-10-26T20:14:06.137",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a1585eab-cf03-468e-9e68-ef0f911bf698.pdf",
-    "MORE": "",
-    "HEADLINE": "Company Received a Letter of Award for operation and collection of user fee at Baiti  Kala Fee Plaza.",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/highway-infrastructure-ltd/hilinfra/544477/",
-    "SLONGNAME": "Highway Infrastructure Ltd",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:14:06",
-    "DissemDT": "2026-10-26T20:14:06.137",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 764077,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "79566702-dcae-4c7b-bd9e-193856316b44",
-    "SCRIP_CD": 500117,
-    "XML_NAME": "ANN_500117_79566702-DCAE-4C7B-BD9E-193856316B44",
-    "NEWSSUB": "DCW Ltd - 500117 - Board Meeting Intimation for Prior Intimation Of The Board Meeting Scheduled To Be Held On Thursday, October 29, 2026",
-    "DT_TM": "2026-10-26T20:12:54.513",
-    "NEWS_DT": "2026-10-26T20:12:54.513",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6741673a-dfc9-4bdb-8c07-8a8e909edbe7.pdf",
-    "MORE": "DCW Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Pursuant to the provisions of Regulation 29 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Meeting of the Board of Directors of the Company is scheduled to be held on Thursday, October 29, 2026, inter-alia -\r\ni) To consider, approve & take on record, among other things Unaudited Financial Results of the Company along with the Limited Review Report thereon for the second quarter and half year ended September 30, 2026.\r\nii) To consider & approve, a proposal of buy back of the fully paid-up equity shares of the Company including matters related/incidental thereto, in accordance with the provisions of Sections 68, 69 and 70 of the Companies Act, 2013, read with rule 17 of Companies (Share Capital and Debentures) Rules, 2014 and the Securities and Exchange Board of India (Buy-back of Securities) Regulations, 2018, as amended.",
-    "HEADLINE": "DCW Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/10/2026 ,inter alia, to consider and approve Pursuant to the provisions of Regulation ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dcw-ltd/dcw/500117/",
-    "SLONGNAME": "DCW Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:12:53",
-    "DissemDT": "2026-10-26T20:12:54.513",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 214721,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board meeting date & agenda:** The Board of Directors will meet on **Thursday, October 29, 2026** to **review and approve the unaudited financial results (Q2 and half‑year) for the period ending September 30, 2026**, together with the accompanying Limited Review Report.  \n\n- **Key financial decision:** The meeting will also consider and **approve a proposal to buy back fully paid‑up equity shares of DC",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2c9377d9-0601-4dfc-abbb-330684e63692",
-    "SCRIP_CD": 533096,
-    "XML_NAME": "ANN_533096_2C9377D9-0601-4DFC-ABBB-330684E63692",
-    "NEWSSUB": "Adani Power Ltd - 533096 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-10-26T20:11:38.877",
-    "NEWS_DT": "2026-10-26T20:11:38.877",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "59c8fdb6-2ce1-431e-ba35-f3c8b201c518.pdf",
-    "MORE": "",
-    "HEADLINE": "Adani Power Limited has submitted to the Exchange, audio link of the Earnings Call.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/adani-power-ltd/adanipower/533096/",
-    "SLONGNAME": "Adani Power Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:11:38",
-    "DissemDT": "2026-10-26T20:11:38.877",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 137166,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "2c9377d9-0601-4dfc-abbb-330684e63692",
-    "INVESTOR_PRESENTATION": "64176db7-f32b-4836-957e-4ccc9c56dda2.pdf",
-    "RECORDID": 14661166,
-    "DataInsDate": "2026-10-26T20:11:38.8",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64176db7-f32b-4836-957e-4ccc9c56dda2.pdf",
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
