@@ -1,5 +1,658 @@
 [
   {
+    "NEWSID": "93be43de-8ec1-4094-98d3-4b4f7304d7c4",
+    "SCRIP_CD": 543982,
+    "XML_NAME": "ANN_543982_93BE43DE-8EC1-4094-98D3-4B4F7304D7C4",
+    "NEWSSUB": "Quest Flow Controls Ltd - 543982 - Financial Results 30.09.2026",
+    "DT_TM": "2026-10-27T00:04:45.01",
+    "NEWS_DT": "2026-10-27T00:04:45.01",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3a3de928-ecbb-4aef-a653-41ef3a738659.pdf",
+    "MORE": "",
+    "HEADLINE": "Financial Results 30.09.2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/quest-flow-controls-ltd/questflow/543982/",
+    "SLONGNAME": "Quest Flow Controls Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T00:04:45",
+    "DissemDT": "2026-10-27T00:04:45.01",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2475653,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board approval (26 Oct 2026):** The Board of Quest Flow Controls Ltd approved the standalone and consolidated unaudited financial statements for the half‑year ended 30 Sept 2026, and the accompanying limited review report issued by statutory auditors M/s APRA & Associates LLP.  \n\n- **Financial details:** The announcement does **not** disclose any specific financial figures (e.g., revenue, profit, assets); it only confirms that the unaudited half‑year results have been prepared in accordance with AS 25 and have been reviewed with no material misstatements identified.",
+    "key_metrics": {
+      "revenue": "2258.52",
+      "total_debt": "1",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Particulars",
+            "col_2": "Half Year Ended 30th September 2026",
+            "col_3": "Half Year Ended 31st March 2026",
+            "col_4": "Half Year Ended 30th September 2025",
+            "col_5": "For the Year ending 31st March 2026",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Income I. Revenue from operations II. Other Income III. Total Income (I + II) IV. Expenses: (a) Cost of Material Consumed and Direct Expenses (b) Changes in Inventories (c) Employee benefit expense (d) Financial costs (e) Depreciation and amortization expense (f) Other expenses V. Total Expenses VI. Profit/(Loss) before exceptional and extraordinary items and tax (III - V) VII. Exceptional items VIII. Profit/(Loss) before tax (VI - VII) Tax expense: (1) Current tax (2) Tax of earlier years (3) Deferred Tax Expense IX. Total Tax Expense X. Profit/(Loss) for the period (VIII-IX) XI. Earning per equity share (in INR) (Non Annualised) Equity shares of par value Rs.10/- each (a) Basic (b) Diluted The accompanying notes are an integral part of these Financial Statement",
+            "col_2": "Unaudited",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Audited",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2,258.52 36.75",
+            "col_3": "3,439.10 757.43",
+            "col_4": "2,418.47 1 2.56",
+            "col_5": "5 ,857.57 7 69.99",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2,295.28",
+            "col_3": "4,196.53",
+            "col_4": "2,431.04",
+            "col_5": "6 ,627.56",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "1,773.94 110.42 546.11 30.39 222.38 998.26",
+            "col_3": "3,673.82 - 949.50 496.77 4 0.56 288.35 747.21",
+            "col_4": "1 ,045.45 - 48.07 3 44.63 2 6.57 1 97.23 4 44.60",
+            "col_5": "4 ,719.27 - 997.57 841.40 67.13 485.58 1 ,191.81",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "3,681.49",
+            "col_3": "4,297.22",
+            "col_4": "2,010.41",
+            "col_5": "6 ,307.63",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22)",
+            "col_3": "( 100.69)",
+            "col_4": "420.63",
+            "col_5": "319.94",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "259.08",
+            "col_5": "259.08",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22) - (16.66)",
+            "col_3": "( 100.69) 1 31.14 ( 96.85)",
+            "col_4": "161.55 40.66 ( 29.60)",
+            "col_5": "60.85 1 71.79 (126.45)",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(16.66)",
+            "col_3": "34.29",
+            "col_4": "11.06",
+            "col_5": "4 5.34",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,369.56) -13.35 -13.35",
+            "col_3": "( 134.98) - 1.33 - 1.33",
+            "col_4": "150.49 1.48 1.48",
+            "col_5": "15.51 0 .15 0 .15",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Notes: 1. The above financial results of the Company have been prepared in accordance with the Accounting Standards (“AS”) as prescribed under Section 133 of the Companies Act, 2013 read with the Companies (Accounting Standards) Rules, 2015, as amended. 2. The above results have been reviewed and recommended to the Board of Directors by the Audit Committee and subsequently approved by the Board of Directors at its meeting held on October 26, 2026. These results have been subject to limited review by statutory auditors who have expressed an unmodified review conclusion. 3. The balance appearing under the trade payables, loans and advances, trade receivables are subject to confirmation and reconciliations and consequent adjustments, if any, will be accounted for in the year of confirmation and/or reconciliation. 4. The figures for corresponding previous periods/year have been regrouped/reclassified wherever necessary.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "FOR A P R A & Associates LLP For and on behalf of the Board of Directors CHARTERED ACCOUNTANTS QUEST FLOW CONTROLS LIMITED CA Arpit Khandelwal Partner Brijesh Madhav Manerikar Membership no.: 600090 (Chairman and Managing Director) FRN: 011078N/N500064 DIN: 05154847 Place: Mumbai Date: 26 October, 2026 UDIN: 26600090PREEWF8021",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Particulars",
+            "col_2": "As at 30 September 2026 (Unaudited)",
+            "col_3": "As at 31 March 2026 (Audited)"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "EQUITY AND LIABILITIES Shareholders' funds Share capital Reserves and surplus Money Received Against Share Warrant Non-current liabilities Long-term borrowings Deferred tax liability (net) Long term Provisions Current liabilities Short-term borrowings Trade payables - total outstanding dues to micro enterprises and small enterprises - total outstanding dues to creditors other than micro enterprises and small enterprises Current Tax Liabilities (Net) Other current liabilities Short-term provisions ASSETS Non-current assets Property, plant and equipment Intangible assets Capital Work In Progress Deferred tax Assets (net) Non-current investments Other non-current assets Current assets Inventories Trade receivables Cash and bank balances Other Bank Balances Short-term loans and advances Other current assets",
+            "col_2": "1 ,025.76 4 ,121.45 1 ,475.04",
+            "col_3": "1 ,025.76 5,688.91 1,475.04"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "6,622.25 1 16.84 - 6 5.19",
+            "col_3": "8,189.71 5 14.64 - 5 6.48"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "182.03 1 86.54 8 86.37 1,994.54 1 0.74 2 24.82 6 1.86",
+            "col_3": "571.12 3 3.04 5 25.00 2 ,559.03 246.07 287.59 116.77"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "3,364.87",
+            "col_3": "3,767.49"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "10,169.16",
+            "col_3": "12,528.32"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "1 ,472.44 1 28.55 - 1 23.53 - 1 ,157.08",
+            "col_3": "2 ,134.51 1 39.84 - 1 06.88 1 97.61 1,089.49"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2,881.61 1 ,663.07 4 ,701.66 1 4.72 4 8.25 1 81.24 6 78.60 7,287.55",
+            "col_3": "3,668.32 1,773.49 5,035.28 708.69 9.49 837.34 495.71 8,859.99"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "10,169.15",
+            "col_3": "12,528.32"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "This is the Balance Sheet referred to in our report of even date. For A P R A & Associates LLP CHARTERED ACCOUNTANTS For and on behalf of the Board of Directors QUEST FLOW CONTROLS LIMITED Partner: Arpit Khandelwal. Membership No.:600090. Place: Mumbai Date: October 26, 2026 UDIN: 26600090LAWJDC2556 Brijesh Madhav Manerikar (Chairman and Managing Director)",
+            "col_2": "",
+            "col_3": ""
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Particulars",
+            "col_2": "Half Year Ended 30th September 2026",
+            "col_3": "Half Year Ended 31st March 2026",
+            "col_4": "Half Year Ended 30th September 2025",
+            "col_5": "For the Year ending 31st March 2026"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Income I. Revenue from operations II. Other Income III. Total Income (I + II) IV. Expenses: (a) Cost of Material Consumed and Direct Expenses (b) Purchase of Stock-in-Trade (b) Changes in Inventories (c) Employee benefit expense (d) Financial costs (e) Depreciation and amortization expense (f) Other expenses V. Total Expenses VI. Profit/(Loss) before exceptional and extraordinary items and tax (III - V) VII. Exceptional items VIII. Profit/(Loss) before tax (VI - VII) Tax expense: (1) Current tax (2) Tax of earlier years (3) Deferred Tax Expense IX. Total Tax Expense X. Profit/(Loss) for the period (VIII-IX) XI. Profit/ (Loss) from Associate XII. Profit for the period XI. Earning per equity share (in INR) (Non Annualised) Equity shares of par value Rs.10/- each (a) Basic (b) Diluted",
+            "col_2": "Unaudited",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Audited"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2 ,258.52 3 6.75",
+            "col_3": "3,614.24 760.91",
+            "col_4": "2,622.02 26.76",
+            "col_5": "6 ,236.26 787.67"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2 ,295.28",
+            "col_3": "4,375.15",
+            "col_4": "2,648.77",
+            "col_5": "7 ,023.93"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "1 ,773.94 110.42 546.11 3 0.39 222.38 998.26",
+            "col_3": "3,149.92 578.45 - 919.84 570.17 4 0.54 298.47 870.05",
+            "col_4": "1,044.06 99.50 -66.17 413.04 2 6.59 201.85 490.86",
+            "col_5": "4 ,193.98 677.95 - 986.01 983.20 67.13 500.32 1 ,360.91"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "3 ,681.49",
+            "col_3": "4,587.76",
+            "col_4": "2,209.73",
+            "col_5": "6 ,797.48"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22)",
+            "col_3": "( 212.61)",
+            "col_4": "439.04",
+            "col_5": "226.45"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "259.08",
+            "col_5": "259.08"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22) - (16.66)",
+            "col_3": "( 212.61) 131.14 ( 93.95)",
+            "col_4": "1 79.96 40.66 ( 26.68)",
+            "col_5": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(16.66)",
+            "col_3": "3 7.19",
+            "col_4": "1 3.98",
+            "col_5": "51.16"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,369.56) ( 197.61) (1,567.17) - 13.35 - 13.35",
+            "col_3": "( 249.80) ( 290.12) ( 539.92) - 5.31 - 5.31",
+            "col_4": "1 65.98 (54.30) 1 11.68 1 .10 1 .10",
+            "col_5": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Notes: 1. The above financials results of the company have been prepared accordance with the Accounting Standards (\"AS\") as prescribed under section 133 of the companies Act, 2013 read with the companies (Accounting Standards) Rules, 2015, as amended. 2.The above results have been reviewed and recommended to the Board of Directors by the Audit Committee and subsequently approved by the Board of Directors at its meeting held on October 26,2026. These results have been subject to limited review by statutory auditors who have expressed an unmodified review conclusion. 3. The balance appearing under the trade payables, loans and advances, trade receivables are subjected to confirmation and reconciliations and consequent adjustments, if any, will be accounted for in the year of confirmation and/or reconciliation. 4. The figures for corresponding previous periods/year have been regrouped/reclassified wherever necessary.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "For A P R A & Associates LLP For and on behalf of the Board of Directors CHARTERED ACCOUNTANTS QUEST FLOW CONTROLS LIMITED Partner: Arpit Khandelwal. Membership No.:600090. Place: Mumbai Date: October 26, 2026 UDIN: 26600090LAWJDC2556 Brijesh Madhav Manerikar (Chairman and Managing Director) DIN: 05154847",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "e681ccb7-bcb2-476b-ba9a-6229e69f50df",
+    "SCRIP_CD": 544946,
+    "XML_NAME": "ANN_544946_E681CCB7-BCB2-476B-BA9A-6229E69F50DF",
+    "NEWSSUB": "Liqvd Digital India Ltd - 544946 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "DT_TM": "2026-10-27T00:02:06.013",
+    "NEWS_DT": "2026-10-27T00:02:06.013",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4d22a430-e1cc-4f61-a4f0-820dc6db49b0.pdf",
+    "MORE": "",
+    "HEADLINE": "Acquisition of additional equity shares of Adlift Marketing Private Limited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/liqvd-digital-india-ltd/liqvd/544946/",
+    "SLONGNAME": "Liqvd Digital India Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T00:02:06",
+    "DissemDT": "2026-10-27T00:02:06.013",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 286469,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "cac8754d-f0a3-4d2a-a1a8-611686928af8",
+    "SCRIP_CD": 543982,
+    "XML_NAME": "ANN_543982_CAC8754D-F0A3-4D2A-A1A8-611686928AF8",
+    "NEWSSUB": "Quest Flow Controls Ltd - 543982 - Board Meeting Outcome for Outcome Of Board Meeting Under Regulation 30 Of SEBI (LODR) Regulations, 2015.",
+    "DT_TM": "2026-10-27T00:01:02.973",
+    "NEWS_DT": "2026-10-27T00:01:02.973",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1c3749bc-cb4e-4b36-9c5b-0b6876f792cc.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Board Meeting under Regulation 30 of SEBI (LODR) Regulations, 2015.",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/quest-flow-controls-ltd/questflow/543982/",
+    "SLONGNAME": "Quest Flow Controls Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T00:01:00",
+    "DissemDT": "2026-10-27T00:01:02.973",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 2475653,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting on 26 Oct 2026** approved the standalone and consolidated unaudited financial statements for the half‑year ended 30 Sep 2026, and the company submitted the accompanying limited review report from its statutory auditors, M/s APRA & Associates LLP.  \n- **No specific financial figures** (e.g., revenue, profit, assets) were disclosed in the announcement; the only quantitative detail provided is the reporting period (half‑year ended 30 Sep 2026).",
+    "key_metrics": {
+      "revenue": "2258.52",
+      "total_debt": "1",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Particulars",
+            "col_2": "Half Year Ended 30th September 2026",
+            "col_3": "Half Year Ended 31st March 2026",
+            "col_4": "Half Year Ended 30th September 2025",
+            "col_5": "For the Year ending 31st March 2026",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Income I. Revenue from operations II. Other Income III. Total Income (I + II) IV. Expenses: (a) Cost of Material Consumed and Direct Expenses (b) Changes in Inventories (c) Employee benefit expense (d) Financial costs (e) Depreciation and amortization expense (f) Other expenses V. Total Expenses VI. Profit/(Loss) before exceptional and extraordinary items and tax (III - V) VII. Exceptional items VIII. Profit/(Loss) before tax (VI - VII) Tax expense: (1) Current tax (2) Tax of earlier years (3) Deferred Tax Expense IX. Total Tax Expense X. Profit/(Loss) for the period (VIII-IX) XI. Earning per equity share (in INR) (Non Annualised) Equity shares of par value Rs.10/- each (a) Basic (b) Diluted The accompanying notes are an integral part of these Financial Statement",
+            "col_2": "Unaudited",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Audited",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2,258.52 36.75",
+            "col_3": "3,439.10 757.43",
+            "col_4": "2,418.47 1 2.56",
+            "col_5": "5 ,857.57 7 69.99",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2,295.28",
+            "col_3": "4,196.53",
+            "col_4": "2,431.04",
+            "col_5": "6 ,627.56",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "1,773.94 110.42 546.11 30.39 222.38 998.26",
+            "col_3": "3,673.82 - 949.50 496.77 4 0.56 288.35 747.21",
+            "col_4": "1 ,045.45 - 48.07 3 44.63 2 6.57 1 97.23 4 44.60",
+            "col_5": "4 ,719.27 - 997.57 841.40 67.13 485.58 1 ,191.81",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "3,681.49",
+            "col_3": "4,297.22",
+            "col_4": "2,010.41",
+            "col_5": "6 ,307.63",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22)",
+            "col_3": "( 100.69)",
+            "col_4": "420.63",
+            "col_5": "319.94",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "259.08",
+            "col_5": "259.08",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22) - (16.66)",
+            "col_3": "( 100.69) 1 31.14 ( 96.85)",
+            "col_4": "161.55 40.66 ( 29.60)",
+            "col_5": "60.85 1 71.79 (126.45)",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(16.66)",
+            "col_3": "34.29",
+            "col_4": "11.06",
+            "col_5": "4 5.34",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,369.56) -13.35 -13.35",
+            "col_3": "( 134.98) - 1.33 - 1.33",
+            "col_4": "150.49 1.48 1.48",
+            "col_5": "15.51 0 .15 0 .15",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Notes: 1. The above financial results of the Company have been prepared in accordance with the Accounting Standards (“AS”) as prescribed under Section 133 of the Companies Act, 2013 read with the Companies (Accounting Standards) Rules, 2015, as amended. 2. The above results have been reviewed and recommended to the Board of Directors by the Audit Committee and subsequently approved by the Board of Directors at its meeting held on October 26, 2026. These results have been subject to limited review by statutory auditors who have expressed an unmodified review conclusion. 3. The balance appearing under the trade payables, loans and advances, trade receivables are subject to confirmation and reconciliations and consequent adjustments, if any, will be accounted for in the year of confirmation and/or reconciliation. 4. The figures for corresponding previous periods/year have been regrouped/reclassified wherever necessary.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "FOR A P R A & Associates LLP For and on behalf of the Board of Directors CHARTERED ACCOUNTANTS QUEST FLOW CONTROLS LIMITED CA Arpit Khandelwal Partner Brijesh Madhav Manerikar Membership no.: 600090 (Chairman and Managing Director) FRN: 011078N/N500064 DIN: 05154847 Place: Mumbai Date: 26 October, 2026 UDIN: 26600090PREEWF8021",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Particulars",
+            "col_2": "As at 30 September 2026 (Unaudited)",
+            "col_3": "As at 31 March 2026 (Audited)"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "EQUITY AND LIABILITIES Shareholders' funds Share capital Reserves and surplus Money Received Against Share Warrant Non-current liabilities Long-term borrowings Deferred tax liability (net) Long term Provisions Current liabilities Short-term borrowings Trade payables - total outstanding dues to micro enterprises and small enterprises - total outstanding dues to creditors other than micro enterprises and small enterprises Current Tax Liabilities (Net) Other current liabilities Short-term provisions ASSETS Non-current assets Property, plant and equipment Intangible assets Capital Work In Progress Deferred tax Assets (net) Non-current investments Other non-current assets Current assets Inventories Trade receivables Cash and bank balances Other Bank Balances Short-term loans and advances Other current assets",
+            "col_2": "1 ,025.76 4 ,121.45 1 ,475.04",
+            "col_3": "1 ,025.76 5,688.91 1,475.04"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "6,622.25 1 16.84 - 6 5.19",
+            "col_3": "8,189.71 5 14.64 - 5 6.48"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "182.03 1 86.54 8 86.37 1,994.54 1 0.74 2 24.82 6 1.86",
+            "col_3": "571.12 3 3.04 5 25.00 2 ,559.03 246.07 287.59 116.77"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "3,364.87",
+            "col_3": "3,767.49"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "10,169.16",
+            "col_3": "12,528.32"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "1 ,472.44 1 28.55 - 1 23.53 - 1 ,157.08",
+            "col_3": "2 ,134.51 1 39.84 - 1 06.88 1 97.61 1,089.49"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2,881.61 1 ,663.07 4 ,701.66 1 4.72 4 8.25 1 81.24 6 78.60 7,287.55",
+            "col_3": "3,668.32 1,773.49 5,035.28 708.69 9.49 837.34 495.71 8,859.99"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "10,169.15",
+            "col_3": "12,528.32"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Balance Sheet as on September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "This is the Balance Sheet referred to in our report of even date. For A P R A & Associates LLP CHARTERED ACCOUNTANTS For and on behalf of the Board of Directors QUEST FLOW CONTROLS LIMITED Partner: Arpit Khandelwal. Membership No.:600090. Place: Mumbai Date: October 26, 2026 UDIN: 26600090LAWJDC2556 Brijesh Madhav Manerikar (Chairman and Managing Director)",
+            "col_2": "",
+            "col_3": ""
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Particulars",
+            "col_2": "Half Year Ended 30th September 2026",
+            "col_3": "Half Year Ended 31st March 2026",
+            "col_4": "Half Year Ended 30th September 2025",
+            "col_5": "For the Year ending 31st March 2026"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Income I. Revenue from operations II. Other Income III. Total Income (I + II) IV. Expenses: (a) Cost of Material Consumed and Direct Expenses (b) Purchase of Stock-in-Trade (b) Changes in Inventories (c) Employee benefit expense (d) Financial costs (e) Depreciation and amortization expense (f) Other expenses V. Total Expenses VI. Profit/(Loss) before exceptional and extraordinary items and tax (III - V) VII. Exceptional items VIII. Profit/(Loss) before tax (VI - VII) Tax expense: (1) Current tax (2) Tax of earlier years (3) Deferred Tax Expense IX. Total Tax Expense X. Profit/(Loss) for the period (VIII-IX) XI. Profit/ (Loss) from Associate XII. Profit for the period XI. Earning per equity share (in INR) (Non Annualised) Equity shares of par value Rs.10/- each (a) Basic (b) Diluted",
+            "col_2": "Unaudited",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Audited"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2 ,258.52 3 6.75",
+            "col_3": "3,614.24 760.91",
+            "col_4": "2,622.02 26.76",
+            "col_5": "6 ,236.26 787.67"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "2 ,295.28",
+            "col_3": "4,375.15",
+            "col_4": "2,648.77",
+            "col_5": "7 ,023.93"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "1 ,773.94 110.42 546.11 3 0.39 222.38 998.26",
+            "col_3": "3,149.92 578.45 - 919.84 570.17 4 0.54 298.47 870.05",
+            "col_4": "1,044.06 99.50 -66.17 413.04 2 6.59 201.85 490.86",
+            "col_5": "4 ,193.98 677.95 - 986.01 983.20 67.13 500.32 1 ,360.91"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "3 ,681.49",
+            "col_3": "4,587.76",
+            "col_4": "2,209.73",
+            "col_5": "6 ,797.48"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22)",
+            "col_3": "( 212.61)",
+            "col_4": "439.04",
+            "col_5": "226.45"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "259.08",
+            "col_5": "259.08"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,386.22) - (16.66)",
+            "col_3": "( 212.61) 131.14 ( 93.95)",
+            "col_4": "1 79.96 40.66 ( 26.68)",
+            "col_5": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(16.66)",
+            "col_3": "3 7.19",
+            "col_4": "1 3.98",
+            "col_5": "51.16"
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
+            "col_2": "(1,369.56) ( 197.61) (1,567.17) - 13.35 - 13.35",
+            "col_3": "( 249.80) ( 290.12) ( 539.92) - 5.31 - 5.31",
+            "col_4": "1 65.98 (54.30) 1 11.68 1 .10 1 .10",
+            "col_5": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "Notes: 1. The above financials results of the company have been prepared accordance with the Accounting Standards (\"AS\") as prescribed under section 133 of the companies Act, 2013 read with the companies (Accounting Standards) Rules, 2015, as amended. 2.The above results have been reviewed and recommended to the Board of Directors by the Audit Committee and subsequently approved by the Board of Directors at its meeting held on October 26,2026. These results have been subject to limited review by statutory auditors who have expressed an unmodified review conclusion. 3. The balance appearing under the trade payables, loans and advances, trade receivables are subjected to confirmation and reconciliations and consequent adjustments, if any, will be accounted for in the year of confirmation and/or reconciliation. 4. The figures for corresponding previous periods/year have been regrouped/reclassified wherever necessary.",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "QUEST FLOW CONTROLS LIMITED (Formerly known as Meson Valves India Limited) CIN - L29299GA2016PLC012972 Consolidated Statement of unaudited financial results for the half year ended September 30, 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "For A P R A & Associates LLP For and on behalf of the Board of Directors CHARTERED ACCOUNTANTS QUEST FLOW CONTROLS LIMITED Partner: Arpit Khandelwal. Membership No.:600090. Place: Mumbai Date: October 26, 2026 UDIN: 26600090LAWJDC2556 Brijesh Madhav Manerikar (Chairman and Managing Director) DIN: 05154847",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "e4c168b5-0735-49cc-a030-f058d7ebc477",
     "SCRIP_CD": 533179,
     "XML_NAME": "ANN_533179_E4C168B5-0735-49CC-A030-F058D7EBC477",
@@ -14365,232 +15018,6 @@
     "TimeDiff": "00:00:00",
     "Fld_Attachsize": 621624,
     "SUBCATNAME": "Amendments to Memorandum & Articles of Association",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Sr. No.": "1.",
-            "Name of Investor": "Mr. Irfan Chapra",
-            "Category": "*Proposed Promoter",
-            "No. of Equity Shares to be allotted": "18,00,000",
-            "Investment Amount (in Rs.)": "2,61,00,000"
-          },
-          {
-            "Sr. No.": "2.",
-            "Name of Investor": "Mrs. Reshma Chapra",
-            "Category": "*Proposed Promoter",
-            "No. of Equity Shares to be allotted": "18,00,000",
-            "Investment Amount (in Rs.)": "2,61,00,000"
-          },
-          {
-            "Sr. No.": "3.",
-            "Name of Investor": "Mrs. Mubina Sofia",
-            "Category": "*Proposed Promoter",
-            "No. of Equity Shares to be allotted": "16,00,000",
-            "Investment Amount (in Rs.)": "2,32,00,000"
-          },
-          {
-            "Sr. No.": "4.",
-            "Name of Investor": "Sadik Raza",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "100,000",
-            "Investment Amount (in Rs.)": "14,50,000"
-          },
-          {
-            "Sr. No.": "5.",
-            "Name of Investor": "Mohamed Aatif Asif Picturewala",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "100,000",
-            "Investment Amount (in Rs.)": "14,50,000"
-          },
-          {
-            "Sr. No.": "6.",
-            "Name of Investor": "Kalim Ahmad Shaikh",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "75,000",
-            "Investment Amount (in Rs.)": "10,87,500"
-          },
-          {
-            "Sr. No.": "7.",
-            "Name of Investor": "Mohammed Rahil Mohammed Rafiq Shaikh",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "75,000",
-            "Investment Amount (in Rs.)": "10,87,500"
-          },
-          {
-            "Sr. No.": "8.",
-            "Name of Investor": "Praveen Kumar",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "100,000",
-            "Investment Amount (in Rs.)": "14,50,000"
-          },
-          {
-            "Sr. No.": "9.",
-            "Name of Investor": "Dhanishaka Niraj Mehra",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "50,000",
-            "Investment Amount (in Rs.)": "7,25,000"
-          },
-          {
-            "Sr. No.": "10.",
-            "Name of Investor": "Simran Siddharth Ambwani",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "120,000",
-            "Investment Amount (in Rs.)": "17,40,000"
-          },
-          {
-            "Sr. No.": "11.",
-            "Name of Investor": "Roopnarayan Mangal (HUF)",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "50,000",
-            "Investment Amount (in Rs.)": "725,000"
-          },
-          {
-            "Sr. No.": "12.",
-            "Name of Investor": "Jaime Agnelo Colaco",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "25,000",
-            "Investment Amount (in Rs.)": "3,62,500"
-          },
-          {
-            "Sr. No.": "13.",
-            "Name of Investor": "Ahmed Agha Namazi",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "25,000",
-            "Investment Amount (in Rs.)": "3,62,500"
-          },
-          {
-            "Sr. No.": "14.",
-            "Name of Investor": "Maurice Patrick Correa",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "20,000",
-            "Investment Amount (in Rs.)": "2,90,000"
-          },
-          {
-            "Sr. No.": "",
-            "Name of Investor": "",
-            "Category": "Total",
-            "No. of Equity Shares to be allotted": "59,40,000",
-            "Investment Amount (in Rs.)": "8,61,30,000"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "61725b65-c66f-4e30-ae0b-5504bc6d4bc6",
-    "SCRIP_CD": 544497,
-    "XML_NAME": "ANN_544497_61725B65-C66F-4E30-AE0B-5504BC6D4BC6",
-    "NEWSSUB": "Anlon Healthcare Ltd - 544497 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-10-26T20:42:08.197",
-    "NEWS_DT": "2026-10-26T20:42:08.197",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9f133bef-f628-48c6-97e9-da33df6e2edd.pdf",
-    "MORE": "",
-    "HEADLINE": "We have attached herewith invitation for investor earning call.\r\n\r\nKindly take the same on your record.\r\n\r\nThank you.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/anlon-healthcare-ltd/ahcl/544497/",
-    "SLONGNAME": "Anlon Healthcare Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:42:08",
-    "DissemDT": "2026-10-26T20:42:08.197",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 344740,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Earnings conference call scheduled:** Anlon Healthcare Ltd will hold an earnings call on **Tuesday, 3 November 2026 at 05:00 PM IST** to discuss its **unaudited financial results for the quarter ended 30 September 2026 (Q2/H1 FY 27).**  \n\n- **Financial details:** The announcement contains **no specific monetary figures, earnings numbers, or other financial metrics**—it only provides the date, time, and logistics for the conference call.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5c176db3-1c7d-487b-8144-ff32f5649da7",
-    "SCRIP_CD": 538646,
-    "XML_NAME": "ANN_538646_5C176DB3-1C7D-487B-8144-FF32F5649DA7",
-    "NEWSSUB": "QGO Finance Ltd - 538646 - Board Meeting Outcome for Outcome Of The Board Meeting Dated October 26, 2026",
-    "DT_TM": "2026-10-26T20:41:59.043",
-    "NEWS_DT": "2026-10-26T20:41:59.043",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "716335b5-46b1-47ad-90aa-37969a7f8ad3.pdf",
-    "MORE": "Pursuant to Regulation 30 of the SEBI(Listing Obligations and Disclosure Requirements) Regulations, 2015(SEBI Listing Regulations) we wish to inform you that the Board of Directors of QGO Finance Limited at its meeting held today i.e. Monday, October 26, 2026, from 06:00 P.M. to 06:38 P.M. inter alia, considered and approved the following items of business: 1.Un-Audited Financial Results for the Second quarter and half year ended September 30, 2026 2.Declaration of 2nd Interim Dividend for Financial Year 2026-27 3. Approval for Issuance of Unsecured, Unlisted, Redeemable Non-Convertible Debentures 4.Resignation of Ms. Urmi Joiser, Company Secretary and Compliance Officer of the Company, from her position with effect from close of business hours on October 26, 2026 5.Appointment of Mrs. Sarita Singh as the Company Secretary and Compliance Officer of the Company effective from October 27, 2026 6. Details of KMP under Regulation 30(5) of SEBI Listing Regulations.\r\n",
-    "HEADLINE": "Pursuant to Regulation 30 of the SEBI(Listing Obligations and Disclosure Requirements) Regulations, 2015(SEBI Listing Regulations) we wish to inform you that the Board of Directors of QGO ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/qgo-finance-ltd/qgo/538646/",
-    "SLONGNAME": "QGO Finance Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:41:57",
-    "DissemDT": "2026-10-26T20:41:59.043",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 3864748,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3e7a6b12-5708-4741-9280-fc558be4f67a",
-    "SCRIP_CD": 531661,
-    "XML_NAME": "ANN_531661_3E7A6B12-5708-4741-9280-FC558BE4F67A",
-    "NEWSSUB": "Hittco Tools Ltd - 531661 - Announcement under Regulation 30 (LODR)-Issue of Securities",
-    "DT_TM": "2026-10-26T20:40:00.46",
-    "NEWS_DT": "2026-10-26T20:40:00.46",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "06e258c7-b4e1-42e6-a6e9-b6afa65ecd5e.pdf",
-    "MORE": "",
-    "HEADLINE": "Issue of Equity Shares and Convertible Warrants on Preferential Basis",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hittco-tools-ltd/hittco/531661/",
-    "SLONGNAME": "Hittco Tools Ltd",
-    "AGENDA_ID": 132,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:40:00",
-    "DissemDT": "2026-10-26T20:40:00.46",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 621624,
-    "SUBCATNAME": "Issue of Securities",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
