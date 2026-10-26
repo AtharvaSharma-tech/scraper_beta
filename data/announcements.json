@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "93834ba3-486d-43c0-bbd2-61138226f74f",
+    "SCRIP_CD": 506820,
+    "XML_NAME": "ANN_506820_93834BA3-486D-43C0-BBD2-61138226F74F",
+    "NEWSSUB": "AstraZeneca Pharma India Ltd - 506820 - Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "DT_TM": "2026-10-27T00:53:20.42",
+    "NEWS_DT": "2026-10-27T00:53:20.42",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "77f69a82-e627-40d1-80fc-6783cc3c100e.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find the enclosed intimation of the Company as per the captioned subject for your reference.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/astrazeneca-pharma-india-ltd/astrazen/506820/",
+    "SLONGNAME": "AstraZeneca Pharma India Ltd",
+    "AGENDA_ID": 212,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T00:53:20",
+    "DissemDT": "2026-10-27T00:53:20.42",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 368677,
+    "SUBCATNAME": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Compliance Confirmation (Oct 23 2026):** Integrated Registry Management Services issued a certificate stating that AstraZeneca Pharma India Ltd complied with SEBI (Depositories and Participants) Regulations 74(5) for",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "93be43de-8ec1-4094-98d3-4b4f7304d7c4",
     "SCRIP_CD": 543982,
     "XML_NAME": "ANN_543982_93BE43DE-8EC1-4094-98D3-4B4F7304D7C4",
@@ -14990,157 +15026,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "f4d49bfe-f9d6-4324-89e3-86165400788b",
-    "SCRIP_CD": 531661,
-    "XML_NAME": "ANN_531661_F4D49BFE-F9D6-4324-89E3-86165400788B",
-    "NEWSSUB": "Hittco Tools Ltd - 531661 - Announcement under Regulation 30 (LODR)-Amendments to Memorandum & Articles of Association",
-    "DT_TM": "2026-10-26T20:42:50.793",
-    "NEWS_DT": "2026-10-26T20:42:50.793",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e253fe77-5017-4b7c-8a03-1b37bc1bda17.pdf",
-    "MORE": "",
-    "HEADLINE": "Amendment in the Object Clause of the Memorandum of Association",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hittco-tools-ltd/hittco/531661/",
-    "SLONGNAME": "Hittco Tools Ltd",
-    "AGENDA_ID": 113,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:42:50",
-    "DissemDT": "2026-10-26T20:42:50.793",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 621624,
-    "SUBCATNAME": "Amendments to Memorandum & Articles of Association",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Sr. No.": "1.",
-            "Name of Investor": "Mr. Irfan Chapra",
-            "Category": "*Proposed Promoter",
-            "No. of Equity Shares to be allotted": "18,00,000",
-            "Investment Amount (in Rs.)": "2,61,00,000"
-          },
-          {
-            "Sr. No.": "2.",
-            "Name of Investor": "Mrs. Reshma Chapra",
-            "Category": "*Proposed Promoter",
-            "No. of Equity Shares to be allotted": "18,00,000",
-            "Investment Amount (in Rs.)": "2,61,00,000"
-          },
-          {
-            "Sr. No.": "3.",
-            "Name of Investor": "Mrs. Mubina Sofia",
-            "Category": "*Proposed Promoter",
-            "No. of Equity Shares to be allotted": "16,00,000",
-            "Investment Amount (in Rs.)": "2,32,00,000"
-          },
-          {
-            "Sr. No.": "4.",
-            "Name of Investor": "Sadik Raza",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "100,000",
-            "Investment Amount (in Rs.)": "14,50,000"
-          },
-          {
-            "Sr. No.": "5.",
-            "Name of Investor": "Mohamed Aatif Asif Picturewala",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "100,000",
-            "Investment Amount (in Rs.)": "14,50,000"
-          },
-          {
-            "Sr. No.": "6.",
-            "Name of Investor": "Kalim Ahmad Shaikh",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "75,000",
-            "Investment Amount (in Rs.)": "10,87,500"
-          },
-          {
-            "Sr. No.": "7.",
-            "Name of Investor": "Mohammed Rahil Mohammed Rafiq Shaikh",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "75,000",
-            "Investment Amount (in Rs.)": "10,87,500"
-          },
-          {
-            "Sr. No.": "8.",
-            "Name of Investor": "Praveen Kumar",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "100,000",
-            "Investment Amount (in Rs.)": "14,50,000"
-          },
-          {
-            "Sr. No.": "9.",
-            "Name of Investor": "Dhanishaka Niraj Mehra",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "50,000",
-            "Investment Amount (in Rs.)": "7,25,000"
-          },
-          {
-            "Sr. No.": "10.",
-            "Name of Investor": "Simran Siddharth Ambwani",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "120,000",
-            "Investment Amount (in Rs.)": "17,40,000"
-          },
-          {
-            "Sr. No.": "11.",
-            "Name of Investor": "Roopnarayan Mangal (HUF)",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "50,000",
-            "Investment Amount (in Rs.)": "725,000"
-          },
-          {
-            "Sr. No.": "12.",
-            "Name of Investor": "Jaime Agnelo Colaco",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "25,000",
-            "Investment Amount (in Rs.)": "3,62,500"
-          },
-          {
-            "Sr. No.": "13.",
-            "Name of Investor": "Ahmed Agha Namazi",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "25,000",
-            "Investment Amount (in Rs.)": "3,62,500"
-          },
-          {
-            "Sr. No.": "14.",
-            "Name of Investor": "Maurice Patrick Correa",
-            "Category": "Non-Promoter",
-            "No. of Equity Shares to be allotted": "20,000",
-            "Investment Amount (in Rs.)": "2,90,000"
-          },
-          {
-            "Sr. No.": "",
-            "Name of Investor": "",
-            "Category": "Total",
-            "No. of Equity Shares to be allotted": "59,40,000",
-            "Investment Amount (in Rs.)": "8,61,30,000"
-          }
-        ]
-      }
-    ]
   }
 ]
