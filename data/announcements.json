@@ -1,5 +1,914 @@
 [
   {
+    "NEWSID": "05d67d65-23ec-4b3c-a1be-b2f5bfa5b39e",
+    "SCRIP_CD": 530759,
+    "XML_NAME": "ANN_530759_05D67D65-23EC-4B3C-A1BE-B2F5BFA5B39E",
+    "NEWSSUB": "Sterling Tools Ltd-$ - 530759 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-27T23:29:34.463",
+    "NEWS_DT": "2026-10-27T23:29:34.463",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e218df45-3fd6-4bd3-9b4e-c87e0e2ec937.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached the Press Release on Unaudited Financial Results for Second Quarter and Half Year ended 30th September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sterling-tools-ltd/stertools/530759/",
+    "SLONGNAME": "Sterling Tools Ltd-$",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 26,
+    "News_submission_dt": "2026-10-27T23:29:34",
+    "DissemDT": "2026-10-27T23:29:34.463",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1051565,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "429.8 crore",
+      "operating_profit": "58.7 crore",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b0cfbcc3-d911-468a-be47-423fb6b4e9ab",
+    "SCRIP_CD": 540133,
+    "XML_NAME": "ANN_540133_B0CFBCC3-D911-468A-BE47-423FB6B4E9AB",
+    "NEWSSUB": "ICICI Life Insurance Ltd - 540133 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+    "DT_TM": "2026-10-27T23:27:17.15",
+    "NEWS_DT": "2026-10-27T23:27:17.15",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6129bf7e-f1c6-4886-bebc-55e3967d6aff.pdf",
+    "MORE": "",
+    "HEADLINE": "The Company has allotted 200 equity shares under the Employees Stock Option Scheme (2005).",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/icici-life-insurance-ltd/icicilife/540133/",
+    "SLONGNAME": "ICICI Life Insurance Ltd",
+    "AGENDA_ID": 115,
+    "TotalPageCnt": 26,
+    "News_submission_dt": "2026-10-27T23:27:17",
+    "DissemDT": "2026-10-27T23:27:17.15",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 237715,
+    "SUBCATNAME": "Allotment of ESOP / ESPS",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 27 Oct 2026, ICICI Life Insurance Ltd allotted **200 equity shares** with a **face value of ₹10 each** under its Employees Stock Option Scheme (2005); the allotment was approved at **18:51 IST**.  \n- The newly‑issued shares will rank **pari‑passu** with the company’s existing equity shares.",
+    "key_metrics": {
+      "face_value": "10"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "38059f48-022e-4b18-ac78-d51665858237",
+    "SCRIP_CD": 500123,
+    "XML_NAME": "ANN_500123_38059F48-022E-4B18-AC78-D51665858237",
+    "NEWSSUB": "Elantas Beck India Ltd-$ - 500123 - Announcement Under Regulation 30 Of SEBI (LODR), Regulations 2015",
+    "DT_TM": "2026-10-27T23:24:23.797",
+    "NEWS_DT": "2026-10-27T23:24:23.797",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ee61091f-cab7-4062-8dfb-62d6b35480b1.pdf",
+    "MORE": "In continuation of our earlier various communications relating to extension of revocation orders, we wish to inform that Gujarat Pollution Control Board (\"GPCB\") vide its order dated 27th October, 2026 has permanently revoked its closure directions for the Company''s manufacturing facility at GIDC, Ankleshwar, District Bharuch, Gujarat. Accordingly, the said facility will continue to operate, subject to compliance with conditions stipulated in the said order.",
+    "HEADLINE": "In continuation of our earlier various communications relating to extension of revocation orders, we wish to inform that Gujarat Pollution Control Board (\"GPCB\") vide its order dated 27th ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/elantas-beck-india-ltd/elantas/500123/",
+    "SLONGNAME": "Elantas Beck India Ltd-$",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 26,
+    "News_submission_dt": "2026-10-27T23:24:23",
+    "DissemDT": "2026-10-27T23:24:23.797",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1151386,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Regulatory update (27 Oct 2026):** The Gujarat Pollution Control Board permanently revoked its earlier closure direction for Elantas Beck India’s manufacturing plant at GIDC, Ankleshwar, Gujarat, allowing the facility to continue operating subject to stipulated conditions.  \n\n- **Financial impact:** The announcement states that the financial impact of this revocation “is not separately ascertainable”; no specific monetary figures, penalties, or cost estimates are disclosed.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d78c83f5-c3a9-4a3c-88ed-2ee57b3b4608",
+    "SCRIP_CD": 530759,
+    "XML_NAME": "ANN_530759_D78C83F5-C3A9-4A3C-88ED-2EE57B3B4608",
+    "NEWSSUB": "Sterling Tools Ltd-$ - 530759 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-27T23:20:33.567",
+    "NEWS_DT": "2026-10-27T23:20:33.567",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ef583cc0-d1c6-4399-9b1e-87f647b2f89b.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached the Investor Presentation for the Second Quarter and Half Year ended 30th September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sterling-tools-ltd/stertools/530759/",
+    "SLONGNAME": "Sterling Tools Ltd-$",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 26,
+    "News_submission_dt": "2026-10-27T23:20:33",
+    "DissemDT": "2026-10-27T23:20:33.567",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3476365,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "10.8",
+      "operating_profit": "6.9",
+      "total_assets": "785.3",
+      "total_equity": "550.5",
+      "eps": "3.75",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 24,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "Particulars": "Total Income Cost of Goods Sold Gross Profit Gross Profit Margin Total Expenses EBITDA EBITDA Margin Depreciation and amortisation expenses Finance costs Profit before exceptional items Profit before exceptional items Margin Exceptional item Profit before tax Profit before tax Margin Tax Profit after tax Profit after tax Margin EPS",
+            "Q2FY27": "228.0",
+            "Q2FY26": "172.2 32.4% 61.6 110.6 21.6% 64.2% 85.0 25.6 8.1% 14.9% 7.8 1.2 16.6 6.6% 9.6% 9.5 26.1 -32.2% 15.2% 6.3 19.8 -31.2% 11.5% 5.47",
+            "YoY (%)": "",
+            "H1FY27": "429.8",
+            "H1FY26": "335.4 28.2% 125.7 209.7 25.2% 62.5% 159.6 50.1 17.3% 14.9% 16.0 2.6 31.5 26.0% 9.4% 9.5 41.0 -3.2% 12.2% 10.1 30.8 -2.6% 9.2% 8.53",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "93.5",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "167.4",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "134.5",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "262.4",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "59.0%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "61.0%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "106.8",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "203.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "27.7",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "58.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "12.1%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "13.7%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "7.9",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "15.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "2.1",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "3.4",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "17.7",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "39.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "7.8%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "9.2%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "-",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "-",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "17.7",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "39.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "7.8%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "9.2%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "4.1",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "9.6",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "13.6",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "30.0",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "6.0%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "7.0%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "3.75",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "8.26",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          }
+        ]
+      },
+      {
+        "page": 25,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars": "ASSETS",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Non-current assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Property, Plant and Equipment",
+            "Sep-26": "246.1",
+            "Mar-26": "244.3"
+          },
+          {
+            "Particulars": "Investments",
+            "Sep-26": "134.8",
+            "Mar-26": "93.2"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "37.3",
+            "Mar-26": "13.5"
+          },
+          {
+            "Particulars": "Total Non-current assets",
+            "Sep-26": "418.3",
+            "Mar-26": "351.0"
+          },
+          {
+            "Particulars": "Current Assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Inventories",
+            "Sep-26": "146.4",
+            "Mar-26": "112.1"
+          },
+          {
+            "Particulars": "Trade Receivables",
+            "Sep-26": "87.7",
+            "Mar-26": "71.8"
+          },
+          {
+            "Particulars": "Cash and Bank Balance",
+            "Sep-26": "107.6",
+            "Mar-26": "139.1"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "25.3",
+            "Mar-26": "23.8"
+          },
+          {
+            "Particulars": "Total current assets",
+            "Sep-26": "367.0",
+            "Mar-26": "346.8"
+          },
+          {
+            "Particulars": "TOTAL ASSETS",
+            "Sep-26": "785.3",
+            "Mar-26": "697.7"
+          }
+        ]
+      },
+      {
+        "page": 25,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "Particulars": "EQUITY AND LIABILITIES",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Equity",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Equity Share Capital",
+            "Sep-26": "7.3",
+            "Mar-26": "7.3"
+          },
+          {
+            "Particulars": "Other Equity",
+            "Sep-26": "543.2",
+            "Mar-26": "521.2"
+          },
+          {
+            "Particulars": "Total Equity",
+            "Sep-26": "550.5",
+            "Mar-26": "528.5"
+          },
+          {
+            "Particulars": "Liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Non-current liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Borrowings – (Long Term)",
+            "Sep-26": "29.4",
+            "Mar-26": "12.2"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "18.2",
+            "Mar-26": "19.4"
+          },
+          {
+            "Particulars": "Total Non-current liabilities",
+            "Sep-26": "47.5",
+            "Mar-26": "31.6"
+          },
+          {
+            "Particulars": "Current liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Borrowings – (Short Term)",
+            "Sep-26": "124.4",
+            "Mar-26": "78.3"
+          },
+          {
+            "Particulars": "Trade payables",
+            "Sep-26": "45.2",
+            "Mar-26": "43.7"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "17.7",
+            "Mar-26": "15.6"
+          },
+          {
+            "Particulars": "Total Current Liabilities",
+            "Sep-26": "187.3",
+            "Mar-26": "137.6"
+          },
+          {
+            "Particulars": "TOTAL EQUITY AND LIABILITIES",
+            "Sep-26": "785.3",
+            "Mar-26": "697.7"
+          }
+        ]
+      },
+      {
+        "page": 26,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "Particulars": "Total Income Cost of Goods Sold Gross Profit Gross Profit Margin Total Expenses Adjusted EBITDA Adjusted EBITDA Margin ESOP Expenses EBITDA EBITDA Margin Depreciation and amortisation expenses Finance costs PBT before exceptional items PBT before exceptional margin Exceptional item# Profit before tax Profit before tax Margin Tax Profit after tax Profit after tax Margin EPS",
+            "Q2FY27": "252.6",
+            "Q2FY26": "210.9 19.8% 82.0 128.9 9.4% 61.1% 100.7 28.2 -17.7% 13.4% 1.3 26.6 -17.1% 12.6% 9.8 2.4 14.4 -39.8% 6.8% 9.5 23.9 -63.7% 11.3% 6.7 17.2 -82.7% 8.1% 4.75",
+            "YoY (%)": "",
+            "H1FY27": "469.2",
+            "H1FY26": "405.9 15.6% 162.7 243.1 3.0% 59.9% 188.5 54.4 -10.0% 13.5% 2.9 51.5 -8.3% 12.7% 19.8 5.0 26.7 -19.3% 6.6% 9.5 36.2 -40.5% 8.9% 10.0 26.2 -66.3% 6.4% 7.23",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "108.5",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "191.2",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "144.1",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "278.0",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "57.0%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "59.3%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "122.1",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "230.8",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "23.0",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "49.0",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "9.1%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "10.4%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "0.9",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "1.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "22.1",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "47.3",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "8.7%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "10.1%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "10.2",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "20.2",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "3.2",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "5.5",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "8.7",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "21.5",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "3.4%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "4.6%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "-",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "-",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "8.7",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "21.5",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "3.4%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "4.6%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "5.7",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "12.7",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "3.0",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "8.8",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "1.2%",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "1.9%",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          },
+          {
+            "Particulars": "",
+            "Q2FY27": "0.82",
+            "Q2FY26": "",
+            "YoY (%)": "",
+            "H1FY27": "2.43",
+            "H1FY26": "",
+            "YoY (%)_1": ""
+          }
+        ]
+      },
+      {
+        "page": 27,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "ASSETS",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Non-current assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Property, Plant and Equipment",
+            "Sep-26": "340.6",
+            "Mar-26": "315.3"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "55.4",
+            "Mar-26": "53.1"
+          },
+          {
+            "Particulars": "Total Non-current assets",
+            "Sep-26": "395.9",
+            "Mar-26": "368.4"
+          },
+          {
+            "Particulars": "Current Assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Inventories",
+            "Sep-26": "199.2",
+            "Mar-26": "159.0"
+          },
+          {
+            "Particulars": "Trade Receivables",
+            "Sep-26": "120.4",
+            "Mar-26": "99.5"
+          },
+          {
+            "Particulars": "Cash and Bank Balance",
+            "Sep-26": "110.9",
+            "Mar-26": "158.7"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "60.9",
+            "Mar-26": "35.5"
+          },
+          {
+            "Particulars": "Total current assets",
+            "Sep-26": "491.4",
+            "Mar-26": "452.7"
+          },
+          {
+            "Particulars": "TOTAL ASSETS",
+            "Sep-26": "887.3",
+            "Mar-26": "821.1"
+          }
+        ]
+      },
+      {
+        "page": 27,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "Particulars": "EQUITY AND LIABILITIES",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Equity",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Equity Share Capital",
+            "Sep-26": "7.3",
+            "Mar-26": "7.3"
+          },
+          {
+            "Particulars": "Other Equity",
+            "Sep-26": "519.6",
+            "Mar-26": "519.0"
+          },
+          {
+            "Particulars": "Total Equity",
+            "Sep-26": "526.9",
+            "Mar-26": "526.3"
+          },
+          {
+            "Particulars": "Liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Non-current liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Borrowings – (Long Term)",
+            "Sep-26": "34.9",
+            "Mar-26": "20.3"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "42.5",
+            "Mar-26": "45.0"
+          },
+          {
+            "Particulars": "Total Non-current liabilities",
+            "Sep-26": "77.4",
+            "Mar-26": "65.3"
+          },
+          {
+            "Particulars": "Current liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Particulars": "Borrowings – (Short Term)",
+            "Sep-26": "154.3",
+            "Mar-26": "111.0"
+          },
+          {
+            "Particulars": "Trade payables",
+            "Sep-26": "83.6",
+            "Mar-26": "74.1"
+          },
+          {
+            "Particulars": "Others",
+            "Sep-26": "45.2",
+            "Mar-26": "44.5"
+          },
+          {
+            "Particulars": "Total Current Liabilities",
+            "Sep-26": "283.0",
+            "Mar-26": "229.6"
+          },
+          {
+            "Particulars": "TOTAL EQUITY AND LIABILITIES",
+            "Sep-26": "887.3",
+            "Mar-26": "821.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "70095359-83a4-4a27-9892-2325134ca072",
+    "SCRIP_CD": 543458,
+    "XML_NAME": "ANN_543458_70095359-83A4-4A27-9892-2325134CA072",
+    "NEWSSUB": "AWL Agri Business Ltd - 543458 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-10-27T23:06:59.38",
+    "NEWS_DT": "2026-10-27T23:06:59.38",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1ffc9541-72da-4dd9-9b2b-a63c896178f4.pdf",
+    "MORE": "",
+    "HEADLINE": "Audio Recording of Analyst/ Investor Call on the unaudited financial results for the quarter and half year ended 30 September 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/awl-agri-business-ltd/awl/543458/",
+    "SLONGNAME": "AWL Agri Business Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 26,
+    "News_submission_dt": "2026-10-27T23:06:59",
+    "DissemDT": "2026-10-27T23:06:59.38",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 242296,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "70095359-83a4-4a27-9892-2325134ca072",
+    "INVESTOR_PRESENTATION": "ba0345ea-443a-46a3-abd5-6977b9560dfe.pdf",
+    "RECORDID": 14676487,
+    "DataInsDate": "2026-10-27T23:06:59.3",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ba0345ea-443a-46a3-abd5-6977b9560dfe.pdf",
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fa9b14dc-57a2-4c97-b64c-c34f6c7357ae",
+    "SCRIP_CD": 523676,
+    "XML_NAME": "ANN_523676_FA9B14DC-57A2-4C97-B64C-C34F6C7357AE",
+    "NEWSSUB": "Golkunda Diamonds & Jewellery Ltd - 523676 - Board Meeting Intimation for Consideration Of The Unaudited Financial Results  Of The Company For The Second Quarter / Half Year Ended 30Th September, 2026",
+    "DT_TM": "2026-10-27T23:02:37.6",
+    "NEWS_DT": "2026-10-27T23:02:37.6",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a9c42983-f228-4803-881d-1f4d22b6b80e.pdf",
+    "MORE": "Golkunda Diamonds & Jewellery Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the Unaudited Financial Results of the Company and Statement of Assets & Liabilities and Cash Flow Statement for the 2nd Quarter/Half Year ended September 30,2026, inter-alia other business(es).",
+    "HEADLINE": "Golkunda Diamonds & Jewellery Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the Unaudited ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/golkunda-diamonds--jewellery-ltd/golkundia/523676/",
+    "SLONGNAME": "Golkunda Diamonds & Jewellery Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 26,
+    "News_submission_dt": "2026-10-27T23:02:35",
+    "DissemDT": "2026-10-27T23:02:37.6",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 298709,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "1ee21456-900d-4569-95b2-6e286e6f3ef5",
     "SCRIP_CD": 500209,
     "XML_NAME": "ANN_500209_1EE21456-900D-4569-95B2-6E286E6F3EF5",
@@ -23857,266 +24766,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "fc3bd902-e541-4f82-b8bb-dce849ee4ae5",
-    "SCRIP_CD": 544203,
-    "XML_NAME": "ANN_544203_FC3BD902-E541-4F82-B8BB-DCE849EE4AE5",
-    "NEWSSUB": "Allied Blenders and Distillers Ltd - 544203 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-27T20:18:26.337",
-    "NEWS_DT": "2026-10-27T20:18:26.337",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b1947d54-01aa-40ce-bbf8-87b43c1f591a.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/allied-blenders-and-distillers-ltd/abdl/544203/",
-    "SLONGNAME": "Allied Blenders and Distillers Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 24,
-    "News_submission_dt": "2026-10-27T20:18:26",
-    "DissemDT": "2026-10-27T20:18:26.337",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 613825,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "net_profit": "69 crore",
-      "operating_profit": "143 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5370b164-7558-4acb-9644-295e51768373",
-    "SCRIP_CD": 504380,
-    "XML_NAME": "ANN_504380_5370B164-7558-4ACB-9644-295E51768373",
-    "NEWSSUB": "Flomic Global Logistics Ltd - 504380 - Board Meeting Intimation for Approval Of Un-Audited Financial Results Of The Company For The Second Quarter And Half Year Ended 30Th September,\r\n2026",
-    "DT_TM": "2026-10-27T20:17:12.273",
-    "NEWS_DT": "2026-10-27T20:17:12.273",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "407c8612-cd14-40dc-8b36-764cd62321cd.pdf",
-    "MORE": "Flomic Global Logistics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve 1. To approve the Un-Audited Financials along with Limited Review Report for the Second Quarter and Half Year Ended 30th September, 2026 pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements), Regulation 2015;\r\n2. Any other matter with the permission of Chair and with the consent of a majority of the Directors present in the Meeting including at least one Independent Director.",
-    "HEADLINE": "Flomic Global Logistics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve 1. To approve the Un-Audited ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/flomic-global-logistics-ltd/flomic/504380/",
-    "SLONGNAME": "Flomic Global Logistics Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 24,
-    "News_submission_dt": "2026-10-27T20:17:11",
-    "DissemDT": "2026-10-27T20:17:12.273",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 263930,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "29096736-9cc0-4e13-b307-5f826bfeae53",
-    "SCRIP_CD": 544277,
-    "XML_NAME": "ANN_544277_29096736-9CC0-4E13-B307-5F826BFEAE53",
-    "NEWSSUB": "Waaree Energies Ltd - 544277 - Outcome Of Board Meeting Held On October 27, 2026 For The Unaudited Financials Results Along With Limited Review Report For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-10-27T20:15:41.24",
-    "NEWS_DT": "2026-10-27T20:15:41.24",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d57a1f16-9907-4e3d-a5f4-c0e8a808bdc7.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board Meeting held on October 27, 2026 for the Unaudited Financial Results along with the Limited Review report for the Quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/waaree-energies-ltd/waareeener/544277/",
-    "SLONGNAME": "Waaree Energies Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 24,
-    "News_submission_dt": "2026-10-27T20:15:41",
-    "DissemDT": "2026-10-27T20:15:41.24",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3742135,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "7664.81",
-      "total_assets": "23514.01",
-      "total_equity": "14539.00",
-      "total_debt": "4031.52",
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ea9f881c-14f4-4e10-aff6-8925522a710b",
-    "SCRIP_CD": 544966,
-    "XML_NAME": "ANN_544966_EA9F881C-14F4-4E10-AFF6-8925522A710B",
-    "NEWSSUB": "Pind Hospitality Ltd - 544966 - Clarification On Price Movement",
-    "DT_TM": "2026-10-27T20:15:05.957",
-    "NEWS_DT": "2026-10-27T20:15:05.957",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0e9f8032-84ca-4986-898f-2fbaa1bc3a54.pdf",
-    "MORE": "",
-    "HEADLINE": "With reference to the clarification sought by the Exchange vide email reference no. L/SURV/ONL/PV/SJ/2026-2027/4426.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pind-hospitality-ltd/pind/544966/",
-    "SLONGNAME": "Pind Hospitality Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 24,
-    "News_submission_dt": "2026-10-27T20:15:05",
-    "DissemDT": "2026-10-27T20:15:05.957",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7331501,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "014ec834-dd01-4bbf-bc82-bd4856037102",
-    "SCRIP_CD": 531599,
-    "XML_NAME": "ANN_531599_014EC834-DD01-4BBF-BC82-BD4856037102",
-    "NEWSSUB": "FDC Ltd - 531599 - The Financial Results Of The Company For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-10-27T20:14:17.967",
-    "NEWS_DT": "2026-10-27T20:14:17.967",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "feb49d2b-6d62-45a7-9061-15d7cb7ee320.pdf",
-    "MORE": "",
-    "HEADLINE": "The Unaudited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/fdc-ltd/fdc/531599/",
-    "SLONGNAME": "FDC Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 24,
-    "News_submission_dt": "2026-10-27T20:14:17",
-    "DissemDT": "2026-10-27T20:14:17.967",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5247716,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_assets": "316830",
-      "total_equity": "267257",
-      "dividend": "5",
-      "face_value": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0746e6cf-bf37-48f8-b517-dc62a3fd773a",
-    "SCRIP_CD": 538567,
-    "XML_NAME": "ANN_538567_0746E6CF-BF37-48F8-B517-DC62A3FD773A",
-    "NEWSSUB": "Gulf Oil Lubricants India Ltd - 538567 - Announcement under Regulation 30 (LODR)-Strikes /Lockouts / Disturbances",
-    "DT_TM": "2026-10-27T20:12:43.937",
-    "NEWS_DT": "2026-10-27T20:12:43.937",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4d2d4260-29a9-4839-894e-3a53e729ad8d.pdf",
-    "MORE": "",
-    "HEADLINE": "We enclose herewith, intimation regarding a fire incident at one of the Company''s Warehouse.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gulf-oil-lubricants-india-ltd/gulfoillub/538567/",
-    "SLONGNAME": "Gulf Oil Lubricants India Ltd",
-    "AGENDA_ID": 150,
-    "TotalPageCnt": 24,
-    "News_submission_dt": "2026-10-27T20:12:43",
-    "DissemDT": "2026-10-27T20:12:43.937",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 335763,
-    "SUBCATNAME": "Strikes /Lockouts / Disturbances",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Expected quantum of loss/damage caused",
-            "Details": "The Company is in the process of ascertaining the damage caused by the fire."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether loss/damage covered by insurance or not, including amount",
-            "Details": "The damage caused due to the fire is covered under the insurance."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Estimated impact on the production/operatio n s in case of strikes/lock outs",
-            "Details": "Not applicable"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Factory/unit where the strike/lock out takes place including reasons for such strike",
-            "Details": "Not applicable"
-          }
-        ]
-      }
-    ]
   }
 ]
