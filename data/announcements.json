@@ -1,5 +1,43 @@
 [
   {
+    "NEWSID": "616dce62-ac7e-419d-93b3-78eca170e2b0",
+    "SCRIP_CD": 531661,
+    "XML_NAME": "ANN_531661_616DCE62-AC7E-419D-93B3-78ECA170E2B0",
+    "NEWSSUB": "Hittco Tools Ltd - 531661 - Public Announcement - Open Offer",
+    "DT_TM": "2026-10-27T08:31:30.16",
+    "NEWS_DT": "2026-10-27T08:31:30.16",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "616DCE62-AC7E-419D-93B3-78ECA170E2B0-083029.pdf",
+    "MORE": "Navigant Corporate Advisors Ltd (\"Manager to Open Offer\") has submitted to BSE a copy of Public Announcement under Regulation 3(1), Regulation 4 read with Regulations 13(1), 13(2) (G), 14 and 15(1) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011, as amended for the attention of the Equity Shareholders of Hittco Tools Ltd (\"Target Company\").",
+    "HEADLINE": "Navigant Corporate Advisors Ltd (\"Manager to Open Offer\") has submitted to BSE a copy of Public Announcement under Regulation 3(1), Regulation 4 read with Regulations 13(1), 13(2) (G), ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hittco-tools-ltd/hittco/531661/",
+    "SLONGNAME": "Hittco Tools Ltd",
+    "AGENDA_ID": 33,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-10-27T08:31:30.16",
+    "TimeDiff": null,
+    "Fld_Attachsize": 5450618,
+    "SUBCATNAME": "Open Offer",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "5402f5c7-41b3-4e1b-9b2c-f9ff50af427c",
     "SCRIP_CD": 533269,
     "XML_NAME": "ANN_533269_5402F5C7-41B3-4E1B-9B2C-F9FF50AF427C",
@@ -16017,195 +16055,6 @@
             "Mar-26": "13,315",
             "Jun-26": "13,529",
             "Sep-26": "13,617"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "02ca1fac-0cc5-4418-8735-b00ce4f733a4",
-    "SCRIP_CD": 532806,
-    "XML_NAME": "ANN_532806_02CA1FAC-0CC5-4418-8735-B00CE4F733A4",
-    "NEWSSUB": "AI Champdany Industries Ltd - 532806 -  Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
-    "DT_TM": "2026-10-26T20:53:46.18",
-    "NEWS_DT": "2026-10-26T20:53:46.18",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cb0a5e6c-0805-4b1a-9db2-23b4498bae70.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find the attachment",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ai-champdany-industries-ltd/aichamp/532806/",
-    "SLONGNAME": "AI Champdany Industries Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:53:46",
-    "DissemDT": "2026-10-26T20:53:46.18",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2831648,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Total number of Valid Votes (as per details provided under one of the Resolution mentioned hereunder": "Item No. of Noti ce",
-            "col_2": "Particulars of Resolutions",
-            "col_3": "",
-            "col_4": "Votes in favour of the resolution",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "Votes against the resolution",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "Invalid Votes",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Total number of Valid Votes (as per details provided under one of the Resolution mentioned hereunder": "",
-            "col_2": "",
-            "col_3": "Description",
-            "col_4": "No. of Members voted",
-            "col_5": "No. of votes cast by them",
-            "col_6": "%",
-            "col_7": "Descripti on",
-            "col_8": "No. of Members voted",
-            "col_9": "No. of votes cast by them",
-            "col_10": "%",
-            "col_11": "Descri ption",
-            "col_12": "No. of vote s cast",
-            "col_13": "%"
-          },
-          {
-            "Total number of Valid Votes (as per details provided under one of the Resolution mentioned hereunder": "1.",
-            "col_2": "Pursuant to Regulation 17(1A) and other applicable provisions the Companies Act, 2013 consent of the Members of the Company be and is hereby accorded for the continuation of Mr. Jayanta Jash (DIN: 09352733) as a Non- Executive, Independent Director of the Company",
-            "col_3": "Equity",
-            "col_4": "90",
-            "col_5": "16251310",
-            "col_6": "99.99",
-            "col_7": "Equity",
-            "col_8": "21",
-            "col_9": "341",
-            "col_10": ".001",
-            "col_11": "Equit y",
-            "col_12": "0",
-            "col_13": "0.00"
-          },
-          {
-            "Total number of Valid Votes (as per details provided under one of the Resolution mentioned hereunder": "",
-            "col_2": "",
-            "col_3": "2% Preference",
-            "col_4": "4",
-            "col_5": "9774340",
-            "col_6": "100%",
-            "col_7": "2% Prefere nce",
-            "col_8": "0",
-            "col_9": "0",
-            "col_10": "0.00",
-            "col_11": "2% Prefe rence",
-            "col_12": "0",
-            "col_13": "0.00"
-          },
-          {
-            "Total number of Valid Votes (as per details provided under one of the Resolution mentioned hereunder": "",
-            "col_2": "",
-            "col_3": "Total",
-            "col_4": "94",
-            "col_5": "26025650",
-            "col_6": "",
-            "col_7": "Total",
-            "col_8": "21",
-            "col_9": "341",
-            "col_10": "",
-            "col_11": "Total",
-            "col_12": "0",
-            "col_13": "0.00"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "Total": "Number of",
-            "Total_1": "Number of",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "Mode of",
-            "col_2": "Class of",
-            "col_3": "Total Number",
-            "Total": "Votes cast in",
-            "Total_1": "Votes cast",
-            "col_6": "Invalid",
-            "col_7": "%age of votes"
-          },
-          {
-            "col_1": "Voting",
-            "col_2": "Shareholders",
-            "col_3": "of Votes cast",
-            "Total": "favour",
-            "Total_1": "against",
-            "col_6": "Votes",
-            "col_7": "cast in favour"
-          },
-          {
-            "col_1": "E-voting",
-            "col_2": "Equity",
-            "col_3": "16251651",
-            "Total": "16251310",
-            "Total_1": "341",
-            "col_6": "-",
-            "col_7": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "Preference",
-            "col_3": "9774340",
-            "Total": "9774340",
-            "Total_1": "-",
-            "col_6": "-",
-            "col_7": ""
-          },
-          {
-            "col_1": "Poll",
-            "col_2": "-",
-            "col_3": "",
-            "Total": "",
-            "Total_1": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "Total",
-            "col_2": "",
-            "col_3": "",
-            "Total": "",
-            "Total_1": "",
-            "col_6": "",
-            "col_7": ""
           }
         ]
       }
