@@ -1,5 +1,249 @@
 [
   {
+    "NEWSID": "13aeafa8-8d1b-4f66-b890-21555f6c3123",
+    "SCRIP_CD": 543300,
+    "XML_NAME": "ANN_543300_13AEAFA8-8D1B-4F66-B890-21555F6C3123",
+    "NEWSSUB": "Sona BLW Precision Forgings Ltd - 543300 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-10-27T09:29:28.43",
+    "NEWS_DT": "2026-10-27T09:29:28.43",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d726c8de-d28f-434f-917e-d730b39dfe05.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement for Q2 financial results.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sona-blw-precision-forgings-ltd/sonacoms/543300/",
+    "SLONGNAME": "Sona BLW Precision Forgings Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T09:29:28",
+    "DissemDT": "2026-10-27T09:29:28.43",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 6589530,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Regulatory filing:** On 27 Oct 2026, Sona BLW Precision Forgings Ltd. (BSE 543300 / NSE SONACOMS) submitted the required newspaper advertisement under Regulation 47 (and related SEBI LODR rules) announcing that its quarterly and half‑year financial results for the period ended 30 Sept 2026 have been published in the English and Hindi editions of *Business Standard*.\n\n- **Financial details:** The announcement contains no quantitative financial information (revenues, profit, earnings per share, etc.); it only confirms the publication of the results.",
+    "key_metrics": {
+      "total_equity": "118448"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fed544ef-64de-4954-b2cf-8c5bc075c017",
+    "SCRIP_CD": 543265,
+    "XML_NAME": "ANN_543265_FED544EF-64DE-4954-B2CF-8C5BC075C017",
+    "NEWSSUB": "RailTel Corporation of India Ltd - 543265 - Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+    "DT_TM": "2026-10-27T09:28:01.177",
+    "NEWS_DT": "2026-10-27T09:28:01.177",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "acd96e8e-aeda-4724-8680-90f257c47993.pdf",
+    "MORE": "",
+    "HEADLINE": "New Order Received",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+    "SLONGNAME": "RailTel Corporation of India Ltd",
+    "AGENDA_ID": 8,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T09:28:01",
+    "DissemDT": "2026-10-27T09:28:01.18",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 330275,
+    "SUBCATNAME": "Award of Order / Receipt of Order",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Order Value & Client:** RailTel Corporation of India Ltd. has secured a domestic work order valued at Rs. 27,38,05,705 (excluding tax) from The Cotton Corporation Of India Ltd. to establish dedicated Cloud/backup-replication-based Disaster Recovery (DR) hardware and software.\n* **Key Dates & Timeline:** The work order was received on October 26, 2026, and is scheduled to be executed by November 30, 2031.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "03c9b102-1614-4281-95d2-989093f45ff1",
+    "SCRIP_CD": 543265,
+    "XML_NAME": "ANN_543265_03C9B102-1614-4281-95D2-989093F45FF1",
+    "NEWSSUB": "RailTel Corporation of India Ltd - 543265 - Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+    "DT_TM": "2026-10-27T09:26:57.3",
+    "NEWS_DT": "2026-10-27T09:26:57.3",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "26db0ca3-912a-4129-82fd-1dddb7f832f9.pdf",
+    "MORE": "",
+    "HEADLINE": "New Order Received",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/railtel-corporation-of-india-ltd/railtel/543265/",
+    "SLONGNAME": "RailTel Corporation of India Ltd",
+    "AGENDA_ID": 8,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T09:26:57",
+    "DissemDT": "2026-10-27T09:26:57.3",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 330159,
+    "SUBCATNAME": "Award of Order / Receipt of Order",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8e75dfbc-1ac0-4cb6-a721-2aae05db4e94",
+    "SCRIP_CD": 543895,
+    "XML_NAME": "ANN_543895_8E75DFBC-1AC0-4CB6-A721-2AAE05DB4E94",
+    "NEWSSUB": "Exhicon Events Media Solutions Ltd - 543895 - Appointment Of Senior Management Personnel",
+    "DT_TM": "2026-10-27T09:26:56.877",
+    "NEWS_DT": "2026-10-27T09:26:56.877",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "978844f4-7fa4-4231-8ca9-bacf439fdcc1.pdf",
+    "MORE": "Dear Sir/ Madam,\r\n\r\nWith reference to the captioned subject and in accordance with the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), We wish to inform you that Mr. Nilesh Kumar Dubey has been appointed as Chief Executive Officer - Venue Development of the Company, in the category of Senior Management, with effect from October 26, 2026.\r\n",
+    "HEADLINE": "Dear Sir/ Madam,\r\n\r\nWith reference to the captioned subject and in accordance with the provisions of Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/exhicon-events-media-solutions-ltd/exhicon/543895/",
+    "SLONGNAME": "Exhicon Events Media Solutions Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-27T09:26:56",
+    "DissemDT": "2026-10-27T09:26:56.877",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 398380,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Appointment:** Mr. Nilesh Kumar Dubey was appointed Chief Executive Officer – Venue Development of Exhicon Events Media Solutions Ltd, effective 26 October 2026, reporting directly to the Board of Directors.  \n\n- **Mandate & Timeline:** He will lead Phase 1 of the Mohali Exhibition & Convention Centre (EXHICON‑India Exposition Mart Ltd JV) through completion,",
+    "key_metrics": {
+      "revenue": ""
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "col_1": "1",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Name",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "Nilesh Kumar Dubey",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "2",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Reason of Change",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "Appointment",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "3",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Subject",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "Appointment as Senior Management Personnel – CEO, Venue Development",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "4",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Date of appointment",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "October 26, 2026",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "5",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Brief profile",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "Mr. Nilesh Kumar Dubey is a Gujarat Administrative Services officer with 35 years across the Government of India, Government of Gujarat and National Infrastructure Projects. Former Deputy Collector (Gujarat); at the Sardar Sarovar Narmada Dam Project; Assistant Commissioner – Tourism Operations & Infrastructure Development at the Statue of Unity; Additional Collector –Tourism Operations, Gujarat Tourism.",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "6",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Mandate",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "Lead Phase 1 of the Mohali Exhibition & Convention Centre (EXHICON–India Exposition Mart Ltd JV) to completion, operational readiness and commercial launch by May 31 2027; then transition to EXHICON's national event venue footprint.",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "7",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Reporting",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "Directly to the Board of Directors",
+            "Details": "",
+            "col_9": ""
+          },
+          {
+            "col_1": "8",
+            "Sr. No": "",
+            "col_3": "",
+            "col_4": "Disclosure of relationships between directors",
+            "Particulars": "",
+            "col_6": "",
+            "col_7": "NA",
+            "Details": "",
+            "col_9": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "616dce62-ac7e-419d-93b3-78eca170e2b0",
     "SCRIP_CD": 531661,
     "XML_NAME": "ANN_531661_616DCE62-AC7E-419D-93B3-78ECA170E2B0",
@@ -14944,1120 +15188,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "e01a68f1-aeb0-46ab-95cb-f5b11eef5fd9",
-    "SCRIP_CD": 509692,
-    "XML_NAME": "ANN_509692_E01A68F1-AEB0-46AB-95CB-F5B11EEF5FD9",
-    "NEWSSUB": "Indian Card Clothing Company Ltd - 509692 - Board Meeting Intimation for Intimation Of The Board Meeting Date Under Regulation 29 Of SEBI (Listing Obligations And Disclosure Requirements) Regulation, 2015\r\n",
-    "DT_TM": "2026-10-26T20:57:57.57",
-    "NEWS_DT": "2026-10-26T20:57:57.57",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d2f579da-ed3f-414d-9334-25a1a07ac0e9.pdf",
-    "MORE": "Indian Card Clothing Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve Notice is hereby given pursuant to Regulation 29 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 that a meeting of the Board of Directors of the Company is scheduled to take place on Tuesday, November 3, 2026 to consider and approve the un-audited standalone and consolidated financial results of the Company for the quarter and half year ended September 30, 2026 and other business matters.\r\n\r\nThis Notice is also available on the website of the Company at www.cardindia.com.\r\n\r\nYou are requested to take the above intimation on record.",
-    "HEADLINE": "Indian Card Clothing Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve Notice is hereby ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/indian-card-clothing-company-ltd/indiancard/509692/",
-    "SLONGNAME": "Indian Card Clothing Company Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:57:55",
-    "DissemDT": "2026-10-26T20:57:57.57",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 3291812,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3d26c20a-61ed-47be-a010-486167194dd4",
-    "SCRIP_CD": 543287,
-    "XML_NAME": "ANN_543287_3D26C20A-61ED-47BE-A010-486167194DD4",
-    "NEWSSUB": "Lodha Developers Ltd - 543287 - Board Meeting Intimation for Considering And Approving The Un-Audited Financial Results Of The Company For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-10-26T20:57:51.833",
-    "NEWS_DT": "2026-10-26T20:57:51.833",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c9dc287e-82ec-4087-a832-f0e35e1e8cc3.pdf",
-    "MORE": "Lodha Developers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve the Un-audited Financial Results of the Company for the quarter and half year ended September 30, 2026",
-    "HEADLINE": "Lodha Developers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve the Un-audited Financial Results ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lodha-developers-ltd/lodha/543287/",
-    "SLONGNAME": "Lodha Developers Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:57:51",
-    "DissemDT": "2026-10-26T20:57:51.833",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 273461,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fffbfcee-a54f-447e-9658-dbd1a987b99d",
-    "SCRIP_CD": 512179,
-    "XML_NAME": "ANN_512179_FFFBFCEE-A54F-447E-9658-DBD1A987B99D",
-    "NEWSSUB": "Sunteck Realty Ltd - 512179 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-10-26T20:57:12.09",
-    "NEWS_DT": "2026-10-26T20:57:12.09",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "299bcba1-a379-4917-a5db-40868f18055a.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sunteck-realty-ltd/sunteck/512179/",
-    "SLONGNAME": "Sunteck Realty Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:57:10",
-    "DissemDT": "2026-10-26T20:57:12.09",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 4937615,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2086.26 lakh",
-      "net_profit": "203.73 lakh",
-      "total_debt": "47325.91",
-      "eps": "3.96",
-      "face_value": "",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "Sr, No,",
-            "col_2": "Partlcul11'$",
-            "col_3": "Qu11r1ar ondod",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half year ended",
-            "col_7": "",
-            "col_8": "Yoarthdod"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "30 Septomliu 2026",
-            "col_4": "30Juno 2021",
-            "col_5": "30 Sept,mbor 2025",
-            "col_6": "30 Scplombor 2026",
-            "col_7": "30 Septembor 2025",
-            "col_8": "31 March 2026"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited",
-            "col_6": "llnaudlled",
-            "col_7": "Unaudited",
-            "col_8": "Audlhtd"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "1 2 3 4 5 6 7 B 9 10 11 12 13 1◄ 15",
-            "col_2": "lncomo (a) Re-Jenuo from opcrallons (b) Oiher Income Total lncomo Expenaos (a) Cost of eonslruetion and developmonl (b) Changos In lnvonlortoS of· work•ln-progres, and finished properUes (c) Employee benefits expense (d) Finance cosls (e) Depreciation and amortisation expense (I) Other expensu Tolal expenses Prom bororo share of profit or Joint venturos and tax (1·2) Share or profit of Jolnl ventures accounted for using the equity me I hod (~el) Prom bo!oro lox (3•4) Tax 0)(ponso / (credit) (a) Current lox (b) Deferred tax Prom after tax fort he periodI year {5-6) Othu e,ompnihcnslvc Income/ Uon) (a) Hems nol lo be reclassilied subsequenll-J lo profit or loss • Remeesuremenls of the denned benefit plan • Gain/ (loss) on fair vatue of equity lnstrumenls • Income lax relallng to above llems • Share or olher comprehensive Income/ (loss) or joinI ventures (net) (b) Items lo be reclassified subsequenUy to pront or k>ss • Translation exchange gain relating lo Coreign operations Olhor comprohonslve Income forth• period/ year, not of tax Total comprahonslva Income for Iha period/ year, not of tax (7 + 8) Profit/ (loss) for the period/ year attributable to Ovmers or the Holding Company Non-COnt,olting lnleresls Olhor oomprohonsivo Income ror tho period/ year attributable to • Qymers or the Holding Company Nort-conlroUing lnlere5ls Total comprohenslve lncomo rortho poriod/yoarattributablo to OWners or the HokJing Company Non• conlrol!lng lnlere:5lS Paid up equily share capilal (Fact value or, 1 each) Olhereqully Earnings per share (face value or, 1 eachr (a) Basic EPS (In') (b) Diluled EPS (In') • (Quarterly and year to dale figures are not annuafised) Sea accompanying notes lo Iha unaudited consolidated financial results",
-            "col_3": "32,081.21 1,301.05",
-            "col_4": "19,156.28 1,046.67",
-            "col_5": "25,236.75 979.51",
-            "col_6": "51,237.49 2,347.72",
-            "col_7": "◄4,068.64 2,300.80",
-            "col_8": "1, 12,384.26 4,478.46"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "33,382.ZG",
-            "col_4": "20,202.95",
-            "col_5": "26,216.26",
-            "col_6": "53,585,21",
-            "col_7": "46,36'.44",
-            "col_8": "1,16,112.72"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "8,020.21 8,813.71 3,320.66 2,119.74 389.71 3,065.12",
-            "col_4": "16,752.51 (11,588.32) 3,091.28 2,150.97 389.10 4,201.66",
-            "col_5": "4,490,59 7,156.90 2,991.52 1,996.5◄ 380.28 2,760.24",
-            "col_6": "24,772.72 (2,774.61) 6,412.16 ◄,276,71 778.61 7,268.78",
-            "col_7": "11,200.40 9,065.80 6,047.13 3,540.61 705.15 4,999.45",
-            "col_8": "55,151.31 (111.66) 12,590.00 6,731.64 1.◄4~.06 14,270.83"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "25,729.37",
-            "col_4": "15,003.20",
-            "col_5": "19,756.07",
-            "col_6": "40,732.57",
-            "col_7": "35,641.54",
-            "col_8": "·90,079.91"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "7,652.89 11.05",
-            "col_4": "5,199.75 48.15",
-            "col_5": "6,460.19 22.25",
-            "col_6": "12,852.64 59,20",
-            "col_7": "10,720.90 26.06",
-            "col_8": "26,712.74 16.50"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "7,663.94 1,655.63 296.95",
-            "col_4": "5,247.90 573.41 476.49",
-            "col_5": "6,482.44 1,222.43 363.32",
-            "col_6": "12,911.84 2,229.04 775.44",
-            "col_7": "10,746.96 1'.393.24 1,113.95",
-            "col_8": "26,101.24 6,326.96 257.16"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "1,952.50",
-            "col_4": "1,051.90",
-            "col_5": "1,585.75",
-            "col_6": "3,004.41",
-            "col_7": "2,507.19",
-            "col_8": "6,594.12"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "5,711.36 10.46 1.01 12.95 (0.03) 1,958.76",
-            "col_4": "4,196,00 6.55 (1.54) (1.97) (0.06) 239.84",
-            "col_5": "4,896.69 (6.76) (0.53) 2.12 (0.11) 1,305.46",
-            "col_6": "9,907.38 19.01 (0,53) 10.96 (0.09) 2,198.60",
-            "col_7": "8,239,77 (11.47) 10:10) 3.41 (0.23) 1,260.79",
-            "col_8": "20,207.12 37.50 13.08 (14.87) (0.15) 9,015.78"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "1,983.15",
-            "col_4": "244.82",
-            "col_5": "1,300.18",
-            "col_6": "2,227.97",
-            "col_7": "1,252.40",
-            "col_8": "9,051.34"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "7,694,51",
-            "col_4": "4,440.82",
-            "col_5": "61196.87",
-            "col_6": "12,135.33",
-            "col_7": "9,492.17",
-            "col_8": "29,25B.46"
-          },
-          {
-            "STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER ANO YEAR TO DATE PERIOD ENDED 30 SEPTEMBER 2026 \"In l•~h, OXCClfll tarnlna-, ncr shore dillll": "",
-            "col_2": "",
-            "col_3": "5,817.34 (105.9B) 822.00 1,381.15 6,439.34 1,255.17 1,468.42 3.96 3.98",
-            "col_4": "4,227.54 (31.54) 82.72 162.10 ~.310.26 130.56 1,468.42 2.88 2.88",
-            "col_5": "4,896.69 '1,300.18 6,196.87 1,464.69 3.3◄ 3.34",
-            "col_6": "10,044.88 (137.52) 704.72 1,52325 10,749.60 1,385.73 1,◄68,42 6.84 6,64",
-            "col_7": "8,239.77 1,252.40 9,492.17 1,464.69 5.02 5.62",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "Particulars",
-            "col_2": "Asat 30 Sep_tember 2026",
-            "col_3": "As at 31 March 2026"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "ASSETS Non-current assets Property, plant and equipment Investment properties Intangible assets Investments in joint venture accounted for using equity method (Refer note 4) Financial assets Investments Loans Other financial assets.( Refer note 3) Deferred tax assets (net) Income tax assets (net) Other non-current assets Total non-current assets (a) Current assets Inventories Financial assets Investments Trade receivables Cash and cash equivalents Bank balances other than cash and cash equivalents Loans Other financial assets Other current assets Total current assets (b)",
-            "col_2": "Unaudited 8,016.08 56,241.59 256.26 7,018.88 621.83 18,920.29 2,654.92 • 3,F5.77 2,352.13 4,116.76",
-            "col_3": "Audited"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "",
-            "col_3": "7,724.92 55,857.18 298.56 6,955.68 372.36 18,082.89 3,132.74 3,935.20 2,051.04 2,716.49 1,01,127.06 7,89,570.63 - 11,254.27 5,441.52 4,056.81 18,594.73 34,789.82 26,448.71 8,90, 156.49"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "1,03,374.51",
-            "col_3": ""
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "8,29,130.51 1,400.00 19,964.55 2,188.47 2,995.80 15,826.43 54,403.43 26,489.88",
-            "col_3": ""
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "9,52,399.07",
-            "col_3": ""
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "TOTAL ASSETS (a)+(b)",
-            "col_2": "10,55,7 73.58",
-            "col_3": "9,91,283.55"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "EQUITY AND LIABILITIES Equity Equity share capital Other equity Equity attributable to owners of the Holding Company Non-controlling Interest Total equity (c) Liabilities Non-current llabllltles Financial liabilities Borrowings Olher financial liabililies Provisions Deferred tax liabilities (net) Other non-current liabilities Total non-current liabilities (d) Current liabilities Financial liabilities Borrowings Trade payables -Total outstanding dues of micro enterprises and small enterprises -Total outstanding dues of creditors other than micro enterprises and small enterprises Liabilities towards land owners for Joint development arrangements Other financial liabilities Other current liabilities Provisions Current tax liabililies (net) Total current liabilities (e) Total liabilities (dl+(el",
-            "col_2": "1,468.42 3,68, 100.13",
-            "col_3": "1,468.42 3,59,638.84"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "3,69,56,;l.55 87,491.57",
-            "col_3": "3,61,107.26 86,105.84"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "4,57,060.12",
-            "col_3": "4,47,213.10 47,760.58 503.55 677.71 518.73 1,652.08"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "47,325.91 14,630.83 719.45 523.75 1,779.64",
-            "col_3": ""
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "64,979.58",
-            "col_3": "51,112.65"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "46,636.86 2,436.26 25,763.29 3,49,975.55 9,666.87 96,373.58 922.86 1,958.61",
-            "col_3": "29,656.50 2,393.66 25,181.67 3,23,812.07 8,399.10 1,02,581.90 881.30 51.60"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "5,33 733.88",
-            "col_3": "4,92,957.80"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "",
-            "col_2": "5,98,713.46",
-            "col_3": "5,44,070.45"
-          },
-          {
-            "CONSOLIDATED STATEMENT OF ASSETS AND LIABILITIES (~ In lakhs)": "TOTAL EQUITY AND LIABILITIES (c)+(d}+(e)",
-            "col_2": "10,55,773.58",
-            "col_3": "9,91,283.55"
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "30 Scptombor 2026",
-            "col_4": "30 June 2026",
-            "col_5": "30 Soplembor 2025",
-            "Hatr year ended": "30 Sep,tembor 2026",
-            "col_7": "30 Stpll.'!mber 2025",
-            "Ycucmdod": "31 March 2026"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "Unaudited",
-            "col_4": "Un.Judlted",
-            "col_5": "Unaudited",
-            "Hatr year ended": "Unaudllad 43,879.09 941.28",
-            "col_7": "Unaudited",
-            "Ycucmdod": "Audltod"
-          },
-          {
-            "Sr. No.": "1 2 3 4 5 6 7 8 9 10",
-            "Por11culars": "Income (a) Revenue from operations (b) Other Income Total Income Expenses (a) Cost of consllUcUon and developmenl (b) Changes In lnvenlories of wor1<-ln-progress and finished properties (c) Employee benefits expense (d), Finance cosls (e) Depreciation and amortisation expenses (Q Other expenses Total expenses Pronu (loss) before tax (1-2) Tax expense/ (credll) (a) Currenllax (b) Deferred lax ProflU (loss) •Her tax for lho period/ year (3-4) Other comprehensive Income/ (loss) (a) llems nol lo be reclassified subsequently to profit or loss • Remeasuremenls of the defined benefit plan • Galn/(Loss) on fair value of equity lnsl/Umenls -Income lox relatlng lo above Ile ms (bl llems to be reclassified subsequenlly lo profit or loss Other comprehensive Income/ (loss) for the period/ year, net of tu Total comprehensive Income/ (loss) for the period/ year, net of tax (5 + 6) Paid up equty share capltal (Face value of, 1 each) Other equity Earnings/ (loss) per share (Fae~ value or, 1 each)' (a) Basic EPS (In 'l (b) Oiluled EPS (int) '(Quarterly and year to date figures are not annualised) See ec'companylng nolas lo the unaudited standalone financial resulls",
-            "Quar1erended": "3D,107,97 605.38",
-            "col_4": "13,771.12 435,90",
-            "col_5": "6,046.27 394.95",
-            "Hatr year ended": "",
-            "col_7": "·11,299.44 795,45 12,094.89",
-            "Ycucmdod": "20,941.49 2,087.81"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "30,613.35",
-            "col_4": "14,207.02",
-            "col_5": "6,441.22 2,038.03 (525.0t) 1,545.70 1,499.56 197.11 1,341.49",
-            "Hatr year ended": "44,820.37",
-            "col_7": "",
-            "Ycucmdod": "23,029.30"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "3,617.13 15,144.93 949.31 1,651.40 207.20 1,579.62",
-            "col_4": "3,737.73 1,161.10 1,217.04 1,637.82 207.46 1,~96.15",
-            "col_5": "",
-            "Hatr year ended": "7,354.86 18,306.03 2,166.35 3,289.22 414.66 3,575.77",
-            "col_7": "5,008.76 (1,887.04) 3,3,11.64 2,951.08 393.81 2,481.89 12,259.94",
-            "Ycucmdod": "13,251.93 (7,178.16) 6.408.87 5,521.51 788.43 7,366.25"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "23,149.59",
-            "col_4": "9,957,30",
-            "col_5": "6,096.88",
-            "Hatr year ended": "33,106.89",
-            "col_7": "",
-            "Ycucmdod": "26,158.83"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "7,463.76 1,428.01 409.36",
-            "col_4": "4,249.72 246.81 529.59",
-            "col_5": "344.34 65.65",
-            "Hatr year ended": "11,713.48 1,674.82 938.95",
-            "col_7": "(165,05) (257.04)",
-            "Ycucmdod": "(3,129.53) (1,162.93)"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "1,837,37",
-            "col_4": "776.40",
-            "col_5": "55.65",
-            "Hatr year ended": "2,613.77",
-            "col_7": "(257.04)",
-            "Ycucmdod": "(1,162.93)"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "5,626.39 6.95 1.01 13.83",
-            "col_4": "3,473.32 7.05 (1.54) (1.59)",
-            "col_5": "288.69 (3.44) (0.53) 1.26",
-            "Hatr year ended": "9,099.71 14.00 (0.53) 12.24",
-            "col_7": "91.99 (4.82) (0.10) 1.69 .",
-            "Ycucmdod": "(1,966.60) 27.90 13.08 (12.53) 28.45"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "21.79",
-            "col_4": "3.92",
-            "col_5": "(2.71)",
-            "Hatr year ended": "25.71",
-            "col_7": "(3.23)",
-            "Ycucmdod": ""
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "",
-            "col_4": "",
-            "col_5": "",
-            "Hatr year ended": "",
-            "col_7": "88.76",
-            "Ycucmdod": ""
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "5,648.18",
-            "col_4": "3,477.24",
-            "col_5": "285.98·",
-            "Hatr year ended": "9,125.42",
-            "col_7": "",
-            "Ycucmdod": "(1,938.15)"
-          },
-          {
-            "Sr. No.": "",
-            "Por11culars": "",
-            "Quar1erended": "1,466.42 3.83 3.83",
-            "col_4": "1,468.42 2.37 2.37",
-            "col_5": "1,464.89 0.20 0.20",
-            "Hatr year ended": "1,468.42 6.20 6.20",
-            "col_7": "1,464.89 0.06 0.06",
-            "Ycucmdod": "1,468.42 2,57,422.12 ' (1.34) (1.34)"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "Particulars",
-            "col_2": "• As at 30 September 2026",
-            "col_3": "Asat 31 March 2026 Audited"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "Unaudited 4,141.45 31,104.97 256.26 61,522.60 . 5,012.47 3,145.10 2,716.32 1,856.47 1,339.49",
-            "col_3": ""
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "ASSETS Non-current assets : Property, plant and equipment lnveslmenl properties Intangible assets Financial assets lnveslmenls Loans Other financial assets (Refer note 3) Deferred lax assets (nel) Income tax assets (nel) Other non-current assets Total-non-current assets (a) Current assets Inventories Financial assets Investments Trade receivables Cash and cash equivalents Bank balances olher than cash and cash equivalents Loans Other financial assets Other current assets Total current assets (b)",
-            "col_2": "",
-            "col_3": "4,208.43 30,831.36 298,56 77,903.85 4,997.69 3,473.88 3,643.03 1,778.70 . 1,401.91 1,28,537.41"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "1,31,095.13",
-            "col_3": ""
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "77,349.60 1,400.00 11,881.54 994.41 2,995.60 1,19,756.52 17,376.22 13;009,07",
-            "col_3": "94,021.02 - 3,973.84 2,901.05 4,056,81 1, 12,461.70 7,290.41 15,625.76"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "2,45,563.96",
-            "col_3": "2,40,330.59"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "",
-            "col_3": "3,66,868.00"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "TOTAL ASSETS (a)+(b)",
-            "col_2": "3,76,659.09",
-            "col_3": ""
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "EQUITY AND LIABILITIES Equity Equity share capital Other equity Total equity (c) Llabllitles Non-current liabllltles Financial llabllllies Borrowings Other financial llabililies Provisions ' Other non-current liabllltles Total non-current liabllltles (d) Current liabllltles Financial liabilities Borrowings Trade payables -Total oulstanding dues of Micro Enterprises and Small Enterprises -Tolal outstanding dues of creditors other than Micro Enterprises and Small l;nlerprlses Olher financial liabilities Other current liabllllles Provisions Current tax liabllllies (nel) Total current liabilities (e) Total liabilities (d)+(e)",
-            "col_2": "1°,468.42 2,64,366,10",
-            "col_3": "1,466.42 2,57,422.12"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "2,65,834.52",
-            "col_3": "2,56,690.54"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "30,520.74 473.39 384,35 1,024.83",
-            "col_3": "32,531.63 405.77 363,35 1,003.33"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "32,403.31",
-            "col_3": "34,304.26"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "45,910.30 1,705.93 8,466.59 867.11 19,424.05 513.64 1,493.64",
-            "col_3": "26,569,71 1,592.41 9,202.34 1,046.94 36,736.14 503,64 -"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "76,421.26",
-            "col_3": "75,673.18"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "",
-            "col_2": "1,1 0,824.57",
-            "col_3": "1,09,977.46"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "TOTAL EQUITY AND LIABILITIES (c)+(d)+(e)",
-            "col_2": "3,76,659.09",
-            "col_3": "3,66,866.00"
-          },
-          {
-            "STANDALONE STATEMENT OF ASSETS AND LIABILITIES (11' In lakhs)": "See accompanying notes to lhe unaudited standalone financial results",
-            "col_2": "",
-            "col_3": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "fb43dc68-bf7b-476c-a0b8-81b602d9a655",
-    "SCRIP_CD": 543396,
-    "XML_NAME": "ANN_543396_FB43DC68-BF7B-476C-A0B8-81B602D9A655",
-    "NEWSSUB": "One 97 Communications Ltd - 543396 - Disclosure Under Regulation 30 Of The SEBI(Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-10-26T20:53:58.877",
-    "NEWS_DT": "2026-10-26T20:53:58.877",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "26f2ddb9-d9e7-455e-a49f-5250334f26fe.pdf",
-    "MORE": "",
-    "HEADLINE": "Earnings Release for the quarter and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/one-97-communications-ltd/paytm/543396/",
-    "SLONGNAME": "One 97 Communications Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 21,
-    "News_submission_dt": "2026-10-26T20:53:58",
-    "DissemDT": "2026-10-26T20:53:58.877",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 941943,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "28",
-      "net_profit": "2648 cr",
-      "operating_profit": "90",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 12,
-        "table_index": 1,
-        "row_count": 11,
-        "rows": [
-          {
-            "(Quarter ending, in ₹ Cr)": "Operating Revenue (Reported) (A)",
-            "Sep-25": "2,061",
-            "Sep-26": "2,648",
-            "YoY": "28%"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "Less: PIDF Incentive (B)",
-            "Sep-25": "74",
-            "Sep-26": "12",
-            "YoY": ""
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "Operating Revenue (Comparable) (A-B)",
-            "Sep-25": "1,987",
-            "Sep-26": "2,636",
-            "YoY": "33%"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "Contribution Profit (Reported) (C)",
-            "Sep-25": "1,207",
-            "Sep-26": "1,479",
-            "YoY": "23%"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "Contribution Margin %",
-            "Sep-25": "59%",
-            "Sep-26": "56%",
-            "YoY": "(271 bps)"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "Contribution Profit (Comparable) (C-B)",
-            "Sep-25": "1,133",
-            "Sep-26": "1,467",
-            "YoY": "29%"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "Contribution Margin %",
-            "Sep-25": "57%",
-            "Sep-26": "56%",
-            "YoY": "(135 bps)"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "EBITDA (Reported) (D)",
-            "Sep-25": "142",
-            "Sep-26": "270",
-            "YoY": "90%"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "EBITDA Margin %",
-            "Sep-25": "7%",
-            "Sep-26": "10%",
-            "YoY": "331 bps"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "EBITDA (Comparable) (D-B)",
-            "Sep-25": "68",
-            "Sep-26": "258",
-            "YoY": "279%"
-          },
-          {
-            "(Quarter ending, in ₹ Cr)": "EBITDA Margin %",
-            "Sep-25": "3%",
-            "Sep-26": "10%",
-            "YoY": "637 bps"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 1,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Quarter Ended": "Sep-26 (Unaudited)",
-            "col_3": "Sep-25 (Unaudited)",
-            "col_4": "YoY",
-            "col_5": "Jun-26 (Unaudited)",
-            "col_6": "QoQ",
-            "Half Year Ended": "Sep-26 (Unaudited)",
-            "col_8": "Sep-25 (Unaudited)",
-            "col_9": "YoY"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Payment Services",
-            "Quarter Ended": "1,434",
-            "col_3": "1,146",
-            "col_4": "25%",
-            "col_5": "1,384",
-            "col_6": "4%",
-            "Half Year Ended": "2,818",
-            "col_8": "2,190",
-            "col_9": "29%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Quarter Ended": "912",
-            "col_3": "611",
-            "col_4": "49%",
-            "col_5": "814",
-            "col_6": "12%",
-            "Half Year Ended": "1,726",
-            "col_8": "1,171",
-            "col_9": "47%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Marketing Services",
-            "Quarter Ended": "287",
-            "col_3": "228",
-            "col_4": "26%",
-            "col_5": "239",
-            "col_6": "20%",
-            "Half Year Ended": "526",
-            "col_8": "474",
-            "col_9": "11%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Quarter Ended": "15",
-            "col_3": "77",
-            "col_4": "(81)%",
-            "col_5": "11",
-            "col_6": "36%",
-            "Half Year Ended": "26",
-            "col_8": "143",
-            "col_9": "(82)%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Revenue from Operations",
-            "Quarter Ended": "2,648",
-            "col_3": "2,061",
-            "col_4": "28%",
-            "col_5": "2,448",
-            "col_6": "8%",
-            "Half Year Ended": "5,096",
-            "col_8": "3,979",
-            "col_9": "28%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Quarter Ended": "805",
-            "col_3": "629",
-            "col_4": "28%",
-            "col_5": "794",
-            "col_6": "1%",
-            "Half Year Ended": "1,599",
-            "col_8": "1,210",
-            "col_9": "32%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "As % of GMV",
-            "Quarter Ended": "0.11%",
-            "col_3": "0.11%",
-            "col_4": "0.0 bps",
-            "col_5": "0.11%",
-            "col_6": "0.0 bps",
-            "Half Year Ended": "0.11%",
-            "col_8": "0.11%",
-            "col_9": "0.0 bps"
-          },
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Quarter Ended": "95",
-            "col_3": "50",
-            "col_4": "90%",
-            "col_5": "90",
-            "col_6": "6%",
-            "Half Year Ended": "185",
-            "col_8": "87",
-            "col_9": "113%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Other direct expenses",
-            "Quarter Ended": "269",
-            "col_3": "176",
-            "col_4": "53%",
-            "col_5": "214",
-            "col_6": "26%",
-            "Half Year Ended": "483",
-            "col_8": "325",
-            "col_9": "49%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Total Direct Expenses",
-            "Quarter Ended": "1,169",
-            "col_3": "855",
-            "col_4": "37%",
-            "col_5": "1,098",
-            "col_6": "6%",
-            "Half Year Ended": "2,267",
-            "col_8": "1,623",
-            "col_9": "40%"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 1,
-        "row_count": 10,
-        "rows": [
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Quarter Ended": "Sep-26 (Unaudited)",
-            "col_3": "Sep-25 (Unaudited)",
-            "col_4": "YoY",
-            "col_5": "Jun-26 (Unaudited)",
-            "col_6": "QoQ",
-            "Half Year Ended": "Sep-26 (Unaudited)",
-            "col_8": "Sep-25 (Unaudited)",
-            "col_9": "YoY"
-          },
-          {
-            "Particulars (in ₹ Cr)": "EBITDA (A)",
-            "Quarter Ended": "270",
-            "col_3": "142",
-            "col_4": "90%",
-            "col_5": "203",
-            "col_6": "33%",
-            "Half Year Ended": "473",
-            "col_8": "214",
-            "col_9": "121%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Finance costs (B)",
-            "Quarter Ended": "(7)",
-            "col_3": "(5)",
-            "col_4": "40%",
-            "col_5": "(7)",
-            "col_6": "0%",
-            "Half Year Ended": "(14)",
-            "col_8": "(9)",
-            "col_9": "56%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Depreciation and amortization expense (C)",
-            "Quarter Ended": "(146)",
-            "col_3": "(137)",
-            "col_4": "7%",
-            "col_5": "(131)",
-            "col_6": "11%",
-            "Half Year Ended": "(277)",
-            "col_8": "(303)",
-            "col_9": "(9)%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Other income (D)",
-            "Quarter Ended": "182",
-            "col_3": "222",
-            "col_4": "(18)%",
-            "col_5": "182",
-            "col_6": "0%",
-            "Half Year Ended": "364",
-            "col_8": "463",
-            "col_9": "(21)%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Share of profit/(loss) of associates/joint ventures (E)",
-            "Quarter Ended": "(3)",
-            "col_3": "(1)",
-            "col_4": "200%",
-            "col_5": "0",
-            "col_6": "nm",
-            "Half Year Ended": "(3)",
-            "col_8": "(1)",
-            "col_9": "200%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Income Tax expense (F)",
-            "Quarter Ended": "(67)",
-            "col_3": "(10)",
-            "col_4": "570%",
-            "col_5": "(27)",
-            "col_6": "148%",
-            "Half Year Ended": "(94)",
-            "col_8": "(14)",
-            "col_9": "571%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Profit / (Loss) for the period/year before Exceptional Items (G = sum of A to F)",
-            "Quarter Ended": "229",
-            "col_3": "211",
-            "col_4": "9%",
-            "col_5": "220",
-            "col_6": "4%",
-            "Half Year Ended": "449",
-            "col_8": "350",
-            "col_9": "28%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Exceptional items (H)",
-            "Quarter Ended": "(4)",
-            "col_3": "(190)",
-            "col_4": "nm",
-            "col_5": "-",
-            "col_6": "nm",
-            "Half Year Ended": "(4)",
-            "col_8": "(207)",
-            "col_9": "(98)%"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Profit / (Loss) for the period/year (I = sum of G and H)",
-            "Quarter Ended": "225",
-            "col_3": "21",
-            "col_4": "971%",
-            "col_5": "220",
-            "col_6": "2%",
-            "Half Year Ended": "445",
-            "col_8": "144",
-            "col_9": "209%"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 2,
-        "row_count": 10,
-        "rows": [
-          {
-            "Operational KPIs": "",
-            "Units": "",
-            "Quarter Ended": "Sep-26 (Unaudited)",
-            "col_4": "Sep-25 (Unaudited)",
-            "col_5": "YoY",
-            "col_6": "Jun-26 (Unaudited)",
-            "col_7": "QoQ"
-          },
-          {
-            "Operational KPIs": "",
-            "Units": "",
-            "Quarter Ended": "5.2",
-            "col_4": "4.7",
-            "col_5": "10%",
-            "col_6": "5.0",
-            "col_7": "2%"
-          },
-          {
-            "Operational KPIs": "Subscription Merchants including devices (cumulative; end of period)",
-            "Units": "Cr",
-            "Quarter Ended": "1.64",
-            "col_4": "1.37",
-            "col_5": "19%",
-            "col_6": "1.57",
-            "col_7": "5%"
-          },
-          {
-            "Operational KPIs": "",
-            "Units": "",
-            "Quarter Ended": "7.1",
-            "col_4": "5.7",
-            "col_5": "26%",
-            "col_6": "7.1",
-            "col_7": "1%"
-          },
-          {
-            "Operational KPIs": "Merchant Transactions",
-            "Units": "Cr",
-            "Quarter Ended": "1,785",
-            "col_4": "1,453",
-            "col_5": "23%",
-            "col_6": "1,669",
-            "col_7": "7%"
-          },
-          {
-            "Operational KPIs": "",
-            "Units": "",
-            "Quarter Ended": "2,156",
-            "col_4": "1,658",
-            "col_5": "30%",
-            "col_6": "1,989",
-            "col_7": "8%"
-          },
-          {
-            "Operational KPIs": "Average Number of Sales Employees",
-            "Units": "#",
-            "Quarter Ended": "51,832",
-            "col_4": "44,154",
-            "col_5": "17%",
-            "col_6": "43,715",
-            "col_7": "19%"
-          },
-          {
-            "Operational KPIs": "Sales and service employee costs",
-            "Units": "₹ Cr",
-            "Quarter Ended": "370",
-            "col_4": "297",
-            "col_5": "25%",
-            "col_6": "339",
-            "col_7": "9%"
-          },
-          {
-            "Operational KPIs": "MTU (average over the period)",
-            "Units": "Cr",
-            "Quarter Ended": "8.5",
-            "col_4": "7.5",
-            "col_5": "13%",
-            "col_6": "8.0",
-            "col_7": "6%"
-          },
-          {
-            "Operational KPIs": "Key financial services customers",
-            "Units": "Lakh",
-            "Quarter Ended": "8.8",
-            "col_4": "6.5",
-            "col_5": "35%",
-            "col_6": "7.6",
-            "col_7": "17%"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 3,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars (in ₹ Cr)": "Cash and Bank Balances",
-            "Sep-25": "4,861",
-            "Dec-25": "5,468",
-            "Mar-26": "7,252",
-            "Jun-26": "7,581",
-            "Sep-26": "7,116"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Deposits with banks",
-            "Sep-25": "6,267",
-            "Dec-25": "6,115",
-            "Mar-26": "5,788",
-            "Jun-26": "5,688",
-            "Sep-26": "5,608"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Investments (Mutual Funds/T-Bills/CP/ G-Sec/NCD/NBFC FDs)",
-            "Sep-25": "5,545",
-            "Dec-25": "4,747",
-            "Mar-26": "4,417",
-            "Jun-26": "5,067",
-            "Sep-26": "5,178"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Total Balances (A)",
-            "Sep-25": "16,674",
-            "Dec-25": "16,329",
-            "Mar-26": "17,457",
-            "Jun-26": "18,336",
-            "Sep-26": "17,902"
-          },
-          {
-            "Particulars (in ₹ Cr)": "",
-            "Sep-25": "351",
-            "Dec-25": "415",
-            "Mar-26": "383",
-            "Jun-26": "389",
-            "Sep-26": "295"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Balances in Escrow / Nodal Accounts (C)",
-            "Sep-25": "3,254",
-            "Dec-25": "3,732",
-            "Mar-26": "4,459",
-            "Jun-26": "5,119",
-            "Sep-26": "4,690"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Total Balances (excluding PML and Escrow) (A-B-C)",
-            "Sep-25": "13,068",
-            "Dec-25": "12,182",
-            "Mar-26": "12,615",
-            "Jun-26": "12,829",
-            "Sep-26": "12,917"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Prefunded balance in escrow account from PPSL post transfer of offline business (D)",
-            "Sep-25": "Negligible",
-            "Dec-25": "700",
-            "Mar-26": "700",
-            "Jun-26": "700",
-            "Sep-26": "700"
-          },
-          {
-            "Particulars (in ₹ Cr)": "Total Balance (A - B - C + D)",
-            "Sep-25": "13,068",
-            "Dec-25": "12,882",
-            "Mar-26": "13,315",
-            "Jun-26": "13,529",
-            "Sep-26": "13,617"
-          }
-        ]
-      }
-    ]
   }
 ]
