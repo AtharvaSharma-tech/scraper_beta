@@ -1,5 +1,382 @@
 [
   {
+    "NEWSID": "9f93f733-1aec-46ce-b701-217c92d050c7",
+    "SCRIP_CD": 544853,
+    "XML_NAME": "ANN_544853_9F93F733-1AEC-46CE-B701-217C92D050C7",
+    "NEWSSUB": "Juniper Green Energy Ltd - 544853 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
+    "DT_TM": "2026-10-31T01:40:20.77",
+    "NEWS_DT": "2026-10-31T01:40:20.77",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2e7477c6-3336-450a-882a-88413ff5024e.pdf",
+    "MORE": "",
+    "HEADLINE": "Monitoring Agency Report for the quarter ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/juniper-green-energy-ltd/jnpr/544853/",
+    "SLONGNAME": "Juniper Green Energy Ltd",
+    "AGENDA_ID": 135,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-10-31T01:40:20",
+    "DissemDT": "2026-10-31T01:40:20.77",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 719118,
+    "SUBCATNAME": "Monitoring Agency Report",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **IPO proceeds and monitoring scope:** The Initial Public Offer (IPO) of Juniper Green Energy Ltd raised **₹1,800 crore**, and CARE Ratings Limited submitted its Monitoring Agency Report for the **quarter ended 30 September 2026** to verify the utilization of these proceeds.  \n\n- **Key filing dates:** The report was reviewed by the Company’s Audit Committee and Board of Directors on **30 October 2026** and filed with the NSE and BSE on **31 October 2026** as per SEBI Regulation 32/41 requirements.",
+    "key_metrics": {
+      "total_debt": "683.24",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Original cost (as per the Offer Document) in Rs. Crore": "",
+            "Revised Cost in Rs. Crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_7": "Reason for cost revision",
+            "Comments of the Board of Directors": "",
+            "col_9": "Proposed financing option",
+            "col_10": "",
+            "col_11": "Particulars of -",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Original cost (as per the Offer Document) in Rs. Crore": "",
+            "Revised Cost in Rs. Crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_7": "",
+            "Comments of the Board of Directors": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "firm",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Original cost (as per the Offer Document) in Rs. Crore": "",
+            "Revised Cost in Rs. Crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_7": "",
+            "Comments of the Board of Directors": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "arrangements",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Original cost (as per the Offer Document) in Rs. Crore": "",
+            "Revised Cost in Rs. Crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_7": "",
+            "Comments of the Board of Directors": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "made",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "1",
+            "Item Head": "Repayment/pre-payment, in full or part of certain borrowings availed by our Company",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "1. Offer document 2. Management Certificate",
+            "Original cost (as per the Offer Document) in Rs. Crore": "683.24",
+            "Revised Cost in Rs. Crore": "Not applicable",
+            "Comments of the Monitoring Agency": "Not applicable",
+            "col_7": "No comment",
+            "Comments of the Board of Directors": "",
+            "col_9": "No comment",
+            "col_10": "No comment",
+            "col_11": "",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "2",
+            "Item Head": "Investment in one of our Material Subsidiaries namely Juniper Green Gamma One Private Limited, and our Subsidiaries namely Juniper Green Kite Private Limited and Juniper Green Power Five Private Limited for repayment/ pre-payment, in full or in part, of all or a portion of certain of their outstanding borrowings.",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "1. Offer document 2. Management Certificate",
+            "Original cost (as per the Offer Document) in Rs. Crore": "728.69",
+            "Revised Cost in Rs. Crore": "Not applicable",
+            "Comments of the Monitoring Agency": "Not applicable",
+            "col_7": "No comment",
+            "Comments of the Board of Directors": "",
+            "col_9": "No comment",
+            "col_10": "No comment",
+            "col_11": "",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "3",
+            "Item Head": "General Corporate purposes",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "1. Offer document 2. Management certificate",
+            "Original cost (as per the Offer Document) in Rs. Crore": "295.51",
+            "Revised Cost in Rs. Crore": "Not applicable",
+            "Comments of the Monitoring Agency": "Not applicable",
+            "col_7": "No comment",
+            "Comments of the Board of Directors": "",
+            "col_9": "No comment",
+            "col_10": "No comment",
+            "col_11": "",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "4",
+            "Item Head": "Offer expenses incurred",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "1. Offer document 2. Management certificate",
+            "Original cost (as per the Offer Document) in Rs. Crore": "92.56",
+            "Revised Cost in Rs. Crore": "Not applicable",
+            "Comments of the Monitoring Agency": "Not applicable",
+            "col_7": "No comment",
+            "Comments of the Board of Directors": "",
+            "col_9": "No comment",
+            "col_10": "No comment",
+            "col_11": "",
+            "col_12": ""
+          },
+          {
+            "Sr. No": "Total",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Original cost (as per the Offer Document) in Rs. Crore": "1,800.00",
+            "Revised Cost in Rs. Crore": "-",
+            "Comments of the Monitoring Agency": "",
+            "col_7": "",
+            "Comments of the Board of Directors": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": ""
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Amount as proposed in the Offer Document in Rs. Crore": "",
+            "Amount utilised in Rs. Crore": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "Total unutilised amount in Rs. crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_12": "",
+            "Comments of the": "Board of Directors",
+            "col_14": "",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Amount as proposed in the Offer Document in Rs. Crore": "",
+            "Amount utilised in Rs. Crore": "",
+            "col_6": "As at",
+            "col_7": "",
+            "col_8": "During the quarter in Rs. Crore",
+            "col_9": "At the end of the quarter in Rs. Crore",
+            "Total unutilised amount in Rs. crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_12": "Reasons for idle funds",
+            "Comments of the": "",
+            "col_14": "Proposed course of action",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Amount as proposed in the Offer Document in Rs. Crore": "",
+            "Amount utilised in Rs. Crore": "",
+            "col_6": "beginning",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "Total unutilised amount in Rs. crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_12": "",
+            "Comments of the": "",
+            "col_14": "",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Amount as proposed in the Offer Document in Rs. Crore": "",
+            "Amount utilised in Rs. Crore": "",
+            "col_6": "of the",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "Total unutilised amount in Rs. crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_12": "",
+            "Comments of the": "",
+            "col_14": "",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Amount as proposed in the Offer Document in Rs. Crore": "",
+            "Amount utilised in Rs. Crore": "",
+            "col_6": "quarter in",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "Total unutilised amount in Rs. crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_12": "",
+            "Comments of the": "",
+            "col_14": "",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "",
+            "Item Head": "",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "",
+            "Amount as proposed in the Offer Document in Rs. Crore": "",
+            "Amount utilised in Rs. Crore": "",
+            "col_6": "Rs. Crore",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "Total unutilised amount in Rs. crore": "",
+            "Comments of the Monitoring Agency": "",
+            "col_12": "",
+            "Comments of the": "",
+            "col_14": "",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "1",
+            "Item Head": "Repayment/pre-payment, in full or part of certain borrowings availed by our Company",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "1. CA certificate 2. Bank Statements 3. Management certificate",
+            "Amount as proposed in the Offer Document in Rs. Crore": "683.24",
+            "Amount utilised in Rs. Crore": "0.00",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "601.50",
+            "col_9": "601.50",
+            "Total unutilised amount in Rs. crore": "81.74",
+            "Comments of the Monitoring Agency": "During the quarter, company repaid Non-Convertible Debentures of Rs. 600.00 crores and term debt of Rs. 1.50 crores, in line with the object.",
+            "col_12": "No comment",
+            "Comments of the": "",
+            "col_14": "No comment",
+            "col_15": ""
+          },
+          {
+            "Sr. No": "2",
+            "Item Head": "Investment in one of our Material Subsidiaries namely Juniper Green Gamma One Private Limited, and our Subsidiaries namely Juniper Green Kite Private Limited and Juniper Green Power Five Private Limited for repayment/ pre- payment, in full or in part, of all or a portion of certain of their outstanding borrowings",
+            "Source of information / certifications considered by Monitoring Agency for preparation of report": "1. CA certificate 2. Bank Statements 3. Management certificate",
+            "Amount as proposed in the Offer Document in Rs. Crore": "728.69",
+            "Amount utilised in Rs. Crore": "0.00",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "444.20",
+            "col_9": "444.20",
+            "Total unutilised amount in Rs. crore": "284.49",
+            "Comments of the Monitoring Agency": "During the quarter company has invested Rs. 441.5 crore in Juniper Green Kite Private Limited and Rs. 2.70 crores in Juniper Green Gamma One Private Limited, which have been subsequently utilized towards repayment of term loan for the entities in line with the object.",
+            "col_12": "No comment",
+            "Comments of the": "",
+            "col_14": "No comment",
+            "col_15": ""
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Sr. No.": "4.",
+            "Type of instrument and name of the entity invested in": "FD – IndusInd Bank",
+            "Amount invested": "0.74",
+            "Maturity date": "07-Sep-27",
+            "Earning": "-",
+            "Return on Investment (%)": "6.75%",
+            "Market Value at the end of quarter": "0.74"
+          },
+          {
+            "Sr. No.": "5",
+            "Type of instrument and name of the entity invested in": "Balance in public offer account",
+            "Amount invested": "70.26",
+            "Maturity date": "-",
+            "Earning": "-",
+            "Return on Investment (%)": "-",
+            "Market Value at the end of quarter": "70.26"
+          },
+          {
+            "Sr. No.": "6",
+            "Type of instrument and name of the entity invested in": "Balance in monitoring account",
+            "Amount invested": "0.03",
+            "Maturity date": "-",
+            "Earning": "-",
+            "Return on Investment (%)": "-",
+            "Market Value at the end of quarter": "0.03"
+          },
+          {
+            "Sr. No.": "",
+            "Type of instrument and name of the entity invested in": "Sub-total",
+            "Amount invested": "520.45",
+            "Maturity date": "",
+            "Earning": "",
+            "Return on Investment (%)": "",
+            "Market Value at the end of quarter": "520.45"
+          },
+          {
+            "Sr. No.": "",
+            "Type of instrument and name of the entity invested in": "Less: Interest income earned during the quarter (net of TDS paid)*",
+            "Amount invested": "(2.22)",
+            "Maturity date": "",
+            "Earning": "",
+            "Return on Investment (%)": "",
+            "Market Value at the end of quarter": ""
+          },
+          {
+            "Sr. No.": "",
+            "Type of instrument and name of the entity invested in": "Total",
+            "Amount invested": "518.23",
+            "Maturity date": "",
+            "Earning": "",
+            "Return on Investment (%)": "",
+            "Market Value at the end of quarter": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "e9fe076a-4a76-4019-a8e1-b8b7c972859e",
     "SCRIP_CD": 544853,
     "XML_NAME": "ANN_544853_E9FE076A-4A76-4019-A8E1-B8B7C972859E",
@@ -20522,636 +20899,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "3d6dbffe-92ce-416c-bd73-262a5270438b",
-    "SCRIP_CD": 505714,
-    "XML_NAME": "ANN_505714_3D6DBFFE-92CE-416C-BD73-262A5270438B",
-    "NEWSSUB": "Gabriel India Ltd-$ - 505714 - Board Meeting Outcome for Outcome Of Board Meeting For Declaration Of Interim Dividend 2026-27 And  Un-Audited Financial Results For Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-10-30T20:42:05.57",
-    "NEWS_DT": "2026-10-30T20:42:05.57",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "39cb37ba-ddbd-44a1-9912-c69f87181020.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting for Declaration of Interim Dividend 2026-27 and Un-audited Financial Results for quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gabriel-india-ltd/gabriel/505714/",
-    "SLONGNAME": "Gabriel India Ltd-$",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 34,
-    "News_submission_dt": "2026-10-30T20:42:03",
-    "DissemDT": "2026-10-30T20:42:05.57",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 6174589,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "13991.79",
-      "total_assets": "0",
-      "total_equity": "5",
-      "total_debt": "1",
-      "dividend": "549.70",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 2,
-        "row_count": 29,
-        "rows": [
-          {
-            "(Amount in Rs. Million)": "S.No.",
-            "col_2": "Particulars",
-            "col_3": "Quarter ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half Year Ended",
-            "col_7": "",
-            "col_8": "Year ended"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "30.09.2026",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "col_6": "30.09.2026",
-            "col_7": "30.09.2025",
-            "col_8": "31.03.2026"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "(Unaudited)",
-            "col_4": "(Unaudited)",
-            "col_5": "(Unaudited) (Refer note 1 below)",
-            "col_6": "(Unaudited)",
-            "col_7": "(Unaudited) (Refer note 1 below)",
-            "col_8": "(Audited) (Refer note 1 below)"
-          },
-          {
-            "(Amount in Rs. Million)": "I II III IV V VI VII VIII IX X XI XII",
-            "col_2": "Income Revenue from operations Other income Total Income (I+II) Expenses Cost of materials consumed Purchases of stock-in-trade Changes in inventories of finished goods, work-in-progress and stock-in-trade Employee benefits expense Depreciation and amortisation expense Other expenses Finance costs Total expenses Profit before tax and exceptional item (III-IV) Exceptional item (Refer note 5 below) Profit before tax (V - VI) Current tax Tax expense charge / (credit) relating to prior years Deferred tax Total tax expense Net Profit after tax (VII - VIII) Other comprehensive income Items that will not be reclassified to profit or loss Remeasurement of post-employment benefit obligations Income tax relating to above Items that may be reclassified to profit or loss Other comprehensive income for the period/year, net of tax Total comprehensive income for the period/year net of tax (IX + X) Paid up Equity share capital (Face value Rs. 1/-each) Reserves and surplus Earnings per Equity share (nominal value of Rs. 1/- each, not annualized) (refer note 1 below) Basic and Diluted (Rs.)",
-            "col_3": "13,991.79 84.31",
-            "col_4": "12,742.47 1 86.79",
-            "col_5": "11,402.74 97.15",
-            "col_6": "26,734.26 271.09",
-            "col_7": "2 2,119.55 1 68.30",
-            "col_8": "4 5,773.41 5 18.16"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "1 4,076.10",
-            "col_4": "1 2,929.26",
-            "col_5": "1 1,499.89",
-            "col_6": "2 7,005.35",
-            "col_7": "2 2,287.85",
-            "col_8": "4 6,291.57"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "10,582.06 1 11.16 (60.07) 7 77.37 2 37.00 1 ,432.18 1 10.59",
-            "col_4": "9,487.25 1 15.30 (5.08) 748.30 231.41 1,324.70 29.14",
-            "col_5": "8,413.13 90.31 ( 32.84) 7 53.26 2 24.61 1,176.03 50.72",
-            "col_6": "20,069.31 226.46 ( 65.17) 1 ,525.68 468.41 2 ,756.88 139.73",
-            "col_7": "1 6,247.78 1 59.79 ( 23.23) 1 ,451.40 4 49.89 2 ,313.88 8 1.47",
-            "col_8": "3 3,643.00 3 73.60 8 8.21 2 ,819.20 9 05.07 4 ,758.74 1 51.96"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "1 3,190.29",
-            "col_4": "1 1,931.02",
-            "col_5": "1 0,675.22",
-            "col_6": "2 5,121.30",
-            "col_7": "2 0,680.98",
-            "col_8": "4 2,739.78"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "8 85.81",
-            "col_4": "9 98.24",
-            "col_5": "8 24.67",
-            "col_6": "1,884.05",
-            "col_7": "1,606.87",
-            "col_8": "3,551.79"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "133.46"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "885.81",
-            "col_4": "998.24",
-            "col_5": "824.67",
-            "col_6": "1,884.05",
-            "col_7": "1,606.87",
-            "col_8": "3,418.33"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "229.48 - (27.52)",
-            "col_4": "226.69 - 11.87",
-            "col_5": "2 10.12 0 .70 1 .29",
-            "col_6": "4 56.17 - ( 15.65)",
-            "col_7": "4 15.59 ( 22.36) 4 .93",
-            "col_8": "7 72.71 5.98 5 4.42"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "2 01.96",
-            "col_4": "2 38.56",
-            "col_5": "2 12.11",
-            "col_6": "4 40.52",
-            "col_7": "3 98.16",
-            "col_8": "8 33.11"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "6 83.85",
-            "col_4": "7 59.68",
-            "col_5": "6 12.56",
-            "col_6": "1,443.53",
-            "col_7": "1,208.71",
-            "col_8": "2,585.22"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "(5.00) 1.26 -",
-            "col_4": "(5.00) 1 .26 -",
-            "col_5": "(4.00) 1.52 -",
-            "col_6": "(10.00) 2.52 -",
-            "col_7": "( 8.41) 2 .10 -",
-            "col_8": "( 21.91) 5.51 -"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "( 3.74)",
-            "col_4": "( 3.74)",
-            "col_5": "( 2.48)",
-            "col_6": "( 7.48)",
-            "col_7": "( 6.31)",
-            "col_8": "( 16.40)"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "6 80.11",
-            "col_4": "7 55.94",
-            "col_5": "6 10.08",
-            "col_6": "1,436.05",
-            "col_7": "1,202.40",
-            "col_8": "2,568.82"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "",
-            "col_3": "1 91.63 3.79",
-            "col_4": "1 77.23 4.29",
-            "col_5": "1 43.64 3.46",
-            "col_6": "1 91.63 8.07",
-            "col_7": "1 43.64 6.82",
-            "col_8": "1 43.64 1 4,343.42 1 4.59"
-          },
-          {
-            "(Amount in Rs. Million)": "Notes:",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "1",
-            "col_2": "TheBoardofDirectors,atitsmeetingheldonJune30,2025,approvedaCompositeSchemeofArrangement(the\"Scheme\")involvingthemergerofAnchemcoIndiaPrivateLimited(afellowsubsidiary)withAsiaInvestmentsPrivate Limited(theImmediateHoldingCompany)onagoingconcernbasiswitheffectfromtheAppointedDateofApril1,2025,andthesubsequentdemergerandtransferoftheAutomotiveUndertaking(asdefinedintheScheme)ofAsia Investments Private Limited to the Company with effect from the Appointed Date of April 1, 2026. TheSchemewasapprovedbytheNationalCompanyLawTribunal(NCLT)videitsorderdatedMay11,2026.Accordingly,duringthehalfyearendedSeptember30,2026,theCompanyhasgiveneffecttotheSchemeusingthe poolingofinterestmethod,appliedretrospectivelyforallperiodsandyearendedMarch31,2026,presentedinthestandalonefinancialresults,asprescribedunderIndAS103–\"BusinessCombinations\",andthefiguresforthe previousperiodshavebeenrestatedaccordingly.TherestatedresultsforthequarterendedSeptember30,2025,halfyearendedSeptember30,2025andthequarterendedMarch31,2026,have,totheextentoftheAutomotive Undertakingincludedtherein,neitherbeensubjectedtolimitedreviewandsuchfigureshavebeenfurnishedbythemanagementoftheCompany,whichhasexercisednecessaryduediligencetoensurethatthesefinancialresults present a true and fair view of the Company's affairs.",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "Impact of restatement on earning per share (EPS) for comparative period/year:",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "Particulars",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Quarter ended",
-            "col_7": "Half year ended",
-            "col_8": "Year ended"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "Earnings per share",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "30.09.2025",
-            "col_7": "30.09.2025",
-            "col_8": "31.03.2026"
-          },
-          {
-            "(Amount in Rs. Million)": "",
-            "col_2": "- Before accounting for Scheme - After accounting for Scheme",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "4.22 3.46",
-            "col_7": "8.10 6.82",
-            "col_8": "14.75 14.59"
-          },
-          {
-            "(Amount in Rs. Million)": "2",
-            "col_2": "ThesestandalonefinancialresultshavebeenpreparedinaccordancewiththeIndianAccountingStandard(IndAS)asprescribedunderSection133oftheCompaniesAct,2013,readwithRule3oftheCompanies(IndianAccounting Standards) Rule, 2015 and relevant amendment thereunder.",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "3",
-            "col_2": "The above standalone results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on October 30, 2026.",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "4",
-            "col_2": "As the Company's business activity falls within a single operating segment viz. \"auto components and parts\", no segment information is required to be disclosed.",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "5",
-            "col_2": "Exceptional item relates to the obligations for the employees past service created pursuant to the implementation of the four labour codes with effect from November 21, 2025.",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "6",
-            "col_2": "OnJuly21,2026,theBoardofDirectorsoftheCompanyapprovedacquisitionof28.99%equitystakeonHLMandoAnandIndiaPrivateLimitedequivalentto48,134,427equitysharesfromAsiaInvestmentsPrivateLimited (PromoterandholdingcompanyoftheCompany),foracompositeconsiderationofRs.22,310millionswhichwasapprovedbytheshareholderonAugust19,2026.TheConsiderationwasdischargedbyissueof1,44,04,204equity sharesataggregatingtoRs.18,810milliontothePromoteronpreferentialbasisandbalanceRs.3,500millionswaspaidincash.ThepreferentialallotmentofsecuritieswasdoneonSeptember11,2026whichwasconsideredasthe date of acquisition by the management. The Company has accounted the acquisition at fair value in accordance with IND AS 28 \"Investments in Associates and Joint Ventures\".",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "(Amount in Rs. Million)": "7",
-            "col_2": "OnJuly21,2026,theBoardofDirectorsoftheCompanyhadaccordeditsapprovalforexecutionofSharePurchaseAgreementandJointVentureAgreements('Agreements')withHLKlemoveCorporationandHLKlemoveIndia PrivateLimited('the\"TargetCompany'),purchasing37,844,999equitysharesoftheTargetCompanyataconsiderationofUSD98.44million.TheCompanyhasacquiredthesharesonAugust25,2026andhasbeenconsideredas date of acquisition. The Company has accounted the acquisition at fair value in accordance with IND AS 28 \"Investments in Associates and Joint Ventures\".",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 2,
-        "row_count": 21,
-        "rows": [
-          {
-            "8": "9",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "TheBoardofDirectorsintheirmeetingheldonOctober30,2026declaredaninterimdividendofRs.2.15persharefortheperiodendedSeptember30,2026.TherecorddateforthesameisNovember06,2026,inaccordancewith theIndAS10‘Eventafterreportingdate’asnotifiedbytheMinistryofCorporateAffairsthroughamendmenttoCompanies(AccountingStandards)AmendmentRules,2016datedMarch30,2016,theCompanyhasnotaccounted for interim dividend as a liability as at September 30, 2026.",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "8": "10",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Duringthequarter,theCompanyraisedfundsthroughtheissuanceofunsecured,listed,non-convertibledebentures(NCDs)onaprivateplacementbasis,aggregatinguptoRs.10,000million.TheNCDshaveafacevalueof₹1,00,000 each and carry a fixed coupon rate of 8.15% per annum. Details are as below-",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Particulars",
-            "col_3": "Previous Due Date",
-            "col_4": "",
-            "col_5": "Next due date",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "",
-            "col_3": "Principal",
-            "col_4": "Interest",
-            "col_5": "Next principal installment date",
-            "col_6": "Principal amount (Rs. In MINR)",
-            "col_7": "Interest date",
-            "col_8": "Interest amount (Rs. In MINR)"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "8.15% unsecured, listed, non-convertible debentures (NCDs)",
-            "col_3": "NA",
-            "col_4": "NA",
-            "col_5": "10-Sep-29",
-            "col_6": "10,000.00",
-            "col_7": "10-Sep-27",
-            "col_8": "815.00"
-          },
-          {
-            "8": "11",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "The disclosure required as per the provisions of Regulation 52(4) and 54(2) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 is given below:",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Ratios",
-            "col_3": "Quarter ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half Year Ended",
-            "col_7": "",
-            "col_8": "Year ended"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "",
-            "col_3": "30.09.2026",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "col_6": "30.09.2026",
-            "col_7": "30.09.2025",
-            "col_8": "31.03.2026"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Debt equity ratio [{Totalborrowings(includingleaseliabilities)(-)cashandcashequivalents(includingunencumberedother bank balances) and current investments} / total equity]",
-            "col_3": "0 .27",
-            "col_4": "(0.07)",
-            "col_5": "(0.53)",
-            "col_6": "0.27",
-            "col_7": "(0.53)",
-            "col_8": "(0.10)"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Debt Service coverage ratio (notannualised)[[Profitbeforeinterest,depreciation,amortisationandaftertaxandexceptionalitems/ (finance cost + principal long term loan repayment]",
-            "col_3": "1 .35",
-            "col_4": "12.42",
-            "col_5": "24.15",
-            "col_6": "2.42",
-            "col_7": "2.55",
-            "col_8": "5.84"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Interest service coverage ratio (notannualised)(Profitbeforeinterest,depreciation,amortisationandaftertaxandexceptionalitems/ finance cost)",
-            "col_3": "1 1.15",
-            "col_4": "43.20",
-            "col_5": "29.92",
-            "col_6": "13.48",
-            "col_7": "26.25",
-            "col_8": "7.24"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Current ratio [current assets / current liabilities]",
-            "col_3": "1 .78",
-            "col_4": "1.89",
-            "col_5": "1.73",
-            "col_6": "1.78",
-            "col_7": "1.73",
-            "col_8": "1.76"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Long term debt to working capital [Long term debt (Borrowings) / working capital]",
-            "col_3": "1 .65",
-            "col_4": "0.10",
-            "col_5": "0.07",
-            "col_6": "1.65",
-            "col_7": "0.07",
-            "col_8": "0.08"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Bad debt to accounts receivable ratio [(Bad debts + provision for doubtful debts) / trade receivables]",
-            "col_3": "0 .00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "col_6": "0.00",
-            "col_7": "0.00",
-            "col_8": "0.00"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Current liability ratio [Current liabilities / total liabilities]",
-            "col_3": "0 .38",
-            "col_4": "0.84",
-            "col_5": "0.96",
-            "col_6": "0.38",
-            "col_7": "0.96",
-            "col_8": "0.86"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Total debt to total assets [Total debts (including lease liabilities)/ total assets]",
-            "col_3": "0 .20",
-            "col_4": "0.04",
-            "col_5": "0.04",
-            "col_6": "0.20",
-            "col_7": "0.04",
-            "col_8": "0.06"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Trade receivables turnover ratio [Annualised revenue from operations / closing current trade receivables]",
-            "col_3": "6 .42",
-            "col_4": "6.48",
-            "col_5": "6.68",
-            "col_6": "6.14",
-            "col_7": "6.49",
-            "col_8": "6.61"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Inventory turnover ratio [Annualised cost of goods sold / closing inventory]",
-            "col_3": "1 1.71",
-            "col_4": "10.63",
-            "col_5": "10.22",
-            "col_6": "11.14",
-            "col_7": "9.89",
-            "col_8": "10.32"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Operating margin (%) [Profit before interest and tax and after exceptional items / revenue from operations]",
-            "col_3": "7.12%",
-            "col_4": "8.06%",
-            "col_5": "7.68%",
-            "col_6": "7.57%",
-            "col_7": "7.62%",
-            "col_8": "7.80%"
-          },
-          {
-            "8": "",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "Net Profit Margin (%) [Net profit after tax and exceptional items / revenue from operations]",
-            "col_3": "4.89%",
-            "col_4": "5.96%",
-            "col_5": "5.49%",
-            "col_6": "5.40%",
-            "col_7": "5.46%",
-            "col_8": "5.65%"
-          },
-          {
-            "8": "Place: Osaka Date: October 30, 2026",
-            "TheBoardofDirectorsoftheCompany,atitsmeetingheldonOctober06,2026,approvedenteringintoaJointVentureAgreementbetweenFaureciaAutomotiveSeatingIndiaPrivateLimited(“FASI”)andtheCompanyforthe formationofajointventurecompany(“JVCo.”)withaninitialinvestmentofRs.200.00million.TheJVCo.wasincorporatedonOctober19,2026underthenameFaureciaAnandSeatingIndiaPrivateLimited.FASIandtheCompany will hold 50% plus one equity share and 50% less one equity share, respectively.": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Particulars",
-            "col_3": "For the half year ended September 30, 2026",
-            "col_4": "For the half year ended September 30, 2025"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "C.",
-            "col_2": "Cash flow from financing activities Proceeds from borrowings Repayment of borrowings Proceeds/ (repayment) of short-term borrowings (net) Proceeds from issue of equity shares to non-controlling interests Payment of lease liabilities (principal) Interest paid Dividend paid",
-            "col_3": "11,317.34 (515.66) (235.83) 1 3.29 (95.22) (143.19) (549.70)",
-            "col_4": "136.40 - - - (72.89) (115.54) (421.25)"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Net cash outflow from financing activities (C)",
-            "col_3": "9,791.02",
-            "col_4": "(473.28)"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Net Increase/ (Decrease) in Cash & Cash Equivalents (A+B+C)",
-            "col_3": "204.92",
-            "col_4": "292.22"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Cash and cash equivalents as at the beginning of the year",
-            "col_3": "1,122.92",
-            "col_4": "802.79"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Cash and cash equivalents as at the end of the year",
-            "col_3": "1,327.84",
-            "col_4": "1,095.01"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Cash and cash equivalents consists of: In Current Accounts Overdrafts",
-            "col_3": "1,419.52 (91.68)",
-            "col_4": "1,129.41 (34.40)"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Balances as per statement of cash flows",
-            "col_3": "1,327.84",
-            "col_4": "1,095.01"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Non-cash financing and investing activities Acquisition of right-of-use assets Acquisition of Investment in Associates",
-            "col_3": "124.76 7,984.02",
-            "col_4": "- -"
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "",
-            "col_2": "Notes: 1.The above consolidated statement of cash flows has been prepared under indirect method in accordance with the Indian Accounting Standard (Ind AS) 7 on \"Statement of Cash Flows\". 3. Figures in brackets indicate cash outflow.",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "GABRIEL INDIA LIMITED Registered office 29th Milestone, Pune-Nashik Highway, Vill.Kuruli, Tal.Khed Pune 410 501 CIN-L34101PN1961PLC015735 STATEMENT OF CONSOLIDATED CASH FLOWS FOR HALF YEAR ENDED SEPTEMBER 30, 2026 (Amount in Rs Million)": "For and on behalf of the Board Mahendra Digitally signed by Mahendra Kumar Kumar Goyal Date: 2026.10.30 Goyal 20:22:34 +05'30' Mahendra K Goyal Place: Delhi Group CEO and Managing Director Date: October 30, 2026 DIN: 02605616",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      }
-    ]
   }
 ]
