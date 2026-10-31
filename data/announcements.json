@@ -1,5 +1,967 @@
 [
   {
+    "NEWSID": "f31b36c7-4b95-47f1-8c36-2e1ec377a30e",
+    "SCRIP_CD": 544668,
+    "XML_NAME": "ANN_544668_F31B36C7-4B95-47F1-8C36-2E1EC377A30E",
+    "NEWSSUB": "Nanta Tech Ltd - 544668 - Board Meeting Outcome for Outcome Of Meeting Of Board Of Directors Held Today I.E. Saturday, October 31, 2026",
+    "DT_TM": "2026-10-31T15:59:32.987",
+    "NEWS_DT": "2026-10-31T15:59:32.987",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "db7de1d6-f92c-4226-aef5-d5ac8cd3f12d.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Meeting of Board of Directors held today i.e. Saturday, October 31, 2026 is enclosed",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nanta-tech-ltd/nanta/544668/",
+    "SLONGNAME": "Nanta Tech Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:59:29",
+    "DissemDT": "2026-10-31T15:59:32.987",
+    "TimeDiff": "00:00:03",
+    "Fld_Attachsize": 10608761,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board approval:** On Saturday 31 Oct 2026 (meeting 03:00 – 03:30 PM IST), Nanta Tech Ltd’s Board of Directors approved the unaudited standalone and consolidated financial results for the half‑year ended 30 Sept 2026, together with a Limited Review Report.  \n\n- **Disclosure status:** The announcement contains no specific financial figures (revenues, profit, assets, etc.); it only confirms that the unaudited half‑year results have been approved and will be posted on the company’s website.",
+    "key_metrics": {
+      "revenue": "4245.58",
+      "total_assets": "7853.24",
+      "total_equity": "7853.24",
+      "total_debt": "669.57",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "46bf306f-342b-420e-8ff0-36ce45a660db",
+    "SCRIP_CD": 517370,
+    "XML_NAME": "ANN_517370_46BF306F-342B-420E-8FF0-36CE45A660DB",
+    "NEWSSUB": "Incap Ltd - 517370 - Results Sept 2026",
+    "DT_TM": "2026-10-31T15:58:44.797",
+    "NEWS_DT": "2026-10-31T15:58:44.797",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9cff1d56-215f-442d-a0fd-ffea318c556f.pdf",
+    "MORE": "",
+    "HEADLINE": "Unaudifed results sept 2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/incap-ltd/incap/517370/",
+    "SLONGNAME": "Incap Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:58:44",
+    "DissemDT": "2026-10-31T15:58:44.797",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2264364,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "total_equity": "3161.69",
+      "total_debt": "19.27",
+      "dividend": "13.31",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "23d7e3a5-ec4a-4ba8-aeed-6f234b7cccdd",
+    "SCRIP_CD": 543389,
+    "XML_NAME": "ANN_543389_23D7E3A5-EC4A-4BA8-AEED-6F234B7CCCDD",
+    "NEWSSUB": "Sigachi Industries Ltd - 543389 - Unaudited Financial Results For Quarter Ended 30.09.2026",
+    "DT_TM": "2026-10-31T15:58:21.72",
+    "NEWS_DT": "2026-10-31T15:58:21.72",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "618356d1-c2ba-4924-bb12-f97f3f25bf1c.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome-Unaudited Financial Results for quarter ended 30.09.2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sigachi-industries-ltd/sigachi/543389/",
+    "SLONGNAME": "Sigachi Industries Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:58:21",
+    "DissemDT": "2026-10-31T15:58:21.72",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 12630911,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ec57823c-58c4-4b29-a030-a5e34f504b25",
+    "SCRIP_CD": 530005,
+    "XML_NAME": "ANN_530005_EC57823C-58C4-4B29-A030-A5E34F504B25",
+    "NEWSSUB": "India Cements Ltd - 530005 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-10-31T15:56:27.89",
+    "NEWS_DT": "2026-10-31T15:56:27.89",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "16bc823c-38bd-4b81-a447-8e841e7b24ef.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement regarding Notice of Special Window for Transfer and Dematerialisation of Physical Securities",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/india-cements-ltd/indiacem/530005/",
+    "SLONGNAME": "India Cements Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:56:27",
+    "DissemDT": "2026-10-31T15:56:27.89",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2362029,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Special Window Notice:** India Cements Ltd announced, via a newspaper advertisement published on 31 October 2026 in the Business Standard (all editions), the opening of a “Special Window for Transfer and Dematerialisation of Physical Securities” for its shareholders, as mandated by SEBI Circular No. HO/38/13/11 (2) 2026‑MIRSD‑POD/I/3750/2026 dated 30 January 2026.  \n\n- **Financial Details:** The announcement contains no monetary figures, earnings data",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "911a1941-7722-458a-b0cc-cb1951b1f0ee",
+    "SCRIP_CD": 543766,
+    "XML_NAME": "ANN_543766_911A1941-7722-458A-B0CC-CB1951B1F0EE",
+    "NEWSSUB": "Ashika Global Securities Ltd - 543766 - Board Meeting Outcome for Outcome Of The Board Meeting Under Regulation 30 Of Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-10-31T15:56:09.44",
+    "NEWS_DT": "2026-10-31T15:56:09.44",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "02d628f7-53e9-480e-8e90-b1c7bc8e7b8c.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith the Outcome of Board Meeting of Ashika Global Securities Limited held on 31st October, 2026.",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ashika-global-securities-ltd/ashikag/543766/",
+    "SLONGNAME": "Ashika Global Securities Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:56:07",
+    "DissemDT": "2026-10-31T15:56:09.44",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 1624938,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1015.38",
+      "total_assets": "",
+      "dividend": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "23bc8422-bdf3-45e4-84fa-8fd6a9a7d891",
+    "SCRIP_CD": 524768,
+    "XML_NAME": "ANN_524768_23BC8422-BDF3-45E4-84FA-8FD6A9A7D891",
+    "NEWSSUB": "Emmessar Biotech & Nutrition Ltd - 524768 - Board Meeting Outcome for For Unaudited Financial Results For Period Ending 30/09/2026",
+    "DT_TM": "2026-10-31T15:55:24.007",
+    "NEWS_DT": "2026-10-31T15:55:24.007",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "cbe695af-9514-4455-9588-7b7ebae26eed.pdf",
+    "MORE": "",
+    "HEADLINE": "Please refer attachment.",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/emmessar-biotech--nutrition-ltd/emmessa/524768/",
+    "SLONGNAME": "Emmessar Biotech & Nutrition Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:55:22",
+    "DissemDT": "2026-10-31T15:55:24.007",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 5112093,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "10.92",
+      "total_assets": "989.25",
+      "total_equity": "838.66",
+      "total_debt": "8",
+      "dividend": "22.02",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7167b84b-9d5e-4974-99d5-5f70671119b4",
+    "SCRIP_CD": 505872,
+    "XML_NAME": "ANN_505872_7167B84B-9D5E-4974-99D5-5F70671119B4",
+    "NEWSSUB": "WPIL Ltd - 505872 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-31T15:55:20.72",
+    "NEWS_DT": "2026-10-31T15:55:20.72",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5a7923ba-96a1-4f7c-aec7-2760589c17c8.pdf",
+    "MORE": "",
+    "HEADLINE": "Earnings Presentation for Q2/H1-FY27",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/wpil-ltd/wpil/505872/",
+    "SLONGNAME": "WPIL Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:55:20",
+    "DissemDT": "2026-10-31T15:55:20.72",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4269784,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a2b48324-c6f0-4d50-a300-1de267c1e38d",
+    "SCRIP_CD": 544803,
+    "XML_NAME": "ANN_544803_A2B48324-C6F0-4D50-A300-1DE267C1E38D",
+    "NEWSSUB": "Advit Jewels Ltd - 544803 - Board Meeting Outcome for Outcome Of Financial Results For The Quarter And Half Year Ended On September 30, 2024",
+    "DT_TM": "2026-10-31T15:54:38.697",
+    "NEWS_DT": "2026-10-31T15:54:38.697",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "36d022fc-5c71-45fd-a969-3a224c4f4829.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Financial results for the quarter and half year ended on September 30, 2024",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/advit-jewels-ltd/rambhajo/544803/",
+    "SLONGNAME": "Advit Jewels Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:54:36",
+    "DissemDT": "2026-10-31T15:54:38.697",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 2732840,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "5880.97",
+      "total_assets": "29982.86",
+      "total_equity": "27926.21",
+      "total_debt": "6500.00",
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2a499e31-860a-43d0-a721-4f07acc01698",
+    "SCRIP_CD": 540063,
+    "XML_NAME": "ANN_540063_2A499E31-860A-43D0-A721-4F07ACC01698",
+    "NEWSSUB": "ECS Biztech Ltd - 540063 - Board Meeting Intimation for Quarterly Result For The Quarter And Half Year Ended 30.09.2026",
+    "DT_TM": "2026-10-31T15:54:16.053",
+    "NEWS_DT": "2026-10-31T15:54:16.053",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5f5632bf-a870-4da8-8c31-b4d119d71513.pdf",
+    "MORE": "ECS Biztech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Intimation of a Board Meeting to be held on 04.11.2026 for the consideration and approval of Quarter and half yearly result as on 30.09.2026",
+    "HEADLINE": "ECS Biztech Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Intimation of a Board Meeting to ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ecs-biztech-ltd/ecs/540063/",
+    "SLONGNAME": "ECS Biztech Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:54:14",
+    "DissemDT": "2026-10-31T15:54:16.053",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 540287,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a75cb106-aac0-4b93-9b1d-e5a4a0d6fee7",
+    "SCRIP_CD": 532139,
+    "XML_NAME": "ANN_532139_A75CB106-AAC0-4B93-9B1D-E5A4A0D6FEE7",
+    "NEWSSUB": "G-Tech Info-Training Ltd - 532139 - Board Meeting Outcome for Quarterly Results 30Th September 2026",
+    "DT_TM": "2026-10-31T15:53:45.577",
+    "NEWS_DT": "2026-10-31T15:53:45.577",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "04b2b86d-b0df-42fc-ace2-8427e2b940de.pdf",
+    "MORE": "",
+    "HEADLINE": "Quarterly Results 30th September 2026",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/g-tech-info-training-ltd/gteit/532139/",
+    "SLONGNAME": "G-Tech Info-Training Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:53:42",
+    "DissemDT": "2026-10-31T15:53:45.577",
+    "TimeDiff": "00:00:03",
+    "Fld_Attachsize": 2961680,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "0.00",
+      "total_assets": "45.75",
+      "total_equity": "1.60",
+      "total_debt": "0.00",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4466635b-f8cf-4bed-b0a2-2748d2fdf703",
+    "SCRIP_CD": 511605,
+    "XML_NAME": "ANN_511605_4466635B-F8CF-4BED-B0A2-2748D2FDF703",
+    "NEWSSUB": "Arihant Capital Markets Ltd - 511605 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-10-31T15:53:28.837",
+    "NEWS_DT": "2026-10-31T15:53:28.837",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6f7336bc-407b-49da-895f-acf2ba56eec6.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication in respect of Unaudited financial results for the quarter and half year ended on September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/arihant-capital-markets-ltd/arihantcap/511605/",
+    "SLONGNAME": "Arihant Capital Markets Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:53:28",
+    "DissemDT": "2026-10-31T15:53:28.837",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4621691,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3f24f796-db94-416a-bd60-15261dca4810",
+    "SCRIP_CD": 530655,
+    "XML_NAME": "ANN_530655_3F24F796-DB94-416A-BD60-15261DCA4810",
+    "NEWSSUB": "Goodluck India Ltd - 530655 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-10-31T15:53:17.507",
+    "NEWS_DT": "2026-10-31T15:53:17.507",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "75a2408e-0585-47b5-a621-7ae40fca2ca7.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation pursuant to Audio link of Conference Call held with Investor and Analysts held on 31st October, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/goodluck-india-ltd/goodluck/530655/",
+    "SLONGNAME": "Goodluck India Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:53:17",
+    "DissemDT": "2026-10-31T15:53:17.507",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 442745,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "3f24f796-db94-416a-bd60-15261dca4810",
+    "INVESTOR_PRESENTATION": "fd877d3f-be8a-4194-841b-47503682208a.pdf",
+    "RECORDID": 14726310,
+    "DataInsDate": "2026-10-31T15:53:17.43",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fd877d3f-be8a-4194-841b-47503682208a.pdf",
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "af6c4f41-4995-4c49-9a94-89b8766b3cdc",
+    "SCRIP_CD": 540025,
+    "XML_NAME": "ANN_540025_AF6C4F41-4995-4C49-9A94-89B8766B3CDC",
+    "NEWSSUB": "Advanced Enzyme Technologies Ltd - 540025 - Announcement under Regulation 30 (LODR)-Post Buyback Public Announcement",
+    "DT_TM": "2026-10-31T15:52:35.12",
+    "NEWS_DT": "2026-10-31T15:52:35.12",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "914599ab-f0f3-4aa6-9576-4f13249a6d0f.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith Post Buyback Public Announcement.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/advanced-enzyme-technologies-ltd/advenzymes/540025/",
+    "SLONGNAME": "Advanced Enzyme Technologies Ltd",
+    "AGENDA_ID": 138,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:52:35",
+    "DissemDT": "2026-10-31T15:52:35.12",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 9264006,
+    "SUBCATNAME": "Post Buyback Public Announcement",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "2",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b02ad1e1-b5bd-43ca-b107-fc060ada19b9",
+    "SCRIP_CD": 506184,
+    "XML_NAME": "ANN_506184_B02AD1E1-B5BD-43CA-B107-FC060ADA19B9",
+    "NEWSSUB": "Kanani Industries Ltd - 506184 - UN-AUDITED FINANCIAL RESULT WITH LIMITED REVIEW REPORT FOR THE QUARTER/HALF YEAR ENDED SEPTEMBER 30, 2026",
+    "DT_TM": "2026-10-31T15:52:32.947",
+    "NEWS_DT": "2026-10-31T15:52:32.947",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "97a3281d-e8da-418d-ac64-de0b930c8fff.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached Unaudited Financial Result With Limited review report for the quarter ended September 30, 2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kanani-industries-ltd/kananiind/506184/",
+    "SLONGNAME": "Kanani Industries Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:52:32",
+    "DissemDT": "2026-10-31T15:52:32.947",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 12214742,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "total_assets": "383234",
+      "total_debt": "2.5",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "da8d5d5a-6690-4c50-bb1f-2ac8179ca933",
+    "SCRIP_CD": 530179,
+    "XML_NAME": "ANN_530179_DA8D5D5A-6690-4C50-BB1F-2AC8179CA933",
+    "NEWSSUB": "RSC International Ltd - 530179 - Announcement under Regulation 31A (LODR)-(8)(b) Outcome of Board Meeting",
+    "DT_TM": "2026-10-31T15:51:25.09",
+    "NEWS_DT": "2026-10-31T15:51:25.09",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a749fbf9-2cac-4eaa-ba57-f6877387b708.pdf",
+    "MORE": "",
+    "HEADLINE": "The Stock exchange and stakeholders are requested to take on record, Outcome of the Board Meeting pertaining to Promoter Reclassification.",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rsc-international-ltd/rscint/530179/",
+    "SLONGNAME": "RSC International Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:51:25",
+    "DissemDT": "2026-10-31T15:51:25.09",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3691460,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5645c159-49f6-4c99-b9a3-527c6e19f11f",
+    "SCRIP_CD": 526073,
+    "XML_NAME": "ANN_526073_5645C159-49F6-4C99-B9A3-527C6E19F11F",
+    "NEWSSUB": "Galaxy Bearings Ltd - 526073 - Disclosure Under Regulation 7(2)(B) SEBI (Prohibition Of Insider Trading) Regulations, 2015",
+    "DT_TM": "2026-10-31T15:50:14.727",
+    "NEWS_DT": "2026-10-31T15:50:14.727",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e2f32a96-8aef-491e-a983-25200dac1011.pdf",
+    "MORE": "Pursuant to Regulation 7(2)(b) of SEBI (Prohibition of Insider Trading) Regulations, 2015, we are enclosing herewith the disclosure received to the company Under Regualtion 7(2)(a) of SEBI (PIT)Regulations, 2015 from the Promoter and Non-Executive Director of the Company.",
+    "HEADLINE": "Pursuant to Regulation 7(2)(b) of SEBI (Prohibition of Insider Trading) Regulations, 2015, we are enclosing herewith the disclosure received to the company Under Regualtion 7(2)(a) of SEBI ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/galaxy-bearings-ltd/galxbrg/526073/",
+    "SLONGNAME": "Galaxy Bearings Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:50:14",
+    "DissemDT": "2026-10-31T15:50:14.727",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1462609,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "712b3abc-956e-4258-b7b8-56830ee18297",
+    "SCRIP_CD": 540025,
+    "XML_NAME": "ANN_540025_712B3ABC-956E-4258-B7B8-56830EE18297",
+    "NEWSSUB": "Advanced Enzyme Technologies Ltd - 540025 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-10-31T15:48:48.257",
+    "NEWS_DT": "2026-10-31T15:48:48.257",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "239bf773-8d62-4fc3-92f3-8bf30786df58.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith Earnings Presentation for quarter and half year ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/advanced-enzyme-technologies-ltd/advenzymes/540025/",
+    "SLONGNAME": "Advanced Enzyme Technologies Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:48:48",
+    "DissemDT": "2026-10-31T15:48:48.257",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4368371,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "992",
+      "net_profit": "512",
+      "total_assets": "18388",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4b1a3e5e-34b4-4c88-9203-75555dcef1ff",
+    "SCRIP_CD": 544416,
+    "XML_NAME": "ANN_544416_4B1A3E5E-34B4-4C88-9203-75555DCEF1FF",
+    "NEWSSUB": "Krishival Foods Ltd - 544416 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-10-31T15:48:36.493",
+    "NEWS_DT": "2026-10-31T15:48:36.493",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "dd6ae96e-fc9c-4852-adac-80fed4a9add2.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Schedule of Analyst/Investor Meeting",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/krishival-foods-ltd/krishival/544416/",
+    "SLONGNAME": "Krishival Foods Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:48:36",
+    "DissemDT": "2026-10-31T15:48:36.493",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 512572,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "4b1a3e5e-34b4-4c88-9203-75555dcef1ff",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14726302,
+    "DataInsDate": "2026-10-31T15:48:36.457",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "950676b5-2e88-43ca-b6ca-5accd4810e8a",
+    "SCRIP_CD": 513511,
+    "XML_NAME": "ANN_513511_950676B5-2E88-43CA-B6CA-5ACCD4810E8A",
+    "NEWSSUB": "Panchmahal Steel Ltd - 513511 - Unaudited Financial Results For The Quarter And Half-Year Ended 30.09.2026",
+    "DT_TM": "2026-10-31T15:44:53.407",
+    "NEWS_DT": "2026-10-31T15:44:53.407",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e615ebb9-ba4a-4052-9931-431f1a6b3706.pdf",
+    "MORE": "",
+    "HEADLINE": "Unaudited Financial Results for the quarter and half-year ended 30.09.2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/panchmahal-steel-ltd/panchmahq/513511/",
+    "SLONGNAME": "Panchmahal Steel Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:44:53",
+    "DissemDT": "2026-10-31T15:44:53.407",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1530902,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors met on **31 October 2026** and approved the **unaudited standalone financial results** for the quarter and the half‑year ended **30 September 2026** (Regulation 33(3) filing).  \n- The announcement only confirms the approval and filing of these interim results; **no specific financial figures or quantitative details are disclosed** in the text.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7349a62d-3e5a-4285-90ee-97f389dda693",
+    "SCRIP_CD": 544877,
+    "XML_NAME": "ANN_544877_7349A62D-3E5A-4285-90EE-97F389DDA693",
+    "NEWSSUB": "Technocrats Plasma Systems Ltd - 544877 - 1. To Approve The Unaudited Financials Along With Limited Review Report For Half Year Ended 30Th September 2026",
+    "DT_TM": "2026-10-31T15:44:35.99",
+    "NEWS_DT": "2026-10-31T15:44:35.99",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f412f13a-b7ea-4a4a-b8fa-d7456e5970c7.pdf",
+    "MORE": "",
+    "HEADLINE": "Approval of unaudited financial statement for the half yearly ended on September 30, 2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/technocrats-plasma-systems-ltd/technocrat/544877/",
+    "SLONGNAME": "Technocrats Plasma Systems Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:44:35",
+    "DissemDT": "2026-10-31T15:44:35.99",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1255440,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "in Billions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ff412f42-cdae-418d-988f-9f069928ab47",
+    "SCRIP_CD": 513579,
+    "XML_NAME": "ANN_513579_FF412F42-CDAE-418D-988F-9F069928AB47",
+    "NEWSSUB": "Foundry Fuel Products Ltd - 513579 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-10-31T15:44:09.407",
+    "NEWS_DT": "2026-10-31T15:44:09.407",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3433d39a-3dc2-4572-aef1-2552cc2c0be1.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication for publication of Q2 results",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/foundry-fuel-products-ltd/ffpl/513579/",
+    "SLONGNAME": "Foundry Fuel Products Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:44:09",
+    "DissemDT": "2026-10-31T15:44:09.407",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8019352,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8cfef37a-98c8-4377-9c77-e5da03b0ab60",
+    "SCRIP_CD": 544466,
+    "XML_NAME": "ANN_544466_8CFEF37A-98C8-4377-9C77-E5DA03B0AB60",
+    "NEWSSUB": "Aditya Infotech Ltd - 544466 - Disclosure Under Regulation 30  Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-10-31T15:42:37.89",
+    "NEWS_DT": "2026-10-31T15:42:37.89",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9c5bf251-d12b-499b-8bba-61777e88a6d9.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aditya-infotech-ltd/cpplus/544466/",
+    "SLONGNAME": "Aditya Infotech Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:42:37",
+    "DissemDT": "2026-10-31T15:42:37.89",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 445164,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "69a61a51-f6e9-434e-809e-ef09bc4d68e1",
+    "SCRIP_CD": 506184,
+    "XML_NAME": "ANN_506184_69A61A51-F6E9-434E-809E-EF09BC4D68E1",
+    "NEWSSUB": "Kanani Industries Ltd - 506184 - Board Meeting Outcome for Outcome Of Board Meeting Held On 31St October, 2026",
+    "DT_TM": "2026-10-31T15:41:51.327",
+    "NEWS_DT": "2026-10-31T15:41:51.327",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e2dc51db-febc-4b87-8930-c476d0ae2bf2.pdf",
+    "MORE": "In continuation to our letter dated October 24, 2026, we wish to inform you that pursuant to Regulation 33 and Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that the Board of Directors of the company, at its meeting held today i.e. 31St October 2026, have considered and approved the following-\r\nTaken on Record the Un-audited Standalone & Consolidated Financial Result of the Company for the quarter/half year ended September 30, 2026 along with the Limited Review Report as submitted by M/s. JMMK & Co., Chartered Accountants, being the Statutory Auditors of the Company.\r\nThe meeting of Board of Directors held today commenced at 2.00 PM and concluded at 3.35 PM.\r\n",
+    "HEADLINE": "In continuation to our letter dated October 24, 2026, we wish to inform you that pursuant to Regulation 33 and Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kanani-industries-ltd/kananiind/506184/",
+    "SLONGNAME": "Kanani Industries Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:41:50",
+    "DissemDT": "2026-10-31T15:41:51.327",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 1320086,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "711bf268-2427-4fab-96dd-b7858c0afb28",
+    "SCRIP_CD": 543573,
+    "XML_NAME": "ANN_543573_711BF268-2427-4FAB-96DD-B7858C0AFB28",
+    "NEWSSUB": "Syrma SGS Technology Ltd - 543573 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-10-31T15:41:21.003",
+    "NEWS_DT": "2026-10-31T15:41:21.003",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "67afff35-7cab-4931-beed-692e723c8dc3.pdf",
+    "MORE": "Newspaper advertisement for unaudited (Standalone and Consolidated) financial results of the Company for the quarter and half year ended September 30, 2026 - Disclosure under Regulation 47 of the SEBI (LODR) Regulations, 2025",
+    "HEADLINE": "Newspaper advertisement for unaudited (Standalone and Consolidated) financial results of the Company for the quarter and half year ended September 30, 2026 - Disclosure under Regulation ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/syrma-sgs-technology-ltd/syrma/543573/",
+    "SLONGNAME": "Syrma SGS Technology Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:41:21",
+    "DissemDT": "2026-10-31T15:41:21.003",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4899978,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "35875.05",
+      "face_value": "10",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "df1f0ec0-e516-442e-beb7-f4894be75a9c",
+    "SCRIP_CD": 540025,
+    "XML_NAME": "ANN_540025_DF1F0EC0-E516-442E-BEB7-F4894BE75A9C",
+    "NEWSSUB": "Advanced Enzyme Technologies Ltd - 540025 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-10-31T15:40:46.03",
+    "NEWS_DT": "2026-10-31T15:40:46.03",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0cc7bdf7-b337-4f7a-8ece-eac2b716d520.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith press release titled Quarterly Earnings Release dated October 31, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/advanced-enzyme-technologies-ltd/advenzymes/540025/",
+    "SLONGNAME": "Advanced Enzyme Technologies Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 8,
+    "News_submission_dt": "2026-10-31T15:40:46",
+    "DissemDT": "2026-10-31T15:40:46.03",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1004652,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "2145",
+      "net_profit": "512",
+      "operating_profit": "721",
+      "eps": "4.33",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "5abbf292-57e2-483f-866a-76e87d96b5cc",
     "SCRIP_CD": 544527,
     "XML_NAME": "ANN_544527_5ABBF292-57E2-483F-866A-76E87D96B5CC",
@@ -12819,4244 +13781,6 @@
       "eps": "",
       "currency_unit": "₹ in Lakhs"
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7b6b17eb-6949-4135-9733-c27e35405659",
-    "SCRIP_CD": 530931,
-    "XML_NAME": "ANN_530931_7B6B17EB-6949-4135-9733-C27E35405659",
-    "NEWSSUB": "Stanpacks India Ltd - 530931 - Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - Disclosure Of Imposition Of Fine Or Penalty",
-    "DT_TM": "2026-10-31T13:57:27.8",
-    "NEWS_DT": "2026-10-31T13:57:27.8",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4a76c89b-2d1b-43c6-b4aa-b2c926740ab8.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 - Disclosure of imposition of fine or penalty",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/stanpacks-india-ltd/stanpack/530931/",
-    "SLONGNAME": "Stanpacks India Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:57:27",
-    "DissemDT": "2026-10-31T13:57:27.8",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 502889,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Fine imposed:** Stanpacks India Ltd was fined **₹2,360 (including GST)** by BSE Ltd for failing to submit its Annual Report within the period prescribed under Regulation 34 of the SEBI (LODR) Regulations, 2015.  \n- **Timeline:** The fine notice was received on **30 Oct 2026**, and the company confirmed payment of the full amount on **31 Oct 2026** (UTR KARBN26304379689). No other financial details were disclosed.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4fcc723a-9b7a-4592-96f9-ff0f68202b76",
-    "SCRIP_CD": 522261,
-    "XML_NAME": "ANN_522261_4FCC723A-9B7A-4592-96F9-FF0F68202B76",
-    "NEWSSUB": "Dolphin Offshore Enterprises (India) Ltd-$ - 522261 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-10-31T13:57:22.43",
-    "NEWS_DT": "2026-10-31T13:57:22.43",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "de9dec03-48f8-4d93-ac2d-835aeb7811fe.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dolphin-offshore-enterprises-(india)-ltd/dolphin/522261/",
-    "SLONGNAME": "Dolphin Offshore Enterprises (India) Ltd-$",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:57:20",
-    "DissemDT": "2026-10-31T13:57:22.43",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 4686169,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board meeting on 31 Oct 2026** approved the company’s unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 Sept 2026, together with the corresponding Statement of Assets & Liabilities, Cash‑Flow Statement and the Limited Review Report of the statutory auditors.  \n\n- **Key financial figure disclosed:** the auditors highlighted an Expected Credit Loss (ECL) provision of **₹",
-    "key_metrics": {
-      "revenue": "692.06",
-      "total_assets": "38823.63",
-      "total_equity": "38823.63",
-      "total_debt": "16386.77",
-      "eps": "",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b8eeed44-00db-4ca9-a975-8080f7fb1b99",
-    "SCRIP_CD": 539122,
-    "XML_NAME": "ANN_539122_B8EEED44-00DB-4CA9-A975-8080F7FB1B99",
-    "NEWSSUB": "Datakosa Ltd - 539122 - Reg. 34 (1) Annual Report.",
-    "DT_TM": "2026-10-31T13:55:37.033",
-    "NEWS_DT": "2026-10-31T13:55:37.033",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ae1592e8-7e76-4d62-a7de-b05d922bb0db.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed the Annual Report of the Company for the Financial Year FY2025-26.",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/datakosa-ltd/datakosa/539122/",
-    "SLONGNAME": "Datakosa Ltd",
-    "AGENDA_ID": 176,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:55:37",
-    "DissemDT": "2026-10-31T13:55:37.033",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1656585,
-    "SUBCATNAME": "Reg. 34 (1) Annual Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "1942.99",
-      "net_profit": "142.58",
-      "total_assets": "268231919",
-      "total_equity": "500 crore",
-      "total_debt": "15",
-      "dividend": "26",
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 18,
-        "table_index": 1,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sl. No": "",
-            "Name of the proposed allotee": "",
-            "Category (promoter /non promoter)": "",
-            "Ultimate Beneficial Owners (If applicable)": "",
-            "Pre-Issue Equity holding": "No. of shares",
-            "col_6": "% of holding",
-            "No. of Equity Shares proposed to be allotted": "",
-            "Post issue Equity holding": "No. of shares",
-            "col_9": "% of holding"
-          },
-          {
-            "Sl. No": "1.",
-            "Name of the proposed allotee": "M/s. Nerdix Technologies LLP",
-            "Category (promoter /non promoter)": "Non- Promoter (Body Corporate)",
-            "Ultimate Beneficial Owners (If applicable)": "Mr. Tanguturi Pruthvi Krishna (PAN: AGTPT0010A) Mrs. Tanguturi Swetha (PAN: ANFPJ3832P)",
-            "Pre-Issue Equity holding": "-",
-            "col_6": "-",
-            "No. of Equity Shares proposed to be allotted": "11,76,470",
-            "Post issue Equity holding": "11,76,470",
-            "col_9": "4.86"
-          },
-          {
-            "Sl. No": "2.",
-            "Name of the proposed allotee": "M/s. Virello Estates LLP",
-            "Category (promoter /non promoter)": "Non- Promoter (Body Corporate)",
-            "Ultimate Beneficial Owners (If applicable)": "Mr. Kasireddy Sriker Reddy (PAN: DIAPK6219Q) Mr. Gouravaram Nageshwar Reddy (PAN: AEOPG8696N)",
-            "Pre-Issue Equity holding": "-",
-            "col_6": "-",
-            "No. of Equity Shares proposed to be allotted": "11,76,470",
-            "Post issue Equity holding": "11,76,470",
-            "col_9": "4.86"
-          },
-          {
-            "Sl. No": "Total",
-            "Name of the proposed allotee": "",
-            "Category (promoter /non promoter)": "",
-            "Ultimate Beneficial Owners (If applicable)": "",
-            "Pre-Issue Equity holding": "-",
-            "col_6": "-",
-            "No. of Equity Shares proposed to be allotted": "23,52,940",
-            "Post issue Equity holding": "23,52,940",
-            "col_9": "9.72"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "Revenue from Operations",
-            "2025-26": "1,942.99",
-            "2024-25": "607.41"
-          },
-          {
-            "Particulars": "Other Income",
-            "2025-26": "121.74",
-            "2024-25": "49.85"
-          },
-          {
-            "Particulars": "Total Income",
-            "2025-26": "2,064.73",
-            "2024-25": "657.26"
-          },
-          {
-            "Particulars": "Work Execution expenses",
-            "2025-26": "1,201.13",
-            "2024-25": "469.85"
-          },
-          {
-            "Particulars": "Employee Benefits Expense",
-            "2025-26": "514.74",
-            "2024-25": "215.03"
-          },
-          {
-            "Particulars": "Finance costs",
-            "2025-26": "19.88",
-            "2024-25": "9.22"
-          },
-          {
-            "Particulars": "Depreciation and Amortization Expense",
-            "2025-26": "11.15",
-            "2024-25": "6.52"
-          },
-          {
-            "Particulars": "Other expenses",
-            "2025-26": "163.92",
-            "2024-25": "82.58"
-          },
-          {
-            "Particulars": "Total Expenditure",
-            "2025-26": "1,910.83",
-            "2024-25": "783.20"
-          },
-          {
-            "Particulars": "Profit before Tax",
-            "2025-26": "153.91",
-            "2024-25": "(125.94)"
-          },
-          {
-            "Particulars": "Total Tax expenses",
-            "2025-26": "10.01",
-            "2024-25": "(0.84)"
-          },
-          {
-            "Particulars": "Profit after Tax",
-            "2025-26": "142.58",
-            "2024-25": "(126.77)"
-          },
-          {
-            "Particulars": "Other Comprehensive Income/Loss for the financial year",
-            "2025-26": "(2.92)",
-            "2024-25": "2.41"
-          },
-          {
-            "Particulars": "Total Comprehensive Income/Loss for the financial year",
-            "2025-26": "139.65",
-            "2024-25": "(124.36)"
-          },
-          {
-            "Particulars": "Earnings per Equity Share – Face value of `10/- each",
-            "2025-26": "0.65",
-            "2024-25": "(0.74)"
-          }
-        ]
-      },
-      {
-        "page": 48,
-        "table_index": 3,
-        "row_count": 4,
-        "rows": [
-          {
-            "S.No.": "1",
-            "Name of the Director": "Mrs. Sucharitha Bandugula",
-            "No of Equity Shares": "Nil"
-          },
-          {
-            "S.No.": "2",
-            "Name of the Director": "Mr. Ajay Kumar Giri",
-            "No of Equity Shares": "Nil"
-          },
-          {
-            "S.No.": "3",
-            "Name of the Director": "Mr. Sreenivasa Rao Ravinuthala",
-            "No of Equity Shares": "Nil"
-          },
-          {
-            "S.No.": "4",
-            "Name of the Director": "Mr. Maruti Venkata Subbarao Poluri",
-            "No of Equity Shares": "Nil"
-          }
-        ]
-      },
-      {
-        "page": 58,
-        "table_index": 1,
-        "row_count": 12,
-        "rows": [
-          {
-            "Regulation": "17",
-            "Particulars of Regulation": "Board of Directors",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "18",
-            "Particulars of Regulation": "Audit Committee",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "19",
-            "Particulars of Regulation": "Nomination and Remuneration Committee",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "20",
-            "Particulars of Regulation": "Stake Holders Relationship Committee",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "21",
-            "Particulars of Regulation": "Risk Management Committee",
-            "Compliance Status (Yes/No)": "N.A"
-          },
-          {
-            "Regulation": "22",
-            "Particulars of Regulation": "Vigil Mechanism",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "23",
-            "Particulars of Regulation": "Related Party Transactions",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "24",
-            "Particulars of Regulation": "Corporate Governance requirement with respect of Subsidiary of Listed entity",
-            "Compliance Status (Yes/No)": "N.A."
-          },
-          {
-            "Regulation": "25",
-            "Particulars of Regulation": "Obligation with respect to Independent Director",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "26",
-            "Particulars of Regulation": "Obligation with respect to Directors and Senior Management",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "27",
-            "Particulars of Regulation": "Other Corporate Governance Requirement",
-            "Compliance Status (Yes/No)": "Yes"
-          },
-          {
-            "Regulation": "46(2)(b)to(i)",
-            "Particulars of Regulation": "Website",
-            "Compliance Status (Yes/No)": "Yes"
-          }
-        ]
-      },
-      {
-        "page": 67,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "S.No.": "1",
-            "Particulars": "TDS Payable",
-            "Amount (Rs.)": "1,36,318"
-          },
-          {
-            "S.No.": "2",
-            "Particulars": "Provident Fund Payable",
-            "Amount (Rs.)": "1,42,083"
-          },
-          {
-            "S.No.": "3",
-            "Particulars": "ESI Payable",
-            "Amount (Rs.)": "39,800"
-          },
-          {
-            "S.No.": "Total",
-            "Particulars": "",
-            "Amount (Rs.)": "3,18,201"
-          }
-        ]
-      },
-      {
-        "page": 80,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "Amount in Rs.": "S. No.",
-            "col_2": "Particulars",
-            "col_3": "As At 31st March, 2026",
-            "col_4": "As At 31st March, 2025"
-          },
-          {
-            "Amount in Rs.": "1",
-            "col_2": "Receivables considered good - Secured",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "Amount in Rs.": "2",
-            "col_2": "Receivables considered good - UnSecured",
-            "col_3": "5,35,55,392",
-            "col_4": "6,08,82,623"
-          },
-          {
-            "Amount in Rs.": "3",
-            "col_2": "Provision for Bad & Doubtful Debts",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "Amount in Rs.": "",
-            "col_2": "Total",
-            "col_3": "5,35,55,392",
-            "col_4": "6,08,82,623"
-          }
-        ]
-      },
-      {
-        "page": 80,
-        "table_index": 2,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars": "a) Audit fees",
-            "For the year ended 31st March, 2026": "5,00,000",
-            "For the year ended 31st March, 2025": "6,00,000"
-          },
-          {
-            "Particulars": "b) Other charges",
-            "For the year ended 31st March, 2026": "-",
-            "For the year ended 31st March, 2025": "-"
-          },
-          {
-            "Particulars": "Taxation matters",
-            "For the year ended 31st March, 2026": "-",
-            "For the year ended 31st March, 2025": "-"
-          },
-          {
-            "Particulars": "Certification fee",
-            "For the year ended 31st March, 2026": "-",
-            "For the year ended 31st March, 2025": "-"
-          },
-          {
-            "Particulars": "c) Reimbursement of out of pocket expenses",
-            "For the year ended 31st March, 2026": "-",
-            "For the year ended 31st March, 2025": "-"
-          },
-          {
-            "Particulars": "TOTAL",
-            "For the year ended 31st March, 2026": "5,00,000",
-            "For the year ended 31st March, 2025": "6,00,000"
-          }
-        ]
-      },
-      {
-        "page": 80,
-        "table_index": 3,
-        "row_count": 7,
-        "rows": [
-          {
-            "Particulars": "Earnings",
-            "For the year ended 31st March, 2026": "",
-            "For the year ended 31st March, 2025": ""
-          },
-          {
-            "Particulars": "Profit attributable to equity holders",
-            "For the year ended 31st March, 2026": "1,39,65,471",
-            "For the year ended 31st March, 2025": "(1,26,77,226)"
-          },
-          {
-            "Particulars": "Shares",
-            "For the year ended 31st March, 2026": "",
-            "For the year ended 31st March, 2025": ""
-          },
-          {
-            "Particulars": "Number of shares at the beginning of the year",
-            "For the year ended 31st March, 2026": "1,71,73,114",
-            "For the year ended 31st March, 2025": "1,71,73,114"
-          },
-          {
-            "Particulars": "Add: Equity shares issued*",
-            "For the year ended 31st March, 2026": "46,92,456",
-            "For the year ended 31st March, 2025": "-"
-          },
-          {
-            "Particulars": "Less: Extinguishment of shares",
-            "For the year ended 31st March, 2026": "-",
-            "For the year ended 31st March, 2025": "-"
-          },
-          {
-            "Particulars": "Total number of equity shares outstanding at the end of the year",
-            "For the year ended 31st March, 2026": "2,18,65,570",
-            "For the year ended 31st March, 2025": "1,71,73,114"
-          }
-        ]
-      },
-      {
-        "page": 81,
-        "table_index": 2,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars": "Sales / Rendering services",
-            "For the year ended 31st March 2026": "",
-            "For the year ended 31st March 2025": ""
-          },
-          {
-            "Particulars": "Bodhtree Solutions PTE Ltd",
-            "For the year ended 31st March 2026": "-",
-            "For the year ended 31st March 2025": "-"
-          },
-          {
-            "Particulars": "Purchases/availing Services",
-            "For the year ended 31st March 2026": "",
-            "For the year ended 31st March 2025": ""
-          },
-          {
-            "Particulars": "Remuneration to key Managerial Persons",
-            "For the year ended 31st March 2026": "",
-            "For the year ended 31st March 2025": ""
-          },
-          {
-            "Particulars": "Mr. Santosh Kumar Vangapally (Whole time Director)",
-            "For the year ended 31st March 2026": "-",
-            "For the year ended 31st March 2025": "11,57,256"
-          },
-          {
-            "Particulars": "Mr. Prashanth Mitta (Whole time Director)",
-            "For the year ended 31st March 2026": "24,00,000",
-            "For the year ended 31st March 2025": "21,93,605"
-          },
-          {
-            "Particulars": "Ms. Vidhi Sharma (Company Secretory)",
-            "For the year ended 31st March 2026": "4,86,000",
-            "For the year ended 31st March 2025": "-"
-          },
-          {
-            "Particulars": "G Nagendra (Company Secretory)",
-            "For the year ended 31st March 2026": "7,27,000",
-            "For the year ended 31st March 2025": "-"
-          },
-          {
-            "Particulars": "Loans Received/(Repaid)",
-            "For the year ended 31st March 2026": "",
-            "For the year ended 31st March 2025": ""
-          },
-          {
-            "Particulars": "Wilmer Technologies LLP",
-            "For the year ended 31st March 2026": "-",
-            "For the year ended 31st March 2025": "47,85,309"
-          },
-          {
-            "Particulars": "Prashanth Mitta –Whole time Director",
-            "For the year ended 31st March 2026": "(22,87,910)",
-            "For the year ended 31st March 2025": "37,87,910"
-          },
-          {
-            "Particulars": "Advances given/(taken)",
-            "For the year ended 31st March 2026": "",
-            "For the year ended 31st March 2025": ""
-          },
-          {
-            "Particulars": "Directors Sitting fees",
-            "For the year ended 31st March 2026": "",
-            "For the year ended 31st March 2025": ""
-          },
-          {
-            "Particulars": "Ravinder Reddy Surukanti",
-            "For the year ended 31st March 2026": "10,000",
-            "For the year ended 31st March 2025": "95,000"
-          },
-          {
-            "Particulars": "Nikshit Hemendra Shah",
-            "For the year ended 31st March 2026": "1,15,000",
-            "For the year ended 31st March 2025": "75,000"
-          },
-          {
-            "Particulars": "P M V Subba Rao",
-            "For the year ended 31st March 2026": "80,000",
-            "For the year ended 31st March 2025": "75,000"
-          },
-          {
-            "Particulars": "Ajay Kumar Giri",
-            "For the year ended 31st March 2026": "1,00,000",
-            "For the year ended 31st March 2025": "10,000"
-          },
-          {
-            "Particulars": "B Sucharitha",
-            "For the year ended 31st March 2026": "45,000",
-            "For the year ended 31st March 2025": "10,000"
-          },
-          {
-            "Particulars": "Total",
-            "For the year ended 31st March 2026": "3,50,000",
-            "For the year ended 31st March 2025": "2,65,000"
-          }
-        ]
-      },
-      {
-        "page": 82,
-        "table_index": 1,
-        "row_count": 2,
-        "rows": [
-          {
-            "Particulars": "FOB Value of Exports",
-            "For the year ended 31st March 2026": "3,16,30,623",
-            "For the year ended 31st March 2025": "2,15,30,023"
-          },
-          {
-            "Particulars": "Total",
-            "For the year ended 31st March 2026": "3,16,30,623",
-            "For the year ended 31st March 2025": "2,15,30,023"
-          }
-        ]
-      },
-      {
-        "page": 82,
-        "table_index": 2,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Years ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Current service cost",
-            "For the Years ended 31st March": "1,63,091",
-            "col_3": "1,43,340"
-          },
-          {
-            "Particulars": "Interest on net defined benefit liability/(asset)",
-            "For the Years ended 31st March": "12,150",
-            "col_3": "17,965"
-          },
-          {
-            "Particulars": "Gratuity cost recognized in statement of profit and loss",
-            "For the Years ended 31st March": "1,75,241",
-            "col_3": "1,61,305"
-          }
-        ]
-      },
-      {
-        "page": 82,
-        "table_index": 3,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Years ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Present value of funded obligations",
-            "For the Years ended 31st March": "3,25,575",
-            "col_3": "65,013"
-          },
-          {
-            "Particulars": "Fair value of plan assets",
-            "For the Years ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Net defined benefit liability / (asset) recognized",
-            "For the Years ended 31st March": "3,25,575",
-            "col_3": "65,013"
-          }
-        ]
-      },
-      {
-        "page": 82,
-        "table_index": 4,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Years ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Defined benefit obligations at the beginning of the year",
-            "For the Years ended 31st March": "65,013",
-            "col_3": "2,26,941"
-          },
-          {
-            "Particulars": "Current service cost",
-            "For the Years ended 31st March": "1,63,091",
-            "col_3": "1,43,340"
-          },
-          {
-            "Particulars": "Interest on defined obligations",
-            "For the Years ended 31st March": "12,150",
-            "col_3": "17,965"
-          },
-          {
-            "Particulars": "Re-measurements due to:",
-            "For the Years ended 31st March": "0",
-            "col_3": "0"
-          },
-          {
-            "Particulars": "Actuarial loss/(gain) due to change in financial assumptions",
-            "For the Years ended 31st March": "-23,128",
-            "col_3": "4,940"
-          },
-          {
-            "Particulars": "Actuarial loss/(gain) due to demographic assumptions",
-            "For the Years ended 31st March": "0",
-            "col_3": "0"
-          },
-          {
-            "Particulars": "Actuarial loss/(gain) due to experience changes",
-            "For the Years ended 31st March": "1,08,449",
-            "col_3": "-3,28,713"
-          },
-          {
-            "Particulars": "Benefits paid",
-            "For the Years ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Other (Employee Contribution, Taxes, Expenses, adj to Opening Balance)",
-            "For the Years ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Defined benefit obligations at the end of the year",
-            "For the Years ended 31st March": "3,25,575",
-            "col_3": "65,013"
-          }
-        ]
-      },
-      {
-        "page": 83,
-        "table_index": 0,
-        "row_count": 3,
-        "rows": [
-          {
-            "Particulars": "",
-            "As of 31st March,": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Discount rate",
-            "As of 31st March,": "7.78%",
-            "col_3": "6.78%"
-          },
-          {
-            "Particulars": "Rate of compensation increase",
-            "As of 31st March,": "0.00%",
-            "col_3": "0.00%"
-          }
-        ]
-      },
-      {
-        "page": 83,
-        "table_index": 1,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "",
-            "As of 31st March,": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Current service cost",
-            "As of 31st March,": "6,19,821",
-            "col_3": "2,92,725"
-          },
-          {
-            "Particulars": "Interest on net defined benefit liability/(asset)",
-            "As of 31st March,": "27,282",
-            "col_3": "20,541"
-          },
-          {
-            "Particulars": "Leave Encashment cost recognized in statement of profit and loss",
-            "As of 31st March,": "6,47,103",
-            "col_3": "3,13,266"
-          }
-        ]
-      },
-      {
-        "page": 83,
-        "table_index": 2,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "",
-            "As of 31st March,": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Present value of funded obligations",
-            "As of 31st March,": "5,57,697",
-            "col_3": "1,25,486"
-          },
-          {
-            "Particulars": "Fair value of plan assets",
-            "As of 31st March,": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Net defined benefit liability / (asset) recognized",
-            "As of 31st March,": "5,57,697",
-            "col_3": "1,25,486"
-          }
-        ]
-      },
-      {
-        "page": 83,
-        "table_index": 3,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Year ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Defined benefit obligations at the beginning of the year",
-            "For the Year ended 31st March": "1,25,486",
-            "col_3": "2,85,872"
-          },
-          {
-            "Particulars": "Current service cost",
-            "For the Year ended 31st March": "6,19,821",
-            "col_3": "2,92,725"
-          },
-          {
-            "Particulars": "Interest on defined obligations",
-            "For the Year ended 31st March": "27,282",
-            "col_3": "20,541"
-          },
-          {
-            "Particulars": "Re-measurements due to:",
-            "For the Year ended 31st March": "",
-            "col_3": ""
-          },
-          {
-            "Particulars": "Actuarial loss/(gain) due to change in financial assumptions",
-            "For the Year ended 31st March": "(18,558)",
-            "col_3": "2,845"
-          },
-          {
-            "Particulars": "Actuarial loss/(gain) due to demographic assumptions",
-            "For the Year ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Actuarial loss/(gain) due to experience changes",
-            "For the Year ended 31st March": "(1,96,334)",
-            "col_3": "(4,76,495)"
-          },
-          {
-            "Particulars": "Benefits paid",
-            "For the Year ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Other (Employee Contribution, Taxes, Expenses, adj to Opening Balance)",
-            "For the Year ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Defined benefit obligations at the end of the year",
-            "For the Year ended 31st March": "5,57,697",
-            "col_3": "1,25,486"
-          }
-        ]
-      },
-      {
-        "page": 84,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Year Ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Current taxes expense",
-            "For the Year Ended 31st March": "",
-            "col_3": ""
-          },
-          {
-            "Particulars": "Domestic",
-            "For the Year Ended 31st March": "10,67,141",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Deferred taxes expense/(benefit)",
-            "For the Year Ended 31st March": "(65,731)",
-            "col_3": "(83,578.99)"
-          },
-          {
-            "Particulars": "Total income tax expense/(benefit) recognized in the statement of profit and loss",
-            "For the Year Ended 31st March": "10,01,410",
-            "col_3": "(83,578.99)"
-          }
-        ]
-      },
-      {
-        "page": 84,
-        "table_index": 2,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Year Ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Profit before income taxes",
-            "For the Year Ended 31st March": "1,53,90,662",
-            "col_3": "(1,25,93,647.31)"
-          },
-          {
-            "Particulars": "Enacted tax rate in India",
-            "For the Year Ended 31st March": "25.168%",
-            "col_3": "25.168%"
-          },
-          {
-            "Particulars": "Computed expected tax benefit/(expense)",
-            "For the Year Ended 31st March": "35,14,830",
-            "col_3": "(31,69,569)"
-          },
-          {
-            "Particulars": "Effect of:",
-            "For the Year Ended 31st March": "",
-            "col_3": ""
-          },
-          {
-            "Particulars": "Expenses not deductible for Tax purposes",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Expenses deductible for Tax purposes",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Taxable at Special Rate",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Exempted income form SEZ",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Reversal of excess provision created in previous years",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Income tax benefit/(expense)",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          },
-          {
-            "Particulars": "Effective tax rate",
-            "For the Year Ended 31st March": "-",
-            "col_3": "-"
-          }
-        ]
-      },
-      {
-        "page": 84,
-        "table_index": 3,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Year Ended 31st March": "2026",
-            "col_3": "2025"
-          },
-          {
-            "Particulars": "Deferred tax assets/(liabilities):",
-            "For the Year Ended 31st March": "",
-            "col_3": ""
-          },
-          {
-            "Particulars": "Property, plant and equipment",
-            "For the Year Ended 31st March": "(1,86,779)",
-            "col_3": "(1,11,702.35)"
-          },
-          {
-            "Particulars": "Others",
-            "For the Year Ended 31st March": "2,22,319",
-            "col_3": "1,14,648.85"
-          },
-          {
-            "Particulars": "Net deferred tax assets/(liabilities)",
-            "For the Year Ended 31st March": "35,540",
-            "col_3": "2,946.49"
-          }
-        ]
-      },
-      {
-        "page": 85,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "Assets",
-            "1Year": "",
-            "1-5Years": "",
-            ">5Years": "",
-            "Total": ""
-          },
-          {
-            "Particulars": "Trade receivables",
-            "1Year": "4,59,60,408",
-            "1-5Years": "75,94,984",
-            ">5Years": "-",
-            "Total": "5,35,55,392"
-          },
-          {
-            "Particulars": "Cash and cash equivalents",
-            "1Year": "43,73,302",
-            "1-5Years": "-",
-            ">5Years": "-",
-            "Total": "43,73,302"
-          },
-          {
-            "Particulars": "Other bank balances",
-            "1Year": "6,65,71,591",
-            "1-5Years": "-",
-            ">5Years": "-",
-            "Total": "6,65,71,591"
-          },
-          {
-            "Particulars": "Loans and advances",
-            "1Year": "6,99,75,328",
-            "1-5Years": "-",
-            ">5Years": "-",
-            "Total": "6,99,75,328"
-          },
-          {
-            "Particulars": "Other financial assets",
-            "1Year": "2,80,945",
-            "1-5Years": "2,00,00,000",
-            ">5Years": "-",
-            "Total": "2,02,80,945"
-          },
-          {
-            "Particulars": "Liabilities",
-            "1Year": "",
-            "1-5Years": "",
-            ">5Years": "",
-            "Total": ""
-          },
-          {
-            "Particulars": "Trade payables",
-            "1Year": "2,34,57,296",
-            "1-5Years": "1,27,207",
-            ">5Years": "-",
-            "Total": "2,35,84,503"
-          },
-          {
-            "Particulars": "Long term borrowings",
-            "1Year": "-",
-            "1-5Years": "-",
-            ">5Years": "-",
-            "Total": "-"
-          },
-          {
-            "Particulars": "Short term borrowings",
-            "1Year": "-",
-            "1-5Years": "26,00,000",
-            ">5Years": "-",
-            "Total": "26,00,000"
-          },
-          {
-            "Particulars": "Other financial liabilities",
-            "1Year": "-",
-            "1-5Years": "-",
-            ">5Years": "-",
-            "Total": "-"
-          }
-        ]
-      },
-      {
-        "page": 85,
-        "table_index": 1,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "Assets",
-            "1 Year": "",
-            "1-5 Years": "",
-            ">5Years": "",
-            "Total": ""
-          },
-          {
-            "Particulars": "Trade receivables",
-            "1 Year": "6,08,82,623",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "6,08,82,623"
-          },
-          {
-            "Particulars": "Cash and cash equivalents",
-            "1 Year": "13,56,867",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "13,56,867"
-          },
-          {
-            "Particulars": "Bank balances",
-            "1 Year": "6,66,62,202",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "6,66,62,202"
-          },
-          {
-            "Particulars": "Loans and advances",
-            "1 Year": "-",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "-"
-          },
-          {
-            "Particulars": "Other financial assets",
-            "1 Year": "2,00,63,429",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "2,00,63,429"
-          },
-          {
-            "Particulars": "Liabilities",
-            "1 Year": "",
-            "1-5 Years": "",
-            ">5Years": "",
-            "Total": ""
-          },
-          {
-            "Particulars": "Trade payables",
-            "1 Year": "55,12,194",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "55,12,194"
-          },
-          {
-            "Particulars": "Long term borrowings",
-            "1 Year": "-",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "-"
-          },
-          {
-            "Particulars": "Short term borrowings",
-            "1 Year": "48,87,910",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "48,87,910"
-          },
-          {
-            "Particulars": "Other financial liabilities",
-            "1 Year": "-",
-            "1-5 Years": "-",
-            ">5Years": "-",
-            "Total": "-"
-          }
-        ]
-      },
-      {
-        "page": 85,
-        "table_index": 2,
-        "row_count": 16,
-        "rows": [
-          {
-            "Particulars": "",
-            "As at 31 March 2026": "Total carrying value",
-            "col_3": "Total fair value/ amortised cost",
-            "As at 31 March 2025": "Total carrying value",
-            "col_5": "Total fair value/ amortised cost"
-          },
-          {
-            "Particulars": "Financial assets",
-            "As at 31 March 2026": "",
-            "col_3": "",
-            "As at 31 March 2025": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Cash and cash equivalents",
-            "As at 31 March 2026": "43,73,302",
-            "col_3": "43,73,302",
-            "As at 31 March 2025": "13,56,867",
-            "col_5": "13,56,867"
-          },
-          {
-            "Particulars": "Other bank balances",
-            "As at 31 March 2026": "6,65,71,591",
-            "col_3": "6,65,71,591",
-            "As at 31 March 2025": "6,66,62,202",
-            "col_5": "6,66,62,202"
-          },
-          {
-            "Particulars": "Investments",
-            "As at 31 March 2026": "-",
-            "col_3": "-",
-            "As at 31 March 2025": "7,35,000",
-            "col_5": "7,35,000"
-          },
-          {
-            "Particulars": "Trade receivables",
-            "As at 31 March 2026": "5,35,55,392",
-            "col_3": "5,35,55,392",
-            "As at 31 March 2025": "6,08,82,623",
-            "col_5": "6,08,82,623"
-          },
-          {
-            "Particulars": "Loans",
-            "As at 31 March 2026": "6,99,75,328",
-            "col_3": "6,99,75,328",
-            "As at 31 March 2025": "-",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Other financial assets",
-            "As at 31 March 2026": "2,02,80,945",
-            "col_3": "2,02,80,945",
-            "As at 31 March 2025": "2,00,63,429",
-            "col_5": "2,00,63,429"
-          },
-          {
-            "Particulars": "Total",
-            "As at 31 March 2026": "21,64,22,581",
-            "col_3": "21,64,22,581",
-            "As at 31 March 2025": "15,28,00,194",
-            "col_5": "15,28,00,194"
-          },
-          {
-            "Particulars": "Financial liabilities",
-            "As at 31 March 2026": "",
-            "col_3": "",
-            "As at 31 March 2025": "",
-            "col_5": ""
-          },
-          {
-            "Particulars": "Trade payables",
-            "As at 31 March 2026": "2,35,84,503",
-            "col_3": "2,35,84,503",
-            "As at 31 March 2025": "55,12,194",
-            "col_5": "55,12,194"
-          },
-          {
-            "Particulars": "Long-term borrowings",
-            "As at 31 March 2026": "-",
-            "col_3": "-",
-            "As at 31 March 2025": "-",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Short-term borrowings",
-            "As at 31 March 2026": "26,00,000",
-            "col_3": "26,00,000",
-            "As at 31 March 2025": "48,87,910",
-            "col_5": "48,87,910"
-          },
-          {
-            "Particulars": "Lease Liabilities",
-            "As at 31 March 2026": "-",
-            "col_3": "-",
-            "As at 31 March 2025": "-",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Other financial liabilities",
-            "As at 31 March 2026": "-",
-            "col_3": "-",
-            "As at 31 March 2025": "-",
-            "col_5": "-"
-          },
-          {
-            "Particulars": "Total",
-            "As at 31 March 2026": "2,61,84,503",
-            "col_3": "2,61,84,503",
-            "As at 31 March 2025": "1,04,00,104",
-            "col_5": "1,04,00,104"
-          }
-        ]
-      },
-      {
-        "page": 86,
-        "table_index": 1,
-        "row_count": 3,
-        "rows": [
-          {
-            "Particulars": "Total Debt",
-            "2026": "3,50,09,777",
-            "2025": "2,25,81,638"
-          },
-          {
-            "Particulars": "Total Equity",
-            "2026": "23,43,71,209",
-            "2025": "13,53,29,581"
-          },
-          {
-            "Particulars": "Debt Equity Ratio",
-            "2026": "1:6.69",
-            "2025": "1:5.99"
-          }
-        ]
-      },
-      {
-        "page": 86,
-        "table_index": 2,
-        "row_count": 3,
-        "rows": [
-          {
-            "Particulars": "Contingent Liabilities",
-            "2026": "",
-            "2025": ""
-          },
-          {
-            "Particulars": "Guarantees",
-            "2026": "",
-            "2025": ""
-          },
-          {
-            "Particulars": "- Bank Guarantee",
-            "2026": "6,27,26,774",
-            "2025": "6,48,07,500"
-          }
-        ]
-      },
-      {
-        "page": 86,
-        "table_index": 3,
-        "row_count": 11,
-        "rows": [
-          {
-            "Ratio": "Current ratio (no of times)",
-            "Numerator": "Current Assets",
-            "Denominator": "Current Liabilities",
-            "As at 31 March 2026": "6.58",
-            "As at 31 March 2025": "6.91",
-            "Variance (in %)": "-8.68"
-          },
-          {
-            "Ratio": "Debt- Equity Ratio (no of times)",
-            "Numerator": "Total Debt",
-            "Denominator": "Shareholder’s Equity",
-            "As at 31 March 2026": "0.15",
-            "As at 31 March 2025": "0.16",
-            "Variance (in %)": "-6.25"
-          },
-          {
-            "Ratio": "Debt Service Coverage ratio (no of times)",
-            "Numerator": "Operating Income",
-            "Denominator": "Debt service",
-            "As at 31 March 2026": "-",
-            "As at 31 March 2025": "-",
-            "Variance (in %)": "0.00"
-          },
-          {
-            "Ratio": "Return on Equity ratio (%)",
-            "Numerator": "Net Profits after taxes",
-            "Denominator": "Average Shareholder’s Equity",
-            "As at 31 March 2026": "0.08",
-            "As at 31 March 2025": "-0.09",
-            "Variance (in %)": "188.89"
-          },
-          {
-            "Ratio": "Inventory Turnover ratio (no of times)",
-            "Numerator": "Cost of goods sold",
-            "Denominator": "Average Inventory",
-            "As at 31 March 2026": "-",
-            "As at 31 March 2025": "-",
-            "Variance (in %)": "-"
-          },
-          {
-            "Ratio": "Trade Receivable Turnover Ratio (no of times)",
-            "Numerator": "Revenue",
-            "Denominator": "Average Trade Receivable",
-            "As at 31 March 2026": "3.39",
-            "As at 31 March 2025": "0.94",
-            "Variance (in %)": "260.64"
-          },
-          {
-            "Ratio": "Trade Payable Turnover Ratio (no of times)",
-            "Numerator": "Net credit purchases",
-            "Denominator": "Average Trade Payables",
-            "As at 31 March 2026": "19.05",
-            "As at 31 March 2025": "-34.28",
-            "Variance (in %)": "155.57"
-          },
-          {
-            "Ratio": "Net Capital Turnover Ratio (no of times)",
-            "Numerator": "Revenue",
-            "Denominator": "Working capital",
-            "As at 31 March 2026": "1.12",
-            "As at 31 March 2025": "0.46",
-            "Variance (in %)": "143.48"
-          },
-          {
-            "Ratio": "Net Profit ratio (%)",
-            "Numerator": "Net Profit",
-            "Denominator": "Revenue",
-            "As at 31 March 2026": "0.07",
-            "As at 31 March 2025": "-0.21",
-            "Variance (in %)": "133.33"
-          },
-          {
-            "Ratio": "Return on Capital Employed (%)",
-            "Numerator": "Earnings before interest and taxes",
-            "Denominator": "Capital Employed",
-            "As at 31 March 2026": "0.06",
-            "As at 31 March 2025": "-0.09",
-            "Variance (in %)": "166.67"
-          },
-          {
-            "Ratio": "Return on Investment (%)",
-            "Numerator": "Income generated from investments",
-            "Denominator": "Time weighted average investments",
-            "As at 31 March 2026": "-",
-            "As at 31 March 2025": "-",
-            "Variance (in %)": "-"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "ff83d444-d885-4402-b01b-56a0edc68840",
-    "SCRIP_CD": 544370,
-    "XML_NAME": "ANN_544370_FF83D444-D885-4402-B01B-56A0EDC68840",
-    "NEWSSUB": "Nukleus Office Solutions Ltd - 544370 - Announcement under Regulation 30 (LODR)-Amendments to Memorandum & Articles of Association",
-    "DT_TM": "2026-10-31T13:55:17.913",
-    "NEWS_DT": "2026-10-31T13:55:17.913",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ba349951-97e8-492c-a071-2bee88850cec.pdf",
-    "MORE": "",
-    "HEADLINE": "As enclosed herewith.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/nukleus-office-solutions-ltd/nukleus/544370/",
-    "SLONGNAME": "Nukleus Office Solutions Ltd",
-    "AGENDA_ID": 113,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:55:17",
-    "DissemDT": "2026-10-31T13:55:17.913",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4659025,
-    "SUBCATNAME": "Amendments to Memorandum & Articles of Association",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ddd72d12-e0a2-42b2-a19f-ae216e2503b7",
-    "SCRIP_CD": 526073,
-    "XML_NAME": "ANN_526073_DDD72D12-E0A2-42B2-A19F-AE216E2503B7",
-    "NEWSSUB": "Galaxy Bearings Ltd - 526073 - Update/Disclosure Under Regulation 30- Execution Of Tranche 2 Of Industrial Land",
-    "DT_TM": "2026-10-31T13:54:48.893",
-    "NEWS_DT": "2026-10-31T13:54:48.893",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5d2e84e0-0de7-4953-9f1b-f815d781de9b.pdf",
-    "MORE": "",
-    "HEADLINE": "In continuance of our earlier disclosure please find the update over the same as per attached file herewith.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/galaxy-bearings-ltd/galxbrg/526073/",
-    "SLONGNAME": "Galaxy Bearings Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:54:48",
-    "DissemDT": "2026-10-31T13:54:48.893",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1237359,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ba963ac6-3de6-402e-bae9-5b2e7b037378",
-    "SCRIP_CD": 543720,
-    "XML_NAME": "ANN_543720_BA963AC6-3DE6-402E-BAE9-5B2E7B037378",
-    "NEWSSUB": "KFin Technologies Ltd - 543720 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-    "DT_TM": "2026-10-31T13:52:50.43",
-    "NEWS_DT": "2026-10-31T13:52:50.43",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "68f4b642-f5cb-42c4-bfb7-1b9e02572185.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find attached Intimation of allotment of Equity Shares pursuant to exercise of options by the eligible grantees",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kfin-technologies-ltd/kfintech/543720/",
-    "SLONGNAME": "KFin Technologies Ltd",
-    "AGENDA_ID": 115,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:52:50",
-    "DissemDT": "2026-10-31T13:52:50.43",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 343746,
-    "SUBCATNAME": "Allotment of ESOP / ESPS",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "990df1e2-d1f0-480e-8eeb-79212e399265",
-    "SCRIP_CD": 538817,
-    "XML_NAME": "ANN_538817_990DF1E2-D1F0-480E-8EEB-79212E399265",
-    "NEWSSUB": "Captain Pipes Ltd - 538817 - Board Meeting Outcome for Financial Results For The Quarter And Half Year Ended On 30.09.2026",
-    "DT_TM": "2026-10-31T13:49:20.633",
-    "NEWS_DT": "2026-10-31T13:49:20.633",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b8c655a3-a17c-4ca8-b9ee-2340b03af529.pdf",
-    "MORE": "",
-    "HEADLINE": "Financial results for the quarter and half year ended on 30.09.2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/captain-pipes-ltd/cappipes/538817/",
-    "SLONGNAME": "Captain Pipes Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:49:17",
-    "DissemDT": "2026-10-31T13:49:20.633",
-    "TimeDiff": "00:00:03",
-    "Fld_Attachsize": 6579873,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3e91930e-3199-4bed-a817-b211a0cd2ecf",
-    "SCRIP_CD": 544184,
-    "XML_NAME": "ANN_544184_3E91930E-3199-4BED-A817-B211A0CD2ECF",
-    "NEWSSUB": "Borosil Scientific Ltd - 544184 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-31T13:48:30.89",
-    "NEWS_DT": "2026-10-31T13:48:30.89",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c95f1a63-93b0-4667-90f4-d324012c411f.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation for the quarter & half year ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/borosil-scientific-ltd/borosci/544184/",
-    "SLONGNAME": "Borosil Scientific Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:48:30",
-    "DissemDT": "2026-10-31T13:48:30.89",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4633858,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Borosil Scientific Ltd. filed a Regulation 30 announcement on 31 Oct 2026, attaching an investor presentation that reviews the company’s performance for the quarter and half‑year ended 30 Sept 2026 (Q2 FY27).  \n- The announcement contains no specific financial figures, dates of transactions, or decisions – it only references the presentation (also posted on the company’s website) without disclosing any quantitative details.",
-    "key_metrics": {
-      "revenue": "104.2",
-      "net_profit": "6.2",
-      "operating_profit": "11.7",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "Particulars (₹ in Crs)",
-            "Standalone": "Q2FY27",
-            "col_3": "Q1FY27",
-            "col_4": "Q2FY26",
-            "col_5": "YoY%",
-            "Consolidated": "Q2FY27",
-            "col_7": "Q1FY27",
-            "col_8": "Q2FY26",
-            "col_9": "YoY%"
-          },
-          {
-            "col_1": "Net Sales",
-            "Standalone": "104.2",
-            "col_3": "99.9",
-            "col_4": "99.5",
-            "col_5": "4.7%",
-            "Consolidated": "115.0",
-            "col_7": "106.8",
-            "col_8": "106.9",
-            "col_9": "7.5%"
-          },
-          {
-            "col_1": "EBITDA",
-            "Standalone": "11.7",
-            "col_3": "11.5",
-            "col_4": "13.0",
-            "col_5": "-9.7%",
-            "Consolidated": "11.0",
-            "col_7": "8.7",
-            "col_8": "8.5",
-            "col_9": "29.4%"
-          },
-          {
-            "col_1": "EBITDA (%) EBIT PBT",
-            "Standalone": "11.3% 6.9 8.9",
-            "col_3": "11.5% 7.0 9.3",
-            "col_4": "13.1% 8.6 10.1",
-            "col_5": "-19.3% -11.8%",
-            "Consolidated": "9.6% 5.8 7.7",
-            "col_7": "8.2% 3.8 6.0",
-            "col_8": "8.0% 3.7 5.1",
-            "col_9": "57.0% 49.5%"
-          },
-          {
-            "col_1": "PAT",
-            "Standalone": "6.2",
-            "col_3": "6.8",
-            "col_4": "7.5",
-            "col_5": "-16.9%",
-            "Consolidated": "5.3",
-            "col_7": "4.4",
-            "col_8": "2.9",
-            "col_9": "86.3%"
-          },
-          {
-            "col_1": "Net Debt (period end)",
-            "Standalone": "(133.9)",
-            "col_3": "(143.3)",
-            "col_4": "(113.8)",
-            "col_5": "",
-            "Consolidated": "(129.5)",
-            "col_7": "(136.8)",
-            "col_8": "(107.6)",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 1,
-        "row_count": 8,
-        "rows": [
-          {
-            "col_1": "Particulars (₹ in Crs)",
-            "Standalone": "H1FY27",
-            "col_3": "H1FY26",
-            "col_4": "YoY%",
-            "Consolidated": "H1FY27",
-            "col_6": "H1FY26",
-            "col_7": "YoY%"
-          },
-          {
-            "col_1": "Net Sales",
-            "Standalone": "204.1",
-            "col_3": "188.5",
-            "col_4": "8.3%",
-            "Consolidated": "221.7",
-            "col_6": "202.9",
-            "col_7": "9.3%"
-          },
-          {
-            "col_1": "EBITDA",
-            "Standalone": "23.2",
-            "col_3": "22.9",
-            "col_4": "1.3%",
-            "Consolidated": "19.8",
-            "col_6": "14.3",
-            "col_7": "37.8%"
-          },
-          {
-            "col_1": "EBITDA%",
-            "Standalone": "11.4%",
-            "col_3": "12.2%",
-            "col_4": "",
-            "Consolidated": "8.9%",
-            "col_6": "7.1%",
-            "col_7": ""
-          },
-          {
-            "col_1": "EBIT",
-            "Standalone": "13.9",
-            "col_3": "14.0",
-            "col_4": "-0.7%",
-            "Consolidated": "9.6",
-            "col_6": "4.6",
-            "col_7": "107.8%"
-          },
-          {
-            "col_1": "PBT",
-            "Standalone": "18.2",
-            "col_3": "17.4",
-            "col_4": "4.8%",
-            "Consolidated": "13.7",
-            "col_6": "7.7",
-            "col_7": "78.0%"
-          },
-          {
-            "col_1": "PAT",
-            "Standalone": "13.1",
-            "col_3": "8.0",
-            "col_4": "64.1%",
-            "Consolidated": "9.7",
-            "col_6": "-1.4",
-            "col_7": "810.3%"
-          },
-          {
-            "col_1": "Net Debt (period end)",
-            "Standalone": "(133.9)",
-            "col_3": "(113.8)",
-            "col_4": "",
-            "Consolidated": "(129.5)",
-            "col_6": "(107.6)",
-            "col_7": ""
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "Particulars (₹ in Crs)",
-            "Consolidated": "Q2FY27",
-            "col_3": "Q1FY27",
-            "col_4": "Q2FY26",
-            "col_5": "YoY%",
-            "col_6": "H1FY27",
-            "col_7": "H1FY26",
-            "col_8": "YoY%"
-          },
-          {
-            "col_1": "Scientific Segment Lab Consumables Lab Equipments Process System Sub Total Primary Pharma Packaging Consumer Glassware Overall Total",
-            "Consolidated": "55.3 47.6 54.2 2.2% 11.3 12.3 11.3 0.0% 12.4 8.5 7.6 64.6%",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "102.9 100.7 2.2% 23.6 20.7 14.2% 21.0 15.4 36.1%",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "Consolidated": "79.1",
-            "col_3": "68.4",
-            "col_4": "73.0",
-            "col_5": "8.3%",
-            "col_6": "147.4",
-            "col_7": "136.7",
-            "col_8": "7.8%"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "21.0",
-            "col_3": "23.1",
-            "col_4": "17.3",
-            "col_5": "21.4%",
-            "col_6": "44.0",
-            "col_7": "34.8",
-            "col_8": "26.6%"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "15.0",
-            "col_3": "15.3",
-            "col_4": "16.7",
-            "col_5": "-10.2%",
-            "col_6": "30.3",
-            "col_7": "31.4",
-            "col_8": "-3.5%"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "115.0",
-            "col_3": "106.8",
-            "col_4": "106.9",
-            "col_5": "7.6%",
-            "col_6": "221.7",
-            "col_7": "202.9",
-            "col_8": "9.3%"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "e4f9c174-caa0-41d0-9dc2-b8a0d8911632",
-    "SCRIP_CD": 544370,
-    "XML_NAME": "ANN_544370_E4F9C174-CAA0-41D0-9DC2-B8A0D8911632",
-    "NEWSSUB": "Nukleus Office Solutions Ltd - 544370 - Results - Half Yearly (30Th September 2026)",
-    "DT_TM": "2026-10-31T13:48:29.597",
-    "NEWS_DT": "2026-10-31T13:48:29.597",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d638f271-aa3f-4fca-815d-46cbf7199a43.pdf",
-    "MORE": "",
-    "HEADLINE": "As enclosed herewith.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/nukleus-office-solutions-ltd/nukleus/544370/",
-    "SLONGNAME": "Nukleus Office Solutions Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:48:29",
-    "DissemDT": "2026-10-31T13:48:29.597",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4659025,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2299.19",
-      "total_debt": "3434.62",
-      "eps": "9",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Reason for change viz. appointment, re-appointment, resignation, removal, death or otherwise",
-            "Details": "Resignation"
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Name and designation",
-            "Details": "Mr. Anurag Gupta, Lead Manager – Facilities (Facilities Head), Senior Management"
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Date of appointment / re- appointment / cessation (as applicable) & term of appointment / re-appointment",
-            "Details": "Cessation with effect from the close of business hours on 30th October 2026 (resignation letter dated 5th October 2026)"
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Reason for resignation as stated in the letter",
-            "Details": "As stated in the resignation letter"
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Brief profile (in case of appointment)",
-            "Details": "Not applicable"
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Disclosure of relationships between directors (in case of appointment of a director)",
-            "Details": "Not applicable"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Approval required",
-            "Details": "Approval of the Members by Special Resolution through Postal Ballot (remote e-voting) under Sections 13(1) and 110 of the Companies Act, 2013."
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Effective date",
-            "Details": "Upon approval of the Members and registration of the altered Memorandum of Association with the Registrar of Companies (Section 13(2)); Form MGT-14 to be filed within 30 days."
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Objects stated in the prospectus / offer document",
-            "Details": "The proposed objects do not vary the objects stated in the prospectus / offer document of the Company’s public issue; Sections 13(8) and 27 of the Companies Act, 2013 are not attracted."
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Full text of the alteration",
-            "Details": "To be set out in the Postal Ballot Notice and Explanatory Statement."
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Amendments to the Memorandum of Association, in brief",
-            "Details": "Increase in the Authorised Share Capital and consequent substitution of Clause V (Capital Clause) of the Memorandum of Association."
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Existing Authorised Share Capital",
-            "Details": "₹6,00,00,000/- (Rupees Six Crore only) divided into 60,00,000 equity shares of ₹10/- each."
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Proposed Authorised Share Capital",
-            "Details": "₹12,00,00,000/- (Rupees Twelve Crore only) divided into 1,20,00,000 equity shares of ₹10/- each, by creation of 60,00,000 additional equity shares of ₹10/- each ranking pari passu with the existing equity shares."
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Proposed Clause V of the Memorandum of Association",
-            "Details": "“V. The Authorised Share Capital of the Company is ₹12,00,00,000/- (Rupees Twelve Crore only) divided into 1,20,00,000 (One Crore Twenty Lakh) equity shares of ₹10/- (Rupees Ten) each.”"
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Approval required",
-            "Details": "Approval of the Members by Ordinary Resolution through Postal Ballot (remote e-voting) under Section 61 of the Companies Act, 2013."
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Effective date",
-            "Details": "Upon approval of the Members; Form SH-7 to be filed within 30 days under Section 64 along with the altered Memorandum of Association, together with Form MGT-14 as applicable."
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Half year Ended": "30th September 2026",
-            "col_3": "31st March 2026",
-            "col_4": "30th September 2025",
-            "col_5": "31st March 2026"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "Rs. in Lakhs",
-            "col_3": "Rs. in Lakhs",
-            "col_4": "Rs. in Lakhs",
-            "col_5": "Rs. in Lakhs"
-          },
-          {
-            "Particulars": "Income Revenue from operations Other income Total Income Expenses Direct cost Employee benefits expense Finance cost Depreciation and amortisation expense Other expenses Total expenses Profit / (Loss) before exceptional and extraordinary items and tax Exceptional items Profit / (Loss) before extraordinary items and tax Extraordinary items Prior period items Profit / (Loss) before tax Tax expense 1. current tax / minimum alternative tax 2. minimum alternative tax entitlement 3. deferred tax (Asset) / Liabilities Profit / (Loss) for the period from continuing operations Profit / (Loss) for the period Earning per equity share Basic Diluted",
-            "For the Half year Ended": "2,299.19 18.06",
-            "col_3": "1 ,856.36 3 1.99",
-            "col_4": "1,691.49 39.57",
-            "col_5": "3,547.85 71.56"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "2,317.25",
-            "col_3": "1 ,888.35",
-            "col_4": "1,731.06",
-            "col_5": "3,619.41"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "1,320.54 240.86 49.21 171.22 343.54",
-            "col_3": "9 36.03 1 82.17 6 3.87 3 09.75 2 62.28",
-            "col_4": "911.23 172.98 36.64 221.42 237.38",
-            "col_5": "1,847.26 355.14 100.50 531.17 499.66"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "2,125.36",
-            "col_3": "1 ,754.09",
-            "col_4": "1,579.65",
-            "col_5": "3,333.74"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "191.89 - 191.89 - - 191.89 44.67 3 .24 143.98 143.98 3.57 3.57",
-            "col_3": "1 34.25 - 1 34.25 - - 1 34.25 7 1.75 ( 34.69) 9 7.20 9 7.20 2 .41 2 .41",
-            "col_4": "151.42 - 151.42 - - 151.42 63.58 (28.49) 116.33 116.33 2.89 2.89",
-            "col_5": "285.67 - 285.67 - - 285.67 135.32 (63.18) 213.53 213.53 5.30 5.30"
-          },
-          {
-            "Particulars": "Number of shares used in computing earnings per share Basic Diluted",
-            "For the Half year Ended": "40,32,000 40,32,000",
-            "col_3": "4 0,32,000 4 0,32,000",
-            "col_4": "40,32,000 40,32,000",
-            "col_5": "40,32,000 40,32,000"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "6ac9fb0e-7dcd-41d2-a8fa-128265490a20",
-    "SCRIP_CD": 538742,
-    "XML_NAME": "ANN_538742_6AC9FB0E-7DCD-41D2-A8FA-128265490A20",
-    "NEWSSUB": "Panabyte Technologies Ltd - 538742 - Disclosure Under Reg. 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-10-31T13:48:16.363",
-    "NEWS_DT": "2026-10-31T13:48:16.363",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "25c25d27-8204-402f-bd13-fead848c4e94.pdf",
-    "MORE": "Pursuant to Regulation 30 read with Para A of Part A of Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that 3,50,000 warrants have been lapsed due to non-receipt of balance 75% amount within a period of 18 months from the date of allotment of warrants and 25% amount received at the time of allotment has been forfeited as per Regulation 169(3) of Chapter V of SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.",
-    "HEADLINE": "Pursuant to Regulation 30 read with Para A of Part A of Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that 3,50,000 warrants ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/panabyte-technologies-ltd/panabyte/538742/",
-    "SLONGNAME": "Panabyte Technologies Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:48:16",
-    "DissemDT": "2026-10-31T13:48:16.363",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 593127,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "04e271ee-b5e0-4991-a0ab-9b54239687bc",
-    "SCRIP_CD": 530879,
-    "XML_NAME": "ANN_530879_04E271EE-B5E0-4991-A0AB-9B54239687BC",
-    "NEWSSUB": "Capital India Finance Ltd - 530879 - Board Meeting Intimation for Board Meeting To Be Held On November 06, 2026",
-    "DT_TM": "2026-10-31T13:47:50.22",
-    "NEWS_DT": "2026-10-31T13:47:50.22",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "98cdf386-8b7d-4f20-8148-b26cc83287b4.pdf",
-    "MORE": "Capital India Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026 ,inter alia, to consider and approve the Unaudited Financial Results of the Company (both Standalone and Consolidated) for the quarter and half year ended on September 30, 2026.",
-    "HEADLINE": "Capital India Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 06/11/2026 ,inter alia, to consider and approve the Unaudited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/capital-india-finance-ltd/cifl/530879/",
-    "SLONGNAME": "Capital India Finance Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:47:49",
-    "DissemDT": "2026-10-31T13:47:50.22",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 168699,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a0bbd39a-1414-4216-b08b-2a37be2a12c8",
-    "SCRIP_CD": 511549,
-    "XML_NAME": "ANN_511549_A0BBD39A-1414-4216-B08B-2A37BE2A12C8",
-    "NEWSSUB": "Morarka Finance Ltd - 511549 - Reg. 34 (1) Annual Report.",
-    "DT_TM": "2026-10-31T13:47:41.93",
-    "NEWS_DT": "2026-10-31T13:47:41.93",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5ca2dde4-b575-42a4-99ef-73fb3cfb6526.pdf",
-    "MORE": "",
-    "HEADLINE": "As per Attachment",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/morarka-finance-ltd/morarkfi/511549/",
-    "SLONGNAME": "Morarka Finance Ltd",
-    "AGENDA_ID": 176,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:47:41",
-    "DissemDT": "2026-10-31T13:47:41.93",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1771361,
-    "SUBCATNAME": "Reg. 34 (1) Annual Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "17.57",
-      "net_profit": "143.04",
-      "total_assets": "11699.54",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 55,
-        "table_index": 1,
-        "row_count": 18,
-        "rows": [
-          {
-            "Category": "Promoters",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "",
-            "%": ""
-          },
-          {
-            "Category": "*",
-            "col_2": "Indian",
-            "No. of Shares of ` 10/- each": "7,96,510",
-            "%": "17.692"
-          },
-          {
-            "Category": "*",
-            "col_2": "Foreign",
-            "No. of Shares of ` 10/- each": "-",
-            "%": "-"
-          },
-          {
-            "Category": "Promoters – Bodies Corporate",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "22,09,854",
-            "%": "49.085"
-          },
-          {
-            "Category": "Mutual Funds",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "-",
-            "%": "-"
-          },
-          {
-            "Category": "Banks",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "-",
-            "%": "-"
-          },
-          {
-            "Category": "Indian Institutional Investors",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "-",
-            "%": "-"
-          },
-          {
-            "Category": "Foreign Institutional Investors",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "-",
-            "%": "-"
-          },
-          {
-            "Category": "Other Bodies Corporate",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "54083",
-            "%": "1.2013"
-          },
-          {
-            "Category": "General Public",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "1135043",
-            "%": "25.2114"
-          },
-          {
-            "Category": "Non Resident (Non Repatriable)",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "31200",
-            "%": "0.693"
-          },
-          {
-            "Category": "Non Resident Indians",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "3847",
-            "%": "0.0854"
-          },
-          {
-            "Category": "Body Corporate - Ltd Liability Partnership",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "201",
-            "%": "0.0045"
-          },
-          {
-            "Category": "HUF",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "48554",
-            "%": "1.0785"
-          },
-          {
-            "Category": "IEPF",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "200115",
-            "%": "4.4449"
-          },
-          {
-            "Category": "Directors & their relatives (excluding independent directors and nominee directors)",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "22,690",
-            "%": "0.504"
-          },
-          {
-            "Category": "Key Managerial Personnel",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "3",
-            "%": "-"
-          },
-          {
-            "Category": "Total",
-            "col_2": "",
-            "No. of Shares of ` 10/- each": "45,02,100",
-            "%": "100.00"
-          }
-        ]
-      },
-      {
-        "page": 56,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Financial Year": "2004-05",
-            "Equity Dividend Rate": "15%",
-            "Dividend Declaration Date": "29/09/2005"
-          },
-          {
-            "Financial Year": "2005-06",
-            "Equity Dividend Rate": "5%",
-            "Dividend Declaration Date": "26/09/2006"
-          },
-          {
-            "Financial Year": "2006-07",
-            "Equity Dividend Rate": "5%",
-            "Dividend Declaration Date": "27/07/2007"
-          },
-          {
-            "Financial Year": "2017-18",
-            "Equity Dividend Rate": "10%",
-            "Dividend Declaration Date": "28/09/2018"
-          },
-          {
-            "Financial Year": "2020-21",
-            "Equity Dividend Rate": "10%",
-            "Dividend Declaration Date": "05/08/2021"
-          },
-          {
-            "Financial Year": "2021-22",
-            "Equity Dividend Rate": "40%",
-            "Dividend Declaration Date": "28/06/2022"
-          },
-          {
-            "Financial Year": "2022-23",
-            "Equity Dividend Rate": "50%",
-            "Dividend Declaration Date": "26/09/2023"
-          },
-          {
-            "Financial Year": "2023-24",
-            "Equity Dividend Rate": "60%",
-            "Dividend Declaration Date": "23/09/2024"
-          },
-          {
-            "Financial Year": "2024-25",
-            "Equity Dividend Rate": "10%",
-            "Dividend Declaration Date": "24/09/2025"
-          }
-        ]
-      },
-      {
-        "page": 57,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Dividend for the year": "2017-18",
-            "Amount of Dividend (`)": "45,02,100",
-            "Amount of unpaid dividend as on 31.03.2026 (`)": "1,74,248.00",
-            "Due Date of transfer to IEPF": "03/11/2025 (transferred to IEPF)"
-          },
-          {
-            "Dividend for the year": "2020-21",
-            "Amount of Dividend (`)": "45,02,100",
-            "Amount of unpaid dividend as on 31.03.2026 (`)": "63,991.00",
-            "Due Date of transfer to IEPF": "09/09/2028"
-          },
-          {
-            "Dividend for the year": "2021-22",
-            "Amount of Dividend (`)": "180,08,400",
-            "Amount of unpaid dividend as on 31.03.2026 (`)": "2,77,548.41",
-            "Due Date of transfer to IEPF": "03/08/2029"
-          },
-          {
-            "Dividend for the year": "2022-23",
-            "Amount of Dividend (`)": "2,25,10,500",
-            "Amount of unpaid dividend as on 31.03.2026 (`)": "3,50,765.00",
-            "Due Date of transfer to IEPF": "01/11/2030"
-          },
-          {
-            "Dividend for the year": "2023-24",
-            "Amount of Dividend (`)": "2,70,12,600",
-            "Amount of unpaid dividend as on 31.03.2026 (`)": "5,08,662.00",
-            "Due Date of transfer to IEPF": "29/10/2031"
-          },
-          {
-            "Dividend for the year": "2024-25",
-            "Amount of Dividend (`)": "45,02,100",
-            "Amount of unpaid dividend as on 31.03.2026 (`)": "86,398.00",
-            "Due Date of transfer to IEPF": "30/10/2032"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "1b2bfb80-7cd2-41d5-90b0-987c164b989a",
-    "SCRIP_CD": 531585,
-    "XML_NAME": "ANN_531585_1B2BFB80-7CD2-41D5-90B0-987C164B989A",
-    "NEWSSUB": "Devine Impex Ltd - 531585 - Unaudited Financial Results For The Quarter And Half Year Ended 30.09.2026",
-    "DT_TM": "2026-10-31T13:46:57.757",
-    "NEWS_DT": "2026-10-31T13:46:57.757",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7d58fb30-27b7-48c3-9744-62956e3bcb92.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of unaudited financial results for the quarter and half year ended 30.09.2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/devine-impex-ltd/devine/531585/",
-    "SLONGNAME": "Devine Impex Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:46:57",
-    "DissemDT": "2026-10-31T13:46:57.757",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2639406,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_assets": "1380.83",
-      "total_equity": "1377.57",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f6ffdca0-ad1a-431b-a75e-74787ed79be2",
-    "SCRIP_CD": 531585,
-    "XML_NAME": "ANN_531585_F6FFDCA0-AD1A-431B-A75E-74787ED79BE2",
-    "NEWSSUB": "Devine Impex Ltd - 531585 - Board Meeting Outcome for Outcome Of Board Meeting 31.10.2026",
-    "DT_TM": "2026-10-31T13:46:08.16",
-    "NEWS_DT": "2026-10-31T13:46:08.16",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7116af5a-d948-4093-9a5f-f1c71f17e3bc.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of outcome of Board Meeting",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/devine-impex-ltd/devine/531585/",
-    "SLONGNAME": "Devine Impex Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:46:06",
-    "DissemDT": "2026-10-31T13:46:08.16",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 2818491,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_assets": "1380.83",
-      "total_equity": "1377.57",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e73ac6fc-cc1e-40e5-8173-0db297d49f60",
-    "SCRIP_CD": 543860,
-    "XML_NAME": "ANN_543860_E73AC6FC-CC1E-40E5-8173-0DB297D49F60",
-    "NEWSSUB": "J.A. Finance Ltd - 543860 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-31T13:45:52.517",
-    "NEWS_DT": "2026-10-31T13:45:52.517",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "19afcc1c-8b87-47e4-9d8c-a5efa9bc6c3d.pdf",
-    "MORE": "",
-    "HEADLINE": "Newpaper Publication",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ja-finance-ltd/jafinance/543860/",
-    "SLONGNAME": "J.A. Finance Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:45:52",
-    "DissemDT": "2026-10-31T13:45:52.517",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3820834,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "492aa4ea-47d0-412a-86fa-09b400e73ef4",
-    "SCRIP_CD": 538923,
-    "XML_NAME": "ANN_538923_492AA4EA-47D0-412A-86FA-09B400E73EF4",
-    "NEWSSUB": "Sofcom Systems Ltd - 538923 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-10-31T13:45:25.75",
-    "NEWS_DT": "2026-10-31T13:45:25.75",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d59efdc6-403c-4dcb-9579-fceb1049e4c6.pdf",
-    "MORE": "",
-    "HEADLINE": "As per the attachment",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sofcom-systems-ltd/sofcom/538923/",
-    "SLONGNAME": "Sofcom Systems Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:45:25",
-    "DissemDT": "2026-10-31T13:45:25.75",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 323736,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- On 30 October 2026, Sofcom Systems Ltd. received a notice from BSE Limited for failing to submit its Annual Report within the prescribed period (Regulation 34, SEBI LODR); the exchange imposed a monetary penalty of **₹4,000** plus applicable GST of **₹720**, totalling **₹4,720**.  \n- The company stated it will review the notice, present the matter to its Board of Directors at the next board meeting, and take appropriate corrective steps; the only quantifiable financial impact disclosed is the fine of **₹",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7e7b4844-adec-4e26-b1d3-be0e5d91b699",
-    "SCRIP_CD": 539246,
-    "XML_NAME": "ANN_539246_7E7B4844-ADEC-4E26-B1D3-BE0E5D91B699",
-    "NEWSSUB": "Atma Industries Ltd - 539246 - Board Meeting Intimation for Considering And Approving The Un-Audited Financial Results For The Quarter And Half Year Ended 30.09.2026",
-    "DT_TM": "2026-10-31T13:45:22.93",
-    "NEWS_DT": "2026-10-31T13:45:22.93",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "96e1dd42-1067-461a-bb22-e11056b74fd5.pdf",
-    "MORE": "Atma Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the un-audited financial results for the quarter and half year ended 30.09.2026 and other matter as maybe approved by the chairman of the meeting",
-    "HEADLINE": "Atma Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the un-audited financial results ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/atma-industries-ltd/atmaind/539246/",
-    "SLONGNAME": "Atma Industries Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:45:22",
-    "DissemDT": "2026-10-31T13:45:22.93",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 304351,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9eba82fc-77b2-4438-8ee9-cd2541b71f08",
-    "SCRIP_CD": 536974,
-    "XML_NAME": "ANN_536974_9EBA82FC-77B2-4438-8EE9-CD2541B71F08",
-    "NEWSSUB": "Captain Polyplast Ltd - 536974 - Board Meeting Outcome for Financial Results For The Quarter And Half Year Ended On 30.09.2026",
-    "DT_TM": "2026-10-31T13:44:47.24",
-    "NEWS_DT": "2026-10-31T13:44:47.24",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b7ffe7c6-e7cc-45d2-a0f3-e00865f8fd58.pdf",
-    "MORE": "",
-    "HEADLINE": "Financial results for the quarter and half year ended on 30.09.2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/captain-polyplast-ltd/cpl/536974/",
-    "SLONGNAME": "Captain Polyplast Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:44:44",
-    "DissemDT": "2026-10-31T13:44:47.24",
-    "TimeDiff": "00:00:03",
-    "Fld_Attachsize": 6027127,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "10593.79",
-      "total_equity": "20062.86",
-      "total_debt": "455.25",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3d9fe7fd-45bb-41d0-8db8-6895cd7daca0",
-    "SCRIP_CD": 530959,
-    "XML_NAME": "ANN_530959_3D9FE7FD-45BB-41D0-8DB8-6895CD7DACA0",
-    "NEWSSUB": "Diana Tea Company Ltd - 530959 - Board Meeting Intimation for Consideration And Approval Of The Unaudited Financial Results For The Quarter And Half Year Ended 30Th September, 2026, To Be Held On Thursday, 5Th November, 2026.",
-    "DT_TM": "2026-10-31T13:44:26.703",
-    "NEWS_DT": "2026-10-31T13:44:26.703",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c3a414bc-c8e6-49b0-b8bb-3a1a68579d2a.pdf",
-    "MORE": "Diana Tea Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve the Unaudited Financial Results of the Company for the quarter and half year ended 30th September, 2026.",
-    "HEADLINE": "Diana Tea Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve the Unaudited Financial Results ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/diana-tea-company-ltd/dianatea/530959/",
-    "SLONGNAME": "Diana Tea Company Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:44:22",
-    "DissemDT": "2026-10-31T13:44:26.703",
-    "TimeDiff": "00:00:04",
-    "Fld_Attachsize": 707805,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4065fb53-4752-4447-8660-ef38e838889d",
-    "SCRIP_CD": 544370,
-    "XML_NAME": "ANN_544370_4065FB53-4752-4447-8660-EF38E838889D",
-    "NEWSSUB": "Nukleus Office Solutions Ltd - 544370 - Board Meeting Outcome for As Enclosed Herewith.",
-    "DT_TM": "2026-10-31T13:39:46.427",
-    "NEWS_DT": "2026-10-31T13:39:46.427",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2332b5ac-b0d8-4165-a37e-1be0a7f0330b.pdf",
-    "MORE": "",
-    "HEADLINE": "As enclosed herewith.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/nukleus-office-solutions-ltd/nukleus/544370/",
-    "SLONGNAME": "Nukleus Office Solutions Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:39:18",
-    "DissemDT": "2026-10-31T13:39:46.427",
-    "TimeDiff": "00:00:28",
-    "Fld_Attachsize": 4659025,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2299.19",
-      "total_debt": "3434.62",
-      "eps": "9",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Reason for change viz. appointment, re-appointment, resignation, removal, death or otherwise",
-            "Details": "Resignation"
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Name and designation",
-            "Details": "Mr. Anurag Gupta, Lead Manager – Facilities (Facilities Head), Senior Management"
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Date of appointment / re- appointment / cessation (as applicable) & term of appointment / re-appointment",
-            "Details": "Cessation with effect from the close of business hours on 30th October 2026 (resignation letter dated 5th October 2026)"
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Reason for resignation as stated in the letter",
-            "Details": "As stated in the resignation letter"
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Brief profile (in case of appointment)",
-            "Details": "Not applicable"
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Disclosure of relationships between directors (in case of appointment of a director)",
-            "Details": "Not applicable"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Approval required",
-            "Details": "Approval of the Members by Special Resolution through Postal Ballot (remote e-voting) under Sections 13(1) and 110 of the Companies Act, 2013."
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Effective date",
-            "Details": "Upon approval of the Members and registration of the altered Memorandum of Association with the Registrar of Companies (Section 13(2)); Form MGT-14 to be filed within 30 days."
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Objects stated in the prospectus / offer document",
-            "Details": "The proposed objects do not vary the objects stated in the prospectus / offer document of the Company’s public issue; Sections 13(8) and 27 of the Companies Act, 2013 are not attracted."
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Full text of the alteration",
-            "Details": "To be set out in the Postal Ballot Notice and Explanatory Statement."
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Amendments to the Memorandum of Association, in brief",
-            "Details": "Increase in the Authorised Share Capital and consequent substitution of Clause V (Capital Clause) of the Memorandum of Association."
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Existing Authorised Share Capital",
-            "Details": "₹6,00,00,000/- (Rupees Six Crore only) divided into 60,00,000 equity shares of ₹10/- each."
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Proposed Authorised Share Capital",
-            "Details": "₹12,00,00,000/- (Rupees Twelve Crore only) divided into 1,20,00,000 equity shares of ₹10/- each, by creation of 60,00,000 additional equity shares of ₹10/- each ranking pari passu with the existing equity shares."
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Proposed Clause V of the Memorandum of Association",
-            "Details": "“V. The Authorised Share Capital of the Company is ₹12,00,00,000/- (Rupees Twelve Crore only) divided into 1,20,00,000 (One Crore Twenty Lakh) equity shares of ₹10/- (Rupees Ten) each.”"
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Approval required",
-            "Details": "Approval of the Members by Ordinary Resolution through Postal Ballot (remote e-voting) under Section 61 of the Companies Act, 2013."
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Effective date",
-            "Details": "Upon approval of the Members; Form SH-7 to be filed within 30 days under Section 64 along with the altered Memorandum of Association, together with Form MGT-14 as applicable."
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Half year Ended": "30th September 2026",
-            "col_3": "31st March 2026",
-            "col_4": "30th September 2025",
-            "col_5": "31st March 2026"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "Rs. in Lakhs",
-            "col_3": "Rs. in Lakhs",
-            "col_4": "Rs. in Lakhs",
-            "col_5": "Rs. in Lakhs"
-          },
-          {
-            "Particulars": "Income Revenue from operations Other income Total Income Expenses Direct cost Employee benefits expense Finance cost Depreciation and amortisation expense Other expenses Total expenses Profit / (Loss) before exceptional and extraordinary items and tax Exceptional items Profit / (Loss) before extraordinary items and tax Extraordinary items Prior period items Profit / (Loss) before tax Tax expense 1. current tax / minimum alternative tax 2. minimum alternative tax entitlement 3. deferred tax (Asset) / Liabilities Profit / (Loss) for the period from continuing operations Profit / (Loss) for the period Earning per equity share Basic Diluted",
-            "For the Half year Ended": "2,299.19 18.06",
-            "col_3": "1 ,856.36 3 1.99",
-            "col_4": "1,691.49 39.57",
-            "col_5": "3,547.85 71.56"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "2,317.25",
-            "col_3": "1 ,888.35",
-            "col_4": "1,731.06",
-            "col_5": "3,619.41"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "1,320.54 240.86 49.21 171.22 343.54",
-            "col_3": "9 36.03 1 82.17 6 3.87 3 09.75 2 62.28",
-            "col_4": "911.23 172.98 36.64 221.42 237.38",
-            "col_5": "1,847.26 355.14 100.50 531.17 499.66"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "2,125.36",
-            "col_3": "1 ,754.09",
-            "col_4": "1,579.65",
-            "col_5": "3,333.74"
-          },
-          {
-            "Particulars": "",
-            "For the Half year Ended": "191.89 - 191.89 - - 191.89 44.67 3 .24 143.98 143.98 3.57 3.57",
-            "col_3": "1 34.25 - 1 34.25 - - 1 34.25 7 1.75 ( 34.69) 9 7.20 9 7.20 2 .41 2 .41",
-            "col_4": "151.42 - 151.42 - - 151.42 63.58 (28.49) 116.33 116.33 2.89 2.89",
-            "col_5": "285.67 - 285.67 - - 285.67 135.32 (63.18) 213.53 213.53 5.30 5.30"
-          },
-          {
-            "Particulars": "Number of shares used in computing earnings per share Basic Diluted",
-            "For the Half year Ended": "40,32,000 40,32,000",
-            "col_3": "4 0,32,000 4 0,32,000",
-            "col_4": "40,32,000 40,32,000",
-            "col_5": "40,32,000 40,32,000"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "975ccca3-0d46-4923-a1e6-356dde43299e",
-    "SCRIP_CD": 543172,
-    "XML_NAME": "ANN_543172_975CCCA3-0D46-4923-A1E6-356DDE43299E",
-    "NEWSSUB": "Cospower Engineering Ltd - 543172 - Board Meeting Intimation for Board Meeting To Be Held On Wednesday, November 04, 2026",
-    "DT_TM": "2026-10-31T13:38:39.503",
-    "NEWS_DT": "2026-10-31T13:38:39.503",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cd05d438-69a1-410d-b95c-91b0d775af60.pdf",
-    "MORE": "Cospower Engineering Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the Unaudited Financial Results (Standalone) of the company along with Limited Review Report for the Half Year ended 30th September, 2026",
-    "HEADLINE": "Cospower Engineering Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the Unaudited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/cospower-engineering-ltd/cospower/543172/",
-    "SLONGNAME": "Cospower Engineering Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:38:38",
-    "DissemDT": "2026-10-31T13:38:39.503",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 379059,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f6112ffe-3571-4ea9-84ed-5b835d6ee782",
-    "SCRIP_CD": 532134,
-    "XML_NAME": "ANN_532134_F6112FFE-3571-4EA9-84ED-5B835D6EE782",
-    "NEWSSUB": "Bank of Baroda - 532134 - Link Of Recording And Outcome Of Analyst Meet",
-    "DT_TM": "2026-10-31T13:34:57.84",
-    "NEWS_DT": "2026-10-31T13:34:57.84",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7b178aa8-bf45-4695-8403-25e8b02d8c96.pdf",
-    "MORE": "",
-    "HEADLINE": "Link of Recording and Outcome of Analyst Meet",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bank-of-baroda/bankbaroda/532134/",
-    "SLONGNAME": "Bank of Baroda",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:34:57",
-    "DissemDT": "2026-10-31T13:34:57.84",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 405397,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "732a2963-e495-41a3-b236-c830af67bca0",
-    "SCRIP_CD": 539527,
-    "XML_NAME": "ANN_539527_732A2963-E495-41A3-B236-C830AF67BCA0",
-    "NEWSSUB": "Creative Castings Ltd - 539527 - Results - Unaudited Financial Results For September 30, 2026",
-    "DT_TM": "2026-10-31T13:34:43.397",
-    "NEWS_DT": "2026-10-31T13:34:43.397",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "baf81fb7-01fd-400d-8523-a3afc02c4561.pdf",
-    "MORE": "Creative Castings Limited has submitted the outcome of the Board Meeting held on 31 October, 2026 wherein the Board has, inter alia, approved the unaudited standalone financial results for the quarter and half-year ended 30 September 2026, including the Statement of Assets and Liabilities and Cash Flow Statement, and took on record the Limited Review Report issued by the Statutory Auditors of the Company. Copies of the said results and the Limited Review Report are enclosed for dissemination.",
-    "HEADLINE": "Creative Castings Limited has submitted the outcome of the Board Meeting held on 31 October, 2026 wherein the Board has, inter alia, approved the unaudited standalone financial results ....",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/creative-castings-ltd/creative/539527/",
-    "SLONGNAME": "Creative Castings Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:34:43",
-    "DissemDT": "2026-10-31T13:34:43.397",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 9520115,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "1259.59",
-      "total_assets": "5371.87",
-      "total_equity": "4724.74",
-      "total_debt": "0.00",
-      "dividend": "0.00",
-      "face_value": "10.00",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 44,
-        "rows": [
-          {
-            "SN": "",
-            "Particulars": "",
-            "Quarter ended on": "30th Sept., 2026",
-            "col_4": "30th June, 2026",
-            "col_5": "30th Sept., 2025",
-            "Half Year ended on": "30th Sept., 2026",
-            "col_7": "30th Sept., 2025",
-            "Previous Year ended on": "31st March, 2026"
-          },
-          {
-            "SN": "",
-            "Particulars": "",
-            "Quarter ended on": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited*",
-            "Half Year ended on": "Unaudited",
-            "col_7": "Unaudited*",
-            "Previous Year ended on": "Audited*"
-          },
-          {
-            "SN": "I",
-            "Particulars": "Revenue from Operations",
-            "Quarter ended on": "1,259.59",
-            "col_4": "1,397.38",
-            "col_5": "1,230.42",
-            "Half Year ended on": "2,656.97",
-            "col_7": "2,135.69",
-            "Previous Year ended on": "4,707.95"
-          },
-          {
-            "SN": "II",
-            "Particulars": "Other Income",
-            "Quarter ended on": "37.28",
-            "col_4": "53.15",
-            "col_5": "40.65",
-            "Half Year ended on": "90.43",
-            "col_7": "82.03",
-            "Previous Year ended on": "157.77"
-          },
-          {
-            "SN": "Ill",
-            "Particulars": "Total Income (1+11)",
-            "Quarter ended on": "1,296.87",
-            "col_4": "1,450.53",
-            "col_5": "1,271.07",
-            "Half Year ended on": "2,747.40",
-            "col_7": "2,217.72",
-            "Previous Year ended on": "4,865.72"
-          },
-          {
-            "SN": "IV",
-            "Particulars": "Expenses",
-            "Quarter ended on": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended on": "",
-            "col_7": "",
-            "Previous Year ended on": ""
-          },
-          {
-            "SN": "(a)",
-            "Particulars": "Cost of Material Consumed",
-            "Quarter ended on": "604.81",
-            "col_4": "516.92",
-            "col_5": "404.20",
-            "Half Year ended on": "1,121.73",
-            "col_7": "734.27",
-            "Previous Year ended on": "1,685.33"
-          },
-          {
-            "SN": "(b)",
-            "Particulars": "Purchase of Stock-i_n-Trade",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "(c)",
-            "Particulars": "Changes in inventories of finished goods, Stock-in-Trade and work-in-progress",
-            "Quarter ended on": "(80.55)",
-            "col_4": "81.05",
-            "col_5": "92.94",
-            "Half Year ended on": "0.50",
-            "col_7": "83.33",
-            "Previous Year ended on": "14.46"
-          },
-          {
-            "SN": "{d)",
-            "Particulars": "Employee benefits expense",
-            "Quarter ended on": "125.68",
-            "col_4": "124.13",
-            "col_5": "126.66",
-            "Half Year ended on": "249.81",
-            "col_7": "246.22",
-            "Previous Year ended on": "518.40"
-          },
-          {
-            "SN": "(e)",
-            "Particulars": "Finance Costs",
-            "Quarter ended on": "0.44",
-            "col_4": "0.37",
-            "col_5": "0.34",
-            "Half Year ended on": "0.81",
-            "col_7": "0.63",
-            "Previous Year ended on": "1.48"
-          },
-          {
-            "SN": "(f)",
-            "Particulars": "Depreciation and Amortization expense",
-            "Quarter ended on": "16.85",
-            "col_4": "16.79",
-            "col_5": "15.84",
-            "Half Year ended on": "33.64",
-            "col_7": "30.76",
-            "Previous Year ended on": "63.85"
-          },
-          {
-            "SN": "(g)",
-            "Particulars": "Other Expenses",
-            "Quarter ended on": "469.54",
-            "col_4": "495.47",
-            "col_5": "476.28",
-            "Half Year ended on": "965.01",
-            "col_7": "884.04",
-            "Previous Year ended on": "1,953.69"
-          },
-          {
-            "SN": "",
-            "Particulars": "Total Expenses (a tog)",
-            "Quarter ended on": "1,136.77",
-            "col_4": "1,234.73",
-            "col_5": "1,116.26",
-            "Half Year ended on": "2,371.50",
-            "col_7": "1,979.25",
-            "Previous Year ended on": "4,237.21"
-          },
-          {
-            "SN": "V",
-            "Particulars": "Profit/ (Loss) before exceptional items (Ill-IV)",
-            "Quarter ended on": "160.10",
-            "col_4": "215.80",
-            "col_5": "154.81",
-            "Half Year ended on": "375.90",
-            "col_7": "238.47",
-            "Previous Year ended on": "628.51"
-          },
-          {
-            "SN": "VI",
-            "Particulars": "Exceptional Items",
-            "Quarter ended on": ".0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "VII",
-            "Particulars": "Profit/ (Loss) before tax (V-VI)",
-            "Quarter ended on": "160.10",
-            "col_4": "215.80",
-            "col_5": "154.81",
-            "Half Year ended on": "375.90",
-            "col_7": "238.47",
-            "Previous Year ended on": "628.51"
-          },
-          {
-            "SN": "VIII",
-            "Particulars": "Tax Expense:",
-            "Quarter ended on": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended on": "",
-            "col_7": "",
-            "Previous Year ended on": ""
-          },
-          {
-            "SN": "(a)",
-            "Particulars": "Current tax",
-            "Quarter ended on": "48.14",
-            "col_4": "59.71",
-            "col_5": "47.57",
-            "Half Year ended on": "107.85",
-            "col_7": "71.73",
-            "Previous Year ended on": "180.60"
-          },
-          {
-            "SN": "(b)",
-            "Particulars": "Prior period tax",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.10",
-            "Previous Year ended on": "(0.59)"
-          },
-          {
-            "SN": "(c)",
-            "Particulars": "Deferred tax",
-            "Quarter ended on": "{1.18)",
-            "col_4": "(2.01)",
-            "col_5": "3.42",
-            "Half Year ended on": "{3.19)",
-            "col_7": "(11.21)",
-            "Previous Year ended on": "11.45"
-          },
-          {
-            "SN": "",
-            "Particulars": "Total Tax Expense (a to c)",
-            "Quarter ended on": "46.96",
-            "col_4": "57.70",
-            "col_5": "50.99",
-            "Half Year ended on": "104.66",
-            "col_7": "60.62",
-            "Previous Year ended on": "191.46"
-          },
-          {
-            "SN": "IX",
-            "Particulars": "Profit/ (Loss) for the period from continuing operations (VII-VIII)",
-            "Quarter ended on": "113.14",
-            "col_4": "158.10",
-            "col_5": "103.82",
-            "Half Year ended on": "271.24",
-            "col_7": "177.85",
-            "Previous Year ended on": "437.05"
-          },
-          {
-            "SN": "X",
-            "Particulars": "Profit/ (Loss) from discontinued operations",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "XI",
-            "Particulars": "Tax expense for discontinued operations",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "XII",
-            "Particulars": "Profit/ (Loss) from discontinued operations (X-XI)",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "XIII",
-            "Particulars": "Profit/ (Loss) for the period (IX+XII)",
-            "Quarter ended on": "113.14",
-            "col_4": "158.10",
-            "col_5": "103.82",
-            "Half Year ended on": "271.24",
-            "col_7": "177.85",
-            "Previous Year ended on": "437.05"
-          },
-          {
-            "SN": "XIV",
-            "Particulars": "Other Comprehensive Income",
-            "Quarter ended on": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended on": "",
-            "col_7": "",
-            "Previous Year ended on": ""
-          },
-          {
-            "SN": ".A(i)",
-            "Particulars": "Items that will not be reclassified to Statement of Profit and Loss",
-            "Quarter ended on": "18.46",
-            "col_4": "12.80",
-            "col_5": "5.22",
-            "Half Year ended on": "31.26",
-            "col_7": "9.03",
-            "Previous Year ended on": "32.82"
-          },
-          {
-            "SN": "A(ii)",
-            "Particulars": "Income Tax relating to items that will not be reclassified to Statement of Profit and Loss",
-            "Quarter ended on": "(5.14)",
-            "col_4": "(3.56)",
-            "col_5": "(1.45)",
-            "Half Year ended on": "{8.70)",
-            "col_7": "(2.51)",
-            "Previous Year ended on": "{9.13)"
-          },
-          {
-            "SN": "B{i)",
-            "Particulars": "Items that will be reclassified to Statement of Profit and Loss",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "B(ii)",
-            "Particulars": "Income Tax relating to items that will be reclassified to Statement of Profit and Loss",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "",
-            "Particulars": "Total Other Comprehensive Income (A+B)",
-            "Quarter ended on": "13.32",
-            "col_4": "9.24",
-            "col_5": "3.77",
-            "Half Year ended on": "22.56",
-            "col_7": "6.52",
-            "Previous Year ended on": "23.69"
-          },
-          {
-            "SN": "xv",
-            "Particulars": "Total Comprehensive Income (Xlll+XIV)",
-            "Quarter ended on": "li6.46",
-            "col_4": "167.34",
-            "col_5": "107.59",
-            "Half Year ended on": "293.80",
-            "col_7": "184.37",
-            "Previous Year ended on": "460.74"
-          },
-          {
-            "SN": "",
-            "Particulars": "Paid-up Equity Share Capital (Face Value ~ 10.00)",
-            "Quarter ended on": "130.00",
-            "col_4": "130.00",
-            "col_5": "130.00",
-            "Half Year ended on": "130.00",
-            "col_7": "130.00",
-            "Previous Year ended on": "130.00"
-          },
-          {
-            "SN": "XVI",
-            "Particulars": "Earnings Per Share (in~) (for continuing operations)",
-            "Quarter ended on": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended on": "",
-            "col_7": "",
-            "Previous Year ended on": ""
-          },
-          {
-            "SN": "(a)",
-            "Particulars": "Basic",
-            "Quarter ended on": "8.70",
-            "col_4": "12.16",
-            "col_5": "7.99",
-            "Half Year ended on": "20.86",
-            "col_7": "13.68",
-            "Previous Year ended on": "33.62"
-          },
-          {
-            "SN": "(b)",
-            "Particulars": "Diluted",
-            "Quarter ended on": "8.70",
-            "col_4": "12.16",
-            "col_5": "7.99",
-            "Half Year ended on": "20.86",
-            "col_7": "13.68",
-            "Previous Year ended on": "33.62"
-          },
-          {
-            "SN": "XVII",
-            "Particulars": "Earnings Per Share (in~) {for discontinued operations)",
-            "Quarter ended on": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended on": "",
-            "col_7": "",
-            "Previous Year ended on": ""
-          },
-          {
-            "SN": "(a)",
-            "Particulars": "Basic",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "(b)",
-            "Particulars": "Diluted",
-            "Quarter ended on": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year ended on": "0.00",
-            "col_7": "0.00",
-            "Previous Year ended on": "0.00"
-          },
-          {
-            "SN": "XVIII",
-            "Particulars": "Earnings Per Share (in 'I() (for discontinued & continuing operations)",
-            "Quarter ended on": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year ended on": "",
-            "col_7": "",
-            "Previous Year ended on": ""
-          },
-          {
-            "SN": "(a)",
-            "Particulars": "Basic",
-            "Quarter ended on": "8.70",
-            "col_4": "12.16",
-            "col_5": "7.99",
-            "Half Year ended on": "20.86",
-            "col_7": "13.68",
-            "Previous Year ended on": "33.62"
-          },
-          {
-            "SN": "{b)",
-            "Particulars": "Diluted·",
-            "Quarter ended on": "8.70",
-            "col_4": "12.16",
-            "col_5": "7.99",
-            "Half Year ended on": "20.86",
-            "col_7": "13.68",
-            "Previous Year ended on": "33.62"
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 56,
-        "rows": [
-          {
-            "Particulars": "ASSETS",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Non-current assets",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Property, Plant and Equipment",
-            "As at 30 September 2026": "911.60",
-            "As at 31 March 2026 (Audited)": "926.34"
-          },
-          {
-            "Particulars": "Capital work-in-progress",
-            "As at 30 September 2026": "125.00",
-            "As at 31 March 2026 (Audited)": "106.97"
-          },
-          {
-            "Particulars": "Investment Ptoperty",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Goodwill",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Other Intangible assets",
-            "As at 30 September 2026": "0.69",
-            "As at 31 March 2026 (Audited)": "0.74"
-          },
-          {
-            "Particulars": "Intangible assets under development",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Financial Assets",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Investments",
-            "As at 30 September 2026": "10.25",
-            "As at 31 March 2026 (Audited)": "8.79"
-          },
-          {
-            "Particulars": "Trade receivables",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Loans",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Other financial assets",
-            "As at 30 September 2026": "0.33",
-            "As at 31 March 2026 (Audited)": "0.33"
-          },
-          {
-            "Particulars": "Deferred tax assets net",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Other non-current assets",
-            "As at 30 September 2026": "81.65",
-            "As at 31 March 2026 (Audited)": "81.37"
-          },
-          {
-            "Particulars": "Total Non-current Assets",
-            "As at 30 September 2026": "1,129.52",
-            "As at 31 March 2026 (Audited)": "1,124.54"
-          },
-          {
-            "Particulars": "Current assets",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Inventories",
-            "As at 30 September 2026": "1,180.59",
-            "As at 31 March 2026 (Audited)": "1,084.96"
-          },
-          {
-            "Particulars": "Financial Assets",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Investments",
-            "As at 30 September 2026": "1,834.24",
-            "As at 31 March 2026 (Audited)": "1,807.02"
-          },
-          {
-            "Particulars": "Trade receivables",
-            "As at 30 September 2026": "716.37",
-            "As at 31 March 2026 (Audited)": "891.34"
-          },
-          {
-            "Particulars": "Cash and cash equivalents",
-            "As at 30 September 2026": "255.01",
-            "As at 31 March 2026 (Audited)": "150.64"
-          },
-          {
-            "Particulars": "Loans",
-            "As at 30 September 2026": "15.63",
-            "As at 31 March 2026 (Audited)": "12.94"
-          },
-          {
-            "Particulars": "Other financial·assets",
-            "As at 30 September 2026": "10.97",
-            "As at 31 March 2026 (Audited)": "7.84"
-          },
-          {
-            "Particulars": "Other current assets",
-            "As at 30 September 2026": "229.54",
-            "As at 31 March 2026 (Audited)": "206.61"
-          },
-          {
-            "Particulars": "Total Current Assets",
-            "As at 30 September 2026": "4,242.35",
-            "As at 31 March 2026 (Audited)": "4,161.35"
-          },
-          {
-            "Particulars": "Total Assets",
-            "As at 30 September 2026": "5,371.87",
-            "As at 31 March 2026 (Audited)": "5,285.89"
-          },
-          {
-            "Particulars": "Equity and Liabilities",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Equity",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Equity Share Capital",
-            "As at 30 September 2026": "130.00",
-            "As at 31 March 2026 (Audited)": "130.00"
-          },
-          {
-            "Particulars": "Other Equity",
-            "As at 30 September 2026": "4,594.74",
-            "As at 31 March 2026 (Audited)": "4,427.07"
-          },
-          {
-            "Particulars": "Total Equity",
-            "As at 30 September 2026": "4,724.74",
-            "As at 31 March 2026 (Audited)": "4,557.07"
-          },
-          {
-            "Particulars": "Non-current liabilities",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Financial Liabilities",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Borrowings",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Lease liabilities",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Trade Payables (Micro & Small Enterprises)",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Trade Payables (Other Dues)",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Other financial liabilities",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Provisions",
-            "As at 30 September 2026": "19.89",
-            "As at 31 March 2026 (Audited)": "12.41"
-          },
-          {
-            "Particulars": "Deferred tax liabilities net",
-            "As at 30 September 2026": "148.96",
-            "As at 31 March 2026 (Audited)": "143.45"
-          },
-          {
-            "Particulars": "Other non-current liabilities",
-            "As at 30 September 2026": "10.22",
-            "As at 31 March 2026 (Audited)": "9.97"
-          },
-          {
-            "Particulars": "Total Non-current liabilities",
-            "As at 30 September 2026": "179.07",
-            "As at 31 March 2026 (Audited)": "165.83"
-          },
-          {
-            "Particulars": "Current liabilities",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Financial Liabilities",
-            "As at 30 September 2026": "",
-            "As at 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Borrowings",
-            "As at 30 September 2026": "5.85",
-            "As at 31 March 2026 (Audited)": "14.06"
-          },
-          {
-            "Particulars": "Lease liabilities",
-            "As at 30 September 2026": "0.00",
-            "As at 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Trade Payables (Micro & Small Enterprises)",
-            "As at 30 September 2026": "100.57",
-            "As at 31 March 2026 (Audited)": "118.10"
-          },
-          {
-            "Particulars": "Trade Payables (Other Dues)",
-            "As at 30 September 2026": "73.28",
-            "As at 31 March 2026 (Audited)": "127.19"
-          },
-          {
-            "Particulars": "Other financial liabilities",
-            "As at 30 September 2026": "173.23",
-            "As at 31 March 2026 (Audited)": "26.83"
-          },
-          {
-            "Particulars": "Other current liabilities",
-            "As at 30 September 2026": "33.16",
-            "As at 31 March 2026 (Audited)": "187.89"
-          },
-          {
-            "Particulars": "Provisions",
-            "As at 30 September 2026": "65.30",
-            "As at 31 March 2026 (Audited)": "86.16"
-          },
-          {
-            "Particulars": "Current Tax Liabillties (Net)",
-            "As at 30 September 2026": "16.67",
-            "As at 31 March 2026 (Audited)": "2.76"
-          },
-          {
-            "Particulars": "Total Current liabilities",
-            "As at 30 September 2026": "468.06",
-            "As at 31 March 2026 (Audited)": "562.99"
-          },
-          {
-            "Particulars": "Total liabilities",
-            "As at 30 September 2026": "647.13",
-            "As at 31 March 2026 (Audited)": "728.82"
-          },
-          {
-            "Particulars": "Total Equity and Liabilities",
-            "As at 30 September 2026": "5,371.87",
-            "As at 31 March 2026 (Audited)": "5,285.89"
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 48,
-        "rows": [
-          {
-            "Particulars": "CASH FLOWS FROM OPERATING ACTIVITIES",
-            "For the half year ended 30 September 2026 (Unaudited)": "",
-            "For the year ended 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Profit before tax for the period",
-            "For the half year ended 30 September 2026 (Unaudited)": "375.90",
-            "For the year ended 31 March 2026 (Audited)": "628.51"
-          },
-          {
-            "Particulars": "Adjustments for:",
-            "For the half year ended 30 September 2026 (Unaudited)": "",
-            "For the year ended 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Depreciation and amortisation",
-            "For the half year ended 30 September 2026 (Unaudited)": "33.64",
-            "For the year ended 31 March 2026 (Audited)": "63.85"
-          },
-          {
-            "Particulars": "(Gain)/Loss on disposal of property, plant and equipment",
-            "For the half year ended 30 September 2026 (Unaudited)": "(0.95)",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "(Gain)/Loss on disposal of Investments",
-            "For the half year ended 30 September 2026 (Unaudited)": "(5.27)",
-            "For the year ended 31 March 2026 (Audited)": "(5.96)"
-          },
-          {
-            "Particulars": "(Gain)/Loss on investments measured at fair value through profit and loss",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Provision for Income tax",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Bad debts, provision for trade receivables and advances, dividend provision",
-            "For the half year ended 30 September 2026 (Unaudited)": "(1.77)",
-            "For the year ended 31 March 2026 (Audited)": "0.09"
-          },
-          {
-            "Particulars": "Dividend Provision",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Finance Cost",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.81",
-            "For the year ended 31 March 2026 (Audited)": "1.48"
-          },
-          {
-            "Particulars": "Interest Income",
-            "For the half year ended 30 September 2026 (Unaudited)": "(0.04)",
-            "For the year ended 31 March 2026 (Audited)": "(5.07)"
-          },
-          {
-            "Particulars": "Dividend income",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Unrealised (gain)/ loss",
-            "For the half year ended 30 September 2026 (Unaudited)": "(29.62)",
-            "For the year ended 31 March 2026 (Audited)": "(91.26)"
-          },
-          {
-            "Particulars": "Operating profit before working capital changes",
-            "For the half year ended 30 September 2026 (Unaudited)": "372.70",
-            "For the year ended 31 March 2026 (Audited)": "591.64"
-          },
-          {
-            "Particulars": "Adjustment for (increase)/ decrease in operating assets:",
-            "For the half year ended 30 September 2026 (Unaudited)": "",
-            "For the year ended 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Trade receivables",
-            "For the half year ended 30 September 2026 (Unaudited)": "206.36",
-            "For the year ended 31 March 2026 (Audited)": "83.71"
-          },
-          {
-            "Particulars": "Loans & Advances",
-            "For the half year ended 30 September 2026 (Unaudited)": "(2.69)",
-            "For the year ended 31 March 2026 (Audited)": "16.89"
-          },
-          {
-            "Particulars": "Other financial assets",
-            "For the half year ended 30 September 2026 (Unaudited)": "(3.13)",
-            "For the year ended 31 March 2026 (Audited)": "7.01"
-          },
-          {
-            "Particulars": "Inventories",
-            "For the half year ended 30 September 2026 (Unaudited)": "(95.63)",
-            "For the year ended 31 March 2026 (Audited)": "124.79"
-          },
-          {
-            "Particulars": "Other assets",
-            "For the half year ended 30 September 2026 (Unaudited)": "(23.21)",
-            "For the year ended 31 March 2026 (Audited)": "(63.02)"
-          },
-          {
-            "Particulars": "Adjustment for (Increase)/ decrease in operating liabilities:",
-            "For the half year ended 30 September 2026 (Unaudited)": "",
-            "For the year ended 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Trade payables",
-            "For the half year ended 30 September 2026 (Unaudited)": "(71.44)",
-            "For the year ended 31 March 2026 (Audited)": "59.25"
-          },
-          {
-            "Particulars": "Employee benefit obligation",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00.",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Other financial liabilities",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.10",
-            "For the year ended 31 March 2026 (Audited)": "(1.89)"
-          },
-          {
-            "Particulars": "Other Liabilities",
-            "For the half year ended 30 September 2026 (Unaudited)": "(170.68)",
-            "For the year ended 31 March 2026 (Audited)": "178.23"
-          },
-          {
-            "Particulars": "Provisions",
-            "For the half year ended 30 September 2026 (Unaudited)": "(9.16)",
-            "For the year ended 31 March 2026 (Audited)": "11.84"
-          },
-          {
-            "Particulars": "Cash generated from operations",
-            "For the half year ended 30 September 2026 (Unaudited)": "203.21",
-            "For the year ended 31 March 2026 (Audited)": "1,008.45"
-          },
-          {
-            "Particulars": "Income tax paid (net)",
-            "For the half year ended 30 September 2026 (Unaudited)": "(93.95)",
-            "For the year ended 31 March 2026 (Audited)": "(144.41)"
-          },
-          {
-            "Particulars": "Net cash generated by operating activities",
-            "For the half year ended 30 September 2026 (Unaudited)": "109.26",
-            "For the year ended 31 March 2026 (Audited)": "864.04"
-          },
-          {
-            "Particulars": "CASH FLOWS FROM INVESTING ACTIVITIES",
-            "For the half year ended 30 September 2026 (Unaudited)": "",
-            "For the year ended 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Purchase of property, plant and equipment",
-            "For the half year ended 30 September 2026 (Unaudited)": "(37.13)",
-            "For the year ended 31 March 2026 (Audited)": "(126.51)"
-          },
-          {
-            "Particulars": "Purchase of intangible assets",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "(0.09)"
-          },
-          {
-            "Particulars": "Purchase of other Investment",
-            "For the half year ended 30 September 2026 (Unaudited)": "(400.00)",
-            "For the year ended 31 March 2026 (Audited)": "(1,225.00)"
-          },
-          {
-            "Particulars": "Proceeds from sale of investments carried at fair value through OCI",
-            "For the half year ended 30 September 2026 (Unaudited)": "440.00",
-            "For the year ended 31 March 2026 (Audited)": "730.00"
-          },
-          {
-            "Particulars": "Proceeds from disposal of property, plant and equipment",
-            "For the half year ended 30 September 2026 (Unaudited)": "1.20",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Interest received",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.04",
-            "For the year ended 31 March 2026 (Audited)": "5.07"
-          },
-          {
-            "Particulars": "Dividend received Net cash (used in)/ generated by investing activities",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026 (Unaudited)": "4.11",
-            "For the year ended 31 March 2026 (Audited)": "(616.53)"
-          },
-          {
-            "Particulars": "CASH FLOWS FROM FINANCING ACTIVITIES",
-            "For the half year ended 30 September 2026 (Unaudited)": "",
-            "For the year ended 31 March 2026 (Audited)": ""
-          },
-          {
-            "Particulars": "Proceeds from short term borrowings",
-            "For the half year ended 30 September 2026 (Unaudited)": "(8.20)",
-            "For the year ended 31 March 2026 (Audited)": "1.87"
-          },
-          {
-            "Particulars": "Finance cost",
-            "For the half year ended 30 September 2026 (Unaudited)": "(0,81)",
-            "For the year ended 31 March 2026 (Audited)": "(1.48)"
-          },
-          {
-            "Particulars": "Dividend paid during the period",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "(130.00)"
-          },
-          {
-            "Particulars": "Net cash used in financing activities",
-            "For the half year ended 30 September 2026 (Unaudited)": "(9.01)",
-            "For the year ended 31 March 2026 (Audited)": "(129.61)"
-          },
-          {
-            "Particulars": "Net increase/ (decrease) in cash and cash equivalents",
-            "For the half year ended 30 September 2026 (Unaudited)": "104.36",
-            "For the year ended 31 March 2026 (Audited)": "117.90"
-          },
-          {
-            "Particulars": "Cash and cash equivalents at the beginning of the period",
-            "For the half year ended 30 September 2026 (Unaudited)": "150.65 ·",
-            "For the year ended 31 March 2026 (Audited)": "32.75"
-          },
-          {
-            "Particulars": "Exchange gain/loss on cash and cash equivalents",
-            "For the half year ended 30 September 2026 (Unaudited)": "0.00",
-            "For the year ended 31 March 2026 (Audited)": "0.00"
-          },
-          {
-            "Particulars": "Cash and cash equivalents at the end of the period",
-            "For the half year ended 30 September 2026 (Unaudited)": "255.01",
-            "For the year ended 31 March 2026 (Audited)": "150.65"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars": "Quarter ended 30 Seotember 2025",
-            "As previously reported": "",
-            "Adjustment": "",
-            "As restated": ""
-          },
-          {
-            "Particulars": "Revenue from Ooerations",
-            "As previously reported": "1,265.73",
-            "Adjustment": "(35.31)",
-            "As restated": "1,230.42"
-          },
-          {
-            "Particulars": "Total Income 0+11\\",
-            "As previously reported": "1,306.38",
-            "Adjustment": "(35.31)",
-            "As restated": "1,271.07"
-          },
-          {
-            "Particulars": "Chanqes in inventories of finished qoods, Stock-in-Trade and work-in-proqress",
-            "As previously reported": "92.95",
-            "Adjustment": "(0.01)",
-            "As restated": "92.94"
-          },
-          {
-            "Particulars": "Emolovee benefits expense",
-            "As previously reported": "126.99",
-            "Adjustment": "(0.33)",
-            "As restated": "126.66"
-          },
-          {
-            "Particulars": "Finance Costs",
-            "As previously reported": "0.01",
-            "Adjustment": "0.33",
-            "As restated": "0.34"
-          },
-          {
-            "Particulars": "Other Exoenses",
-            "As previously reported": "511.58",
-            "Adjustment": "(35.30)",
-            "As restated": "476.28"
-          },
-          {
-            "Particulars": "Total Exoenses la to q)",
-            "As previously reported": "1,151.57",
-            "Adjustment": "(35.31)",
-            "As restated": "1,116.26"
-          },
-          {
-            "Particulars": "Half vear ended 30 Seotember 2025",
-            "As previously reported": "",
-            "Adjustment": "",
-            "As restated": ""
-          },
-          {
-            "Particulars": "Revenue from Operations",
-            "As previously reported": "2,213.77",
-            "Adjustment": "(78.08)",
-            "As restated": "2,135.69"
-          },
-          {
-            "Particulars": "Total Income 11+1ll",
-            "As previously reported": "2,295.80",
-            "Adjustment": "(78.08)",
-            "As restated": "2,217.72"
-          },
-          {
-            "Particulars": "Chanqes in inventories offinished qoods, Stock-in-Trade and work-in-proqress",
-            "As previously reported": "83.34",
-            "Adjustment": "(0.01)",
-            "As restated": "83.33"
-          },
-          {
-            "Particulars": "Other Expenses",
-            "As previously reported": "962.11",
-            "Adjustment": "(78.07)",
-            "As restated": "884.04"
-          },
-          {
-            "Particulars": "Total Exoenses la to a)",
-            "As previously reported": "2,057.33",
-            "Adjustment": "(78.08)",
-            "As restated": "1,979.25"
-          },
-          {
-            "Particulars": "Year ended 31 March 2026",
-            "As previously reported": "",
-            "Adjustment": "",
-            "As restated": ""
-          },
-          {
-            "Particulars": "Revenue from Ooerations",
-            "As previously reported": "4,827.51",
-            "Adjustment": "(119.56)",
-            "As restated": "4,707.95"
-          },
-          {
-            "Particulars": "Total Income",
-            "As previously reported": "4,985.28",
-            "Adjustment": "(119.56)",
-            "As restated": "4,865.72"
-          },
-          {
-            "Particulars": "Other Expenses",
-            "As previously reported": "2,073.25",
-            "Adjustment": "(119.56)",
-            "As restated": "1,953.69"
-          },
-          {
-            "Particulars": "Total Exoenses",
-            "As previously reported": "4,356.77",
-            "Adjustment": "(119.56)",
-            "As restated": "4,237.21"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "3d624645-7883-491f-8fa6-749b2a16e5e4",
-    "SCRIP_CD": 531727,
-    "XML_NAME": "ANN_531727_3D624645-7883-491F-8FA6-749B2A16E5E4",
-    "NEWSSUB": "Menon Pistons Ltd - 531727 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-10-31T13:34:28.54",
-    "NEWS_DT": "2026-10-31T13:34:28.54",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "82cd0bae-639b-4c0d-9f30-ac6dc96ff904.pdf",
-    "MORE": "1. Appointment of Mr. Digambar Tukaram Shirke (DIN: 09268759), as an Additional Director (Non Executive and Independent Director) of the company.\r\n2. Ms. Neha Marathe (DIN: 08926541) has completed her second term of three consecutive years tenure as an Independent Director (Non Executive and Independent Director) of the company, on 31st October, 2026. Consequently she ceased to be an Independent Director of the company w.e.f. closure of business hours on 31st October, 2026.",
-    "HEADLINE": "1. Appointment of Mr. Digambar Tukaram Shirke (DIN: 09268759), as an Additional Director (Non Executive and Independent Director) of the company.\r\n2. Ms. Neha Marathe (DIN: 08926541) has ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/menon-pistons-ltd/mennpis/531727/",
-    "SLONGNAME": "Menon Pistons Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:34:28",
-    "DissemDT": "2026-10-31T13:34:28.54",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 10818962,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "737609",
-      "total_equity": "16522.13",
-      "total_debt": "1115.18",
-      "eps": "-1",
-      "dividend": "510.00",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "11c013d9-7959-4ec4-88d6-cf0ecfa251bd",
-    "SCRIP_CD": 534920,
-    "XML_NAME": "ANN_534920_11C013D9-7959-4EC4-88D6-CF0ECFA251BD",
-    "NEWSSUB": "iSERA Lifesciences Ltd - 534920 - Board Meeting Intimation for To Consider, Approve And Take On Record The Un-Audited Financial Results Of The Company For The Quarter And Half Year Ended On September 30, 2026",
-    "DT_TM": "2026-10-31T13:32:56.933",
-    "NEWS_DT": "2026-10-31T13:32:56.933",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "790de8e8-2254-4554-9876-ed38ac8a7c3a.pdf",
-    "MORE": "Isera Lifesciences Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the Un-Audited Financial Results of the Company for the quarter and half year ended on September 30, 2026",
-    "HEADLINE": "Isera Lifesciences Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve the Un-Audited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/isera-lifesciences-ltd/isera/534920/",
-    "SLONGNAME": "iSERA Lifesciences Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 5,
-    "News_submission_dt": "2026-10-31T13:32:55",
-    "DissemDT": "2026-10-31T13:32:56.933",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 339741,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
