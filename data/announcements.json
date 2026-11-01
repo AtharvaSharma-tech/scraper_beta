@@ -1,5 +1,1255 @@
 [
   {
+    "NEWSID": "c853b018-9fb0-430f-898b-6dbfc5bad648",
+    "SCRIP_CD": 540724,
+    "XML_NAME": "ANN_540724_C853B018-9FB0-430F-898B-6DBFC5BAD648",
+    "NEWSSUB": "Prataap Snacks Ltd - 540724 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-01T21:23:21.85",
+    "NEWS_DT": "2026-11-01T21:23:21.85",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "38606aaf-6b4b-40af-bf75-7d06bd3746c8.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation for the quarter and half year ended September, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/prataap-snacks-ltd/diamondyd/540724/",
+    "SLONGNAME": "Prataap Snacks Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T21:23:21",
+    "DissemDT": "2026-11-01T21:23:21.85",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4506236,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Prataap Snacks Ltd filed an Investor Presentation for the quarter and half‑year ended 30 September 2026, submitted on 1 November 2026 under SEBI Regulation 30 (LODR) and made available on its website (www.yellowdiamond.in).  \n- The announcement does not contain any specific financial figures, dates of transactions, or details of financial decisions.",
+    "key_metrics": {
+      "revenue": "541 crore",
+      "operating_profit": "129.0",
+      "total_assets": "9759.0",
+      "total_equity": "9759.0",
+      "total_debt": "80.0",
+      "eps": "1.05",
+      "dividend": "0.0",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 29,
+        "table_index": 1,
+        "row_count": 12,
+        "rows": [
+          {
+            "(INR Mn)": "Sales/Income from operations 5,409.5 4,297.9",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "25.9%",
+            "H1 FY’27": "10,313.8",
+            "H1 FY’26": "8,387.3",
+            "Y-o-Y Change (%)_1": "23.0%"
+          },
+          {
+            "(INR Mn)": "Other operating Income 29.8 21.0",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "41.9%",
+            "H1 FY’27": "50.5",
+            "H1 FY’26": "41.6",
+            "Y-o-Y Change (%)_1": "21.4%"
+          },
+          {
+            "(INR Mn)": "Total Income from Operations 5,439.3 4,318.9",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "25.9%",
+            "H1 FY’27": "10,364.3",
+            "H1 FY’26": "8,428.9",
+            "Y-o-Y Change (%)_1": "23.0%"
+          },
+          {
+            "(INR Mn)": "Raw Material Cost 4,052.3 3,031.0",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "33.7%",
+            "H1 FY’27": "7,637.8",
+            "H1 FY’26": "5,966.6",
+            "Y-o-Y Change (%)_1": "28.0%"
+          },
+          {
+            "(INR Mn)": "Gross Margin 1,387.0 1,287.9",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "7.7%",
+            "H1 FY’27": "2,726.5",
+            "H1 FY’26": "2,462.3",
+            "Y-o-Y Change (%)_1": "10.7%"
+          },
+          {
+            "(INR Mn)": "Gross Margin (%) 25.5% 29.8%",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "-430 bps",
+            "H1 FY’27": "26.3%",
+            "H1 FY’26": "29.2%",
+            "Y-o-Y Change (%)_1": "-290 bps"
+          },
+          {
+            "(INR Mn)": "EBITDA 129.0 229.0",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "-43.7%",
+            "H1 FY’27": "319.5",
+            "H1 FY’26": "409.1",
+            "Y-o-Y Change (%)_1": "-21.9%"
+          },
+          {
+            "(INR Mn)": "EBITDA margin (%) 2.4% 5.3%",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "-290 bps",
+            "H1 FY’27": "3.1%",
+            "H1 FY’26": "4.9%",
+            "Y-o-Y Change (%)_1": "-180 bps"
+          },
+          {
+            "(INR Mn)": "Depreciation 164.7 165.4",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "-0.4%",
+            "H1 FY’27": "328.0",
+            "H1 FY’26": "336.9",
+            "Y-o-Y Change (%)_1": "-2.6%"
+          },
+          {
+            "(INR Mn)": "Interest 12.0 18.0",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "-33.3%",
+            "H1 FY’27": "22.0",
+            "H1 FY’26": "40.4",
+            "Y-o-Y Change (%)_1": "-45.5%"
+          },
+          {
+            "(INR Mn)": "Profit after tax (25.0) 46.4",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "NA",
+            "H1 FY’27": "(0.3)",
+            "H1 FY’26": "53.3",
+            "Y-o-Y Change (%)_1": "NA"
+          },
+          {
+            "(INR Mn)": "Diluted EPS (Rs) (1.05) 1.94",
+            "Q2 FY’27": "",
+            "Q2 FY’26": "",
+            "Y-o-Y Change (%)": "NA",
+            "H1 FY’27": "(0.01)",
+            "H1 FY’26": "2.23",
+            "Y-o-Y Change (%)_1": "NA"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "(INR Mn)": "Closing cash and cash 442.4 328.8 equivalents",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "34.5%"
+          },
+          {
+            "(INR Mn)": "Fixed Deposit with Banks 270.3 612.5",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "-55.9%"
+          },
+          {
+            "(INR Mn)": "Inventory 1,513.7 1,296.6",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "16.7%"
+          },
+          {
+            "(INR Mn)": "Receivables 329.2 230.5",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "42.8%"
+          },
+          {
+            "(INR Mn)": "Other current assets 1,120.3 851.5",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "31.6%"
+          },
+          {
+            "(INR Mn)": "Total current assets 3,675.9 3,319.9",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "10.7%"
+          },
+          {
+            "(INR Mn)": "Fixed assets 5,205.4 5,298.0",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "-1.7%"
+          },
+          {
+            "(INR Mn)": "RoU 338.2 304.7",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "11.0%"
+          },
+          {
+            "(INR Mn)": "Other assets 539.5 352.1",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "53.2%"
+          },
+          {
+            "(INR Mn)": "Total assets 9,759.0 9,274.7",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "5.2%"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 2,
+        "row_count": 11,
+        "rows": [
+          {
+            "(INR Mn)": "Trade Payables 1,377.5 1,111.1",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "24.0%"
+          },
+          {
+            "(INR Mn)": "Other current liabilities 130.7 190.5",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "-31.4%"
+          },
+          {
+            "(INR Mn)": "Other financial liabilities 417.5 370.4",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "12.7%"
+          },
+          {
+            "(INR Mn)": "Short term debt 290.0 40.0",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "625.0%"
+          },
+          {
+            "(INR Mn)": "Current liabilities 2,215.7 1,712.0",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "29.4%"
+          },
+          {
+            "(INR Mn)": "Borrowings 80.0 100.0",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "-20.0%"
+          },
+          {
+            "(INR Mn)": "Other liabilities 361.0 356.9",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "1.2%"
+          },
+          {
+            "(INR Mn)": "Deferred tax liabilities 108.7 109.0",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "-0.3%"
+          },
+          {
+            "(INR Mn)": "Non-current liabilities 549.7 565.9",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "-2.9%"
+          },
+          {
+            "(INR Mn)": "Equity 6,993.6 6,996.8",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "0.0%"
+          },
+          {
+            "(INR Mn)": "Total equity + liabilities 9,759.0 9,274.7",
+            "September 2026": "",
+            "March 2026": "",
+            "Change (%)": "5.2%"
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "(INR Mn)": "Reported EBITDA 319.5 409.1",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-21.9%"
+          },
+          {
+            "(INR Mn)": "Non-cash items in P&L -3.6 8.1",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-144.8%"
+          },
+          {
+            "(INR Mn)": "Change in WC -118.6 -153.7",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-23%"
+          },
+          {
+            "(INR Mn)": "Income tax paid 38.5 0.9",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "4,201%"
+          },
+          {
+            "(INR Mn)": "Cash From Operating Activities 235.7 264.4",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-11%"
+          },
+          {
+            "(INR Mn)": "Capex -205.3 -87.4",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "135%"
+          },
+          {
+            "(INR Mn)": "Investment & Loan to Subsidiary -390.4 0.0",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "NA"
+          },
+          {
+            "(INR Mn)": "Interest paid -8.8 -24.2",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-63%"
+          },
+          {
+            "(INR Mn)": "Interest received 46.8 45.8",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "2%"
+          },
+          {
+            "(INR Mn)": "Free Cashflow -322.0 198.6",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-262%"
+          },
+          {
+            "(INR Mn)": "Debt raised / (paid) 230.1 -237.1",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-197%"
+          },
+          {
+            "(INR Mn)": "Dividend paid 0.0 -11.9",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-100%"
+          },
+          {
+            "(INR Mn)": "Others 205.4 222.2",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-8%"
+          },
+          {
+            "(INR Mn)": "Net cash generated 113.6 171.8",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "-34%"
+          },
+          {
+            "(INR Mn)": "Opening cash and cash equivalents 328.8 111.6",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "195%"
+          },
+          {
+            "(INR Mn)": "Closing cash and cash equivalents 442.4 283.4",
+            "H1 FY’27": "",
+            "H1 FY’26": "",
+            "Y-o-Y Change (%)": "56%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "26f03ba9-3e5a-4e80-864c-d06503dbe350",
+    "SCRIP_CD": 505790,
+    "XML_NAME": "ANN_505790_26F03BA9-3E5A-4E80-864C-D06503DBE350",
+    "NEWSSUB": "Schaeffler India Ltd - 505790 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-01T21:23:15.06",
+    "NEWS_DT": "2026-11-01T21:23:15.06",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f2f6113b-c632-4128-8899-612b3b86aa7c.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation for Investor Meetings to be held from November 2, 2026 to November 5, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/schaeffler-india-ltd/schaeffler/505790/",
+    "SLONGNAME": "Schaeffler India Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T21:23:15",
+    "DissemDT": "2026-11-01T21:23:15.06",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3281844,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2617cd51-0f53-41c9-9aac-11d18836e893",
+    "SCRIP_CD": 540205,
+    "XML_NAME": "ANN_540205_2617CD51-0F53-41C9-9AAC-11D18836E893",
+    "NEWSSUB": "Aditya Vision Ltd - 540205 - Corrigendum To The Statement Of Unaudited Financial Results For The Quarter And Half-Year Ended September 30, 2026 Pursuant To Regulation 33 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-01T21:18:25.303",
+    "NEWS_DT": "2026-11-01T21:18:25.303",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6407f2f7-929a-42ab-aa70-8e42bba9b852.pdf",
+    "MORE": "",
+    "HEADLINE": "Corrigendum to the financial result filed on 30th October, 2026 of the Company.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aditya-vision-ltd/avl/540205/",
+    "SLONGNAME": "Aditya Vision Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T21:18:25",
+    "DissemDT": "2026-11-01T21:18:25.303",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1231669,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is a summary of the corporate announcement:\n\n* **Reason for Corrigendum:** On November 01, 2026, the company issued a corrigendum for its Q2 and H1 FY27 results (ended September 30, 2026, originally approved October 30, 2026) solely to rectify an inadvertent rounding off of the Earnings Per Share (EPS) figures, confirming that all other financial figures remain unchanged.\n* **Key Financial Results & Corrected EPS:** For the quarter ended September 30, 2026, Aditya Vision reported total income of ₹588 crore, net profit of ₹18 crore, and corrected basic/diluted EPS of ₹1.41; for the half-year ended September 30, 2026, total income was ₹1,783 crore, net profit was ₹96 crore, and corrected basic/diluted EPS was ₹7.41.",
+    "key_metrics": {
+      "revenue": "586",
+      "total_debt": "293",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 40,
+        "rows": [
+          {
+            "ADITYA VISION LIMITED": "CIN - L32109BR1999PLC008783",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "BALANCE SHEET AS AT SEPTEMBER 30, 2026",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(All amounts in INR crores)",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "PARTICULARS",
+            "col_2": "As at September 30, 2026",
+            "col_3": "As at March 31, 2026"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "Unaudited",
+            "col_3": "Audited"
+          },
+          {
+            "ADITYA VISION LIMITED": "ASSETS (A) Non-current assets (a) Property, Plant and Equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Financial Assets (i) Other financial assets (e) Deferred tax assets (net) (f) Non-Current tax assets (net) Total Non-Current Assets (A) (B) Current Assets (a) Inventories (b) Financial Assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than (ii) above (iv) Loans (c) Other current assets Total Current Assets (B) Total Assets (A+B) EQUITY AND LIABILITIES (A) Equity (a) Equity Share capital (b) Other Equity Total Equity (A) (B) LIABILITIES Non-Current Liabilities (a) Financial Liabilities (i) Lease liabilities Total Non-Current Liabilities (B) (C) Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (Net) Total Current Liabilities (C) Total Liabilities (B+C) Total Equity and Liabilities (A+B+C)",
+            "col_2": "",
+            "col_3": "131 195 6 46 9 5"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "136",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "230",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "7",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "48",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "9",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "5",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "435",
+            "col_3": "392"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "840 - 31 98 - 110"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "865",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "-",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "23",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "124",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "-",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "86",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "1,098",
+            "col_3": "1,079"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "1,533",
+            "col_3": "1,471"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "13 676"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "13",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "755",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "768",
+            "col_3": "689"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "214"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "240",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "240",
+            "col_3": "214"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "331 28 196 4 7 2 -"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "293",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "42",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "171",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "6",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "4",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "-",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "9",
+            "col_3": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "525",
+            "col_3": "568"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "765",
+            "col_3": "782"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "1,533",
+            "col_3": "1,471"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 35,
+        "rows": [
+          {
+            "ADITYA VISION LIMITED": "CIN - L32109BR1999PLC008783",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER & HALF YEAR ENDED SEPTEMBER 30, 2026",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "(All amounts in INR crores, except EPS)",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "Particulars",
+            "col_3": "Quarter ended",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Half Year ended",
+            "col_7": "",
+            "col_8": "Year ended"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "September 30, 2026",
+            "col_4": "June 30, 2026",
+            "col_5": "September 30,2025",
+            "col_6": "September 30, 2026",
+            "col_7": "September 30, 2025",
+            "col_8": "March 31, 2026"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Unaudited",
+            "col_6": "Unaudited",
+            "col_7": "Unaudited",
+            "col_8": "Audited"
+          },
+          {
+            "ADITYA VISION LIMITED": "I",
+            "col_2": "Revenue from operations",
+            "col_3": "586",
+            "col_4": "1,193",
+            "col_5": "458",
+            "col_6": "1,779",
+            "col_7": "1,398",
+            "col_8": "2,672"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "Other income",
+            "col_3": "2",
+            "col_4": "2",
+            "col_5": "2",
+            "col_6": "4",
+            "col_7": "4",
+            "col_8": "9"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "Total Income (I)",
+            "col_3": "588",
+            "col_4": "1,195",
+            "col_5": "460",
+            "col_6": "1,783",
+            "col_7": "1,402",
+            "col_8": "2,681"
+          },
+          {
+            "ADITYA VISION LIMITED": "II",
+            "col_2": "Expenses",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(a) Purchases of stock-in-trade",
+            "col_3": "692",
+            "col_4": "824",
+            "col_5": "517",
+            "col_6": "1,516",
+            "col_7": "1,162",
+            "col_8": "2,398"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(b) Changes in inventories of stock-in-trade",
+            "col_3": "(202)",
+            "col_4": "177",
+            "col_5": "(128)",
+            "col_6": "(25)",
+            "col_7": "23",
+            "col_8": "(142)"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(c) Employee benefits expense",
+            "col_3": "23",
+            "col_4": "24",
+            "col_5": "17",
+            "col_6": "46",
+            "col_7": "38",
+            "col_8": "82"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(d) Finance costs",
+            "col_3": "10",
+            "col_4": "11",
+            "col_5": "10",
+            "col_6": "22",
+            "col_7": "19",
+            "col_8": "39"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(e) Depreciation & Amortisation expenses",
+            "col_3": "13",
+            "col_4": "12",
+            "col_5": "10",
+            "col_6": "26",
+            "col_7": "20",
+            "col_8": "40"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(f) Operating & Other expenses",
+            "col_3": "28",
+            "col_4": "44",
+            "col_5": "17",
+            "col_6": "71",
+            "col_7": "50",
+            "col_8": "106"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "Total Expenses (II)",
+            "col_3": "564",
+            "col_4": "1,092",
+            "col_5": "443",
+            "col_6": "1,656",
+            "col_7": "1,312",
+            "col_8": "2,523"
+          },
+          {
+            "ADITYA VISION LIMITED": "III",
+            "col_2": "Profit before exceptional items and tax (I - II)",
+            "col_3": "24",
+            "col_4": "103",
+            "col_5": "17",
+            "col_6": "127",
+            "col_7": "90",
+            "col_8": "158"
+          },
+          {
+            "ADITYA VISION LIMITED": "IV",
+            "col_2": "Exceptional Items (Impact of New labour code)",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "1"
+          },
+          {
+            "ADITYA VISION LIMITED": "V",
+            "col_2": "Profit before tax (III + IV)",
+            "col_3": "24",
+            "col_4": "103",
+            "col_5": "17",
+            "col_6": "127",
+            "col_7": "90",
+            "col_8": "157"
+          },
+          {
+            "ADITYA VISION LIMITED": "VI",
+            "col_2": "Tax expense:",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(a) Current Tax",
+            "col_3": "6",
+            "col_4": "26",
+            "col_5": "4",
+            "col_6": "32",
+            "col_7": "22",
+            "col_8": "41"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(b) Deferred tax",
+            "col_3": "(0)",
+            "col_4": "(0)",
+            "col_5": "(0)",
+            "col_6": "(1)",
+            "col_7": "(0)",
+            "col_8": "(1)"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "",
+            "col_3": "6",
+            "col_4": "26",
+            "col_5": "4",
+            "col_6": "31",
+            "col_7": "22",
+            "col_8": "40"
+          },
+          {
+            "ADITYA VISION LIMITED": "VII",
+            "col_2": "Profit for the Period (V + VI))",
+            "col_3": "18",
+            "col_4": "77",
+            "col_5": "13",
+            "col_6": "96",
+            "col_7": "68",
+            "col_8": "117"
+          },
+          {
+            "ADITYA VISION LIMITED": "VIII",
+            "col_2": "Other Comprehensive Income (after tax)",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "A (i) Items that will not be reclassified to profit or loss",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(ii) Income tax relating to items that will not be reclassified to profit or loss",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(B) (i) Items that will be reclassified to profit or loss",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(ii) Income tax on realting to items that will be reclassified to profit or loss",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-"
+          },
+          {
+            "ADITYA VISION LIMITED": "IX",
+            "col_2": "Total Comprehensive income for the period ( VII+VIII)",
+            "col_3": "18",
+            "col_4": "77",
+            "col_5": "13",
+            "col_6": "96",
+            "col_7": "68",
+            "col_8": "117"
+          },
+          {
+            "ADITYA VISION LIMITED": "X",
+            "col_2": "Paid up Equity share capital (Face value of Re. 1/- each)",
+            "col_3": "13",
+            "col_4": "13",
+            "col_5": "13",
+            "col_6": "13",
+            "col_7": "13",
+            "col_8": "13"
+          },
+          {
+            "ADITYA VISION LIMITED": "XI",
+            "col_2": "i. Earnings per share",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(a) Basic",
+            "col_3": "1.41",
+            "col_4": "5.98",
+            "col_5": "0.99",
+            "col_6": "7.41",
+            "col_7": "5.27",
+            "col_8": "9.07"
+          },
+          {
+            "ADITYA VISION LIMITED": "",
+            "col_2": "(b) Diluted",
+            "col_3": "1.41",
+            "col_4": "5.97",
+            "col_5": "0.98",
+            "col_6": "7.41",
+            "col_7": "5.25",
+            "col_8": "9.05"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 1,
+        "row_count": 32,
+        "rows": [
+          {
+            "(All amounts in INR crores)": "Particulars",
+            "col_2": "September 30, 2026",
+            "col_3": "September 30, 2025"
+          },
+          {
+            "(All amounts in INR crores)": "Cash Flows from Operating Activities",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "(All amounts in INR crores)": "Profit before tax",
+            "col_2": "127",
+            "col_3": "90"
+          },
+          {
+            "(All amounts in INR crores)": "Adjustments for:",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "(All amounts in INR crores)": "Depreciation & amortisation expenses",
+            "col_2": "26",
+            "col_3": "20"
+          },
+          {
+            "(All amounts in INR crores)": "Interest income",
+            "col_2": "(4)",
+            "col_3": "(4)"
+          },
+          {
+            "(All amounts in INR crores)": "Interest expenses",
+            "col_2": "22",
+            "col_3": "19"
+          },
+          {
+            "(All amounts in INR crores)": "Share based payment expenses",
+            "col_2": "-",
+            "col_3": "(1)"
+          },
+          {
+            "(All amounts in INR crores)": "Working capital changes:",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "(All amounts in INR crores)": "(Increase) / Decrease in trade receivables",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "(All amounts in INR crores)": "(Increase) / Decrease in inventories",
+            "col_2": "(25)",
+            "col_3": "23"
+          },
+          {
+            "(All amounts in INR crores)": "Decrease in other current assets",
+            "col_2": "24",
+            "col_3": "21"
+          },
+          {
+            "(All amounts in INR crores)": "(Decrease) in trade payables",
+            "col_2": "(25)",
+            "col_3": "(13)"
+          },
+          {
+            "(All amounts in INR crores)": "Increase / (Decrease) in other current liabilities",
+            "col_2": "(4)",
+            "col_3": "1"
+          },
+          {
+            "(All amounts in INR crores)": "Cash generated from operations",
+            "col_2": "141",
+            "col_3": "156"
+          },
+          {
+            "(All amounts in INR crores)": "Income taxes paid",
+            "col_2": "(23)",
+            "col_3": "(20)"
+          },
+          {
+            "(All amounts in INR crores)": "Net cash from operating activities",
+            "col_2": "118",
+            "col_3": "136"
+          },
+          {
+            "(All amounts in INR crores)": "Cash flows from investing activities",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "(All amounts in INR crores)": "Purchase of property, plant and equipment",
+            "col_2": "(12)",
+            "col_3": "(16)"
+          },
+          {
+            "(All amounts in INR crores)": "Investments in bank deposits",
+            "col_2": "(28)",
+            "col_3": "(12)"
+          },
+          {
+            "(All amounts in INR crores)": "Interest Income",
+            "col_2": "4",
+            "col_3": "4"
+          },
+          {
+            "(All amounts in INR crores)": "Net cash used in investing activities",
+            "col_2": "(36)",
+            "col_3": "(24)"
+          },
+          {
+            "(All amounts in INR crores)": "Cash flows from financing activities",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "(All amounts in INR crores)": "Interest Paid",
+            "col_2": "(8)",
+            "col_3": "(9)"
+          },
+          {
+            "(All amounts in INR crores)": "Dividends Paid",
+            "col_2": "(16)",
+            "col_3": "(13)"
+          },
+          {
+            "(All amounts in INR crores)": "Lease liabilities",
+            "col_2": "(28)",
+            "col_3": "(20)"
+          },
+          {
+            "(All amounts in INR crores)": "Proceeds/(Repayment) from Borrowings",
+            "col_2": "(38)",
+            "col_3": "(77)"
+          },
+          {
+            "(All amounts in INR crores)": "Net cash used in financing activities",
+            "col_2": "(90)",
+            "col_3": "(119)"
+          },
+          {
+            "(All amounts in INR crores)": "Net increase in cash and cash equivalents",
+            "col_2": "(8)",
+            "col_3": "(7)"
+          },
+          {
+            "(All amounts in INR crores)": "Cash and cash equivalents at beginning of period",
+            "col_2": "31",
+            "col_3": "26"
+          },
+          {
+            "(All amounts in INR crores)": "Cash and cash equivalents at end of period",
+            "col_2": "23",
+            "col_3": "19"
+          },
+          {
+            "(All amounts in INR crores)": "",
+            "col_2": "s Nil",
+            "col_3": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "28e1a14b-9445-41bf-bd23-023853105d00",
+    "SCRIP_CD": 532898,
+    "XML_NAME": "ANN_532898_28E1A14B-9445-41BF-BD23-023853105D00",
+    "NEWSSUB": "Power Grid Corporation of India Ltd - 532898 - Disclosure Under Reg. 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
+    "DT_TM": "2026-11-01T21:07:27.167",
+    "NEWS_DT": "2026-11-01T21:07:27.167",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "59dede33-5066-4899-a963-e27cd4fe090d.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Reg. 30 of SEBI (LODR) Regulations, 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/power-grid-corporation-of-india-ltd/powergrid/532898/",
+    "SLONGNAME": "Power Grid Corporation of India Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T21:07:27",
+    "DissemDT": "2026-11-01T21:07:27.167",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 315626,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board approval (01 Nov 2026):** Power Grid Corp. approved the sale of its entire stake in Central Transmission Utility of India Ltd (CTUIL) to Grid‑India Ltd.  \n\n- **Purchase price:** An initial payment of **₹73.46 crore** (derived from a Net Asset Value of **₹76.85 crore** as of 30 Sep 2026 less liability deductions of **₹3.39 crore**) plus a “true‑up” amount to be calculated for the period from 30 Sep 2026 to the closing date (which must",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "3a1d6ad6-9847-4642-9e5a-79f0b516f1fb",
     "SCRIP_CD": 532898,
     "XML_NAME": "ANN_532898_3A1D6AD6-9847-4642-9E5A-79F0B516F1FB",
@@ -11370,224 +12620,6 @@
             "Particulars": "Total Assets",
             "30 Sept 2026": "7,589.49",
             "31 Mar 2026": "6,671.75"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b49d1a5c-fae2-484f-905d-c37d363af447",
-    "SCRIP_CD": 532670,
-    "XML_NAME": "ANN_532670_B49D1A5C-FAE2-484F-905D-C37D363AF447",
-    "NEWSSUB": "Shree Renuka Sugars Ltd - 532670 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-01T11:53:08.107",
-    "NEWS_DT": "2026-11-01T11:53:08.107",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "14252ff4-0ba0-4c30-9de8-5e782e5e6f9a.pdf",
-    "MORE": "",
-    "HEADLINE": "The Company submits herewith copy of newspaper publication of the Unaudited Financial Results (Standalone & Consolidated) for the quarter and half year ended 30th September 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/shree-renuka-sugars-ltd/renuka/532670/",
-    "SLONGNAME": "Shree Renuka Sugars Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T11:53:08",
-    "DissemDT": "2026-11-01T11:53:08.107",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4209676,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Announcement date & filing:** On 1 November 2026, Shree Renuka Sugars Ltd. submitted to the NSE and BSE copies of newspaper publications (Financial Express – English and Kannada Prabha – Kannada) that contain its **unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 September 2026**.  \n\n- **Financial details disclosed:** The notice does **not** provide any specific figures, profit/loss amounts, or other quantitative financial information; it merely confirms that the unaudited results have been published in the newspapers.",
-    "key_metrics": {
-      "revenue": "9.612",
-      "eps": "4.30",
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c08e89f9-e55b-4b90-9fd7-dd745a979dec",
-    "SCRIP_CD": 544940,
-    "XML_NAME": "ANN_544940_C08E89F9-E55B-4B90-9FD7-DD745A979DEC",
-    "NEWSSUB": "Robokidz Eduventures Ltd - 544940 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-01T11:52:18.83",
-    "NEWS_DT": "2026-11-01T11:52:18.83",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8a855efa-34e7-4706-8e64-241440dcb521.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Schedule of Analyst / Institutional Investor Meet under Regulation 30 of SEBI LODR Regulations, 2015",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/robokidz-eduventures-ltd/robokidz/544940/",
-    "SLONGNAME": "Robokidz Eduventures Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T11:52:18",
-    "DissemDT": "2026-11-01T11:52:18.83",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1023471,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "c08e89f9-e55b-4b90-9fd7-dd745a979dec",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14727382,
-    "DataInsDate": "2026-11-01T11:52:18.773",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Earnings Call Details:** Robokidz Eduventures Ltd will hold a virtual earnings call on **Thursday, 5 November 2026 at 1:30 PM IST** to discuss its unaudited half‑year results for the period ended **30 September 2025**. Registration is required to receive dial‑in information; the company confirms that no unpublished price‑sensitive information will be shared.\n\n- **Financial Information:** The announcement does",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cf2aeaeb-2def-4b01-b309-4d78853adcdd",
-    "SCRIP_CD": 533278,
-    "XML_NAME": "ANN_533278_CF2AEAEB-2DEF-4B01-B309-4D78853ADCDD",
-    "NEWSSUB": "Coal India Ltd - 533278 - Announcement under Regulation 30 (LODR)-Monthly Business Updates",
-    "DT_TM": "2026-11-01T11:46:44.343",
-    "NEWS_DT": "2026-11-01T11:46:44.343",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "08e991e1-5f8b-49a9-9193-e0c084c242cf.pdf",
-    "MORE": "",
-    "HEADLINE": "Provisional Production and offtake for the month of october 26 and progressive from Apr26 to oct26",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/coal-india-ltd/coalindia/533278/",
-    "SLONGNAME": "Coal India Ltd",
-    "AGENDA_ID": 110,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T11:46:44",
-    "DissemDT": "2026-11-01T11:46:44.343",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 372963,
-    "SUBCATNAME": "Monthly Business Updates",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Production (Oct 2026, provisional):** Coal India Ltd (CIL) and its subsidiaries produced a total of **67.2 Mt** of coal in October 2026, a **0.7 % increase** over the same month last year. The subsidiary breakdown shows the highest growth for WCL (+64.7 %) and a modest rise for ECL (+27.9 %).  \n\n- **Off‑take (Oct 2026, provisional):** Total off‑take for the group was **70.3 Mt** in October 2026, up **9.2",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2ee873a8-5bf2-44c8-bba8-03a01d4870fc",
-    "SCRIP_CD": 500495,
-    "XML_NAME": "ANN_500495_2EE873A8-5BF2-44C8-BBA8-03A01D4870FC",
-    "NEWSSUB": "Escorts Kubota Ltd - 500495 - Announcement under Regulation 30 (LODR)-Monthly Business Updates",
-    "DT_TM": "2026-11-01T11:10:23.857",
-    "NEWS_DT": "2026-11-01T11:10:23.857",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "beaf509a-6394-46ca-8dc1-726e594263a1.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed herewith the Company announcement pertaining to sales volume of tractors and construction equipment for the month of October, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/escorts-kubota-ltd/escorts/500495/",
-    "SLONGNAME": "Escorts Kubota Ltd",
-    "AGENDA_ID": 110,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T11:10:23",
-    "DissemDT": "2026-11-01T11:10:23.857",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 445221,
-    "SUBCATNAME": "Monthly Business Updates",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Tractor sales (October 2026):** 16,921 units sold (domestic 16,412, export 509). This is a 10.0% decline versus October 2025 (18,798 units) and a 35.7% rise in export sales year‑on‑year. For the April‑October period of FY27, total tractor sales were 87,800 units, up 5.5% from FY26’s 83,256 units",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 2,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "",
-            "October": "FY27",
-            "col_3": "FY26",
-            "col_4": "% Change",
-            "April - October (7M)": "FY27",
-            "col_6": "FY26",
-            "col_7": "% Change"
-          },
-          {
-            "Particulars": "Domestic",
-            "October": "16,412",
-            "col_3": "18,423",
-            "col_4": "-10.9%",
-            "April - October (7M)": "84,497",
-            "col_6": "79,600",
-            "col_7": "6.2%"
-          },
-          {
-            "Particulars": "Export",
-            "October": "509",
-            "col_3": "375",
-            "col_4": "35.7%",
-            "April - October (7M)": "3,303",
-            "col_6": "3,656",
-            "col_7": "-9.7%"
-          },
-          {
-            "Particulars": "Total",
-            "October": "16,921",
-            "col_3": "18,798",
-            "col_4": "-10.0%",
-            "April - October (7M)": "87,800",
-            "col_6": "83,256",
-            "col_7": "5.5%"
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 1,
-        "row_count": 2,
-        "rows": [
-          {
-            "Particulars": "",
-            "October": "FY27",
-            "col_3": "FY26",
-            "col_4": "% Change",
-            "April - October (7M)": "FY27",
-            "col_6": "FY26",
-            "col_7": "% Change"
-          },
-          {
-            "Particulars": "Total",
-            "October": "640",
-            "col_3": "452",
-            "col_4": "41.6%",
-            "April - October (7M)": "3,748",
-            "col_6": "2,653",
-            "col_7": "41.3%"
           }
         ]
       }
