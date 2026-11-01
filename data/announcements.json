@@ -1,5 +1,80 @@
 [
   {
+    "NEWSID": "c4aff6e4-9ad1-49c5-b08f-561aef90c786",
+    "SCRIP_CD": 524208,
+    "XML_NAME": "ANN_524208_C4AFF6E4-9AD1-49C5-B08F-561AEF90C786",
+    "NEWSSUB": "Aarti Industries Ltd - 524208 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-01T21:51:05.61",
+    "NEWS_DT": "2026-11-01T21:51:05.61",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "779fec81-cb4f-47e5-bc21-3f9683367f92.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith the Q2 FY27 Results Presentation of the Company for your records",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aarti-industries-ltd/aartiind/524208/",
+    "SLONGNAME": "Aarti Industries Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T21:51:05",
+    "DissemDT": "2026-11-01T21:51:05.61",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3820568,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement is a notice that Aarti Industries Ltd. has submitted its Q2 FY 27 (and H1 FY 27) results presentation to the stock exchanges on **1 November 2026** under Regulation 30 of the SEBI (LODR) Regulations.  \n- No specific financial figures, performance metrics, or other quantitative details are provided in the text.",
+    "key_metrics": {
+      "operating_profit": "2.5",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "43214c13-3e13-400c-8228-287214f3adb1",
+    "SCRIP_CD": 539551,
+    "XML_NAME": "ANN_539551_43214C13-3E13-400C-8228-287214F3ADB1",
+    "NEWSSUB": "Narayana Hrudayalaya Ltd - 539551 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-01T21:33:40.62",
+    "NEWS_DT": "2026-11-01T21:33:40.62",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ff9c456a-93eb-4189-a739-9af249404513.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication for unaudited (Standalone and consolidated) financial results for the quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/narayana-hrudayalaya-ltd/nh/539551/",
+    "SLONGNAME": "Narayana Hrudayalaya Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T21:33:40",
+    "DissemDT": "2026-11-01T21:33:40.62",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4876636,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "c853b018-9fb0-430f-898b-6dbfc5bad648",
     "SCRIP_CD": 540724,
     "XML_NAME": "ANN_540724_C853B018-9FB0-430F-898B-6DBFC5BAD648",
@@ -12363,263 +12438,6 @@
             "col_9": "",
             "col_10": "",
             "col_11": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "71ad02f1-ddf2-4bf0-9b17-b387ef906939",
-    "SCRIP_CD": 514272,
-    "XML_NAME": "ANN_514272_71AD02F1-DDF2-4BF0-9B17-B387EF906939",
-    "NEWSSUB": "Bhilwara Spinners Ltd - 514272 - Update on board meeting",
-    "DT_TM": "2026-11-01T12:00:35.553",
-    "NEWS_DT": "2026-11-01T12:00:35.553",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a057200a-8965-4ffa-9b21-77c13417173e.pdf",
-    "MORE": "",
-    "HEADLINE": "Bhilwara Spinners Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve CORRIGENDUM",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bhilwara-spinners-ltd/bhilspin/514272/",
-    "SLONGNAME": "Bhilwara Spinners Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T12:00:34",
-    "DissemDT": "2026-11-01T12:00:35.553",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 754269,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors will meet on **Wednesday, 4 Nov 2026 at 1:00 PM** at the registered office to consider and approve the **unaudited financial results for the quarter and six‑month period ended 30 Sept 2026**.  \n- The company’s **insider‑trading window is closed from 1 Oct 2026 through 6 Nov 2026**; no actual financial figures or amounts are disclosed in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a60bbfbe-e3df-47bd-91f2-2b2ef289304d",
-    "SCRIP_CD": 544440,
-    "XML_NAME": "ANN_544440_A60BBFBE-E3DF-47BD-91F2-2B2EF289304D",
-    "NEWSSUB": "Cryogenic Ogs Ltd - 544440 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-01T11:57:31.247",
-    "NEWS_DT": "2026-11-01T11:57:31.247",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4086d4cb-caaf-40df-9a29-057606e5def0.pdf",
-    "MORE": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed herewith Investor Presentation of the Company.",
-    "HEADLINE": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed herewith Investor Presentation ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/cryogenic-ogs-ltd/cryogenic/544440/",
-    "SLONGNAME": "Cryogenic Ogs Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T11:57:31",
-    "DissemDT": "2026-11-01T11:57:31.247",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6626079,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Cryogenic OGS Ltd submitted an Investor Presentation to BSE Ltd on 1 Nov 2026 in compliance with SEBI Regulation 30; the presentation (covering company overview, management, value chain, manufacturing, portfolio, credentials and subsidiaries) is also available on its website www.cryogenicogs.com.  \n\n- The filing contains no specific financial figures, dates of transactions, or monetary decisions—only a notice that the presentation relates to the half‑year ended 30 Sept 2026.",
-    "key_metrics": {
-      "revenue": "32.42",
-      "net_profit": "675.92",
-      "operating_profit": "984.21",
-      "total_assets": "7589.49",
-      "total_debt": "16",
-      "eps": "4.52",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 20,
-        "table_index": 1,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars": "Revenue from Operations",
-            "H1 FY27": "3,035.68",
-            "H1 FY26": "2,106.50",
-            "YoY %": "44.11%",
-            "H2 FY26": "1,975.74",
-            "HoH %": "53.65%"
-          },
-          {
-            "Particulars": "Other Income",
-            "H1 FY27": "86.43",
-            "H1 FY26": "64.75",
-            "YoY %": "33.48%",
-            "H2 FY26": "96.48",
-            "HoH %": "10.42%"
-          },
-          {
-            "Particulars": "Total Income",
-            "H1 FY27": "3,122.11",
-            "H1 FY26": "2,171.25",
-            "YoY %": "43.79%",
-            "H2 FY26": "2,072.22",
-            "HoH %": "50.66%"
-          },
-          {
-            "Particulars": "Total Expenditure",
-            "H1 FY27": "2,137.90",
-            "H1 FY26": "1,540.17",
-            "YoY %": "38.81%",
-            "H2 FY26": "1,409.18",
-            "HoH %": "51.71%"
-          },
-          {
-            "Particulars": "EBITDA",
-            "H1 FY27": "984.21",
-            "H1 FY26": "631.08",
-            "YoY %": "55.96%",
-            "H2 FY26": "663.06",
-            "HoH %": "48.43%"
-          },
-          {
-            "Particulars": "Depreciation",
-            "H1 FY27": "44.90",
-            "H1 FY26": "25.03",
-            "YoY %": "79.38%",
-            "H2 FY26": "32.67",
-            "HoH %": "37.43%"
-          },
-          {
-            "Particulars": "Interest",
-            "H1 FY27": "27.49",
-            "H1 FY26": "2.04",
-            "YoY %": "1247.55%",
-            "H2 FY26": "9.16",
-            "HoH %": "200.11%"
-          },
-          {
-            "Particulars": "Profit on sale of Plot",
-            "H1 FY27": "0.00",
-            "H1 FY26": "123.95",
-            "YoY %": "0.00%",
-            "H2 FY26": "0.00",
-            "HoH %": "0.00%"
-          },
-          {
-            "Particulars": "Profit Before Tax",
-            "H1 FY27": "911.82",
-            "H1 FY26": "727.96",
-            "YoY %": "25.26%",
-            "H2 FY26": "621.21",
-            "HoH %": "46.78%"
-          },
-          {
-            "Particulars": "Tax",
-            "H1 FY27": "235.90",
-            "H1 FY26": "176.29",
-            "YoY %": "33.81%",
-            "H2 FY26": "154.62",
-            "HoH %": "52.57%"
-          },
-          {
-            "Particulars": "PAT",
-            "H1 FY27": "675.92",
-            "H1 FY26": "551.67",
-            "YoY %": "22.52%",
-            "H2 FY26": "466.6",
-            "HoH %": "44.86%"
-          },
-          {
-            "Particulars": "EBITDA Margin",
-            "H1 FY27": "32.42%",
-            "H1 FY26": "29.96%",
-            "YoY %": "246 bps",
-            "H2 FY26": "33.56%",
-            "HoH %": "-114 bps"
-          },
-          {
-            "Particulars": "PAT Margin",
-            "H1 FY27": "22.27%",
-            "H1 FY26": "26.19%",
-            "YoY %": "392 bps",
-            "H2 FY26": "23.62%",
-            "HoH %": "135 bps"
-          },
-          {
-            "Particulars": "EPS (₹)",
-            "H1 FY27": "4.73",
-            "H1 FY26": "4.52",
-            "YoY %": "4.65%",
-            "H2 FY26": "3.17",
-            "HoH %": "49.21%"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 1,
-        "row_count": 10,
-        "rows": [
-          {
-            "Particulars": "Shareholdersʼ Funds",
-            "30 Sept 2026": "6,141.10",
-            "31 Mar 2026": "5,465.18"
-          },
-          {
-            "Particulars": "Trade Payables",
-            "30 Sept 2026": "323.87",
-            "31 Mar 2026": "251.68"
-          },
-          {
-            "Particulars": "Provisions",
-            "30 Sept 2026": "87.03",
-            "31 Mar 2026": "64.44"
-          },
-          {
-            "Particulars": "Other Liabilities",
-            "30 Sept 2026": "1,037.49",
-            "31 Mar 2026": "890.45"
-          },
-          {
-            "Particulars": "Total Equitites & Liabilities",
-            "30 Sept 2026": "7,589.49",
-            "31 Mar 2026": "6,671.75"
-          },
-          {
-            "Particulars": "Fixed Assets",
-            "30 Sept 2026": "1,733.14",
-            "31 Mar 2026": "1,720.43"
-          },
-          {
-            "Particulars": "Loans & Advances",
-            "30 Sept 2026": "900.89",
-            "31 Mar 2026": "93.33"
-          },
-          {
-            "Particulars": "Trade Receivables",
-            "30 Sept 2026": "1,424.56",
-            "31 Mar 2026": "479.52"
-          },
-          {
-            "Particulars": "Other Assets",
-            "30 Sept 2026": "3,530.90",
-            "31 Mar 2026": "4,378.47"
-          },
-          {
-            "Particulars": "Total Assets",
-            "30 Sept 2026": "7,589.49",
-            "31 Mar 2026": "6,671.75"
           }
         ]
       }
