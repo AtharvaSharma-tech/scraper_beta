@@ -1,5 +1,837 @@
 [
   {
+    "NEWSID": "265ef498-df3e-4486-803a-5c954f0c69bf",
+    "SCRIP_CD": 543261,
+    "XML_NAME": "ANN_543261_265EF498-DF3E-4486-803A-5C954F0C69BF",
+    "NEWSSUB": "Brookfield India Real Estate Trust REIT - 543261 - Reg 23(5)(i): Disclosure of material issue",
+    "DT_TM": "2026-11-01T19:14:05.17",
+    "NEWS_DT": "2026-11-01T19:14:05.17",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0c661c02-5ab4-4c6b-94a5-ff1ffa087a5f.pdf",
+    "MORE": "",
+    "HEADLINE": "Brookfield India Real Estate Trust REIT has informed the Exchange regarding Disclosure of material issue",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/brookfield-india-real-estate-trust-reit/biret/543261/",
+    "SLONGNAME": "Brookfield India Real Estate Trust REIT",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T19:14:05",
+    "DissemDT": "2026-11-01T19:14:05.17",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 526378,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The earnings conference call to discuss Brookfield India REIT’s Q2 FY 2027 (quarter and half‑year ended 30 Sept 2026) results has been moved from 12:00 PM IST to 11:30 AM IST on Tuesday, 3 Nov 2026; all other call details remain unchanged.  \n- The investor presentation will be posted on the REIT’s website after the results are announced on 2 Nov 2026.  \n\n*No specific financial figures or decisions are disclosed in this announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4dc9ba4a-9cd5-4f06-9487-9cd8ba4d99b1",
+    "SCRIP_CD": 540737,
+    "XML_NAME": "ANN_540737_4DC9BA4A-9CD5-4F06-9487-9CD8BA4D99B1",
+    "NEWSSUB": "Shree Ganesh Remedies Ltd - 540737 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-01T19:08:57.567",
+    "NEWS_DT": "2026-11-01T19:08:57.567",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "37a0fb05-2914-414b-b796-9ae9322aace9.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shree-ganesh-remedies-ltd/sgrl/540737/",
+    "SLONGNAME": "Shree Ganesh Remedies Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T19:08:57",
+    "DissemDT": "2026-11-01T19:08:57.567",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4682500,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "-",
+    "key_metrics": {
+      "revenue": "30.32",
+      "net_profit": "4.96",
+      "operating_profit": "31.7",
+      "total_assets": "207.74",
+      "total_equity": "207.74",
+      "total_debt": "21.25",
+      "eps": "3.86",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "23.29",
+            "YoY Change": "-23% 62%",
+            "QoQ Change": "",
+            "H1FY26": "54.98",
+            "H1FY27": "37.65",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "24.70",
+            "YoY Change": "-20% 61%",
+            "QoQ Change": "",
+            "H1FY26": "56.33",
+            "H1FY27": "40.00",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "19.36",
+            "YoY Change": "-6% 76%",
+            "QoQ Change": "",
+            "H1FY26": "38.07",
+            "H1FY27": "30.37",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "3.94",
+            "YoY Change": "-59% 17%",
+            "QoQ Change": "",
+            "H1FY26": "16.92",
+            "H1FY27": "7.29",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "16.9%",
+            "YoY Change": "-1,483 bps -644 bps",
+            "QoQ Change": "",
+            "H1FY26": "30.8%",
+            "H1FY27": "19.4%",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "0.58",
+            "YoY Change": "-43% 80%",
+            "QoQ Change": "",
+            "H1FY26": "1.95",
+            "H1FY27": "0.89",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "2.50",
+            "YoY Change": "-3% 3%",
+            "QoQ Change": "",
+            "H1FY26": "5.01",
+            "H1FY27": "4.94",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "2.26",
+            "YoY Change": "-66% 48%",
+            "QoQ Change": "",
+            "H1FY26": "11.31",
+            "H1FY27": "3.79",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "1.63",
+            "YoY Change": "-67% 46%",
+            "QoQ Change": "",
+            "H1FY26": "8.41",
+            "H1FY27": "2.75",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "1.28",
+            "YoY Change": "",
+            "QoQ Change": "",
+            "H1FY26": "6.55",
+            "H1FY27": "2.15",
+            "YoY Change_1": ""
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 16,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "165.79"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "22.61"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "20.62"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "21.97"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "5.37"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "14.84"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "210.37"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "122.85"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "64.63"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "16.30"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "87.52"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "33.53"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "21.12"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "17.36"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "11.38"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY26": "",
+            "H1FY27": "210.37"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "H1FY26": "",
+            "H1FY27": "14.64"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "H1FY26": "",
+            "H1FY27": "-5.17"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "H1FY26": "",
+            "H1FY27": "-5.55"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "H1FY26": "",
+            "H1FY27": "3.92"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "H1FY26": "",
+            "H1FY27": "13.36"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "H1FY26": "",
+            "H1FY27": "17.28"
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "109.29"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "112.32"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "74.27"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "35.02"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "32.0%"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "3.56"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "10.47"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "24.01"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "17.77"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "13.84"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 16,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "163.02"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "23.03"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "21.25"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "21.69"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "9.42"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "9.44"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "207.74"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "121.91"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "68.08"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "12.38"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "85.83"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "24.01"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "32.57"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "13.45"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "12.45"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "207.74"
+          }
+        ]
+      },
+      {
+        "page": 33,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "23.75"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "(9.89)"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "(11.70)"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "2.17"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "9.90"
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "FY22": "",
+            "FY23": "",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "13.36"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "fd98d892-9692-44ed-b1dd-861e24d9db6b",
+    "SCRIP_CD": 526247,
+    "XML_NAME": "ANN_526247_FD98D892-9692-44ED-B1DD-861E24D9DB6B",
+    "NEWSSUB": "Premier Explosives Ltd - 526247 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+    "DT_TM": "2026-11-01T19:08:21.35",
+    "NEWS_DT": "2026-11-01T19:08:21.35",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "31cef9e1-42d7-4fa1-ba16-740c83770191.pdf",
+    "MORE": "",
+    "HEADLINE": "Completion of tenure of Lt Gen. Peruvemba Ramachandran Kumar (DIN: 07352541) as Non-Executive Independent Director of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/premier-explosives-ltd/premexpln/526247/",
+    "SLONGNAME": "Premier Explosives Ltd",
+    "AGENDA_ID": 15,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T19:08:21",
+    "DissemDT": "2026-11-01T19:08:21.35",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1126289,
+    "SUBCATNAME": "Change in Directorate",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Lt. Gen. Peruvemba Ramachandran Kumar (DIN 07352541) will cease to be an Independent Director of Premier Explosives Ltd after completing his second consecutive five‑year term, effective **close of business on 1 November 2026**.  \n- The announcement is a regulatory disclosure under SEBI Regulation 30; **no financial figures, transactions, or monetary decisions are disclosed** in the notice.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d1662457-16d3-4877-8a67-6229579a86b2",
+    "SCRIP_CD": 540737,
+    "XML_NAME": "ANN_540737_D1662457-16D3-4877-8A67-6229579A86B2",
+    "NEWSSUB": "Shree Ganesh Remedies Ltd - 540737 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-01T19:07:30.183",
+    "NEWS_DT": "2026-11-01T19:07:30.183",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bebb5652-ad21-4b31-a0ed-9b9fdf02a813.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shree-ganesh-remedies-ltd/sgrl/540737/",
+    "SLONGNAME": "Shree Ganesh Remedies Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T19:07:30",
+    "DissemDT": "2026-11-01T19:07:30.183",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 328675,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Q2 FY27 (quarter ended 30 Sept 2026)** – Revenue of **",
+    "key_metrics": {
+      "revenue": "30.32",
+      "net_profit": "4.96",
+      "operating_profit": "31.7",
+      "eps": "3.86",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "23.29",
+            "YoY Change": "-23% 62%",
+            "QoQ Change": "",
+            "H1FY26": "54.98",
+            "H1FY27": "37.65",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "24.70",
+            "YoY Change": "-20% 61%",
+            "QoQ Change": "",
+            "H1FY26": "56.33",
+            "H1FY27": "40.00",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "19.36",
+            "YoY Change": "-6% 76%",
+            "QoQ Change": "",
+            "H1FY26": "38.07",
+            "H1FY27": "30.37",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "3.94",
+            "YoY Change": "-59% 17%",
+            "QoQ Change": "",
+            "H1FY26": "16.92",
+            "H1FY27": "7.29",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "16.9%",
+            "YoY Change": "-1,483 -644 bps bps",
+            "QoQ Change": "",
+            "H1FY26": "30.8%",
+            "H1FY27": "19.4%",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "0.58",
+            "YoY Change": "-43% 80%",
+            "QoQ Change": "",
+            "H1FY26": "1.95",
+            "H1FY27": "0.89",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "2.50",
+            "YoY Change": "-3% 3%",
+            "QoQ Change": "",
+            "H1FY26": "5.01",
+            "H1FY27": "4.94",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "2.26",
+            "YoY Change": "-66% 48%",
+            "QoQ Change": "",
+            "H1FY26": "11.31",
+            "H1FY27": "3.79",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "1.63",
+            "YoY Change": "-67% 46%",
+            "QoQ Change": "",
+            "H1FY26": "8.41",
+            "H1FY27": "2.75",
+            "YoY Change_1": ""
+          },
+          {
+            "PARTICULARS (₹ IN CRORES)": "",
+            "Q2FY26": "",
+            "Q1FY27": "",
+            "Q2FY27": "1.28",
+            "YoY Change": "-67% 47%",
+            "QoQ Change": "",
+            "H1FY26": "6.55",
+            "H1FY27": "2.15",
+            "YoY Change_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "065dfdd5-4fd9-40ce-8bff-aed90cc37dbf",
+    "SCRIP_CD": 540737,
+    "XML_NAME": "ANN_540737_065DFDD5-4FD9-40CE-8BFF-AED90CC37DBF",
+    "NEWSSUB": "Shree Ganesh Remedies Ltd - 540737 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-01T19:05:31.99",
+    "NEWS_DT": "2026-11-01T19:05:31.99",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "87c72719-b46d-4ff6-a2c1-2c3366d7ed23.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shree-ganesh-remedies-ltd/sgrl/540737/",
+    "SLONGNAME": "Shree Ganesh Remedies Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 3,
+    "News_submission_dt": "2026-11-01T19:05:31",
+    "DissemDT": "2026-11-01T19:05:31.99",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2410006,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Shree Ganesh Remedies Ltd. submitted newspaper copies of its **unaudited financial results for the quarter and half‑year ended 30 September 2026**, as required under Regulation 47 of the SEBI (LODR) Regulations, 2015.  \n- The announcement does **not disclose any specific financial numbers or figures**; it only informs the exchange of the publication of those results.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "d1f66585-fc24-45fa-b2ef-2d682f9e22ae",
     "SCRIP_CD": 533339,
     "XML_NAME": "ANN_533339_D1F66585-FC24-45FA-B2EF-2D682F9E22AE",
@@ -6056,576 +6888,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "- Mr. Sukhjit S. Pasricha, Head – Human Resources (Senior Management Personnel) ceased to be employed by Jindal Steel Ltd effective close of business on 31 October 2026.  \n- The announcement contains no financial figures, transactions, or monetary decisions; it solely reports the management change.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "aba2be96-4328-4ad7-b976-95ea13405da8",
-    "SCRIP_CD": 531209,
-    "XML_NAME": "ANN_531209_ABA2BE96-4328-4AD7-B976-95EA13405DA8",
-    "NEWSSUB": "Nucleus Software Exports Ltd - 531209 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-01T10:13:21.313",
-    "NEWS_DT": "2026-11-01T10:13:21.313",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bf046054-8cfe-42c8-b6e8-642fa5ab9b15.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed herewith Newspaper Publication",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/nucleus-software-exports-ltd/nucleus/531209/",
-    "SLONGNAME": "Nucleus Software Exports Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T10:13:21",
-    "DissemDT": "2026-11-01T10:13:21.313",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1636441,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Nucleus Software Exports Ltd. placed a newspaper advertisement on **01 Nov 2026** announcing that its **financial results for the quarter and half‑year ended 30 Sept 2026** have been published.  \n- The notice contains no specific financial figures, earnings, or other quantitative details—only the date of the advertisement and the period of the results being reported.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "57fe8149-5596-4240-94a4-b3f1202c8500",
-    "SCRIP_CD": 544274,
-    "XML_NAME": "ANN_544274_57FE8149-5596-4240-94A4-B3F1202C8500",
-    "NEWSSUB": "Hyundai Motor India Ltd - 544274 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-01T09:58:45.39",
-    "NEWS_DT": "2026-11-01T09:58:45.39",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "20dfa3a5-f9d4-429d-83ae-da12b1a807bb.pdf",
-    "MORE": "",
-    "HEADLINE": "Sales number for the month of Oct. 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hyundai-motor-india-ltd/hyundai/544274/",
-    "SLONGNAME": "Hyundai Motor India Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T09:58:45",
-    "DissemDT": "2026-11-01T09:58:45.39",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 326036,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Record October 2026 sales:** Hyundai Motor India Ltd reported its highest‑ever total monthly sales of **82,299 units** (62,799 domestic + 19,500 exports), a **17.7%",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "deebe359-f019-4ea6-9f74-36e0f2e07638",
-    "SCRIP_CD": 539043,
-    "XML_NAME": "ANN_539043_DEEBE359-F019-4EA6-9F74-36E0F2E07638",
-    "NEWSSUB": "BKM Industries Ltd - 539043 - Board Meeting Outcome for BKMINDST : Bkm Industries Limited Has Submitted To The Exchange, The Financial Results For The Period Ended September 30, 2026.",
-    "DT_TM": "2026-11-01T09:58:04.463",
-    "NEWS_DT": "2026-11-01T09:58:04.463",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "077c9a5b-ddd6-4872-b09a-2678d4ba57a4.pdf",
-    "MORE": "",
-    "HEADLINE": "BKMINDST : Bkm Industries Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bkm-industries-ltd/bkmindst/539043/",
-    "SLONGNAME": "BKM Industries Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T09:58:00",
-    "DissemDT": "2026-11-01T09:58:04.463",
-    "TimeDiff": "00:00:04",
-    "Fld_Attachsize": 8869551,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval & filing:** The Board of Directors met on 30 Oct 2026 (concluding 31 Oct 2026) and approved the standalone unaudited financial results for the quarter and half‑year ended 30 Sep 2026, which were then submitted to BSE (Scrip 539043) and NSE (Scrip BKMINDST) under SEBI Regulation 33.  \n\n- **Audit review outcome:** The limited‑review report issued by Prabhat & Co. Chartered Accountants (dated 31 Oct 2026) concluded that, based on their review, the unaudited results contain no material misstatement and comply with the required disclosures",
-    "key_metrics": {
-      "revenue": "283.60",
-      "total_assets": "5681.68",
-      "total_equity": "5681.68",
-      "total_debt": "2562.94",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "ASSETS Non-current assets (a) Property, Plant and Equipment (b) Capital work-in-progress (c) lnvestment Property (d) Goodwill (e) Other Intangible assets (f) Intangible assets under development (g) Biological Assets other than bearer plants (h) Financial Assets (i) Investments (ii) Trade receivables (iii) Loans (i) Deferred tax assets (net) (j) Other non-current assets Current assets (a) Inventories (b) Financial Assets (i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank balances other than(iii) above (v) Loans (vi) Others (to be specified) (c) Current Tax Assets (Net) (d) Other cufrent assets (e) Non Current Assets Held for Sale Total Assets EQUITY AND LIABILITIES Equity (a) Equity Share capital (b) Other Equity LIABILITIES (a) Financial Liabilities (i) Borrowings (ii) Trade payables (iii)Other financial liabilities (other than those specified in item (b), to be specified) (b) Provisions (c) Deferred tax liabilities (Net) (d) Other non-current liabilities Current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade payables (iii) Other financial liabilities (other than those specified in item (c) (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net) Total Equity and Liabilities",
-            "As at 30.09.2026 Un-Audited": "4,946.19 - - - - - - - 0.17 - 13.91 - 4,960.27 172.30 135.71 154.14 20.90 - 4.23 173.89 60.24 721.41",
-            "As at 30.09.2025 Un-Audited": "651.28 43.74 - - - - - - 0.17 - - 1.82 697.01 - 32.69 1.49 27.36 - 14.22 77.81 69.49 223.06",
-            "As at 31.03.2026 Audited": "5,244.49 - - - - - - - 0.17 - 8.06 - 5,252.71 42.23 - 49.84 1.73 - 47.65 - 0.08 80.80 60.24 282.56"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Un-Audited": "5,681.68",
-            "As at 30.09.2025 Un-Audited": "920.07",
-            "As at 31.03.2026 Audited": "5,535.28"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Un-Audited": "212.35 1,960.53 2,172.88 817.47 817.47 2,562.94 94.09 26.57 7.72 2,691.32",
-            "As at 30.09.2025 Un-Audited": "12.35 (842.80) (830.45) - - 1,729.09 21.42 - 1,750.52",
-            "As at 31.03.2026 Audited": "212.35 2,505.47 2,717.82 889.97 889.97 1,845.82 52.61 - 29.06 - 1,927.49"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Un-Audited": "5,681.68",
-            "As at 30.09.2025 Un-Audited": "920.07",
-            "As at 31.03.2026 Audited": "5,535.28"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Sl. No.": "1",
-            "Particulars": "Debt Equity Ratio (Net Debt Equity Ratio) (Net Debt / Average Equity) [Net Debt: Borrowings + Lease liabilities − Current investments − Cash & cash equivalents] [Equity: Equity share capital + Other equity]",
-            "3 months ended on 30.09.2026": "0.99",
-            "Preceeding 3 months 30.06.2026": "0.99",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-3.44",
-            "Year to date for the current period 30.09.2026": "0.99",
-            "Year to date in previous year 30.09.2025": "-3.44",
-            "Previous Year 31.03.2026": "1.45"
-          },
-          {
-            "Sl. No.": "2",
-            "Particulars": "Debt Service Coverage Ratio (EBIT / (Net Finance Charges + Scheduled principal repayments)) [EBIT: Profit before tax + Net finance charges] [Net Finance Charges: Finance costs − Interest income − Dividend income]",
-            "3 months ended on 30.09.2026": "-2.18",
-            "Preceeding 3 months 30.06.2026": "-6.04",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-0.87",
-            "Year to date for the current period 30.09.2026": "-3.95",
-            "Year to date in previous year 30.09.2025": "-1.13",
-            "Previous Year 31.03.2026": "-1.48"
-          },
-          {
-            "Sl. No.": "3",
-            "Particulars": "Interest Service Coverage Ratio (EBIT / Net Finance Charges) [EBIT: Profit before tax + Finance costs] [Net Finance Charges: Finance costs − Interest income]",
-            "3 months ended on 30.09.2026": "-2.18",
-            "Preceeding 3 months 30.06.2026": "-6.04",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-0.87",
-            "Year to date for the current period 30.09.2026": "-3.95",
-            "Year to date in previous year 30.09.2025": "-1.13",
-            "Previous Year 31.03.2026": "-1.48"
-          },
-          {
-            "Sl. No.": "4",
-            "Particulars": "Current Ratio (Total Current Assets / Current Liabilities) [Current Liabilities: Total current liabilities − Current maturities of non-current borrowings]",
-            "3 months ended on 30.09.2026": "0.27",
-            "Preceeding 3 months 30.06.2026": "0.27",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "0.13",
-            "Year to date for the current period 30.09.2026": "0.27",
-            "Year to date in previous year 30.09.2025": "0.13",
-            "Previous Year 31.03.2026": "0.15"
-          },
-          {
-            "Sl. No.": "5",
-            "Particulars": "Long Term Debt to Working Capital Ratio ((Non-current borrowings + Current maturities of non-current borrowings) / (Current assets − Current liabilities)) [Working Capital = Total current assets − Total current liabilities]",
-            "3 months ended on 30.09.2026": "0.00",
-            "Preceeding 3 months 30.06.2026": "0.00",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "0.00",
-            "Year to date for the current period 30.09.2026": "0.00",
-            "Year to date in previous year 30.09.2025": "0.00",
-            "Previous Year 31.03.2026": "0.00"
-          },
-          {
-            "Sl. No.": "6",
-            "Particulars": "Bad Debts to Account Receivable Ratio (Bad Debts / Average Trade Receivables)",
-            "3 months ended on 30.09.2026": "-",
-            "Preceeding 3 months 30.06.2026": "-",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "-",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "-"
-          },
-          {
-            "Sl. No.": "7",
-            "Particulars": "Current Liability Ratio (Total Current Liabilities / Total Liabilities)",
-            "3 months ended on 30.09.2026": "0.77",
-            "Preceeding 3 months 30.06.2026": "0.77",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "1.00",
-            "Year to date for the current period 30.09.2026": "0.77",
-            "Year to date in previous year 30.09.2025": "1.00",
-            "Previous Year 31.03.2026": "0.68"
-          },
-          {
-            "Sl. No.": "8",
-            "Particulars": "Total Debts to Total Assets Ratio ((Non-current borrowings + Current borrowings) / Total Assets)",
-            "3 months ended on 30.09.2026": "0.45",
-            "Preceeding 3 months 30.06.2026": "0.45",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "1.88",
-            "Year to date for the current period 30.09.2026": "0.45",
-            "Year to date in previous year 30.09.2025": "1.88",
-            "Previous Year 31.03.2026": "0.33"
-          },
-          {
-            "Sl. No.": "9",
-            "Particulars": "Debtors Turnover Ratio (in days) (Average Trade Receivables / Turnover in days) [Turnover: Revenue from operations]",
-            "3 months ended on 30.09.2026": "30",
-            "Preceeding 3 months 30.06.2026": "30",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "48",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "223"
-          },
-          {
-            "Sl. No.": "10",
-            "Particulars": "Inventory Turnover Ratio (in days) (Average Inventory / Sale of products in days)",
-            "3 months ended on 30.09.2026": "35",
-            "Preceeding 3 months 30.06.2026": "35",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "56",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "115"
-          },
-          {
-            "Sl. No.": "11",
-            "Particulars": "Operating EBITDA Margin (%) (EBITDA / Turnover) [EBITDA: Profit before tax + Net finance charges + Depreciation & amortisation] [Turnover: Revenue from operations]",
-            "3 months ended on 30.09.2026": "2.07",
-            "Preceeding 3 months 30.06.2026": "-272.97",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "-51.69",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "-265.61"
-          },
-          {
-            "Sl. No.": "12",
-            "Particulars": "Net Profit Margin (%) (Net Profit after tax / Turnover) [Turnover: Revenue from operations]",
-            "3 months ended on 30.09.2026": "-63.12",
-            "Preceeding 3 months 30.06.2026": "-531.06",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "-154.59",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "-1947.27"
-          },
-          {
-            "Sl. No.": "13",
-            "Particulars": "Debenture Redemption Reserve (₹ in Lakhs)",
-            "3 months ended on 30.09.2026": "N.A.",
-            "Preceeding 3 months 30.06.2026": "N.A.",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "N.A.",
-            "Year to date for the current period 30.09.2026": "N.A.",
-            "Year to date in previous year 30.09.2025": "N.A.",
-            "Previous Year 31.03.2026": "N.A."
-          },
-          {
-            "Sl. No.": "14",
-            "Particulars": "Net Worth (₹ in Lakhs) (Equity share capital + Other equity − Capital reserve − Amalgamation reserve)",
-            "3 months ended on 30.09.2026": "2,172.88",
-            "Preceeding 3 months 30.06.2026": "2,172.88",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-830.45",
-            "Year to date for the current period 30.09.2026": "2,172.88",
-            "Year to date in previous year 30.09.2025": "-830.45",
-            "Previous Year 31.03.2026": "2,717.82"
-          },
-          {
-            "Sl. No.": "15",
-            "Particulars": "Outstanding Redeemable Preference Shares (Quantity and Value)",
-            "3 months ended on 30.09.2026": "N.A.",
-            "Preceeding 3 months 30.06.2026": "N.A.",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "N.A.",
-            "Year to date for the current period 30.09.2026": "N.A.",
-            "Year to date in previous year 30.09.2025": "N.A.",
-            "Previous Year 31.03.2026": "N.A."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "7e7f4c34-06dc-447b-a34a-3f63eebe63f0",
-    "SCRIP_CD": 539043,
-    "XML_NAME": "ANN_539043_7E7F4C34-06DC-447B-A34A-3F63EEBE63F0",
-    "NEWSSUB": "BKM Industries Ltd - 539043 - BKMINDST : Bkm Industries Limited Has Submitted To The Exchange, The Financial Results For The Period Ended September 30, 2026.",
-    "DT_TM": "2026-11-01T09:53:27.963",
-    "NEWS_DT": "2026-11-01T09:53:27.963",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1caee2a6-ba49-4c24-b053-3447728139db.pdf",
-    "MORE": "",
-    "HEADLINE": "BKM INDUSTRIES has submitted to the exchange, the financial results for the period ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bkm-industries-ltd/bkmindst/539043/",
-    "SLONGNAME": "BKM Industries Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T09:53:27",
-    "DissemDT": "2026-11-01T09:53:27.963",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 8871428,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- BKM Industries Ltd submitted its **consolidated unaudited financial results for the quarter and half‑year ended 30 September 2026** to the BSE and NSE, as required under SEBI Regulation 33.  \n- The results were **approved by the Board of Directors on 30 October 2026** (meeting concluded on 31 October 2026) and were reviewed by Prabhat & Co. Chartered Accountants, who reported that no material misstatement was identified.  \n\n*The announcement does not disclose any specific financial figures or quantitative results.*",
-    "key_metrics": {
-      "revenue": "283.60",
-      "total_assets": "5681.51",
-      "total_equity": "5681.50",
-      "total_debt": "2562.94",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "ASSETS Non-current assets (a) Property, Plant and Equipment (b) Capital work-in-progress (c) lnvestment Property (d) Goodwill (e) Other Intangible assets (f) Intangible assets under development (g) Biological Assets other than bearer plants (h) Financial Assets (i) Investments (ii) Trade receivables (iii) Loans (i) Deferred tax assets (net) (j) Other non-current assets Current assets (a) Inventories (b) Financial Assets (i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank balances other than(iii) above (v) Loans (vi) Others (to be specified) (c) Current Tax Assets (Net) (d) Other cufrent assets (e) Non Current Assets Held for Sale Total Assets EQUITY AND LIABILITIES Equity (a) Equity Share capital (b) Other Equity LIABILITIES (a) Financial Liabilities (i) Borrowings (ii) Trade payables (iii)Other financial liabilities (other than those specified in item (b), to be specified) (b) Provisions (c) Deferred tax liabilities (Net) (d) Other non-current liabilities Current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade payables (iii) Other financial liabilities (other than those specified in item (c) (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net) Total Equity and Liabilities",
-            "As at 30.09.2026 Un-Audited": "4,946.19 - - - - - - - - - 13.91 - - 4,960.10 172.30 - - 135.71 154.14 - 20.90 - 4.23 173.89 60.24 721.41",
-            "As at 30.09.2025 Un-Audited": "651.28 43.74 - - - - - - - - - 1.82 - 696.84 - - - 32.69 1.49 - 27.36 - 14.22 77.81 69.49 223.06",
-            "As at 31.03.2026 Audited": "5,244.49 - - - - - - - - - 8.06 - - 5,252.55 42.23 - - 49.84 1.73 - 47.65 - 0.08 80.80 60.24 282.56"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Un-Audited": "5,681.51",
-            "As at 30.09.2025 Un-Audited": "919.90",
-            "As at 31.03.2026 Audited": "5,535.11"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Un-Audited": "212.35 1,960.36 2,172.71 - - - - - 817.47 - 817.47 - 2,562.94 94.09 - 26.57 - 7.72 2,691.32",
-            "As at 30.09.2025 Un-Audited": "12.35 (842.97) (830.62) - - - - - - - - - 1,729.09 - - 21.42 - - 1,750.52",
-            "As at 31.03.2026 Audited": "212.35 2,505.30 2,717.65 - - - - - 889.97 - 889.97 - 1,845.82 52.61 - 29.06 - - 1,927.49"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Un-Audited": "5,681.50",
-            "As at 30.09.2025 Un-Audited": "919.90",
-            "As at 31.03.2026 Audited": "5,535.11"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Sl. No.": "1",
-            "Particulars": "Debt Equity Ratio (Net Debt Equity Ratio) (Net Debt / Average Equity) [Net Debt: Borrowings + Lease liabilities − Current investments − Cash & cash equivalents] [Equity: Equity share capital + Other equity]",
-            "3 months ended on 30.09.2026": "0.99",
-            "Preceeding 3 months 30.06.2026": "0.99",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-3.44",
-            "Year to date for the current period 30.09.2026": "0.99",
-            "Year to date in previous year 30.09.2025": "-3.44",
-            "Previous Year 31.03.2026": "1.45"
-          },
-          {
-            "Sl. No.": "2",
-            "Particulars": "Debt Service Coverage Ratio (EBIT / (Net Finance Charges + Scheduled principal repayments)) [EBIT: Profit before tax + Net finance charges] [Net Finance Charges: Finance costs − Interest income − Dividend income]",
-            "3 months ended on 30.09.2026": "-2.18",
-            "Preceeding 3 months 30.06.2026": "-6.04",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-0.87",
-            "Year to date for the current period 30.09.2026": "-3.95",
-            "Year to date in previous year 30.09.2025": "-1.13",
-            "Previous Year 31.03.2026": "-1.48"
-          },
-          {
-            "Sl. No.": "3",
-            "Particulars": "Interest Service Coverage Ratio (EBIT / Net Finance Charges) [EBIT: Profit before tax + Finance costs] [Net Finance Charges: Finance costs − Interest income]",
-            "3 months ended on 30.09.2026": "-2.18",
-            "Preceeding 3 months 30.06.2026": "-6.04",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-0.87",
-            "Year to date for the current period 30.09.2026": "-3.95",
-            "Year to date in previous year 30.09.2025": "-1.13",
-            "Previous Year 31.03.2026": "-1.48"
-          },
-          {
-            "Sl. No.": "4",
-            "Particulars": "Current Ratio (Total Current Assets / Current Liabilities) [Current Liabilities: Total current liabilities − Current maturities of non-current borrowings]",
-            "3 months ended on 30.09.2026": "0.27",
-            "Preceeding 3 months 30.06.2026": "0.27",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "0.13",
-            "Year to date for the current period 30.09.2026": "0.27",
-            "Year to date in previous year 30.09.2025": "0.13",
-            "Previous Year 31.03.2026": "0.15"
-          },
-          {
-            "Sl. No.": "5",
-            "Particulars": "Long Term Debt to Working Capital Ratio ((Non-current borrowings + Current maturities of non-current borrowings) / (Current assets − Current liabilities)) [Working Capital = Total current assets − Total current liabilities]",
-            "3 months ended on 30.09.2026": "0.00",
-            "Preceeding 3 months 30.06.2026": "0.00",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "0.00",
-            "Year to date for the current period 30.09.2026": "0.00",
-            "Year to date in previous year 30.09.2025": "0.00",
-            "Previous Year 31.03.2026": "0.00"
-          },
-          {
-            "Sl. No.": "6",
-            "Particulars": "Bad Debts to Account Receivable Ratio (Bad Debts / Average Trade Receivables)",
-            "3 months ended on 30.09.2026": "-",
-            "Preceeding 3 months 30.06.2026": "-",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "-",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "-"
-          },
-          {
-            "Sl. No.": "7",
-            "Particulars": "Current Liability Ratio (Total Current Liabilities / Total Liabilities)",
-            "3 months ended on 30.09.2026": "0.77",
-            "Preceeding 3 months 30.06.2026": "0.77",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "1.00",
-            "Year to date for the current period 30.09.2026": "0.77",
-            "Year to date in previous year 30.09.2025": "1.00",
-            "Previous Year 31.03.2026": "0.68"
-          },
-          {
-            "Sl. No.": "8",
-            "Particulars": "Total Debts to Total Assets Ratio ((Non-current borrowings + Current borrowings) / Total Assets)",
-            "3 months ended on 30.09.2026": "0.45",
-            "Preceeding 3 months 30.06.2026": "0.45",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "1.88",
-            "Year to date for the current period 30.09.2026": "0.45",
-            "Year to date in previous year 30.09.2025": "1.88",
-            "Previous Year 31.03.2026": "0.33"
-          },
-          {
-            "Sl. No.": "9",
-            "Particulars": "Debtors Turnover Ratio (in days) (Average Trade Receivables / Turnover in days) [Turnover: Revenue from operations]",
-            "3 months ended on 30.09.2026": "30",
-            "Preceeding 3 months 30.06.2026": "30",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "48",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "223"
-          },
-          {
-            "Sl. No.": "10",
-            "Particulars": "Inventory Turnover Ratio (in days) (Average Inventory / Sale of products in days)",
-            "3 months ended on 30.09.2026": "35",
-            "Preceeding 3 months 30.06.2026": "35",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "56",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "115"
-          },
-          {
-            "Sl. No.": "11",
-            "Particulars": "Operating EBITDA Margin (%) (EBITDA / Turnover) [EBITDA: Profit before tax + Net finance charges + Depreciation & amortisation] [Turnover: Revenue from operations]",
-            "3 months ended on 30.09.2026": "2.07",
-            "Preceeding 3 months 30.06.2026": "-272.97",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "-51.69",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "-265.61"
-          },
-          {
-            "Sl. No.": "12",
-            "Particulars": "Net Profit Margin (%) (Net Profit after tax / Turnover) [Turnover: Revenue from operations]",
-            "3 months ended on 30.09.2026": "-63.12",
-            "Preceeding 3 months 30.06.2026": "-531.06",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-",
-            "Year to date for the current period 30.09.2026": "-154.59",
-            "Year to date in previous year 30.09.2025": "-",
-            "Previous Year 31.03.2026": "-1947.27"
-          },
-          {
-            "Sl. No.": "13",
-            "Particulars": "Debenture Redemption Reserve (₹ in Lakhs)",
-            "3 months ended on 30.09.2026": "N.A.",
-            "Preceeding 3 months 30.06.2026": "N.A.",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "N.A.",
-            "Year to date for the current period 30.09.2026": "N.A.",
-            "Year to date in previous year 30.09.2025": "N.A.",
-            "Previous Year 31.03.2026": "N.A."
-          },
-          {
-            "Sl. No.": "14",
-            "Particulars": "Net Worth (₹ in Lakhs) (Equity share capital + Other equity − Capital reserve − Amalgamation reserve)",
-            "3 months ended on 30.09.2026": "2,172.71",
-            "Preceeding 3 months 30.06.2026": "2,172.71",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "-830.62",
-            "Year to date for the current period 30.09.2026": "2,172.71",
-            "Year to date in previous year 30.09.2025": "-830.62",
-            "Previous Year 31.03.2026": "2,717.65"
-          },
-          {
-            "Sl. No.": "15",
-            "Particulars": "Outstanding Redeemable Preference Shares (Quantity and Value)",
-            "3 months ended on 30.09.2026": "N.A.",
-            "Preceeding 3 months 30.06.2026": "N.A.",
-            "Corresponding 3 months ended in the previous year on 30.09.2025": "N.A.",
-            "Year to date for the current period 30.09.2026": "N.A.",
-            "Year to date in previous year 30.09.2025": "N.A.",
-            "Previous Year 31.03.2026": "N.A."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "2b260af0-17e4-4a0e-83b6-f3c6ed966324",
-    "SCRIP_CD": 526927,
-    "XML_NAME": "ANN_526927_2B260AF0-17E4-4A0E-83B6-F3C6ED966324",
-    "NEWSSUB": "Dion Global Solutions Ltd - 526927 - Board Meeting Intimation for Intimation Under Regulation 29 Of SEBI (Listing Obligations And Disclosure Requirement) Regulations, 2015 Regarding For Convening Of A Meeting Of Board Of Directors On Tuesday 3Rd November 2026.",
-    "DT_TM": "2026-11-01T09:41:11.86",
-    "NEWS_DT": "2026-11-01T09:41:11.86",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "023079e1-bf23-42e3-8543-aeae25307842.pdf",
-    "MORE": "Dion Global Solutions Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve 1. To take on record appointment of representative of IIRIS on board of directors of the company.\r\n2. To take on record cessation of earlier directors and Key Management Personnel in pursuance of approval of resolution plan\r\n3. To allot equity share capital to IIRIS in pursuance of approval of resolution plan.\r\n4. To authorise Directors of the company, jointly or severally, to operate bank accounts of company, enter into agreements with vendors and customers, get their credential updated with various regulatory and statutory authorities and to undertake other necessary and incidental activities for smooth functioning of operations of company. \r\n",
-    "HEADLINE": "Dion Global Solutions Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/11/2026 ,inter alia, to consider and approve 1. To take on record ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dion-global-solutions-ltd/dion/526927/",
-    "SLONGNAME": "Dion Global Solutions Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T09:41:10",
-    "DissemDT": "2026-11-01T09:41:11.86",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 196639,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
