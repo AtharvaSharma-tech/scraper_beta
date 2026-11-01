@@ -1,5 +1,182 @@
 [
   {
+    "NEWSID": "2ee873a8-5bf2-44c8-bba8-03a01d4870fc",
+    "SCRIP_CD": 500495,
+    "XML_NAME": "ANN_500495_2EE873A8-5BF2-44C8-BBA8-03A01D4870FC",
+    "NEWSSUB": "Escorts Kubota Ltd - 500495 - Announcement under Regulation 30 (LODR)-Monthly Business Updates",
+    "DT_TM": "2026-11-01T11:10:23.857",
+    "NEWS_DT": "2026-11-01T11:10:23.857",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "beaf509a-6394-46ca-8dc1-726e594263a1.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith the Company announcement pertaining to sales volume of tractors and construction equipment for the month of October, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/escorts-kubota-ltd/escorts/500495/",
+    "SLONGNAME": "Escorts Kubota Ltd",
+    "AGENDA_ID": 110,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T11:10:23",
+    "DissemDT": "2026-11-01T11:10:23.857",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 445221,
+    "SUBCATNAME": "Monthly Business Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Tractor sales (October 2026):** 16,921 units sold (domestic 16,412, export 509). This is a 10.0% decline versus October 2025 (18,798 units) and a 35.7% rise in export sales year‑on‑year. For the April‑October period of FY27, total tractor sales were 87,800 units, up 5.5% from FY26’s 83,256 units",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 2,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "",
+            "October": "FY27",
+            "col_3": "FY26",
+            "col_4": "% Change",
+            "April - October (7M)": "FY27",
+            "col_6": "FY26",
+            "col_7": "% Change"
+          },
+          {
+            "Particulars": "Domestic",
+            "October": "16,412",
+            "col_3": "18,423",
+            "col_4": "-10.9%",
+            "April - October (7M)": "84,497",
+            "col_6": "79,600",
+            "col_7": "6.2%"
+          },
+          {
+            "Particulars": "Export",
+            "October": "509",
+            "col_3": "375",
+            "col_4": "35.7%",
+            "April - October (7M)": "3,303",
+            "col_6": "3,656",
+            "col_7": "-9.7%"
+          },
+          {
+            "Particulars": "Total",
+            "October": "16,921",
+            "col_3": "18,798",
+            "col_4": "-10.0%",
+            "April - October (7M)": "87,800",
+            "col_6": "83,256",
+            "col_7": "5.5%"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "",
+            "October": "FY27",
+            "col_3": "FY26",
+            "col_4": "% Change",
+            "April - October (7M)": "FY27",
+            "col_6": "FY26",
+            "col_7": "% Change"
+          },
+          {
+            "Particulars": "Total",
+            "October": "640",
+            "col_3": "452",
+            "col_4": "41.6%",
+            "April - October (7M)": "3,748",
+            "col_6": "2,653",
+            "col_7": "41.3%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "a6fc0d95-6751-40d1-8c73-a69b14df53c6",
+    "SCRIP_CD": 539800,
+    "XML_NAME": "ANN_539800_A6FC0D95-6751-40D1-8C73-A69B14DF53C6",
+    "NEWSSUB": "CHD Chemicals Ltd - 539800 - Board Meeting Intimation for Board Meeting For Declaration Of Quarter And Half Year Ended Results For 30Th September, 2026",
+    "DT_TM": "2026-11-01T11:04:05.187",
+    "NEWS_DT": "2026-11-01T11:04:05.187",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4d3d2d6c-7ca7-4b09-8269-930543dcf762.pdf",
+    "MORE": "CHD Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Board Meeting for declaration of quarter and half year ended results for 30th September, 2026",
+    "HEADLINE": "CHD Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve Board Meeting for declaration ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/chd-chemicals-ltd/chdchem/539800/",
+    "SLONGNAME": "CHD Chemicals Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T11:04:03",
+    "DissemDT": "2026-11-01T11:04:05.187",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 467730,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting:** The Board of Directors will meet on **Wednesday, 4 November 2026 at 3:00 PM** at the corporate office to consider and approve the audited financial results for the quarter and half‑year ended **30 September 2026** (along with the limited review report).  \n\n- **Insider‑trading window:** In accordance with SEBI regulations, the **trading‑window close period** for directors, KMPs, designated employees and their immediate relatives runs from **1 October 2026 to 6 November 2026 (both days inclusive)**.  \n\n*No specific financial figures are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f5fff0b5-1af7-4399-a6d7-219328880725",
+    "SCRIP_CD": 505200,
+    "XML_NAME": "ANN_505200_F5FFF0B5-1AF7-4399-A6D7-219328880725",
+    "NEWSSUB": "Eicher Motors Ltd - 505200 - Announcement under Regulation 30 (LODR)-Monthly Business Updates",
+    "DT_TM": "2026-11-01T11:01:54.89",
+    "NEWS_DT": "2026-11-01T11:01:54.89",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b5d6b042-7233-412e-90e3-7191a2fb53d7.pdf",
+    "MORE": "",
+    "HEADLINE": "Monthly Business updates for the month October 2026 of VE Commercial Vehicles Limited, an unlisted material subsidiary of Eicher Motors Limited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/eicher-motors-ltd/eichermot/505200/",
+    "SLONGNAME": "Eicher Motors Ltd",
+    "AGENDA_ID": 110,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T11:01:54",
+    "DissemDT": "2026-11-01T11:01:54.89",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 275279,
+    "SUBCATNAME": "Monthly Business Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **October 2026 sales:** VE Commercial Vehicles Ltd sold **10,861 units** (up **34.9%** from 8,050 units in Oct 2025). The total includes 10,587 Eicher trucks & buses (↑ 36.2% YoY) and 274 Volvo trucks & buses (↓ 1.8% YoY).  \n\n- **Year‑to‑date (FY 2026‑27) performance:** Cumulative sales reached **63,746 units**, a **23.6%** increase over the prior year’s 51,561 units. Domestic sales rose to 58,081 units (↑ 25.7% YoY) while exports",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "89ac24bf-699f-4ac1-9448-2c82cdd5cf19",
     "SCRIP_CD": 544678,
     "XML_NAME": "ANN_544678_89AC24BF-699F-4AC1-9448-2C82CDD5CF19",
@@ -23499,436 +23676,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "- The Board of Directors of Abirami Financial Services India Ltd will meet on **Wednesday, 11 November 2026** to:  \n  1. Confirm minutes of the previous meeting held on **27 August 2026**;  \n  2. Review the Audit Committee’s recommendations (as of **30 September 2026**);  \n  3. Approve the **un‑audited standalone financial results** and the **internal audit report** for the quarter ended **30 September 2026**;  \n  4. Examine quarterly compliance reports under SEBI (LODR) regulations and any other matters.\n\n- **No specific financial figures or quantitative decisions** (e.g.,",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "bd91105d-0c33-44b1-b682-fe4fee171af5",
-    "SCRIP_CD": 544550,
-    "XML_NAME": "ANN_544550_BD91105D-0C33-44B1-B682-FE4FEE171AF5",
-    "NEWSSUB": "Pace Digitek Ltd - 544550 - Un Audited Financial Results For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-10-31T20:57:59.987",
-    "NEWS_DT": "2026-10-31T20:57:59.987",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1c9a9f12-7449-4b24-94e8-0ab2d1aadfe9.pdf",
-    "MORE": "",
-    "HEADLINE": "Un audited financial results for the quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
-    "SLONGNAME": "Pace Digitek Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 17,
-    "News_submission_dt": "2026-10-31T20:57:59",
-    "DissemDT": "2026-10-31T20:57:59.987",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2464605,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval:** On **Saturday, 31 October 2026**, the Board of Directors approved the unaudited standalone and consolidated financial results (quarter and half‑year) for the period ending **30 September 2026**, together with the Limited Review Report issued by the statutory auditors.  \n\n- **Audit outcome:** The auditors’ Limited Review Report on these unaudited results carries an **unmodified opinion**. The results and report have been filed with the stock exchanges and are posted on the company’s website (https://www.pacedigitek.com/).  \n\n*No specific financial figures (revenues, profit, assets, etc.) are disclosed in the announcement.*",
-    "key_metrics": {
-      "revenue": "8",
-      "total_assets": "58785.56",
-      "total_equity": "24276.76",
-      "total_debt": "9448.54",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "Particulars",
-            "col_2": "As at September 30, 2026 (Un-Audited)",
-            "col_3": "As at March 31, 2026 (Audited)"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "A. Assets ( 1) Non-current assets (a) Property, plant and equipment (b) Capital work-in-progress (c) Investment property (d) Right-of-use assets (e) Goodwill (f) Other intangible assets (g) Financial assets (i) Trade receivables (ii) Finance lease receivables (iii) Other financial assets (h) Deferred tax assets (net) (i) Non current tax assets (net) (j) Other non current assets Total non-current assets ( 2) Current assets (a) Inventories (b) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than (ii) above (iv) Finance lease receivables (v) Other financial assets (c) Other current assets Total current assets Total assets B. Equity and liabilities ( 1) Equity (a) Equity share capital (b) Other equity Equity attributable to owners of the holding Company (c) Non-controlling interest Total equity ( 2) Liabilities I. Non current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Other financial liabilities (b) Provisions (c) Other non-current liabilities Total non-current liabilities II. Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprise and small enterprises; and (B) total outstanding dues of creditors other than micro enterprise and small enterprises (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (net) Total current liabilities Total liabilities Total equity and liabilities",
-            "col_2": "1,821.21 8 70.36 1 6.59 1 75.28 3 .64 3 66.37 3,850.21 11,062.41 1,476.42 9 7.82 3 4.39 5 59.78",
-            "col_3": "1,565.87 382.85 17.01 201.98 3.64 304.44 3,756.24 5,315.04 1,367.84 138.51 34.39 396.50"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "20,334.48",
-            "col_3": "13,484.31"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "5,137.65 17,919.14 1,074.27 4,074.15 2,056.04 2,097.48 6,092.35",
-            "col_3": "5,403.10 20,665.45 2,699.72 4,991.27 253.42 1,968.74 3,676.10"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "38,451.08",
-            "col_3": "39,657.80"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "58,785.56",
-            "col_3": "53,142.11"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "431.70 23,350.44",
-            "col_3": "431.70 21,641.28"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "23,782.14",
-            "col_3": "22,072.98"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "4 94.62",
-            "col_3": "449.28"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "24,276.76",
-            "col_3": "22,522.26"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "9,448.54 9 8.11 1 6.85 5 02.55 3 16.41",
-            "col_3": "6,067.16 198.20 5.03 538.31 316.41"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "10,382.46",
-            "col_3": "7,125.11"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "4,257.85 66.84 1,363.25 13,901.32 1,019.72 2,221.91 432.31 863.14",
-            "col_3": "3,540.12 4.35 141.37 17,777.89 952.78 210.00 390.18 478.05"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "24,126.34",
-            "col_3": "23,494.74"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "34,508.80",
-            "col_3": "30,619.85"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "58,785.56",
-            "col_3": "53,142.11"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "Particulars",
-            "col_2": "Quarter ended",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Six months ended",
-            "col_6": "",
-            "col_7": "Year ended"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "September 30, 2026 (Un-Audited)",
-            "col_3": "June 30, 2026 (Un-Audited)",
-            "col_4": "September 30, 2025 (Un-Audited)",
-            "col_5": "September 30, 2026 (Un-Audited)",
-            "col_6": "September 30, 2025 (Un-audited)",
-            "col_7": "March 31, 2026 (Audited)"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "I.Income : (a) Revenue from operations (b) Other income Total income (I) II.Expenses: (a) Cost of materials consumed (b) Engineering, procurement and construction project expenses (c) Purchases of stock-in-trade (d) Employee benefits expense (e) Finance costs (f) Depreciation and amortisation expense (g) Other expenses Total expenses (II) III. Profit before tax for the Period / Year (I-II)=III IV.Tax expense : (a) Current tax (b) Deferred tax charge/ (credit) (c) Taxes relating to earlier years Total tax expense (IV) V.Profit after tax for the Period / Year (III-IV)= V VI. Other comprehensive income/(loss) for the Period / Year : (i) Remeasurement of defined benefit plan gain/(loss) (ii) Income tax relating to these items Total other comprehensive income/(loss) for the Period / Year (net of tax) VIITotal comprehensive income for the Period / Year (V+VI)=VII VIII.Paid up equity share capital (Face value of Rs 2/-Each) IXOther equity XEarnings per share not annualised (Rs.) (face value of Rs. 2 per share) : Basic (Rupee) Diluted (Rupee)",
-            "col_2": "5 ,945.51 2 03.89",
-            "col_3": "2 ,642.40 1 88.91",
-            "col_4": "3 ,421.11 7 7.81",
-            "col_5": "8 ,587.91 3 92.80",
-            "col_6": "6,817.76 137.00",
-            "col_7": "17,108.08 4 68.67"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "6,149.40",
-            "col_3": "2,831.31",
-            "col_4": "3,498.92",
-            "col_5": "8 ,980.71",
-            "col_6": "6,954.76",
-            "col_7": "17,576.75"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "4 ,328.74 2 92.57 - 2 62.52 1 00.35 4 0.27 3 42.32",
-            "col_3": "4 78.78 1 ,298.83 - 2 50.37 7 8.93 3 1.94 1 20.03",
-            "col_4": "9 1.33 2 ,146.21 - 1 94.73 4 8.25 1 0.74 1 83.40",
-            "col_5": "4 ,807.52 1 ,591.40 - 5 12.89 1 79.28 7 2.21 4 62.35",
-            "col_6": "265.93 4,354.97 6.78 350.57 136.97 21.61 304.46",
-            "col_7": "3,519.68 7,965.60 7 47.02 7 64.29 3 22.28 7 2.90 7 30.14"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "5,366.77",
-            "col_3": "2,258.88",
-            "col_4": "2,674.66",
-            "col_5": "7 ,625.65",
-            "col_6": "5,441.29",
-            "col_7": "14,121.91"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "782.63 2 34.25 ( 34.06) -",
-            "col_3": "572.43 1 61.65 ( 14.36) -",
-            "col_4": "824.26 2 12.34 ( 3.32) -",
-            "col_5": "1,355.06 3 95.90 ( 48.42) -",
-            "col_6": "1,513.47 3 89.62 (1.80) -",
-            "col_7": "3 ,454.84 9 45.08 4 0.72 4 .24"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "200.19",
-            "col_3": "147.29",
-            "col_4": "209.02",
-            "col_5": "347.48",
-            "col_6": "387.82",
-            "col_7": "990.04"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "582.44",
-            "col_3": "425.14",
-            "col_4": "615.24",
-            "col_5": "1,007.58",
-            "col_6": "1,125.65",
-            "col_7": "2 ,464.80"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "2 .49 ( 0.63)",
-            "col_3": "( 0.69) 0.17",
-            "col_4": "( 0.38) 0.09",
-            "col_5": "1.80 ( 0.46)",
-            "col_6": "(0.38) 0 .09",
-            "col_7": "2 .86 ( 0.72)"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "1.86",
-            "col_3": "(0.52)",
-            "col_4": "(0.29)",
-            "col_5": "1.34",
-            "col_6": "(0.29)",
-            "col_7": "2.14"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "584.30",
-            "col_3": "424.62",
-            "col_4": "614.95",
-            "col_5": "1,008.92",
-            "col_6": "1,125.36",
-            "col_7": "2,466.94"
-          },
-          {
-            "Pace Digitek Limited (Formerly known as Pace Digitek Private Limited) Registered Office: Plot # V 12, Industrial Estate, Kumbalgodu, Bangalore Mysore Highway, Bangalore, Karnataka, India, 560074 CIN: L31909KA2007PLC041949 Statement of unaudited standalone financial results for the quarter and six months ended September 30, 2026 (Amounts are ₹ in million unless otherwise stated)": "",
-            "col_2": "431.70 2 .70 2 .70",
-            "col_3": "431.70 1.97 1.97",
-            "col_4": "356.88 3.45 3.45",
-            "col_5": "431.70 4 .67 4.67",
-            "col_6": "356.88 6.31 6.31",
-            "col_7": "431.70 19,272.52 1 2.52 1 2.52"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Particulars": "A. Assets (1) Non-current assets (a) Property, plant and equipment (b) Capital work in progress (c) Investment property (d) Right-of-use assets (e) Other intangible assets (f) Financial assets (i) Investments (ii) Trade receivables (iii) Other financial assets (g) Deferred tax assets (net) (h) Non current tax assets (net) (i) Other non-current assets Total non-current assets (2) Current assets (a) Inventories (b) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than (ii) above (iv) Loans (v) Other financial assets (c) Other current assets Total current assets Total assets (1+2) B. Equity and liabilities (1) Equity (a) Equity share capital (b) Other equity Total equity (2) Liabilities I. Non current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Other financial liabilities (b) Provisions (c) Other non-current liabilities Total non-current liabilities II. Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables -Total outstanding dues of micro and small enterprises -Total outstanding dues of creditors other than micro and small e enterprises (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (net) Total current liabilities Total liabilities (I+II) Total equity and liabilities(1+2)",
-            "As at September 30, 2026 (Unaudited)": "1,308.83 870.36 328.35 175.28 265.00 7,573.83 3,850.21 1,449.39 157.06 23.90 420.02",
-            "As at March 31, 2026 (Audited)": "1,076.96 382.85 336.66 201.98 272.08 5,125.11 3,756.26 1,317.60 109.09 23.90 386.42"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "16,422.23",
-            "As at March 31, 2026 (Audited)": "12,988.91"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "572.73 15,194.37 34.49 3,018.33 587.84 2,032.92 3,370.15",
-            "As at March 31, 2026 (Audited)": "724.56 15,996.09 458.98 3,113.11 448.46 2,032.96 2,408.52"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "24,810.83",
-            "As at March 31, 2026 (Audited)": "25,182.68"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "41,233.06",
-            "As at March 31, 2026 (Audited)": "38,171.59"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "431.70 20,429.03",
-            "As at March 31, 2026 (Audited)": "431.70 19,272.52"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "20,860.73",
-            "As at March 31, 2026 (Audited)": "19,704.22"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "192.28 1 30.50 1 6.85 1 37.80 3 16.41",
-            "As at March 31, 2026 (Audited)": "74.31 1 98.20 5 .03 1 27.46 3 16.41"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "7 93.84",
-            "As at March 31, 2026 (Audited)": "7 21.41"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "2 ,508.78 4 4.20 6 63.54 11,656.40 6 91.84 3 ,014.24 2 32.30 7 67.19",
-            "As at March 31, 2026 (Audited)": "1 ,646.26 4 .35 1 39.65 13,002.18 6 35.64 1 ,655.14 2 12.07 4 50.67"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "1 9,578.49",
-            "As at March 31, 2026 (Audited)": "1 7,745.96"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "2 0,372.33",
-            "As at March 31, 2026 (Audited)": "1 8,467.37"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026 (Unaudited)": "4 1,233.06",
-            "As at March 31, 2026 (Audited)": "3 8,171.59"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "C. Cash flows from financing activities: Repayment of long term borrowings Proceeds from long term borrowings (Repayment)/proceeds of short term borrowings Payment of lease liabilities including interest Finance cost paid Net cash generated from/ (used in) financing activity Net increase/ (decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Cash and cash equivalents at the end of the period Components of cash and cash equivalents at the end of the period (a) Balances with banks In current accounts (b) Cash on hand (c)Fixed Deposit having maturity period less than 3 months Total cash and cash equivalents": "",
-            "(39.84) 219.08 807.84 (36.95) (88.81)": "861.32",
-            "(34.15) - (555.30) (2.35) (136.97)": "(728.77)"
-          },
-          {
-            "C. Cash flows from financing activities: Repayment of long term borrowings Proceeds from long term borrowings (Repayment)/proceeds of short term borrowings Payment of lease liabilities including interest Finance cost paid Net cash generated from/ (used in) financing activity Net increase/ (decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Cash and cash equivalents at the end of the period Components of cash and cash equivalents at the end of the period (a) Balances with banks In current accounts (b) Cash on hand (c)Fixed Deposit having maturity period less than 3 months Total cash and cash equivalents": "",
-            "(39.84) 219.08 807.84 (36.95) (88.81)": "(424.49) 458.98",
-            "(34.15) - (555.30) (2.35) (136.97)": "(676.65) 753.10"
-          },
-          {
-            "C. Cash flows from financing activities: Repayment of long term borrowings Proceeds from long term borrowings (Repayment)/proceeds of short term borrowings Payment of lease liabilities including interest Finance cost paid Net cash generated from/ (used in) financing activity Net increase/ (decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Cash and cash equivalents at the end of the period Components of cash and cash equivalents at the end of the period (a) Balances with banks In current accounts (b) Cash on hand (c)Fixed Deposit having maturity period less than 3 months Total cash and cash equivalents": "",
-            "(39.84) 219.08 807.84 (36.95) (88.81)": "34.49",
-            "(34.15) - (555.30) (2.35) (136.97)": "76.45"
-          },
-          {
-            "C. Cash flows from financing activities: Repayment of long term borrowings Proceeds from long term borrowings (Repayment)/proceeds of short term borrowings Payment of lease liabilities including interest Finance cost paid Net cash generated from/ (used in) financing activity Net increase/ (decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Cash and cash equivalents at the end of the period Components of cash and cash equivalents at the end of the period (a) Balances with banks In current accounts (b) Cash on hand (c)Fixed Deposit having maturity period less than 3 months Total cash and cash equivalents": "",
-            "(39.84) 219.08 807.84 (36.95) (88.81)": "34.43 0.06 -",
-            "(34.15) - (555.30) (2.35) (136.97)": "57.78 0.08 18.59"
-          },
-          {
-            "C. Cash flows from financing activities: Repayment of long term borrowings Proceeds from long term borrowings (Repayment)/proceeds of short term borrowings Payment of lease liabilities including interest Finance cost paid Net cash generated from/ (used in) financing activity Net increase/ (decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Cash and cash equivalents at the end of the period Components of cash and cash equivalents at the end of the period (a) Balances with banks In current accounts (b) Cash on hand (c)Fixed Deposit having maturity period less than 3 months Total cash and cash equivalents": "",
-            "(39.84) 219.08 807.84 (36.95) (88.81)": "34.49",
-            "(34.15) - (555.30) (2.35) (136.97)": "76.45"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "7a3fd232-69ad-4c96-8bea-bf4fa162c35d",
-    "SCRIP_CD": 532937,
-    "XML_NAME": "ANN_532937_7A3FD232-69AD-4C96-8BEA-BF4FA162C35D",
-    "NEWSSUB": "Kuantum Papers Ltd - 532937 - Intimation Of Resignation Of Chief Financial Officer",
-    "DT_TM": "2026-10-31T20:56:09.853",
-    "NEWS_DT": "2026-10-31T20:56:09.853",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c7798221-4f96-4b85-b9f1-c49afd0be8c5.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of resignation of Chief Financial Officer",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kuantum-papers-ltd/kuantum/532937/",
-    "SLONGNAME": "Kuantum Papers Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 17,
-    "News_submission_dt": "2026-10-31T20:56:09",
-    "DissemDT": "2026-10-31T20:56:09.853",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1592357,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Resignation of CFO:** Mr. Vikram Kumar Khaitan tendered his resignation as Chief Financial Officer and Key Managerial Personnel, effective at the close of business on **31 October 2026**, citing personal reasons; the company confirmed there are no other material reasons for his departure.  \n\n- **Next steps & financial impact:** Kuantum Papers Ltd. is in the process of appointing a new CFO and will disclose that appointment separately. **No financial figures, transactions, or monetary impacts are disclosed** in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "71023565-8db9-41e8-9a6b-12dd029e5b9e",
-    "SCRIP_CD": 543543,
-    "XML_NAME": "ANN_543543_71023565-8DB9-41E8-9A6B-12DD029E5B9E",
-    "NEWSSUB": "B-Right Realestate Ltd - 543543 - Un-Audited (Consolidated And Standalone) Financial Statement For Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-10-31T20:56:03.7",
-    "NEWS_DT": "2026-10-31T20:56:03.7",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7a3b11a4-6605-4906-9c03-061ecc9d9165.pdf",
-    "MORE": "",
-    "HEADLINE": "The Company hereby submits Un-Audited (Consolidated and Standalone) Financial Statement for half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/b-right-realestate-ltd/brrl/543543/",
-    "SLONGNAME": "B-Right Realestate Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 17,
-    "News_submission_dt": "2026-10-31T20:56:03",
-    "DissemDT": "2026-10-31T20:56:03.7",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 8097317,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
