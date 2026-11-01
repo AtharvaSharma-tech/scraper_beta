@@ -1,5 +1,331 @@
 [
   {
+    "NEWSID": "89a60b75-b215-4905-91ab-c6d05eb27120",
+    "SCRIP_CD": 521109,
+    "XML_NAME": "ANN_521109_89A60B75-B215-4905-91AB-C6D05EB27120",
+    "NEWSSUB": "Nagreeka Exports Ltd-$ - 521109 - Compliances-Reg. 50 (1) - Prior intimation about Board meeting under Regulation 50(1)",
+    "DT_TM": "2026-11-01T13:27:18.103",
+    "NEWS_DT": "2026-11-01T13:27:18.103",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3ab2ebd0-d948-4eb3-8849-d1f6bb29834d.pdf",
+    "MORE": "Nagreeka Exports Ltd has informed BSE that the meeting of the Board of Directors of the company is scheduled on 07/11/2026, inter alia, to consider and approve the unaudited Financial Results along with the limited review report of the company for the quarter and half year ended 30th September 2026.",
+    "HEADLINE": "Nagreeka Exports Ltd has informed BSE that the meeting of the Board of Directors of the company is scheduled on 07/11/2026, inter alia, to consider and approve the unaudited Financial Results ....",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nagreeka-exports-ltd/nagreekexp/521109/",
+    "SLONGNAME": "Nagreeka Exports Ltd-$",
+    "AGENDA_ID": 230,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:27:18",
+    "DissemDT": "2026-11-01T13:27:18.103",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 410609,
+    "SUBCATNAME": "Reg. 50 (1) - Prior intimation about Board meeting under Regulation 50(1))",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting scheduled:** The Board of Directors will meet on **Saturday, 7 November 2026 at 1:00 pm** at the company’s registered office to consider and approve the **unaudited financial results (and limited review report) for the quarter ended 30 September 2026**.  \n\n- **Trading window closure:** In line with SEBI PIT regulations, the **trading window for Nagreeka Exports Ltd. securities is closed from 1 October 2026 until 48 hours after the unaudited results are announced**.  \n\n*No specific financial figures or quantitative results are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "53ee46d4-9201-4ff1-8cd4-da3bab2089b3",
+    "SCRIP_CD": 531266,
+    "XML_NAME": "ANN_531266_53EE46D4-9201-4FF1-8CD4-DA3BAB2089B3",
+    "NEWSSUB": "VST Tillers Tractors Ltd-$ - 531266 - Announcement under Regulation 30 (LODR)-Monthly Business Updates",
+    "DT_TM": "2026-11-01T13:25:00.013",
+    "NEWS_DT": "2026-11-01T13:25:00.013",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "16e34a7b-7210-4f25-a38d-50003a98ad08.pdf",
+    "MORE": "",
+    "HEADLINE": "Sales Numbers",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vst-tillers-tractors-ltd/vsttillers/531266/",
+    "SLONGNAME": "VST Tillers Tractors Ltd-$",
+    "AGENDA_ID": 110,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:25:00",
+    "DissemDT": "2026-11-01T13:25:00.013",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3224498,
+    "SUBCATNAME": "Monthly Business Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the corporate announcement:\n\n* **Monthly Sales (October 2026):** Total sales volume was 3,519 units (3,114 power tillers and 405 tractors), compared to 4,664 units (4,077 power tillers and 587 tractors) reported in October 2025.\n* **Year-to-Date Sales:** Total cumulative sales reached 33,103 units (30,272 power tillers and 2,831 tractors), compared to 32,069 units (28,906 power tillers and 3,163 tractors) in the corresponding period of the previous year.",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 1,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "",
+            "For the current period (in Nos.)": "October -26",
+            "col_3": "Year to Date",
+            "For the corresponding period (in Nos.)": "October - 25",
+            "col_5": "Year to Date"
+          },
+          {
+            "Particulars": "Power Tiller",
+            "For the current period (in Nos.)": "3114",
+            "col_3": "30272",
+            "For the corresponding period (in Nos.)": "4077",
+            "col_5": "28906"
+          },
+          {
+            "Particulars": "Tractor",
+            "For the current period (in Nos.)": "405",
+            "col_3": "2831",
+            "For the corresponding period (in Nos.)": "587",
+            "col_5": "3163"
+          },
+          {
+            "Particulars": "Total (in Nos)",
+            "For the current period (in Nos.)": "3519",
+            "col_3": "33103",
+            "For the corresponding period (in Nos.)": "4664",
+            "col_5": "32069"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "7e2ed9e7-0dfb-4e8a-95e9-fa5eccad1e08",
+    "SCRIP_CD": 500189,
+    "XML_NAME": "ANN_500189_7E2ED9E7-0DFB-4E8A-95E9-FA5ECCAD1E08",
+    "NEWSSUB": "NDL Ventures Ltd - 500189 - Reschedulement Of Board Meeting Scheduled To Be Held On November 02,2026",
+    "DT_TM": "2026-11-01T13:21:26.147",
+    "NEWS_DT": "2026-11-01T13:21:26.147",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9b8ae506-99ad-41d8-9138-7255e172c7bb.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchnage and Investors are hereby informed that Board Meeting Scheduled to be held on November 02,2026 had been rescheduled and next date of the board meeting will be intimated soon",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ndl-ventures-ltd/ndlventure/500189/",
+    "SLONGNAME": "NDL Ventures Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:21:26",
+    "DissemDT": "2026-11-01T13:21:26.147",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 563618,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board meeting originally scheduled for **Monday, Nov 2 2026** to consider and approve the **unaudited financial results for the quarter and half‑year ended Sep 30 2026** has been postponed; a new date will be announced later in accordance with SEBI Listing Regulations.  \n\n- The **trading window** for designated persons and their immediate relatives remains **closed** until **48 hours after the financial results are publicly declared**, after which it will reopen.  \n\n*No specific financial figures or quantitative results were disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "16e8a651-f836-40a0-abf7-f934e7aadb75",
+    "SCRIP_CD": 543766,
+    "XML_NAME": "ANN_543766_16E8A651-F836-40A0-ABF7-F934E7AADB75",
+    "NEWSSUB": "Ashika Global Securities Ltd - 543766 - Re-Appointment Of Executive Director (Whole-Time Director) In Unlisted Material Subsidiary Of The Company",
+    "DT_TM": "2026-11-01T13:13:41.597",
+    "NEWS_DT": "2026-11-01T13:13:41.597",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bbb754ed-4412-4564-9153-b0261548a191.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith information regarding the Re-appointment of Executive Director (Whole-Time Director) in Ashika Stock Services Limited, an Unlisted Material Subsidiary of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ashika-global-securities-ltd/ashikag/543766/",
+    "SLONGNAME": "Ashika Global Securities Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:13:41",
+    "DissemDT": "2026-11-01T13:13:41.597",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 328151,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The shareholders of Ashika Stock Services Ltd (the unlisted material subsidiary of Ashika Global Securities Ltd) approved at the Annual General Meeting on 25 August 2026 the re‑appointment of Mr. Amit Jain (DIN 00040222) as Executive Director (Whole‑Time Director) for a three‑year term, effective 1 November 2026 through 31 October 2029, subject to retirement by rotation.  \n\n- The announcement contains no monetary figures, financial transactions, or other quantitative financial details.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2df4ae09-1243-4bdb-a24f-6a3de5d926f2",
+    "SCRIP_CD": 522275,
+    "XML_NAME": "ANN_522275_2DF4AE09-1243-4BDB-A24F-6A3DE5D926F2",
+    "NEWSSUB": "GE Vernova T&D India Ltd - 522275 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-01T13:11:21.947",
+    "NEWS_DT": "2026-11-01T13:11:21.947",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "25662d74-4401-43fb-b7b9-2453ba9364a5.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ge-vernova-td-india-ltd/gvtd/522275/",
+    "SLONGNAME": "GE Vernova T&D India Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:11:21",
+    "DissemDT": "2026-11-01T13:11:21.947",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1214070,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- GE Vernova T&D India Ltd. announced that unaudited financial results for the quarter ended 30 September 2026 have been published in the **Financial Express** (all editions) and **Jansatta (New Delhi)**, as required under Regulation 30 read with Section 47 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.  \n- The notice, dated 1 November 2026, serves only to inform the stock‑exchange of the newspaper advertisements; the announcement does not disclose any specific financial figures or other quantitative details.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f68019d7-cd71-4062-936e-2f34282ce9d2",
+    "SCRIP_CD": 533278,
+    "XML_NAME": "ANN_533278_F68019D7-CD71-4062-936E-2F34282CE9D2",
+    "NEWSSUB": "Coal India Ltd - 533278 - Single Window Mode Agnostic (SWMA) E-Auction Data Of CIL And Subsidiary Companies For The Month Of Oct'26 & Cumulative For The Month Of Apr'26-Oct'26.\r\n",
+    "DT_TM": "2026-11-01T13:06:54.723",
+    "NEWS_DT": "2026-11-01T13:06:54.723",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9596da4f-e331-4990-ae8c-e2981c42ec25.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find the data for oct 26 and for apr26 to oct26",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/coal-india-ltd/coalindia/533278/",
+    "SLONGNAME": "Coal India Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:06:54",
+    "DissemDT": "2026-11-01T13:06:54.723",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 464234,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **October 2026 e‑auction (provisional):** Coal India Ltd and its subsidiaries offered **129.24 lakh tonnes** of coal, of which **118.00 lakh tonnes (≈91 %)** were allocated. The average price achieved was **140 % above the notified price**.\n\n- **Cumulative April‑Oct 2026 (FY 2026‑27) e‑auction:** Across the same period the group offered **1,551.10 lakh ton",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "77d20db9-e659-4082-897c-434573756e3d",
+    "SCRIP_CD": 532895,
+    "XML_NAME": "ANN_532895_77D20DB9-E659-4082-897C-434573756E3D",
+    "NEWSSUB": "Nagreeka Capital & Infrastructure Ltd - 532895 - Compliances-Reg. 50 (1) - Prior intimation about Board meeting under Regulation 50(1)",
+    "DT_TM": "2026-11-01T13:01:16.093",
+    "NEWS_DT": "2026-11-01T13:01:16.093",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e39f2cb7-d8aa-402e-97f9-e1c165ef13e0.pdf",
+    "MORE": "Nagreeka Capital & Infrastructure Limited has informed BSE that meeting of the Board of directors of the company is scheduled on 6th November 2026, inter alia, to consider and approve the unaudited financial results along with the limited review report of the company for the quarter ended 30th September 2026.",
+    "HEADLINE": "Nagreeka Capital & Infrastructure Limited has informed BSE that meeting of the Board of directors of the company is scheduled on 6th November 2026, inter alia, to consider and approve the ....",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nagreeka-capital--infrastructure-ltd/nagreekcap/532895/",
+    "SLONGNAME": "Nagreeka Capital & Infrastructure Ltd",
+    "AGENDA_ID": 230,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:01:16",
+    "DissemDT": "2026-11-01T13:01:16.093",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 517450,
+    "SUBCATNAME": "Reg. 50 (1) - Prior intimation about Board meeting under Regulation 50(1))",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A board meeting of Nagreeka Capital & Infrastructure Ltd is scheduled for **6 November 2026 at 1:00 pm** to **consider and approve the unaudited financial results (quarterly and half‑year) for the period ending 30 September 2026**.  \n\n- The **trading window for the company’s securities was closed from 15 October 2026 until 48 hours after",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "aa35a997-7630-41be-8f4e-06b316684b4c",
+    "SCRIP_CD": 500033,
+    "XML_NAME": "ANN_500033_AA35A997-7630-41BE-8F4E-06B316684B4C",
+    "NEWSSUB": "Force Motors Ltd-$ - 500033 - Announcement under Regulation 30 (LODR)-Monthly Business Updates",
+    "DT_TM": "2026-11-01T13:00:14.89",
+    "NEWS_DT": "2026-11-01T13:00:14.89",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1b7fb023-872c-4e7d-b326-cbd771b7c861.pdf",
+    "MORE": "",
+    "HEADLINE": "Monthly Sales Data for the Month of October, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/force-motors-ltd/forcemot/500033/",
+    "SLONGNAME": "Force Motors Ltd-$",
+    "AGENDA_ID": 110,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-01T13:00:14",
+    "DissemDT": "2026-11-01T13:00:14.89",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 249009,
+    "SUBCATNAME": "Monthly Business Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Sales performance for October 2026 (announced 1 Nov 2026):**  \n  - Domestic sales rose 48% YoY to **4,011 SCVs** and **2,710 LCV/UVs**.  \n  - Export sales fell 25.6% YoY to **93 SCVs** and **125 LCV/UVs**.  \n\n- **Combined (domestic + export) October 2026 totals:**  \n  - **4,104 SCVs** and **2,835 LCV/UVs**, reflecting a **44.76% increase** over October 2025.  \n\n*No other financial details or decisions were",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "3231d13c-4bba-4c91-b2d5-783f4da28c13",
     "SCRIP_CD": 544569,
     "XML_NAME": "ANN_544569_3231D13C-4BBA-4C91-B2D5-783F4DA28C13",
@@ -22440,1652 +22766,6 @@
             "col_3": "30.41",
             "As on March 31, 2025": "55,199,192",
             "col_5": "27.49"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "4d6ba04a-356c-4bc9-ab2a-02f61d175a96",
-    "SCRIP_CD": 513496,
-    "XML_NAME": "ANN_513496_4D6BA04A-356C-4BC9-AB2A-02F61D175A96",
-    "NEWSSUB": "Sizemasters Technology Ltd - 513496 - Board Meeting Outcome for Outcome Of Board Meeting And Intimation Of Investment In Ankita Innovations & Technologies (I) Private Limited",
-    "DT_TM": "2026-10-31T21:27:35.117",
-    "NEWS_DT": "2026-10-31T21:27:35.117",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "12ac1b91-6406-4c63-8667-8f1c3ec98013.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting and Intimation of Investment in Ankita Innovations & Technologies (I) Private Limited",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sizemasters-technology-ltd/sizemaster/513496/",
-    "SLONGNAME": "Sizemasters Technology Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:27:34",
-    "DissemDT": "2026-10-31T21:27:35.117",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 622490,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "Here is a financial summary of the announcement:\n\n* **Acquisition of Majority Stake:** On October 31, 2026, the Board of Directors approved the acquisition of 7,86,000 equity shares, representing 60% of the paid-up share capital of Ankita Innovations & Technologies (I) Private Limited, making it a subsidiary of Sizemasters Technology Ltd.\n* **Financial Terms and Consideration:** The acquisition will be executed for a total cash consideration of Rs. 1,02,18,000 from existing shareholders Mr. Shankar Gaikwad and Mrs. Kavita Gaikwad, based on a valuation report by M/s GMKS & Co. Chartered Accountants pursuant to a Share Purchase Agreement dated October 31, 2026.",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d0a44d21-cfc0-4d52-bb77-13f2050912b9",
-    "SCRIP_CD": 543398,
-    "XML_NAME": "ANN_543398_D0A44D21-CFC0-4D52-BB77-13F2050912B9",
-    "NEWSSUB": "Latent View Analytics Ltd - 543398 - Unaudited Financial Results Of The Company (Both Standalone And Consolidated) For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-10-31T21:26:45.52",
-    "NEWS_DT": "2026-10-31T21:26:45.52",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1b51eb08-5398-4adf-ba6c-09e60d12c91e.pdf",
-    "MORE": "In continuation of our intimation dated September 28, 2026, and pursuant to Regulations 30 and 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we wish to inform you that the Board of Directors of the Company at its meeting held today, i.e. on October 31, 2026, has inter alia considered and approved Unaudited Financial Results for the quarter and half year ended September 30, 2026.\r\n",
-    "HEADLINE": "In continuation of our intimation dated September 28, 2026, and pursuant to Regulations 30 and 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, ....",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/latent-view-analytics-ltd/latentview/543398/",
-    "SLONGNAME": "Latent View Analytics Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:26:45",
-    "DissemDT": "2026-10-31T21:26:45.52",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1411923,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* **Financial Results Approval (No Financial Details Provided):** On October 31, 2026, the Board of Directors approved the unaudited standalone and consolidated financial results for the quarter and half-year ended September 30, 2026, along with the Limited Review Report from Price Waterhouse Chartered Accountants LLP; however, the provided text contains no specific financial figures or performance details.\n* **Corporate Decisions and Key Dates:** Effective October 31, 2026, the Board reconstituted the Risk Management Committee (with Mr. Rajan Sethuraman ceasing to be a member), and confirmed that the trading window for dealing in company securities will reopen on Tuesday, November 3, 2026.",
-    "key_metrics": {
-      "revenue": "2940.68",
-      "total_equity": "18902.94",
-      "total_debt": "0.19",
-      "face_value": "1",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "30-Sep-26 (Unaudited)",
-            "col_4": "30-Jun-26 (Unaudited)",
-            "col_5": "30-Sep-25 (Unaudited)",
-            "Period ended": "30-Sep-26 (Unaudited)",
-            "col_7": "30-Sep-25 (Unaudited)",
-            "Year ended": "31-Mar-26 (Audited)"
-          },
-          {
-            "col_1": "I II Ill IV V VI VII VIII IX",
-            "Particulars": "Income from operations Revenue from operations Other income Total income (I + II) Expenses a)Employee benefits expense b)Finance costs c)Depreciation and amortisation expense d)Other expenses Total expenses (IV) Profit before tax (Ill -IV) Tax expenses Current Tax Deferred Tax Profit for the period/ year (V -VI) Other comprehensive income/ (loss) Items that will not be reclassified subsequently to profit/ (loss) Re-measurement losses I (gain) on defined benefit plans Income tax effect Net other comprehensive income/ (loss) not to be reclassified subsequently to profit/ (loss) Items that will be reclassified subsequently to profit/ (loss) Effective portion of gains and loss on designated portion of hedging instruments in cashflow hedge Exchange differences in translating financial statements of foreign operations Income tax effect Net other comprehensive income to be reclassified subsequently to profit/ (loss) Other comprehensive income/ (loss) for the period/ year Total comprehensive income/ (loss) for the period/ year (VII+ VIII) Net profit attributable to -Owners -Non-Controlling interest Other Comprehensive income/ (loss) attributable to -Owners -Non-Controlling interest Total Comprehensive income/ (loss) attributable to -Owners -Non-Controlling interest Paid-up equity share capital (Face value~ 1/-each) Reserves (Excluding revaluation reserve) Basic earnings per share Diluted earnings per share See accompanying notes to financial results",
-            "Quarter ended": "2,940.68 175.26",
-            "col_4": "2,868.76 212.93",
-            "col_5": "2,575.42 185.90",
-            "Period ended": "5,809.44 388.19",
-            "col_7": "4,935.65 420.25",
-            "Year ended": ""
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "3,115.94 2,025.11 8.29 110.58 317.89",
-            "col_4": "3,081.69 1,969.71 14.88 111.94 332.24",
-            "col_5": "2,761.32 1,679.31 26.40 103.74 334.73",
-            "Period ended": "6,197.63 3,994.82 23.17 222.52 650.13",
-            "col_7": "5,355.90 3,279.03 49.53 199.76 590.90",
-            "Year ended": "11,360.03 7,061.35 99.57 409.48 1,177.99"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "2,461.87 654.07 195.77 (26.38)",
-            "col_4": "2,428.77 652.92 180.06 1.83",
-            "col_5": "2,144.18 617.14 178.55 (18.70)",
-            "Period ended": "4,890.64 1,306.99 375.83 (24.55)",
-            "col_7": "4,119.22 1,236.68 340.83 (67.06)",
-            "Year ended": "8,748.39 2,611.64 711.78 (121.38)"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "484.68",
-            "col_4": "471.03",
-            "col_5": "457.29",
-            "Period ended": "955.71",
-            "col_7": "962.91",
-            "Year ended": "2,021.24"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "1.98 (0.50)",
-            "col_4": "(0.38) 0.10",
-            "col_5": "2.37 (0.60)",
-            "Period ended": "1.60 (0.40)",
-            "col_7": "(25.03) 6.30",
-            "Year ended": "(17.24) 4.34"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "1.48",
-            "col_4": "(0.28)",
-            "col_5": "1.77",
-            "Period ended": "1.20",
-            "col_7": "(18.73)",
-            "Year ended": "(12.90)"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "0.99 63.90 (0.25)",
-            "col_4": "9.64 31.21 (2.43)",
-            "col_5": "(11.25) 144.94 2.84",
-            "Period ended": "10.63 95.11 (2.68)",
-            "col_7": "(9.00) 163.21 2.27",
-            "Year ended": "(14.31) 426.46 3.61"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "64.64",
-            "col_4": "38.42",
-            "col_5": "136.53",
-            "Period ended": "103.06",
-            "col_7": "156.48",
-            "Year ended": "415.76"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "66.12",
-            "col_4": "38.14",
-            "col_5": "138.30",
-            "Period ended": "104.26",
-            "col_7": "137.75",
-            "Year ended": "402.86"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "550.80",
-            "col_4": "509.17",
-            "col_5": "595.59",
-            "Period ended": "1,059.97",
-            "col_7": "1,100.66",
-            "Year ended": "2,424.10"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter ended": "486.08 (1.40) 66.44 (0.32) 552.52 (1.72) 207.08 2.35 2.35 (not annualised)",
-            "col_4": "481.25 (10.22) 38.39 (0.25) 519.64 (10.47) 206.92 2.33 2.32 (not annualised)",
-            "col_5": "443.93 13.36 137.72 0.58 581.65 13.94 206.60 2.15 2.14 (not annualised)",
-            "Period ended": "967.33 (11.62) 104.83 (0.57) 1,072.16 (12.19) 207.08 4.68 4.67 (not annualised)",
-            "col_7": "952.28 10.63 137.27 0.48 1,089.55 11.11 206.60 4.61 4.60 (not annualised)",
-            "Year ended": "1,981.22 40.02 400.44 2.42 2,381.66 42.44 206.92 17,345.10 9.59 9.56 (annualised)"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "(~ in Million, except per equity share data)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "Particulars",
-            "col_3": "Quarter ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half-year ended",
-            "col_7": "",
-            "col_8": "Year ended"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "30-Sep-26 (Unaudited)",
-            "col_4": "30-Jun-26 (Unaudited)",
-            "col_5": "30-Sep-25 (Unaudited)",
-            "col_6": "30-Sep-26 (Unaudited)",
-            "col_7": "30-Sep-25 (Unaudited)",
-            "col_8": "31-Mar-26 (Audited)"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "I II Ill IV V VI VII VIII IX",
-            "col_2": "Income from operations Revenue from operations Other income Total income (I + II) Expenses a)Employee benefits expense b)Finance costs c)Depreciation and amortisation expense d)Other expenses Total expenses (IV) Profit before tax (Ill -IV) Tax expenses Current Tax Deferred Tax Profit for the period/year (V -VI) Other comprehensive income/ (loss) !tome that will not bo rc0Jm39ificd :Jubscqucntly to profit I (loss) Re-measurement (losses) I gain on defined benefit plans Income tax effect Net other comprehensive income/ (loss) not to be reclassified subsequently to profit/ (loss) Items that will be reclassified subsequently to profit/ (loss) Effective portion of gains and loss on designated portion of hedging instruments in cashflow hedge Income tax effect Net other comprehensive income to be reclassified subsequently to profit I (loss) Other comprehensive income/ (loss) for the period/ year Total comprehensive income/ (loss) for the period/year (Vll+VIII)",
-            "col_3": "1,123.21 141.47",
-            "col_4": "1,036.35 961.51 189.07 179.31",
-            "col_5": "",
-            "col_6": "2,159.56 330.54",
-            "col_7": "1,920.23 395.60",
-            "col_8": "3,975.43 733.16"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "1,264.68 672.12 6.49 40.50 136.25",
-            "col_4": "1,225.42 1,140.82 599.13 569.37 6.51 4.27 41.71 33.98 111.34 137.30",
-            "col_5": "",
-            "col_6": "2,490.10 1,271.25 1300 82.21 247.59",
-            "col_7": "2,315.83 1,128.30 8.17 65.76 262.65",
-            "col_8": "4,708.59 2,340.01 16.67 137.52 502.60"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "855.36 409.32 119.60 (10.51)",
-            "col_4": "758.69 466.73 101.05 16.41",
-            "col_5": "744.92 395.90 102.47 (2.22)",
-            "col_6": "1,614.05 876.05 220.65 5.90",
-            "col_7": "1,464.88 850.95 206.90 9.25",
-            "col_8": "2,996.80 1,711.79 406.89 10.40"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "300.23",
-            "col_4": "349.27",
-            "col_5": "295.65",
-            "col_6": "649.50",
-            "col_7": "634.80",
-            "col_8": "1,294.50"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "1.98 /0.50)",
-            "col_4": "(0.38) 0.10",
-            "col_5": "2.37 (0.60)",
-            "col_6": "1.60 (0.40)",
-            "col_7": "(25.03) 6.30",
-            "col_8": "(17.24) 4.34"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "1.48",
-            "col_4": "(0.28)",
-            "col_5": "1.77",
-            "col_6": "1.20",
-            "col_7": "(18.73)",
-            "col_8": "(12.90)"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "0.99 /025)",
-            "col_4": "9.64 12.43)",
-            "col_5": "(1125) 2.84",
-            "col_6": "10.63 (268)",
-            "col_7": "(9.00) 2.27",
-            "col_8": "(14.31) 3.61"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "0.74",
-            "col_4": "7.21",
-            "col_5": "(8.41)",
-            "col_6": "7.95",
-            "col_7": "(6.73)",
-            "col_8": "(10.70)"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "2.22",
-            "col_4": "6.93",
-            "col_5": "(6.64)",
-            "col_6": "9.15",
-            "col_7": "(25.46)",
-            "col_8": "(23.60)"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "",
-            "col_3": "302.45",
-            "col_4": "356.20",
-            "col_5": "289.01",
-            "col_6": "658.65",
-            "col_7": "609.34",
-            "col_8": "1,270.90"
-          },
-          {
-            "Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026": "",
-            "col_2": "Paid-up equity share capital (Face value i 1/-each) Reserves (Excluding revaluation reserve) Basic earnings per share Diluted earnings per share See accompanying notes to financial results",
-            "col_3": "207.08 1.45 1.45 (not annualised)",
-            "col_4": "206.92 1.69 1.68 (not annualised)",
-            "col_5": "206.60 1.43 1.43 (not annualised)",
-            "col_6": "207.08 3.14 3.13 (not annualised)",
-            "col_7": "206.60 3.07 3.06 (not annualised)",
-            "col_8": "206.92 13,025.84 6.26 6.25 (annualised)"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "(Unaudited)",
-            "For the half year ended 30 September 2025": "(Unaudited)"
-          },
-          {
-            "Particulars": "Cash flow from operating activities Profit before tax Adjustments for: Depreciation and amortisation expense Amortisation of premium/ (discounts) paid on bonds Share based compensation expense Financial assets measured at FVTPL -net change in fair value Interest income on financial assets measured at amortised cost Gain on sale of investments Gain on sale of Property,plant and equipments Interest expense on lease obligation (Gain) on Derivatives Interest income on security deposits Unrealised gain on foreign exchange differences Operating profit before working capital changes Working capital adjustments: (lncrease)/Decrease in trade receivables Increase in other assets Increase in other financial assets Increase in provisions (Decrease) in trade payables and other liabilities (Incl financial liabilities) Cash generated from operating activities Less: Income tax paid (net) Net cash generated from operating activities (a) Cash flow from investing activities Purchase of property, plant and equipment Sale of property, plant and equipment Proceeds from sale of investments Proceeds from repayment of loan given to subsidiaries (Purchase)/Proceeds from investment in bank deposits and deposits with financial institutions (net) Interest income on bonds, deposits with banks and financial instituitions and related parties Purchase of investments Payment for acquisition of subsidiary Net cash used in investing activities (b) Cash flow from financing activities Payment of lease liability-Principal portion Payment of lease liability-Interest portion Proceeds from exercise of share options Net cash used in financing activities (c) Net increase in cash and cash equivalents (a)+ (b) + (c) Cash and cash equivalents at the beginning of the year Cash and cash equivalents at the end of the year omponents of cash and cash equivalents Cash on hand Bank balances -in current accounts -in exchange earners foreign currency accounts -in deposit accounts(with original maturity of 3 months or less) ash and cash equivalents as per Statement of assets and liabilities",
-            "For the half year ended 30 September 2026": "876.05 82.21 1.67 (3.35) (59.68) (233.68) (22.94) 11.33 (1.33) (1.18)",
-            "For the half year ended 30 September 2025": "850.95 65.76 (0.10) 0.42 (57.74) (199.99) (29.76) (0.02) 8.14 (40.00) (33.72)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "649.10 13.94 (28.25) (6.12) 32.26 (8.43)",
-            "For the half year ended 30 September 2025": "563.94 (88.35) (26.87) (1.22) 30.97 (137.47)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "652.50 (206.01)",
-            "For the half year ended 30 September 2025": "341.00 (226.14)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "446.49",
-            "For the half year ended 30 September 2025": "114.86"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "(3.33) 1,578.71 218.58 144.97 (2,137.66)",
-            "For the half year ended 30 September 2025": "(129.46) 0.02 1,540.57 503.59 (154.97) 160.63 (1,961.56) (11.09)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "(198.73)",
-            "For the half year ended 30 September 2025": "(52.27)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "(27.83) (11.33) 10.63",
-            "For the half year ended 30 September 2025": "(32.02) (8.14) 7.03"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "(28.53)",
-            "For the half year ended 30 September 2025": "(33.13)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "219.23",
-            "For the half year ended 30 September 2025": "29.46"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "65.24 284.47 212.69 1.78 70.00",
-            "For the half year ended 30 September 2025": "112.72 142.18 0.01 62.15 0.02 80.00"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended 30 September 2026": "284.47",
-            "For the half year ended 30 September 2025": "142.18"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b0c03ddc-5005-4b91-ab89-9c0848ec7960",
-    "SCRIP_CD": 524218,
-    "XML_NAME": "ANN_524218_B0C03DDC-5005-4B91-AB89-9C0848EC7960",
-    "NEWSSUB": "Resonance Specialties Ltd-$ - 524218 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-10-31T21:26:02.74",
-    "NEWS_DT": "2026-10-31T21:26:02.74",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c9f4d6c9-374b-44cf-82c2-00ffdc11d743.pdf",
-    "MORE": "",
-    "HEADLINE": "NEWSPAPER RESULTS FOR Q2 H1 FY 27",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/resonance-specialties-ltd/resonance/524218/",
-    "SLONGNAME": "Resonance Specialties Ltd-$",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:26:02",
-    "DissemDT": "2026-10-31T21:26:02.74",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3930874,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "786fa14e-c7e9-43a8-9e69-87997ea1baa9",
-    "SCRIP_CD": 544550,
-    "XML_NAME": "ANN_544550_786FA14E-C7E9-43A8-9E69-87997EA1BAA9",
-    "NEWSSUB": "Pace Digitek Ltd - 544550 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-10-31T21:24:49.247",
-    "NEWS_DT": "2026-10-31T21:24:49.247",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "23d69328-1261-4b4c-8699-b7c2ea06d3f2.pdf",
-    "MORE": "",
-    "HEADLINE": "Press release on the un audited financial results for the quarter ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pace-digitek-ltd/pacedigitk/544550/",
-    "SLONGNAME": "Pace Digitek Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:24:49",
-    "DissemDT": "2026-10-31T21:24:49.247",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 598125,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "808",
-      "net_profit": "97",
-      "operating_profit": "159",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars (INR crore)": "",
-            "col_2": "",
-            "col_3": "",
-            "Q2FY27": "",
-            "col_5": "",
-            "col_6": "",
-            "Q2FY26": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "Y-o-Y": "Change",
-            "col_12": "",
-            "Q1FY27": "",
-            "col_14": "",
-            "col_15": "",
-            "col_16": "",
-            "Q-o-Q": "Change",
-            "col_18": "",
-            "H1 FY27": "",
-            "col_20": "",
-            "col_21": "",
-            "H1 FY26": "",
-            "col_23": "",
-            "col_24": "",
-            "col_25": "",
-            "Y-o-Y_1": "Change",
-            "col_27": ""
-          },
-          {
-            "Particulars (INR crore)": "",
-            "col_2": "Revenue from operations",
-            "col_3": "",
-            "Q2FY27": "",
-            "col_5": "808",
-            "col_6": "",
-            "Q2FY26": "",
-            "col_8": "533",
-            "col_9": "",
-            "col_10": "",
-            "Y-o-Y": "51.5%",
-            "col_12": "",
-            "Q1FY27": "",
-            "col_14": "555",
-            "col_15": "",
-            "col_16": "",
-            "Q-o-Q": "45.5%",
-            "col_18": "",
-            "H1 FY27": "",
-            "col_20": "1,364",
-            "col_21": "",
-            "H1 FY26": "",
-            "col_23": "901",
-            "col_24": "",
-            "col_25": "",
-            "Y-o-Y_1": "51.4%",
-            "col_27": ""
-          },
-          {
-            "Particulars (INR crore)": "EBITDA",
-            "col_2": "",
-            "col_3": "",
-            "Q2FY27": "159",
-            "col_5": "",
-            "col_6": "",
-            "Q2FY26": "94",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "68.5%",
-            "Y-o-Y": "",
-            "col_12": "",
-            "Q1FY27": "86",
-            "col_14": "",
-            "col_15": "",
-            "col_16": "84.2%",
-            "Q-o-Q": "",
-            "col_18": "",
-            "H1 FY27": "245",
-            "col_20": "",
-            "col_21": "",
-            "H1 FY26": "174",
-            "col_23": "",
-            "col_24": "",
-            "col_25": "40.5%",
-            "Y-o-Y_1": "",
-            "col_27": ""
-          },
-          {
-            "Particulars (INR crore)": "",
-            "col_2": "EBITDA margin",
-            "col_3": "",
-            "Q2FY27": "",
-            "col_5": "19.6%",
-            "col_6": "",
-            "Q2FY26": "",
-            "col_8": "17.6%",
-            "col_9": "",
-            "col_10": "",
-            "Y-o-Y": "",
-            "col_12": "",
-            "Q1FY27": "",
-            "col_14": "15.5%",
-            "col_15": "",
-            "col_16": "",
-            "Q-o-Q": "",
-            "col_18": "",
-            "H1 FY27": "",
-            "col_20": "17.9%",
-            "col_21": "",
-            "H1 FY26": "",
-            "col_23": "19.3%",
-            "col_24": "",
-            "col_25": "",
-            "Y-o-Y_1": "",
-            "col_27": ""
-          },
-          {
-            "Particulars (INR crore)": "Profit After Tax",
-            "col_2": "",
-            "col_3": "",
-            "Q2FY27": "97",
-            "col_5": "",
-            "col_6": "",
-            "Q2FY26": "68",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "43.3%",
-            "Y-o-Y": "",
-            "col_12": "",
-            "Q1FY27": "63",
-            "col_14": "",
-            "col_15": "",
-            "col_16": "55.6%",
-            "Q-o-Q": "",
-            "col_18": "",
-            "H1 FY27": "160",
-            "col_20": "",
-            "col_21": "",
-            "H1 FY26": "123",
-            "col_23": "",
-            "col_24": "",
-            "col_25": "30.4%",
-            "Y-o-Y_1": "",
-            "col_27": ""
-          },
-          {
-            "Particulars (INR crore)": "",
-            "col_2": "Profit After Tax Margin",
-            "col_3": "",
-            "Q2FY27": "",
-            "col_5": "12.0%",
-            "col_6": "",
-            "Q2FY26": "",
-            "col_8": "12.7%",
-            "col_9": "",
-            "col_10": "",
-            "Y-o-Y": "",
-            "col_12": "",
-            "Q1FY27": "",
-            "col_14": "11.3%",
-            "col_15": "",
-            "col_16": "",
-            "Q-o-Q": "",
-            "col_18": "",
-            "H1 FY27": "",
-            "col_20": "11.7%",
-            "col_21": "",
-            "H1 FY26": "",
-            "col_23": "13.6%",
-            "col_24": "",
-            "col_25": "",
-            "Y-o-Y_1": "",
-            "col_27": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "402f2346-21a7-4620-a717-8211762ee6d0",
-    "SCRIP_CD": 543463,
-    "XML_NAME": "ANN_543463_402F2346-21A7-4620-A717-8211762EE6D0",
-    "NEWSSUB": "Vedant Fashions Ltd - 543463 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-10-31T21:24:47.887",
-    "NEWS_DT": "2026-10-31T21:24:47.887",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "695a129c-b6c8-4290-bfcc-dd464476f3c8.pdf",
-    "MORE": "",
-    "HEADLINE": "Vedant Fashions Limited has informed the Exchange about the Schedule of Conference Call of Analysts/Institutional Investors to be held on Friday, November 06, 2026 at 3.30 PM (IST).",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/vedant-fashions-ltd/manyavar/543463/",
-    "SLONGNAME": "Vedant Fashions Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:24:47",
-    "DissemDT": "2026-10-31T21:24:47.887",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 319507,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "402f2346-21a7-4620-a717-8211762ee6d0",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14727114,
-    "DataInsDate": "2026-10-31T21:24:47.807",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Vedant Fashions Ltd will hold an earnings conference call on **Friday, 6 November 2026 at 3:30 PM IST** to discuss its business strategy and outlook after the declaration of its **Q2 FY 2027 results** (quarter and half‑year ended 30 September 2026).  \n\n- The call will feature senior management – Chief Revenue Officer **Mr. Vedant Modi** and Chief Financial Officer **Mr. Rahul Murarka** – and registration details are available on the company’s website; no specific financial figures or decisions are disclosed in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "58d5e816-8216-4689-8f7c-e43466d393d4",
-    "SCRIP_CD": 514167,
-    "XML_NAME": "ANN_514167_58D5E816-8216-4689-8F7C-E43466D393D4",
-    "NEWSSUB": "Ganesha Ecosphere Ltd - 514167 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-10-31T21:24:25.8",
-    "NEWS_DT": "2026-10-31T21:24:25.8",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fb6838a3-964c-46e5-82bc-8288ee2917ba.pdf",
-    "MORE": "",
-    "HEADLINE": "As per the attached file.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ganesha-ecosphere-ltd/ganecos/514167/",
-    "SLONGNAME": "Ganesha Ecosphere Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:24:25",
-    "DissemDT": "2026-10-31T21:24:25.8",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3088439,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "150000",
-      "net_profit": "14.50",
-      "operating_profit": "120.42 crore",
-      "total_assets": "2054.51",
-      "total_equity": "1323.76",
-      "total_debt": "316.32",
-      "eps": "21.36",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 34,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "512.96",
-            "Q1FY27": "423.67",
-            "Q2FY26": "363.38",
-            "H1FY27": "936.63",
-            "H1FY26": "700.51"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "3.10",
-            "Q1FY27": "3.62",
-            "Q2FY26": "5.29",
-            "H1FY27": "6.72",
-            "H1FY26": "8.66"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "516.06",
-            "Q1FY27": "427.29",
-            "Q2FY26": "368.67",
-            "H1FY27": "943.35",
-            "H1FY26": "709.17"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "297.03",
-            "Q1FY27": "303.52",
-            "Q2FY26": "240.10",
-            "H1FY27": "600.55",
-            "H1FY26": "466.80"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "53.56",
-            "Q1FY27": "(35.56)",
-            "Q2FY26": "10.75",
-            "H1FY27": "18.00",
-            "H1FY26": "1.95"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "26.81",
-            "Q1FY27": "24.48",
-            "Q2FY26": "23.60",
-            "H1FY27": "51.28",
-            "H1FY26": "47.16"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "9.05",
-            "Q1FY27": "8.87",
-            "Q2FY26": "11.29",
-            "H1FY27": "17.93",
-            "H1FY26": "21.14"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "18.39",
-            "Q1FY27": "17.34",
-            "Q2FY26": "15.74",
-            "H1FY27": "35.73",
-            "H1FY26": "31.24"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "75.08",
-            "Q1FY27": "71.55",
-            "Q2FY26": "66.60",
-            "H1FY27": "146.63",
-            "H1FY26": "125.97"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "36.14",
-            "Q1FY27": "37.09",
-            "Q2FY26": "0.59",
-            "H1FY27": "73.23",
-            "H1FY26": "14.91"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "(8.06)",
-            "Q1FY27": "(8.06)",
-            "Q2FY26": "(1.09)",
-            "H1FY27": "(16.12)",
-            "H1FY26": "(4.66)"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "28.08",
-            "Q1FY27": "29.03",
-            "Q2FY26": "(0.50)",
-            "H1FY27": "57.11",
-            "H1FY26": "10.25"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "0.26",
-            "Q1FY27": "1.00",
-            "Q2FY26": "(0.89)",
-            "H1FY27": "1.26",
-            "H1FY26": "(1.11)"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "28.34",
-            "Q1FY27": "30.03",
-            "Q2FY26": "(1.39)",
-            "H1FY27": "58.37",
-            "H1FY26": "9.14"
-          }
-        ]
-      },
-      {
-        "page": 35,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "316.49",
-            "Q1FY27": "262.30",
-            "Q2FY26": "259.35",
-            "H1FY27": "578.79",
-            "H1FY26": "480.82"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "3.13",
-            "Q1FY27": "3.52",
-            "Q2FY26": "10.66",
-            "H1FY27": "6.65",
-            "H1FY26": "18.83"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "319.62",
-            "Q1FY27": "265.82",
-            "Q2FY26": "270.01",
-            "H1FY27": "585.44",
-            "H1FY26": "499.65"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "191.37",
-            "Q1FY27": "201.08",
-            "Q2FY26": "159.74",
-            "H1FY27": "392.45",
-            "H1FY26": "320.91"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "34.25",
-            "Q1FY27": "(25.79)",
-            "Q2FY26": "30.40",
-            "H1FY27": "8.46",
-            "H1FY26": "25.00"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "18.69",
-            "Q1FY27": "17.66",
-            "Q2FY26": "17.55",
-            "H1FY27": "36.35",
-            "H1FY26": "35.45"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "1.60",
-            "Q1FY27": "2.00",
-            "Q2FY26": "2.42",
-            "H1FY27": "3.60",
-            "H1FY26": "3.73"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "6.95",
-            "Q1FY27": "6.85",
-            "Q2FY26": "5.99",
-            "H1FY27": "13.81",
-            "H1FY26": "11.86"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "47.68",
-            "Q1FY27": "45.56",
-            "Q2FY26": "43.48",
-            "H1FY27": "93.24",
-            "H1FY26": "81.99"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "19.08",
-            "Q1FY27": "18.46",
-            "Q2FY26": "10.43",
-            "H1FY27": "37.53",
-            "H1FY26": "20.71"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "(4.58)",
-            "Q1FY27": "(4.71)",
-            "Q2FY26": "(2.62)",
-            "H1FY27": "(9.28)",
-            "H1FY26": "(5.23)"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "14.50",
-            "Q1FY27": "13.75",
-            "Q2FY26": "7.82",
-            "H1FY27": "28.25",
-            "H1FY26": "15.48"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "0.26",
-            "Q1FY27": "1.00",
-            "Q2FY26": "(0.91)",
-            "H1FY27": "1.26",
-            "H1FY26": "(1.14)"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "Q2FY27": "14.76",
-            "Q1FY27": "14.75",
-            "Q2FY26": "6.91",
-            "H1FY27": "29.51",
-            "H1FY26": "14.34"
-          }
-        ]
-      },
-      {
-        "page": 36,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "1047.23",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "71.23",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "120.05",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "290.58",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "222.97",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "22.35",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "280.10",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "TOTAL ASSETS",
-            "HY1FY27": "2054.51",
-            "HY1FY26": "2034.00",
-            "FY26": "2003.38"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "26.80",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "1296.96",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "1323.76",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "316.32",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "14.44",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "68.92",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "173.49",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "2.59",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "89.81",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "65.18",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "TOTAL EQUITY AND LIABILITIES",
-            "HY1FY27": "2054.51",
-            "HY1FY26": "2034.00",
-            "FY26": "2003.38"
-          }
-        ]
-      },
-      {
-        "page": 37,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "228.43",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "6.15",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "826.47",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "174.21",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "154.82",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "7.64",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "151.54",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "TOTAL ASSETS",
-            "HY1FY27": "1549.26",
-            "HY1FY26": "1498.23",
-            "FY26": "1549.15"
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "26.80",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "1290.54",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "1317.34",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "0.93",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "12.67",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "18.29",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "104.94",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "2.59",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "54.27",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "",
-            "HY1FY27": "38.23",
-            "HY1FY26": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crore)": "TOTAL EQUITY AND LIABILITIES",
-            "HY1FY27": "1549.26",
-            "HY1FY26": "1498.23",
-            "FY26": "1549.15"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b7f93b31-903d-48f4-8ce5-c56cc8bf4379",
-    "SCRIP_CD": 500243,
-    "XML_NAME": "ANN_500243_B7F93B31-903D-48F4-8CE5-C56CC8BF4379",
-    "NEWSSUB": "Kirloskar Industries Ltd - 500243 - Update Of Material Subsidiary",
-    "DT_TM": "2026-10-31T21:24:20.563",
-    "NEWS_DT": "2026-10-31T21:24:20.563",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6ceefea8-b417-4532-b62e-cbd793b88ab1.pdf",
-    "MORE": "",
-    "HEADLINE": "Dear Sir/Madam,\r\n\r\nPlease find enclosed the update of Kirloskar Ferrous Industries Limited (KFIL), a listed material subsidiary of the Company.\r\n\r\nYou are requested to take the same on your record.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kirloskar-industries-ltd/kirlosind/500243/",
-    "SLONGNAME": "Kirloskar Industries Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:24:20",
-    "DissemDT": "2026-10-31T21:24:20.563",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 464051,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2047 cr",
-      "operating_profit": "223 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fc3cff19-2723-48f6-9d67-34cc4558ecae",
-    "SCRIP_CD": 500243,
-    "XML_NAME": "ANN_500243_FC3CFF19-2723-48F6-9D67-34CC4558ECAE",
-    "NEWSSUB": "Kirloskar Industries Ltd - 500243 - Update Of Material Subsidiary",
-    "DT_TM": "2026-10-31T21:21:26.247",
-    "NEWS_DT": "2026-10-31T21:21:26.247",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f299b4cc-ed00-4bd2-9de1-13c124597b6a.pdf",
-    "MORE": "",
-    "HEADLINE": "Dear Sir/Madam,\r\n\r\nPlease find enclosed the update of Kirloskar Ferrous Industries Limited (KFIL), a listed material subsidiary of the Company.\r\n\r\nYou are requested to take the same on your record.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kirloskar-industries-ltd/kirlosind/500243/",
-    "SLONGNAME": "Kirloskar Industries Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-10-31T21:21:26",
-    "DissemDT": "2026-10-31T21:21:26.247",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1942257,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2",
-      "net_profit": "97.6",
-      "operating_profit": "27",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Revenue from Operations",
-            "col_2": "2,046.7",
-            "col_3": "1,771.5",
-            "col_4": "1,755.3",
-            "col_5": "3,818.2",
-            "col_6": "3,453.4",
-            "col_7": "6,888.6"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Other Income",
-            "col_2": "19.3",
-            "col_3": "17.4",
-            "col_4": "4.4",
-            "col_5": "36.8",
-            "col_6": "12.9",
-            "col_7": "62.4"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Total income (1+2)",
-            "col_2": "2,066.0",
-            "col_3": "1,788.9",
-            "col_4": "1,759.8",
-            "col_5": "3,855.0",
-            "col_6": "3,466.3",
-            "col_7": "6,950.9"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Expenses",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(a) Cost of Materials consumed",
-            "col_2": "1,159.8",
-            "col_3": "1,005.1",
-            "col_4": "1,014.1",
-            "col_5": "2,164.8",
-            "col_6": "1,971.8",
-            "col_7": "3,864.2"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(b) Purchase of stock-in-trade",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "14.5",
-            "col_5": "-",
-            "col_6": "18.8",
-            "col_7": "18.8"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(c) Changes in inventories of finished goods, Stock-in - Trade and work-in-progress",
-            "col_2": "20.8",
-            "col_3": "(53.2)",
-            "col_4": "(59.4)",
-            "col_5": "(32.4)",
-            "col_6": "(27.1)",
-            "col_7": "13.1"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(d) Employee benefits expense",
-            "col_2": "109.0",
-            "col_3": "98.9",
-            "col_4": "97.1",
-            "col_5": "207.8",
-            "col_6": "184.2",
-            "col_7": "369.8"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(e) Finance costs",
-            "col_2": "34.0",
-            "col_3": "29.5",
-            "col_4": "32.6",
-            "col_5": "63.5",
-            "col_6": "66.6",
-            "col_7": "125.4"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(f) Depreciation and amortisation",
-            "col_2": "70.6",
-            "col_3": "69.3",
-            "col_4": "66.4",
-            "col_5": "139.8",
-            "col_6": "130.5",
-            "col_7": "266.9"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(g) Other expenses",
-            "col_2": "534.2",
-            "col_3": "505.0",
-            "col_4": "474.6",
-            "col_5": "1,039.2",
-            "col_6": "874.4",
-            "col_7": "1,780.9"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Total Expenses",
-            "col_2": "1,928.2",
-            "col_3": "1,654.5",
-            "col_4": "1,639.9",
-            "col_5": "3,582.8",
-            "col_6": "3,219.2",
-            "col_7": "6,439.1"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Profit Before tax (before exceptional items)",
-            "col_2": "137.8",
-            "col_3": "134.4",
-            "col_4": "119.9",
-            "col_5": "272.2",
-            "col_6": "247.1",
-            "col_7": "511.8"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Exceptional Items",
-            "col_2": "-",
-            "col_3": "29.3",
-            "col_4": "-",
-            "col_5": "29.3",
-            "col_6": "-",
-            "col_7": "17.7"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Profit Before tax (After exceptional items)",
-            "col_2": "137.8",
-            "col_3": "105.09",
-            "col_4": "119.86",
-            "col_5": "242.87",
-            "col_6": "247.09",
-            "col_7": "494.17"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Profit After tax",
-            "col_2": "97.6",
-            "col_3": "82.3",
-            "col_4": "88.5",
-            "col_5": "179.9",
-            "col_6": "324.0",
-            "col_7": "504.7"
-          },
-          {
-            "Quarter ended Period Ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "EBITDA (excluding other income & before exceptional items)",
-            "col_2": "223.0",
-            "col_3": "215.7",
-            "col_4": "214.4",
-            "col_5": "438.7",
-            "col_6": "431.3",
-            "col_7": "841.8"
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Revenue from Operations",
-            "col_2": "2,046.7",
-            "col_3": "1,771.5",
-            "col_4": "1,755.3",
-            "col_5": "3,818.2",
-            "col_6": "3,453.4",
-            "col_7": "6,888.6"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Other Income",
-            "col_2": "19.3",
-            "col_3": "17.4",
-            "col_4": "4.4",
-            "col_5": "36.8",
-            "col_6": "12.9",
-            "col_7": "62.4"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Total income (1+2)",
-            "col_2": "2,066.0",
-            "col_3": "1,788.9",
-            "col_4": "1,759.8",
-            "col_5": "3,855.0",
-            "col_6": "3,466.3",
-            "col_7": "6,950.9"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Expenses",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(a) Cost of Materials consumed",
-            "col_2": "1,159.8",
-            "col_3": "1,005.1",
-            "col_4": "1,014.1",
-            "col_5": "2,164.8",
-            "col_6": "1,971.8",
-            "col_7": "3,864.2"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(b) Purchase of stock-in-trade",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "14.5",
-            "col_5": "-",
-            "col_6": "18.8",
-            "col_7": "18.8"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(c) Changes in inventories of finished goods, Stock-in - Trade and work-in-progress",
-            "col_2": "20.8",
-            "col_3": "(53.2)",
-            "col_4": "(59.4)",
-            "col_5": "(32.4)",
-            "col_6": "(27.1)",
-            "col_7": "13.1"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(d) Employee benefits expense",
-            "col_2": "109.0",
-            "col_3": "98.9",
-            "col_4": "97.1",
-            "col_5": "207.8",
-            "col_6": "184.2",
-            "col_7": "369.9"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(e) Finance costs",
-            "col_2": "34.0",
-            "col_3": "29.5",
-            "col_4": "32.6",
-            "col_5": "63.5",
-            "col_6": "66.6",
-            "col_7": "125.4"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(f) Depreciation and amortisation",
-            "col_2": "70.6",
-            "col_3": "69.3",
-            "col_4": "66.4",
-            "col_5": "139.8",
-            "col_6": "130.5",
-            "col_7": "266.9"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "(g) Other expenses",
-            "col_2": "534.2",
-            "col_3": "505.0",
-            "col_4": "474.6",
-            "col_5": "1,039.2",
-            "col_6": "874.4",
-            "col_7": "1,780.9"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Total Expenses",
-            "col_2": "1,928.3",
-            "col_3": "1,654.5",
-            "col_4": "1,639.9",
-            "col_5": "3,582.8",
-            "col_6": "3,219.2",
-            "col_7": "6,439.1"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Profit Before tax (before exceptional items)",
-            "col_2": "137.8",
-            "col_3": "134.4",
-            "col_4": "119.9",
-            "col_5": "272.2",
-            "col_6": "247.1",
-            "col_7": "511.8"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Exceptional Items",
-            "col_2": "-",
-            "col_3": "29.3",
-            "col_4": "-",
-            "col_5": "29.3",
-            "col_6": "(2.5)",
-            "col_7": "15.2"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Profit Before tax (After exceptional items)",
-            "col_2": "137.8",
-            "col_3": "105.1",
-            "col_4": "119.9",
-            "col_5": "242.9",
-            "col_6": "249.6",
-            "col_7": "496.6"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "Profit After tax",
-            "col_2": "97.5",
-            "col_3": "82.3",
-            "col_4": "88.5",
-            "col_5": "179.9",
-            "col_6": "326.5",
-            "col_7": "507.2"
-          },
-          {
-            "Quarter ended Period ended Year ended 30th September 30th September 30th September 30th September Particulars 2026 30th June 2026 2025 2026 2025 31st March 2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited": "EBITDA (excluding other income before Exceptional items)",
-            "col_2": "223.0",
-            "col_3": "215.7",
-            "col_4": "214.4",
-            "col_5": "438.7",
-            "col_6": "431.3",
-            "col_7": "841.7"
           }
         ]
       }
