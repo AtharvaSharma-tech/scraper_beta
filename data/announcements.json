@@ -1,5 +1,435 @@
 [
   {
+    "NEWSID": "0626d872-5184-409b-b15f-a1cc217886d6",
+    "SCRIP_CD": 512008,
+    "XML_NAME": "ANN_512008_0626D872-5184-409B-B15F-A1CC217886D6",
+    "NEWSSUB": "EFC (I) Ltd - 512008 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-03T02:21:32.14",
+    "NEWS_DT": "2026-11-03T02:21:32.14",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e5684f1c-3559-4934-8539-f8b80c0599bc.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation is attached.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/efc-(i)-ltd/efcil/512008/",
+    "SLONGNAME": "EFC (I) Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-03T02:21:32",
+    "DissemDT": "2026-11-03T02:21:32.14",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5533819,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 3 Nov 2026, EFC (I) Ltd filed an Investor Presentation (Regulation 30) covering its Q2 and H1 FY 27 performance for the quarter and half‑year ended 30 Sept 2026 (Q2 & H1 FY27).  \n\n- The announcement contains only the filing notice and safe‑harbor disclaimer; it does **not** disclose any financial numbers",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "77 crore",
+      "operating_profit": "134 crore",
+      "total_assets": "3208.2",
+      "total_equity": "1121.9",
+      "total_debt": "7",
+      "eps": "43",
+      "roe": "5",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 38,
+        "table_index": 1,
+        "row_count": 29,
+        "rows": [
+          {
+            "Particulars (₹ Million)": "EQUITY AND LIABILITIES",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Equity",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Equity Share capital",
+            "H1FY27": "29.6",
+            "H1FY26": "27.5"
+          },
+          {
+            "Particulars (₹ Million)": "Non Controlling Interest",
+            "H1FY27": "1,084.7",
+            "H1FY26": "7 79.8"
+          },
+          {
+            "Particulars (₹ Million)": "Other equity",
+            "H1FY27": "7 .6",
+            "H1FY26": "6 .4"
+          },
+          {
+            "Particulars (₹ Million)": "Total Equity",
+            "H1FY27": "1,121.9",
+            "H1FY26": "8 13.7"
+          },
+          {
+            "Particulars (₹ Million)": "LIABILITIES",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Non-current liabilities",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Financial liabilities:",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Borrowings",
+            "H1FY27": "2 05.5",
+            "H1FY26": "2 37.9"
+          },
+          {
+            "Particulars (₹ Million)": "Lease Liabilities",
+            "H1FY27": "8 33.4",
+            "H1FY26": "8 36.2"
+          },
+          {
+            "Particulars (₹ Million)": "Others financial liabilities",
+            "H1FY27": "1 17.4",
+            "H1FY26": "80.6"
+          },
+          {
+            "Particulars (₹ Million)": "Other non-current liabilities",
+            "H1FY27": "4 .4",
+            "H1FY26": "-"
+          },
+          {
+            "Particulars (₹ Million)": "Deferred tax liabilities (net)",
+            "H1FY27": "1 28.0",
+            "H1FY26": "77.9"
+          },
+          {
+            "Particulars (₹ Million)": "Provisions",
+            "H1FY27": "4 .8",
+            "H1FY26": "3 .8"
+          },
+          {
+            "Particulars (₹ Million)": "Total Non-current liabilities",
+            "H1FY27": "1,293.6",
+            "H1FY26": "1,236.4"
+          },
+          {
+            "Particulars (₹ Million)": "Current liabilities",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Financial liabilities:",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Borrowings",
+            "H1FY27": "58.0",
+            "H1FY26": "69.7"
+          },
+          {
+            "Particulars (₹ Million)": "Lease Liabilities",
+            "H1FY27": "2 89.4",
+            "H1FY26": "2 62.1"
+          },
+          {
+            "Particulars (₹ Million)": "Trade Payables:",
+            "H1FY27": "",
+            "H1FY26": ""
+          },
+          {
+            "Particulars (₹ Million)": "Total outstanding dues of micro and small enterprises",
+            "H1FY27": "36.4",
+            "H1FY26": "32.5"
+          },
+          {
+            "Particulars (₹ Million)": "Total outstanding dues other than micro & small enter",
+            "H1FY27": "pr i s e s 1 65.0",
+            "H1FY26": "1 10.5"
+          },
+          {
+            "Particulars (₹ Million)": "Other financial liabilities",
+            "H1FY27": "1 89.0",
+            "H1FY26": "87.4"
+          },
+          {
+            "Particulars (₹ Million)": "Current Tax Liabilities (net)",
+            "H1FY27": "29.0",
+            "H1FY26": "19.6"
+          },
+          {
+            "Particulars (₹ Million)": "Other current liabilities",
+            "H1FY27": "25.8",
+            "H1FY26": "43.1"
+          },
+          {
+            "Particulars (₹ Million)": "Provisions",
+            "H1FY27": "0 .2",
+            "H1FY26": "0 .2"
+          },
+          {
+            "Particulars (₹ Million)": "Sub-total - Current liabilities",
+            "H1FY27": "7 92.8",
+            "H1FY26": "6 25.1"
+          },
+          {
+            "Particulars (₹ Million)": "TOTAL - EQUITY AND LIABILITIES",
+            "H1FY27": "3,208.2",
+            "H1FY26": "2,675.13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "a00a9795-c552-4207-8ced-fd7fa6b72b95",
+    "SCRIP_CD": 512008,
+    "XML_NAME": "ANN_512008_A00A9795-C552-4207-8CED-FD7FA6B72B95",
+    "NEWSSUB": "EFC (I) Ltd - 512008 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-03T02:16:53.903",
+    "NEWS_DT": "2026-11-03T02:16:53.903",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a904ef9f-a76a-44e4-92f6-18d0923f1ccd.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release is attached.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/efc-(i)-ltd/efcil/512008/",
+    "SLONGNAME": "EFC (I) Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-03T02:16:53",
+    "DissemDT": "2026-11-03T02:16:53.903",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 633016,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is a financial summary of the announcement:\n\n* **Strong Q2 & H1 FY27 Financial Growth:** For the quarter ended September 30, 2026 (Q2 FY27), EFC (I) Ltd reported revenue of ₹332 Cr. (up 30% YoY), EBITDA of ₹134 Cr. (up 21% YoY), and Profit After Tax of ₹77 Cr. (up 36% YoY), bringing total H1 FY27 revenue to ₹615 Cr. and Profit After Tax to ₹148 Cr. (up 43% YoY).\n* **Key Strategic & Financial Decisions:** The company announced the corporate consolidation/demerger of its leasing and Design & Build operations into the listed entity, the acquisition of Ultrafresh to expand into modular furniture, a 95,897 sq. ft. office expansion in Pune, and the divestment of its Sanvritti Alpha asset generating an annualized IRR of approximately 30%.",
+    "key_metrics": {
+      "revenue": "254.59",
+      "net_profit": "332 cr",
+      "operating_profit": "110.81",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 1,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars (Rs. Mn)": "Revenues",
+            "Q2 FY27": "332.02",
+            "Q2 FY26": "254.59",
+            "YoY": "30%",
+            "Q1 FY27": "282.88",
+            "QoQ": "17%",
+            "H1 FY26": "614.90",
+            "H1 FY27": "474.21",
+            "YoY_1": "30%"
+          },
+          {
+            "Particulars (Rs. Mn)": "EBITDA",
+            "Q2 FY27": "133.77",
+            "Q2 FY26": "110.81",
+            "YoY": "21%",
+            "Q1 FY27": "122.96",
+            "QoQ": "9%",
+            "H1 FY26": "256.73",
+            "H1 FY27": "213.05",
+            "YoY_1": "20%"
+          },
+          {
+            "Particulars (Rs. Mn)": "EBITDA Margins (%)",
+            "Q2 FY27": "40%",
+            "Q2 FY26": "44%",
+            "YoY": "",
+            "Q1 FY27": "43%",
+            "QoQ": "",
+            "H1 FY26": "42%",
+            "H1 FY27": "45%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars (Rs. Mn)": "Profit before Tax",
+            "Q2 FY27": "110.83",
+            "Q2 FY26": "75.55",
+            "YoY": "47%",
+            "Q1 FY27": "101.34",
+            "QoQ": "9%",
+            "H1 FY26": "212.22",
+            "H1 FY27": "141.70",
+            "YoY_1": "50%"
+          },
+          {
+            "Particulars (Rs. Mn)": "Profit after Tax",
+            "Q2 FY27": "77.26",
+            "Q2 FY26": "56.68",
+            "YoY": "36%",
+            "Q1 FY27": "70.85",
+            "QoQ": "9%",
+            "H1 FY26": "148.16",
+            "H1 FY27": "103.43",
+            "YoY_1": "43%"
+          },
+          {
+            "Particulars (Rs. Mn)": "PAT Margins (%)",
+            "Q2 FY27": "23%",
+            "Q2 FY26": "22%",
+            "YoY": "",
+            "Q1 FY27": "25%",
+            "QoQ": "",
+            "H1 FY26": "24%",
+            "H1 FY27": "22%",
+            "YoY_1": ""
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 3,
+        "rows": [
+          {
+            "Segmental Revenue (₹ Mn)": "Rental",
+            "Q2 FY27": "167.99",
+            "Q2 FY26": "129.00",
+            "YoY": "30%",
+            "Q1 FY27": "153.91",
+            "QoQ": "9%",
+            "H1 FY27": "321.90",
+            "H1 FY26": "251.19",
+            "YoY_1": "28%"
+          },
+          {
+            "Segmental Revenue (₹ Mn)": "Interior",
+            "Q2 FY27": "129.19",
+            "Q2 FY26": "111.61",
+            "YoY": "16%",
+            "Q1 FY27": "100.39",
+            "QoQ": "29%",
+            "H1 FY27": "229.58",
+            "H1 FY26": "196.29",
+            "YoY_1": "17%"
+          },
+          {
+            "Segmental Revenue (₹ Mn)": "Furniture",
+            "Q2 FY27": "34.84",
+            "Q2 FY26": "13.98",
+            "YoY": "149%",
+            "Q1 FY27": "28.57",
+            "QoQ": "22%",
+            "H1 FY27": "63.41",
+            "H1 FY26": "26.73",
+            "YoY_1": "137%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "ec75baf1-fbba-44a7-8a8a-41645ee4dae6",
+    "SCRIP_CD": 512008,
+    "XML_NAME": "ANN_512008_EC75BAF1-FBBA-44A7-8A8A-41645EE4DAE6",
+    "NEWSSUB": "EFC (I) Ltd - 512008 - Statement Of Deviation And Variation For The Quarter Ended September 30, 2026.",
+    "DT_TM": "2026-11-03T02:09:04.27",
+    "NEWS_DT": "2026-11-03T02:09:04.27",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3a4645f8-70fa-4abf-87f7-b2fe368af377.pdf",
+    "MORE": "",
+    "HEADLINE": "Statement of Deviation and Variation is attached.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/efc-(i)-ltd/efcil/512008/",
+    "SLONGNAME": "EFC (I) Ltd",
+    "AGENDA_ID": 84,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-03T02:09:04",
+    "DissemDT": "2026-11-03T02:09:04.27",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 558687,
+    "SUBCATNAME": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Rights issue details:** On May 25 2026, EFC (I) Ltd raised **₹ 15,994.179 lakhs** through a rights issue (Scrip Code 512008, NSE EFCIL), with the quarter‑end reporting date of **30 Sept 2026** and CARE Ratings Ltd. acting as the monitoring agency.  \n\n- **Utilisation of proceeds:** The Audit Committee confirmed **no deviation or variation** from the originally disclosed use of funds; all proceeds were applied to the intended purposes (working capital, subsidiary funding, corporate purposes, etc.) with no shareholder‑approved changes required.",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 1,
+        "row_count": 3,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Original Object": "Funding the working capital requirements of the Company.",
+            "Modified Object (s) if any": "Not Applicable",
+            "Original Alloca- tion": "6000.00",
+            "Modi- fied alloc- ation, if any": "0.000",
+            "Funds Utilised": "1959.00",
+            "Amount of Deviati- on/ Variation for the quarter according to applic- able object": "0.000",
+            "Remarks, if any": "Not Applicable"
+          },
+          {
+            "Sr. No.": "2",
+            "Original Object": "Funding in our subsidiary, EFC Limited, through Equity/ Debt, for the purpose of meeting its working capital requirements.",
+            "Modified Object (s) if any": "Not Applicable",
+            "Original Alloca- tion": "3000.00",
+            "Modi- fied alloc- ation, if any": "0.000",
+            "Funds Utilised": "1521.00",
+            "Amount of Deviati- on/ Variation for the quarter according to applic- able object": "0.000",
+            "Remarks, if any": "Not Applicable"
+          },
+          {
+            "Sr. No.": "3",
+            "Original Object": "Funding in our subsidiary, Ek Design Industries Limited, through Equity/ Debt, for the purpose of",
+            "Modified Object (s) if any": "Not Applicable",
+            "Original Alloca- tion": "3000.00",
+            "Modi- fied alloc- ation, if any": "0.000",
+            "Funds Utilised": "502.00",
+            "Amount of Deviati- on/ Variation for the quarter according to applic- able object": "0.000",
+            "Remarks, if any": "Not Applicable"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "f1d526a6-d061-4fc9-9380-3ab2e9d21d46",
     "SCRIP_CD": 512008,
     "XML_NAME": "ANN_512008_F1D526A6-D061-4FC9-9380-3AB2E9D21D46",
@@ -59605,326 +60035,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "db4d6792-629b-47fb-865c-d8659ffaf6e0",
-    "SCRIP_CD": 531358,
-    "XML_NAME": "ANN_531358_DB4D6792-629B-47FB-865C-D8659FFAF6E0",
-    "NEWSSUB": "Choice International Ltd - 531358 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-02T21:12:27.06",
-    "NEWS_DT": "2026-11-02T21:12:27.06",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6deda135-6f2c-4e5a-a102-66d429a7948c.pdf",
-    "MORE": "",
-    "HEADLINE": "Press release on the unaudited Financial Results for the Quarter and Half Year ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/choice-international-ltd/choicein/531358/",
-    "SLONGNAME": "Choice International Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 33,
-    "News_submission_dt": "2026-11-02T21:12:27",
-    "DissemDT": "2026-11-02T21:12:27.06",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 676908,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "379 crore",
-      "net_profit": "695",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "col_1": "Revenue from Operations",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "3,729",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "2,744",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "36%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "Other Income",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "62",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "97",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "-36%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "",
-            "Particulars (₹ Mn)": "Total Income",
-            "col_3": "",
-            "col_4": "",
-            "Q2 FY27": "3,790",
-            "col_6": "",
-            "col_7": "",
-            "Q2 FY26": "2,841",
-            "col_9": "",
-            "col_10": "",
-            "YoY": "33%",
-            "col_12": ""
-          },
-          {
-            "col_1": "Employee Benefit Expenses",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "1,121",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "772",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "45%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "Finance Costs",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "306",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "206",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "49%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "Depreciation and Amortization Expenses",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "62",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "40",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "56%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "Administrative and other Expenses",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "1,363",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "1,079",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "26%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "",
-            "Particulars (₹ Mn)": "Total Expense",
-            "col_3": "",
-            "col_4": "",
-            "Q2 FY27": "2,852",
-            "col_6": "",
-            "col_7": "",
-            "Q2 FY26": "2,097",
-            "col_9": "",
-            "col_10": "",
-            "YoY": "36%",
-            "col_12": ""
-          },
-          {
-            "col_1": "Profit Before Tax",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "938",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "744",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "26%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "Tax Expenses",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "244",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "180",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "36%",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "",
-            "Particulars (₹ Mn)": "Profit After Tax",
-            "col_3": "",
-            "col_4": "",
-            "Q2 FY27": "695",
-            "col_6": "",
-            "col_7": "",
-            "Q2 FY26": "565",
-            "col_9": "",
-            "col_10": "",
-            "YoY": "23%",
-            "col_12": ""
-          },
-          {
-            "col_1": "PAT Margin",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "18.33%",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "19.88%",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "",
-            "YoY": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "",
-            "Particulars (₹ Mn)": "EBIDTA",
-            "col_3": "",
-            "col_4": "",
-            "Q2 FY27": "1,306",
-            "col_6": "",
-            "col_7": "",
-            "Q2 FY26": "990",
-            "col_9": "",
-            "col_10": "",
-            "YoY": "32%",
-            "col_12": ""
-          },
-          {
-            "col_1": "EBITDA Margin",
-            "Particulars (₹ Mn)": "",
-            "col_3": "",
-            "col_4": "34.47%",
-            "Q2 FY27": "",
-            "col_6": "",
-            "col_7": "34.84%",
-            "Q2 FY26": "",
-            "col_9": "",
-            "col_10": "",
-            "YoY": "",
-            "col_12": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "ef92ca55-d34a-482b-915a-f88adeaf30d8",
-    "SCRIP_CD": 544321,
-    "XML_NAME": "ANN_544321_EF92CA55-D34A-482B-915A-F88ADEAF30D8",
-    "NEWSSUB": "Ventive Hospitality Ltd - 544321 - Unaudited Financial Results (Consolidated And Standalone) For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-11-02T21:12:03.547",
-    "NEWS_DT": "2026-11-02T21:12:03.547",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0138dc42-200b-4a4d-843a-b9a97be440e6.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ventive-hospitality-ltd/ventive/544321/",
-    "SLONGNAME": "Ventive Hospitality Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 33,
-    "News_submission_dt": "2026-11-02T21:12:03",
-    "DissemDT": "2026-11-02T21:12:03.547",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1653055,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "3.1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b55feed2-ea52-44a4-8aba-7dd135269956",
-    "SCRIP_CD": 544156,
-    "XML_NAME": "ANN_544156_B55FEED2-EA52-44A4-8ABA-7DD135269956",
-    "NEWSSUB": "Gconnect Logitech and Supply Chain Ltd - 544156 - Announcement under Regulation 30 (LODR)-Amendments to Memorandum & Articles of Association",
-    "DT_TM": "2026-11-02T21:11:39.69",
-    "NEWS_DT": "2026-11-02T21:11:39.69",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ce88e6a8-2c77-45e0-9dba-ccf229b51fde.pdf",
-    "MORE": "",
-    "HEADLINE": "Refer the Attached Document.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gconnect-logitech-and-supply-chain-ltd/gconnect/544156/",
-    "SLONGNAME": "Gconnect Logitech and Supply Chain Ltd",
-    "AGENDA_ID": 113,
-    "TotalPageCnt": 33,
-    "News_submission_dt": "2026-11-02T21:11:39",
-    "DissemDT": "2026-11-02T21:11:39.69",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 843926,
-    "SUBCATNAME": "Amendments to Memorandum & Articles of Association",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
   }
 ]
