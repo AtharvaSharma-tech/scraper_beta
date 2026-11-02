@@ -1,5 +1,1348 @@
 [
   {
+    "NEWSID": "fc848cdb-98fa-4ef3-b6cf-cbd96216277b",
+    "SCRIP_CD": 545008,
+    "XML_NAME": "ANN_545008_FC848CDB-98FA-4EF3-B6CF-CBD96216277B",
+    "NEWSSUB": "EAAA India Alternatives Ltd - 545008 - Listing of Equity Shares of EAAA India Alternatives Ltd",
+    "DT_TM": "2026-11-02T07:55:56.64",
+    "NEWS_DT": "2026-11-02T07:55:56.64",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "",
+    "MORE": "Trading Members of the Exchange are hereby informed that effective from November 02, 2026, the Equity Shares of EAAA India Alternatives Ltd  (Scrip Code: 545008) are listed and admitted to dealings on the Exchange in the list of ''B'' Group Securities. For further details please refer to the notice no. 20261030- dated October 30, 2026.",
+    "HEADLINE": "Trading Members of the Exchange are hereby informed that effective from November 02, 2026, the Equity Shares of EAAA India Alternatives Ltd  (Scrip Code: 545008) are listed and admitted ....",
+    "CATEGORYNAME": "New Listing",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/eaaa-india-alternatives-ltd/edelalts/545008/",
+    "SLONGNAME": "EAAA India Alternatives Ltd",
+    "AGENDA_ID": 45,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-02T07:55:56.64",
+    "TimeDiff": null,
+    "Fld_Attachsize": null,
+    "SUBCATNAME": "New Listing",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a731d79d-eecd-4a86-bff1-065e7fc9e516",
+    "SCRIP_CD": 524164,
+    "XML_NAME": "ANN_524164_A731D79D-EECD-4A86-BFF1-065E7FC9E516",
+    "NEWSSUB": "IOL Chemicals & Pharmaceuticals Ltd - 524164 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-02T07:51:03.827",
+    "NEWS_DT": "2026-11-02T07:51:03.827",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2edbf49b-9a53-4dc1-afff-8fe87d4b83ff.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation- Q2 & H1 FY27",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/iol-chemicals--pharmaceuticals-ltd/iolcp/524164/",
+    "SLONGNAME": "IOL Chemicals & Pharmaceuticals Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-02T07:51:03",
+    "DissemDT": "2026-11-02T07:51:03.83",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7405008,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company filed an Investor Presentation on 31 Oct 2026 covering its Q2 and H1 FY 2027 results for the quarter and half‑year ended 30 Sept 2026, submitted in compliance with SEBI Regulation 30.  \n- The announcement contains no specific financial figures, performance metrics, or monetary decisions; it only references the existence of the presentation.",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "40.1",
+      "operating_profit": "40.1",
+      "total_equity": "1925.5",
+      "total_debt": "194.2",
+      "eps": "2.21",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 20,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "Revenue from Operations",
+            "Q2 FY27": "795.0",
+            "Q2 FY26": "567.5",
+            "Y-o-Y": "40.1%",
+            "Q1 FY27": "756.3",
+            "Q-o-Q": "5.1%",
+            "H1 FY27": "1551.3",
+            "H1 FY26": "1119.2",
+            "Y-o-Y_1": "38.6%"
+          },
+          {
+            "Particulars (in INR Cr.)": "Other Income",
+            "Q2 FY27": "5.5",
+            "Q2 FY26": "6.9",
+            "Y-o-Y": "",
+            "Q1 FY27": "8.2",
+            "Q-o-Q": "",
+            "H1 FY27": "13.7",
+            "H1 FY26": "14.3",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Revenue",
+            "Q2 FY27": "800.5",
+            "Q2 FY26": "574.4",
+            "Y-o-Y": "39.4%",
+            "Q1 FY27": "764.4",
+            "Q-o-Q": "4.7%",
+            "H1 FY27": "1565.0",
+            "H1 FY26": "1133.5",
+            "Y-o-Y_1": "38.1%"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cost of Materials Consumed",
+            "Q2 FY27": "505.3",
+            "Q2 FY26": "366.7",
+            "Y-o-Y": "",
+            "Q1 FY27": "506.8",
+            "Q-o-Q": "",
+            "H1 FY27": "1012.1",
+            "H1 FY26": "743.3",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Purchase of Traded Goods",
+            "Q2 FY27": "0.0",
+            "Q2 FY26": "0.0",
+            "Y-o-Y": "",
+            "Q1 FY27": "0.8",
+            "Q-o-Q": "",
+            "H1 FY27": "0.8",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Changes in Inventories of Finished Goods and Work in Progress",
+            "Q2 FY27": "-4.0",
+            "Q2 FY26": "1.5",
+            "Y-o-Y": "",
+            "Q1 FY27": "-29.5",
+            "Q-o-Q": "",
+            "H1 FY27": "-33.5",
+            "H1 FY26": "-10.9",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Employee Benefits Expense",
+            "Q2 FY27": "68.7",
+            "Q2 FY26": "63.4",
+            "Y-o-Y": "",
+            "Q1 FY27": "71.2",
+            "Q-o-Q": "",
+            "H1 FY27": "139.9",
+            "H1 FY26": "121.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Other Expenses",
+            "Q2 FY27": "115.6",
+            "Q2 FY26": "78.9",
+            "Y-o-Y": "",
+            "Q1 FY27": "103.5",
+            "Q-o-Q": "",
+            "H1 FY27": "219.2",
+            "H1 FY26": "146.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "EBITDA",
+            "Q2 FY27": "114.9",
+            "Q2 FY26": "64.0",
+            "Y-o-Y": "79.6%",
+            "Q1 FY27": "111.7",
+            "Q-o-Q": "2.8%",
+            "H1 FY27": "226.6",
+            "H1 FY26": "133.5",
+            "Y-o-Y_1": "69.7%"
+          },
+          {
+            "Particulars (in INR Cr.)": "EBITDA %",
+            "Q2 FY27": "14.4%",
+            "Q2 FY26": "11.1%",
+            "Y-o-Y": "",
+            "Q1 FY27": "14.6%",
+            "Q-o-Q": "",
+            "H1 FY27": "14.5%",
+            "H1 FY26": "11.8%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Depreciation and Amortisation Expense",
+            "Q2 FY27": "22.2",
+            "Q2 FY26": "20.0",
+            "Y-o-Y": "",
+            "Q1 FY27": "21.3",
+            "Q-o-Q": "",
+            "H1 FY27": "43.5",
+            "H1 FY26": "39.7",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "EBIT",
+            "Q2 FY27": "92.7",
+            "Q2 FY26": "44.0",
+            "Y-o-Y": "110.7%",
+            "Q1 FY27": "90.4",
+            "Q-o-Q": "2.5%",
+            "H1 FY27": "183.1",
+            "H1 FY26": "93.8",
+            "Y-o-Y_1": "95.3%"
+          },
+          {
+            "Particulars (in INR Cr.)": "Finance Costs",
+            "Q2 FY27": "5.4",
+            "Q2 FY26": "3.5",
+            "Y-o-Y": "",
+            "Q1 FY27": "3.6",
+            "Q-o-Q": "",
+            "H1 FY27": "9.1",
+            "H1 FY26": "7.7",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Profit before exceptional items and tax",
+            "Q2 FY27": "87.2",
+            "Q2 FY26": "40.5",
+            "Y-o-Y": "115.3%",
+            "Q1 FY27": "86.8",
+            "Q-o-Q": "0.6%",
+            "H1 FY27": "174.0",
+            "H1 FY26": "86.1",
+            "Y-o-Y_1": "102.2%"
+          },
+          {
+            "Particulars (in INR Cr.)": "Exceptional items*",
+            "Q2 FY27": "0.0",
+            "Q2 FY26": "0.0",
+            "Y-o-Y": "",
+            "Q1 FY27": "0.0",
+            "Q-o-Q": "",
+            "H1 FY27": "0.0",
+            "H1 FY26": "0.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "PBT",
+            "Q2 FY27": "87.2",
+            "Q2 FY26": "40.5",
+            "Y-o-Y": "115.3%",
+            "Q1 FY27": "86.8",
+            "Q-o-Q": "0.6%",
+            "H1 FY27": "174.0",
+            "H1 FY26": "86.1",
+            "Y-o-Y_1": "102.2%"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Tax Expense",
+            "Q2 FY27": "22.2",
+            "Q2 FY26": "10.5",
+            "Y-o-Y": "",
+            "Q1 FY27": "22.3",
+            "Q-o-Q": "",
+            "H1 FY27": "44.5",
+            "H1 FY26": "22.1",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Profit after tax",
+            "Q2 FY27": "65.0",
+            "Q2 FY26": "30.0",
+            "Y-o-Y": "116.8%",
+            "Q1 FY27": "64.5",
+            "Q-o-Q": "0.9%",
+            "H1 FY27": "129.5",
+            "H1 FY26": "64.0",
+            "Y-o-Y_1": "102.5%"
+          },
+          {
+            "Particulars (in INR Cr.)": "PAT %",
+            "Q2 FY27": "8.1%",
+            "Q2 FY26": "5.2%",
+            "Y-o-Y": "",
+            "Q1 FY27": "8.4%",
+            "Q-o-Q": "",
+            "H1 FY27": "8.3%",
+            "H1 FY26": "5.6%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "EPS",
+            "Q2 FY27": "2.21",
+            "Q2 FY26": "1.02",
+            "Y-o-Y": "",
+            "Q1 FY27": "2.20",
+            "Q-o-Q": "",
+            "H1 FY27": "4.41",
+            "H1 FY26": "2.18",
+            "Y-o-Y_1": ""
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 24,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "ASSETS",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Non-current assets",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Property, plant and equipment",
+            "Sep 26": "1,170.5",
+            "Mar 26": "1165.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Right to Use Asset",
+            "Sep 26": "6.9",
+            "Mar 26": "3.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Capital Work in progress",
+            "Sep 26": "189.4",
+            "Mar 26": "93.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Other Intangible Assets",
+            "Sep 26": "13.2",
+            "Mar 26": "12.8"
+          },
+          {
+            "Particulars (in INR Cr.)": "(v) Intangible Assets under development",
+            "Sep 26": "0.0",
+            "Mar 26": "1.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "(vi) Financial Assets",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "- Investments",
+            "Sep 26": "17.7",
+            "Mar 26": "17.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Other Financial Assets",
+            "Sep 26": "43.0",
+            "Mar 26": "45.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "(vii) Other Non-CurrentAssets",
+            "Sep 26": "23.8",
+            "Mar 26": "19.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Non-current assets",
+            "Sep 26": "1464.5",
+            "Mar 26": "1359.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "Current assets",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Inventories",
+            "Sep 26": "464.4",
+            "Mar 26": "371.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Financial Assets",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "- Investments",
+            "Sep 26": "3.7",
+            "Mar 26": "3.5"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Trade receivables",
+            "Sep 26": "689.2",
+            "Mar 26": "603.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Cash and cash equivalents",
+            "Sep 26": "9.2",
+            "Mar 26": "65.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Bank balances other than above",
+            "Sep 26": "117.1",
+            "Mar 26": "133.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Other financial Assets",
+            "Sep 26": "6.1",
+            "Mar 26": "7.5"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Current Assets (net)",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Other Current Assets",
+            "Sep 26": "76.5",
+            "Mar 26": "44.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Current Assets",
+            "Sep 26": "1,366.0",
+            "Mar 26": "1227.5"
+          },
+          {
+            "Particulars (in INR Cr.)": "TOTALASSETS",
+            "Sep 26": "2,830.4",
+            "Mar 26": "2586.7"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 1,
+        "row_count": 25,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "EQUITY ANDLIABILITIES",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "EQUITY",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Equity share capital",
+            "Sep 26": "58.7",
+            "Mar 26": "58.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Other equity",
+            "Sep 26": "1,866.8",
+            "Mar 26": "1,739.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Equity",
+            "Sep 26": "1,925.5",
+            "Mar 26": "1798.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "LIABILITIES",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Non-current liabilities",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Financial Liabilities",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "-Borrowings",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "-Lease Liabilities",
+            "Sep 26": "5.4",
+            "Mar 26": "2.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Provisions",
+            "Sep 26": "12.3",
+            "Mar 26": "11.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Deferred tax Liabilities (net)",
+            "Sep 26": "86.0",
+            "Mar 26": "84.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Other Non-Current Liabilities",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Non-Current Liabilities",
+            "Sep 26": "103.6",
+            "Mar 26": "98.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "Current liabilities",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Financial liabilities",
+            "Sep 26": "",
+            "Mar 26": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "-Borrowings",
+            "Sep 26": "194.2",
+            "Mar 26": "132.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "-Lease Liabilities",
+            "Sep 26": "1.7",
+            "Mar 26": "1.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "-Trade payables",
+            "Sep 26": "487.8",
+            "Mar 26": "482.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "-Other financial liabilities",
+            "Sep 26": "70.4",
+            "Mar 26": "50.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Other Current Liabilities",
+            "Sep 26": "29.8",
+            "Mar 26": "18.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Provisions",
+            "Sep 26": "5.0",
+            "Mar 26": "3.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Current Tax Liabilities",
+            "Sep 26": "12.5",
+            "Mar 26": "2.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Current Liabilities",
+            "Sep 26": "801.3",
+            "Mar 26": "690.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "TOTAL EQUITY AND LIABILITIES",
+            "Sep 26": "2,830.4",
+            "Mar 26": "2586.7"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "Cash Flow from Operating Activities",
+            "Sep 26": "",
+            "Sep 25": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Profit before Tax",
+            "Sep 26": "174.0",
+            "Sep 25": "86.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Adjustment for Non-Operating Items",
+            "Sep 26": "41.8",
+            "Sep 25": "41.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Operating Profit before Working Capital Changes",
+            "Sep 26": "215.8",
+            "Sep 25": "127.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Changes in Working Capital",
+            "Sep 26": "175.0",
+            "Sep 25": "100.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash Generated from Operations",
+            "Sep 26": "40.8",
+            "Sep 25": "27.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Less: Direct Taxes paid",
+            "Sep 26": "-32.5",
+            "Sep 25": "-15.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "Net Cash from Operating Activities",
+            "Sep 26": "8.3",
+            "Sep 25": "11.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash Flow from Investing Activities",
+            "Sep 26": "-116.8",
+            "Sep 25": "-96.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash Flow from Financing Activities",
+            "Sep 26": "52.4",
+            "Sep 25": "34.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "Net increase/ (decrease) in Cash & Cash equivalent",
+            "Sep 26": "-56.1",
+            "Sep 25": "-50.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash and cash equivalents at the beginning of the year",
+            "Sep 26": "65.3",
+            "Sep 25": "78.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash and cash equivalents at the end of the year",
+            "Sep 26": "9.2",
+            "Sep 25": "27.2"
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "Revenue from Operations",
+            "FY26": "2319.1",
+            "FY25": "2079.2",
+            "FY24": "2,132.8",
+            "FY23": "2,217.1",
+            "FY22": "2,184.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Other Income",
+            "FY26": "21.3",
+            "FY25": "22.4",
+            "FY24": "30.1",
+            "FY23": "25.6",
+            "FY22": "32.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Revenue",
+            "FY26": "2340.3",
+            "FY25": "2101.6",
+            "FY24": "2,162.9",
+            "FY23": "2,242.7",
+            "FY22": "2,216.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cost of Materials Consumed",
+            "FY26": "1501.6",
+            "FY25": "1358.3",
+            "FY24": "1,435.1",
+            "FY23": "1,536.1",
+            "FY22": "1,578.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "Purchase of Traded Goods",
+            "FY26": "4.0",
+            "FY25": "0.0",
+            "FY24": "0.2",
+            "FY23": "29.2",
+            "FY22": "43.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "Changes in Inventories of Finished Goods and Work in Progress",
+            "FY26": "-18.5",
+            "FY25": "33.5",
+            "FY24": "-38.3",
+            "FY23": "-18.2",
+            "FY22": "-52.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Employee Benefits Expense",
+            "FY26": "248.3",
+            "FY25": "216.6",
+            "FY24": "201.0",
+            "FY23": "168.2",
+            "FY22": "141.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Other Expenses",
+            "FY26": "314.6",
+            "FY25": "268.6",
+            "FY24": "303.3",
+            "FY23": "275.3",
+            "FY22": "215.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "EBITDA",
+            "FY26": "290.4",
+            "FY25": "224.6",
+            "FY24": "261.6",
+            "FY23": "252.1",
+            "FY22": "288.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "EBITDA %",
+            "FY26": "12.4%",
+            "FY25": "10.7%",
+            "FY24": "12.1%",
+            "FY23": "11.2%",
+            "FY22": "13.0%"
+          },
+          {
+            "Particulars (in INR Cr.)": "Depreciation and Amortisation Expense",
+            "FY26": "80.2",
+            "FY25": "71.9",
+            "FY24": "62.9",
+            "FY23": "46.1",
+            "FY22": "43.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "EBIT",
+            "FY26": "210.2",
+            "FY25": "152.7",
+            "FY24": "198.7",
+            "FY23": "206.0",
+            "FY22": "245.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Finance Costs",
+            "FY26": "14.6",
+            "FY25": "14.8",
+            "FY24": "16.1",
+            "FY23": "16.5",
+            "FY22": "8.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Exceptional Items",
+            "FY26": "11.2",
+            "FY25": "0.0",
+            "FY24": "0.0",
+            "FY23": "0.0",
+            "FY22": "13.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "PBT",
+            "FY26": "184.4",
+            "FY25": "137.9",
+            "FY24": "182.6",
+            "FY23": "189.5",
+            "FY22": "222.8"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Tax Expense",
+            "FY26": "46.7",
+            "FY25": "36.9",
+            "FY24": "47.2",
+            "FY23": "49.5",
+            "FY22": "57.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "Profit for the year",
+            "FY26": "137.7",
+            "FY25": "101.0",
+            "FY24": "135.4",
+            "FY23": "140.0",
+            "FY22": "165.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "PAT %",
+            "FY26": "5.9%",
+            "FY25": "4.8%",
+            "FY24": "6.3%",
+            "FY23": "6.2%",
+            "FY22": "7.5%"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 24,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "ASSETS",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Non-currentassets",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Property, plant andequipment",
+            "Mar 26": "1165.1",
+            "Mar 25": "1,158.0",
+            "Mar 24": "921.1",
+            "Mar 23": "750.5",
+            "Mar 22": "559.5"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Right to UseAsset",
+            "Mar 26": "3.4",
+            "Mar 25": "0.0",
+            "Mar 24": "0.0",
+            "Mar 23": "0.1",
+            "Mar 22": "1.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Capital Work inprogress",
+            "Mar 26": "93.6",
+            "Mar 25": "20.8",
+            "Mar 24": "99.8",
+            "Mar 23": "81.4",
+            "Mar 22": "102.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Other IntangibleAssets",
+            "Mar 26": "12.8",
+            "Mar 25": "12.3",
+            "Mar 24": "11.6",
+            "Mar 23": "0.7",
+            "Mar 22": "0.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "(v) Intangible Assets under development",
+            "Mar 26": "1.9",
+            "Mar 25": "1.1",
+            "Mar 24": "1.0",
+            "Mar 23": "8.2",
+            "Mar 22": "3.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "(v) FinancialAssets",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "- Investments",
+            "Mar 26": "17.6",
+            "Mar 25": "17.7",
+            "Mar 24": "17.7",
+            "Mar 23": "17.7",
+            "Mar 22": "0.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Other Financial Assets",
+            "Mar 26": "45.1",
+            "Mar 25": "7.9",
+            "Mar 24": "48.9",
+            "Mar 23": "233.9",
+            "Mar 22": "205.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "(vi) Other Non-CurrentAssets",
+            "Mar 26": "19.7",
+            "Mar 25": "12.8",
+            "Mar 24": "24.4",
+            "Mar 23": "9.0",
+            "Mar 22": "10.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Non-currentassets",
+            "Mar 26": "1359.2",
+            "Mar 25": "1,230.7",
+            "Mar 24": "1124.5",
+            "Mar 23": "1101.5",
+            "Mar 22": "881.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "Currentassets",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i)Inventories",
+            "Mar 26": "371.1",
+            "Mar 25": "360.6",
+            "Mar 24": "424.8",
+            "Mar 23": "325.5",
+            "Mar 22": "409.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) FinancialAssets",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "- Investments",
+            "Mar 26": "3.5",
+            "Mar 25": "3.3",
+            "Mar 24": "2.9",
+            "Mar 23": "2.6",
+            "Mar 22": "2.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Tradereceivables",
+            "Mar 26": "603.1",
+            "Mar 25": "513.7",
+            "Mar 24": "471.2",
+            "Mar 23": "505.3",
+            "Mar 22": "469.8"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Cash and cashequivalents",
+            "Mar 26": "65.3",
+            "Mar 25": "78.0",
+            "Mar 24": "7.5",
+            "Mar 23": "1.0",
+            "Mar 22": "1.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Bank balances other thanabove",
+            "Mar 26": "133.0",
+            "Mar 25": "129.9",
+            "Mar 24": "135.1",
+            "Mar 23": "19.9",
+            "Mar 22": "136.8"
+          },
+          {
+            "Particulars (in INR Cr.)": "- Other financialAssets",
+            "Mar 26": "7.5",
+            "Mar 25": "5.6",
+            "Mar 24": "7.1",
+            "Mar 23": "3.8",
+            "Mar 22": "23.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Current Tax Assets (net)",
+            "Mar 26": "0.0",
+            "Mar 25": "0.3",
+            "Mar 24": "6.8",
+            "Mar 23": "1.8",
+            "Mar 22": "0.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Other current assets",
+            "Mar 26": "44.1",
+            "Mar 25": "59.6",
+            "Mar 24": "64.0",
+            "Mar 23": "59.3",
+            "Mar 22": "34.9"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total CurrentAssets",
+            "Mar 26": "1227.5",
+            "Mar 25": "1,151.1",
+            "Mar 24": "1119.5",
+            "Mar 23": "919.1",
+            "Mar 22": "1,078.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "TOTALASSETS",
+            "Mar 26": "2586.7",
+            "Mar 25": "2,381.8",
+            "Mar 24": "2244.0",
+            "Mar 23": "2020.6",
+            "Mar 22": "1,960.3"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 1,
+        "row_count": 25,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "EQUITY ANDLIABILITIES",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "EQUITY",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Equity sharecapital",
+            "Mar 26": "58.7",
+            "Mar 25": "58.7",
+            "Mar 24": "58.7",
+            "Mar 23": "58.7",
+            "Mar 22": "58.7"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Otherequity",
+            "Mar 26": "1739.7",
+            "Mar 25": "1,628.7",
+            "Mar 24": "1552.6",
+            "Mar 23": "1447.8",
+            "Mar 22": "1331.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "TotalEquity",
+            "Mar 26": "1798.4",
+            "Mar 25": "1,687.4",
+            "Mar 24": "1611.3",
+            "Mar 23": "1506.6",
+            "Mar 22": "1390.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "LIABILITIES",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Non-currentliabilities",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) FinancialLiabilities",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "-Borrowings",
+            "Mar 26": "0.0",
+            "Mar 25": "0.0",
+            "Mar 24": "0.0",
+            "Mar 23": "0.0",
+            "Mar 22": "0.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "-LeaseLiabilities",
+            "Mar 26": "2.4",
+            "Mar 25": "0.0",
+            "Mar 24": "0.0",
+            "Mar 23": "0.0",
+            "Mar 22": "0.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii)Provisions",
+            "Mar 26": "10.9",
+            "Mar 25": "6.7",
+            "Mar 24": "6.7",
+            "Mar 23": "1.7",
+            "Mar 22": "3.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Deferred taxLiabilities (net)",
+            "Mar 26": "84.9",
+            "Mar 25": "77.8",
+            "Mar 24": "66.1",
+            "Mar 23": "56.4",
+            "Mar 22": "53.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Other non-current liabilities",
+            "Mar 26": "0.0",
+            "Mar 25": "0.0",
+            "Mar 24": "0.0",
+            "Mar 23": "0.1",
+            "Mar 22": "0.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total Non-CurrentLiabilities",
+            "Mar 26": "98.1",
+            "Mar 25": "84.5",
+            "Mar 24": "72.9",
+            "Mar 23": "58.2",
+            "Mar 22": "56.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "Currentliabilities",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "(i) Financialliabilities",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "-Borrowings",
+            "Mar 26": "132.0",
+            "Mar 25": "117.0",
+            "Mar 24": "32.8",
+            "Mar 23": "79.6",
+            "Mar 22": "42.8"
+          },
+          {
+            "Particulars (in INR Cr.)": "-Lease Liabilities",
+            "Mar 26": "1.0",
+            "Mar 25": "0.0",
+            "Mar 24": "0.0",
+            "Mar 23": "0.2",
+            "Mar 22": "1.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "-Tradepayables",
+            "Mar 26": "482.6",
+            "Mar 25": "427.6",
+            "Mar 24": "469.2",
+            "Mar 23": "314.2",
+            "Mar 22": "409.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "-Other financialliabilities",
+            "Mar 26": "50.7",
+            "Mar 25": "46.2",
+            "Mar 24": "37.6",
+            "Mar 23": "36.0",
+            "Mar 22": "30.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(ii) Other Current Liabilities",
+            "Mar 26": "18.1",
+            "Mar 25": "17.1",
+            "Mar 24": "16.9",
+            "Mar 23": "17.8",
+            "Mar 22": "23.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iii) Provisions",
+            "Mar 26": "3.5",
+            "Mar 25": "2.0",
+            "Mar 24": "3.4",
+            "Mar 23": "8.1",
+            "Mar 22": "7.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "(iv) Current Tax Liabilities (net)",
+            "Mar 26": "2.4",
+            "Mar 25": "0.0",
+            "Mar 24": "0.0",
+            "Mar 23": "0.0",
+            "Mar 22": "0.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Total CurrentLiabilities",
+            "Mar 26": "690.2",
+            "Mar 25": "609.9",
+            "Mar 24": "559.8",
+            "Mar 23": "455.9",
+            "Mar 22": "513.4"
+          },
+          {
+            "Particulars (in INR Cr.)": "TOTAL EQUITY ANDLIABILITIES",
+            "Mar 26": "2586.7",
+            "Mar 25": "2,381.8",
+            "Mar 24": "2244.0",
+            "Mar 23": "2020.6",
+            "Mar 22": "1,960.3"
+          }
+        ]
+      },
+      {
+        "page": 33,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars (in INR Cr.)": "Cash Flow from Operating Activities",
+            "Mar 26": "",
+            "Mar 25": "",
+            "Mar 24": "",
+            "Mar 23": "",
+            "Mar 22": ""
+          },
+          {
+            "Particulars (in INR Cr.)": "Profit before Tax",
+            "Mar 26": "184.4",
+            "Mar 25": "137.9",
+            "Mar 24": "182.6",
+            "Mar 23": "189.5",
+            "Mar 22": "222.8"
+          },
+          {
+            "Particulars (in INR Cr.)": "Adjustment for Non-Operating Items",
+            "Mar 26": "85.1",
+            "Mar 25": "79.8",
+            "Mar 24": "59.8",
+            "Mar 23": "44.4",
+            "Mar 22": "33.1"
+          },
+          {
+            "Particulars (in INR Cr.)": "Operating Profit before Working Capital Changes",
+            "Mar 26": "269.5",
+            "Mar 25": "217.7",
+            "Mar 24": "242.4",
+            "Mar 23": "233.9",
+            "Mar 22": "256.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Changes in Working Capital",
+            "Mar 26": "-17.2",
+            "Mar 25": "-20.7",
+            "Mar 24": "90.1",
+            "Mar 23": "-63.7",
+            "Mar 22": "-102.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash Generated from Operations",
+            "Mar 26": "252.3",
+            "Mar 25": "197.0",
+            "Mar 24": "332.5",
+            "Mar 23": "170.2",
+            "Mar 22": "153.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "Less: Direct Taxes paid",
+            "Mar 26": "-37.9",
+            "Mar 25": "-18.3",
+            "Mar 24": "-42.0",
+            "Mar 23": "-47.1",
+            "Mar 22": "-62.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "Net Cash from Operating Activities",
+            "Mar 26": "214.4",
+            "Mar 25": "178.7",
+            "Mar 24": "290.5",
+            "Mar 23": "123.1",
+            "Mar 22": "91.0"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash Flow from Investing Activities",
+            "Mar 26": "-198.1",
+            "Mar 25": "-154.2",
+            "Mar 24": "-191.4",
+            "Mar 23": "-119.2",
+            "Mar 22": "-120.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash Flow from Financing Activities",
+            "Mar 26": "-29.0",
+            "Mar 25": "46.0",
+            "Mar 24": "-92.5",
+            "Mar 23": "-4.1",
+            "Mar 22": "-1.6"
+          },
+          {
+            "Particulars (in INR Cr.)": "Net increase/ (decrease) in Cash & Cash equivalent",
+            "Mar 26": "-12.7",
+            "Mar 25": "70.5",
+            "Mar 24": "6.6",
+            "Mar 23": "-0.2",
+            "Mar 22": "-31.2"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash and cash equivalents at the beginning of the year",
+            "Mar 26": "78.0",
+            "Mar 25": "7.5",
+            "Mar 24": "1.0",
+            "Mar 23": "1.1",
+            "Mar 22": "32.3"
+          },
+          {
+            "Particulars (in INR Cr.)": "Cash and cash equivalents at the end of the year",
+            "Mar 26": "65.3",
+            "Mar 25": "78.0",
+            "Mar 24": "7.5",
+            "Mar 23": "1.0",
+            "Mar 22": "1.1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "3853736b-f877-4026-b93d-ad48f660b73d",
+    "SCRIP_CD": 524164,
+    "XML_NAME": "ANN_524164_3853736B-F877-4026-B93D-AD48F660B73D",
+    "NEWSSUB": "IOL Chemicals & Pharmaceuticals Ltd - 524164 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-02T07:36:14.767",
+    "NEWS_DT": "2026-11-02T07:36:14.767",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "dbdafc2e-9135-4e2f-af75-195f1c2e9e0a.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of newspaper publication of un-audited Financial Results for the quarter and half year ended 30th September 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/iol-chemicals--pharmaceuticals-ltd/iolcp/524164/",
+    "SLONGNAME": "IOL Chemicals & Pharmaceuticals Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-02T07:36:14",
+    "DissemDT": "2026-11-02T07:36:14.767",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 13541283,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the corporate announcement:\n\n* **Financial Results (Period Ended 30th September 2026):** For the quarter ended 30th September 2026, total income from operations was 800.54 (1,564.98 for the half-year), net profit after tax was 65.03 standalone and 65.07 consolidated (129.51 standalone and 129.47 consolidated for the half-year), and basic/diluted EPS stood at 2.21 standalone and 2.22 consolidated.\n* **Governance and Publication Dates:** The un-audited financial results received an unmodified opinion from statutory auditors and were approved by the Board of Directors on 30th October 2026, followed by newspaper publication on 31st October 2026 across *Business Standard*, *The Economic Times*, *Financial Express*, and *Punjabi Jagran*.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "9608029f-fc7a-4378-924c-66e1b49bf194",
     "SCRIP_CD": 539428,
     "XML_NAME": "ANN_539428_9608029F-FC7A-4378-924C-66E1B49BF194",
@@ -11927,114 +13270,6 @@
       "revenue": "0.01",
       "currency_unit": "₹ in Crores"
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "15e8ec0d-f890-4113-b8cc-9fa7afc87e0b",
-    "SCRIP_CD": 524019,
-    "XML_NAME": "ANN_524019_15E8EC0D-F890-4113-B8CC-9FA7AFC87E0B",
-    "NEWSSUB": "Kingfa Science & Technology (India) Ltd-$ - 524019 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-01T13:48:38.603",
-    "NEWS_DT": "2026-11-01T13:48:38.603",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0cf9a9b3-0a13-492d-9a1e-d309db880ab4.pdf",
-    "MORE": "",
-    "HEADLINE": "Cessation of Second Tenor of Ms. Nilima Ramrao Shinde (DIN:07646156) as Independent Director of the company on October 31, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kingfa-science--technology-(india)-ltd/kingfa/524019/",
-    "SLONGNAME": "Kingfa Science & Technology (India) Ltd-$",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T13:48:38",
-    "DissemDT": "2026-11-01T13:48:38.603",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 429386,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Ms. Nilima Ramrao Shinde (DIN 07646156) completed her second five‑year term as an Independent Director of Kingfa Science & Technology (India) Ltd., ending her tenure on 31 October 2026 after a total of ten years of service.  \n- The company disclosed this change in accordance with SEBI Regulation 30 (Listing Obligations & Disclosure Requirements) and will publish the notice on its website; no financial figures or monetary decisions were mentioned in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1990c9f3-7382-4096-83e8-b9b76621b9f3",
-    "SCRIP_CD": 532500,
-    "XML_NAME": "ANN_532500_1990C9F3-7382-4096-83E8-B9B76621B9F3",
-    "NEWSSUB": "Maruti Suzuki India Ltd - 532500 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-01T13:44:54.757",
-    "NEWS_DT": "2026-11-01T13:44:54.757",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "817afcae-2ee4-486a-a3c0-fdbfd7a392e9.pdf",
-    "MORE": "",
-    "HEADLINE": "Maruti Suzuki sales in October 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/maruti-suzuki-india-ltd/maruti/532500/",
-    "SLONGNAME": "Maruti Suzuki India Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T13:44:54",
-    "DissemDT": "2026-11-01T13:44:54.757",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 385566,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Record‑high October 2026 sales:** Maruti Suzuki sold a total of **276,120 units** in October 2026 – the highest monthly volume ever – comprising **216,789 domestic units** (including 212,384 passenger vehicles and 4,405 light‑commercial vehicles) and **49,872 export units**.  \n\n- **Year‑on‑year growth:** Compared with October 2025, total sales rose from **220,894 to 276,120 units** (≈ +25 %). Domestic sales increased from **180,675 to 216,789 units** (≈ +20 %), and export sales grew from **31,304 to 49,872 units** (≈ +60 %). The report also lists sub‑segment performance (e.g., passenger‑car sales of 212,384 vs. 176,318 in Oct 2025).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e52e3325-e405-46c5-9180-9d60c5569f94",
-    "SCRIP_CD": 540725,
-    "XML_NAME": "ANN_540725_E52E3325-E405-46C5-9180-9D60C5569F94",
-    "NEWSSUB": "Share India Securities Ltd - 540725 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-01T13:42:46.11",
-    "NEWS_DT": "2026-11-01T13:42:46.11",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f16ac706-f092-4dbc-bc5a-9abf12fe5e17.pdf",
-    "MORE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, please find enclosed herewith copy of Newspaper advertisement on Un-audited Standalone & Consolidated Financial Results of the Company for the quarter and half year ended September 30, 2026.",
-    "HEADLINE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, please find enclosed herewith copy of Newspaper advertisement on Un-audited Standalone & Consolidated Financial Results of the ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/share-india-securities-ltd/shareindia/540725/",
-    "SLONGNAME": "Share India Securities Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 1,
-    "News_submission_dt": "2026-11-01T13:42:46",
-    "DissemDT": "2026-11-01T13:42:46.11",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5163349,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
