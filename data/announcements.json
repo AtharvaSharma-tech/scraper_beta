@@ -1,5 +1,77 @@
 [
   {
+    "NEWSID": "06212b99-16e1-4f8b-aa73-364ba3f7e340",
+    "SCRIP_CD": 544235,
+    "XML_NAME": "ANN_544235_06212B99-16E1-4F8B-AA73-364BA3F7E340",
+    "NEWSSUB": "Orient Technologies Ltd - 544235 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-03T01:10:34.48",
+    "NEWS_DT": "2026-11-03T01:10:34.48",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "fd30b98a-688f-45f9-90a9-fa0506c14164.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation for the quarter ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orient-technologies-ltd/orienttech/544235/",
+    "SLONGNAME": "Orient Technologies Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-03T01:10:34",
+    "DissemDT": "2026-11-03T01:10:34.48",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4608588,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement informs that Orient Technologies Ltd has submitted an investor presentation containing its **unaudited standalone and consolidated financial results for the quarter and the six‑month period ending 30 September 2026** (FY 2026‑27).  \n\n- No specific financial figures, dates beyond the reporting period, or decisions (e.g., dividends, share issues) are disclosed in the provided text.",
+    "key_metrics": {
+      "revenue": "4238.31 million",
+      "operating_profit": "378.69 million",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Industry": "BFSI",
+            "% of Revenue": "19.15%"
+          },
+          {
+            "Industry": "Telecommunication",
+            "% of Revenue": "1.76%"
+          },
+          {
+            "Industry": "Government & PSU",
+            "% of Revenue": "10.79%"
+          },
+          {
+            "Industry": "ITES",
+            "% of Revenue": "29.10%"
+          },
+          {
+            "Industry": "Mid-market & Others*",
+            "% of Revenue": "39.20%"
+          },
+          {
+            "Industry": "Total",
+            "% of Revenue": "100.00 %"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "b6a9a9c1-1662-4ffc-a02a-454d0c3b80ec",
     "SCRIP_CD": 532035,
     "XML_NAME": "ANN_532035_B6A9A9C1-1662-4FFC-A02A-454D0C3B80EC",
@@ -59844,44 +59916,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "- RITES Ltd. will hold a conference call on **Thursday, 5 Nov 2026, 11:00‑12:00 hrs** to discuss its **unaudited financial results for the quarter and half‑year ended 30 Sept 2026** (Q2 FY27).  \n- The announcement contains **no specific financial figures or decisions**; it only informs investors of the meeting details and the regulatory compliance under SEBI Regulation 30/46.",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "59e72e6b-0240-4c2e-a119-bfdb50775130",
-    "SCRIP_CD": 544156,
-    "XML_NAME": "ANN_544156_59E72E6B-0240-4C2E-A119-BFDB50775130",
-    "NEWSSUB": "Gconnect Logitech and Supply Chain Ltd - 544156 - Announcement under Regulation 30 (LODR)-Change of Company Name",
-    "DT_TM": "2026-11-02T21:09:34.243",
-    "NEWS_DT": "2026-11-02T21:09:34.243",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6385307c-b9dc-4c2d-9c4b-8e9757471b91.pdf",
-    "MORE": "",
-    "HEADLINE": "Refer the Attached Document.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gconnect-logitech-and-supply-chain-ltd/gconnect/544156/",
-    "SLONGNAME": "Gconnect Logitech and Supply Chain Ltd",
-    "AGENDA_ID": 47,
-    "TotalPageCnt": 33,
-    "News_submission_dt": "2026-11-02T21:09:34",
-    "DissemDT": "2026-11-02T21:09:34.243",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 843926,
-    "SUBCATNAME": "Change of Name",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
     "financial_tables": []
   }
 ]
