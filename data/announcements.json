@@ -1,5 +1,506 @@
 [
   {
+    "NEWSID": "cdf5996b-86af-4ead-be3c-4d7801aba53b",
+    "SCRIP_CD": 539889,
+    "XML_NAME": "ANN_539889_CDF5996B-86AF-4EAD-BE3C-4D7801ABA53B",
+    "NEWSSUB": "Parag Milk Foods Ltd - 539889 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-04T01:23:51.21",
+    "NEWS_DT": "2026-11-04T01:23:51.21",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8c02d5f9-7c86-4f92-8fe1-8b21240f449e.pdf",
+    "MORE": "",
+    "HEADLINE": "Parag Milk Foods Limited - Investor Presentation on Unaudited Financial Results for quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/parag-milk-foods-ltd/paragmilk/539889/",
+    "SLONGNAME": "Parag Milk Foods Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T01:23:51",
+    "DissemDT": "2026-11-04T01:23:51.21",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 10822287,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement & Timing:** On Nov 4 2026, Parag Milk Foods Ltd. filed a Regulation 30 (LODR) notice attaching an investor presentation of its unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 Sept 2026. The presentation will be used for a post‑earnings conference call scheduled for the same day (Nov 4 2026).  \n\n- **Financial Details:** The notice does **not** disclose any specific financial numbers, figures, or decisions; it only references the existence of the unaudited results and the accompanying presentation.",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "73",
+      "operating_profit": "7.5",
+      "total_equity": "808",
+      "roce": "13.8",
+      "roe": "11.8",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 16,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "Net worth",
+            "31st March 2023": "808",
+            "31st March 2024": "912",
+            "31st March 2025": "1,023",
+            "31st March 2026": "1,259",
+            "30th Sep 2026": "1,310"
+          },
+          {
+            "Particulars": "Gross debt",
+            "31st March 2023": "589",
+            "31st March 2024": "612",
+            "31st March 2025": "615",
+            "31st March 2026": "540",
+            "30th Sep 2026": "741"
+          },
+          {
+            "Particulars": "Cash and bank surplus",
+            "31st March 2023": "50",
+            "31st March 2024": "44",
+            "31st March 2025": "55",
+            "31st March 2026": "57",
+            "30th Sep 2026": "58"
+          },
+          {
+            "Particulars": "Net debt",
+            "31st March 2023": "539",
+            "31st March 2024": "540",
+            "31st March 2025": "561",
+            "31st March 2026": "484",
+            "30th Sep 2026": "678"
+          },
+          {
+            "Particulars": "Net fixed assets",
+            "31st March 2023": "481",
+            "31st March 2024": "535",
+            "31st March 2025": "597",
+            "31st March 2026": "680",
+            "30th Sep 2026": "704"
+          },
+          {
+            "Particulars": "In no of days of sales",
+            "31st March 2023": "",
+            "31st March 2024": "",
+            "31st March 2025": "",
+            "31st March 2026": "",
+            "30th Sep 2026": ""
+          },
+          {
+            "Particulars": "Inventory days",
+            "31st March 2023": "72",
+            "31st March 2024": "72",
+            "31st March 2025": "61",
+            "31st March 2026": "70",
+            "30th Sep 2026": "71"
+          },
+          {
+            "Particulars": "Receivables days",
+            "31st March 2023": "21",
+            "31st March 2024": "28",
+            "31st March 2025": "28",
+            "31st March 2026": "23",
+            "30th Sep 2026": "25"
+          },
+          {
+            "Particulars": "Payable days",
+            "31st March 2023": "21",
+            "31st March 2024": "28",
+            "31st March 2025": "28",
+            "31st March 2026": "23",
+            "30th Sep 2026": "22"
+          },
+          {
+            "Particulars": "Net Working capital days",
+            "31st March 2023": "74",
+            "31st March 2024": "75",
+            "31st March 2025": "62",
+            "31st March 2026": "68",
+            "30th Sep 2026": "73"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 2,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Operating cash profit",
+            "31st March 2023": "132",
+            "31st March 2024": "222",
+            "31st March 2025": "259",
+            "31st March 2026": "260",
+            "30th Sep 2026": "171"
+          },
+          {
+            "Particulars": "Working capital changes",
+            "31st March 2023": "(319)",
+            "31st March 2024": "(108)",
+            "31st March 2025": "(35)",
+            "31st March 2026": "(94)",
+            "30th Sep 2026": "(265)"
+          },
+          {
+            "Particulars": "Taxes paid",
+            "31st March 2023": "(3)",
+            "31st March 2024": "(12)",
+            "31st March 2025": "(11)",
+            "31st March 2026": "(17)",
+            "30th Sep 2026": "(2)"
+          },
+          {
+            "Particulars": "Operating cash flow",
+            "31st March 2023": "(190)",
+            "31st March 2024": "102",
+            "31st March 2025": "212",
+            "31st March 2026": "149",
+            "30th Sep 2026": "(95)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "a8db8f3e-af11-4518-b87c-ae074c369b77",
+    "SCRIP_CD": 500257,
+    "XML_NAME": "ANN_500257_A8DB8F3E-AF11-4518-B87C-AE074C369B77",
+    "NEWSSUB": "Lupin Ltd - 500257 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+    "DT_TM": "2026-11-04T01:14:18.027",
+    "NEWS_DT": "2026-11-04T01:14:18.027",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "87798a7a-6f73-4946-b1fd-47a398120e01.pdf",
+    "MORE": "Appointment of Mr. Akhil Gupta as an Additional Director (Non-Executive, Independent) effective November 03, 2026 and as an Independent Director for a term of five consecutive years with effect from November 03, 2026.",
+    "HEADLINE": "Appointment of Mr. Akhil Gupta as an Additional Director (Non-Executive, Independent) effective November 03, 2026 and as an Independent Director for a term of five consecutive years with ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/lupin-ltd/lupin/500257/",
+    "SLONGNAME": "Lupin Ltd",
+    "AGENDA_ID": 15,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T01:14:18",
+    "DissemDT": "2026-11-04T01:14:18.027",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 845093,
+    "SUBCATNAME": "Change in Directorate",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Lupin Ltd’s Board approved the appointment of Mr. Akhil Gupta (DIN 00028728) as an Additional (Non‑Executive, Independent) Director, effective 3 Nov 2026, with a five‑year term as an Independent Director from 3 Nov 2026 to 2 Nov 2031 (subject to shareholder approval).  \n- The Board meeting was held on 3 Nov 2026 (07:30 p.m. IST) and concluded on 4 Nov 2026 (12:25 a.m. IST).  \n\n*The announcement contains no financial figures, transactions, or monetary decisions.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2e2be092-ea2f-4030-bbcf-61772f94b030",
+    "SCRIP_CD": 500257,
+    "XML_NAME": "ANN_500257_2E2BE092-EA2F-4030-BBCF-61772F94B030",
+    "NEWSSUB": "Lupin Ltd - 500257 - Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026.",
+    "DT_TM": "2026-11-04T01:01:31.853",
+    "NEWS_DT": "2026-11-04T01:01:31.853",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "12e5e45d-7ad5-4023-8d6f-a56cef6be368.pdf",
+    "MORE": "",
+    "HEADLINE": "Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/lupin-ltd/lupin/500257/",
+    "SLONGNAME": "Lupin Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T01:01:31",
+    "DissemDT": "2026-11-04T01:01:31.853",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 540368,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "35673.4",
+      "total_assets": "382134.7",
+      "total_equity": "321188.8",
+      "total_debt": "4664.2",
+      "dividend": "18",
+      "face_value": "2",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "A. ASSETS 1)Non-Current Assets a.Property, Plant and Equipment b.Capital Work-in-Progress c.Right-of-use Assets d.Intangible Assets e.Intangible Assets Under Development f.Financial Assets (i)Non-Current Investments - In Subsidiaries - In Others (ii)Non-Current Loans (iii)Other Non-Current Financial Assets g.Non-Current Tax Assets (Net) h.Other Non-Current Assets Total Non-Current Assets 2)Current Assets a.Inventories b.Financial Assets (i)Current Investments (ii)Trade Receivables (iii)Cash and Cash Equivalents (iv)Other Bank Balances (v)Current Loans (vi)Other Current Financial Assets c.Current Tax Assets (Net) d.Other Current Assets Total Current Assets TOTAL ASSETS B. EQUITY AND LIABILITIES 1)Equity a.Equity Share Capital b.Other Equity Total Equity 2)Liabilities I)Non-Current Liabilities a.Financial Liabilities (i)Lease Liabilities (ii)Other Non-Current Financial Liabilities b.Non-Current Provisions c.Deferred Tax Liabilities (Net) d.Other Non-Current Liabilities Total Non-Current Liabilities II)Current Liabilities a.Financial Liabilities (i) Current Borrowings (ii) Lease Liabilities (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises (iv) Other Current Financial Liabilities b.Other Current Liabilities c.Current Provisions d.Current Tax Liabilities (Net) Total Current Liabilities Total Liabilities TOTAL EQUITY AND LIABILITIES",
+            "As at 30/09/2026 (Unaudited)": "31,318.4 6,121.3 5,512.3 10,427.3 960.2 149,074.5 634.6 1,184.3 4,698.8 313.9 1,856.5",
+            "As at 31/03/2026 (Audited)": "31,685.1 4,294.3 6,273.3 10,767.3 931.7 121,370.9 634.6 1,271.1 26,052.6 396.2 1,401.2"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "212,102.1 37,417.9 39,881.5 71,366.4 1,654.3 158.6 531.7 4,688.0 - 14,334.2",
+            "As at 31/03/2026 (Audited)": "205,078.3 33,507.8 34,247.7 69,220.3 1,116.3 164.4 1,023.7 6,405.9 4.3 10,260.2"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "170,032.6",
+            "As at 31/03/2026 (Audited)": "155,950.6"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "382,134.7",
+            "As at 31/03/2026 (Audited)": "361,028.9"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "914.6 320,274.2",
+            "As at 31/03/2026 (Audited)": "914.4 300,423.3"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "321,188.8 3,226.3 382.5 4,960.6 1,363.6 1,433.4",
+            "As at 31/03/2026 (Audited)": "301,337.7 3,906.5 316.0 4,527.8 1,225.1 1,392.5"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "11,366.4 4,664.2 1,530.2 1,243.0 28,065.4 4,156.1 3,576.2 1,795.6 4,548.8",
+            "As at 31/03/2026 (Audited)": "11,367.9 5,768.8 1,476.0 1,335.0 23,952.4 4,635.4 3,855.7 1,733.9 5,566.1"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "49,579.5",
+            "As at 31/03/2026 (Audited)": "48,323.3"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "60,945.9",
+            "As at 31/03/2026 (Audited)": "59,691.2"
+          },
+          {
+            "Particulars": "",
+            "As at 30/09/2026 (Unaudited)": "382,134.7",
+            "As at 31/03/2026 (Audited)": "361,028.9"
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Particulars": "A. Cash Flow from Operating Activities Profit before Tax Adjustments for: Depreciation, Amortisation and Impairment Expense (Profit) / Loss on sale / write-off of Property, Plant and Equipment / Intangible Assets (Profit) / Loss on Divestment of Business Undertaking Finance Costs Gain on Sale of Investments Interest on Deposits with Banks and Others Interest on Income Tax Refund Bad Trade Receivables / Advances Written off Unrealised Loss / (Gain) on Investments Impairment Allowances for Doubtful Trade Receivables / Advances provided Share Based Payments Expense Impairment in value of Non-Current investments Unrealised Exchange (Gain) / Loss on Revaluation Operating Profit before Working Capital Changes Changes in working capital: (Increase) / Decrease in Trade Receivables (Increase) / Decrease in Inventories (Increase) / Decrease in Other Assets Increase / (Decrease) in Trade Payables Increase / (Decrease) in Other Liabilities Cash Generated from Operations Net Income tax paid Net Cash Flow generated from / (used in) Operating Activities B. Cash Flow from Investing Activities Payment for acquisition of business, net of cash acquired Payment for acquisition of Property, Plant and Equipment (including capital work-in- progress, other intangible assets, intangible assets under development, capital advances and capital creditors) Proceeds from sale of Property, Plant and Equipments / Intangible Assets Investments in subsidiaries Purchase of Investments Proceeds from sale of Investments Change in other bank balance and cash not available for immediate use Loan given to Subsidiaries Loan Repaid by Subsidiaries Interest Received Net Cash Flow generated from / (used in) Investing Activities C. Cash Flow from Financing Activities Proceeds from / (Repayment of) Current Borrowings Proceeds from issue of equity shares (including share application money) Payment of Principal Portion of Lease Liabilities Interest Paid on Lease Liabilities Finance Costs Paid Dividend Paid Net Cash Flow generated from / (used in) Financing Activities Net increase / (decrease) in Cash and Cash Equivalents Cash and Cash Equivalents as at the beginning of the period Effect of Exchange Rate Changes on Cash and Cash Equivalents Cash and Cash Equivalents as at the end of the period",
+            "Six months ended 30/09/2026 (Unaudited)": "36,142.5 3,831.3 (15.9) - 681.1 (179.4) (411.4) (63.2) 0.2 (920.6) (35.3) 291.7 769.3 2,552.4",
+            "Six months ended 30/09/2025 (Unaudited)": "42,239.6 3,514.5 (33.1) (6,626.8) 466.8 (196.0) (377.8) - 1.3 (345.6) 619.7 95.2 700.0 (1,835.0)"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "42,642.7 (4,891.3) (3,910.1) (1,936.1) 4,238.8 (236.0) 35,908.0 (9,836.1)",
+            "Six months ended 30/09/2025 (Unaudited)": "38,222.8 (9,367.1) (1,855.2) (1,713.1) 1,162.0 1,540.2 27,989.6 (5,244.2)"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "26,071.9",
+            "Six months ended 30/09/2025 (Unaudited)": "22,745.4"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "- (4,631.0) 33.4 (7,101.2) (85,030.0) 80,599.1 95.8 (515.0) 1,115.0 402.1",
+            "Six months ended 30/09/2025 (Unaudited)": "(95.6) (2,616.5) 58.5 (700.0) (74,881.3) 53,990.7 (1,026.7) (700.0) - 363.5"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "(15,031.8)",
+            "Six months ended 30/09/2025 (Unaudited)": "(25,607.4)"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "(1,104.6) 72.6 (739.5) (235.6) (264.8) (8,230.2)",
+            "Six months ended 30/09/2025 (Unaudited)": "7,063.8 53.4 (299.5) (127.8) (184.7) (5,476.5)"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "(10,502.1)",
+            "Six months ended 30/09/2025 (Unaudited)": "1,028.7"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "538.0 1,116.3 -",
+            "Six months ended 30/09/2025 (Unaudited)": "(1,833.3) 3,418.0 -"
+          },
+          {
+            "Particulars": "",
+            "Six months ended 30/09/2026 (Unaudited)": "1,654.3",
+            "Six months ended 30/09/2025 (Unaudited)": "1,584.7"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "Particulars",
+            "col_3": "As at 30/09/2026 (Unaudited)",
+            "col_4": "As at 31/03/2026 (Audited)"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment b. Capital Work-in-Progress c. Right-of-use Assets d. Goodwill e. Other Intangible Assets f. Intangible Assets Under Development g. Investments accounted for using equity method h. Financial Assets (i) Non-Current Investments (ii) Non-Current Loans (iii) Other Non-Current Financial Assets i. Deferred Tax Assets (Net) j. Non-Current Tax Assets (Net) k. Other Non-Current Assets Total Non-Current Assets 2)Current Assets a. Inventories b. Financial Assets (i) Current Investments (ii) Trade Receivables (iii) Cash and Cash Equivalents (iv) Other Bank Balances (v) Current Loans (vi) Other Current Financial Assets c. Current Tax Assets (Net) d. Other Current Assets Total Current Assets TOTAL ASSETS B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital b. Other Equity c. Non-Controlling Interest Total Equity 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings (ii) Lease Liabilities (iii) Other Non-Current Financial Liabilities b. Non-Current Provisions c. Deferred Tax Liabilities (Net) d. Other Non-Current Liabilities Total Non-Current Liabilities II)Current Liabilities a. Financial Liabilities (i) Current Borrowings (ii) Lease Liabilities (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises (iv) Other Current Financial Liabilities b. Other Current Liabilities c. Current Provisions d. Current Tax Liabilities (Net) Total Current Liabilities Total Liabilities TOTAL EQUITY AND LIABILITIES",
+            "col_3": "46,439.9 9,312.1 7,467.7 33,679.9 41,762.9 3,970.7 297.9 2,812.6 34.3 14,356.7 5,569.3 445.5 2,259.3",
+            "col_4": "46,685.6 6,951.6 7,805.4 26,585.3 28,862.5 3,209.5 289.8 635.6 21.1 14,515.8 5,647.2 489.8 1,675.3"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "168,408.8 65,625.2 41,454.4 66,560.3 19,390.7 14,584.9 40.6 3,102.5 333.6 19,609.4",
+            "col_4": "143,374.5 60,832.5 35,771.3 66,040.6 41,677.3 14,851.7 29.3 5,629.8 14.5 15,426.8"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "230,701.6",
+            "col_4": "240,273.8"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "399,110.4",
+            "col_4": "383,648.3"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "914.6 239,590.0 6.9",
+            "col_4": "914.4 223,568.3 651.0"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "240,511.5 13,415.9 4,390.8 597.2 5,920.5 6,222.6 2,639.3",
+            "col_4": "225,133.7 16,433.9 4,948.7 526.5 5,327.0 2,187.7 2,578.4"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "33,186.3 41,542.1 2,455.6 1,498.2 44,082.2 6,574.2 17,711.0 5,367.5 6,181.8",
+            "col_4": "32,002.2 42,668.1 2,111.1 1,573.1 40,158.2 11,220.2 16,488.9 5,612.4 6,680.4"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "125,412.6",
+            "col_4": "126,512.4"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "158,598.9",
+            "col_4": "158,514.6"
+          },
+          {
+            "12 Consolidated Balance Sheet: (₹ in million) Particulars As at As at 30/09/2026 31/03/2026 (Unaudited) (Audited) A. ASSETS 1)Non-Current Assets a. Property, Plant and Equipment 46,439.9 46,685.6 b. Capital Work-in-Progress 9,312.1 6,951.6 c. Right-of-use Assets 7,467.7 7,805.4 d. Goodwill 33,679.9 26,585.3 e. Other Intangible Assets 41,762.9 28,862.5 f. Intangible Assets Under Development 3,970.7 3,209.5 g. Investments accounted for using equity method 297.9 289.8 h. Financial Assets (i) Non-Current Investments 2,812.6 635.6 (ii) Non-Current Loans 34.3 21.1 (iii) Other Non-Current Financial Assets 14,356.7 14,515.8 i. Deferred Tax Assets (Net) 5,569.3 5,647.2 j. Non-Current Tax Assets (Net) 445.5 489.8 k. Other Non-Current Assets 2,259.3 1,675.3 Total Non-Current Assets 168,408.8 143,374.5 2)Current Assets a. Inventories 65,625.2 60,832.5 b. Financial Assets (i) Current Investments 41,454.4 35,771.3 (ii) Trade Receivables 66,560.3 66,040.6 (iii) Cash and Cash Equivalents 19,390.7 41,677.3 (iv) Other Bank Balances 14,584.9 14,851.7 (v) Current Loans 40.6 29.3 (vi) Other Current Financial Assets 3,102.5 5,629.8 c. Current Tax Assets (Net) 333.6 14.5 d. Other Current Assets 19,609.4 15,426.8 Total Current Assets 230,701.6 240,273.8 TOTAL ASSETS 399,110.4 383,648.3 B. EQUITY AND LIABILITIES 1)Equity a. Equity Share Capital 914.6 914.4 b. Other Equity 239,590.0 223,568.3 c. Non-Controlling Interest 6.9 651.0 Total Equity 240,511.5 225,133.7 2)Liabilities I)Non-Current Liabilities a. Financial Liabilities (i) Non-Current Borrowings 13,415.9 16,433.9 (ii) Lease Liabilities 4,390.8 4,948.7 (iii) Other Non-Current Financial Liabilities 597.2 526.5 b. Non-Current Provisions 5,920.5 5,327.0 c. Deferred Tax Liabilities (Net) 6,222.6 2,187.7 d. Other Non-Current Liabilities 2,639.3 2,578.4 Total Non-Current Liabilities 33,186.3 32,002.2 II)Current Liabilities a. Financial Liabilities (i) Current Borrowings 41,542.1 42,668.1 (ii) Lease Liabilities 2,455.6 2,111.1 (iii) Trade Payables - Total outstanding dues of Micro Enterprises and Small Enterprises 1,498.2 1,573.1 - Total outstanding dues of creditors other than Micro Enterprises and Small Enterprises 44,082.2 40,158.2 (iv) Other Current Financial Liabilities 6,574.2 11,220.2 b. Other Current Liabilities 17,711.0 16,488.9 c. Current Provisions 5,367.5 5,612.4 d. Current Tax Liabilities (Net) 6,181.8 6,680.4 Total Current Liabilities 125,412.6 126,512.4 Total Liabilities 158,598.9 158,514.6 TOTAL EQUITY AND LIABILITIES 399,110.4 383,648.3": "",
+            "col_2": "",
+            "col_3": "399,110.4",
+            "col_4": "383,648.3"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "A. Cash Flow from Operating Activities Profit before Tax Adjustments for: Depreciation, Amortisation and Impairment Expense (Profit) / Loss on sale / write-off of Property, Plant and Equipment / Intangible Assets Finance Costs Gain on Sale of Investments Interest on Deposits with Banks and Others Interest on Income Tax Refund Bad Trade Receivables / Advances written off Unrealised Loss / (Gain) on Investments Impairment Allowances for Doubtful Trade Receivables / Other Receivables / Deposits / Advances Share Based Payment Expense Net (Gain) / Loss on Financial Assets / Financial Liabilities Measured at Fair Value Through Profit or Loss Unrealised Exchange (Gain) / Loss on Revaluation Operating Profit before Working Capital Changes Changes in working capital: (Increase) / Decrease in Trade Receivables (Increase) / Decrease in Inventories (Increase) / Decrease in Other Assets Increase / (Decrease) in Trade Payables Increase / (Decrease) in Other Liabilities Cash Generated from Operations Net Income tax paid Net Cash Flow generated from / (used in) Operating Activities B. Cash Flow from Investing Activities Payment for acquisition of business, net of cash acquired Payment for acquisition of Property, Plant and Equipment (including capital work-in-progress, other intangible assets, intangible assets under development, capital advances and capital creditors) Proceeds from sale of Property, Plant and Equipment / Intangible Assets Purchase of Non Current Investments Purchase of Investments Proceeds from sale of Investments Change in other bank balance and cash not available for immediate use Interest received Net Cash Flow generated from / (used in) Investing Activities C. Cash Flow from Financing Activities Proceeds from / (Repayment of) Non-Current Borrowings Proceeds from / (Repayment of) Current Borrowings Buyback of shares Stake acquired from non-controlling interest Proceeds from issue of equity shares (including share application money) Payment of Principal Portion of Lease Liabilities Interest paid on Lease Liabilities Finance Costs Paid Dividend paid Net Cash Flow generated from / (used in) Financing Activities Net increase / (decrease) in Cash and Cash Equivalents Cash and Cash Equivalents as at the beginning of the period Cash and Cash Equivalents as at the end of the period Reconciliation of Cash and Cash Equivalents with the Balance Sheet Cash and Cash Equivalents Effect of Exchange Rate Changes on Cash and Cash Equivalents Cash and Cash Equivalents as at the end of the period as per Balance Sheet",
+            "Six Months Ended 30/09/2026 (Unaudited)": "35,969.6 9,387.5 (56.1) 2,153.5 (213.8) (1,108.4) (69.2) 15.3 (951.7) - 826.7 - 2,589.8",
+            "Six Months Ended 30/09/2025 (Unaudited)": "34,225.1 6,157.5 (40.2) 1,993.5 (212.5) (1,067.2) (16.0) 155.9 (345.1) 647.1 234.7 15.5 (1,835.0)"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "48,543.2 (1,761.9) (3,438.5) (1,680.2) 3,241.7 (4,280.7)",
+            "Six Months Ended 30/09/2025 (Unaudited)": "39,913.3 (6,428.4) (4,580.8) (1,674.7) 4,004.4 3,737.7"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "40,623.6 (11,164.1)",
+            "Six Months Ended 30/09/2025 (Unaudited)": "34,971.5 (5,943.6)"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "29,459.5",
+            "Six Months Ended 30/09/2025 (Unaudited)": "29,027.9"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "(20,397.3) (6,921.0) 234.0 (2,177.0) (103,022.4) 99,259.0 (397.1) 1,199.5",
+            "Six Months Ended 30/09/2025 (Unaudited)": "(1,357.5) (5,738.0) 95.7 - (85,108.7) 63,758.4 (1,139.6) 1,067.2"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "(32,222.3)",
+            "Six Months Ended 30/09/2025 (Unaudited)": "(28,422.5)"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "(3,160.5) (1,490.0) (17.0) (3,701.2) 72.6 (1,037.0) (305.6) (1,654.9) (8,230.2)",
+            "Six Months Ended 30/09/2025 (Unaudited)": "- 4,874.1 - - 53.4 (381.9) (170.3) (1,665.3) (5,476.5)"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "(19,523.8)",
+            "Six Months Ended 30/09/2025 (Unaudited)": "(2,766.5)"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "(22,286.6) 41,677.3",
+            "Six Months Ended 30/09/2025 (Unaudited)": "(2,161.1) 15,436.9"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "19,390.7",
+            "Six Months Ended 30/09/2025 (Unaudited)": "13,275.8"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "19,183.8 206.9",
+            "Six Months Ended 30/09/2025 (Unaudited)": "11,975.6 1,300.2"
+          },
+          {
+            "Particulars": "",
+            "Six Months Ended 30/09/2026 (Unaudited)": "19,390.7",
+            "Six Months Ended 30/09/2025 (Unaudited)": "13,275.8"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "8dd86e4c-f329-450c-ba6c-b966e729a698",
     "SCRIP_CD": 500257,
     "XML_NAME": "ANN_500257_8DD86E4C-F329-450C-BA6C-B966E729A698",
@@ -31635,1970 +32136,6 @@
             "Particulars": "Tota Cash and cash equivalents",
             "Half year ended 30 September 2026": "6.16",
             "Year ended 31 March 2026": "4.61"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "8c5834f1-f864-4b74-ba1c-c32fb289fbbe",
-    "SCRIP_CD": 530243,
-    "XML_NAME": "ANN_530243_8C5834F1-F864-4B74-BA1C-C32FB289FBBE",
-    "NEWSSUB": "Ratnakar Securities Ltd - 530243 - Revised Outcome Board Meeting Wherein Financial Results For The Quarter Ended On 30.09.2026 Were Approved Dated 03.11.2026. Submission Of Balance Sheet And Cash Flow Statement Was Erroneously Omitted In Previous Submission",
-    "DT_TM": "2026-11-03T21:37:59.017",
-    "NEWS_DT": "2026-11-03T21:37:59.017",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e46aa387-ea30-449a-ac94-2e254b1728f1.pdf",
-    "MORE": "Revised outcome of Board Meeting dated 03.11.2026 wherein standalone and consolidated financial results for the quarter ended on 30.09.2026 were approved. In previous submission submission Balance sheet and cash flow statement was erroneously missed. Kindly take this on your records.",
-    "HEADLINE": "Revised outcome of Board Meeting dated 03.11.2026 wherein standalone and consolidated financial results for the quarter ended on 30.09.2026 were approved. In previous submission submission ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ratnakar-securities-ltd/ratnakar/530243/",
-    "SLONGNAME": "Ratnakar Securities Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 42,
-    "News_submission_dt": "2026-11-03T21:37:59",
-    "DissemDT": "2026-11-03T21:37:59.017",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3965649,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "478606.00",
-      "total_assets": "5844494.41",
-      "total_equity": "2478139.13",
-      "total_debt": "1140529.62",
-      "dividend": "2",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "24c48992-c4a6-448f-8acf-9aaacbbb7844",
-    "SCRIP_CD": 532735,
-    "XML_NAME": "ANN_532735_24C48992-C4A6-448F-8ACF-9AAACBBB7844",
-    "NEWSSUB": "R Systems International Ltd - 532735 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-03T21:36:37.197",
-    "NEWS_DT": "2026-11-03T21:36:37.197",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1f9b3204-450e-47ac-8f0e-9a3b410b3a3a.pdf",
-    "MORE": "",
-    "HEADLINE": "As enclosed",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/r-systems-international-ltd/rsystems/532735/",
-    "SLONGNAME": "R Systems International Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 42,
-    "News_submission_dt": "2026-11-03T21:36:37",
-    "DissemDT": "2026-11-03T21:36:37.197",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 438776,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "6152.00",
-      "net_profit": "641.83",
-      "operating_profit": "1244.43",
-      "total_debt": "2699.58",
-      "dividend": "8 per share",
-      "face_value": "3",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "col_5": "September 30, 2026",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "June",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "September",
-            "col_13": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "",
-            "col_5": "",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "30, 2026",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "30, 2025",
-            "col_13": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Income",
-            "col_5": "",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Revenue from operations",
-            "col_5": "6,152.00",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "6,017.01",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "4,986.17",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Other income",
-            "col_5": "25.80",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "13.68",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "17.40",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Total income",
-            "col_5": "6,177.80",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "6,030.69",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "5,003.57",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Expenses",
-            "col_5": "",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Employee benefits expense @",
-            "col_5": "3,611.03",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "3,661.55",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "3,294.00",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Finance costs",
-            "col_5": "95.81",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "94.77",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "37.23",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(c)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Depreciation and amortisation expense",
-            "col_5": "229.17",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "220.39",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "166.11",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(d)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Other expenses",
-            "col_5": "1,361.26",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "1,248.91",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "971.38",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Total expenses",
-            "col_5": "5,297.27",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "5,225.62",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "4,468.72",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Profit before tax (1-2)",
-            "col_5": "880.53",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "805.07",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "534.85",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Tax expense",
-            "col_5": "",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Current tax",
-            "col_5": "260.29",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "253.31",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "230.75",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Deferred tax charge / (credit)",
-            "col_5": "(21.59)",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "(3.94)",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "(49.31)",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Total tax expense",
-            "col_5": "238.70",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "249.37",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "181.44",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Net profit for the period (3-4)",
-            "col_5": "641.83",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "555.70",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "353.41",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Earnings per share (not annualized) (Equity share of par value of Re. 1/- each)",
-            "col_5": "",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Basic *",
-            "col_5": "5.42",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "4.69",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "2.99",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Diluted",
-            "col_5": "5.18",
-            "Quarter Ended": "",
-            "col_7": "",
-            "col_8": "4.49",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "2.85",
-            "col_12": "",
-            "col_13": ""
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "col_5": "",
-            "Nine Months Ended": "September 30",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "",
-            "col_5": "",
-            "Nine Months Ended": "2026^",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "2025",
-            "col_10": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Income",
-            "col_5": "",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Revenue from operations",
-            "col_5": "17,916.69",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "14,030.97",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Other income $",
-            "col_5": "171.83",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "506.27",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Total income",
-            "col_5": "18,088.52",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "14,537.24",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Expenses",
-            "col_5": "",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Employee benefits expense @",
-            "col_5": "10,870.06",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "9,328.72",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Finance costs",
-            "col_5": "286.48",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "73.55",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(c)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Depreciation and amortisation expense",
-            "col_5": "664.63",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "470.55",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(d)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Other expenses",
-            "col_5": "3,685.42",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "2,570.47",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Total expenses",
-            "col_5": "15,506.59",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "12,443.29",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Profit before tax (1+2)",
-            "col_5": "2,581.93",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "2,093.95",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Tax expense",
-            "col_5": "",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(a)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Current tax^",
-            "col_5": "706.85",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "639.44",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "(b)",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Deferred tax charge",
-            "col_5": "23.41",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "(43.37)",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Total tax expense",
-            "col_5": "730.26",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "596.07",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Net profit for the period (3-4)",
-            "col_5": "1,851.67",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "1,497.88",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Earnings per share (not annualized) (Equity share of par value of Re. 1/- each)",
-            "col_5": "",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Basic *",
-            "col_5": "15.63",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "12.65",
-            "col_9": "",
-            "col_10": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Diluted",
-            "col_5": "14.96",
-            "Nine Months Ended": "",
-            "col_7": "",
-            "col_8": "12.10",
-            "col_9": "",
-            "col_10": ""
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Q3 2026": "INR",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "US$",
-            "col_7": "",
-            "col_8": "",
-            "Q2 2026": "INR",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "US$",
-            "col_13": "",
-            "col_14": "",
-            "Q3 2025": "INR",
-            "col_16": "",
-            "col_17": "",
-            "col_18": "US$",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Revenues Cost of revenues",
-            "col_2": "6,152.00 3,777.24",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "64.35 39.50",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "6,017.01 3,656.82",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "63.56 38.59",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "4,986.17 3,213.96",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "57.18 36.86",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Gross margin",
-            "col_2": "2,374.76",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "24.85",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,360.19",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "24.97",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "1,772.21",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "20.32",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "SG & A Expenses",
-            "col_2": "38.60% 1,130.33 18.37%",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "11.83",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "39.23% 1,152.69 19.16%",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "12.21",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "35.54% 927.77 18.61%",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "10.64",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Adj. EBITDA Cost of RSUs",
-            "col_2": "1,244.43 20.23% 32.25",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "13.02 0.33",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "1,207.50 20.07% 62.37",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "12.76 0.66",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "844.44 16.94% 70.56",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "9.68 0.81",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "EBITDA",
-            "col_2": "1,212.18",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "12.69",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "1,145.13",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "12.10",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "773.88",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "8.87",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Depreciation and amortisation",
-            "col_2": "19.70% 229.17",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "2.40",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "19.03% 220.39",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "2.33",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "15.52% 166.11",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "1.90",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "EBIT before non-recurring cost",
-            "col_2": "983.01",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "10.29",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "924.74",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "9.77",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "607.77",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "6.97",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Non-recurring expense#",
-            "col_2": "12.01",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "0.12",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "16.17",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "0.17",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "15.92",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "0.21",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "EBIT",
-            "col_2": "971.00",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "10.17",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "908.57",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "9.60",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "591.85",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "6.76",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Interest expense Other income (net)",
-            "col_2": "(95.81) 5.34",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "(1.00) 0.04",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "(94.77) (8.73)",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "(1.00) (0.12)",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "(37.23) (19.77)",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "(0.43) (0.23)",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Income before income tax",
-            "col_2": "880.53",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "9.21",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "805.07",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "8.48",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "534.85",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "6.10",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Tax expense",
-            "col_2": "238.70",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "2.49",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "249.37",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "2.63",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "181.44",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "2.07",
-            "col_18": "",
-            "col_19": ""
-          },
-          {
-            "Particulars": "Net profit^",
-            "col_2": "641.83",
-            "Q3 2026": "",
-            "col_4": "",
-            "col_5": "6.72",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "555.70",
-            "Q2 2026": "",
-            "col_10": "",
-            "col_11": "5.85",
-            "col_12": "",
-            "col_13": "",
-            "col_14": "353.41",
-            "Q3 2025": "",
-            "col_16": "",
-            "col_17": "4.03",
-            "col_18": "",
-            "col_19": ""
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Jan to Sep 2026": "INR",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "US$",
-            "col_7": "",
-            "col_8": "",
-            "Jan to Sep 2025": "INR",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "US$",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Revenues Cost of revenues",
-            "col_2": "17,916.69 11,111.10",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "190.74 118.29",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "14,030.97 8,971.14",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "162.27 103.75",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Gross margin",
-            "col_2": "6,805.59",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "72.45",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "5,059.83",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "58.52",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "SG & A Expenses",
-            "col_2": "37.98% 3,197.01 17.84%",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "34.03",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "36.06% 2,649.87 18.89%",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "30.65",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Adj. EBITDA Cost of RSUs",
-            "col_2": "3,608.58 20.14% 158.76",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "38.42 1.69",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,409.96 17.18% 181.77",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "27.87 2.10",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "EBITDA",
-            "col_2": "3,449.82",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "36.73",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,228.19",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "25.77",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Depreciation and amortisation",
-            "col_2": "19.25% 664.63",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "7.08",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "15.88% 470.55",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "5.44",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "EBIT before non-recurring cost",
-            "col_2": "2,785.19",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "29.65",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "1,757.64",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "20.33",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Non-recurring expense / (income)#",
-            "col_2": "44.09",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "0.47",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "(393.44)",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "(4.55)",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "EBIT",
-            "col_2": "2,741.10",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "29.18",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,151.08",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "24.88",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Interest expense Other income (net)*",
-            "col_2": "(286.48) 127.31",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "(3.05) 1.36",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "(73.55) 16.42",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "(0.86) 0.19",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Income before income tax",
-            "col_2": "2,581.93",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "27.49",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,093.95",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "24.21",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Tax expense",
-            "col_2": "730.26",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "7.78",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "596.07",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "6.89",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Particulars": "Net profit^",
-            "col_2": "1,851.67",
-            "Jan to Sep 2026": "",
-            "col_4": "",
-            "col_5": "19.71",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "1,497.88",
-            "Jan to Sep 2025": "",
-            "col_10": "",
-            "col_11": "17.32",
-            "col_12": "",
-            "col_13": ""
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "September 30, 2026",
-            "col_4": "December 31, 2025"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "Unaudited",
-            "col_4": "Audited"
-          },
-          {
-            "col_1": "A. B. C. A. B. C.",
-            "Particulars": "ASSETS Non-current assets (a) Property, plant and equipment (b) Capital work in progress (c) Investment property (d) Right-of-use assets (e) Goodwill (f) Other intangible assets (g) Financial assets (i) Investment (ii) Other financial assets (h) Deferred tax assets (net) (i) Non-current tax assets (net) (j) Other non-current assets Total non-current assets (A) Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalents (iv) Other financial assets (b) Other current assets Total current assets (B) Assets held for sale Total assets (A+B+C) EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Instrument entirely equity in nature (c) Other equity Total equity attributable to equity shareholders of the Company (d) Non controlling interest Total equity (A) Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Other financial liabilities (b) Provisions (c) Deferred tax liabilities (net) Total non-current liabilities (B) Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables - total outstanding dues of micro enterprises and small enterprises - total outstanding dues of creditors other than micro enterprises and small enterprises (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liability (net) Total current liabilities (C) Total liabilities (B+C) Total equity and liabilities (A+B+C)",
-            "As at": "688.84 10.37 11.89 888.48 6,962.34 2,563.92 0.03 91.57 599.28 43.77 17.91",
-            "col_4": "673.67 1.34 12.99 736.56 6,956.74 2,867.35 0.03 88.94 608.47 81.41 40.74"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "11,878.40",
-            "col_4": "12,068.24"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "3,722.35 3,023.10 1,398.53 1,169.82 1,100.70",
-            "col_4": "4,106.61 3,084.49 56.64 870.25 835.62"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "10,414.50",
-            "col_4": "8,953.61"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "-",
-            "col_4": "-"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "22,292.90",
-            "col_4": "21,021.85"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "118.50 5.16 10,655.47",
-            "col_4": "118.40 - 10,204.83"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "10,779.13 1,923.88",
-            "col_4": "10,323.23 1,923.88"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "12,703.01",
-            "col_4": "12,247.11"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "2,699.58 946.62 13.69 610.63 -",
-            "col_4": "2,691.75 788.60 15.28 576.39 0.17"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "4,270.52",
-            "col_4": "4,072.19"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "9.67 175.42 14.13 987.76 2,680.46 707.35 622.16 122.42",
-            "col_4": "454.39 163.09 12.94 1,128.28 1,366.22 848.58 556.99 172.06"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "5,319.37",
-            "col_4": "4,702.55"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "9,589.89",
-            "col_4": "8,774.74"
-          },
-          {
-            "col_1": "",
-            "Particulars": "",
-            "As at": "22,292.90",
-            "col_4": "21,021.85"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "4f87095d-dd11-45b0-bcf6-ee946f094f59",
-    "SCRIP_CD": 544717,
-    "XML_NAME": "ANN_544717_4F87095D-DD11-45B0-BCF6-EE946F094F59",
-    "NEWSSUB": "Clean Max Enviro Energy Solutions Ltd - 544717 - Board Meeting Outcome for Board Meeting Outcome For Quarter And Half-Year Ended 30 September 2026",
-    "DT_TM": "2026-11-03T21:35:51.423",
-    "NEWS_DT": "2026-11-03T21:35:51.423",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c30674c4-7fab-4d09-82c0-0d74f447d0cb.pdf",
-    "MORE": "",
-    "HEADLINE": "Board Meeting Outcome for Quarter and Half-Year Ended 30 September 2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/clean-max-enviro-energy-solutions-ltd/cleanmax/544717/",
-    "SLONGNAME": "Clean Max Enviro Energy Solutions Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 42,
-    "News_submission_dt": "2026-11-03T21:35:35",
-    "DissemDT": "2026-11-03T21:35:51.423",
-    "TimeDiff": "00:00:16",
-    "Fld_Attachsize": 14024620,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "7276.54",
-      "operating_profit": "5477.27",
-      "total_assets": "275462.22",
-      "total_equity": "59531.59",
-      "total_debt": "161444.67",
-      "dividend": "47.58",
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "130": "131",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Jagalur Green Energy Power Supply Private Limited",
-            "Subsidiary": "Wholly-Owned Subsidiary"
-          },
-          {
-            "130": "132",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clea Max Anchorage Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "133",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Hydra Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "134",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Zion Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "135",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Patagonia Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "136",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Kenai Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "137",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Galapagos Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "138",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Jasper Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "139",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Serengeti Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "140",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Prapati Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "141",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Nirvaan Private Limited",
-            "Subsidiary": "Wholly-Owned Subsidiary"
-          },
-          {
-            "130": "142",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Teton Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "143",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Bryce Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "144",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Ekaiva Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "145",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Yosemite Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "146",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Everglades Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "147",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Everest Private Limited",
-            "Subsidiary": "Wholly-Owned Subsidiary"
-          },
-          {
-            "130": "148",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Yellowstone Private Limited",
-            "Subsidiary": "Subsidiary"
-          },
-          {
-            "130": "149",
-            "Clean Max Osaka Gas Renewable Energy Private Limited (formally known as Clean Max Yamuna Private Limited)": "Clean Max Godavari Private Limited",
-            "Subsidiary": "Subsidiary"
-          }
-        ]
-      },
-      {
-        "page": 29,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30.09.2026",
-            "col_3": "30.06.2026",
-            "col_4": "30.09.2025",
-            "Six Months Ended": "30.09.2026",
-            "col_6": "30.09.2025",
-            "Year Ended": "31.03.2026"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "Six Months Ended": "Unaudited",
-            "col_6": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "Total Income*",
-            "Quarter Ended": "13,805.63",
-            "col_3": "22,972.75",
-            "col_4": "15,485.57",
-            "Six Months Ended": "36,778.38",
-            "col_6": "27,382.12",
-            "Year Ended": "63,573.12"
-          },
-          {
-            "Particulars": "Profit before tax for the period/year",
-            "Quarter Ended": "2,104.62",
-            "col_3": "4,682.17",
-            "col_4": "3,187.64",
-            "Six Months Ended": "6,786.79",
-            "col_6": "4,930.90",
-            "Year Ended": "10,390.65"
-          },
-          {
-            "Particulars": "Profit after tax for the period/year",
-            "Quarter Ended": "1,563.36",
-            "col_3": "3,501.99",
-            "col_4": "2,390.32",
-            "Six Months Ended": "5,065.35",
-            "col_6": "3,725.77",
-            "Year Ended": "7,673.49"
-          }
-        ]
-      },
-      {
-        "page": 30,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "As at / for the quarter ended": "30th September, 2026 (Unaudited)",
-            "col_4": "30th June, 2026 (Unaudited)",
-            "col_5": "30th September, 2025 (Unaudited) [Refer note 12]",
-            "As at / for the six months ended": "30th September, 2026 (Unaudited)",
-            "col_7": "30th September, 2025 (Audited) [Refer note 11]",
-            "As at/ for the year ended": "31st March, 2026 (Audited)"
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Debt-equity ratio (Borrowings/Equity including Non-Controlling Interest)",
-            "As at / for the quarter ended": "2.89",
-            "col_4": "2 .37",
-            "col_5": "3.80",
-            "As at / for the six months ended": "2.89",
-            "col_7": "3.80",
-            "As at/ for the year ended": "2.25"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Debt service coverage ratio* (EBITDA divided by Principal repayments (excluding refinancing) + Interest charged to profit and loss statement)",
-            "As at / for the quarter ended": "1.49",
-            "col_4": "1.42",
-            "col_5": "1.13",
-            "As at / for the six months ended": "1.46",
-            "col_7": "1.05",
-            "As at/ for the year ended": "1.26"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Interest service coverage ratio (EBITDA divided by Interest charged to profit and loss statement)",
-            "As at / for the quarter ended": "2.43",
-            "col_4": "2 .28",
-            "col_5": "3.53",
-            "As at / for the six months ended": "2.36",
-            "col_7": "1.87",
-            "As at/ for the year ended": "1.87"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Debenture redemption reserve",
-            "As at / for the quarter ended": "400.00",
-            "col_4": "400.00",
-            "col_5": "5 99.00",
-            "As at / for the six months ended": "4 00.00",
-            "col_7": "5 99.00",
-            "As at/ for the year ended": "999.00"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Net-worth (In Rs. Million) (Equity share capital + Preference share capital + Other equity)",
-            "As at / for the quarter ended": "48,399.30",
-            "col_4": "47,214.52",
-            "col_5": "2 6,666.65",
-            "As at / for the six months ended": "48,399.30",
-            "col_7": "26,666.65",
-            "As at/ for the year ended": "46,382.66"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Net profit after tax (In Rs. Million)",
-            "As at / for the quarter ended": "649.49",
-            "col_4": "551.74",
-            "col_5": "356.01",
-            "As at / for the six months ended": "1 ,201.23",
-            "col_7": "1 90.04",
-            "As at/ for the year ended": "855.77"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Earnings per share",
-            "As at / for the quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "As at / for the six months ended": "",
-            "col_7": "",
-            "As at/ for the year ended": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "-Basic (Restated)",
-            "As at / for the quarter ended": "4 .01",
-            "col_4": "4 .14",
-            "col_5": "2 .49",
-            "As at / for the six months ended": "8 .15",
-            "col_7": "1 .09",
-            "As at/ for the year ended": "9 .10"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "-Diluted (Restated)",
-            "As at / for the quarter ended": "3 .98",
-            "col_4": "4 .11",
-            "col_5": "2 .41",
-            "As at / for the six months ended": "8 .09",
-            "col_7": "1 .05",
-            "As at/ for the year ended": "8 .96"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Current ratio (Current assets/Current liabilities)",
-            "As at / for the quarter ended": "1.00",
-            "col_4": "0 .74",
-            "col_5": "0.68",
-            "As at / for the six months ended": "1.00",
-            "col_7": "0.68",
-            "As at/ for the year ended": "0.66"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Long-term debt to working capital ratio (Non-current Borrowings/Current assets-Current liabilities)",
-            "As at / for the quarter ended": "1,125.24",
-            "col_4": "(10.06)",
-            "col_5": "(9.64)",
-            "As at / for the six months ended": "1 ,125.24",
-            "col_7": "(9.64)",
-            "As at/ for the year ended": "(6.56)"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Bad debts to accounts receivable ratio (Provision for doubtful debts + bad debts written-off/ Average trade receivables#)",
-            "As at / for the quarter ended": "<0.01",
-            "col_4": "0.06",
-            "col_5": "<0.01",
-            "As at / for the six months ended": "0.07",
-            "col_7": "0.02",
-            "As at/ for the year ended": "<0.01"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Current liability ratio (Current liability/Total liability)",
-            "As at / for the quarter ended": "0.19",
-            "col_4": "0.26",
-            "col_5": "0.23",
-            "As at / for the six months ended": "0.19",
-            "col_7": "0.23",
-            "As at/ for the year ended": "0.29"
-          },
-          {
-            "Sr. No.": "12",
-            "Particulars": "Total debts to total assets (Borrowings/Total assets)",
-            "As at / for the quarter ended": "0.63",
-            "col_4": "0.56",
-            "col_5": "0 .60",
-            "As at / for the six months ended": "0.63",
-            "col_7": "0.60",
-            "As at/ for the year ended": "0.54"
-          },
-          {
-            "Sr. No.": "13",
-            "Particulars": "Debtors turnover ratio (Revenue from operations/Average trade receivables#)",
-            "As at / for the quarter ended": "2.07",
-            "col_4": "2.50",
-            "col_5": "2.60",
-            "As at / for the six months ended": "5.27",
-            "col_7": "4.58",
-            "As at/ for the year ended": "8.21"
-          },
-          {
-            "Sr. No.": "14",
-            "Particulars": "Inventory turnover ratio (Cost of materials purchased + Purchases of traded goods)/Average inventory)",
-            "As at / for the quarter ended": "0.93",
-            "col_4": "2.49",
-            "col_5": "3.34",
-            "As at / for the six months ended": "6.38",
-            "col_7": "4.83",
-            "As at/ for the year ended": "10.90"
-          },
-          {
-            "Sr. No.": "15",
-            "Particulars": "Operating margin (%) (EBITDA/ Revenue from operations)",
-            "As at / for the quarter ended": "75.27%",
-            "col_4": "55.62%",
-            "col_5": "68.40%",
-            "As at / for the six months ended": "64.79%",
-            "col_7": "68.37%",
-            "As at/ for the year ended": "67.68%"
-          },
-          {
-            "Sr. No.": "16",
-            "Particulars": "Net profit margin (%) (Profit before tax/ Revenue from operations)",
-            "As at / for the quarter ended": "16.49%",
-            "col_4": "11.30%",
-            "col_5": "15.57%",
-            "As at / for the six months ended": "13.72%",
-            "col_7": "5.69%",
-            "As at/ for the year ended": "7.06%"
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 0,
-        "row_count": 3,
-        "rows": [
-          {
-            "col_1": "",
-            "Particulars": "",
-            "Quarter Ended": "30th September, 2026 (Unaudited)",
-            "col_4": "30th June, 2026 (Unaudited)",
-            "col_5": "30th September, 2025 (Unaudited) [Refer note 12]",
-            "Six Months Ended": "30th September, 2026 (Unaudited)",
-            "col_7": "30th September, 2025 (Audited) [Refer note 11]",
-            "Year Ended": "31st March, 2026 (Audited)"
-          },
-          {
-            "col_1": "(a) (b) (c)",
-            "Particulars": "Segment revenue Segment A - Renewable Energy Power Sales Segment B - Renewable Energy Services Other unallocable",
-            "Quarter Ended": "6,040.29 1,236.25 -",
-            "col_4": "5,282.57 3,001.47 37.52",
-            "col_5": "3,610.42 1,636.84 5 8.88",
-            "Six Months Ended": "11,322.86 4,237.72 37.52",
-            "col_7": "7,192.15 2,050.07 8 7.31",
-            "Year Ended": "1 3,994.50 4,973.28 160.95"
-          },
-          {
-            "col_1": "",
-            "Particulars": "Revenue from operations",
-            "Quarter Ended": "7,276.54",
-            "col_4": "8,321.56",
-            "col_5": "5,306.14",
-            "Six Months Ended": "15,598.10",
-            "col_7": "9,329.53",
-            "Year Ended": "1 9,128.73"
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 3,
-        "row_count": 3,
-        "rows": [
-          {
-            "(a) (b)": "",
-            "Segment results Segment A - Renewable Energy Power Sales Segment B - Renewable Energy Services": "Segment results",
-            "3,011.87 5 1.59": "3,063.46",
-            "2,577.39 152.67": "2,730.07",
-            "1,874.79 151.54": "2,026.33",
-            "5,589.27 204.26": "5,793.53",
-            "2,526.87 187.44": "2,714.31",
-            "5,457.72 588.62": "6,046.34"
-          },
-          {
-            "(a) (b)": "",
-            "Segment results Segment A - Renewable Energy Power Sales Segment B - Renewable Energy Services": "Other unallocable Depreciation, impairment and amortisation expenses Total tax expense",
-            "3,011.87 5 1.59": "(470.47) 1,393.20 5 50.30",
-            "2,577.39 152.67": "(643.77) 1,146.34 388.22",
-            "1,874.79 151.54": "(311.89) 888.10 470.33",
-            "5,589.27 204.26": "(1,114.24) 2,539.54 938.52",
-            "2,526.87 187.44": "(460.79) 1,722.57 340.91",
-            "5,457.72 588.62": "(897.42) 3,799.12 494.03"
-          },
-          {
-            "(a) (b)": "",
-            "Segment results Segment A - Renewable Energy Power Sales Segment B - Renewable Energy Services": "Profit for the period/year",
-            "3,011.87 5 1.59": "6 49.49",
-            "2,577.39 152.67": "551.74",
-            "1,874.79 151.54": "356.01",
-            "5,589.27 204.26": "1,201.23",
-            "2,526.87 187.44": "190.04",
-            "5,457.72 588.62": "855.77"
-          }
-        ]
-      },
-      {
-        "page": 38,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Quarter ended": "30th September, 2026 (Unaudited)",
-            "col_4": "30th June, 2026 (Unaudited)",
-            "col_5": "30th September, 2025 (Unaudited)",
-            "Six months ended": "30th September, 2026 (Unaudited)",
-            "col_7": "30th September, 2025 (Unaudited)",
-            "Year Ended": "31st March, 2026 (Audited)"
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Debt-equity ratio (Borrowings/Equity)",
-            "Quarter ended": "0 .70",
-            "col_4": "0.28",
-            "col_5": "0 .50",
-            "Six months ended": "0 .70",
-            "col_7": "0.50",
-            "Year Ended": "0.38"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Debt service coverage ratio* (EBITDA divided by Principal repayments+ Interest charged to profit and loss statement)",
-            "Quarter ended": "6.85",
-            "col_4": "11.20",
-            "col_5": "2.75",
-            "Six months ended": "9.20",
-            "col_7": "2.51",
-            "Year Ended": "3.56"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Interest service coverage ratio (EBITDA divided by Interest charged to profit and loss statement)",
-            "Quarter ended": "9.37",
-            "col_4": "16.72",
-            "col_5": "8.67",
-            "Six months ended": "13.19",
-            "col_7": "7.17",
-            "Year Ended": "6.90"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Debenture redemption reserve",
-            "Quarter ended": "4 00.00",
-            "col_4": "4 00.00",
-            "col_5": "599.00",
-            "Six months ended": "400.00",
-            "col_7": "599.00",
-            "Year Ended": "9 99.00"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Net-worth (In Rs. Million) (Equity share capital + Preference share capital+ Other equity)",
-            "Quarter ended": "61,766.43",
-            "col_4": "60,094.41",
-            "col_5": "37,912.05",
-            "Six months ended": "61,766.43",
-            "col_7": "37,912.05",
-            "Year Ended": "56,478.61"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Net profit after tax (In Rs. Million)",
-            "Quarter ended": "1 ,563.36",
-            "col_4": "3,501.99",
-            "col_5": "2 ,390.32",
-            "Six months ended": "5,065.35",
-            "col_7": "3,725.77",
-            "Year Ended": "7 ,673.49"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Earnings per share",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Six months ended": "",
-            "col_7": "",
-            "Year Ended": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "-Basic",
-            "Quarter ended": "13.32",
-            "col_4": "29.90",
-            "col_5": "23.57",
-            "Six months ended": "43.20",
-            "col_7": "36.73",
-            "Year Ended": "74.17"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "-Diluted",
-            "Quarter ended": "13.23",
-            "col_4": "29.68",
-            "col_5": "22.80",
-            "Six months ended": "42.86",
-            "col_7": "35.53",
-            "Year Ended": "73.05"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Current ratio (Current assets/Current liabilities)",
-            "Quarter ended": "0 .85",
-            "col_4": "0.75",
-            "col_5": "0 .65",
-            "Six months ended": "0 .85",
-            "col_7": "0.65",
-            "Year Ended": "0.89"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Long-term debt to working capital ratio (Borrowings/Current assets-Current liabilities)",
-            "Quarter ended": "(4.04)",
-            "col_4": "(0.75)",
-            "col_5": "(1.24)",
-            "Six months ended": "(4.04)",
-            "col_7": "(1.24)",
-            "Year Ended": "(2.36)"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Bad debts to accounts receivable ratio (Provision for doubtful debts+ bad debts written-off/ Average trade receivables excluding unbilled revenue)",
-            "Quarter ended": "(0.01)",
-            "col_4": "0.03",
-            "col_5": "0.02",
-            "Six months ended": "0.02",
-            "col_7": "0.02",
-            "Year Ended": "0.02"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Current liability ratio (Current liability/Total liabilities)",
-            "Quarter ended": "0.60",
-            "col_4": "0.81",
-            "col_5": "0.66",
-            "Six months ended": "0.60",
-            "col_7": "0.66",
-            "Year Ended": "0.77"
-          },
-          {
-            "Sr. No.": "12",
-            "Particulars": "Total debts to total assets (Borrowings/Total assets)",
-            "Quarter ended": "0.26",
-            "col_4": "0.12",
-            "col_5": "0.19",
-            "Six months ended": "0.26",
-            "col_7": "0.19",
-            "Year Ended": "0.16"
-          },
-          {
-            "Sr. No.": "13",
-            "Particulars": "Debtors turnover ratio (Revenue from operations/Average trade receivables excluding unbilled revenue)",
-            "Quarter ended": "1.77",
-            "col_4": "2.52",
-            "col_5": "2.76",
-            "Six months ended": "5.06",
-            "col_7": "4.89",
-            "Year Ended": "10.31"
-          },
-          {
-            "Sr. No.": "14",
-            "Particulars": "Inventory turnover ratio (Cost of materials consumed +purchase of traded goods/Average inventory)",
-            "Quarter ended": "10.26",
-            "col_4": "11.10",
-            "col_5": "26.56",
-            "Six months ended": "19.52",
-            "col_7": "41.77",
-            "Year Ended": "40.35"
-          },
-          {
-            "Sr. No.": "15",
-            "Particulars": "Operating margin (%) EBITDA/ Revenue from operations",
-            "Quarter ended": "23.73%",
-            "col_4": "27.77%",
-            "col_5": "28.65%",
-            "Six months ended": "26.24%",
-            "col_7": "25.30%",
-            "Year Ended": "24.30%"
-          },
-          {
-            "Sr. No.": "16",
-            "Particulars": "Net profit margin (%) (Profit before tax/ Revenue from operations)",
-            "Quarter ended": "16.35%",
-            "col_4": "22.03%",
-            "col_5": "21.87%",
-            "Six months ended": "19.89%",
-            "col_7": "19.07%",
-            "Year Ended": "17.31%"
           }
         ]
       }
