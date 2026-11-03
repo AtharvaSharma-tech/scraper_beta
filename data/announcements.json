@@ -1,5 +1,97 @@
 [
   {
+    "NEWSID": "9b2b34f7-91d3-4244-ab38-ec13c4c1fa6a",
+    "SCRIP_CD": 544632,
+    "XML_NAME": "ANN_544632_9B2B34F7-91D3-4244-AB38-EC13C4C1FA6A",
+    "NEWSSUB": "Meesho Ltd - 544632 - Announcement under Regulation 30 (LODR)-Updates on Acquisition",
+    "DT_TM": "2026-11-03T07:16:44.04",
+    "NEWS_DT": "2026-11-03T07:16:44.04",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b8f09841-0ebc-4e12-8fbe-ac106fdf6f28.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of additional investment through Rights Issue in Meesho Payments Private Limited, a wholly owned subsidiary of the Company",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/meesho-ltd/meesho/544632/",
+    "SLONGNAME": "Meesho Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-03T07:16:44",
+    "DissemDT": "2026-11-03T07:16:44.04",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 445594,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Additional Rights Issue Investment:** On November 02, 2026, Meesho Limited completed an additional cash investment of INR 3,99,99,99,850 in its wholly owned subsidiary, Meesho Payments Private Limited (MPPL), by subscribing to 1,14,28,571 equity shares (face value of Re. 1 at a premium of Rs. 349 per share) via a rights issue.\n* **Shareholding & Subsidiary Financials:** The transaction maintains Meesho Limited's 100% shareholding in MPPL, which operates as a Lending Service Provider and reported a turnover of INR 1,104.65 lakhs and a net loss of INR 2,465.22 lakhs as of March 31, 2026.",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "S. No": "1",
+            "Particulars": "Name of the Target Company, details in brief such as size, turnover, etc.;",
+            "Meesho Payments Private Limited": "Name of the entity: Meesho Payments Private Limited (‘MPPL’), wholly owned subsidiary of the Company. The turnover and net profit/loss of MPPL as on March 31, 2026, are as follows: Turnover: INR. 1,104.65 lakhs Net loss: INR. 2,465.22 lakhs"
+          },
+          {
+            "S. No": "2",
+            "Particulars": "whether the acquisition would fall within related party transaction(s) and whether the promoter/ promoter group/ group companies have any interest in the entity being acquired? If yes, nature of interest and details thereof and whether the same is done at “arm’s length”;",
+            "Meesho Payments Private Limited": "MPPL, being a wholly owned subsidiary, is a related party of the Company. The transaction falls within the ambit of related party transactions and is at arm’s length. Mr. Vidit Aatrey and Mr. Sanjeev Kumar, promoters of the Company, are also directors on the Board of MPPL. Further, Mr. Vidit Aatrey holds one equity share in MPPL as nominee of the Company. Save and except for the above, none of the promoters, promoter group entities or group companies of the Company have any interest in MPPL. The Company is interested in the transaction to the extent of its shareholding in MPPL."
+          },
+          {
+            "S. No": "3",
+            "Particulars": "Industry to which the entity being acquired belongs;",
+            "Meesho Payments Private Limited": "Lending Service Provider (‘LSP’)"
+          },
+          {
+            "S. No": "4",
+            "Particulars": "Objects and impact of acquisition (including but not limited to, disclosure of reasons for acquisition of target entity, if its business is outside the main line of business of the listed entity);",
+            "Meesho Payments Private Limited": "The investment by the Company is intended to support the overall business operations and growth of MPPL, enabling it to enhance its capabilities, scale its operations, and effectively meet its business and regulatory requirements. The infusion of funds is expected to facilitate expansion of MPPL’s activities, improve operational efficiency, and support the development of its offerings in line with the evolving needs of the business and the market."
+          },
+          {
+            "S. No": "5",
+            "Particulars": "Brief details of any governmental or regulatory approvals required for the acquisition;",
+            "Meesho Payments Private Limited": "Not Applicable."
+          },
+          {
+            "S. No": "6",
+            "Particulars": "Indicative time period for completion of the acquisition;",
+            "Meesho Payments Private Limited": "The equity shares were allotted on November 02, 2026"
+          },
+          {
+            "S. No": "7",
+            "Particulars": "Consideration - whether cash consideration or share swap or any other form and details of the same;",
+            "Meesho Payments Private Limited": "Cash consideration"
+          },
+          {
+            "S. No": "8",
+            "Particulars": "Cost of acquisition or the price at which the shares are acquired;",
+            "Meesho Payments Private Limited": "INR 3,99,99,99,850 comprising of 1,14,28,571 Equity Shares of face value of Re. 1/- each at premium of Rs. 349/- each"
+          },
+          {
+            "S. No": "9",
+            "Particulars": "Percentage of shareholding/ control acquired and/or number of shares acquired;",
+            "Meesho Payments Private Limited": "The Company’s shareholding in MPPL will continue to remain at 100% and MPPL will continue to remain wholly owned subsidiary"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "0626d872-5184-409b-b15f-a1cc217886d6",
     "SCRIP_CD": 512008,
     "XML_NAME": "ANN_512008_0626D872-5184-409B-B15F-A1CC217886D6",
@@ -59350,690 +59442,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "ec11c3cc-8a41-4055-aac6-be171766657b",
-    "SCRIP_CD": 535755,
-    "XML_NAME": "ANN_535755_EC11C3CC-8A41-4055-AAC6-BE171766657B",
-    "NEWSSUB": "Aditya Birla Fashion and Retail Ltd - 535755 - Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
-    "DT_TM": "2026-11-02T21:13:21.523",
-    "NEWS_DT": "2026-11-02T21:13:21.523",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bcfcf4d1-3145-4375-b1ab-bf7debf7a860.pdf",
-    "MORE": "",
-    "HEADLINE": "Voting Results and Scrutinizer Report of the Postal Ballot notice of the Company dated August 8, 2026",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aditya-birla-fashion-and-retail-ltd/abfrl/535755/",
-    "SLONGNAME": "Aditya Birla Fashion and Retail Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 33,
-    "News_submission_dt": "2026-11-02T21:13:21",
-    "DissemDT": "2026-11-02T21:13:21.523",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 19251389,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 20,
-        "rows": [
-          {
-            "Resolution (1)": "Resolution required: (Ordinary / Special)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Special",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Resolution (1)": "Whether promoter/promoter group are interested in the agenda/resolution?",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "No",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Resolution (1)": "Description of resolution considered",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Adoption of the ‘Aditya Birla Fashion and Retail Limited Employee Stock Option Scheme 2026’ (“ABFRL ESOP Scheme 2026”).",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Resolution (1)": "Category",
-            "col_2": "Mode of voting",
-            "col_3": "No. of shares held",
-            "col_4": "No. of votes polled",
-            "col_5": "% of Votes polled on outstanding shares",
-            "col_6": "No. of votes – in favour",
-            "col_7": "No. of votes – against",
-            "col_8": "% of votes in favour on votes polled",
-            "col_9": "% of Votes against on votes polled"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "",
-            "col_3": "(1)",
-            "col_4": "(2)",
-            "col_5": "(3)=[(2)/(1)]*100",
-            "col_6": "(4)",
-            "col_7": "(5)",
-            "col_8": "(6)=[(4)/(2)]*100",
-            "col_9": "(7)=[(5)/(2)]*100"
-          },
-          {
-            "Resolution (1)": "Promoter and Promoter Group",
-            "col_2": "E-Voting",
-            "col_3": "568911129",
-            "col_4": "568911129",
-            "col_5": "100.0000",
-            "col_6": "568911129",
-            "col_7": "0",
-            "col_8": "100.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Postal Ballot (if applicable)",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Total",
-            "col_3": "568911129",
-            "col_4": "568911129",
-            "col_5": "100.0000",
-            "col_6": "568911129",
-            "col_7": "0",
-            "col_8": "100.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "Public- Institutions",
-            "col_2": "E-Voting",
-            "col_3": "175746525",
-            "col_4": "152417412",
-            "col_5": "86.7257",
-            "col_6": "125121416",
-            "col_7": "27295996",
-            "col_8": "82.0913",
-            "col_9": "17.9087"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Postal Ballot (if applicable)",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Total",
-            "col_3": "175746525",
-            "col_4": "152417412",
-            "col_5": "86.7257",
-            "col_6": "125121416",
-            "col_7": "27295996",
-            "col_8": "82.0913",
-            "col_9": "17.9087"
-          },
-          {
-            "Resolution (1)": "Public- Non Institutions",
-            "col_2": "E-Voting",
-            "col_3": "472157412",
-            "col_4": "106383334",
-            "col_5": "22.5313",
-            "col_6": "106313718",
-            "col_7": "69616",
-            "col_8": "99.9346",
-            "col_9": "0.0654"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Postal Ballot (if applicable)",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (1)": "",
-            "col_2": "Total",
-            "col_3": "472157412",
-            "col_4": "106383334",
-            "col_5": "22.5313",
-            "col_6": "106313718",
-            "col_7": "69616",
-            "col_8": "99.9346",
-            "col_9": "0.0654"
-          },
-          {
-            "Resolution (1)": "Total Total",
-            "col_2": "",
-            "col_3": "1216815066",
-            "col_4": "827711875",
-            "col_5": "68.0228",
-            "col_6": "800346263",
-            "col_7": "27365612",
-            "col_8": "96.6938",
-            "col_9": "3.3062"
-          },
-          {
-            "Resolution (1)": "Whether resolution is Pass or Not.",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "Yes",
-            "col_9": ""
-          },
-          {
-            "Resolution (1)": "Disclosure of notes on resolution",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "Add Notes",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 20,
-        "rows": [
-          {
-            "Resolution (2)": "Resolution required: (Ordinary / Special)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Special",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Resolution (2)": "Whether promoter/promoter group are interested in the agenda/resolution?",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "No",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Resolution (2)": "Description of resolution considered",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Extending the benefits of the ‘Aditya Birla Fashion and Retail Limited Employee Stock Option Scheme 2026’ (“ABFRL ESOP Scheme 2026”) to employees of the subsidiary company(ies) of the Company.",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Resolution (2)": "Category",
-            "col_2": "Mode of voting",
-            "col_3": "No. of shares held",
-            "col_4": "No. of votes polled",
-            "col_5": "% of Votes polled on outstanding shares",
-            "col_6": "No. of votes – in favour",
-            "col_7": "No. of votes – against",
-            "col_8": "% of votes in favour on votes polled",
-            "col_9": "% of Votes against on votes polled"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "",
-            "col_3": "(1)",
-            "col_4": "(2)",
-            "col_5": "(3)=[(2)/(1)]*100",
-            "col_6": "(4)",
-            "col_7": "(5)",
-            "col_8": "(6)=[(4)/(2)]*100",
-            "col_9": "(7)=[(5)/(2)]*100"
-          },
-          {
-            "Resolution (2)": "Promoter and Promoter Group",
-            "col_2": "E-Voting",
-            "col_3": "568911129",
-            "col_4": "568911129",
-            "col_5": "100.0000",
-            "col_6": "568911129",
-            "col_7": "0",
-            "col_8": "100.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Postal Ballot (if applicable)",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Total",
-            "col_3": "568911129",
-            "col_4": "568911129",
-            "col_5": "100.0000",
-            "col_6": "568911129",
-            "col_7": "0",
-            "col_8": "100.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "Public- Institutions",
-            "col_2": "E-Voting",
-            "col_3": "175746525",
-            "col_4": "152417412",
-            "col_5": "86.7257",
-            "col_6": "125121416",
-            "col_7": "27295996",
-            "col_8": "82.0913",
-            "col_9": "17.9087"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Postal Ballot (if applicable)",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Total",
-            "col_3": "175746525",
-            "col_4": "152417412",
-            "col_5": "86.7257",
-            "col_6": "125121416",
-            "col_7": "27295996",
-            "col_8": "82.0913",
-            "col_9": "17.9087"
-          },
-          {
-            "Resolution (2)": "Public- Non Institutions",
-            "col_2": "E-Voting",
-            "col_3": "472157412",
-            "col_4": "106383309",
-            "col_5": "22.5313",
-            "col_6": "106312597",
-            "col_7": "70712",
-            "col_8": "99.9335",
-            "col_9": "0.0665"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Postal Ballot (if applicable)",
-            "col_3": "",
-            "col_4": "0",
-            "col_5": "0.0000",
-            "col_6": "0",
-            "col_7": "0",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Resolution (2)": "",
-            "col_2": "Total",
-            "col_3": "472157412",
-            "col_4": "106383309",
-            "col_5": "22.5313",
-            "col_6": "106312597",
-            "col_7": "70712",
-            "col_8": "99.9335",
-            "col_9": "0.0665"
-          },
-          {
-            "Resolution (2)": "Total Total",
-            "col_2": "",
-            "col_3": "1216815066",
-            "col_4": "827711850",
-            "col_5": "68.0228",
-            "col_6": "800345142",
-            "col_7": "27366708",
-            "col_8": "96.6937",
-            "col_9": "3.3063"
-          },
-          {
-            "Resolution (2)": "Whether resolution is Pass or Not.",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "Yes",
-            "col_9": ""
-          },
-          {
-            "Resolution (2)": "Disclosure of notes on resolution",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "Add Notes",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Resolution Required :Special",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "2 -To approve extending the benefits of the'A ditya Birla Fashion and Retail limited Employee Stock r Option Scheme 2026' ABFRL ESOP Scheme 2026\"} to employees of the subsidiary company(ies) of the Company.",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Whether promoter/ promoter group are interested in the agenda/resolution?",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "No",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": ""
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Category",
-            "col_2": "Mode of Voting",
-            "col_3": "No. of shares held",
-            "col_4": "No. of votes polled",
-            "col_5": "% of Votes Polled on outstanding shares",
-            "col_6": "No. of Votes - in favour",
-            "col_7": "No. of Votes -Against",
-            "col_8": "% of Votes in favour on votes polled",
-            "col_9": "% of Votes against on votes polled"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "",
-            "col_3": "(1)",
-            "col_4": "(2)",
-            "col_5": "[3]={(2)/(11}* 100",
-            "col_6": "(4)",
-            "col_7": "[SJ",
-            "col_8": "[6]={[ 4)/[2)}* 100",
-            "col_9": "(7)={[5]/(21}* 100"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Promoter and Promoter Group",
-            "col_2": "E-Voting",
-            "col_3": "56,89,11,129",
-            "col_4": "56,89,11,129",
-            "col_5": "100.0000",
-            "col_6": "56,89,11,129",
-            "col_7": "-",
-            "col_8": "100.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "0.0000",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Postal Ballot",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "0.0000",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Total",
-            "col_3": "",
-            "col_4": "56,89,11,129",
-            "col_5": "100.0000",
-            "col_6": "56,89,11,129",
-            "col_7": "-",
-            "col_8": "100.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Public Institutions",
-            "col_2": "E-Voting",
-            "col_3": "17,57,46,525",
-            "col_4": "15,24,17,412",
-            "col_5": "86.7257",
-            "col_6": "12,51,21,416",
-            "col_7": "2, 72,95,996",
-            "col_8": "82.0913",
-            "col_9": "17.9087"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "0.0000",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Postal Ballot",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "0.0000",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Total",
-            "col_3": "",
-            "col_4": "15,24,17,412",
-            "col_5": "86.7257",
-            "col_6": "12,51,21,416",
-            "col_7": "2,72,95,996",
-            "col_8": "82.0913",
-            "col_9": "17.9087"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Public Non Institutions",
-            "col_2": "E-Voting",
-            "col_3": "47,21,57,412",
-            "col_4": "10,63,83,309",
-            "col_5": "22.5313",
-            "col_6": "10,63,12,597",
-            "col_7": "70,712",
-            "col_8": "99.9335",
-            "col_9": "0.0665"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Poll",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "0.0000",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Postal Ballot",
-            "col_3": "",
-            "col_4": "-",
-            "col_5": "0.0000",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "0.0000",
-            "col_9": "0.0000"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "",
-            "col_2": "Total",
-            "col_3": "",
-            "col_4": "10,63,83,309",
-            "col_5": "22.5313",
-            "col_6": "10,63,12,597",
-            "col_7": "70,712",
-            "col_8": "99.9335",
-            "col_9": "0.0665"
-          },
-          {
-            "Aditya Birla Fashion And Retail Limited.": "Total",
-            "col_2": "",
-            "col_3": "1,21,68,15,066",
-            "col_4": "82,77,11,850",
-            "col_5": "68.0228",
-            "col_6": "80,03,45,142",
-            "col_7": "2,73,66,708",
-            "col_8": "96.6937",
-            "col_9": "3.3063"
-          }
-        ]
-      }
-    ]
   }
 ]
