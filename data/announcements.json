@@ -1,5 +1,848 @@
 [
   {
+    "NEWSID": "f2326773-9a8c-4fab-a3ca-24106afd67da",
+    "SCRIP_CD": 500103,
+    "XML_NAME": "ANN_500103_F2326773-9A8C-4FAB-A3CA-24106AFD67DA",
+    "NEWSSUB": "Bharat Heavy Electricals Ltd - 500103 - Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
+    "DT_TM": "2026-11-04T08:56:33.97",
+    "NEWS_DT": "2026-11-04T08:56:33.97",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c3981dea-9bb4-4685-8dd1-54faf1c58b1f.pdf",
+    "MORE": "",
+    "HEADLINE": "Receipt of orders/ contracts",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
+    "SLONGNAME": "Bharat Heavy Electricals Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:56:33",
+    "DissemDT": "2026-11-04T08:56:33.97",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 956545,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Date & Order Details (04‑Nov‑2026):** BHEL announced receipt of orders from Adani Power Limited for four 2 × 800 MW power projects, covering supply of boilers, turbines, generators, auxiliaries and related services.  \n\n- **Contract Value:** Each of the four projects is valued at approximately **₹5,000 – ₹7,000 crore (excluding GST)**, representing a significant multi‑billion‑rupee order portfolio for BHEL.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "6dfdddad-c6f4-458f-bca6-34fa764d9b5b",
+    "SCRIP_CD": 532281,
+    "XML_NAME": "ANN_532281_6DFDDDAD-C6F4-458F-BCA6-34FA764D9B5B",
+    "NEWSSUB": "HCL Technologies Ltd - 532281 - Intimation Of Participation By The Company In Investor Conferences",
+    "DT_TM": "2026-11-04T08:42:46.463",
+    "NEWS_DT": "2026-11-04T08:42:46.463",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6f1063ee-b483-44eb-9189-521752288580.pdf",
+    "MORE": "",
+    "HEADLINE": "Enclosed please find an intimation on the captioned subject.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hcl-technologies-ltd/hcltech/532281/",
+    "SLONGNAME": "HCL Technologies Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:42:46",
+    "DissemDT": "2026-11-04T08:42:46.463",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 261144,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- HCL Technologies will take part in three investor conferences:  \n  • JM Financial Annual India Conference – Nov 16‑18 2026, Mumbai",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1a265fea-91c8-407b-9066-5001ed6c5a63",
+    "SCRIP_CD": 544823,
+    "XML_NAME": "ANN_544823_1A265FEA-91C8-407B-9066-5001ED6C5A63",
+    "NEWSSUB": "Devson Catalyst Ltd - 544823 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-04T08:41:33.913",
+    "NEWS_DT": "2026-11-04T08:41:33.913",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5f9cceaa-8943-4e5d-af4c-d6a9a2a20698.pdf",
+    "MORE": "",
+    "HEADLINE": "We submit herewith investor presentation on H1 FY27 performance",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/devson-catalyst-ltd/devson/544823/",
+    "SLONGNAME": "Devson Catalyst Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:41:33",
+    "DissemDT": "2026-11-04T08:41:33.913",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3731209,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement only informs that Devson Catalyst Ltd has submitted an Investor Presentation covering its H1 FY‑27 performance; the presentation is attached to the filing and will also be posted on the company’s website (www.devsongroup.com).  \n\n- No specific financial figures, dates (beyond the filing date Nov 4 2026) or decisions are disclosed in the text itself.",
+    "key_metrics": {
+      "revenue": "3168.78",
+      "net_profit": "1.14",
+      "operating_profit": "971.62",
+      "total_assets": "4162.76",
+      "eps": "12.220",
+      "face_value": "10",
+      "roce": "36.67",
+      "roe": "48",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "",
+            "HY1 FY26": "Amount",
+            "col_3": "(%)",
+            "HY1 FY27": "Amount",
+            "col_5": "(%)"
+          },
+          {
+            "Particulars": "Domestic Sales",
+            "HY1 FY26": "1768.43",
+            "col_3": "57.05%",
+            "HY1 FY27": "2950.26",
+            "col_5": "93.28%"
+          },
+          {
+            "Particulars": "Export Sales",
+            "HY1 FY26": "1331.61",
+            "col_3": "42.95%",
+            "HY1 FY27": "212.42",
+            "col_5": "6.72%"
+          },
+          {
+            "Particulars": "Total Revenue",
+            "HY1 FY26": "3100.04",
+            "col_3": "100.00%",
+            "HY1 FY27": "3162.68",
+            "col_5": "100.00%"
+          }
+        ]
+      },
+      {
+        "page": 23,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "INCOME STATEMENT": "Revenue from Operations",
+            "H1 FY27": "3,168.78",
+            "H1 FY26": "3,133.20",
+            "YOY": "1.14%"
+          },
+          {
+            "INCOME STATEMENT": "Other Income",
+            "H1 FY27": "53.09",
+            "H1 FY26": "50.7",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Total Income",
+            "H1 FY27": "3,221.87",
+            "H1 FY26": "3,183.90",
+            "YOY": "1.19%"
+          },
+          {
+            "INCOME STATEMENT": "Cost of Materials Consumed",
+            "H1 FY27": "1,608.34",
+            "H1 FY26": "1,452.08",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Purchases of Stock-in-Trade",
+            "H1 FY27": "193.61",
+            "H1 FY26": "190.56",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Changes in Inventories",
+            "H1 FY27": "-154.47",
+            "H1 FY26": "-32.43",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Employee Benefit Expense",
+            "H1 FY27": "217.01",
+            "H1 FY26": "212.25",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Other Expenses",
+            "H1 FY27": "332.67",
+            "H1 FY26": "428.49",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Total Expense",
+            "H1 FY27": "2,197.16",
+            "H1 FY26": "2,250.95",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "EBITDA",
+            "H1 FY27": "971.62",
+            "H1 FY26": "882.25",
+            "YOY": "10.13%"
+          },
+          {
+            "INCOME STATEMENT": "EBITDA Margin (%)",
+            "H1 FY27": "30.66%",
+            "H1 FY26": "28.16%",
+            "YOY": "250 BPS"
+          },
+          {
+            "INCOME STATEMENT": "Depreciation and Amortisation Expenses",
+            "H1 FY27": "32.61",
+            "H1 FY26": "25.44",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "EBIT",
+            "H1 FY27": "939.01",
+            "H1 FY26": "856.81",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Finance Cost",
+            "H1 FY27": "11.82",
+            "H1 FY26": "17.55",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Profit Before Tax",
+            "H1 FY27": "927.19",
+            "H1 FY26": "839.26",
+            "YOY": "10.1%"
+          },
+          {
+            "INCOME STATEMENT": "Tax Expense",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Current Tax",
+            "H1 FY27": "222.71",
+            "H1 FY26": "219.92",
+            "YOY": "1.3%"
+          },
+          {
+            "INCOME STATEMENT": "Prior Period Tax",
+            "H1 FY27": "-2.89",
+            "H1 FY26": "-",
+            "YOY": ""
+          },
+          {
+            "INCOME STATEMENT": "Deferred Tax",
+            "H1 FY27": "10.1",
+            "H1 FY26": "6.71",
+            "YOY": "50.5%"
+          },
+          {
+            "INCOME STATEMENT": "PAT",
+            "H1 FY27": "750.36",
+            "H1 FY26": "663.33",
+            "YOY": "13.12%"
+          },
+          {
+            "INCOME STATEMENT": "PAT Margin",
+            "H1 FY27": "23.68%",
+            "H1 FY26": "21.17%",
+            "YOY": "251 BPS"
+          }
+        ]
+      },
+      {
+        "page": 25,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "PARTICULARS": "Revenue from Operations",
+            "FY26": "5577.59",
+            "FY25": "5,319.21",
+            "FY24": "4,346.99"
+          },
+          {
+            "PARTICULARS": "Other Income",
+            "FY26": "106.85",
+            "FY25": "34.68",
+            "FY24": "28.05"
+          },
+          {
+            "PARTICULARS": "Total Revenue",
+            "FY26": "5684.44",
+            "FY25": "5,353.89",
+            "FY24": "4,375.04"
+          },
+          {
+            "PARTICULARS": "Cost of Material Consumed / COGS",
+            "FY26": "2951.94",
+            "FY25": "2,528.06",
+            "FY24": "2,590.39"
+          },
+          {
+            "PARTICULARS": "Purchase of Stock-in-Trade",
+            "FY26": "248.22",
+            "FY25": "835.62",
+            "FY24": "177.39"
+          },
+          {
+            "PARTICULARS": "Change in Inventories",
+            "FY26": "-483.34",
+            "FY25": "(67.48)",
+            "FY24": "102.50"
+          },
+          {
+            "PARTICULARS": "Employee Benefit Expense",
+            "FY26": "434.80",
+            "FY25": "385.62",
+            "FY24": "304.90"
+          },
+          {
+            "PARTICULARS": "Other Expenses",
+            "FY26": "749.51",
+            "FY25": "544.21",
+            "FY24": "502.72"
+          },
+          {
+            "PARTICULARS": "Total Expense",
+            "FY26": "3901.13",
+            "FY25": "4,226.03",
+            "FY24": "3,677.90"
+          },
+          {
+            "PARTICULARS": "EBITDA",
+            "FY26": "1676.46",
+            "FY25": "1,093.17",
+            "FY24": "669.08"
+          },
+          {
+            "PARTICULARS": "EBITDA Margin (%)",
+            "FY26": "29.49%",
+            "FY25": "20.42%",
+            "FY24": "15.29%"
+          },
+          {
+            "PARTICULARS": "Depreciation & Amortisation",
+            "FY26": "56.04",
+            "FY25": "52.03",
+            "FY24": "39.33"
+          },
+          {
+            "PARTICULARS": "EBIT",
+            "FY26": "1620.42",
+            "FY25": "1,041.15",
+            "FY24": "629.76"
+          },
+          {
+            "PARTICULARS": "Finance Costs",
+            "FY26": "44.08",
+            "FY25": "37.87",
+            "FY24": "89.94"
+          },
+          {
+            "PARTICULARS": "Profit Before Tax",
+            "FY26": "1683.19",
+            "FY25": "1037.96",
+            "FY24": "567.87"
+          },
+          {
+            "PARTICULARS": "Current Tax",
+            "FY26": "432.27",
+            "FY25": "269.08",
+            "FY24": "153.75"
+          },
+          {
+            "PARTICULARS": "Deferred Tax",
+            "FY26": "-1.17",
+            "FY25": "1.65",
+            "FY24": "6.28"
+          },
+          {
+            "PARTICULARS": "Total Tax Expense",
+            "FY26": "431.10",
+            "FY25": "270.73",
+            "FY24": "160.03"
+          },
+          {
+            "PARTICULARS": "Net Profit / PAT",
+            "FY26": "1252.09",
+            "FY25": "767.23",
+            "FY24": "407.84"
+          },
+          {
+            "PARTICULARS": "Net Profit Margin (%)",
+            "FY26": "22.45%",
+            "FY25": "14.42%",
+            "FY24": "9.38%"
+          },
+          {
+            "PARTICULARS": "EPS (Diluted)",
+            "FY26": "12.220",
+            "FY25": "7.490",
+            "FY24": "3.980"
+          }
+        ]
+      },
+      {
+        "page": 26,
+        "table_index": 0,
+        "row_count": 17,
+        "rows": [
+          {
+            "EQUITY & LIABILITIES": "Equity Share Capital",
+            "FY26": "1,025.00",
+            "FY25": "25.00",
+            "FY24": "25.00"
+          },
+          {
+            "EQUITY & LIABILITIES": "Other Equity",
+            "FY26": "2,324.82",
+            "FY25": "2,072.73",
+            "FY24": "1,305.50"
+          },
+          {
+            "EQUITY & LIABILITIES": "Total Shareholders’ Equity",
+            "FY26": "3,349.82",
+            "FY25": "2,097.73",
+            "FY24": "1,330.50"
+          },
+          {
+            "EQUITY & LIABILITIES": "Non-Current Liabilities",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "EQUITY & LIABILITIES": "Borrowings (Non-Current)",
+            "FY26": "89.25",
+            "FY25": "8.87",
+            "FY24": "18.75"
+          },
+          {
+            "EQUITY & LIABILITIES": "Lease Liabilities",
+            "FY26": "",
+            "FY25": "",
+            "FY24": "16.39"
+          },
+          {
+            "EQUITY & LIABILITIES": "Provisions (Non-Current)",
+            "FY26": "9.36",
+            "FY25": "7.05",
+            "FY24": "6.15"
+          },
+          {
+            "EQUITY & LIABILITIES": "Deferred Tax Liabilities",
+            "FY26": "28.62",
+            "FY25": "29.79",
+            "FY24": "28.14"
+          },
+          {
+            "EQUITY & LIABILITIES": "Total Non-Current Liabilities",
+            "FY26": "127.23",
+            "FY25": "45.71",
+            "FY24": "69.43"
+          },
+          {
+            "EQUITY & LIABILITIES": "Current Liabilities",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "EQUITY & LIABILITIES": "Trade Payables – MSME",
+            "FY26": "139.29",
+            "FY25": "127.32",
+            "FY24": "76.55"
+          },
+          {
+            "EQUITY & LIABILITIES": "Trade Payables – Others",
+            "FY26": "189.52",
+            "FY25": "89.47",
+            "FY24": "91.08"
+          },
+          {
+            "EQUITY & LIABILITIES": "Borrowings",
+            "FY26": "160.86",
+            "FY25": "269.59",
+            "FY24": "416.63"
+          },
+          {
+            "EQUITY & LIABILITIES": "Other Current Liabilities",
+            "FY26": "88.76",
+            "FY25": "93.57",
+            "FY24": "60.56"
+          },
+          {
+            "EQUITY & LIABILITIES": "Provisions / Current Tax Liabilities",
+            "FY26": "107.28",
+            "FY25": "14.26",
+            "FY24": "103.93"
+          },
+          {
+            "EQUITY & LIABILITIES": "Total Current Liabilities",
+            "FY26": "685.71",
+            "FY25": "594.21",
+            "FY24": "748.75"
+          },
+          {
+            "EQUITY & LIABILITIES": "Total Liabilities",
+            "FY26": "4,162.76",
+            "FY25": "2,737.65",
+            "FY24": "2,148.68"
+          }
+        ]
+      },
+      {
+        "page": 26,
+        "table_index": 1,
+        "row_count": 13,
+        "rows": [
+          {
+            "ASSETS": "Non-Current Assets",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "ASSETS": "Property, Plant & Equipment",
+            "FY26": "1,170.51",
+            "FY25": "677.48",
+            "FY24": "723.95"
+          },
+          {
+            "ASSETS": "Other Non-Current Assets",
+            "FY26": "114.04",
+            "FY25": "86.97",
+            "FY24": "72.44"
+          },
+          {
+            "ASSETS": "Total Non-Current Assets",
+            "FY26": "1,298.72",
+            "FY25": "798.49",
+            "FY24": "796.39"
+          },
+          {
+            "ASSETS": "Current Assets",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "ASSETS": "Inventories",
+            "FY26": "774.77",
+            "FY25": "277.17",
+            "FY24": "213.84"
+          },
+          {
+            "ASSETS": "Trade Receivables",
+            "FY26": "1,675.32",
+            "FY25": "1,266.56",
+            "FY24": "799.55"
+          },
+          {
+            "ASSETS": "Cash & Cash Equivalents",
+            "FY26": "216.50",
+            "FY25": "126.38",
+            "FY24": "115.93"
+          },
+          {
+            "ASSETS": "Current Investments",
+            "FY26": "",
+            "FY25": "203.99",
+            "FY24": ""
+          },
+          {
+            "ASSETS": "Loans / Advances",
+            "FY26": "118.95",
+            "FY25": "37.72",
+            "FY24": "210.51"
+          },
+          {
+            "ASSETS": "Other Current Assets",
+            "FY26": "78.50",
+            "FY25": "27.34",
+            "FY24": "12.46"
+          },
+          {
+            "ASSETS": "Total Current Assets",
+            "FY26": "2,864.04",
+            "FY25": "1,939.16",
+            "FY24": "1,352.29"
+          },
+          {
+            "ASSETS": "Total Assets",
+            "FY26": "4,162.76",
+            "FY25": "2,737.65",
+            "FY24": "2,148.68"
+          }
+        ]
+      },
+      {
+        "page": 27,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "Net Cash Flow from Operating Activities",
+            "FY26": "455.64",
+            "FY25": "450.08",
+            "FY24": "20.77"
+          },
+          {
+            "Particulars": "Net Cash Flow from Investing Activities",
+            "FY26": "(294.90)",
+            "FY25": "(247.43)",
+            "FY24": "(261.44)"
+          },
+          {
+            "Particulars": "Net Cash Flow from Financing Activities",
+            "FY26": "(70.62)",
+            "FY25": "(192.19)",
+            "FY24": "262.36"
+          },
+          {
+            "Particulars": "Net increase /(decrease) in Cash and cash equivalents (A+B+C)",
+            "FY26": "90.12",
+            "FY25": "10.46",
+            "FY24": "21.69"
+          },
+          {
+            "Particulars": "Opening Cash & Cash Equivalents",
+            "FY26": "126.38",
+            "FY25": "115.93",
+            "FY24": "94.23"
+          },
+          {
+            "Particulars": "Closing Cash & Cash Equivalents",
+            "FY26": "216.50",
+            "FY25": "126.39",
+            "FY24": "115.92"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "49365d85-d93b-4687-b575-b1b5ab48d451",
+    "SCRIP_CD": 500227,
+    "XML_NAME": "ANN_500227_49365D85-D93B-4687-B575-B1B5AB48D451",
+    "NEWSSUB": "Jindal Poly Films Ltd - 500227 - Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations,\r\n2015",
+    "DT_TM": "2026-11-04T08:33:58.19",
+    "NEWS_DT": "2026-11-04T08:33:58.19",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f3517a79-28ff-48f2-b48b-6ab94bf1dff8.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/jindal-poly-films-ltd/jindalpoly/500227/",
+    "SLONGNAME": "Jindal Poly Films Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:33:58",
+    "DissemDT": "2026-11-04T08:33:58.19",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 614578,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "99d7b0e5-ef80-4080-9b73-b9d07b484712",
+    "SCRIP_CD": 543243,
+    "XML_NAME": "ANN_543243_99D7B0E5-EF80-4080-9B73-B9D07B484712",
+    "NEWSSUB": "Equitas Small Finance Bank Ltd - 543243 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-04T08:33:29.707",
+    "NEWS_DT": "2026-11-04T08:33:29.707",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4b6a3b6b-336c-47c7-9082-6a9e7feddbb8.pdf",
+    "MORE": "Equitas Small Finance Bank Limited has informed the Exchanges regarding the Press release dated November 04,2026 titled \"Equitas Small Finance Bank Limited announces Mr. Balaji Nuthalapadi as Interim CEO, subject to RBI approval\"",
+    "HEADLINE": "Equitas Small Finance Bank Limited has informed the Exchanges regarding the Press release dated November 04,2026 titled \"Equitas Small Finance Bank Limited announces Mr. Balaji Nuthalapadi ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/equitas-small-finance-bank-ltd/equitasbnk/543243/",
+    "SLONGNAME": "Equitas Small Finance Bank Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:33:29",
+    "DissemDT": "2026-11-04T08:33:29.707",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 365337,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Leadership change announced on 4 Nov 2026:** The Board approved the appointment of Mr. Balaji Nuthalapadi (currently Whole‑Time Director/Executive Director) as Interim Chief Executive Officer, effective upon RBI approval, following the resignation of Mr. P.N. Vasudevan as Managing Director & CEO. The Board has also begun the process to identify a permanent successor.\n\n- **Financial details:** The release contains no monetary figures, financial metrics, or other quantitative financial",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "cb1d66ac-bec0-4d32-83e9-749bf67b6dcb",
+    "SCRIP_CD": 544198,
+    "XML_NAME": "ANN_544198_CB1D66AC-BEC0-4D32-83E9-749BF67B6DCB",
+    "NEWSSUB": "Dee Development Engineers Ltd - 544198 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-04T08:30:47.84",
+    "NEWS_DT": "2026-11-04T08:30:47.84",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5af20912-a1ab-4f1e-8cbb-b1ac021a5e90.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Revision in Credit Rating",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+    "SLONGNAME": "Dee Development Engineers Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:30:47",
+    "DissemDT": "2026-11-04T08:30:47.84",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 799715,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "Sr. No.": "1.",
+            "Name of Bank / Lender": "Yes Bank Ltd.",
+            "Rated Amount (Rs. crore)": "67.03",
+            "Debt Repayment Terms": "To be repaid in 60 monthly installments of Rs.1.13 crore each which started from October, 2026 to September, 2031.*"
+          },
+          {
+            "Sr. No.": "2.",
+            "Name of Bank / Lender": "Bandhan Bank Ltd.",
+            "Rated Amount (Rs. crore)": "22.81",
+            "Debt Repayment Terms": "To be repaid in 60 monthly installments of Rs.38.33 lakhs each which started from October, 2026 to September, 2031.*"
+          },
+          {
+            "Sr. No.": "3.",
+            "Name of Bank / Lender": "Bandhan Bank Ltd.",
+            "Rated Amount (Rs. crore)": "17.84",
+            "Debt Repayment Terms": "To be repaid in 60 monthly installments of Rs.30.00 lakhs each which started from October, 2026 to September, 2031.*"
+          },
+          {
+            "Sr. No.": "4.",
+            "Name of Bank / Lender": "IndusInd Bank Ltd.",
+            "Rated Amount (Rs. crore)": "15.65",
+            "Debt Repayment Terms": "To be repaid in 24 quarterly installments; out of which 4 equal quarterly installments of Rs.42.50 lakhs in first years and rest 20 quarterly installments of Rs.82.88 lakhs started from June, 2025 to February, 2031.*"
+          },
+          {
+            "Sr. No.": "5.",
+            "Name of Bank / Lender": "Bandhan Bank Ltd.",
+            "Rated Amount (Rs. crore)": "12.01",
+            "Debt Repayment Terms": "To be repaid in 54 monthly installments of Rs.46.30 lakhs each which started from May, 2024 to October, 2026.*"
+          },
+          {
+            "Sr. No.": "6.",
+            "Name of Bank / Lender": "Yes Bank Ltd.",
+            "Rated Amount (Rs. crore)": "9.00",
+            "Debt Repayment Terms": "To be repaid in 20 quarterly installments of Rs.50 lakhs started from September 2025 to June, 2030.*"
+          },
+          {
+            "Sr. No.": "7.",
+            "Name of Bank / Lender": "IndusInd Bank Ltd.",
+            "Rated Amount (Rs. crore)": "5.99",
+            "Debt Repayment Terms": "To be repaid in 54 monthly installments; out of which 52 monthly installments of Rs.27.50 lakhs and last 2 installments of Rs.70.00 lakhs started from February, 2024 to July, 2028.*"
+          },
+          {
+            "Sr. No.": "8.",
+            "Name of Bank / Lender": "Yes Bank Ltd.",
+            "Rated Amount (Rs. crore)": "5.24",
+            "Debt Repayment Terms": "To be repaid in 20 quarterly installments of Rs.75 lakhs started from July 2023 to April, 2028.*"
+          },
+          {
+            "Sr. No.": "9.",
+            "Name of Bank / Lender": "Yes Bank Ltd.",
+            "Rated Amount (Rs. crore)": "3.00",
+            "Debt Repayment Terms": "To be repaid in 20 quarterly installments of Rs.75 lakhs started from October 2022 to July, 2027.*"
+          },
+          {
+            "Sr. No.": "10.",
+            "Name of Bank / Lender": "Bank of India",
+            "Rated Amount (Rs. crore)": "0.62",
+            "Debt Repayment Terms": "To be repaid in 48 monthly installments of Rs.31.04 lakhs started from November, 2022 to October, 2026.*"
+          },
+          {
+            "Sr. No.": "",
+            "Name of Bank / Lender": "Total",
+            "Rated Amount (Rs. crore)": "159.19",
+            "Debt Repayment Terms": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "9cade926-a995-4b4a-aea0-38aa7baf4828",
     "SCRIP_CD": 534597,
     "XML_NAME": "ANN_534597_9CADE926-A995-4B4A-AEA0-38AA7BAF4828",
@@ -17485,1621 +18328,6 @@
     "TimeDiff": "00:00:01",
     "Fld_Attachsize": 8165301,
     "SUBCATNAME": "Change in Directorate",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "22429",
-      "net_profit": "234.44 lakh",
-      "total_assets": "96746",
-      "total_equity": "70350",
-      "dividend": "304",
-      "face_value": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "db42f926-0ee4-454d-acbc-3844786fdcac",
-    "SCRIP_CD": 532735,
-    "XML_NAME": "ANN_532735_DB42F926-0EE4-454D-ACBC-3844786FDCAC",
-    "NEWSSUB": "R Systems International Ltd - 532735 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-03T22:05:37.03",
-    "NEWS_DT": "2026-11-03T22:05:37.03",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "57dbbf37-a7ab-4e1d-8acf-94e741f337fb.pdf",
-    "MORE": "",
-    "HEADLINE": "As enclosed.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/r-systems-international-ltd/rsystems/532735/",
-    "SLONGNAME": "R Systems International Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 43,
-    "News_submission_dt": "2026-11-03T22:05:37",
-    "DissemDT": "2026-11-03T22:05:37.03",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1009967,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "6152",
-      "net_profit": "665",
-      "operating_profit": "1244",
-      "eps": "3",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "₹ in M except per share data": "Revenue",
-            "Q3 2026": "6,152",
-            "Q3 2025": "4,986",
-            "Growth% (YoY)": "23.4%"
-          },
-          {
-            "₹ in M except per share data": "Adj. EBITDA",
-            "Q3 2026": "1,244",
-            "Q3 2025": "844",
-            "Growth% (YoY)": "47.4%"
-          },
-          {
-            "₹ in M except per share data": "Adj. EBITDA %",
-            "Q3 2026": "20.2%",
-            "Q3 2025": "16.9%",
-            "Growth% (YoY)": "329bps"
-          },
-          {
-            "₹ in M except per share data": "Adj. Net Profit",
-            "Q3 2026": "665",
-            "Q3 2025": "434",
-            "Growth% (YoY)": "53.1%"
-          },
-          {
-            "₹ in M except per share data": "Adj. Net Profit %",
-            "Q3 2026": "10.8%",
-            "Q3 2025": "8.7%",
-            "Growth% (YoY)": "210bps"
-          },
-          {
-            "₹ in M except per share data": "Adj. Basic EPS",
-            "Q3 2026": "5.6",
-            "Q3 2025": "3.7",
-            "Growth% (YoY)": "53.0%"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "₹ in M except per share data": "Revenue",
-            "Q3 2026": "6,152",
-            "Q2 2026": "6,017",
-            "Growth% (QoQ)": "2.2%"
-          },
-          {
-            "₹ in M except per share data": "Adj. EBITDA",
-            "Q3 2026": "1,244",
-            "Q2 2026": "1,207",
-            "Growth% (QoQ)": "3.1%"
-          },
-          {
-            "₹ in M except per share data": "Adj. EBITDA %",
-            "Q3 2026": "20.2%",
-            "Q2 2026": "20.1%",
-            "Growth% (QoQ)": "16bps"
-          },
-          {
-            "₹ in M except per share data": "Adj. Net Profit",
-            "Q3 2026": "665",
-            "Q2 2026": "629",
-            "Growth% (QoQ)": "5.7%"
-          },
-          {
-            "₹ in M except per share data": "Adj. Net Profit %",
-            "Q3 2026": "10.8%",
-            "Q2 2026": "10.5%",
-            "Growth% (QoQ)": "35bps"
-          },
-          {
-            "₹ in M except per share data": "Adj. Basic EPS",
-            "Q3 2026": "5.6",
-            "Q2 2026": "5.3",
-            "Growth% (QoQ)": "5.7%"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "₹ in M except per share data": "Revenue",
-            "Jan to Sep 2026": "17,917",
-            "Jan to Sep 2025": "14,031",
-            "Growth% (YoY)": "27.7%",
-            "CY 2025": "19,582"
-          },
-          {
-            "₹ in M except per share data": "Adj. EBITDA",
-            "Jan to Sep 2026": "3,609",
-            "Jan to Sep 2025": "2,410",
-            "Growth% (YoY)": "49.7%",
-            "CY 2025": "3,427"
-          },
-          {
-            "₹ in M except per share data": "Adj. EBITDA %",
-            "Jan to Sep 2026": "20.1%",
-            "Jan to Sep 2025": "17.2%",
-            "Growth% (YoY)": "296bps",
-            "CY 2025": "17.5%"
-          },
-          {
-            "₹ in M except per share data": "Adj. Net Profit",
-            "Jan to Sep 2026": "2,051",
-            "Jan to Sep 2025": "1,332",
-            "Growth% (YoY)": "54.0%",
-            "CY 2025": "1,936"
-          },
-          {
-            "₹ in M except per share data": "Adj. Net Profit %",
-            "Jan to Sep 2026": "11.4%",
-            "Jan to Sep 2025": "9.5%",
-            "Growth% (YoY)": "196bps",
-            "CY 2025": "9.9%"
-          },
-          {
-            "₹ in M except per share data": "Adj. Basic EPS",
-            "Jan to Sep 2026": "17.3",
-            "Jan to Sep 2025": "11.3",
-            "Growth% (YoY)": "53.8%",
-            "CY 2025": "16.4"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "col_1": "Particulars",
-            "Q32026": "₹ in M",
-            "col_3": "US$ in M",
-            "Q2 2026": "₹ in M",
-            "col_5": "US$ in M",
-            "Q3 2025": "₹ in M",
-            "col_7": "US$ in M"
-          },
-          {
-            "col_1": "Revenues",
-            "Q32026": "6,152.0",
-            "col_3": "64.4",
-            "Q2 2026": "6,017.0",
-            "col_5": "63.6",
-            "Q3 2025": "4,986.2",
-            "col_7": "57.2"
-          },
-          {
-            "col_1": "Cost of revenues",
-            "Q32026": "3,777.2",
-            "col_3": "39.5",
-            "Q2 2026": "3,656.8",
-            "col_5": "38.6",
-            "Q3 2025": "3,214.0",
-            "col_7": "36.9"
-          },
-          {
-            "col_1": "Gross margin",
-            "Q32026": "2,374.8",
-            "col_3": "24.9",
-            "Q2 2026": "2,360.2",
-            "col_5": "25.0",
-            "Q3 2025": "1,772.2",
-            "col_7": "20.3"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Q32026": "38.6%",
-            "col_3": "",
-            "Q2 2026": "39.2%",
-            "col_5": "",
-            "Q3 2025": "35.5%",
-            "col_7": ""
-          },
-          {
-            "col_1": "SG&A Expenses",
-            "Q32026": "1,130.4",
-            "col_3": "11.9",
-            "Q2 2026": "1,152.7",
-            "col_5": "12.2",
-            "Q3 2025": "927.8",
-            "col_7": "10.6"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Q32026": "18.4%",
-            "col_3": "",
-            "Q2 2026": "19.2%",
-            "col_5": "",
-            "Q3 2025": "18.6%",
-            "col_7": ""
-          },
-          {
-            "col_1": "Adj. EBITDA",
-            "Q32026": "1,244.4",
-            "col_3": "13.0",
-            "Q2 2026": "1,207.5",
-            "col_5": "12.8",
-            "Q3 2025": "844.4",
-            "col_7": "9.7"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Q32026": "20.2%",
-            "col_3": "",
-            "Q2 2026": "20.1%",
-            "col_5": "",
-            "Q3 2025": "16.9%",
-            "col_7": ""
-          },
-          {
-            "col_1": "Cost of RSUs",
-            "Q32026": "32.3",
-            "col_3": "0.3",
-            "Q2 2026": "62.4",
-            "col_5": "0.7",
-            "Q3 2025": "70.5",
-            "col_7": "0.8"
-          },
-          {
-            "col_1": "EBITDA",
-            "Q32026": "1,212.2",
-            "col_3": "12.7",
-            "Q2 2026": "1,145.1",
-            "col_5": "12.1",
-            "Q3 2025": "773.9",
-            "col_7": "8.9"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Q32026": "19.7%",
-            "col_3": "",
-            "Q2 2026": "19.0%",
-            "col_5": "",
-            "Q3 2025": "15.5%",
-            "col_7": ""
-          },
-          {
-            "col_1": "Depreciation and amortization",
-            "Q32026": "229.2",
-            "col_3": "2.4",
-            "Q2 2026": "220.4",
-            "col_5": "2.3",
-            "Q3 2025": "166.1",
-            "col_7": "1.9"
-          },
-          {
-            "col_1": "EBIT before non-recurring cost",
-            "Q32026": "983.0",
-            "col_3": "10.3",
-            "Q2 2026": "924.7",
-            "col_5": "9.8",
-            "Q3 2025": "607.8",
-            "col_7": "7.0"
-          },
-          {
-            "col_1": "Non-recurring expense #",
-            "Q32026": "12.0",
-            "col_3": "0.1",
-            "Q2 2026": "16.1",
-            "col_5": "0.2",
-            "Q3 2025": "15.9",
-            "col_7": "0.2"
-          },
-          {
-            "col_1": "EBIT",
-            "Q32026": "971.0",
-            "col_3": "10.2",
-            "Q2 2026": "908.6",
-            "col_5": "9.6",
-            "Q3 2025": "591.9",
-            "col_7": "6.8"
-          },
-          {
-            "col_1": "Interest expense",
-            "Q32026": "(95.8)",
-            "col_3": "(1.0)",
-            "Q2 2026": "(94.8)",
-            "col_5": "(1.0)",
-            "Q3 2025": "(37.2)",
-            "col_7": "(0.5)"
-          },
-          {
-            "col_1": "Other income (net)",
-            "Q32026": "5.3",
-            "col_3": "0.0",
-            "Q2 2026": "(8.7)",
-            "col_5": "(0.1)",
-            "Q3 2025": "(19.8)",
-            "col_7": "(0.2)"
-          },
-          {
-            "col_1": "Income before income tax",
-            "Q32026": "880.5",
-            "col_3": "9.2",
-            "Q2 2026": "805.1",
-            "col_5": "8.5",
-            "Q3 2025": "534.9",
-            "col_7": "6.1"
-          },
-          {
-            "col_1": "Tax expense",
-            "Q32026": "238.7",
-            "col_3": "2.5",
-            "Q2 2026": "249.4",
-            "col_5": "2.6",
-            "Q3 2025": "181.5",
-            "col_7": "2.1"
-          },
-          {
-            "col_1": "Net profit ^",
-            "Q32026": "641.8",
-            "col_3": "6.7",
-            "Q2 2026": "555.7",
-            "col_5": "5.9",
-            "Q3 2025": "353.4",
-            "col_7": "4.0"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 21,
-        "rows": [
-          {
-            "col_1": "Particulars",
-            "Jan to Sep 2026": "₹ in M",
-            "col_3": "US$ in M",
-            "Jan to Sep 2025": "₹ in M",
-            "col_5": "US$ in M"
-          },
-          {
-            "col_1": "Revenues",
-            "Jan to Sep 2026": "17,916.7",
-            "col_3": "190.7",
-            "Jan to Sep 2025": "14,031.0",
-            "col_5": "162.3"
-          },
-          {
-            "col_1": "Cost of revenues",
-            "Jan to Sep 2026": "11,111.1",
-            "col_3": "118.3",
-            "Jan to Sep 2025": "8,971.2",
-            "col_5": "103.8"
-          },
-          {
-            "col_1": "Gross margin",
-            "Jan to Sep 2026": "6,805.6",
-            "col_3": "72.4",
-            "Jan to Sep 2025": "5,059.8",
-            "col_5": "58.5"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Jan to Sep 2026": "38.0%",
-            "col_3": "",
-            "Jan to Sep 2025": "36.1%",
-            "col_5": ""
-          },
-          {
-            "col_1": "SG&A Expenses",
-            "Jan to Sep 2026": "3,197.0",
-            "col_3": "34.0",
-            "Jan to Sep 2025": "2,649.9",
-            "col_5": "30.6"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Jan to Sep 2026": "17.8%",
-            "col_3": "",
-            "Jan to Sep 2025": "18.9%",
-            "col_5": ""
-          },
-          {
-            "col_1": "Adj. EBITDA",
-            "Jan to Sep 2026": "3,608.6",
-            "col_3": "38.4",
-            "Jan to Sep 2025": "2,410.0",
-            "col_5": "27.9"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Jan to Sep 2026": "20.1%",
-            "col_3": "",
-            "Jan to Sep 2025": "17.2%",
-            "col_5": ""
-          },
-          {
-            "col_1": "Cost of RSUs",
-            "Jan to Sep 2026": "158.8",
-            "col_3": "1.7",
-            "Jan to Sep 2025": "181.8",
-            "col_5": "2.1"
-          },
-          {
-            "col_1": "EBITDA",
-            "Jan to Sep 2026": "3,449.8",
-            "col_3": "36.7",
-            "Jan to Sep 2025": "2,228.2",
-            "col_5": "25.8"
-          },
-          {
-            "col_1": "% of Revenue",
-            "Jan to Sep 2026": "19.3%",
-            "col_3": "",
-            "Jan to Sep 2025": "15.9%",
-            "col_5": ""
-          },
-          {
-            "col_1": "Depreciation and amortization",
-            "Jan to Sep 2026": "664.6",
-            "col_3": "7.0",
-            "Jan to Sep 2025": "470.6",
-            "col_5": "5.4"
-          },
-          {
-            "col_1": "EBIT before non-recurring cost",
-            "Jan to Sep 2026": "2,785.2",
-            "col_3": "29.7",
-            "Jan to Sep 2025": "1,757.6",
-            "col_5": "20.3"
-          },
-          {
-            "col_1": "Non-recurring expense / (income) #",
-            "Jan to Sep 2026": "44.1",
-            "col_3": "0.5",
-            "Jan to Sep 2025": "(393.5)",
-            "col_5": "(4.6)"
-          },
-          {
-            "col_1": "EBIT",
-            "Jan to Sep 2026": "2,741.1",
-            "col_3": "29.2",
-            "Jan to Sep 2025": "2,151.1",
-            "col_5": "24.9"
-          },
-          {
-            "col_1": "Interest expense",
-            "Jan to Sep 2026": "(286.5)",
-            "col_3": "(3.1)",
-            "Jan to Sep 2025": "(73.5)",
-            "col_5": "(0.9)"
-          },
-          {
-            "col_1": "Other income (net) *",
-            "Jan to Sep 2026": "127.3",
-            "col_3": "1.4",
-            "Jan to Sep 2025": "16.4",
-            "col_5": "0.2"
-          },
-          {
-            "col_1": "Income before income tax",
-            "Jan to Sep 2026": "2,581.9",
-            "col_3": "27.5",
-            "Jan to Sep 2025": "2,094.0",
-            "col_5": "24.2"
-          },
-          {
-            "col_1": "Tax expense",
-            "Jan to Sep 2026": "730.2",
-            "col_3": "7.8",
-            "Jan to Sep 2025": "596.1",
-            "col_5": "6.9"
-          },
-          {
-            "col_1": "Net profit ^",
-            "Jan to Sep 2026": "1,851.7",
-            "col_3": "19.7",
-            "Jan to Sep 2025": "1,497.9",
-            "col_5": "17.3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "e28a5dad-8b0e-4c26-b3f0-d2cd02f2a2ef",
-    "SCRIP_CD": 544688,
-    "XML_NAME": "ANN_544688_E28A5DAD-8B0E-4C26-B3F0-D2CD02F2A2EF",
-    "NEWSSUB": "Kasturi Metal Composite Ltd - 544688 - Voluntary Disclosure Of Quarterly Financial Results Commencing From The Quarter Ending December 31, 2026",
-    "DT_TM": "2026-11-03T22:04:10.87",
-    "NEWS_DT": "2026-11-03T22:04:10.87",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0d349f91-213e-4161-9a3d-3170a0be6245.pdf",
-    "MORE": "The Board of Directors of Kasturi Metal Composite Limited, at its meeting held today, i.e., November 03, 2026, approved the voluntary preparation, publication and submission of quarterly financial results to the Stock Exchange, commencing from the quarter ending December 31, 2026, in addition to the mandatory half-yearly submissions, to enhance transparency and keep stakeholders better informed.",
-    "HEADLINE": "The Board of Directors of Kasturi Metal Composite Limited, at its meeting held today, i.e., November 03, 2026, approved the voluntary preparation, publication and submission of quarterly ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kasturi-metal-composite-ltd/kasturi/544688/",
-    "SLONGNAME": "Kasturi Metal Composite Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 43,
-    "News_submission_dt": "2026-11-03T22:04:10",
-    "DissemDT": "2026-11-03T22:04:10.87",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 744301,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- On **Tuesday, Nov 3 2026**, the Board of Directors approved a voluntary policy to **prepare, publish, and submit quarterly financial results** for Kasturi Metal Composite Ltd, beginning with the quarter ending **December 31 2026**.  \n\n- Although **quarterly reporting is not mandatory** for SME‑listed companies under SEBI LODR Regulation 33 (which only requires half‑yearly results), the company will now disclose these results each quarter to enhance transparency and corporate governance.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "970c3765-6961-4155-abfe-40f9f5aef79a",
-    "SCRIP_CD": 500214,
-    "XML_NAME": "ANN_500214_970C3765-6961-4155-ABFE-40F9F5AEF79A",
-    "NEWSSUB": "Ion Exchange India Ltd-$ - 500214 - Results For The Second Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-03T22:03:21.54",
-    "NEWS_DT": "2026-11-03T22:03:21.54",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ae674a87-2768-474c-b87a-5c86ccee9211.pdf",
-    "MORE": "",
-    "HEADLINE": "ION Exchange (India) Limited has submitted to the Exchange, the Unaudited Financial Results (Standalone & Consolidated) for the second quarter and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ion-exchange-india-ltd/ionexchang/500214/",
-    "SLONGNAME": "Ion Exchange India Ltd-$",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 43,
-    "News_submission_dt": "2026-11-03T22:03:21",
-    "DissemDT": "2026-11-03T22:03:21.54",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 18168929,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "61573",
-      "total_assets": "3",
-      "total_equity": "131403",
-      "total_debt": "27057",
-      "eps": "3",
-      "dividend": "542",
-      "face_value": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "30.09.2026 Unaudited",
-            "col_4": "30.06.2026 Unaudited",
-            "col_5": "30.09.2025 Unaudited",
-            "Half Year ended": "30.09.2026 Unaudited",
-            "col_7": "30.09.2025 Unaudited",
-            "Year ended": "31.03.2026 Audited"
-          },
-          {
-            "Particulars": "I II Ill IV V VI VII VIII IX X XI XII",
-            "col_2": "Income a) Revenue from operations b) Other income Total income Expenses a) Cost of materials consumed (refer note 4) b) Purchase of stock-in-trade c) Changes in inventories of finished goods, stock-in-trade and work-in-progress d) Employee benefits expense e) Finance costs f) Depreciation and amortisation expense g) Other expenses Total expenses Profit/(loss) before exceptional Item and tax (I -II) Exceptional Item Impact of Labour Codes [Refer note 2] Profit/(Loss) before tax (Ill -IV) Tax expense Current tax Deferred tax charge/ (credit) Total tax expense Profit/(loss) after tax (V -VI) Other comprehensive Income Items that will not be reclassified to 12rofit or loss (a) Remeasurement benefit of defined benefit plans (b) Income tax expense on remeasurement benefit of defined benefit plans Other comprehensive loss (net of tax) (VIII) Total comprehensive lncome/(loss) (Vll+VIII) Paid-up equity share capital (Face value INR 1 per share) Other equity Earnings per equity share (EPS) [Refer note 3] (not annualised, except for the year ended 31st March 2026) a) Basic EPS (INR) b) Diluted EPS (INR)",
-            "Quarter ended": "61,573 1,028",
-            "col_4": "63,556 1,324",
-            "col_5": "67,824 1,648",
-            "Half Year ended": "1,25,129 2,352",
-            "col_7": "1,19,607 3,600",
-            "Year ended": "2,67,891 9,495"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "62,601",
-            "col_4": "64,880",
-            "col_5": "69,472",
-            "Half Year ended": "1,27,481",
-            "col_7": "1,23,207",
-            "Year ended": "2,77,386"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "45,039 4,175 (268) 9,100 857 2,057 11,260",
-            "col_4": "37,332 4,042 (53) 8,809 821 2,034 10,358",
-            "col_5": "43,376 3,523 (2,976) 7,786 217 1,096 10,038",
-            "Half Year ended": "82,371 8,217 (321) 17,909 1,678 4,091 21,618",
-            "col_7": "72,813 6,472 (4,215) 15,466 383 2,199 17,373",
-            "Year ended": "1,70,034 14,624 (9,206) 33,155 2,054 5,758 40,851"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "72,220",
-            "col_4": "63,343",
-            "col_5": "63,060",
-            "Half Year ended": "1,35,563",
-            "col_7": "1,10,491",
-            "Year ended": "2,57,270"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(9,619) -",
-            "col_4": "1,537 -",
-            "col_5": "6,412 -",
-            "Half Year ended": "(8,082) -",
-            "col_7": "12,716 -",
-            "Year ended": "20,116 1,454"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(9,619) (2,719) 235",
-            "col_4": "1,537 392 5",
-            "col_5": "6,412 1,552 73",
-            "Half Year ended": "(8,082) (2,327) 240",
-            "col_7": "12,716 3,008 233",
-            "Year ended": "18,662 5,471 (647)"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(2,484)",
-            "col_4": "397",
-            "col_5": "1,625",
-            "Half Year ended": "(2,087)",
-            "col_7": "3,241",
-            "Year ended": "4,824"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(7,135) (20) 5",
-            "col_4": "1,140 (20) s",
-            "col_5": "4,787 (3) -",
-            "Half Year ended": "(5,995) (40) 10",
-            "col_7": "9,475 (6) 1",
-            "Year ended": "13,838 (81) 20"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "1151",
-            "col_4": "(151",
-            "col_5": "(3)",
-            "Half Year ended": "(30)",
-            "col_7": "(5)",
-            "Year ended": "(61)"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(7,150) 1,467 (5.804) (5.804)",
-            "col_4": "1,125 1,467 0.927 0.927",
-            "col_5": "4,784 1,467 3.894 3.894",
-            "Half Year ended": "(6,025) 1,467 (4.877) (4.877)",
-            "col_7": "9,470 1,467 7.708 7.708",
-            "Year ended": "13,777 1,467 1,37,497 11.257 11.257"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "col_1": "A. Cash flow from operating activities: Profit/(Loss) before tax Adjustment to reconcile profit/(loss) before tax to net cash flows: Depreciation and amortization expense Finance cost Dividend Income Interest Income Expected credit loss on financial assets Change in fair value of investments Guarantee commission Unrealised foreign exchange loss/ (gain) (net) Operating profit/(loss) before working capital changes Movements in working capital: {Increase)/ Decrease in inventories (Increase)/ Decrease in trade receivables (Increase)/ Decrease in other assets (Increase)/ Decrease in other financial assets (Decrease)/ Increase in trade payables (Decrease)/ Increase in other financial liabilities (Decrease) / Increase in other current liabilities (Decrease) / Increase in provisions Cash generated from operations Taxes paid (net) Net cash generated from/(used in) operating activities (A) 8. Cash flow from investing activities: Purchase of property, plant and equipment, capital work in progress and Intangible assets Deferred payment for acquisition Loans given (net) Bank deposit made during the period (with maturity more than three months) Bank deposit matured during the period (with maturity more than three months) Dividend received Interest received Net cash used in investing activities (B) C. Cash flow from financing activities: Repayment of Borrowings -Non-Current (including current maturities) Proceeds from Borrowings -Non-Current (including current maturities) Borrowings -Current (net) Payment towards lease liabilities Dividend paid Finance cost Net cash (used in)/generated from financing activities (C) Net (Decrease) / increase in cash and cash equivalents (A)+(B)+(C) Effect of exchange difference on cash and cash equivalent held in foreign currency Cash and cash equivalents as at the beginning of the period Cash and cash equivalents as at the end of the period",
-            "Half year Ended 30th Sep 2026 Unaudited": "(8,082) 4,091 1,678 {542) {1,004) 346 (44) (88) 994",
-            "Half year ended 30th Sep 2025 Unaudited": "12,716 2,199 383 (15) (1,655) 542 (16) (67) (58)"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "(2,651) 1,547 436 (3,705) 21 (2,904) (841) 11,925 956",
-            "Half year ended 30th Sep 2025 Unaudited": "14,029 {8,912) 11,039 (8,466) (152) (7,145) 495 162 540"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "4,784 (740)",
-            "Half year ended 30th Sep 2025 Unaudited": "1,590 (3,017)"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "4,044",
-            "Half year ended 30th Sep 2025 Unaudited": "(1,427)"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "{4,779) (219) (1,273) (4,473) 3,831 542 1,049",
-            "Half year ended 30th Sep 2025 Unaudited": "{15,514) (201) (227) (34,239) 47,524 15 2,123"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "(5,322)",
-            "Half year ended 30th Sep 2025 Unaudited": "{519)"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "(2,038) - 753 (713) {1,537) (1,542)",
-            "Half year ended 30th Sep 2025 Unaudited": "(170) 9,000 266 (414) (1,844) (300)"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "{5,077)",
-            "Half year ended 30th Sep 2025 Unaudited": "6,538"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "(6,355)",
-            "Half year ended 30th Sep 2025 Unaudited": "4,592"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "(460) 14,114",
-            "Half year ended 30th Sep 2025 Unaudited": "268 11,581"
-          },
-          {
-            "col_1": "",
-            "Half year Ended 30th Sep 2026 Unaudited": "7,299",
-            "Half year ended 30th Sep 2025 Unaudited": "16,441"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "30.09.2026 Unaudited",
-            "col_4": "30.06.2026 Unaudited",
-            "col_5": "30.09.2025 Unaudited",
-            "Half year ended": "30.09.2026 Unaudited",
-            "col_7": "30.09.2025 Unaudited",
-            "Year ended 31.03.2026 Audited": ""
-          },
-          {
-            "Particulars": "I II iii IV V VI VII VIII IX X XI Xii XIII XIV",
-            "col_2": "Income a) Revenue from operations b) Other income Total Income Expenses a) Cost of materials consumed (Refer note 4) b) Purchase of stock-in-trade c) Changes in inventories of finished goods, work-in-progress and stock-in-trade d) Employee benefits expense e) Finance costs f) Depreciation and amortisation expense g) Other expenses Total expenses Profit/ (Loss) before exceptional item and tax (I -II) Exceptional item Less: Impact of labour codes (Refer note 5) Profit/ {Loss) before tax, before share of profit of associates (Ill -IV) Share of profit of associates (net of income tax) Profit/ (Loss) before tax {V+VI) Tax expense Current tax Deferred tax charge/ (credit) Total tax expense Profit/ (Loss) after tax (VII-VIII) Other Comprehensive Income Items that will not be reclassified to 12rofit or loss a) Remeasurement benefit of defined benefit plans b) Income tax expense on remeasurement benefit of defined benefit plans c) Share of Other Comprehensive Income of associates Items that will be reclassified to 12rofit or loss a) Movement in foreign currency translation reserve Other Comprehensive Income Total Comprehensive Income (IX+X) Profit L {Loss} attributable to: Owners of the company Non-Controlling Interests Profit/ (Loss) for the period Other Com12rehensive Income attributable to : Owners of the company Non-Controlling Interests Other Comprehensive Income for the period Total Com12rehensive Income attributable to : Owners of the company Non-Controlling Interests Total Comprehensive Income for the period Paid-up equity share capital (Face value INR 1 per share) Other equity Earnings per equity share (EPS) [Refer note 3) (not annualised, except for the year ended - 31st March 2026) N a b ) ) D Ba il s u ic te E d P S EP ( S IN ( R IN ) , R, }Z'.;,. :.. -,', - -' \"'\\\" ~ ' -'\\\\ ' -, 0 ,,- g -- e -",
-            "Quarter ended": "67,473 780",
-            "col_4": "70,046 595",
-            "col_5": "73,394 1,426",
-            "Half year ended": "1,37,519 1,375",
-            "col_7": "1,31,713 3,200",
-            "Year ended 31.03.2026 Audited": "2,91,484 8,657"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "68,253",
-            "col_4": "70,641",
-            "col_5": "74,820",
-            "Half year ended": "1,38,894 1,34,913",
-            "col_7": "",
-            "Year ended 31.03.2026 Audited": "3,00,141"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "48,664 4,175 (405) 11,379 942 2,200 12,136",
-            "col_4": "41,347 4,042 (701) 10,862 895 2,175 11,322",
-            "col_5": "45,294 3,523 (2,880) 9,859 308 1,217 10,749",
-            "Half year ended": "90,011 8,217 (1,106) 22,241 1,837 4,375 23,458",
-            "col_7": "77,135 1,79,275 6,472 14,624 (3,312) (8,541) 19,472 41,456 564 2,400 2,443 6,260 18,843 43,655",
-            "Year ended 31.03.2026 Audited": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "79,091",
-            "col_4": "69,942",
-            "col_5": "68,070",
-            "Half year ended": "1,49,033",
-            "col_7": "1,21,617",
-            "Year ended 31.03.2026 Audited": "2,79,129"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(10,838) -",
-            "col_4": "699 -",
-            "col_5": "6,750 -",
-            "Half year ended": "{10,139) -",
-            "col_7": "13,296 -",
-            "Year ended 31.03.2026 Audited": "21,012 1,689"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(10,838) 91",
-            "col_4": "699 41",
-            "col_5": "6,750 36",
-            "Half year ended": "(10,139) 132",
-            "col_7": "13,296 82",
-            "Year ended 31.03.2026 Audited": "19,323 171"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "{10,747)",
-            "col_4": "740",
-            "col_5": "6,786",
-            "Half year ended": "(10,007)",
-            "col_7": "13,378",
-            "Year ended 31.03.2026 Audited": "19,494"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(2,714) 243",
-            "col_4": "466 (32)",
-            "col_5": "1,733 61",
-            "Half year ended": "(2,248) 211",
-            "col_7": "3,335 207",
-            "Year ended 31.03.2026 Audited": "5,892 (719)"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(2,471)",
-            "col_4": "434",
-            "col_5": "1,794",
-            "Half year ended": "(2,037)",
-            "col_7": "3,542",
-            "Year ended 31.03.2026 Audited": "5,173"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(8,276) (21) 5 (2) 90",
-            "col_4": "306 (20) 5 (2) 53",
-            "col_5": "4,992 (3) - 2 269",
-            "Half year ended": "(7,970) (41) 10 (4) 143",
-            "col_7": "9,836 (6) 1 (5) 487",
-            "Year ended 31.03.2026 Audited": "14,321 (123) 20 1 801"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "72",
-            "col_4": "36",
-            "col_5": "268",
-            "Half year ended": "108",
-            "col_7": "477",
-            "Year ended 31.03.2026 Audited": "699"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(8,204) (8,105) (171)",
-            "col_4": "342 411 (105)",
-            "col_5": "5,260 4,953 39",
-            "Half year ended": "(7,862) (7,694) (276)",
-            "col_7": "10,313 9,823 13",
-            "Year ended 31.03.2026 Audited": "15,020 14,267 54"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(8,276)",
-            "col_4": "306",
-            "col_5": "4,992",
-            "Half year ended": "(7,970)",
-            "col_7": "9,836",
-            "Year ended 31.03.2026 Audited": "14,321"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "64 8",
-            "col_4": "(1) 37",
-            "col_5": "224 44",
-            "Half year ended": "63 45",
-            "col_7": "430 47",
-            "Year ended 31.03.2026 Audited": "627 72"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "72",
-            "col_4": "36",
-            "col_5": "268",
-            "Half year ended": "108",
-            "col_7": "477",
-            "Year ended 31.03.2026 Audited": "699"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "(8,041) (163)",
-            "col_4": "410 (68)",
-            "col_5": "5,177 83",
-            "Half year ended": "(7,631) (231)",
-            "col_7": "10,253 60",
-            "Year ended 31.03.2026 Audited": "14,894 126 15,020"
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "{8,204)",
-            "col_4": "342",
-            "col_5": "5,260",
-            "Half year ended": "(7,862)",
-            "col_7": "10,313",
-            "Year ended 31.03.2026 Audited": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter ended": "1,423 1,423 (6.837) 0.347 , ~ .,,,,_ 6.837) 0.347",
-            "col_4": "",
-            "col_5": "1,423 4.178 4.178",
-            "Half year ended": "1,423 1,423 (6,490) 8.286 (6,490) 8.286",
-            "col_7": "",
-            "Year ended 31.03.2026 Audited": "1,423 1,32,480 12.034 12.034"
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 50,
-        "rows": [
-          {
-            "As at 30th Sep 2026 Unaudited": "66,444",
-            "As at 31st Mar 2026 Audited": "68,530"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "4,134",
-            "As at 31st Mar 2026 Audited": "4,439"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "24,254",
-            "As at 31st Mar 2026 Audited": "17,470"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,021",
-            "As at 31st Mar 2026 Audited": "1,021"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,191",
-            "As at 31st Mar 2026 Audited": "1,311"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "72 974",
-            "As at 31st Mar 2026 Audited": "93"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "",
-            "As at 31st Mar 2026 Audited": "847"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "687",
-            "As at 31st Mar 2026 Audited": "675"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "27",
-            "As at 31st Mar 2026 Audited": "28 -"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "- 1,695",
-            "As at 31st Mar 2026 Audited": ""
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "",
-            "As at 31st Mar 2026 Audited": "1,754"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,209",
-            "As at 31st Mar 2026 Audited": "1,439"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "301",
-            "As at 31st Mar 2026 Audited": "256"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "6,080",
-            "As at 31st Mar 2026 Audited": "4,458"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,08,089",
-            "As at 31st Mar 2026 Audited": "1,02,321"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "",
-            "As at 31st Mar 2026 Audited": "44,139"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "43,312",
-            "As at 31st Mar 2026 Audited": ""
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "105",
-            "As at 31st Mar 2026 Audited": "60"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,05,726",
-            "As at 31st Mar 2026 Audited": "1,07,469"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "11,533",
-            "As at 31st Mar 2026 Audited": "18,456"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "14,349",
-            "As at 31st Mar 2026 Audited": "13,411"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "780",
-            "As at 31st Mar 2026 Audited": "661 788"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "757",
-            "As at 31st Mar 2026 Audited": ""
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "2,576",
-            "As at 31st Mar 2026 Audited": "220"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "53,098",
-            "As at 31st Mar 2026 Audited": "50,468"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "2,32,236",
-            "As at 31st Mar 2026 Audited": "2,35,672"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "3 40.325",
-            "As at 31st Mar 2026 Audited": "3 37 993"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,423",
-            "As at 31st Mar 2026 Audited": "1,423"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,23,363",
-            "As at 31st Mar 2026 Audited": "1,32,480"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,24,786",
-            "As at 31st Mar 2026 Audited": "1,33,903"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1134l",
-            "As at 31st Mar 2026 Audited": "129"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1.24 652",
-            "As at 31st Mar 2026 Audited": "134 032"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "31,963",
-            "As at 31st Mar 2026 Audited": "35,758"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,519",
-            "As at 31st Mar 2026 Audited": "1,713"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,118",
-            "As at 31st Mar 2026 Audited": "1,246"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "3,028",
-            "As at 31st Mar 2026 Audited": "3,024"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "804",
-            "As at 31st Mar 2026 Audited": "878"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "38,432",
-            "As at 31st Mar 2026 Audited": "42,619"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "12,363",
-            "As at 31st Mar 2026 Audited": "9,683"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,048",
-            "As at 31st Mar 2026 Audited": "1,065"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "",
-            "As at 31st Mar 2026 Audited": "12,278"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "11,537",
-            "As at 31st Mar 2026 Audited": ""
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "76,514",
-            "As at 31st Mar 2026 Audited": "77,689"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "11,787",
-            "As at 31st Mar 2026 Audited": "8,800"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "60,182",
-            "As at 31st Mar 2026 Audited": "48,184"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "3,676",
-            "As at 31st Mar 2026 Audited": "2,795"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "134",
-            "As at 31st Mar 2026 Audited": "848"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "1,77,241",
-            "As at 31st Mar 2026 Audited": "1,61,342"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "2,15,673",
-            "As at 31st Mar 2026 Audited": "2,03,961"
-          },
-          {
-            "As at 30th Sep 2026 Unaudited": "3 40 325",
-            "As at 31st Mar 2026 Audited": "3 37 993"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 39,
-        "rows": [
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(10,139)",
-            "Half Year ended 30th Sep 2025 Unaudited": "13,296"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "4,375",
-            "Half Year ended 30th Sep 2025 Unaudited": "2,443"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "1,837",
-            "Half Year ended 30th Sep 2025 Unaudited": "564"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(5)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(15)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(627)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(1,250)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "-",
-            "Half Year ended 30th Sep 2025 Unaudited": "254"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(44)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(16)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "1,112",
-            "Half Year ended 30th Sep 2025 Unaudited": "(700)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(3,491)",
-            "Half Year ended 30th Sep 2025 Unaudited": "14,576"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "826",
-            "Half Year ended 30th Sep 2025 Unaudited": "(8,715)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "1,127",
-            "Half Year ended 30th Sep 2025 Unaudited": "- 8,837"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(3,834)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(7,936)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "49",
-            "Half Year ended 30th Sep 2025 Unaudited": "(93)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(1,832)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(5,455)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(843)",
-            "Half Year ended 30th Sep 2025 Unaudited": "631"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "11,998",
-            "Half Year ended 30th Sep 2025 Unaudited": "(46)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "843",
-            "Half Year ended 30th Sep 2025 Unaudited": "669"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "4,843",
-            "Half Year ended 30th Sep 2025 Unaudited": "2,468"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(867)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(3,294)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "3,976",
-            "Half Year ended 30th Sep 2025 Unaudited": "(826)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(4,907)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(15,639)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(12)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(23)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(219)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(201)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(4,713)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(34,404)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "3,832",
-            "Half Year ended 30th Sep 2025 Unaudited": "47,527"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "5",
-            "Half Year ended 30th Sep 2025 Unaudited": "15"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "668",
-            "Half Year ended 30th Sep 2025 Unaudited": "1,709"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(5,346)",
-            "Half Year ended 30th Sep 2025 Unaudited": ""
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(2,076)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(170)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "-",
-            "Half Year ended 30th Sep 2025 Unaudited": "9,904"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "962",
-            "Half Year ended 30th Sep 2025 Unaudited": "46"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(773)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(418)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(1,517)",
-            "Half Year ended 30th Sep 2025 Unaudited": ""
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(1,689)",
-            "Half Year ended 30th Sep 2025 Unaudited": "(487)"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "{5,093)",
-            "Half Year ended 30th Sep 2025 Unaudited": "7,097"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(6,463)",
-            "Half Year ended 30th Sep 2025 Unaudited": "5,255"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "(460)",
-            "Half Year ended 30th Sep 2025 Unaudited": "268"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "18,456",
-            "Half Year ended 30th Sep 2025 Unaudited": "14,929"
-          },
-          {
-            "Half Year ended 30th Sep 2026 Unaudited": "11,533",
-            "Half Year ended 30th Sep 2025 Unaudited": "20,452"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "",
-            "col_3": "Standalone",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "Consolidated",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "",
-            "col_14": ""
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "",
-            "col_3": "Quarter ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half Year ended",
-            "col_7": "",
-            "col_8": "Year ended",
-            "col_9": "Quarter ended",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "Half Year ended",
-            "col_13": "",
-            "col_14": "Year ended"
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "",
-            "col_3": "30.09.2026 Unaudited",
-            "col_4": "30.06.2026 Unaudited",
-            "col_5": "30.09.2025 Unaudited",
-            "col_6": "30.09.2026 Unaudited",
-            "col_7": "30.09.202S Unaudited",
-            "col_8": "31.03.2026 Audited",
-            "col_9": "30.09.2026 Unaudited",
-            "col_10": "30.06.2026 Unaudited",
-            "col_11": "30.09.2025 Unaudited",
-            "col_12": "30.09.2026 Unaudited",
-            "col_13": "30.09.2025 Unaudited",
-            "col_14": "31.03.2026 Audited"
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "Segment Assets a) Treatment Solutions b) Industrial Products c) Lifecycle Services d) Specialty Chemicals e) Consumer Products f) Others g) Unallocated Total Assets Segment Liabilities a) Treatment Solutions b) Industrial Products c) Lifecycle Services d) Specialty Chemicals e) Consumer Products f) Others g) Unallocated Total Liabilities",
-            "col_3": "1,22,000 34,092 12,477 1,11,436 12,792 - 36,344",
-            "col_4": "1,30,553 33,690 12,325 1,03,774 12,852 - 33,577",
-            "col_5": "1,22,874 30,999 14,086 86,029 11,804 - 32,331",
-            "col_6": "1,22,000 34,092 12,477 1,11,436 12,792 - 36,344",
-            "col_7": "1,22,874 30,999 14,086 86,029 11,804 - 32,331",
-            "col_8": "1,31,803 33,294 13,784 1,00,754 12,863 - 33,537",
-            "col_9": "1,24,577 36,750 16,011 1,26,882 12,792 1,324 21,989",
-            "col_10": "1,33,019 36,595 16,210 1,18,678 12,852 1,251 19,637",
-            "col_11": "1,25,121 33,064 17,904 1,03,975 11,807 1,693 17,485",
-            "col_12": "1,24,577 36,750 16,011 1,26,882 12,792 1,324 21,989",
-            "col_13": "1,25,121 33,064 17,904 1,03,975 11,807 1,693 17,485",
-            "col_14": "1,34,804 34,952 17,493 1,16,113 12,862 1,689 20,080"
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "",
-            "col_3": "3,29,141",
-            "col_4": "3,26,771",
-            "col_5": "2,98,123",
-            "col_6": "3,29,141",
-            "col_7": "2,98,123",
-            "col_8": "3,26,035",
-            "col_9": "3,40,325",
-            "col_10": "3,38,242",
-            "col_11": "3,11,049",
-            "col_12": "3,40,325",
-            "col_13": "3,11,049",
-            "col_14": "3,37,993"
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "",
-            "col_3": "88,150 21,796 4,631 62,798 8,874 - 11,489",
-            "col_4": "79,861 19,691 5,590 58,712 9,873 - 12,955",
-            "col_5": "72,372 17,696 5,433 50,683 9,050 - 8,231",
-            "col_6": "88,150 72,372 21,796 17,696 4,631 5,433 62,798 50,683 8,874 9,050 - - 11,489 8,231",
-            "col_7": "",
-            "col_8": "80,343 21,121 6,173 57,141 9,387 - 12,906",
-            "col_9": "91,240 23,657 5,315 74,937 8,874 187 11,463",
-            "col_10": "82,673 21,253 6,503 70,490 9,873 145 12,967",
-            "col_11": "74,828 18,953 6,632 63,688 9,050 177 8,238",
-            "col_12": "91,240 23,657 5,315 74,937 8,874 187 11,463",
-            "col_13": "74,828 18,953 6,632 63,688 9,050 177 8,238",
-            "col_14": "83,881 21,722 7,290 68,616 9,387 181 12,884"
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "",
-            "col_2": "",
-            "col_3": "1,97,738",
-            "col_4": "1,86,682",
-            "col_5": "1,63,465",
-            "col_6": "1,97,738",
-            "col_7": "1,63,465",
-            "col_8": "1,87,071",
-            "col_9": "2,15,673",
-            "col_10": "2,03,904",
-            "col_11": "1,81,566",
-            "col_12": "2,15,673",
-            "col_13": "1,81,566",
-            "col_14": "2,03,961"
-          },
-          {
-            "INR in Lacs Standalone Consolidated Quarter ended Half Year ended Year ended Quarter ended Half Year ended Year ended PARTICULARS 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.202S 31.03.2026 30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 31.03.2026 Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 3 Segment Assets a) Treatment Solutions 1,22,000 1,30,553 1,22,874 1,22,000 1,22,874 1,31,803 1,24,577 1,33,019 1,25,121 1,24,577 1,25,121 1,34,804 b) Industrial Products 34,092 33,690 30,999 34,092 30,999 33,294 36,750 36,595 33,064 36,750 33,064 34,952 c) Lifecycle Services 12,477 12,325 14,086 12,477 14,086 13,784 16,011 16,210 17,904 16,011 17,904 17,493 d) Specialty Chemicals 1,11,436 1,03,774 86,029 1,11,436 86,029 1,00,754 1,26,882 1,18,678 1,03,975 1,26,882 1,03,975 1,16,113 e) Consumer Products 12,792 12,852 11,804 12,792 11,804 12,863 12,792 12,852 11,807 12,792 11,807 12,862 f) Others - - - - - - 1,324 1,251 1,693 1,324 1,693 1,689 g) Unallocated 36,344 33,577 32,331 36,344 32,331 33,537 21,989 19,637 17,485 21,989 17,485 20,080 Total Assets 3,29,141 3,26,771 2,98,123 3,29,141 2,98,123 3,26,035 3,40,325 3,38,242 3,11,049 3,40,325 3,11,049 3,37,993 4 Segment Liabilities a) Treatment Solutions 88,150 79,861 72,372 88,150 72,372 80,343 91,240 82,673 74,828 91,240 74,828 83,881 b) Industrial Products 21,796 19,691 17,696 21,796 17,696 21,121 23,657 21,253 18,953 23,657 18,953 21,722 c) Lifecycle Services 4,631 5,590 5,433 4,631 5,433 6,173 5,315 6,503 6,632 5,315 6,632 7,290 d) Specialty Chemicals 62,798 58,712 50,683 62,798 50,683 57,141 74,937 70,490 63,688 74,937 63,688 68,616 e) Consumer Products 8,874 9,873 9,050 8,874 9,050 9,387 8,874 9,873 9,050 8,874 9,050 9,387 f) Others - - - - - - 187 145 177 187 177 181 g) Unallocated 11,489 12,955 8,231 11,489 8,231 12,906 11,463 12,967 8,238 11,463 8,238 12,884 Total Liabilities 1,97,738 1,86,682 1,63,465 1,97,738 1,63,465 1,87,071 2,15,673 2,03,904 1,81,566 2,15,673 1,81,566 2,03,961": "Notes: 1) Note on Segment Re11orting (I) The Company has identified and reported the segment information in line with the Ind AS 108 \"Operating Segments\". (11) Effective from 1st April, 2026, pursuant to the Company's strategic objective, the Company has realigned its portfolio positioning as technology-led water and environment solutions provider rather than a conventional EPC company to focus on driving growth of Products, Chemicals, Services and Solutions business. (111) As a result, the erstwhile Engineering segment has been renamed and reorganised as under: - Treatment Solutions - Industrial Products - Lifecycle Services (IV) The erstwhile Chemicals segment has been renamed Specialty Chemicals. (V) The Institutional Water Treatment Products business, which was previously part of the Consumer Products segment, has been carved out and included in the newly formed Industrial Products segment. (VI) The revised Segment composition is as follows: (i) Treatment Solutions: Includes a) Water, Wastewater treatment & Recycle b) Ultra-pure and High Purity water c) Desalination d) Zero Liquid Discharge e) Other Advanced Solutions (ii) Industrial Products: Includes a) Standard water treatment products b) Institutional water treatment products c) Membranes (iii) Lifecycle Services: Includes a) Operation & Maintenance b) Rehabilitation & Modification c) Spares, services & consumables d) BOO/ BOOT (iv) Specialty chemicals: Includes a) Water treatment & process chemicals b) Resins -industrial, process and pharmaceutical resins (v) Consumer Products: Includes a) Home Water Solutions b) Community Water Treatment Solutions c) Wellness Accordingly, the Company has presented its segment results based on the revised reportable segment structure and regrouped the previous periods to make it comparable with the current period. 2) Unallocable expenses includes INR l,4S4 Lacs and INR 1,689 Lacs in Standalone and Consolidated Segment respectively towards impact of Labour Code for year ended 31st March 2026. - For Ion Exchange (India) Limited --~.,.,.- . - · - RAJESH Dlgltal)o,igr,edbyRAJESH INDRANEE : 1 :!'t~~~~ / / / ~ '< n . ,z,s\\<.lnc.fs.' U \\ ) ~n'<>0(91_e.,0 - C AN H A S N H D A R R A M B A H + ~ 0 = 5'3 ~ D N =,~~~:~ LDUTT D 20 a : t 1 e 1 : : 2 1 0 8 2 + 6 0 .1 5 1 '3 .0 0 3 ' Place: Mumbai . (_ , ·· .. , . 0 . 3 . - ~ ) 13 ~) Rajesh Sharma lndraneel Dutt Date : 3rd November 2026 \\.·n \"' Executive Chairman Managing Director & CEO",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "",
-            "col_14": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "7f5104e0-1c08-4db7-8cb0-4eec2e41cf2f",
-    "SCRIP_CD": 516030,
-    "XML_NAME": "ANN_516030_7F5104E0-1C08-4DB7-8CB0-4EEC2E41CF2F",
-    "NEWSSUB": "Pakka Ltd-$ - 516030 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-03T22:02:15.943",
-    "NEWS_DT": "2026-11-03T22:02:15.943",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "60c4e5c1-590d-428b-b915-249f451d271e.pdf",
-    "MORE": "Dear Sir/Madam,\r\n\r\nPursuant to Regulation 30 read with sub-paragraph 15 of Para A of Part A of Schedule III to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we wish to inform you that the Investor Conference Call of Pakka Limited ('Company') was held through video conferencing on Tuesday, 3 November 2026, to discuss the Company's financial and operational performance for the second quarter and half year ended 30 September 2026.\r\n\r\nThe call commenced at 4:00 p.m. and concluded at 5:20 p.m. (IST).\r\n\r\nThe audio/video recording of the Investor Conference Call is available at the following links: https://youtu.be/KzsAs6GJ-7k \r\n\r\nThe transcript of the call will be submitted to the stock exchanges and made available on the Company''s website within the timeline prescribed under the applicable SEBI Listing Regulations.\r\n\r\nYou are requested to take the above information on record.",
-    "HEADLINE": "Dear Sir/Madam,\r\n\r\nPursuant to Regulation 30 read with sub-paragraph 15 of Para A of Part A of Schedule III to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pakka-ltd/pakka/516030/",
-    "SLONGNAME": "Pakka Ltd-$",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 43,
-    "News_submission_dt": "2026-11-03T22:02:15",
-    "DissemDT": "2026-11-03T22:02:15.943",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 490859,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "7f5104e0-1c08-4db7-8cb0-4eec2e41cf2f",
-    "INVESTOR_PRESENTATION": "d0b71fb7-6706-48b0-83be-4923d634e70b.pdf",
-    "RECORDID": 14755699,
-    "DataInsDate": "2026-11-03T22:02:15.857",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0b71fb7-6706-48b0-83be-4923d634e70b.pdf",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e1621ba3-295a-40aa-bc53-7763279f4914",
-    "SCRIP_CD": 532440,
-    "XML_NAME": "ANN_532440_E1621BA3-295A-40AA-BC53-7763279F4914",
-    "NEWSSUB": "MPS Ltd - 532440 - Results For The Quarter And Half Year Ended 30 September 2026",
-    "DT_TM": "2026-11-03T22:01:33.62",
-    "NEWS_DT": "2026-11-03T22:01:33.62",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9112902b-6c88-42ba-959f-3a3129726d79.pdf",
-    "MORE": "",
-    "HEADLINE": "Results for the quarter and half year ended 30 September 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mps-ltd/mpsltd/532440/",
-    "SLONGNAME": "MPS Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 43,
-    "News_submission_dt": "2026-11-03T22:01:33",
-    "DissemDT": "2026-11-03T22:01:33.62",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 8165301,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "22429",
-      "net_profit": "234.44 lakh",
-      "total_assets": "96746",
-      "total_equity": "70350",
-      "dividend": "304",
-      "face_value": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5a1e7e11-83e6-44d3-8742-a5d70f28aea1",
-    "SCRIP_CD": 532440,
-    "XML_NAME": "ANN_532440_5A1E7E11-83E6-44D3-8742-A5D70F28AEA1",
-    "NEWSSUB": "MPS Ltd - 532440 - Board Meeting Outcome for Board Meeting Outcome For Board Meeting Held On 03 November 2026",
-    "DT_TM": "2026-11-03T21:57:10.32",
-    "NEWS_DT": "2026-11-03T21:57:10.32",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "421cb45b-5c59-4673-ac59-aecf9f8e4da0.pdf",
-    "MORE": "The Board of Directors of the Company, at their meeting held today i.e. 03 November 2026, inter-alia, approved and noted the following business(es): 1. Approval of the Un-Audited Financial Results (Standalone and Consolidated) for the quarter and half year ended 30 September 2026. 2. Other Matters as per the attached outcome of Board Meeting.",
-    "HEADLINE": "The Board of Directors of the Company, at their meeting held today i.e. 03 November 2026, inter-alia, approved and noted the following business(es): 1. Approval of the Un-Audited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mps-ltd/mpsltd/532440/",
-    "SLONGNAME": "MPS Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 42,
-    "News_submission_dt": "2026-11-03T21:57:05",
-    "DissemDT": "2026-11-03T21:57:10.32",
-    "TimeDiff": "00:00:05",
-    "Fld_Attachsize": 8165301,
-    "SUBCATNAME": "Outcome of Board Meeting",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
