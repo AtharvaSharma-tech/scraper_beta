@@ -1,5 +1,43 @@
 [
   {
+    "NEWSID": "b85cea38-9e31-4a48-bc4e-cb796272e4eb",
+    "SCRIP_CD": 500402,
+    "XML_NAME": "ANN_500402_B85CEA38-9E31-4A48-BC4E-CB796272E4EB",
+    "NEWSSUB": "SPML Infra Ltd - 500402 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-04T08:11:12.89",
+    "NEWS_DT": "2026-11-04T08:11:12.89",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8027867d-d03d-438d-adce-6b01a16c6221.pdf",
+    "MORE": "",
+    "HEADLINE": "SPML Infra Limited has obtained orders worth Rs. 186.41 Crore from Power Grid Corporation of India Limited",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/spml-infra-ltd/spmlinfra/500402/",
+    "SLONGNAME": "SPML Infra Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-04T08:11:12",
+    "DissemDT": "2026-11-04T08:11:12.89",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 785429,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "1e76a2d1-0925-4531-8f73-214c4212d519",
     "SCRIP_CD": 543235,
     "XML_NAME": "ANN_543235_1E76A2D1-0925-4531-8F73-214C4212D519",
@@ -22668,353 +22706,6 @@
             "col_4": "",
             "WACC": "7.01%",
             "col_6": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b0e95b4f-eb68-4a6e-9b2b-8ef35b151457",
-    "SCRIP_CD": 538836,
-    "XML_NAME": "ANN_538836_B0E95B4F-EB68-4A6E-9B2B-8EF35B151457",
-    "NEWSSUB": "Monte Carlo Fashions Ltd - 538836 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-03T21:55:40.6",
-    "NEWS_DT": "2026-11-03T21:55:40.6",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "94c2a1ea-9faa-4ae6-8850-da4f9c47bef0.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/monte-carlo-fashions-ltd/montecarlo/538836/",
-    "SLONGNAME": "Monte Carlo Fashions Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 42,
-    "News_submission_dt": "2026-11-03T21:55:40",
-    "DissemDT": "2026-11-03T21:55:40.6",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7179195,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2",
-      "net_profit": "2",
-      "operating_profit": "2",
-      "total_equity": "8836",
-      "total_debt": "6049",
-      "eps": "0.56",
-      "dividend": "0.0",
-      "roce": "16.9",
-      "roe": "16.9",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 30,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "₹ Mn": "Revenue",
-            "Q2 FY27": "2,624.0",
-            "Q2 FY26": "2,487.0",
-            "YoY": "5.5%",
-            "Q1 FY27": "1,490.4",
-            "QoQ": "76.1%",
-            "H1 FY27": "4,114.4",
-            "H1 FY26": "3,872.3",
-            "YoY_1": "6.3%"
-          },
-          {
-            "₹ Mn": "Gross margin",
-            "Q2 FY27": "49.4%",
-            "Q2 FY26": "54.4%",
-            "YoY": "(498 bps)",
-            "Q1 FY27": "49.2%",
-            "QoQ": "19 bps",
-            "H1 FY27": "49.4%",
-            "H1 FY26": "54.2%",
-            "YoY_1": "(483 bps)"
-          },
-          {
-            "₹ Mn": "EBITDA",
-            "Q2 FY27": "283.5",
-            "Q2 FY26": "415.3",
-            "YoY": "(31.7%)",
-            "Q1 FY27": "(129.3)",
-            "QoQ": "",
-            "H1 FY27": "154.2",
-            "H1 FY26": "356.6",
-            "YoY_1": "(56.8%)"
-          },
-          {
-            "₹ Mn": "EBITDA margin",
-            "Q2 FY27": "10.8%",
-            "Q2 FY26": "16.7%",
-            "YoY": "(589 bps)",
-            "Q1 FY27": "(8.7%)",
-            "QoQ": "1948 bps",
-            "H1 FY27": "3.7%",
-            "H1 FY26": "9.2%",
-            "YoY_1": "(546 bps)"
-          },
-          {
-            "₹ Mn": "Other income",
-            "Q2 FY27": "60.1",
-            "Q2 FY26": "92.4",
-            "YoY": "(35.0%)",
-            "Q1 FY27": "104.6",
-            "QoQ": "(42.5%)",
-            "H1 FY27": "164.7",
-            "H1 FY26": "196.8",
-            "YoY_1": "(16.3%)"
-          },
-          {
-            "₹ Mn": "Depreciation",
-            "Q2 FY27": "182.4",
-            "Q2 FY26": "160.5",
-            "YoY": "13.6%",
-            "Q1 FY27": "169.4",
-            "QoQ": "7.7%",
-            "H1 FY27": "351.8",
-            "H1 FY26": "312.6",
-            "YoY_1": "12.5%"
-          },
-          {
-            "₹ Mn": "Finance cost",
-            "Q2 FY27": "146.6",
-            "Q2 FY26": "129.4",
-            "YoY": "13.3%",
-            "Q1 FY27": "123.0",
-            "QoQ": "19.2%",
-            "H1 FY27": "269.6",
-            "H1 FY26": "238.7",
-            "YoY_1": "12.9%"
-          },
-          {
-            "₹ Mn": "PBT",
-            "Q2 FY27": "14.6",
-            "Q2 FY26": "217.8",
-            "YoY": "(93.3%)",
-            "Q1 FY27": "(317.1)",
-            "QoQ": "",
-            "H1 FY27": "(302.5)",
-            "H1 FY26": "2.1",
-            "YoY_1": ""
-          },
-          {
-            "₹ Mn": "PAT",
-            "Q2 FY27": "11.7",
-            "Q2 FY26": "162.6",
-            "YoY": "(92.8%)",
-            "Q1 FY27": "(234.2)",
-            "QoQ": "",
-            "H1 FY27": "(222.5)",
-            "H1 FY26": "0.4",
-            "YoY_1": ""
-          },
-          {
-            "₹ Mn": "PAT margin",
-            "Q2 FY27": "0.4%",
-            "Q2 FY26": "6.5%",
-            "YoY": "(609 bps)",
-            "Q1 FY27": "(15.7%)",
-            "QoQ": "1616 bps",
-            "H1 FY27": "(5.4%)",
-            "H1 FY26": "0.0%",
-            "YoY_1": "(542 bps)"
-          },
-          {
-            "₹ Mn": "Diluted EPS (₹)",
-            "Q2 FY27": "0.56",
-            "Q2 FY26": "7.84",
-            "YoY": "(92.9%)",
-            "Q1 FY27": "(11.30)",
-            "QoQ": "",
-            "H1 FY27": "(10.73)",
-            "H1 FY26": "0.02",
-            "YoY_1": ""
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "₹ Mn": "Total equity",
-            "Sep-26": "8,836",
-            "Sep-25": "8,340",
-            "Mar-26": "9,059"
-          },
-          {
-            "₹ Mn": "Short-term borrowings",
-            "Sep-26": "6,049",
-            "Sep-25": "5,063",
-            "Mar-26": "3,291"
-          },
-          {
-            "₹ Mn": "Lease liabilities",
-            "Sep-26": "2,516",
-            "Sep-25": "2,365",
-            "Mar-26": "2,506"
-          },
-          {
-            "₹ Mn": "Trade payables",
-            "Sep-26": "1,928",
-            "Sep-25": "1,403",
-            "Mar-26": "1,464"
-          },
-          {
-            "₹ Mn": "Other liabilities",
-            "Sep-26": "2,759",
-            "Sep-25": "2,363",
-            "Mar-26": "2,885"
-          },
-          {
-            "₹ Mn": "Total",
-            "Sep-26": "22,089",
-            "Sep-25": "19,535",
-            "Mar-26": "19,205"
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "₹ Mn": "PP&E, ROU, CWIP",
-            "Sep-26": "4,339",
-            "Sep-25": "3,865",
-            "Mar-26": "4,129"
-          },
-          {
-            "₹ Mn": "Investments",
-            "Sep-26": "2,570",
-            "Sep-25": "2,467",
-            "Mar-26": "2,521"
-          },
-          {
-            "₹ Mn": "Inventories",
-            "Sep-26": "7,434",
-            "Sep-25": "6,469",
-            "Mar-26": "5,709"
-          },
-          {
-            "₹ Mn": "Trade receivables",
-            "Sep-26": "4,968",
-            "Sep-25": "4,407",
-            "Mar-26": "4,991"
-          },
-          {
-            "₹ Mn": "Cash & bank",
-            "Sep-26": "460",
-            "Sep-25": "385",
-            "Mar-26": "28"
-          },
-          {
-            "₹ Mn": "Other assets",
-            "Sep-26": "2,319",
-            "Sep-25": "1,941",
-            "Mar-26": "1,827"
-          },
-          {
-            "₹ Mn": "Total",
-            "Sep-26": "22,089",
-            "Sep-25": "19,535",
-            "Mar-26": "19,205"
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "₹ Mn": "Profit before tax",
-            "H1 FY27": "(302.5)",
-            "H1 FY26": "2.1"
-          },
-          {
-            "₹ Mn": "Depreciation & other non-cash",
-            "H1 FY27": "467.2",
-            "H1 FY26": "362.8"
-          },
-          {
-            "₹ Mn": "Change in inventories",
-            "H1 FY27": "(1,725.0)",
-            "H1 FY26": "(1,437.3)"
-          },
-          {
-            "₹ Mn": "Change in receivables",
-            "H1 FY27": "23.1",
-            "H1 FY26": "(240.2)"
-          },
-          {
-            "₹ Mn": "Payables, other & taxes paid",
-            "H1 FY27": "(530.5)",
-            "H1 FY26": "(534.1)"
-          },
-          {
-            "₹ Mn": "Cash from operations",
-            "H1 FY27": "(2,067.7)",
-            "H1 FY26": "(1,846.7)"
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "₹ Mn": "Capex (net)",
-            "H1 FY27": "(298.4)",
-            "H1 FY26": "(77.6)"
-          },
-          {
-            "₹ Mn": "Investments & interest (net)",
-            "H1 FY27": "90.9",
-            "H1 FY26": "137.6"
-          },
-          {
-            "₹ Mn": "Net borrowings",
-            "H1 FY27": "2,756.3",
-            "H1 FY26": "2,194.2"
-          },
-          {
-            "₹ Mn": "Lease payments & interest",
-            "H1 FY27": "(294.8)",
-            "H1 FY26": "(253.0)"
-          },
-          {
-            "₹ Mn": "Finance cost paid",
-            "H1 FY27": "(153.5)",
-            "H1 FY26": "(126.7)"
-          },
-          {
-            "₹ Mn": "Dividend paid",
-            "H1 FY27": "0.0",
-            "H1 FY26": "0.0"
-          },
-          {
-            "₹ Mn": "Net change in cash",
-            "H1 FY27": "32.8",
-            "H1 FY26": "27.8"
           }
         ]
       }
