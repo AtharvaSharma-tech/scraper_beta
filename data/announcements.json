@@ -1,5 +1,775 @@
 [
   {
+    "NEWSID": "fd83e2b4-4dff-4047-87c6-2a3b236fe005",
+    "SCRIP_CD": 544839,
+    "XML_NAME": "ANN_544839_FD83E2B4-4DFF-4047-87C6-2A3B236FE005",
+    "NEWSSUB": "Lohia Corp Ltd - 544839 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-05T00:41:16.2",
+    "NEWS_DT": "2026-11-05T00:41:16.2",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8c6a9f68-0221-4a32-9281-cc8de4f6f32f.pdf",
+    "MORE": "",
+    "HEADLINE": "Presentation on the Unaudited Financial Results for the quarter and half year ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/lohia-corp-ltd/lcl/544839/",
+    "SLONGNAME": "Lohia Corp Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-05T00:41:16",
+    "DissemDT": "2026-11-05T00:41:16.2",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3015187,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Lohia Corp Ltd has filed a Regulation 30 announcement sharing its unaudited consolidated and standalone financial results for the quarter and half‑year ended 30 September 2026; the detailed presentation is available on the company’s website.  \n- An earnings‑call to discuss these results is scheduled for **Friday, 6 November 2026 at 13:30 IST**.  \n\n*The announcement does not contain any specific financial figures or quantitative details.*",
+    "key_metrics": {
+      "revenue": "6003",
+      "net_profit": "777",
+      "operating_profit": "51.3",
+      "total_assets": "8735",
+      "total_equity": "2496",
+      "total_debt": "1455",
+      "roce": "51.3",
+      "roe": "42.8",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "INR Mn": "Revenue from operations",
+            "Q2 FY27": "5,943",
+            "Q2 FY26": "4,184",
+            "Y-o-Y": "42%",
+            "Q1 FY27": "5,030",
+            "Q-o-Q": "18%",
+            "H1 FY27": "10,974",
+            "H1 FY26": "7,338",
+            "Y-o-Y_1": "50%"
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "60",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "Total income",
+            "Q2 FY27": "6,003",
+            "Q2 FY26": "4,199",
+            "Y-o-Y": "43%",
+            "Q1 FY27": "5,096",
+            "Q-o-Q": "18%",
+            "H1 FY27": "11,099",
+            "H1 FY26": "7,389",
+            "Y-o-Y_1": "50%"
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "3,571",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "(91)",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "Material Margin",
+            "Q2 FY27": "2,463",
+            "Q2 FY26": "1,895",
+            "Y-o-Y": "",
+            "Q1 FY27": "2,228",
+            "Q-o-Q": "",
+            "H1 FY27": "4,691",
+            "H1 FY26": "3,260",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "41.4%",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "582",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "727",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "EBITDA",
+            "Q2 FY27": "1,155",
+            "Q2 FY26": "867",
+            "Y-o-Y": "33%",
+            "Q1 FY27": "1,002",
+            "Q-o-Q": "15%",
+            "H1 FY27": "2,156",
+            "H1 FY26": "1,229",
+            "Y-o-Y_1": "76%"
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "19.4%",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "27",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "131",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "Total expenses",
+            "Q2 FY27": "4,947",
+            "Q2 FY26": "3,487",
+            "Y-o-Y": "42%",
+            "Q1 FY27": "4,183",
+            "Q-o-Q": "18%",
+            "H1 FY27": "9,130",
+            "H1 FY26": "6,443",
+            "Y-o-Y_1": "42%"
+          },
+          {
+            "INR Mn": "Profit before tax",
+            "Q2 FY27": "1,057",
+            "Q2 FY26": "712",
+            "Y-o-Y": "49%",
+            "Q1 FY27": "913",
+            "Q-o-Q": "16%",
+            "H1 FY27": "1,969",
+            "H1 FY26": "946",
+            "Y-o-Y_1": "108%"
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "279",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          },
+          {
+            "INR Mn": "Profit after tax",
+            "Q2 FY27": "777",
+            "Q2 FY26": "524",
+            "Y-o-Y": "48%",
+            "Q1 FY27": "663",
+            "Q-o-Q": "17%",
+            "H1 FY27": "1,440",
+            "H1 FY26": "693",
+            "Y-o-Y_1": "108%"
+          },
+          {
+            "INR Mn": "",
+            "Q2 FY27": "13.0%",
+            "Q2 FY26": "",
+            "Y-o-Y": "",
+            "Q1 FY27": "",
+            "Q-o-Q": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "Y-o-Y_1": ""
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "Particulars": "Revenue from operations",
+            "FY24*": "11,658",
+            "FY25": "13,769",
+            "FY26": "17,170",
+            "H1 FY27": "10,974"
+          },
+          {
+            "Particulars": "Other income",
+            "FY24*": "78",
+            "FY25": "96",
+            "FY26": "209",
+            "H1 FY27": "125"
+          },
+          {
+            "Particulars": "Total Income",
+            "FY24*": "11,736",
+            "FY25": "13,865",
+            "FY26": "17,379",
+            "H1 FY27": "11,099"
+          },
+          {
+            "Particulars": "Expenses",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Cost of materials consumed",
+            "FY24*": "5,953",
+            "FY25": "6,583",
+            "FY26": "9,140",
+            "H1 FY27": "5,818"
+          },
+          {
+            "Particulars": "Purchases of stock-in-trade",
+            "FY24*": "466",
+            "FY25": "996",
+            "FY26": "1,072",
+            "H1 FY27": "649"
+          },
+          {
+            "Particulars": "Changes in inventories of finished goods, work in progress and stock-in-trade",
+            "FY24*": "279",
+            "FY25": "85",
+            "FY26": "-550",
+            "H1 FY27": "-184"
+          },
+          {
+            "Particulars": "Employee benefits expenses",
+            "FY24*": "1,836",
+            "FY25": "1,800",
+            "FY26": "1,918",
+            "H1 FY27": "1,115"
+          },
+          {
+            "Particulars": "Finance costs",
+            "FY24*": "157",
+            "FY25": "153",
+            "FY26": "126",
+            "H1 FY27": "52"
+          },
+          {
+            "Particulars": "Depreciation and amortisation expenses",
+            "FY24*": "506",
+            "FY25": "508",
+            "FY26": "524",
+            "H1 FY27": "261"
+          },
+          {
+            "Particulars": "Other expenses",
+            "FY24*": "2,143",
+            "FY25": "2,114",
+            "FY26": "2,405",
+            "H1 FY27": "1,419"
+          },
+          {
+            "Particulars": "Total Expenses",
+            "FY24*": "11,340",
+            "FY25": "12,240",
+            "FY26": "14,634",
+            "H1 FY27": "9,130"
+          },
+          {
+            "Particulars": "Profit before exceptional items and tax",
+            "FY24*": "396",
+            "FY25": "1,624",
+            "FY26": "2,745",
+            "H1 FY27": "1,969"
+          },
+          {
+            "Particulars": "Exceptional Items",
+            "FY24*": "-",
+            "FY25": "-",
+            "FY26": "-94",
+            "H1 FY27": "-"
+          },
+          {
+            "Particulars": "Profit before tax",
+            "FY24*": "396",
+            "FY25": "1,624",
+            "FY26": "2,650",
+            "H1 FY27": "1,969"
+          },
+          {
+            "Particulars": "Tax expense",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "a) Current tax",
+            "FY24*": "75",
+            "FY25": "454",
+            "FY26": "717",
+            "H1 FY27": "539"
+          },
+          {
+            "Particulars": "b) Tax relating to earlier years",
+            "FY24*": "-2",
+            "FY25": "-",
+            "FY26": "5",
+            "H1 FY27": "0"
+          },
+          {
+            "Particulars": "c) Deferred tax",
+            "FY24*": "26",
+            "FY25": "-8",
+            "FY26": "-6",
+            "H1 FY27": "-10"
+          },
+          {
+            "Particulars": "Total tax expense",
+            "FY24*": "99",
+            "FY25": "446",
+            "FY26": "716",
+            "H1 FY27": "529"
+          },
+          {
+            "Particulars": "Profit for the year",
+            "FY24*": "298",
+            "FY25": "1,178",
+            "FY26": "1,935",
+            "H1 FY27": "1,440"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 25,
+        "rows": [
+          {
+            "Particulars": "ASSETS",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Non-current assets",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Property, plant and equipment",
+            "FY24*": "3,602",
+            "FY25": "3,334",
+            "FY26": "3,247",
+            "H1 FY27": "3,171"
+          },
+          {
+            "Particulars": "Right-of-use assets",
+            "FY24*": "367",
+            "FY25": "541",
+            "FY26": "502",
+            "H1 FY27": "466"
+          },
+          {
+            "Particulars": "Capital work-in-progress",
+            "FY24*": "15",
+            "FY25": "127",
+            "FY26": "57",
+            "H1 FY27": "81"
+          },
+          {
+            "Particulars": "Intangible assets",
+            "FY24*": "31",
+            "FY25": "56",
+            "FY26": "62",
+            "H1 FY27": "54"
+          },
+          {
+            "Particulars": "Intangible assets under development",
+            "FY24*": "-",
+            "FY25": "5",
+            "FY26": "-",
+            "H1 FY27": "-"
+          },
+          {
+            "Particulars": "Financial assets – Trade receivables",
+            "FY24*": "-",
+            "FY25": "-",
+            "FY26": "-",
+            "H1 FY27": "41"
+          },
+          {
+            "Particulars": "Financial assets – Loans",
+            "FY24*": "4",
+            "FY25": "5",
+            "FY26": "5",
+            "H1 FY27": "6"
+          },
+          {
+            "Particulars": "Financial assets – Other financial assets",
+            "FY24*": "48",
+            "FY25": "49",
+            "FY26": "54",
+            "H1 FY27": "57"
+          },
+          {
+            "Particulars": "Non-current tax assets (net)",
+            "FY24*": "1",
+            "FY25": "8",
+            "FY26": "9",
+            "H1 FY27": "6"
+          },
+          {
+            "Particulars": "Deferred tax asset (net)",
+            "FY24*": "8",
+            "FY25": "11",
+            "FY26": "10",
+            "H1 FY27": "11"
+          },
+          {
+            "Particulars": "Other non-current assets",
+            "FY24*": "37",
+            "FY25": "26",
+            "FY26": "67",
+            "H1 FY27": "181"
+          },
+          {
+            "Particulars": "Total Non-current assets",
+            "FY24*": "4,113",
+            "FY25": "4,162",
+            "FY26": "4,012",
+            "H1 FY27": "4,074"
+          },
+          {
+            "Particulars": "Current assets",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Inventories",
+            "FY24*": "2,951",
+            "FY25": "2,962",
+            "FY26": "3,965",
+            "H1 FY27": "5,557"
+          },
+          {
+            "Particulars": "Current Investments",
+            "FY24*": "-",
+            "FY25": "-",
+            "FY26": "1,569",
+            "H1 FY27": "2,101"
+          },
+          {
+            "Particulars": "Trade receivables",
+            "FY24*": "871",
+            "FY25": "1,200",
+            "FY26": "1,384",
+            "H1 FY27": "1,899"
+          },
+          {
+            "Particulars": "Cash and cash equivalents",
+            "FY24*": "146",
+            "FY25": "371",
+            "FY26": "293",
+            "H1 FY27": "287"
+          },
+          {
+            "Particulars": "Loans",
+            "FY24*": "5",
+            "FY25": "7",
+            "FY26": "58",
+            "H1 FY27": "47"
+          },
+          {
+            "Particulars": "Other financial assets",
+            "FY24*": "185",
+            "FY25": "319",
+            "FY26": "982",
+            "H1 FY27": "773"
+          },
+          {
+            "Particulars": "Current tax assets (net)",
+            "FY24*": "124",
+            "FY25": "124",
+            "FY26": "140",
+            "H1 FY27": "10"
+          },
+          {
+            "Particulars": "Other current assets",
+            "FY24*": "340",
+            "FY25": "531",
+            "FY26": "644",
+            "H1 FY27": "678"
+          },
+          {
+            "Particulars": "Total Current assets",
+            "FY24*": "4,622",
+            "FY25": "5,514",
+            "FY26": "9,035",
+            "H1 FY27": "11,352"
+          },
+          {
+            "Particulars": "Total Assets",
+            "FY24*": "8,735",
+            "FY25": "9,676",
+            "FY26": "13,047",
+            "H1 FY27": "15,426"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 1,
+        "row_count": 25,
+        "rows": [
+          {
+            "Particulars": "EQUITY AND LIABILITIES",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Equity",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Equity share capital",
+            "FY24*": "2,496#",
+            "FY25": "106",
+            "FY26": "106",
+            "H1 FY27": "106"
+          },
+          {
+            "Particulars": "Other equity",
+            "FY24*": "-",
+            "FY25": "3,574",
+            "FY26": "5,110",
+            "H1 FY27": "6,568"
+          },
+          {
+            "Particulars": "Non-controlling interest",
+            "FY24*": "-",
+            "FY25": "36",
+            "FY26": "42",
+            "H1 FY27": "34"
+          },
+          {
+            "Particulars": "Total Equity",
+            "FY24*": "2,496",
+            "FY25": "3,716",
+            "FY26": "5,257",
+            "H1 FY27": "6,708"
+          },
+          {
+            "Particulars": "Non-current liabilities",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Borrowings",
+            "FY24*": "1,455",
+            "FY25": "863",
+            "FY26": "482",
+            "H1 FY27": "294"
+          },
+          {
+            "Particulars": "Lease liabilities",
+            "FY24*": "33",
+            "FY25": "190",
+            "FY26": "159",
+            "H1 FY27": "126"
+          },
+          {
+            "Particulars": "Provisions",
+            "FY24*": "-",
+            "FY25": "1",
+            "FY26": "1",
+            "H1 FY27": "0"
+          },
+          {
+            "Particulars": "Deferred tax liabilities (net)",
+            "FY24*": "109",
+            "FY25": "111",
+            "FY26": "70",
+            "H1 FY27": "73"
+          },
+          {
+            "Particulars": "Other non-current liabilities",
+            "FY24*": "299",
+            "FY25": "259",
+            "FY26": "32",
+            "H1 FY27": "30"
+          },
+          {
+            "Particulars": "Total Non-current liabilities",
+            "FY24*": "1,895",
+            "FY25": "1,423",
+            "FY26": "743",
+            "H1 FY27": "523"
+          },
+          {
+            "Particulars": "Current liabilities",
+            "FY24*": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Borrowings",
+            "FY24*": "1,349",
+            "FY25": "1,259",
+            "FY26": "1,046",
+            "H1 FY27": "859"
+          },
+          {
+            "Particulars": "Lease liabilities",
+            "FY24*": "29",
+            "FY25": "54",
+            "FY26": "64",
+            "H1 FY27": "69"
+          },
+          {
+            "Particulars": "Trade payables – Micro and small enterprises",
+            "FY24*": "170",
+            "FY25": "188",
+            "FY26": "283",
+            "H1 FY27": "397"
+          },
+          {
+            "Particulars": "Trade payables – Others",
+            "FY24*": "773",
+            "FY25": "867",
+            "FY26": "1,130",
+            "H1 FY27": "1,560"
+          },
+          {
+            "Particulars": "Other financial liabilities",
+            "FY24*": "229",
+            "FY25": "240",
+            "FY26": "475",
+            "H1 FY27": "292"
+          },
+          {
+            "Particulars": "Other current liabilities",
+            "FY24*": "1,706",
+            "FY25": "1,814",
+            "FY26": "3,901",
+            "H1 FY27": "4,774"
+          },
+          {
+            "Particulars": "Provisions",
+            "FY24*": "89",
+            "FY25": "91",
+            "FY26": "105",
+            "H1 FY27": "117"
+          },
+          {
+            "Particulars": "Current tax liabilities (net)",
+            "FY24*": "-",
+            "FY25": "25",
+            "FY26": "43",
+            "H1 FY27": "127"
+          },
+          {
+            "Particulars": "Total Current liabilities",
+            "FY24*": "4,344",
+            "FY25": "4,537",
+            "FY26": "7,047",
+            "H1 FY27": "8,195"
+          },
+          {
+            "Particulars": "Total Liabilities",
+            "FY24*": "6,239",
+            "FY25": "5,960",
+            "FY26": "7,789",
+            "H1 FY27": "8,718"
+          },
+          {
+            "Particulars": "Total Equity & Liabilities",
+            "FY24*": "8,735",
+            "FY25": "9,676",
+            "FY26": "13,047",
+            "H1 FY27": "15,426"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "47ce0f1c-a4ba-4bc9-bc0b-81c8067fd8c3",
     "SCRIP_CD": 544839,
     "XML_NAME": "ANN_544839_47CE0F1C-A4BA-4BC9-BC0B-81C8067FD8C3",
@@ -20026,47 +20796,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c4656a66-13ea-40fc-8e5c-ed3affbc1a8c",
-    "SCRIP_CD": 534920,
-    "XML_NAME": "ANN_534920_C4656A66-13EA-40FC-8E5C-ED3AFFBC1A8C",
-    "NEWSSUB": "iSERA Lifesciences Ltd - 534920 - We Hereby Submit The Revised Un-Audited Financial Result For The Half Year Ended September 2026",
-    "DT_TM": "2026-11-04T21:31:41.703",
-    "NEWS_DT": "2026-11-04T21:31:41.703",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1f1793c2-e75a-4afe-ae19-9f1c55a41770.pdf",
-    "MORE": "",
-    "HEADLINE": "We hereby submit the revised un-Audited  Financial result for Half year ended September 2026 under regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/isera-lifesciences-ltd/isera/534920/",
-    "SLONGNAME": "iSERA Lifesciences Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 50,
-    "News_submission_dt": "2026-11-04T21:31:41",
-    "DissemDT": "2026-11-04T21:31:41.703",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2736280,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "141",
-      "total_assets": "80259",
-      "total_debt": "1",
-      "currency_unit": "₹ in Lakhs"
-    },
     "financial_tables": []
   }
 ]
