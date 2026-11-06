@@ -1,5 +1,140 @@
 [
   {
+    "NEWSID": "05881fc8-1ebc-474b-ad42-5f194b582488",
+    "SCRIP_CD": 543064,
+    "XML_NAME": "ANN_543064_05881FC8-1EBC-474B-AD42-5F194B582488",
+    "NEWSSUB": "Cohance Lifesciences Ltd - 543064 - General Announcement",
+    "DT_TM": "2026-11-06T08:22:23.67",
+    "NEWS_DT": "2026-11-06T08:22:23.67",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f46806a4-d1ca-4d40-99b2-dbe7d96bc0c7.pdf",
+    "MORE": "",
+    "HEADLINE": "General Announcement",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/cohance-lifesciences-ltd/cohance/543064/",
+    "SLONGNAME": "Cohance Lifesciences Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T08:22:23",
+    "DissemDT": "2026-11-06T08:22:23.673",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 297870,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Operational impact:** On 5 Nov 2026, the Telangana Pollution Control Board (TGPCB) issued an immediate closure order for Cohance Lifesciences Ltd.’s manufacturing site at Suryapet after an industrial accident that resulted in the death of one employee; the company is working to address the violations and seek reinstatement of the site.  \n\n- **Financial impact:** The company stated that the monetary effect of the shutdown “cannot be quantified with reasonable certainty” at this stage – no specific financial figures or decisions were disclosed in the announcement.",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "S. No.": "1",
+            "Particulars": "Name of the listed company",
+            "Details": "Cohance Lifesciences Limited (formerly, Suven Pharmaceuticals Limited)"
+          },
+          {
+            "S. No.": "2",
+            "Particulars": "Type of communication received",
+            "Details": "Closure Order"
+          },
+          {
+            "S. No.": "3",
+            "Particulars": "Date of receipt of communication",
+            "Details": "5 November 2026"
+          },
+          {
+            "S. No.": "4",
+            "Particulars": "Authority from whom communication received",
+            "Details": "Telangana State Pollution Control Board (TGPCB)"
+          },
+          {
+            "S. No.": "5",
+            "Particulars": "Brief summary of the material contents of the communication received, including reasons for receipt of the communication",
+            "Details": "Telangana State Pollution Control Board (TGPCB) has identified certain alleged non-compliances for implementation of safety measures, in line with the applicable consent conditions."
+          },
+          {
+            "S. No.": "6",
+            "Particulars": "Period for which communication would be applicable, if stated",
+            "Details": "Immediate"
+          },
+          {
+            "S. No.": "7",
+            "Particulars": "Expected financial implications on the listed company, if any",
+            "Details": "The Company is assessing the operational and financial impact of the closure. At this stage, the impact cannot be quantified with reasonable certainty."
+          },
+          {
+            "S. No.": "8",
+            "Particulars": "Details of any aberrations/non-compliances identified by the authority in the communication",
+            "Details": "Lack of strict implementation of safety measures for prevention of the accident, in line with the applicable consent conditions."
+          },
+          {
+            "S. No.": "9",
+            "Particulars": "Details of any penalty or restriction or sanction imposed pursuant to the communication",
+            "Details": "Closure Order"
+          },
+          {
+            "S. No.": "10",
+            "Particulars": "Action(s) taken by listed company with respect to the communication",
+            "Details": "The Company has immediately initiated appropriate corrective and preventive measures to address the observations stated in the directions issued by TGPCB and expects to promptly submit the requisite representations and compliances to TBPCB, for seeking cancellation of the closure directions at the earliest and allowing the site to resume operations."
+          },
+          {
+            "S. No.": "11",
+            "Particulars": "Any other relevant information",
+            "Details": "Nil"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "65be6031-4a7a-492a-9632-429473bf08e5",
+    "SCRIP_CD": 544978,
+    "XML_NAME": "ANN_544978_65BE6031-4A7A-492A-9632-429473BF08E5",
+    "NEWSSUB": "Shree TNB Polymers Ltd - 544978 - Board Meeting Intimation for Prior Intimation Of Board Meeting Pursuant To Regulation 29 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-06T08:03:02.477",
+    "NEWS_DT": "2026-11-06T08:03:02.477",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "953e031f-2eef-415b-818d-4483485d5206.pdf",
+    "MORE": "Shree TNB Polymers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Unaudited Financial Results of the Company for the half-year ended September 30, 2026",
+    "HEADLINE": "Shree TNB Polymers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Unaudited Financial Results ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shree-tnb-polymers-ltd/shreetnb/544978/",
+    "SLONGNAME": "Shree TNB Polymers Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T08:03:01",
+    "DissemDT": "2026-11-06T08:03:02.477",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 631261,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A Board of Directors meeting of Shree TNB Polymers Ltd is scheduled for **Saturday, 14 November 2026** to consider and approve the **unaudited financial results for the half‑year ended 30 September 2026**, along with other agenda items.  \n- In line with SEBI insider‑trading rules, the company’s **trading window was closed on 10 October 2026** and will remain closed **until 48 hours after the results are announced**.  \n\n*No specific financial figures or quantitative decisions are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "59c36cbf-3bff-4e0e-85c7-3ac1abe70e76",
     "SCRIP_CD": 545020,
     "XML_NAME": "ANN_545020_59C36CBF-3BFF-4E0E-85C7-3AC1ABE70E76",
@@ -37716,283 +37851,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "6ef3e1c7-cc6f-417a-b766-4b5b12ce09d8",
-    "SCRIP_CD": 519183,
-    "XML_NAME": "ANN_519183_6EF3E1C7-CC6F-417A-B766-4B5B12CE09D8",
-    "NEWSSUB": "Adf Foods Ltd-$ - 519183 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-05T21:23:46.187",
-    "NEWS_DT": "2026-11-05T21:23:46.187",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "81a5db25-d296-4cef-abd4-6db87e5f6cd4.pdf",
-    "MORE": "",
-    "HEADLINE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, we hereby enclose Corporate Investor Presentation for the quarter ended 30th September, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/adf-foods-ltd/adffoods/519183/",
-    "SLONGNAME": "Adf Foods Ltd-$",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:23:46",
-    "DissemDT": "2026-11-05T21:23:46.187",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 9090849,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "48.5",
-      "operating_profit": "66.6",
-      "roce": "18.1",
-      "roe": "14.0",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 50,
-        "table_index": 1,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars (INR crores unless stated)": "Profit & Loss Highlights",
-            "FY22": "",
-            "FY23": "",
-            "FY24": "",
-            "FY25": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR crores unless stated)": "Revenue from Operations",
-            "FY22": "421.2",
-            "FY23": "450.3",
-            "FY24": "520.3",
-            "FY25": "589.6",
-            "FY26": "683.2"
-          },
-          {
-            "Particulars (INR crores unless stated)": "Gross Profit",
-            "FY22": "211.5",
-            "FY23": "235.9",
-            "FY24": "276.2",
-            "FY25": "341.4",
-            "FY26": "410.5"
-          },
-          {
-            "Particulars (INR crores unless stated)": "Gross Profit (%)",
-            "FY22": "50.2%",
-            "FY23": "52.4%",
-            "FY24": "53.1%",
-            "FY25": "57.9%",
-            "FY26": "60.1%"
-          },
-          {
-            "Particulars (INR crores unless stated)": "EBITDA",
-            "FY22": "66.6",
-            "FY23": "80.6",
-            "FY24": "104.9",
-            "FY25": "98.4",
-            "FY26": "130.7"
-          },
-          {
-            "Particulars (INR crores unless stated)": "EBITDA Margin (%)",
-            "FY22": "15.8%",
-            "FY23": "17.9%",
-            "FY24": "20.2%",
-            "FY25": "16.7%",
-            "FY26": "19.1%"
-          },
-          {
-            "Particulars (INR crores unless stated)": "PAT",
-            "FY22": "48.5",
-            "FY23": "55.9",
-            "FY24": "73.8",
-            "FY25": "69.3",
-            "FY26": "96.8 #"
-          },
-          {
-            "Particulars (INR crores unless stated)": "PAT Margin (%)",
-            "FY22": "11.5%",
-            "FY23": "12.4%",
-            "FY24": "14.2%",
-            "FY25": "11.7%",
-            "FY26": "14.2%"
-          },
-          {
-            "Particulars (INR crores unless stated)": "Balance Sheet Highlights",
-            "FY22": "",
-            "FY23": "",
-            "FY24": "",
-            "FY25": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR crores unless stated)": "Equity",
-            "FY22": "345.6",
-            "FY23": "421.6",
-            "FY24": "442.0",
-            "FY25": "492.7",
-            "FY26": "571.9"
-          },
-          {
-            "Particulars (INR crores unless stated)": "Net Debt*",
-            "FY22": "(101.3)",
-            "FY23": "(143.4)",
-            "FY24": "(144.5)",
-            "FY25": "(118.0)",
-            "FY26": "(78.2)"
-          },
-          {
-            "Particulars (INR crores unless stated)": "Tangible & Intangible Assets",
-            "FY22": "160.3",
-            "FY23": "181.6",
-            "FY24": "187.4",
-            "FY25": "204.6",
-            "FY26": "285.0"
-          },
-          {
-            "Particulars (INR crores unless stated)": "ROCE**",
-            "FY22": "18.1%",
-            "FY23": "18.1%",
-            "FY24": "22.2%",
-            "FY25": "20.2%",
-            "FY26": "23.4%"
-          },
-          {
-            "Particulars (INR crores unless stated)": "ROE**",
-            "FY22": "14.0%",
-            "FY23": "17.7%",
-            "FY24": "17.1%",
-            "FY25": "14.1%",
-            "FY26": "16.9%"
-          },
-          {
-            "Particulars (INR crores unless stated)": "Working Capital",
-            "FY22": "115.6",
-            "FY23": "134.9",
-            "FY24": "131.4",
-            "FY25": "161.9",
-            "FY26": "193.6"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "64d50f42-f300-415c-a930-2dfe0e8bc5a2",
-    "SCRIP_CD": 544681,
-    "XML_NAME": "ANN_544681_64D50F42-F300-415C-A930-2DFE0E8BC5A2",
-    "NEWSSUB": "INDO SMC Ltd - 544681 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-05T21:23:42.1",
-    "NEWS_DT": "2026-11-05T21:23:42.1",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6b04f2bf-4285-4cf7-bdbe-6b9e1b194cfb.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/indo-smc-ltd/indosmc/544681/",
-    "SLONGNAME": "INDO SMC Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:23:42",
-    "DissemDT": "2026-11-05T21:23:42.1",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 893330,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "21804.33",
-      "net_profit": "76",
-      "operating_profit": "55",
-      "total_debt": "48.84 crore",
-      "eps": "8.83",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "col_1": "Total Income",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "21,804.33",
-            "H1 FY27": "",
-            "col_6": "",
-            "col_7": "11,261.89",
-            "H1 FY26": "",
-            "col_9": "",
-            "col_10": "93.61%",
-            "YoY Change": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "EBITDA",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "2,766.55",
-            "H1 FY27": "",
-            "col_6": "",
-            "col_7": "1,779.54",
-            "H1 FY26": "",
-            "col_9": "",
-            "col_10": "55.47%",
-            "YoY Change": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "Net Profit",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "2,018.29",
-            "H1 FY27": "",
-            "col_6": "",
-            "col_7": "1,145.51",
-            "H1 FY26": "",
-            "col_9": "",
-            "col_10": "76.19%",
-            "YoY Change": "",
-            "col_12": ""
-          },
-          {
-            "col_1": "EPS (₹)",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "8.83",
-            "H1 FY27": "",
-            "col_6": "",
-            "col_7": "6.87",
-            "H1 FY26": "",
-            "col_9": "",
-            "col_10": "28.53%",
-            "YoY Change": "",
-            "col_12": ""
-          }
-        ]
-      }
-    ]
   }
 ]
