@@ -1,5 +1,472 @@
 [
   {
+    "NEWSID": "c00d736f-054a-4d5a-a483-2fc065a502f7",
+    "SCRIP_CD": 543990,
+    "XML_NAME": "ANN_543990_C00D736F-054A-4D5A-A483-2FC065A502F7",
+    "NEWSSUB": "Signatureglobal (India) Ltd - 543990 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-11-06T09:17:05.573",
+    "NEWS_DT": "2026-11-06T09:17:05.573",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d65091ba-744c-4931-8e12-6806b6c8c397.pdf",
+    "MORE": "",
+    "HEADLINE": "Link of Recording",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/signatureglobal-(india)-ltd/signature/543990/",
+    "SLONGNAME": "Signatureglobal (India) Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T09:17:05",
+    "DissemDT": "2026-11-06T09:17:05.573",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1060397,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "c00d736f-054a-4d5a-a483-2fc065a502f7",
+    "INVESTOR_PRESENTATION": "4c8dd8d1-10d5-44ed-80b5-affc5ef7d636.mp3",
+    "RECORDID": 14794885,
+    "DataInsDate": "2026-11-06T09:17:05.487",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/4c8dd8d1-10d5-44ed-80b5-affc5ef7d636.mp3",
+    "summary": "- The company announced that the audio recording of its Q2 FY 27 earnings conference call (covering unaudited results for the quarter and half‑year ended 30 Sept 2026) is now available on its website: https://cdn.signatureglobal.in/documents/Audio-Recording-of-Earnings-call-ssaB1d9NE7Dt8std2Ogl2Q.mp3.  \n- The announcement was made on 6 Nov 2026 and contains no specific financial figures, dates of future actions, or other monetary decisions.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f0650de1-b828-4509-9cf1-75b81eff2459",
+    "SCRIP_CD": 539301,
+    "XML_NAME": "ANN_539301_F0650DE1-B828-4509-9CF1-75B81EFF2459",
+    "NEWSSUB": "Arvind SmartSpaces Ltd - 539301 - Announcement under Regulation 30 (LODR)-Press Release / Media Release (Revised)",
+    "DT_TM": "2026-11-06T09:15:54.517",
+    "NEWS_DT": "2026-11-06T09:15:54.517",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e8258acd-54df-47d1-9eb3-b6431bb467e0.pdf",
+    "MORE": "",
+    "HEADLINE": "We are submitting updated media release.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/arvind-smartspaces-ltd/arvsmart/539301/",
+    "SLONGNAME": "Arvind SmartSpaces Ltd",
+    "AGENDA_ID": 155,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T09:15:54",
+    "DissemDT": "2026-11-06T09:15:54.517",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1363585,
+    "SUBCATNAME": "Press Release / Media Release (Revised)",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c32aeb58-783c-4588-8891-5d9e1ee42029",
+    "SCRIP_CD": 500368,
+    "XML_NAME": "ANN_500368_C32AEB58-783C-4588-8891-5D9E1EE42029",
+    "NEWSSUB": "Patanjali Foods Ltd - 500368 - Disclosure under Regulation 30A of LODR",
+    "DT_TM": "2026-11-06T09:11:42.423",
+    "NEWS_DT": "2026-11-06T09:11:42.423",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8fa41841-f7b5-41d1-96d0-bf542e05a4a9.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Regulation 30 of SEBI LODR.",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/patanjali-foods-ltd/patanjali/500368/",
+    "SLONGNAME": "Patanjali Foods Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T09:11:42",
+    "DissemDT": "2026-11-06T09:11:42.423",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 128418,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Date & Disclosure:** On 6 November 2026, Patanjali Foods Ltd filed a Regulation 30A disclosure with BSE and NSE, announcing a press release on its diversification strategy.  \n- **Key Metrics:** The company reports that e‑commerce (including quick commerce) now accounts for **≈ 35 % of total channel revenue**, while its institutional business has achieved **≈ 50 % year‑on‑year growth**.  \n\n*No specific financial figures or decisions (e.g., earnings, investments, dividends) are disclosed in the announcement.*",
+    "key_metrics": {
+      "revenue": ""
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a766a7a9-aff0-42ce-b6c3-9d6c9e675e70",
+    "SCRIP_CD": 533169,
+    "XML_NAME": "ANN_533169_A766A7A9-AFF0-42CE-B6C3-9D6C9E675E70",
+    "NEWSSUB": "Man Infraconstruction Ltd - 533169 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-06T09:05:46.523",
+    "NEWS_DT": "2026-11-06T09:05:46.523",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0a3751c4-1e2e-4c13-82f6-24bad483bab8.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed Postal Ballot Notice dated October 29, 2026 along with e-Voting Instructions.",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/man-infraconstruction-ltd/maninfra/533169/",
+    "SLONGNAME": "Man Infraconstruction Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T09:05:46",
+    "DissemDT": "2026-11-06T09:05:46.523",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1330080,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Man Infraconstruction Ltd. has issued a Postal Ballot Notice (dated 29 Oct 2026) to seek shareholder approval of an Ordinary Resolution via remote e‑voting; the e‑voting window runs from **08 Nov 2026 09:00 IST** to **07 Dec 2026 17:00 IST**.  \n- The notice is being sent electronically only to shareholders with registered email IDs (via MUFG Intime India Private Limited and the depositories), and the voting results will be reported to the stock exchanges together with the Scrutinizer’s report.  \n\n*No specific financial figures or monetary decisions are disclosed in the announcement.*",
+    "key_metrics": {
+      "revenue": "112.73",
+      "net_profit": "10.24",
+      "total_equity": "10.29",
+      "total_debt": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 21,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "SI. No": "1.",
+            "Nature of transaction for FY25-26": "Sale, purchase of goods or materials or supply of services",
+            "Amount (Rs. in Crores)": "21.68"
+          },
+          {
+            "SI. No": "2.",
+            "Nature of transaction for FY25-26": "Interest Income",
+            "Amount (Rs. in Crores)": "44.03"
+          },
+          {
+            "SI. No": "3.",
+            "Nature of transaction for FY25-26": "Loans given",
+            "Amount (Rs. in Crores)": "85.90"
+          },
+          {
+            "SI. No": "4.",
+            "Nature of transaction for FY25-26": "Bank Guarantees/ Corporate Guarantees / Securities provided",
+            "Amount (Rs. in Crores)": "200.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "d4ad3cf1-3f61-4c29-b398-6d98c87d0a33",
+    "SCRIP_CD": 539436,
+    "XML_NAME": "ANN_539436_D4AD3CF1-3F61-4C29-B398-6D98C87D0A33",
+    "NEWSSUB": "Coffee Day Enterprises Ltd - 539436 - SAT Order Dated 05-11-2026",
+    "DT_TM": "2026-11-06T09:02:41.99",
+    "NEWS_DT": "2026-11-06T09:02:41.99",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a801c1cd-9c3d-4d60-8c25-5d7cc5817fee.pdf",
+    "MORE": "",
+    "HEADLINE": "SAT Order dated 05-11-2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/coffee-day-enterprises-ltd/coffeeday/539436/",
+    "SLONGNAME": "Coffee Day Enterprises Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T09:02:41",
+    "DissemDT": "2026-11-06T09:02:41.99",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1554982,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **5 Nov 2026 – SAT Judgment:** The Securities Appellate Tribunal in Mumbai overturned SEBI’s 24 Jan 2023 order that had imposed a **₹26 crore penalty** on Coffee Day Enterprises Ltd, dismissed any pending interlocutory applications and awarded **no costs**.  \n\n- **Previous stay & next",
+    "key_metrics": {
+      "revenue": "",
+      "total_equity": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "Financial year": "All figures in INR (CR).",
+            "CDEL": "Networth",
+            "col_3": "Consolidated Income",
+            "CDTL": "Networth",
+            "col_5": "Consolidated Income"
+          },
+          {
+            "Financial year": "2017-18",
+            "CDEL": "3015.46",
+            "col_3": "3851.11",
+            "CDTL": "281.06",
+            "col_5": "167.40"
+          },
+          {
+            "Financial year": "2018-19",
+            "CDEL": "3166.14",
+            "col_3": "4466.79",
+            "CDTL": "415.76",
+            "col_5": "327.25"
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "Financial year": "All figures in (CR).",
+            "CDEL": "NINetRw orth",
+            "col_3": "Consolidated Income",
+            "CDTL": "Networth",
+            "col_5": "Consolidated Income"
+          },
+          {
+            "Financial year": "2017-18",
+            "CDEL": "3015.46",
+            "col_3": "3851.11",
+            "CDTL": "281.06",
+            "col_5": "167.40"
+          },
+          {
+            "Financial year": "2018-19",
+            "CDEL": "3166.14",
+            "col_3": "4466.79",
+            "CDTL": "415.76",
+            "col_5": "327.25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "60515b81-a8c1-427f-a5ae-8812f8391db4",
+    "SCRIP_CD": 539730,
+    "XML_NAME": "ANN_539730_60515B81-A8C1-427F-A5AE-8812F8391DB4",
+    "NEWSSUB": "Fredun Pharmaceuticals Ltd - 539730 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-06T09:02:19.623",
+    "NEWS_DT": "2026-11-06T09:02:19.623",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "aac862d7-626f-457e-b9d5-c7f97ca3d305.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/fredun-pharmaceuticals-ltd/fredun/539730/",
+    "SLONGNAME": "Fredun Pharmaceuticals Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T09:02:19",
+    "DissemDT": "2026-11-06T09:02:19.623",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1266360,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **H1 FY27 financial results:** Total income rose 87% YoY to **₹495.88 cr** (vs ₹265.15 cr in H1 FY26); EBITDA jumped 92% YoY to **₹75.38 cr** (vs ₹39.33",
+    "key_metrics": {
+      "revenue": "267.64",
+      "net_profit": "18.83",
+      "operating_profit": "42.60",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "col_1": "",
+            "col_2": "Particulars (₹ Cr)",
+            "col_3": "",
+            "col_4": "",
+            "Standalone": "Q2 FY27",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "Q2 FY26",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "YoY",
+            "col_12": "",
+            "col_13": "",
+            "col_14": "H1 FY27",
+            "col_15": "",
+            "col_16": "",
+            "col_17": "H1 FY26",
+            "col_18": "",
+            "col_19": "",
+            "col_20": "YoY",
+            "col_21": ""
+          },
+          {
+            "col_1": "Total Income",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "Standalone": "267.64",
+            "col_6": "",
+            "col_7": "145.29",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "84.21%",
+            "col_11": "",
+            "col_12": "",
+            "col_13": "",
+            "col_14": "495.88",
+            "col_15": "",
+            "col_16": "265.15",
+            "col_17": "",
+            "col_18": "",
+            "col_19": "87.02%",
+            "col_20": "",
+            "col_21": ""
+          },
+          {
+            "col_1": "EBITDA",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "Standalone": "42.60",
+            "col_6": "",
+            "col_7": "22.34",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "90.74%",
+            "col_11": "",
+            "col_12": "",
+            "col_13": "",
+            "col_14": "75.38",
+            "col_15": "",
+            "col_16": "39.33",
+            "col_17": "",
+            "col_18": "",
+            "col_19": "91.67%",
+            "col_20": "",
+            "col_21": ""
+          },
+          {
+            "col_1": "EBITDA Margin (%)",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "Standalone": "15.92%",
+            "col_6": "",
+            "col_7": "15.37%",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "+55 bps",
+            "col_11": "",
+            "col_12": "",
+            "col_13": "",
+            "col_14": "15.20%",
+            "col_15": "",
+            "col_16": "14.83%",
+            "col_17": "",
+            "col_18": "",
+            "col_19": "+37 bps",
+            "col_20": "",
+            "col_21": ""
+          },
+          {
+            "col_1": "Net Profit",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "Standalone": "18.83",
+            "col_6": "",
+            "col_7": "9.73",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "93.44%",
+            "col_11": "",
+            "col_12": "",
+            "col_13": "",
+            "col_14": "31.99",
+            "col_15": "",
+            "col_16": "16.50",
+            "col_17": "",
+            "col_18": "",
+            "col_19": "93.92%",
+            "col_20": "",
+            "col_21": ""
+          },
+          {
+            "col_1": "Net Profit margin (%)",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "Standalone": "7.03%",
+            "col_6": "",
+            "col_7": "6.70%",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "+34 bps",
+            "col_11": "",
+            "col_12": "",
+            "col_13": "",
+            "col_14": "6.45%",
+            "col_15": "",
+            "col_16": "6.22%",
+            "col_17": "",
+            "col_18": "",
+            "col_19": "+23 bps",
+            "col_20": "",
+            "col_21": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "c78c408b-3575-425c-aa7d-7e94d00f23db",
     "SCRIP_CD": 526588,
     "XML_NAME": "ANN_526588_C78C408B-3575-425C-AA7D-7E94D00F23DB",
@@ -34618,2878 +35085,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "c3fa3b18-59dc-4792-bdc6-5d3ad8cc06e7",
-    "SCRIP_CD": 533271,
-    "XML_NAME": "ANN_533271_C3FA3B18-59DC-4792-BDC6-5D3AD8CC06E7",
-    "NEWSSUB": "Ashoka Buildcon Ltd - 533271 - Board Meeting Outcome for Outcome Of The Board Meeting",
-    "DT_TM": "2026-11-05T21:29:52.613",
-    "NEWS_DT": "2026-11-05T21:29:52.613",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "17835847-573a-4674-a53e-945203aa9755.pdf",
-    "MORE": "Pursuant to Regulations 30, 33 and 52 of the SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015, ('SEBI LODR') the outcome of meeting of the Board of Directors held In-Person at Ashoka House, Ashoka Marg, Nashik, - 422 011 on Thursday, November 05, 2026, which was commenced at 3.45 p.m. and concluded at 06.45 p.m.",
-    "HEADLINE": "Pursuant to Regulations 30, 33 and 52 of the SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015, ('SEBI LODR') the outcome of meeting of the Board of Directors held ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ashoka-buildcon-ltd/ashoka/533271/",
-    "SLONGNAME": "Ashoka Buildcon Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:29:51",
-    "DissemDT": "2026-11-05T21:29:52.613",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 906131,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "131548.41",
-      "total_assets": "899187.46",
-      "total_equity": "2",
-      "total_debt": "96823.67",
-      "face_value": "14036.16",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 34,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30-Sep-26",
-            "col_3": "30-Jun-26",
-            "col_4": "30-Sep-25",
-            "Half Year Ended": "30-Sep-26",
-            "col_6": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_6": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "I Revenue from Operations",
-            "Quarter Ended": "1,31,548.41",
-            "col_3": "1,28,787.65",
-            "col_4": "1,26,609.52",
-            "Half Year Ended": "2,60,336.06",
-            "col_6": "2 ,57,673.43",
-            "Year Ended": "5 ,81,165.66"
-          },
-          {
-            "Particulars": "II Other Income",
-            "Quarter Ended": "4 ,075.45",
-            "col_3": "3 ,256.57",
-            "col_4": "3 ,652.02",
-            "Half Year Ended": "7,332.02",
-            "col_6": "6,499.77",
-            "Year Ended": "14,054.62"
-          },
-          {
-            "Particulars": "III Total Income (I+II)",
-            "Quarter Ended": "1,35,623.86",
-            "col_3": "1,32,044.22",
-            "col_4": "1,30,261.54",
-            "Half Year Ended": "2,67,668.08",
-            "col_6": "2 ,64,173.20",
-            "Year Ended": "5 ,95,220.28"
-          },
-          {
-            "Particulars": "IV Expenses",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Cost of Materials Consumed",
-            "Quarter Ended": "44,916.53",
-            "col_3": "38,315.72",
-            "col_4": "39,151.50",
-            "Half Year Ended": "83,232.25",
-            "col_6": "85,602.50",
-            "Year Ended": "1 ,82,132.06"
-          },
-          {
-            "Particulars": "Construction Expenses",
-            "Quarter Ended": "65,433.73",
-            "col_3": "69,432.64",
-            "col_4": "66,586.07",
-            "Half Year Ended": "1,34,866.37",
-            "col_6": "1 ,28,043.62",
-            "Year Ended": "3 ,03,180.61"
-          },
-          {
-            "Particulars": "Employee Benefit Expenses",
-            "Quarter Ended": "6 ,160.08",
-            "col_3": "6 ,123.50",
-            "col_4": "5 ,580.06",
-            "Half Year Ended": "12,283.58",
-            "col_6": "11,269.83",
-            "Year Ended": "23,004.69"
-          },
-          {
-            "Particulars": "Finance costs",
-            "Quarter Ended": "5 ,687.80",
-            "col_3": "6 ,024.59",
-            "col_4": "7 ,815.82",
-            "Half Year Ended": "11,712.39",
-            "col_6": "16,221.25",
-            "Year Ended": "31,297.21"
-          },
-          {
-            "Particulars": "Depreciation and amortisation expense",
-            "Quarter Ended": "2 ,566.32",
-            "col_3": "2 ,232.41",
-            "col_4": "2 ,448.63",
-            "Half Year Ended": "4,798.73",
-            "col_6": "4,784.63",
-            "Year Ended": "9,785.18"
-          },
-          {
-            "Particulars": "Other expenses",
-            "Quarter Ended": "5 ,719.39",
-            "col_3": "5 ,619.68",
-            "col_4": "2 ,964.37",
-            "Half Year Ended": "11,339.07",
-            "col_6": "8,208.00",
-            "Year Ended": "23,292.06"
-          },
-          {
-            "Particulars": "V Total expenses",
-            "Quarter Ended": "1,30,483.85",
-            "col_3": "1,27,748.54",
-            "col_4": "1,24,546.45",
-            "Half Year Ended": "2,58,232.39",
-            "col_6": "2 ,54,129.83",
-            "Year Ended": "5 ,72,691.81"
-          },
-          {
-            "Particulars": "VI Profit before Exceptional Items and Tax (III-V)",
-            "Quarter Ended": "5 ,140.01",
-            "col_3": "4 ,295.68",
-            "col_4": "5 ,715.09",
-            "Half Year Ended": "9,435.69",
-            "col_6": "10,043.37",
-            "Year Ended": "22,528.47"
-          },
-          {
-            "Particulars": "VII Exceptional Items (net) (Refer Note 4)",
-            "Quarter Ended": "-",
-            "col_3": "-",
-            "col_4": "11,205.41",
-            "Half Year Ended": "-",
-            "col_6": "11,205.41",
-            "Year Ended": "16,472.46"
-          },
-          {
-            "Particulars": "VIII Share of Profit from Partnership Firms",
-            "Quarter Ended": "5.10",
-            "col_3": "5.36",
-            "col_4": "5.66",
-            "Half Year Ended": "1 0.46",
-            "col_6": "10.53",
-            "Year Ended": "16.71"
-          },
-          {
-            "Particulars": "IX Profit before Tax (VI+VII+VIII)",
-            "Quarter Ended": "5 ,145.11",
-            "col_3": "4 ,301.04",
-            "col_4": "16,926.16",
-            "Half Year Ended": "9,446.15",
-            "col_6": "21,259.31",
-            "Year Ended": "39,017.64"
-          },
-          {
-            "Particulars": "X Tax expenses :",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "(1) Current tax",
-            "Quarter Ended": "1 ,914.56",
-            "col_3": "1 ,598.71",
-            "col_4": "3 ,552.49",
-            "Half Year Ended": "3,513.27",
-            "col_6": "5,114.49",
-            "Year Ended": "10,462.87"
-          },
-          {
-            "Particulars": "(2) Deferred tax charge / (credit)",
-            "Quarter Ended": "(565.63)",
-            "col_3": "(451.36)",
-            "col_4": "(543.87)",
-            "Half Year Ended": "(1,016.99)",
-            "col_6": "(834.87)",
-            "Year Ended": "(3,488.88)"
-          },
-          {
-            "Particulars": "Total tax expenses",
-            "Quarter Ended": "1 ,348.93",
-            "col_3": "1 ,147.35",
-            "col_4": "3 ,008.62",
-            "Half Year Ended": "2,496.28",
-            "col_6": "4,279.62",
-            "Year Ended": "6,973.99"
-          },
-          {
-            "Particulars": "XI Profit after tax (IX-X)",
-            "Quarter Ended": "3 ,796.18",
-            "col_3": "3 ,153.69",
-            "col_4": "13,917.54",
-            "Half Year Ended": "6,949.87",
-            "col_6": "16,979.69",
-            "Year Ended": "32,043.65"
-          },
-          {
-            "Particulars": "XII Other Comprehensive Income / (Loss)",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "(i) Items that will not be reclassified to profit or loss",
-            "Quarter Ended": "4 61.80",
-            "col_3": "63.42",
-            "col_4": "(10.90)",
-            "Half Year Ended": "5 25.22",
-            "col_6": "(21.81)",
-            "Year Ended": "253.70"
-          },
-          {
-            "Particulars": "(ii) Income tax relating to items that will not be reclassified to profit or loss",
-            "Quarter Ended": "(118.34)",
-            "col_3": "(16.25)",
-            "col_4": "2.79",
-            "Half Year Ended": "(134.59)",
-            "col_6": "5.59",
-            "Year Ended": "(65.01)"
-          },
-          {
-            "Particulars": "Other comprehensive income / (loss) (net of tax) (i+ii)",
-            "Quarter Ended": "3 43.46",
-            "col_3": "47.17",
-            "col_4": "(8.11)",
-            "Half Year Ended": "3 90.63",
-            "col_6": "(16.22)",
-            "Year Ended": "188.69"
-          },
-          {
-            "Particulars": "XIII Total Comprehensive Income for the Period / Year (XI+XII)",
-            "Quarter Ended": "4 ,139.64",
-            "col_3": "3 ,200.86",
-            "col_4": "13,909.43",
-            "Half Year Ended": "7,340.50",
-            "col_6": "16,963.47",
-            "Year Ended": "32,232.34"
-          },
-          {
-            "Particulars": "Paid-up equity share capital (equity shares of Face Value of ` 5/- each)",
-            "Quarter Ended": "14,036.16",
-            "col_3": "14,036.16",
-            "col_4": "14,036.16",
-            "Half Year Ended": "14,036.16",
-            "col_6": "14,036.16",
-            "Year Ended": "14,036.16"
-          },
-          {
-            "Particulars": "Other Equity",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": "4 ,19,136.49"
-          },
-          {
-            "Particulars": "XIV Earnings per equity share # (Face Value of ` 5/- each) :",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "A. With Exceptional Items",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Basic & Diluted",
-            "Quarter Ended": "1.35",
-            "col_3": "1.12",
-            "col_4": "4.96",
-            "Half Year Ended": "2.48",
-            "col_6": "6.05",
-            "Year Ended": "11.41"
-          },
-          {
-            "Particulars": "B. Without Exceptional Items and related tax",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Basic & Diluted",
-            "Quarter Ended": "1.35",
-            "col_3": "1.12",
-            "col_4": "1.54",
-            "Half Year Ended": "2.48",
-            "col_6": "2 .63",
-            "Year Ended": "6 .39"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 22,
-        "rows": [
-          {
-            "col_1": "Sr. No.",
-            "col_2": "Particulars",
-            "Quarter Ended Half Year Ended": "30-Sep-26",
-            "col_4": "30-Jun-26",
-            "col_5": "30-Sep-25",
-            "col_6": "30-Sep-26",
-            "col_7": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Quarter Ended Half Year Ended": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited",
-            "col_6": "Unaudited",
-            "col_7": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "col_1": "1",
-            "col_2": "Debt-Equity Ratio (Total Borrowings (Current Borrowings + Non Current Borrowings + Lease liabilities) / Total Equity",
-            "Quarter Ended Half Year Ended": "0.48",
-            "col_4": "0.49",
-            "col_5": "0.56",
-            "col_6": "0.48",
-            "col_7": "0 .56",
-            "Year Ended": "0 .49"
-          },
-          {
-            "col_1": "2",
-            "col_2": "Debt Service Coverage Ratio # (Earnings for debt service / Debt service) (Earnings for debt service = Profit before Exceptional Item and tax + Depreciation and amortisation expense + Interest on Loans + Interest on Lease Liabilities) (Debt Service = Interest on Loans + Interest on Lease Liabilities + Repayment of Non Current Borrowings (Including Current Maturities of Term Loans) for the period)",
-            "Quarter Ended Half Year Ended": "0.81",
-            "col_4": "0.94",
-            "col_5": "1.16",
-            "col_6": "0.87",
-            "col_7": "0 .98",
-            "Year Ended": "0 .84"
-          },
-          {
-            "col_1": "3",
-            "col_2": "Interest Service Coverage Ratio ((Profit before Exceptional Item and tax + Finance costs + Deprecation and amortisation expense) / Finance costs)",
-            "Quarter Ended Half Year Ended": "2.36",
-            "col_4": "2.08",
-            "col_5": "2.05",
-            "col_6": "2.22",
-            "col_7": "1 .91",
-            "Year Ended": "2 .03"
-          },
-          {
-            "col_1": "4",
-            "col_2": "Total Equity (₹ in Lakhs)",
-            "Quarter Ended Half Year Ended": "4,40,513.14",
-            "col_4": "4,36,373.51",
-            "col_5": "4,17,903.78",
-            "col_6": "4,40,513.14",
-            "col_7": "4,17,903.78",
-            "Year Ended": "4,33,172.65"
-          },
-          {
-            "col_1": "5",
-            "col_2": "Current Ratio (Total Current Assets / Total Current Liabilities)",
-            "Quarter Ended Half Year Ended": "2.14",
-            "col_4": "2.19",
-            "col_5": "1.95",
-            "col_6": "2.14",
-            "col_7": "1 .95",
-            "Year Ended": "2 .15"
-          },
-          {
-            "col_1": "6",
-            "col_2": "Long Term Debt to Working Capital (Non Current Borrowings (Including Current Maturities of Term Loans) / Working capital (Total Current Assets - Total Current Liabilities))",
-            "Quarter Ended Half Year Ended": "0.31",
-            "col_4": "0.33",
-            "col_5": "0.32",
-            "col_6": "0.31",
-            "col_7": "0 .32",
-            "Year Ended": "0 .33"
-          },
-          {
-            "col_1": "7",
-            "col_2": "Bad Debts to Account Receivable Ratio (Bad Debts / Average Trade receivables)",
-            "Quarter Ended Half Year Ended": "0.00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "col_6": "0.00",
-            "col_7": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "col_1": "8",
-            "col_2": "Current Liability Ratio (Total Current Liabilities / Total Liabilities)",
-            "Quarter Ended Half Year Ended": "0.62",
-            "col_4": "0.61",
-            "col_5": "0.65",
-            "col_6": "0.62",
-            "col_7": "0 .65",
-            "Year Ended": "0 .62"
-          },
-          {
-            "col_1": "9",
-            "col_2": "Total Debts to Total Assets Ratio ((Total Borrowings (Current Borrowings + Non Current Borrowings)) / Total Assets)",
-            "Quarter Ended Half Year Ended": "0.23",
-            "col_4": "0.24",
-            "col_5": "0.24",
-            "col_6": "0.23",
-            "col_7": "0 .24",
-            "Year Ended": "0 .23"
-          },
-          {
-            "col_1": "10",
-            "col_2": "Debtors' turnover ratio # (Revenue from Operations / Average Trade receivable ((Opening Trade receivables and Contract Assets + Closing Trade receivables and Contract Assets) / 2))",
-            "Quarter Ended Half Year Ended": "0.28",
-            "col_4": "0.27",
-            "col_5": "0.29",
-            "col_6": "0.55",
-            "col_7": "0 .60",
-            "Year Ended": "1 .28"
-          },
-          {
-            "col_1": "11",
-            "col_2": "Inventory turnover ratio # (Cost of Materials Consumed / Average Inventory ((Opening inventory + Closing inventory) / 2))",
-            "Quarter Ended Half Year Ended": "1.75",
-            "col_4": "1.51",
-            "col_5": "1.40",
-            "col_6": "3.33",
-            "col_7": "2 .78",
-            "Year Ended": "6 .11"
-          },
-          {
-            "col_1": "12",
-            "col_2": "Operating Margin (%) (Profit before Exceptional Item and tax + Finance costs + Deprecation and amortisation expense - Other Income / Revenue from Operations)",
-            "Quarter Ended Half Year Ended": "7.09%",
-            "col_4": "7.22%",
-            "col_5": "9.74%",
-            "col_6": "7.15%",
-            "col_7": "9.53%",
-            "Year Ended": "8.53%"
-          },
-          {
-            "col_1": "13",
-            "col_2": "Net Profit Margin (%) (Profit after tax for the period / Revenue from Operations)",
-            "Quarter Ended Half Year Ended": "2.89%",
-            "col_4": "2.45%",
-            "col_5": "10.99%",
-            "col_6": "2.67%",
-            "col_7": "6.59%",
-            "Year Ended": "5.51%"
-          },
-          {
-            "col_1": "14",
-            "col_2": "Outstanding Redeemable Preference Shares",
-            "Quarter Ended Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "15",
-            "col_2": "Capital Redemption Reserve",
-            "Quarter Ended Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "16",
-            "col_2": "Debenture Redemption Reserve",
-            "Quarter Ended Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "17",
-            "col_2": "Net Worth (as per Companies Act, 2013) (₹ in Lakhs)",
-            "Quarter Ended Half Year Ended": "4 ,40,513.14",
-            "col_4": "4 ,36,373.51",
-            "col_5": "4 ,17,903.78",
-            "col_6": "4 ,40,513.14",
-            "col_7": "4 ,17,903.78",
-            "Year Ended": "4 ,33,172.65"
-          },
-          {
-            "col_1": "18",
-            "col_2": "Net Profit Before Tax",
-            "Quarter Ended Half Year Ended": "5 ,145.11",
-            "col_4": "4 ,301.04",
-            "col_5": "1 6,926.16",
-            "col_6": "9 ,446.15",
-            "col_7": "2 1,259.31",
-            "Year Ended": "3 9,017.64"
-          },
-          {
-            "col_1": "19",
-            "col_2": "Earning Per Equity Share (With Exceptional Item)",
-            "Quarter Ended Half Year Ended": "1 .35",
-            "col_4": "1 .12",
-            "col_5": "4 .96",
-            "col_6": "2 .48",
-            "col_7": "6 .05",
-            "Year Ended": "1 1.41"
-          },
-          {
-            "col_1": "20",
-            "col_2": "Earning Per Equity Share (Without Exceptional Items and related tax)",
-            "Quarter Ended Half Year Ended": "1 .35",
-            "col_4": "1 .12",
-            "col_5": "1 .54",
-            "col_6": "2 .48",
-            "col_7": "2 .63",
-            "Year Ended": "6 .39"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30-Sep-25",
-            "For Half Year Ended": "30-Sep-25",
-            "For Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Gain on sale of stake in BOT / HAM subsidiaries",
-            "Quarter Ended": "11,205.41",
-            "For Half Year Ended": "11,205.41",
-            "For Year Ended": "11,212.99"
-          },
-          {
-            "Particulars": "Write back of excess provision of investor obligation",
-            "Quarter Ended": "-",
-            "For Half Year Ended": "-",
-            "For Year Ended": "9,532.28"
-          },
-          {
-            "Particulars": "uImppoani rpmurecnhta osne looaf nin vgeivsetonr t ost acekert ainin s suubbssididiaiaryri ecsompany",
-            "Quarter Ended": "-",
-            "For Half Year Ended": "-",
-            "For Year Ended": "(3,749.54)"
-          },
-          {
-            "Particulars": "Recognition of past service cost on gratuity and leave encashment upon implementation of the new labour codes",
-            "Quarter Ended": "-",
-            "For Half Year Ended": "-",
-            "For Year Ended": "(523.27)"
-          },
-          {
-            "Particulars": "Total",
-            "Quarter Ended": "11,205.41",
-            "For Half Year Ended": "11,205.41",
-            "For Year Ended": "16,472.46"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 18,
-        "rows": [
-          {
-            "Particulars": "",
-            "As at": "30-Sep-26",
-            "As at_1": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "As at": "Unaudited",
-            "As at_1": "Audited"
-          },
-          {
-            "Particulars": "(I) ASSETS NON-CURRENT ASSETS (a) Property, plant and equipment (b) Capital work-in-progress (c) Right of Use assets (d) Intangible assets (e) Financial assets (i) Investments (ii) Trade receivables (iii) Loans (iv) Other financial assets (f) Deferred tax assets (net) (g) Non-Current Tax Assets (net) (h) Other non-current assets TOTAL NON-CURRENT ASSETS CURRENT ASSETS (a) Inventories (b) Contract Assets (c) Financial assets (i) Investment (ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank balances other than (iii) above (v) Loans (vi) Other financial assets (d) Current Tax Asset (Net) (e) Other current assets TOTAL CURRENT ASSETS ASSETS HELD FOR SALE (Refer Note 5) TOTAL ASSETS (II) EQUITY & LIABILITIES EQUITY (a) Equity Share Capital (b) Other Equity TOTAL EQUITY LIABILITIES NON-CURRENT LIABILITIES (a) Contract Liabilities (b) Financial Liabilities (i) Borrowings (ii) Lease Liabilities (iii) Trade Payables (A) Total outstanding dues of micro enterprises and small enterprises (B) Total outstanding dues of creditors other than micro enterprises and small enterprises. (c) Provisions TOTAL NON-CURRENT LIABILITIES CURRENT LIABILITIES (a) Contract Liabilities (b) Financial liabilities (i) Borrowings (ii) Lease Liabilities (iii) Acceptances / Factoring Liabilities (iv) Trade payables (A) Total outstanding dues of micro enterprises and small enterprises (B) Total outstanding dues of creditors other than micro enterprises and small enterprises. (v) Other financial liabilities (c) Other current liabilities (d) Provisions (e) Current tax liabilities (net) TOTAL CURRENT LIABILITIES LIABILITIES HELD FOR SALE (Refer Note 5) TOTAL LIABILITIES TOTAL EQUITY AND LIABILITIES",
-            "As at": "",
-            "As at_1": ""
-          },
-          {
-            "Particulars": "",
-            "As at": "29,404.04 4,736.31 1,177.95 34.63 1,27,297.44 41,350.70 5,293.75 4,070.29 13,194.82 6,223.94 5,689.16",
-            "As at_1": "27,713.68 3,790.58 1,392.50 34.63 1,25,330.48 31,220.11 519.02 3,463.42 12,177.83 10,105.42 4,805.51"
-          },
-          {
-            "Particulars": "",
-            "As at": "2,38,473.03",
-            "As at_1": "2,20,553.18"
-          },
-          {
-            "Particulars": "",
-            "As at": "25,272.98 2,79,787.62 - 1,37,312.78 15,945.82 7,753.32 20,529.74 10,303.45 - 74,922.89",
-            "As at_1": "24,716.99 2,64,606.12 - 1,65,638.36 51,234.86 7,065.96 12,720.53 12,370.23 - 54,719.00"
-          },
-          {
-            "Particulars": "",
-            "As at": "5,71,828.60",
-            "As at_1": "5,93,072.05"
-          },
-          {
-            "Particulars": "",
-            "As at": "88,885.83",
-            "As at_1": "96,074.05"
-          },
-          {
-            "Particulars": "",
-            "As at": "8,99,187.46",
-            "As at_1": "9,09,699.28"
-          },
-          {
-            "Particulars": "",
-            "As at": "14,036.16 4,26,476.98",
-            "As at_1": "14,036.16 4,19,136.49"
-          },
-          {
-            "Particulars": "",
-            "As at": "4,40,513.14",
-            "As at_1": "4,33,172.65"
-          },
-          {
-            "Particulars": "",
-            "As at": "47,539.67 96,823.67 705.89 - 21,790.16 5,600.50",
-            "As at_1": "45,822.33 1,06,559.21 866.00 - 19,638.56 5,704.64"
-          },
-          {
-            "Particulars": "",
-            "As at": "1,72,459.89",
-            "As at_1": "1,78,590.74"
-          },
-          {
-            "Particulars": "",
-            "As at": "49,778.75 1,11,741.80 533.26 22,186.41 10,019.42 81,120.89 4,171.18 2,006.65 4,400.88 251.89",
-            "As at_1": "55,965.94 1,04,651.11 551.75 27,591.88 16,100.67 81,929.81 4,269.49 2,490.20 4,009.76 251.89"
-          },
-          {
-            "Particulars": "",
-            "As at": "2,86,211.13",
-            "As at_1": "2,97,812.50"
-          },
-          {
-            "Particulars": "",
-            "As at": "3 .30",
-            "As at_1": "123.39"
-          },
-          {
-            "Particulars": "",
-            "As at": "4,58,674.32",
-            "As at_1": "4,76,526.63"
-          },
-          {
-            "Particulars": "",
-            "As at": "8,99,187.46",
-            "As at_1": "9,09,699.28"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "30-Sep-26",
-            "col_3": "30-Sep-25"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "Unaudited",
-            "col_3": "Unaudited"
-          },
-          {
-            "Particulars": "A CASH FLOW FROM OPERATING ACTIVITIES : Profit before tax Non Cash / Non Operating Adjustment to reconcile profit before tax to net cash flows Depreciation and amortisation expenses Expected credit loss / Impairment allowance Finance Cost Receivables and advances written off Operating liabilities written back Share of profit from investment in partnership firm/LLP Interest income Unrealised foreign exchange (gain) / Loss (net) Net loss / (gain) on financial assets measured at fair value through profit and loss (FVTPL) Gain on sale of investments Gain on disposal of property, plant and equipment (net) Operating profit before changes in working capital Adjustments for changes in operating assets & liabilities: Decrease / (increase) in trade receivables Decrease / (increase) in inventories Decrease / (increase) in other assets (financial and non-financial) Decrease / (increase) in contract assets Increase / (decrease) in acceptances / factoring liabilities Increase / (decrease) in trade payables Increase / (decrease) in contract liabilities Increase / (decrease) in short term provision Increase / (decrease) in other liabilities (financial and non-financial) Increase / (decrease) in long term provision Cash generated from operations Income tax paid (net of refunds) NET CASH FLOW FROM OPERATING ACTIVITIES (A) B CASH FLOW FROM INVESTING ACTIVITIES : Purchase of property, plant and equipment, intangible assets including capital work in progress and capital advances Proceeds from sale of property, plant and equipment (Purchases of) / Proceeds from sale of Current Investment Purchase of Investment in subsidiaries / Investments in subsidiaries Proceeds from perpetual debt repaid by subsidiaries Proceeds from sale / redemption of investment in subsidiaries / joint venture Loans given to subsidiaries, joint ventures and others Proceeds from loans repaid by subsidiaries Proceeds from / (investment in) fixed deposits (net) Interest received NET CASH FLOW FROM / (USED IN) INVESTING ACTIVITIES (B) C CASH FLOW FROM FINANCING ACTIVITIES Proceeds from long term borrowings from banks / financial Institution Proceeds from long term borrowings from related parties Repayment of long term borrowings to banks / financial institution Repayment of long term borrowings to related parties Proceeds from / (repayment of) current borrowings (net) Lease payments Interest paid on lease liabilities Interest paid NET CASH FLOW FROM / (USED IN) FINANCING ACTIVITIES (C) Net increase / (decrease) in cash & cash equivalents (A+B+C) Cash and Cash Equivalents at the beginning of the period (Refer Note 7) Cash and Cash Equivalents at the end of the period COMPONENTS OF CASH AND CASH EQUIVALENTS Balances with Banks On current accounts Funds in transit On deposit accounts Cash on hand Cash and cash equivalents for statement of cash flows",
-            "For the Half Year Ended": "9,446.15 4,798.73 4,234.61 11,712.39 222.31 (161.18) (10.46) (5,533.44) (689.26) (2.59) - (211.04)",
-            "col_3": "21,259.31 4,784.63 1,947.31 16,221.25 715.90 (1,223.91) (10.53) (4,170.97) - - (11,403.16) (440.80)"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "23,806.22",
-            "col_3": "27,679.03"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "32,587.48 (791.53) (10,139.08) (17,829.47) (5,405.47) (6,613.26) (4,593.24) 782.06 (465.69) (465.75)",
-            "col_3": "16,714.14 7,808.23 (16,646.25) (24,856.47) (4,941.11) (9,192.79) 8,347.34 583.23 110.02 (114.81)"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "10,872.27",
-            "col_3": "5,490.56"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "368.21",
-            "col_3": "(4,667.61)"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "11,240.48",
-            "col_3": "822.95"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "(8,165.03) 211.04 - (4,058.50) 1,452.00 - (17,318.33) 1,685.71 (1,289.66) 2,616.69",
-            "col_3": "(2,524.38) 549.31 119.28 (1,427.50) - 16,456.00 (10,640.43) 72,523.32 509.79 1,666.12"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "(24,866.08)",
-            "col_3": "77,231.51"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "2,462.78 5,077.15 (5,813.24) (11,885.96) 7,514.42 (227.88) (62.28) (11,427.04)",
-            "col_3": "728.42 40,909.97 (4,956.12) (10,268.85) (79.18) (283.91) (56.72) (15,859.10)"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "(14,362.05)",
-            "col_3": "10,134.51"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "(27,987.65) 43,933.47 15,945.82 15,337.61 527.44 24.65 56.12",
-            "col_3": "88,188.97 13,540.03 1 ,01,729.00 1 ,01,672.54 - - 56.46"
-          },
-          {
-            "Particulars": "",
-            "For the Half Year Ended": "15,945.82",
-            "col_3": "1 ,01,729.00"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 48,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30-Sep-26",
-            "col_3": "30-Jun-26",
-            "col_4": "30-Sep-25",
-            "Half Year Ended": "30-Sep-26",
-            "col_6": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_6": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "INCOME",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "I Revenue From Operations",
-            "Quarter Ended": "1,50,462.16",
-            "col_3": "1,49,960.51",
-            "col_4": "1,85,118.02",
-            "Half Year Ended": "3,00,422.67",
-            "col_6": "3,73,824.74",
-            "Year Ended": "7,51,988.39"
-          },
-          {
-            "Particulars": "II Other Income",
-            "Quarter Ended": "10,459.19",
-            "col_3": "3,411.20",
-            "col_4": "5,670.11",
-            "Half Year Ended": "13,870.39",
-            "col_6": "10,664.06",
-            "Year Ended": "18,368.51"
-          },
-          {
-            "Particulars": "III Total Income (I+II)",
-            "Quarter Ended": "1,60,921.35",
-            "col_3": "1,53,371.71",
-            "col_4": "1,90,788.13",
-            "Half Year Ended": "3,14,293.06",
-            "col_6": "3,84,488.80",
-            "Year Ended": "7,70,356.90"
-          },
-          {
-            "Particulars": "IV EXPENSES",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Cost of materials consumed",
-            "Quarter Ended": "44,354.00",
-            "col_3": "37,380.74",
-            "col_4": "40,915.29",
-            "Half Year Ended": "81,734.74",
-            "col_6": "87,629.33",
-            "Year Ended": "1,87,423.41"
-          },
-          {
-            "Particulars": "Construction expenses",
-            "Quarter Ended": "67,397.94",
-            "col_3": "69,515.81",
-            "col_4": "69,503.31",
-            "Half Year Ended": "1,36,913.75",
-            "col_6": "1,34,851.14",
-            "Year Ended": "3,04,157.60"
-          },
-          {
-            "Particulars": "Employee benefit expenses",
-            "Quarter Ended": "11,088.96",
-            "col_3": "10,109.69",
-            "col_4": "10,755.17",
-            "Half Year Ended": "21,198.65",
-            "col_6": "21,308.86",
-            "Year Ended": "41,576.22"
-          },
-          {
-            "Particulars": "Finance costs",
-            "Quarter Ended": "8,154.54",
-            "col_3": "8,335.86",
-            "col_4": "31,798.48",
-            "Half Year Ended": "16,490.40",
-            "col_6": "62,930.85",
-            "Year Ended": "91,194.96"
-          },
-          {
-            "Particulars": "Depreciation and amortisation expenses",
-            "Quarter Ended": "4,205.39",
-            "col_3": "3,577.54",
-            "col_4": "4,017.79",
-            "Half Year Ended": "7,782.93",
-            "col_6": "7,814.31",
-            "Year Ended": "16,063.53"
-          },
-          {
-            "Particulars": "Other expenses",
-            "Quarter Ended": "6,613.79",
-            "col_3": "7,165.80",
-            "col_4": "5,449.79",
-            "Half Year Ended": "13,779.59",
-            "col_6": "11,675.41",
-            "Year Ended": "30,597.05"
-          },
-          {
-            "Particulars": "Total expenses (IV)",
-            "Quarter Ended": "1,41,814.62",
-            "col_3": "1,36,085.44",
-            "col_4": "1,62,439.83",
-            "Half Year Ended": "2,77,900.06",
-            "col_6": "3,26,209.90",
-            "Year Ended": "6,71,012.77"
-          },
-          {
-            "Particulars": "V Profit before share of profit /(loss) of joint ventures and associate and tax (III-IV)",
-            "Quarter Ended": "19,106.73",
-            "col_3": "17,286.27",
-            "col_4": "28,348.30",
-            "Half Year Ended": "36,393.00",
-            "col_6": "58,278.90",
-            "Year Ended": "99,344.13"
-          },
-          {
-            "Particulars": "VI Share of Profit/(Loss) from Partnership Firms, joint ventures and associates",
-            "Quarter Ended": "(25.90)",
-            "col_3": "( 6.60)",
-            "col_4": "5.10",
-            "Half Year Ended": "( 32.50)",
-            "col_6": "31.24",
-            "Year Ended": "( 476.68)"
-          },
-          {
-            "Particulars": "VII Profit before Exceptional Items and Tax (V+VI)",
-            "Quarter Ended": "19,080.83",
-            "col_3": "17,279.67",
-            "col_4": "28,353.40",
-            "Half Year Ended": "36,360.50",
-            "col_6": "58,310.14",
-            "Year Ended": "98,867.45"
-          },
-          {
-            "Particulars": "VIII Exceptional Items (net) (Refer Note 4)",
-            "Quarter Ended": "(31,857.16)",
-            "col_3": "-",
-            "col_4": "( 21,929.26)",
-            "Half Year Ended": "( 31,857.16)",
-            "col_6": "( 21,929.26)",
-            "Year Ended": "2,14,367.03"
-          },
-          {
-            "Particulars": "IX Profit / (Loss) before Tax (VII+VIII)",
-            "Quarter Ended": "(12,776.33)",
-            "col_3": "17,279.67",
-            "col_4": "6,424.14",
-            "Half Year Ended": "4,503.34",
-            "col_6": "36,380.88",
-            "Year Ended": "3,13,234.48"
-          },
-          {
-            "Particulars": "X Tax expense",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "(1) Current tax",
-            "Quarter Ended": "3 ,806.26",
-            "col_3": "4,061.48",
-            "col_4": "6,822.32",
-            "Half Year Ended": "7,867.74",
-            "col_6": "12,020.36",
-            "Year Ended": "20,985.09"
-          },
-          {
-            "Particulars": "(2) Tax expense relating to earlier years",
-            "Quarter Ended": "2 .06",
-            "col_3": "74.88",
-            "col_4": "17.63",
-            "Half Year Ended": "76.94",
-            "col_6": "17.63",
-            "Year Ended": "139.96"
-          },
-          {
-            "Particulars": "(3) Deferred tax charge / (credit)",
-            "Quarter Ended": "(4,688.35)",
-            "col_3": "426.07",
-            "col_4": "( 9,485.48)",
-            "Half Year Ended": "( 4,262.28)",
-            "col_6": "( 7,415.93)",
-            "Year Ended": "34,529.24"
-          },
-          {
-            "Particulars": "Total Tax Expenses",
-            "Quarter Ended": "(880.03)",
-            "col_3": "4,562.43",
-            "col_4": "( 2,645.53)",
-            "Half Year Ended": "3,682.40",
-            "col_6": "4,622.06",
-            "Year Ended": "55,654.29"
-          },
-          {
-            "Particulars": "XI Profit / (Loss) after tax (IX-X)",
-            "Quarter Ended": "(11,896.30)",
-            "col_3": "12,717.24",
-            "col_4": "9,069.67",
-            "Half Year Ended": "820.94",
-            "col_6": "31,758.82",
-            "Year Ended": "2,57,580.19"
-          },
-          {
-            "Particulars": "XII Other Comprehensive Income / (Loss)",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "A (i) Items that will not be reclassified subsequently to profit or loss",
-            "Quarter Ended": "4 66.10",
-            "col_3": "66.67",
-            "col_4": "( 1.63)",
-            "Half Year Ended": "532.77",
-            "col_6": "( 20.20)",
-            "Year Ended": "558.00"
-          },
-          {
-            "Particulars": "(ii) Income tax relating to items that will not be reclassified to profit or loss",
-            "Quarter Ended": "(118.34)",
-            "col_3": "( 16.57)",
-            "col_4": "2.60",
-            "Half Year Ended": "( 134.91)",
-            "col_6": "5.20",
-            "Year Ended": "( 66.62)"
-          },
-          {
-            "Particulars": "B (i) Items that will be reclassified to profit or loss",
-            "Quarter Ended": "6 8.72",
-            "col_3": "( 479.32)",
-            "col_4": "-",
-            "Half Year Ended": "( 410.60)",
-            "col_6": "-",
-            "Year Ended": "146.60"
-          },
-          {
-            "Particulars": "(ii) Income tax relating to items that will be reclassified to profit or loss",
-            "Quarter Ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "Half Year Ended": "-",
-            "col_6": "-",
-            "Year Ended": "-"
-          },
-          {
-            "Particulars": "Other Comprehensive Income / (Loss)",
-            "Quarter Ended": "4 16.48",
-            "col_3": "( 429.22)",
-            "col_4": "0.97",
-            "Half Year Ended": "( 12.74)",
-            "col_6": "( 15.00)",
-            "Year Ended": "637.98"
-          },
-          {
-            "Particulars": "XIII Total Comprehensive Income / (Loss) for the period / year (XI+XII)",
-            "Quarter Ended": "(11,479.82)",
-            "col_3": "12,288.02",
-            "col_4": "9,070.64",
-            "Half Year Ended": "808.20",
-            "col_6": "31,743.82",
-            "Year Ended": "2,58,218.17"
-          },
-          {
-            "Particulars": "Profit / (Loss) for the period / year attributable to:",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Owners of the Group",
-            "Quarter Ended": "(11,879.27)",
-            "col_3": "12,777.41",
-            "col_4": "7,806.28",
-            "Half Year Ended": "898.14",
-            "col_6": "29,545.60",
-            "Year Ended": "2,55,001.00"
-          },
-          {
-            "Particulars": "Non-Controlling interests",
-            "Quarter Ended": "(17.03)",
-            "col_3": "(60.17)",
-            "col_4": "1,263.39",
-            "Half Year Ended": "( 77.20)",
-            "col_6": "2,213.22",
-            "Year Ended": "2,579.19"
-          },
-          {
-            "Particulars": "Other Comprehensive Income/ (Loss) for the period / year attributable to :",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Owners of the Group",
-            "Quarter Ended": "4 16.48",
-            "col_3": "(429.74)",
-            "col_4": "1.23",
-            "Half Year Ended": "( 13.26)",
-            "col_6": "( 14.48)",
-            "Year Ended": "636.52"
-          },
-          {
-            "Particulars": "Non-Controlling interests",
-            "Quarter Ended": "(0.00)",
-            "col_3": "0.52",
-            "col_4": "(0.26)",
-            "Half Year Ended": "0.52",
-            "col_6": "(0.52)",
-            "Year Ended": "1.46"
-          },
-          {
-            "Particulars": "Total Comprehensive Income/(Loss) for the period / year attributable to :",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Owners of the Group",
-            "Quarter Ended": "(11,462.79)",
-            "col_3": "12,347.67",
-            "col_4": "7,807.52",
-            "Half Year Ended": "884.88",
-            "col_6": "29,531.12",
-            "Year Ended": "2,55,637.52"
-          },
-          {
-            "Particulars": "Non-Controlling interests",
-            "Quarter Ended": "(17.03)",
-            "col_3": "(59.65)",
-            "col_4": "1,263.12",
-            "Half Year Ended": "(76.68)",
-            "col_6": "2,212.70",
-            "Year Ended": "2,580.65"
-          },
-          {
-            "Particulars": "Paid -up equity share capital (equity shares of Face Value of ₹5/- each)",
-            "Quarter Ended": "14,036.16",
-            "col_3": "14,036.16",
-            "col_4": "14,036.16",
-            "Half Year Ended": "14,036.16",
-            "col_6": "14,036.16",
-            "Year Ended": "14,036.16"
-          },
-          {
-            "Particulars": "Other Equity",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": "6,43,891.82"
-          },
-          {
-            "Particulars": "XIV Earnings per equity share # (Face Value of ₹5/- each) :",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "a) With Exceptional Items",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Basic & Diluted",
-            "Quarter Ended": "(4.23)",
-            "col_3": "4.55",
-            "col_4": "2.78",
-            "Half Year Ended": "0.32",
-            "col_6": "10.52",
-            "Year Ended": "90.84"
-          },
-          {
-            "Particulars": "b) Without Exceptional Items and related tax",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Basic & Diluted",
-            "Quarter Ended": "5.49",
-            "col_3": "4.55",
-            "col_4": "9.48",
-            "Half Year Ended": "10.05",
-            "col_6": "17.22",
-            "Year Ended": "25.37"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Quarter Ended": "30-Sep-26",
-            "col_4": "30-Jun-26",
-            "col_5": "30-Sep-25",
-            "Half Year Ended": "30-Sep-26",
-            "col_7": "30-Sep-25",
-            "col_8": "31-Mar-26"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_7": "Unaudited",
-            "col_8": "Audited"
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Debt-Equity Ratio (Total Borrowings (Current Borrowings + Non Current Borrowings) + Lease Liabilities / Total Equity)",
-            "Quarter Ended": "0.45",
-            "col_4": "0.44",
-            "col_5": "1.39",
-            "Half Year Ended": "0.45",
-            "col_7": "1.39",
-            "col_8": "0.45"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Debt Service Coverage Ratio # (Earning for Debt Service / Debt service) (EarningforDebtService=ProfitbeforeExceptionalItemsandTax+Depreciation and Amortisation Expenses + Interest on Loans + Interest on Lease Liabilities) (DebtService=InterestonLoans+InterestonLeaseLiabilities+RepaymentofNon Current borrowings (Including Current Maturities of Term Loans) for the period)",
-            "Quarter Ended": "2 .05",
-            "col_4": "1.94",
-            "col_5": "1.09",
-            "Half Year Ended": "2 .00",
-            "col_7": "1 .11",
-            "col_8": "1.46"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Interest Service Coverage Ratio ((Profit before Exceptional Items and Tax + Finance Costs + Deprecation and Amortisation Expenses) / Finance Costs)",
-            "Quarter Ended": "3.86",
-            "col_4": "3.50",
-            "col_5": "2.02",
-            "Half Year Ended": "3.68",
-            "col_7": "2.05",
-            "col_8": "2.26"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Outstanding Redeemable Preference Shares (Quantity) (No.of Shares) (Value) (₹ in Lakhs)",
-            "Quarter Ended": "64,81,250 6 ,236.81",
-            "col_4": "64,81,250 6 ,236.81",
-            "col_5": "64,81,250 6 ,236.81",
-            "Half Year Ended": "64,81,250 6 ,236.81",
-            "col_7": "64,81,250 6 ,236.81",
-            "col_8": "64,81,250 6 ,236.81"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Capital Redemption Reserve",
-            "Quarter Ended": "",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Debenture Redemption Reserve",
-            "Quarter Ended": "",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Total Equity (₹ in Lakhs)",
-            "Quarter Ended": "6,59,166.58",
-            "col_4": "6,70,547.82",
-            "col_5": "4,47,650.35",
-            "Half Year Ended": "6,59,166.58",
-            "col_7": "4,47,650.35",
-            "col_8": "6,57,611.35"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Current Ratio (Total Current Assets / Total Current Liabilities)",
-            "Quarter Ended": "2.35",
-            "col_4": "2.48",
-            "col_5": "1.28",
-            "Half Year Ended": "2.35",
-            "col_7": "1.28",
-            "col_8": "2.23"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Long Term Debt to Working Capital (Non Current Borrowings (Including Current Maturities of Term Loans) / Working Capital (Total Current Assets - Total Current Liabilities))",
-            "Quarter Ended": "0.40",
-            "col_4": "0.38",
-            "col_5": "1.36",
-            "Half Year Ended": "0.40",
-            "col_7": "1.36",
-            "col_8": "0.33"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Bad debts to Account Receivable Ratio (Bad Debts / Average Accounts Receivable ((Opening Trade receivable + Closing Trade receivable) / 2))",
-            "Quarter Ended": "0 .00",
-            "col_4": "0.00",
-            "col_5": "0.00",
-            "Half Year Ended": "0 .00",
-            "col_7": "0 .00",
-            "col_8": "0.01"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Current Liability Ratio (Total Current Liabilities / Total Liabilities)",
-            "Quarter Ended": "0.51",
-            "col_4": "0.50",
-            "col_5": "0.86",
-            "Half Year Ended": "0.51",
-            "col_7": "0.86",
-            "col_8": "0.70"
-          },
-          {
-            "Sr. No.": "12",
-            "Particulars": "Total Debt to Total Asset Ratio ((Total Borrowings (Current Borrowings + Non Current Borrowings)) / Total Assets)",
-            "Quarter Ended": "0.22",
-            "col_4": "0.22",
-            "col_5": "0.32",
-            "Half Year Ended": "0.22",
-            "col_7": "0.32",
-            "col_8": "0.22"
-          },
-          {
-            "Sr. No.": "13",
-            "Particulars": "Debtors Turnover # (Revenue from Operations / Average Trade receivable ((Opening Trade receivables and Contract Assets + Closing Trade receivables and Contract Assets) / 2))",
-            "Quarter Ended": "0.27",
-            "col_4": "0.27",
-            "col_5": "0.40",
-            "Half Year Ended": "0.54",
-            "col_7": "0.82",
-            "col_8": "1.51"
-          },
-          {
-            "Sr. No.": "14",
-            "Particulars": "Inventory turnover ratio # (Cost of Materials Consumed / Average Inventory ((Opening Inventory + Closing Inventory) / 2))",
-            "Quarter Ended": "0.98",
-            "col_4": "0.84",
-            "col_5": "0.85",
-            "Half Year Ended": "1.83",
-            "col_7": "1.74",
-            "col_8": "3.83"
-          },
-          {
-            "Sr. No.": "15",
-            "Particulars": "Operating Margin (%) ((Profit before Exceptional Items and Tax + Finance Costs + Deprecation and Amortization Expenses - Other Income) / Revenue from Operations)",
-            "Quarter Ended": "13.94%",
-            "col_4": "17.19%",
-            "col_5": "31.60%",
-            "Half Year Ended": "15.57%",
-            "col_7": "31.67%",
-            "col_8": "24.97%"
-          },
-          {
-            "Sr. No.": "16",
-            "Particulars": "Net / (Loss) Profit Margin (%) (Profit / (Loss) after tax / Revenue from Operations)",
-            "Quarter Ended": "-7.91%",
-            "col_4": "8.48%",
-            "col_5": "4.90%",
-            "Half Year Ended": "0.27%",
-            "col_7": "8.50%",
-            "col_8": "34.25%"
-          },
-          {
-            "Sr. No.": "17",
-            "Particulars": "Net Worth (as per Companies Act, 2013) (₹ in Lakhs)",
-            "Quarter Ended": "6,51,047.86",
-            "col_4": "6,62,940.38",
-            "col_5": "4,24,008.83",
-            "Half Year Ended": "6,51,047.86",
-            "col_7": "4,24,008.83",
-            "col_8": "6,50,162.97"
-          }
-        ]
-      },
-      {
-        "page": 18,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Particulars": "I) ASSETS 1) Non-Current Assets (a) Property, Plant and Equipment (b) Capital Work-In-Progress (c) Investment Property (d) Right of Use Assets (e) Intangible Assets (f) Contract Assets (g) Investments Accounted for Using Equity Method (h) Financial Assets (i) Other Investments (ii) Trade Receivables (iii) Loans (iv) Other Financial Assets (v) Receivable Under Service Concessions Arrangements (i) Deferred Tax Asset (net) (j) Non Current Tax Asset (net) (k) Other Non-Current Assets Total Non-Current Assets 2) Current Assets (a) Inventories (b) Contract Assets (c) Financial Assets (i) Investments (ii) Trade Receivables (iii) Cash and Cash Equivalents (iv) Bank Balances Other Than (iii) Above (v) Loans (vi) Other Financial Assets (vii) Receivable Under Service Concessions Arrangements (d) Current Tax Asset (Net) (e) Other Current Assets Total Current Assets Assets Held For Sale (Refer Note 5) Total Assets II) EQUITY & LIABILITIES 1) Equity (a) Equity Share Capital (b) Other Equity Equity Attributable to Owners of the Group Non Controlling Interest Total Equity 2) Non-Current Liabilities (a) Contract Liabilities (b) Financial Liabilities (i) Borrowings (ii) Lease Liabilities (iii) Trade Payables (A) Total outstanding dues of micro enterprises and small enterprises (B) Total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other Financial Liabilities (c) Provisions (d) Deferred Tax Liabilities (Net) Total Non-Current Liabilities 3) Current Liabilities (a) Contract Liabilities (b) Financial Liabilities (i) Borrowings (ii) Lease Liabilities (iii) Acceptances / Factoring Liabilities (iv) Trade Payables (A) Total outstanding dues of micro enterprises and small enterprises (B) Total outstanding dues of creditors other than micro enterprises and small enterprises. (v) Other Financial Liabilities (vi) Obligation Towards Investor In Subsidiary (c) Other Current Liabilities (d) Provisions (e) Current Tax Liabilities (Net) Total Current Liabilities Liabilities Held For Sale (Refer Note 5) Total Liabilities Total Equity And Liabilities",
-            "As at 30-Sep-26 Unaudited": "36,058.25 7,680.03 6,366.53 12,261.37 63,924.94 43,113.35 43,995.60 56.69 41,617.54 9,197.48 11,096.67 222.44 24,896.54 8,413.51 10,272.47",
-            "As at 31-Mar-26 Audited": "30,745.12 5,371.18 6,264.48 12,133.46 67,100.60 35,551.44 42,745.60 56.69 31,220.11 8,737.66 5,954.19 - 24,115.24 11,870.84 8,907.60"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "3,19,173.41",
-            "As at 31-Mar-26 Audited": "2,90,774.21"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "45,070.01 2,98,960.21 8,973.34 1,41,511.45 20,487.76 7,891.82 22,288.99 21,415.94 7,027.70 477.84 88,276.23",
-            "As at 31-Mar-26 Audited": "44,039.97 2,87,806.73 1,175.90 1,60,990.96 59,092.23 7,158.34 9,609.38 19,957.38 6,321.58 1,134.48 67,563.12"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "6,62,381.29",
-            "As at 31-Mar-26 Audited": "6,64,850.07"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "3,19,894.99",
-            "As at 31-Mar-26 Audited": "3,49,390.32"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "13,01,449.69",
-            "As at 31-Mar-26 Audited": "13,05,014.60"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "14,036.16 6,44,776.71",
-            "As at 31-Mar-26 Audited": "14,036.16 6,43,891.82"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "6,58,812.87",
-            "As at 31-Mar-26 Audited": "6,57,927.98"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "353.71",
-            "As at 31-Mar-26 Audited": "(316.63)"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "6,59,166.58",
-            "As at 31-Mar-26 Audited": "6,57,611.35"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "74,401.09 41,632.07 10,180.97 - 24,878.11 15,393.90 14,227.00 14,676.05",
-            "As at 31-Mar-26 Audited": "72,785.62 44,602.73 9,050.39 - 19,644.58 16,036.44 12,082.51 17,481.13"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "1,95,389.19",
-            "As at 31-Mar-26 Audited": "1,91,683.40"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "51,370.05 1,13,570.29 712.49 22,186.41 11,997.38 84,316.46 10,752.81 - 3,103.14 5,230.79 1,631.95",
-            "As at 31-Mar-26 Audited": "58,688.41 1,06,457.03 736.21 27,591.88 16,102.14 76,460.89 11,533.65 - 4,235.84 4,408.50 574.38"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "3,04,871.77",
-            "As at 31-Mar-26 Audited": "3,06,788.93"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "1,42,022.15 6,42,283.11",
-            "As at 31-Mar-26 Audited": "1,48,930.92 6,47,403.25"
-          },
-          {
-            "Particulars": "",
-            "As at 30-Sep-26 Unaudited": "13,01,449.69",
-            "As at 31-Mar-26 Audited": "13,05,014.60"
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 0,
-        "row_count": 34,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30-Sep-26",
-            "col_3": "30-Jun-26",
-            "col_4": "30-Sep-25",
-            "Half Year Ended": "30-Sep-26",
-            "col_6": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_6": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "1. Segment Revenue",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Construction & Contract",
-            "Quarter Ended": "1,17,796.96",
-            "col_3": "1,11,410.73",
-            "col_4": "1,19,517.36",
-            "Half Year Ended": "2,29,207.69",
-            "col_6": "2,38,946.63",
-            "Year Ended": "5,30,032.11"
-          },
-          {
-            "Particulars": "BOT / Annuity Projects",
-            "Quarter Ended": "26,429.42",
-            "col_3": "31,996.31",
-            "col_4": "60,476.33",
-            "Half Year Ended": "58,425.73",
-            "col_6": "1,24,026.86",
-            "Year Ended": "1,98,445.75"
-          },
-          {
-            "Particulars": "Sale of Goods",
-            "Quarter Ended": "6,235.78",
-            "col_3": "6,553.47",
-            "col_4": "5,124.33",
-            "Half Year Ended": "12,789.25",
-            "col_6": "10,851.25",
-            "Year Ended": "23,510.53"
-          },
-          {
-            "Particulars": "Total",
-            "Quarter Ended": "1,50,462.16",
-            "col_3": "1,49,960.51",
-            "col_4": "1,85,118.02",
-            "Half Year Ended": "3,00,422.67",
-            "col_6": "3,73,824.74",
-            "Year Ended": "7,51,988.39"
-          },
-          {
-            "Particulars": "2. Segment Results",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Construction & Contract",
-            "Quarter Ended": "6,680.61",
-            "col_3": "6,624.41",
-            "col_4": "7,069.08",
-            "Half Year Ended": "13,305.02",
-            "col_6": "9,353.72",
-            "Year Ended": "24,536.87"
-          },
-          {
-            "Particulars": "BOT / Annuity Projects",
-            "Quarter Ended": "1 0,480.25",
-            "col_3": "10,431.25",
-            "col_4": "22,653.26",
-            "Half Year Ended": "20,911.50",
-            "col_6": "47,526.97",
-            "Year Ended": "70,767.06"
-          },
-          {
-            "Particulars": "Sale of Goods",
-            "Quarter Ended": "7 02.81",
-            "col_3": "713.29",
-            "col_4": "( 343.47)",
-            "Half Year Ended": "1,416.10",
-            "col_6": "129.30",
-            "Year Ended": "1,307.39"
-          },
-          {
-            "Particulars": "Total",
-            "Quarter Ended": "17,863.67",
-            "col_3": "17,768.95",
-            "col_4": "29,378.87",
-            "Half Year Ended": "35,632.62",
-            "col_6": "57,009.99",
-            "Year Ended": "96,611.32"
-          },
-          {
-            "Particulars": "3. Add / (Less):",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Unallocable Interest expenses",
-            "Quarter Ended": "(1,770.31)",
-            "col_3": "( 459.44)",
-            "col_4": "( 3,486.76)",
-            "Half Year Ended": "( 2,229.75)",
-            "col_6": "( 3,830.09)",
-            "Year Ended": "( 2,336.73)"
-          },
-          {
-            "Particulars": "Unallocable Expenses",
-            "Quarter Ended": "(1,923.48)",
-            "col_3": "( 2,179.44)",
-            "col_4": "( 1,969.28)",
-            "Half Year Ended": "( 4,102.92)",
-            "col_6": "( 3,880.18)",
-            "Year Ended": "( 9,226.83)"
-          },
-          {
-            "Particulars": "Unallocable Income (Including share of profit/(loss) from associate and joint ventures)",
-            "Quarter Ended": "4 ,910.95",
-            "col_3": "2,149.60",
-            "col_4": "4,430.57",
-            "Half Year Ended": "7,060.55",
-            "col_6": "9,010.42",
-            "Year Ended": "13,819.69"
-          },
-          {
-            "Particulars": "Exceptional Items (net) (Refer Note 4)",
-            "Quarter Ended": "(31,857.16)",
-            "col_3": "-",
-            "col_4": "( 21,929.26)",
-            "Half Year Ended": "( 31,857.16)",
-            "col_6": "( 21,929.26)",
-            "Year Ended": "2,14,367.03"
-          },
-          {
-            "Particulars": "Total",
-            "Quarter Ended": "(30,640.00)",
-            "col_3": "( 489.28)",
-            "col_4": "( 22,954.73)",
-            "Half Year Ended": "(31,129.28)",
-            "col_6": "(20,629.11)",
-            "Year Ended": "2,16,623.16"
-          },
-          {
-            "Particulars": "4. Profit before Tax",
-            "Quarter Ended": "(12,776.33)",
-            "col_3": "17,279.67",
-            "col_4": "6,424.14",
-            "Half Year Ended": "4,503.34",
-            "col_6": "36,380.88",
-            "Year Ended": "3,13,234.48"
-          },
-          {
-            "Particulars": "5.Segment Assets",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Construction & Contract",
-            "Quarter Ended": "5,98,525.79",
-            "col_3": "5,77,723.96",
-            "col_4": "5,51,726.05",
-            "Half Year Ended": "5,98,525.79",
-            "col_6": "5,51,726.05",
-            "Year Ended": "5,74,205.56"
-          },
-          {
-            "Particulars": "BOT / Annuity Projects",
-            "Quarter Ended": "2,33,509.92",
-            "col_3": "2,15,430.62",
-            "col_4": "1,78,295.35",
-            "Half Year Ended": "2,33,509.92",
-            "col_6": "1,78,295.35",
-            "Year Ended": "2,14,044.00"
-          },
-          {
-            "Particulars": "Sale of Goods",
-            "Quarter Ended": "69,408.65",
-            "col_3": "65,418.28",
-            "col_4": "72,690.29",
-            "Half Year Ended": "69,408.65",
-            "col_6": "72,690.29",
-            "Year Ended": "61,018.59"
-          },
-          {
-            "Particulars": "Unallocated",
-            "Quarter Ended": "80,110.34",
-            "col_3": "81,310.28",
-            "col_4": "1,97,909.80",
-            "Half Year Ended": "80,110.34",
-            "col_6": "1,97,909.80",
-            "Year Ended": "1,06,356.13"
-          },
-          {
-            "Particulars": "Assets Held for Sale (Refer Note 5)",
-            "Quarter Ended": "3,19,894.99",
-            "col_3": "3,58,556.34",
-            "col_4": "9,18,308.29",
-            "Half Year Ended": "3,19,894.99",
-            "col_6": "9,18,308.29",
-            "Year Ended": "3,49,390.32"
-          },
-          {
-            "Particulars": "Total",
-            "Quarter Ended": "1 3,01,449.69",
-            "col_3": "12,98,439.48",
-            "col_4": "19,18,929.77",
-            "Half Year Ended": "13,01,449.69",
-            "col_6": "19,18,929.77",
-            "Year Ended": "13,05,014.60"
-          },
-          {
-            "Particulars": "6.Segment Liabilities",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Construction & Contract",
-            "Quarter Ended": "2,45,732.83",
-            "col_3": "2,37,888.94",
-            "col_4": "2,73,622.07",
-            "Half Year Ended": "2,45,732.83",
-            "col_6": "2,73,622.07",
-            "Year Ended": "2,62,605.98"
-          },
-          {
-            "Particulars": "BOT / Annuity Projects",
-            "Quarter Ended": "1,12,356.67",
-            "col_3": "99,036.70",
-            "col_4": "2,50,842.63",
-            "Half Year Ended": "1,12,356.67",
-            "col_6": "2,50,842.63",
-            "Year Ended": "98,944.34"
-          },
-          {
-            "Particulars": "Sale of Goods",
-            "Quarter Ended": "18,186.15",
-            "col_3": "17,621.19",
-            "col_4": "29,083.63",
-            "Half Year Ended": "18,186.15",
-            "col_6": "29,083.63",
-            "Year Ended": "17,356.65"
-          },
-          {
-            "Particulars": "Unallocated",
-            "Quarter Ended": "1,23,985.39",
-            "col_3": "1,26,912.19",
-            "col_4": "1,61,314.45",
-            "Half Year Ended": "1,23,985.39",
-            "col_6": "1,61,314.45",
-            "Year Ended": "1,19,565.44"
-          },
-          {
-            "Particulars": "Liabilities Held for Sale (Refer Note 5)",
-            "Quarter Ended": "1,42,022.07",
-            "col_3": "1,46,432.64",
-            "col_4": "7,56,416.64",
-            "Half Year Ended": "1,42,022.07",
-            "col_6": "7,56,416.64",
-            "Year Ended": "1,48,930.84"
-          },
-          {
-            "Particulars": "Total",
-            "Quarter Ended": "6 ,42,283.11",
-            "col_3": "6,27,891.66",
-            "col_4": "14,71,279.42",
-            "Half Year Ended": "6,42,283.11",
-            "col_6": "14,71,279.42",
-            "Year Ended": "6,47,403.25"
-          },
-          {
-            "Particulars": "7. Capital Employed (Segment Assets (5) - Segment Liabilities (6) )",
-            "Quarter Ended": "6 ,59,166.58",
-            "col_3": "6,70,547.82",
-            "col_4": "4,47,650.35",
-            "Half Year Ended": "6,59,166.58",
-            "col_6": "4,47,650.35",
-            "Year Ended": "6,57,611.35"
-          }
-        ]
-      },
-      {
-        "page": 20,
-        "table_index": 0,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the half year ended": "As at 30-Sep-2026",
-            "col_3": "As at 30-Sep-2025"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "Unaudited",
-            "col_3": "Unaudited"
-          },
-          {
-            "Particulars": "A CASH FLOW FROM OPERATING ACTIVITIES : Profit before tax Non-cash and non-operating adjustment to reconcile profit before tax to net cash flows Depreciation and amortisation expenses Expected credit loss / Impairment Allowance Reversal Finance cost Receivables and advances written off Operating Liabilities written back Impairment of held for sale HAM subsidiaries (Refer Note 4) Modification of loss on revised major maintenance cost (Refer Note 4) Profit / (loss) from partnership firms, associate and joint ventures Interest and finance income Net loss on financial assets major at fair value through profit and loss (FVTPL) Finance income on financial asset carried at amortised cost Unrealised foreign exchange (gain) / Loss Gain on disposal of property, plant and equipment (Net) Operating profit before changes in working capital Adjustments for changes in operating assets & liabilities: (Increase) / decrease in inventories (Increase) / decrease in trade receivables, contract assets, other financial and non-financial Assets Increase / (decrease) in acceptances / factoring liabilities Increase / (decrease) in trade payables Increase / (decrease) in current and non-current provisions Increase / (decrease) in contract liabilities, other financial and non-financial liabilities Cash generated from operations Income tax paid (Net of refunds) NET CASH FLOW FROM / (USED IN) OPERATING ACTIVITIES (A) B CASH FLOW FROM INVESTING ACTIVITIES : Purchase of property plant and equipment, intangible assets including capital work in progress and capital advances Proceeds from sale of property plant and equipment Sale / (Purchase) of non-current investment (Net) Purchase of investment in subsidiaries / joint ventures Proceeds from sale of Current Investment Proceeds from sale of investment in subsidiaries / joint ventures Loans given to others (Net) Proceeds from / (Investment in) fixed deposits (Net) Interest received NET CASH FLOW FROM / (USED IN) INVESTING ACTIVITIES (B) C CASH FLOW FROM FINANCING ACTIVITIES Proceeds from long term borrowings Repayment of long term borrowings Proceeds from / (Repayment of) current borrowings (Net) Proceeds from equity contribution from non controlling Interest Lease payments Interest paid on lease liabilities Interest paid NET CASH FLOW FROM/ (USED IN) FINANCING ACTIVITIES (C) Net increase / (decrease) In Cash & Cash Equivalents (A+B+C) Cash and Cash Equivalents at the beginning of the period (Refer Note 7) Cash and Cash Equivalents at the end of the period COMPONENTS OF CASH AND CASH EQUIVALENTS (INCLUDING HELD FOR SALE ENTITIES) Balances with Banks On current accounts Funds in transit On deposit accounts Cash on hand Add: Investments in Liquid Mutual Funds Add: Cash and cash equivalents upon loss of control of subsidiary Cash and cash equivalents for statement of cash flows",
-            "For the half year ended": "4,503.34 7,782.93 4,963.58 16,490.40 227.38 ( 161.18) 23,653.92 8,203.24 32.50 ( 11,992.09) 406.27 ( 20,682.89) ( 689.26) ( 215.92)",
-            "col_3": "36,380.88 7,814.31 2,451.36 62,930.85 751.95 ( 1,223.91) - - ( 31.25) ( 7,949.60) 21,731.51 ( 35,103.48) - ( 444.98)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "32,522.22",
-            "col_3": "87,307.64"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "( 1,288.37) ( 1,814.07) ( 5,405.47) 5,714.54 3,045.28 ( 9,262.33)",
-            "col_3": "7,026.51 ( 4,807.25) ( 4,941.11) ( 7,490.66) 2,689.27 ( 2,842.84)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "23,511.80",
-            "col_3": "76,941.56"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "( 3,561.94)",
-            "col_3": "( 12,101.67)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "19,949.86",
-            "col_3": "64,839.89"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "( 13,875.93) 301.80 ( 1,693.87) - - 1,456.13 ( 5,384.48) ( 29,982.52) 5,463.07",
-            "col_3": "( 3,747.06) 560.69 ( 6,930.00) ( 4.69) 111.62 1,05,178.75 ( 1,926.09) ( 2,750.10) 11,237.21"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "( 43,715.80)",
-            "col_3": "1,01,730.33"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "7,006.66 ( 15,627.45) 7,586.56 50.20 ( 535.13) ( 46.93) ( 14,890.89)",
-            "col_3": "9,544.80 ( 55,563.26) 6,027.76 - ( 1,698.41) ( 35.47) ( 42,224.82)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "( 16,456.98)",
-            "col_3": "( 83,949.40)"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "( 40,222.92)",
-            "col_3": "82,620.83"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "81,152.73",
-            "col_3": "88,962.96"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "40,929.81",
-            "col_3": "1,71,583.79"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "21,777.59 527.44 10,733.03 74.39",
-            "col_3": "1,32,261.37 - 15,008.89 122.86"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "33,112.45",
-            "col_3": "1,47,393.12"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "7,797.44 19.92",
-            "col_3": "174.32 24,016.35"
-          },
-          {
-            "Particulars": "",
-            "For the half year ended": "40,929.81",
-            "col_3": "1,71,583.79"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "931b0f17-1d2e-44af-b26a-e0ea553cd29c",
-    "SCRIP_CD": 532755,
-    "XML_NAME": "ANN_532755_931B0F17-1D2E-44AF-B26A-E0EA553CD29C",
-    "NEWSSUB": "Tech Mahindra Ltd - 532755 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-05T21:29:38.513",
-    "NEWS_DT": "2026-11-05T21:29:38.513",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "247fcbf5-5f73-4b89-b3cb-01a16e6a5dbd.pdf",
-    "MORE": "Intimation of Schedule of Investor Interactions with Tech Mahindra''s Leadership under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and\r\nDisclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations')",
-    "HEADLINE": "Intimation of Schedule of Investor Interactions with Tech Mahindra''s Leadership under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and\r\nDisclosure Requirements) ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/tech-mahindra-ltd/techm/532755/",
-    "SLONGNAME": "Tech Mahindra Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:29:38",
-    "DissemDT": "2026-11-05T21:29:38.513",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3342248,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "931b0f17-1d2e-44af-b26a-e0ea553cd29c",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14791371,
-    "DataInsDate": "2026-11-05T21:29:38.47",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Tech Mahindra will hold three physical analyst/investor meetings on 16 Nov 2026 (BoFA 2026 India – Corporate Day, Singapore), 17 Nov 2026 (J.P. Morgan APAC – Innovation and Growth Conference, Hong Kong) and 18 Nov 2026 (CLSA India – Forum 2026, Mumbai), each starting at 6:30 a.m. (IST) except the 18 Nov event, which begins at 10:00 a.m. (IST).  \n\n- The announcement contains no financial figures, decisions, or other monetary details.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c5f7dadf-749c-4cb0-a1db-741daadf53de",
-    "SCRIP_CD": 540726,
-    "XML_NAME": "ANN_540726_C5F7DADF-749C-4CB0-A1DB-741DAADF53DE",
-    "NEWSSUB": "Trident Texofab Ltd - 540726 - Result- Financial Result For The Quarter And Half Year Ended 30.09.2026",
-    "DT_TM": "2026-11-05T21:29:20.383",
-    "NEWS_DT": "2026-11-05T21:29:20.383",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "acb36388-afbb-409f-8ed9-a68921740fcb.pdf",
-    "MORE": "The Board of Directors inter-alia has approved and taken on record Un-Audited Standalone Financial Results for the quarter and half year ended on September 30, 2026 along with Limited Review Report on said results issued by the Statutory Auditor of the Company.",
-    "HEADLINE": "The Board of Directors inter-alia has approved and taken on record Un-Audited Standalone Financial Results for the quarter and half year ended on September 30, 2026 along with Limited Review ....",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/trident-texofab-ltd/ttfl/540726/",
-    "SLONGNAME": "Trident Texofab Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:29:20",
-    "DissemDT": "2026-11-05T21:29:20.383",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3130350,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "1687.22",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "31ced87e-68b6-488c-85ab-0fb664ad6050",
-    "SCRIP_CD": 533160,
-    "XML_NAME": "ANN_533160_31CED87E-68B6-488C-85AB-0FB664AD6050",
-    "NEWSSUB": "Valor Estate Ltd - 533160 - Unaudited Standalone And Consolidated Financial Results For The Second Quarter And Half Year Ended 30Th September, 2026",
-    "DT_TM": "2026-11-05T21:28:17.417",
-    "NEWS_DT": "2026-11-05T21:28:17.417",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "21015def-0558-41ff-a809-af33013360e5.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Standalone and Consolidated Financial Results for the second quarter and half year ended 30th September, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/valor-estate-ltd/dbrealty/533160/",
-    "SLONGNAME": "Valor Estate Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:28:17",
-    "DissemDT": "2026-11-05T21:28:17.417",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2145374,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval:** On **Thursday, 5 November 2026**, the Board of Directors of Valor Estate Ltd (formerly D B Realty Ltd) approved the **unaudited standalone and consolidated financial results** for the **second quarter and half‑year ended 30 September 2026**, together with the statutory auditors’ limited review report, in compliance with SEBI LODR Regulations 30 and 33.  \n\n- **Financial disclosure:**",
-    "key_metrics": {
-      "revenue": "7",
-      "total_debt": "10759.84",
-      "eps": "1",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars": "ASSETS Non-current Assets (a)Property, Plant and Equipment (b) Capital Work in Progress (c)Financial Assets (i) Investment in Subsidiaries, Associates and Joint Ventures (ii) Investment in others (iii) Loans (iv)Others Financial Assets (d) Deferred Tax Assets (net) (e)Income Tax Assets (net) (f)Other Non-Current Assets Current Assets (a)Inventories (b) Financial Assets (i) Trade Receivables (ii) Cash and Cash Equivalents (iii) Bank Balance other than (ii) above (iv) Loans (v) Other Financial assets (c)Other Current Assets EQUITY AND LIABILITIES Equity (a)Equity Share Capital (b) Other Equity Liabilities Non-Current Liabilities (a)Financial Liabilities (i) Borrowings (b) Provisions Current Liabilities (a)Financial Liabilities (i) Borrowings (ii) Trade and Other Payables - Total outstanding dues to micro and small enterprise - Total outstanding dues to others (iii) Other Financial Liabilities (b) Other Current Liabilities (c)Provisions",
-            "As at September 30, 2026": "(Unaudited) 6,861.30 19.52 56,682.65 5,604.97 86,612.14 1,86,834.66 1,539.87 1,052.12 11,192.37",
-            "As at March 31, 2026": "(Audited) 7,054.65 - 51,330.31 5,436.04 77,652.79 1,86,215.99 1,212.40 989.55 11,392.32"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "3,56,399.60 35,065.11 - 1 ,555.00 13,467.00 2 40.30 2,19,798.91 7 ,416.50 4 ,747.14",
-            "As at March 31, 2026": "3,41,284.05 34,812.72 - 1 ,555.00 1 49.16 65.00 1,77,431.58 16,785.56 5 ,941.23"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "2,82,289.96",
-            "As at March 31, 2026": "2,36,740.25"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "6,38,689.56",
-            "As at March 31, 2026": "5,78,024.30"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "54,240.68 4,08,639.28",
-            "As at March 31, 2026": "54,240.68 4,13,620.52"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "4,62,879.96 10,759.84 3 62.72",
-            "As at March 31, 2026": "4,67,861.20 10,209.84 2 51.09"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "1 1,122.56 59,137.50 1 47.25 8 67.22 48,586.79 53,643.94 2 ,304.34",
-            "As at March 31, 2026": "1 0,460.93 1 ,390.34 1 47.16 8 70.36 38,805.81 55,674.40 2 ,814.10"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "1,64,687.04",
-            "As at March 31, 2026": "9 9,702.17"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "6,38,689.56",
-            "As at March 31, 2026": "5,78,024.30"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 38,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr. No.": "Companies",
-            "col_3": "",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "0",
-            "Sr. No.": "",
-            "col_3": "Valor Estate Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Parent",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "1",
-            "Sr. No.": "",
-            "col_3": "DB Man Realty Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "2",
-            "Sr. No.": "",
-            "col_3": "Bandra Reclamation Project Private Limited (Formerly known as Goregaon Hotel and Realty Private Limited)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "3",
-            "Sr. No.": "",
-            "col_3": "Neelkamal Realtors Suburban Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "4",
-            "Sr. No.": "",
-            "col_3": "Neelkamal Shantinagar Properties Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "5",
-            "Sr. No.": "",
-            "col_3": "Clare Road Realty Private Limited (Formerly known as Saifee Bucket Factory Private Limited)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "6",
-            "Sr. No.": "",
-            "col_3": "DB Baug Property Private Limited (Formerly known as N.A. Estate Private Limited)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "7",
-            "Sr. No.": "",
-            "col_3": "Nine Paradise Erectors Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "8",
-            "Sr. No.": "",
-            "col_3": "MIG (Bandra) Realtor and Builder Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "9",
-            "Sr. No.": "",
-            "col_3": "Spacecon Realty Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "10",
-            "Sr. No.": "",
-            "col_3": "Vanita Infrastructure Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "11",
-            "Sr. No.": "",
-            "col_3": "DB Contractors & Builders Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "12",
-            "Sr. No.": "",
-            "col_3": "DB View Infracon Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "13",
-            "Sr. No.": "",
-            "col_3": "Malad-Chincholi Real Estate Private Limited (Formerly known as Goodspot Enterprises Private Limited)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "14",
-            "Sr. No.": "",
-            "col_3": "DB Hi-Sky Construction Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Associate",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "15",
-            "Sr. No.": "",
-            "col_3": "Shiva Buildcon Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "16",
-            "Sr. No.": "",
-            "col_3": "Shiva Multitrade Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "17",
-            "Sr. No.": "",
-            "col_3": "Horizontal Ventures Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Step down Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "18",
-            "Sr. No.": "",
-            "col_3": "Great View Buildcon Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "19",
-            "Sr. No.": "",
-            "col_3": "Pandora Projects Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "20",
-            "Sr. No.": "",
-            "col_3": "Godrej Residency Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Step down Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "21",
-            "Sr. No.": "",
-            "col_3": "DB Conglomerate Realty Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Step down Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "22",
-            "Sr. No.": "",
-            "col_3": "Miraland Developers Private Limited (Formerly known as Mira Real Estate Developers)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "23",
-            "Sr. No.": "",
-            "col_3": "Blue Crest Erectors Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "24",
-            "Sr. No.": "",
-            "col_3": "Blue Crest Properties Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "25",
-            "Sr. No.": "",
-            "col_3": "Blue Crest Realty Private Limited",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Step down Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "26",
-            "Sr. No.": "",
-            "col_3": "Shiv Infra Riverwalk Private Limited (Formerly known as Shiv Infra Riverwalk LLP)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "",
-            "Sr. No.": "Partnership Firms / LLP's / Association of Persons",
-            "col_3": "",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "27",
-            "Sr. No.": "",
-            "col_3": "Conwood –DB Joint Venture (AOP)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "28",
-            "Sr. No.": "",
-            "col_3": "Turf Estate Joint Venture (AOP)",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "29",
-            "Sr. No.": "",
-            "col_3": "Innovation Erectors LLP",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "30",
-            "Sr. No.": "",
-            "col_3": "M/s Dynamix Realty",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "31",
-            "Sr. No.": "",
-            "col_3": "M/s DBS Realty",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "32",
-            "Sr. No.": "",
-            "col_3": "Lokhandwala Dynamix-Balwas JV",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "33",
-            "Sr. No.": "",
-            "col_3": "DB Realty and Shreepati Infrastructures LLP",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "34",
-            "Sr. No.": "",
-            "col_3": "Sneh Developers",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Step down Joint Venture",
-            "Relationship": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "35",
-            "Sr. No.": "",
-            "col_3": "Shree Shantinagar Venture",
-            "col_4": "",
-            "Name of the Entity": "",
-            "col_6": "",
-            "col_7": "Step down Subsidiary",
-            "Relationship": "",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 18,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Particulars": "ASSETS Non-current Assets (a) Property, Plant and Equipment (b) Investment Property (c) Capital work-in-progress (d) Pre-operative expenses pending capitalisation (e) Financial Assets (i) Investments in Associates and Joint Ventures (ii) Investments In Others (iii) Loans (iv)Others Financial Assets (f) Income Tax Assets (net) (g) Deferred tax assets (net) (h) Other Non-Current Assets Current Assets (a) Inventories (b) Financial Assets (i) Investments (ii) Trade Receivables (iii) Cash and Cash Equivalents (iv) Bank Balance other than (iii) above (v) Loans (vi) Other Financial Assets (c) Other Current Assets EQUITY AND LIABILITIES Shareholders’ Funds (a) Equity Share Capital (b) Other Equity Equity Attributable to Owners of the Parent Non Controlling Interest Liabilities Non-Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade and Other Payables - Total outstanding dues to micro and small enterprise - Total outstanding dues to others (iii) Other Financial Liabilities (b) Deferred Tax Liabilities (net) (c) Provisions Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade and Other Payables - Total outstanding dues to micro and small enterprise - Total outstanding dues to others (iii) Other Financial Liabilities (b) Other Current Liabilities (c) Provisions",
-            "As at September 30, 2026": "(Unaudited) 6,942.07 8,941.55 19.52 4 94.68 3 3,108.93 1 6,057.41 8 2,272.39 2 ,12,296.36 3,289.04 1,101.43 3 4,063.84",
-            "As at March 31, 2026": "(Audited) 7,147.25 8,933.62 - 2 9,159.21 5,436.04 7 7,525.05 2 ,00,538.83 2,649.47 4 15.64 2 2,792.41"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "3,98,587.22 1 ,35,523.56 2 83.67 1 8,583.12 1 9,133.98 3,092.82 4 2,181.58 2 2,664.37 2 2,008.13",
-            "As at March 31, 2026": "3,54,597.52 1 ,45,560.55 2 85.55 2 8,155.12 5,432.13 2,249.67 3 9,870.09 4 0,145.90 1 7,938.47"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "2,63,471.23",
-            "As at March 31, 2026": "2,79,637.48"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "6,62,058.45",
-            "As at March 31, 2026": "6,34,235.00"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "5 4,240.68 3 ,55,332.70",
-            "As at March 31, 2026": "5 4,240.68 3 ,54,930.76"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "4,09,573.38 ( 3,636.88)",
-            "As at March 31, 2026": "4,09,171.44 ( 3,621.30)"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "4,05,936.50 2 5,459.98 17.49 3 09.59 1 1,399.09 - 7 96.37",
-            "As at March 31, 2026": "4,05,550.14 2 5,597.85 17.99 3 02.90 1 1,399.09 - 6 23.55"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "3 7,982.52 7 2,332.67 1 48.96 6,509.38 5 8,222.78 6 0,297.09 2 0,628.55",
-            "As at March 31, 2026": "3 7,941.38 4 9,077.57 1 52.85 5,095.51 4 8,472.64 6 3,969.85 2 3,975.06"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "2,18,139.43",
-            "As at March 31, 2026": "1,90,743.48"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "6,62,058.45",
-            "As at March 31, 2026": "6,34,235.00"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "f09e5980-d1c7-4a0e-bae8-8f49436c1e2d",
-    "SCRIP_CD": 544681,
-    "XML_NAME": "ANN_544681_F09E5980-D1C7-4A0E-BAE8-8F49436C1E2D",
-    "NEWSSUB": "INDO SMC Ltd - 544681 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-05T21:25:54.123",
-    "NEWS_DT": "2026-11-05T21:25:54.123",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bbc036e3-8936-4c0d-8890-ae024df667e3.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/indo-smc-ltd/indosmc/544681/",
-    "SLONGNAME": "INDO SMC Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:25:54",
-    "DissemDT": "2026-11-05T21:25:54.123",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6179819,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "3000.00",
-      "operating_profit": "2766.55",
-      "total_assets": "22443.23",
-      "total_equity": "15411.49",
-      "total_debt": "450.06",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5ec07cfa-316c-4cd6-a140-91f1104b27bc",
-    "SCRIP_CD": 543277,
-    "XML_NAME": "ANN_543277_5EC07CFA-316C-4CD6-A140-91F1104B27BC",
-    "NEWSSUB": "Laxmi Organic Industries Ltd - 543277 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-    "DT_TM": "2026-11-05T21:25:27.3",
-    "NEWS_DT": "2026-11-05T21:25:27.3",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f9eef8b8-5349-409b-b4bf-f837220101aa.pdf",
-    "MORE": "",
-    "HEADLINE": "Laxmi Organic Industries Limited has submitted Monitoring Agency Report issued by India Ratings & Research Private Limited (Monitoring Agent) for the quarter ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/laxmi-organic-industries-ltd/lxchem/543277/",
-    "SLONGNAME": "Laxmi Organic Industries Ltd",
-    "AGENDA_ID": 135,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:25:27",
-    "DissemDT": "2026-11-05T21:25:27.3",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 405416,
-    "SUBCATNAME": "Monitoring Agency Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "information /",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "Board of Directors",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "certifications",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "Reason of Cost revision",
-            "Comments of the": "",
-            "col_11": "Proposed financing option",
-            "col_12": "",
-            "col_13": "Particulars",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "considered by",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "of",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "Monitoring",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "firm",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "Agency for",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "arrangeme",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "preparation of",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "nts",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "col_3": "",
-            "Source of": "report",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "",
-            "Revised Cost (INR Million)": "",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "made",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Item Head": "Funding the capital expenditure requirements for setting up of the new innovation centre at plot bearing number A- 309 located at Mahape, MIDC",
-            "col_3": "Management undertaking, Placement Document, Shareholder resolution copy, Relevant Bank Statements.",
-            "Source of": "",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "360.01",
-            "Revised Cost (INR Million)": "250.43",
-            "Comment sof the Monitorin g Agency": "Refer Note 1& 2below",
-            "col_9": "No Comme nts",
-            "Comments of the": "",
-            "col_11": "NA",
-            "col_12": "NA",
-            "col_13": "",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "2",
-            "Item Head": "Funding the capital expenditure requirements of our Companyfor setting up of the new manufacturing facility at village Jolve and Vadadla, Bharuch,",
-            "col_3": "",
-            "Source of": "",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "1,619.66",
-            "Revised Cost (INR Million)": "1,729.24",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "NA",
-            "col_12": "NA",
-            "col_13": "",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "3",
-            "Item Head": "General Corporate Purposes*",
-            "col_3": "",
-            "Source of": "",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "500.97",
-            "Revised Cost (INR Million)": "506.05",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "NA",
-            "col_12": "NA",
-            "col_13": "",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "4",
-            "Item Head": "QIP related Issue Expenses*",
-            "col_3": "",
-            "Source of": "",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "110.57",
-            "Revised Cost (INR Million)": "105.59",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "NA",
-            "col_12": "NA",
-            "col_13": "",
-            "col_14": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "TOTAL",
-            "col_3": "",
-            "Source of": "",
-            "col_5": "",
-            "Original cost (as per the Offer Document) (INR Million)": "2,591.21",
-            "Revised Cost (INR Million)": "2,591.21",
-            "Comment sof the Monitorin g Agency": "",
-            "col_9": "",
-            "Comments of the": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "",
-            "col_14": ""
-          }
-        ]
-      }
-    ]
   }
 ]
