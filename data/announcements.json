@@ -1,5 +1,118 @@
 [
   {
+    "NEWSID": "c78c408b-3575-425c-aa7d-7e94d00f23db",
+    "SCRIP_CD": 526588,
+    "XML_NAME": "ANN_526588_C78C408B-3575-425C-AA7D-7E94D00F23DB",
+    "NEWSSUB": "Photoquip India Ltd - 526588 - Board Meeting Intimation for Consider And Approve The Quarterly Financial Results",
+    "DT_TM": "2026-11-06T08:56:28.27",
+    "NEWS_DT": "2026-11-06T08:56:28.27",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7f6ba2bd-c1d2-4330-a0f4-6dfc560eaf5d.pdf",
+    "MORE": "",
+    "HEADLINE": "Photoquip India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Quarterly Financial Results",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/photoquip-india-ltd/photoqup/526588/",
+    "SLONGNAME": "Photoquip India Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T08:56:26",
+    "DissemDT": "2026-11-06T08:56:28.27",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 331198,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors will meet on **Saturday, 14 Nov 2026** to **consider and approve the unaudited standalone financial results** for the **second quarter and half‑year ended 30 Sep 2026**, together with the Limited Review Report.  \n\n- The company’s **trading window remains closed** and will **re‑open 48 hours after the unaudited results are declared**; no specific financial figures or performance numbers are disclosed in the announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d87964f2-f870-4f08-95d7-628fbd854bc6",
+    "SCRIP_CD": 532868,
+    "XML_NAME": "ANN_532868_D87964F2-F870-4F08-95D7-628FBD854BC6",
+    "NEWSSUB": "DLF Ltd - 532868 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-06T08:49:38.38",
+    "NEWS_DT": "2026-11-06T08:49:38.38",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f2801207-3eca-4cfc-bc4a-56258acd4d24.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dlf-ltd/dlf/532868/",
+    "SLONGNAME": "DLF Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T08:49:38",
+    "DissemDT": "2026-11-06T08:49:38.38",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3472204,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **6 Nov 2026 announcement:** DLF Ltd and Singapore‑based Everstone Group signed a binding term sheet to form a joint venture that will",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3ec58569-41f2-416b-a4b5-cfa8965101b7",
+    "SCRIP_CD": 522064,
+    "XML_NAME": "ANN_522064_3EC58569-41F2-416B-A4B5-CFA8965101B7",
+    "NEWSSUB": "Honda India Power Products Ltd - 522064 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-06T08:30:48.26",
+    "NEWS_DT": "2026-11-06T08:30:48.26",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "629bb521-1823-4768-8500-346ac19e9487.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement regarding publication of Unaudited Financial Results",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/honda-india-power-products-ltd/hondapower/522064/",
+    "SLONGNAME": "Honda India Power Products Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-06T08:30:48",
+    "DissemDT": "2026-11-06T08:30:48.26",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2234276,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & coverage:** On 6 November 2026, Honda India Power Products",
+    "key_metrics": {
+      "eps": "1",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "05881fc8-1ebc-474b-ad42-5f194b582488",
     "SCRIP_CD": 543064,
     "XML_NAME": "ANN_543064_05881FC8-1EBC-474B-AD42-5F194B582488",
@@ -37378,478 +37491,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "081e657d-a98e-4ecf-8ab0-7f5084eaee97",
-    "SCRIP_CD": 532630,
-    "XML_NAME": "ANN_532630_081E657D-A98E-4ECF-8AB0-7F5084EAEE97",
-    "NEWSSUB": "Gokaldas Exports Ltd - 532630 - Financial Results For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-05T21:24:55.2",
-    "NEWS_DT": "2026-11-05T21:24:55.2",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0e3f031c-a6f1-4025-bc85-2dca577e8db6.pdf",
-    "MORE": "",
-    "HEADLINE": "Financial Results For The Quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gokaldas-exports-ltd/gokex/532630/",
-    "SLONGNAME": "Gokaldas Exports Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:24:55",
-    "DissemDT": "2026-11-05T21:24:55.2",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5121432,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "111279.54",
-      "total_equity": "229522.68",
-      "total_debt": "31591.09",
-      "eps": "",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Sep 30, 2026": "Unaudited",
-            "col_4": "Audited"
-          },
-          {
-            "Particulars": "I. ASSETS (1) Non-current assets (a) Property, plant and equipment (b) Right of use asset (c) Capital work-in-progress (d) Goodwill and intangible assets (e) Intangible assets under development (f) Financial assets (i) Investments (ii) Other financial assets (g) Deferred tax asset (h) Non-current tax assets (net) (i) Other non-current assets",
-            "col_2": "",
-            "Sep 30, 2026": "71,250.72 31,578.34 12,151.53 58,340.32 173.07 30,158.62 4,906.93 6,568.27 365.94 2,391.36",
-            "col_4": "65,805.19 29,711.41 11,628.09 58,401.49 90.46 30,051.75 4,857.21 7,377.57 329.62 951.20"
-          },
-          {
-            "Particulars": "Total non-current assets",
-            "col_2": "",
-            "Sep 30, 2026": "2,17,885.10",
-            "col_4": "2,09,203.99"
-          },
-          {
-            "Particulars": "(2) Current assets (a) Inventories (b) Financial assets ( i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Other balances with banks (other than cash and cash equivalents) (v) Other financial assets ( c) Other current assets",
-            "col_2": "",
-            "Sep 30, 2026": "87,135.82 31,981.02 70,447.30 3,187.36 161.92 11,355.30 23,057.43",
-            "col_4": "87,453.45 28,910.00 60,105.12 13,500.99 88.25 12,027.82 24,126.08"
-          },
-          {
-            "Particulars": "Total current assets",
-            "col_2": "",
-            "Sep 30, 2026": "2,27,326.15",
-            "col_4": "2,26,211.71"
-          },
-          {
-            "Particulars": "Total assets (1+2)",
-            "col_2": "",
-            "Sep 30, 2026": "4,45,211.25",
-            "col_4": "4,35,415.70"
-          },
-          {
-            "Particulars": "II. EQUITY AND LIABILITIES (1) Equity (a) Equity share capital (b) Other equity",
-            "col_2": "",
-            "Sep 30, 2026": "3,663.89 2,25,858.79",
-            "col_4": "3,662.37 2, 12,377.56"
-          },
-          {
-            "Particulars": "Total equity",
-            "col_2": "",
-            "Sep 30, 2026": "2,29,522.68",
-            "col_4": "2,16,039.93"
-          },
-          {
-            "Particulars": "Liabilities (2) Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (b) Provision for employee benefits ( c) Other non current liabilities",
-            "col_2": "",
-            "Sep 30, 2026": "31,591.09 23,988.87 5,701.98 2,024.71",
-            "col_4": "37,435.83 23,406.27 5,645.64 1,980.51"
-          },
-          {
-            "Particulars": "Total non-current liabilities",
-            "col_2": "",
-            "Sep 30, 2026": "63,306.65",
-            "col_4": "68,468.25"
-          },
-          {
-            "Particulars": "(3) Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables Total outstanding dues of micro and small enterprises Total outstanding dues of creditors other than micro and small enterprises - (iv) Other financial liabilities ~'}{POr t ( c) Provision for employee benefits <:. ( d) Current tax liability (net) 'b~ L:3\\S' (e) Other current liabilities I 'in Qc,n-i~lnre 3 I",
-            "col_2": "",
-            "Sep 30, 2026": "46,606.84 7,952.08 3,002.69 55,534.70 27,879.46 4,442.73 4,201.97 2,761.45",
-            "col_4": "60,319.49 6,159.17 3,992.34 30,890.34 35,743.25 4,306.32 3,417.95 6,078.66"
-          },
-          {
-            "Particulars": "J ;;:- Total current liabilities I,~,",
-            "col_2": "",
-            "Sep 30, 2026": "1,52,381.92",
-            "col_4": "1,50,907.52"
-          },
-          {
-            "Particulars": "Total equity and liabilities (1+2+3) \\0\"-......._ _/Q./",
-            "col_2": "",
-            "Sep 30, 2026": "4,45,211.25",
-            "col_4": "4,35,415.70"
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "Sep 30, 2026",
-            "col_5": "Sep 30, 2025"
-          },
-          {
-            "col_1": "Cash flow from operating activities Profit before tax Adjustments to reconcile profit before tax to net cash flows: Depreciation and amortisation expense Net gain on disposal of property, plant and equipment Unrealised foreign exchange (gain)/loss, (net) Gain on sale of investments in mutual fund units (including fair value gain) (Gain)/loss on derivative contracts Income from government grants Share based payment expenses Interest income Finance costs Allowance for credit losses Provision no longer required written back",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "11,233.31 9,392.20 (27.59) (1,857.97) (1,090.71) 56.00 (337.02) 608.23 (2,813.07) 5,997.42 451.72 (323.82)",
-            "col_5": "7,552.96 8,196.82 (45.91) (1,196.10) (1,447.00) (102.00) (343.08) 792.87 (1,986.02) 4,475.26 144.20 -"
-          },
-          {
-            "col_1": "Operating profit before working capital changes Changes in working capital: (Increase)/ decrease in other financial assets (Increase)/ decrease in other assets (Increase)/ decrease in inventories (Increase)/ decrease in trade receivables Increase/ (decrease) in provisions for employee benefits Increase/ (decrease) in trade payables Increase/ (decrease) in other financial liabilities Increase/ (decrease) in other liabilities",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "21,288.70 (355.25) 4,603.89 317.63 (13,562.34) 334.56 20,233.31 2,668.53 (186.35)",
-            "col_5": "16,042.00 (338.02) (529.87) (394.15) (4,664.50) 855.57 270.64 691.71 46.82"
-          },
-          {
-            "col_1": "Cash generated from operations Direct taxes refunded/ (paid) (net)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "35,342.68 (2,831.86)",
-            "col_5": "11,980.20 (1,097.97)"
-          },
-          {
-            "col_1": "Net cash flows from operating activities (A)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "32,510.82",
-            "col_5": "10,882.23"
-          },
-          {
-            "col_1": "Cash flow from investing activities Purchase of property, plant and equipment (including intangible assets, intangible assets under development and capital work-in-progress) Proceeds from sale of property, plant and equipment Investments in bank deposits Proceeds from redemption of bank deposits Proceeds from sale of investment in mutual fund units Investment in mutual fund units Investment in equity shares Interest income received",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(12,559.81) 202.69 (73.67) - 4,519.69 (6,500.00) (106.87) 389.38",
-            "col_5": "(11,021.87) 139.17 - 50.99 10,900.01 (14,550.00) (7, I 99.06) 99.08"
-          },
-          {
-            "col_1": "IN et cash flows used in investing activities (B)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(14,128.59)",
-            "col_5": "(21,581.68)"
-          },
-          {
-            "col_1": "Cash flow from financing activities Proceeds from exercise of share options Proceeds of borrowings Repayment of borrowings Payment of lease liabilities Finance costs paid",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "94.92 98,196.49 (1,17,009.83) (5,353.87) (4,674.38)",
-            "col_5": "5,359.26 85,705.77 (83,250.06) (5,152.36) (3,113.05)"
-          },
-          {
-            "col_1": "Net cash flows from/ (used in) financing activities (C)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(28,746.67)",
-            "col_5": "(450.44)"
-          },
-          {
-            "col_1": "Net increase/ (decrease) in cash and cash equivalents (A+B+C) Effect of exchange differences on translation of foreign currency cash and cash equivalents Cash and cash equivalents at the beginning of the year",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(I 0,364.44) 50.81 13,500.99",
-            "col_5": "(11,149.89) 129.62 16,475.07"
-          },
-          {
-            "col_1": "Cash and cash equivalents at the end of the year",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "3,187.36",
-            "col_5": "5,454.80"
-          },
-          {
-            "col_1": "Components of cash and cash equivalents - Cash and cash equivalents Balances with banks ~'I-POr t & In current accounts bq, (.. Cash on hand I\"§ ?-1 Deposits with original maturity ofless than 3 months ~",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "3,165.17 12.88 9.31",
-            "col_5": "5,438.06 16.74 -"
-          },
-          {
-            "col_1": "Total cash and cash equivalents",
-            "col_2": "-- \\ 0,...\\. / rs(l) I",
-            "col_3": "",
-            "Half year ended": "3,187.36",
-            "col_5": "5,454.80"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Particulars": "",
-            "Sep 30, 2026": "Unaudited",
-            "Mar 31, 2026": "Audited"
-          },
-          {
-            "Particulars": "I. ASSETS (1) Non-current assets (a) Property, plant and equipment (b) Right-of-use asset (c) Capital work-in-progress ( d) Other intangible assets (e) Intangible assets under development (f) Financial assets (i) Investments (ii) Loans (iii) Other financial assets ( f) Deferred tax asset (g) Non-current tax assets (net) (h) Other non-current assets",
-            "Sep 30, 2026": "27,412.73 19,879.14 302.89 668.95 173.07 64,911.25 73,694.16 9,397.39 5,834.63 217.65 1,373.55",
-            "Mar 31, 2026": "21,237.57 16,652.14 4,881.88 518.83 90.46 64,695.32 64,174.89 7,765.02 6,670.32 217.65 755.29"
-          },
-          {
-            "Particulars": "Total non-current assets",
-            "Sep 30, 2026": "2,03,865.41",
-            "Mar 31, 2026": "1,87,659.37"
-          },
-          {
-            "Particulars": "(2) Current assets (a) Inventories (b) Financial assets (i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Other balances with battl<s (other than cash and cash equivalents) (v) Other financial assets ( c) Other current assets",
-            "Sep 30, 2026": "49,368.24 31,981.02 54,423.35 803.30 0.07 11,720.26 10,685.10",
-            "Mar 31, 2026": "56,789.94 28,910.00 41,304.52 10,450.57 - 12,370.37 13,805.02"
-          },
-          {
-            "Particulars": "Total current assets",
-            "Sep 30, 2026": "1,58,981.34",
-            "Mar 31, 2026": "1,63,630.42"
-          },
-          {
-            "Particulars": "Total assets (1+2)",
-            "Sep 30, 2026": "3,62,846.75",
-            "Mar 31, 2026": "3,51,289.79"
-          },
-          {
-            "Particulars": "II. EQUITY AND LIABILITIES (1) Equity (a) Equity share capital (b) Other equity",
-            "Sep 30, 2026": "3,663.89 2,50,030.28",
-            "Mar 31, 2026": "3,662.37 2,32,464.46"
-          },
-          {
-            "Particulars": "Total equity",
-            "Sep 30, 2026": "2,53,694.17",
-            "Mar 31, 2026": "2,36,126.83"
-          },
-          {
-            "Particulars": "Liabilities (2) Non-current liabilities (a) Financial liabilities Borrowings Lease liabilities (b) Provision for employee benefits",
-            "Sep 30, 2026": "4,753.30 16,188.68 5,271.36",
-            "Mar 31, 2026": "6,177.10 14,376.29 5,158.60"
-          },
-          {
-            "Particulars": "Total non-current liabilities",
-            "Sep 30, 2026": "26,213.34",
-            "Mar 31, 2026": "25,711.99"
-          },
-          {
-            "Particulars": "(3) Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables Total outstanding dues of micro and small enterprises Total outstanding dues of creditors other than micro and small enterprises - (iv) Other current financial liabilities (£ ~Port (b) Provision for employee benefits IS' <:,. ( c) Current tax liability (net) ( d) Other current liabilities ~3",
-            "Sep 30, 2026": "1,195.52 5,168.23 2,393.29 44,666.02 20,375.47 3,213.51 4,045.40 1,881.80",
-            "Mar 31, 2026": "23,864.25 3,501.61 3,430.16 20,744.91 29,322.67 3,110.47 3,254.17 2,222.73"
-          },
-          {
-            "Particulars": "- ,-~, Total current liabilities \\~\\ /f;:",
-            "Sep 30, 2026": "82,939.24",
-            "Mar 31, 2026": "89,450.97"
-          },
-          {
-            "Particulars": "Total equity and liabilities (1+2+3) _/~/",
-            "Sep 30, 2026": "3,62,846.75",
-            "Mar 31, 2026": "3,51,289.79"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "Seo 30 2026",
-            "col_5": "Seo 30 2025"
-          },
-          {
-            "col_1": "Cash flow from operating activities Profit before tax Adjustments to reconcile profit before tax to net cash flows: Depreciation and amortisation expense Net gain on disposal of property, plant and equipment Unrealised foreign exchange (gain)/loss, (net) Gain on sale of investments in mutual fund units (including fair value gain) (Gain)/loss on derivative contracts Income from government grants Share based payment expenses Interest income Finance costs Allowance for credit losses Operating profit before working capital changes Changes in working capital: (Increase)/ decrease in other financial assets (Increase)/ decrease in other assets (Increase)/ decrease in inventories (Increase)/ decrease in trade receivables Increase/ (decrease) in provisions for employee benefits Increase/ (decrease) in trade payables Increase/ (decrease) in other financial liabilities Increase/ (decrease) in other liabilities",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "14,879.19 5,704.74 (27.59) (1,253.67) (1,090.71) 56.00 (337.02) 488.72 (5,140.91) 2,498.59 37.00",
-            "col_5": "12,257.16 5,014.44 (60.21) 51.38 (1,447.00) (102.00) (343.08) 792.87 (4,084.83) 1,713.13 10.00"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "15,814.34 (383.64) 3,646.61 7,421.70 (13,554.57) 445.89 22,464.45 284.17 51.70",
-            "col_5": "13,801.86 (345.61) (548.12) 2,822.59 (4,787.64) 369.50 645.10 1,743.40 (85.09)"
-          },
-          {
-            "col_1": "Cash generated from operations Direct taxes refunded/ (paid) (net)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "36,190.65 (2,770.57)",
-            "col_5": "13,615.99 (956.46)"
-          },
-          {
-            "col_1": "Net cash flows from operating activities {A)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "33,420.08",
-            "col_5": "12,659.53"
-          },
-          {
-            "col_1": "Cash flow from investing activities Purchase of property, plant and equipment (including intangible assets, intangible assets under development and capital work-in-progress) Proceeds from sale of property, plant and equipment Investments in bank deposits Proceeds from redemption of bank deposits Investment in equity shares Loan given to subsidiaries Repayment of loans by subsidiaries Investment in mutual fund units Proceeds from sale of investment in mutual fund units Interest income received",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(4,844.74) 148.80 (0.07) - (94.49) (I 0,487.20) 1,360.00 (6,500.00) 4,519.69 1,149.52",
-            "col_5": "(5,457.76) 139.17 - 17.06 (7,199.06) (7,290.12) - (14,550.00) 10,900.01 (838.04)"
-          },
-          {
-            "col_1": "Net cash flows from/ (used in) investing activities (B)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(14,748.49)",
-            "col_5": "(24,278.74)"
-          },
-          {
-            "col_1": "Cash flow from financing activities Proceeds from exercise of share options Proceeds of borrowings Repayment of borrowings Payment oflease liabilities Finance costs paid",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "94.91 82,028.57 (1,05,3 77.05) (3,553.37) (1,511.92)",
-            "col_5": "5,359.26 54,373.83 (54,534.55) (3,530.56) (88734)"
-          },
-          {
-            "col_1": "Net cash flows from/ (used in) financing activities (C)",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(28,318.86)",
-            "col_5": "780.64"
-          },
-          {
-            "col_1": "Net increase/ (decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the year",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "(9,647.27) 10,450.57",
-            "col_5": "(10,838.57) 12,212.40"
-          },
-          {
-            "col_1": "Cash and cash equivalents at the end of the year",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "803.30",
-            "col_5": "1,373.83"
-          },
-          {
-            "col_1": "- Components of cash and cash equivalents Cash and cash equivalents ~ 'c-XPo; 1 Balances with banks o~~ -- < In current accounts 1 I Bangalore §. Cash on hand 1",
-            "col_2": "",
-            "col_3": "",
-            "Half year ended": "796.94 636",
-            "col_5": "1,362.68 I 1.15"
-          },
-          {
-            "col_1": "Total cash and cash equivalents",
-            "col_2": "\\ ';°'<) \\. / (!)/",
-            "col_3": "",
-            "Half year ended": "803.30",
-            "col_5": "1,373.83"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "6366ffeb-429a-4482-83a2-62b699b00846",
-    "SCRIP_CD": 540726,
-    "XML_NAME": "ANN_540726_6366FFEB-429A-4482-83A2-62B699B00846",
-    "NEWSSUB": "Trident Texofab Ltd - 540726 - Board Meeting Outcome for Outcome Of Board Meeting Held On 05.11.2026",
-    "DT_TM": "2026-11-05T21:24:18.253",
-    "NEWS_DT": "2026-11-05T21:24:18.253",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c17499dc-b9d5-4df7-ad02-861feff207ef.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting held on 05.11.2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/trident-texofab-ltd/ttfl/540726/",
-    "SLONGNAME": "Trident Texofab Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:24:17",
-    "DissemDT": "2026-11-05T21:24:18.253",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 3130350,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "1687.22",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c6106af2-9210-4d9d-b87a-6eb1f7a2b43a",
-    "SCRIP_CD": 532553,
-    "XML_NAME": "ANN_532553_C6106AF2-9210-4D9D-B87A-6EB1F7A2B43A",
-    "NEWSSUB": "Welspun Enterprises Ltd - 532553 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-    "DT_TM": "2026-11-05T21:24:09.393",
-    "NEWS_DT": "2026-11-05T21:24:09.393",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d18e1c4e-9d7f-4f25-9a13-c3b256fe3fbc.pdf",
-    "MORE": "",
-    "HEADLINE": "Welspun Enterprises Limited informed the Exchange about Monitoring Agency Report",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/",
-    "SLONGNAME": "Welspun Enterprises Ltd",
-    "AGENDA_ID": 135,
-    "TotalPageCnt": 60,
-    "News_submission_dt": "2026-11-05T21:24:09",
-    "DissemDT": "2026-11-05T21:24:09.393",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 633918,
-    "SUBCATNAME": "Monitoring Agency Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
   }
 ]
