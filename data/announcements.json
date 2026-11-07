@@ -1,5 +1,576 @@
 [
   {
+    "NEWSID": "623cea20-fec0-43ba-992a-02a392589df2",
+    "SCRIP_CD": 544339,
+    "XML_NAME": "ANN_544339_623CEA20-FEC0-43BA-992A-02A392589DF2",
+    "NEWSSUB": "Laxmi Dental Ltd - 544339 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-07T22:41:44.947",
+    "NEWS_DT": "2026-11-07T22:41:44.947",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e3bb1f11-8bc2-4e96-bfc1-9e64917396ff.pdf",
+    "MORE": "",
+    "HEADLINE": "Earnings Call Transcript Q2 and H1 FY27",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/laxmi-dental-ltd/laxmidentl/544339/",
+    "SLONGNAME": "Laxmi Dental Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 20,
+    "News_submission_dt": "2026-11-07T22:41:44",
+    "DissemDT": "2026-11-07T22:41:44.947",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1056346,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement & call details:** Laxmi Dental Ltd filed a Regulation 30 disclosure on 7 Nov 2026, enclosing the transcript of its Q2 FY27 & H1 FY27 earnings conference call held on 4 Nov 2026 at 10:00 a.m.",
+    "key_metrics": {
+      "net_profit": "49",
+      "operating_profit": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "96cbe9c8-3e4f-4e91-8bb6-d8bc053834ae",
+    "SCRIP_CD": 543912,
+    "XML_NAME": "ANN_543912_96CBE9C8-3E4F-4E91-8BB6-D8BC053834AE",
+    "NEWSSUB": "Power and Instrumentation (Gujarat) Ltd - 543912 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-07T22:38:13.35",
+    "NEWS_DT": "2026-11-07T22:38:13.35",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "340092cb-4e31-4580-b92c-19c9f13c042d.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
+    "SLONGNAME": "Power and Instrumentation (Gujarat) Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 20,
+    "News_submission_dt": "2026-11-07T22:38:13",
+    "DissemDT": "2026-11-07T22:38:13.35",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5177704,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & purpose:** On 7 Nov 2026, Power and Instrumentation (Gujarat) Ltd filed a Regulation 30 notice to the NSE and BSE, attaching its Investor Presentation for the quarter and half‑year ended 30 Sept 2026 (Q2 FY27 & H1 FY27).  \n\n- **Financial details:** The excerpt contains no specific financial numbers, figures, or decisions; it only references the presentation’s scope (business overview, performance, growth plans) without disclosing quantitative data.",
+    "key_metrics": {
+      "revenue": "77.14",
+      "net_profit": "20000",
+      "operating_profit": "20000",
+      "total_assets": "286.22",
+      "total_equity": "176.23",
+      "total_debt": "5.35",
+      "eps": "20000",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 21,
+        "table_index": 2,
+        "row_count": 19,
+        "rows": [
+          {
+            "Particulars (₹ Cr)": "",
+            "Quarterly": "Q2FY27",
+            "col_3": "Q2FY26",
+            "col_4": "YoY",
+            "col_5": "Q1FY27",
+            "col_6": "QoQ",
+            "Half-Yearly": "H1FY27",
+            "col_8": "H1FY26",
+            "col_9": "YoY",
+            "Annual": "FY26"
+          },
+          {
+            "Particulars (₹ Cr)": "Revenue from Operations",
+            "Quarterly": "77.14",
+            "col_3": "70.27",
+            "col_4": "9.78%",
+            "col_5": "48.90",
+            "col_6": "57.78%",
+            "Half-Yearly": "126.04",
+            "col_8": "111.58",
+            "col_9": "12.96%",
+            "Annual": "218.76"
+          },
+          {
+            "Particulars (₹ Cr)": "Cost of Materials Consumed",
+            "Quarterly": "1.18",
+            "col_3": "0.00",
+            "col_4": "",
+            "col_5": "2.59",
+            "col_6": "",
+            "Half-Yearly": "3.76",
+            "col_8": "0.00",
+            "col_9": "",
+            "Annual": "4.00"
+          },
+          {
+            "Particulars (₹ Cr)": "Purchase of Stock-in-Trade",
+            "Quarterly": "63.34",
+            "col_3": "65.71",
+            "col_4": "",
+            "col_5": "42.71",
+            "col_6": "",
+            "Half-Yearly": "106.05",
+            "col_8": "102.69",
+            "col_9": "",
+            "Annual": "196.32"
+          },
+          {
+            "Particulars (₹ Cr)": "Change in Inventories",
+            "Quarterly": "(0.66.)",
+            "col_3": "-3.37",
+            "col_4": "",
+            "col_5": "-4.72",
+            "col_6": "",
+            "Half-Yearly": "-5.38",
+            "col_8": "-5.41",
+            "col_9": "",
+            "Annual": "-18.32"
+          },
+          {
+            "Particulars (₹ Cr)": "Gross Profit",
+            "Quarterly": "13.28",
+            "col_3": "7.93",
+            "col_4": "40.28%",
+            "col_5": "8.32 Cr",
+            "col_6": "59.61%",
+            "Half-Yearly": "21.60",
+            "col_8": "14.31",
+            "col_9": "50.94%",
+            "Annual": "34.32"
+          },
+          {
+            "Particulars (₹ Cr)": "Gross Margin (%)",
+            "Quarterly": "17.21%",
+            "col_3": "11.28%",
+            "col_4": "",
+            "col_5": "17.01%",
+            "col_6": "",
+            "Half-Yearly": "17.31%",
+            "col_8": "12.82%",
+            "col_9": "",
+            "Annual": "15.69%"
+          },
+          {
+            "Particulars (₹ Cr)": "Employee Expenses",
+            "Quarterly": "1.64",
+            "col_3": "1.13",
+            "col_4": "",
+            "col_5": "1.36",
+            "col_6": "",
+            "Half-Yearly": "2.99",
+            "col_8": "2.19",
+            "col_9": "",
+            "Annual": "5.19"
+          },
+          {
+            "Particulars (₹ Cr)": "Other Expenses",
+            "Quarterly": "1.80",
+            "col_3": "0.20",
+            "col_4": "",
+            "col_5": "1.94",
+            "col_6": "",
+            "Half-Yearly": "4.05",
+            "col_8": "1.48",
+            "col_9": "",
+            "Annual": "8.58"
+          },
+          {
+            "Particulars (₹ Cr)": "EBITDA",
+            "Quarterly": "9.52",
+            "col_3": "6.57",
+            "col_4": "44.76%",
+            "col_5": "5.02",
+            "col_6": "89.70%",
+            "Half-Yearly": "14.53",
+            "col_8": "10.64",
+            "col_9": "36.58%",
+            "Annual": "22.97"
+          },
+          {
+            "Particulars (₹ Cr)": "EBITDA Margin (%)",
+            "Quarterly": "12,34%",
+            "col_3": "9.36%",
+            "col_4": "",
+            "col_5": "10.26%",
+            "col_6": "",
+            "Half-Yearly": "11.54%",
+            "col_8": "9.53%",
+            "col_9": "",
+            "Annual": "10.50%"
+          },
+          {
+            "Particulars (₹ Cr)": "Other Income",
+            "Quarterly": "0.32",
+            "col_3": "0.64",
+            "col_4": "",
+            "col_5": "0.44",
+            "col_6": "",
+            "Half-Yearly": "0.76",
+            "col_8": "0.89",
+            "col_9": "",
+            "Annual": "1.54"
+          },
+          {
+            "Particulars (₹ Cr)": "Depreciation",
+            "Quarterly": "0.31",
+            "col_3": "0.11",
+            "col_4": "",
+            "col_5": "0.30",
+            "col_6": "",
+            "Half-Yearly": "0.61",
+            "col_8": "0.16",
+            "col_9": "",
+            "Annual": "0.59"
+          },
+          {
+            "Particulars (₹ Cr)": "Finance Cost",
+            "Quarterly": "1.80",
+            "col_3": "0.80",
+            "col_4": "",
+            "col_5": "1.27",
+            "col_6": "",
+            "Half-Yearly": "3.08",
+            "col_8": "1.53",
+            "col_9": "",
+            "Annual": "4.61"
+          },
+          {
+            "Particulars (₹ Cr)": "Profit Before Tax",
+            "Quarterly": "7.71",
+            "col_3": "6.34",
+            "col_4": "",
+            "col_5": "3.89",
+            "col_6": "",
+            "Half-Yearly": "11.60",
+            "col_8": "9.84",
+            "col_9": "",
+            "Annual": "19.27"
+          },
+          {
+            "Particulars (₹ Cr)": "Tax",
+            "Quarterly": "1.49",
+            "col_3": "1.60",
+            "col_4": "",
+            "col_5": "0.84",
+            "col_6": "",
+            "Half-Yearly": "2.34",
+            "col_8": "2.51",
+            "col_9": "",
+            "Annual": "4.43"
+          },
+          {
+            "Particulars (₹ Cr)": "Profit After Tax",
+            "Quarterly": "6.21",
+            "col_3": "4.74",
+            "col_4": "31.91%",
+            "col_5": "3.05",
+            "col_6": "104.23%",
+            "Half-Yearly": "9.26",
+            "col_8": "7.32",
+            "col_9": "26.36%",
+            "Annual": "14.84"
+          },
+          {
+            "Particulars (₹ Cr)": "PAT Margin (%)",
+            "Quarterly": "8.06%",
+            "col_3": "6.71%",
+            "col_4": "",
+            "col_5": "6.23%",
+            "col_6": "",
+            "Half-Yearly": "3.93%",
+            "col_8": "6.57%",
+            "col_9": "",
+            "Annual": "6.78%"
+          },
+          {
+            "Particulars (₹ Cr)": "EPS (₹)",
+            "Quarterly": "2.80",
+            "col_3": "2.66",
+            "col_4": "",
+            "col_5": "1.44",
+            "col_6": "",
+            "Half-Yearly": "4.17",
+            "col_8": "4.16",
+            "col_9": "",
+            "Annual": "8.13"
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "table_index": 2,
+        "row_count": 20,
+        "rows": [
+          {
+            "Assets": "",
+            "In INR crores": "Sep-26",
+            "col_3": "Mar-26"
+          },
+          {
+            "Assets": "Property, Plant & Equipment",
+            "In INR crores": "13.35",
+            "col_3": "12.57"
+          },
+          {
+            "Assets": "Capital Work-in-Progress",
+            "In INR crores": "1.85",
+            "col_3": "1.85"
+          },
+          {
+            "Assets": "Goodwill",
+            "In INR crores": "30.88",
+            "col_3": "30.88"
+          },
+          {
+            "Assets": "Intangible Assets",
+            "In INR crores": "1.44",
+            "col_3": "1.34"
+          },
+          {
+            "Assets": "Non-current Investments",
+            "In INR crores": "0.21",
+            "col_3": "0.20"
+          },
+          {
+            "Assets": "Other financial assets (non-current)",
+            "In INR crores": "71.10",
+            "col_3": "56.99"
+          },
+          {
+            "Assets": "Right-of-use assets",
+            "In INR crores": "0.50",
+            "col_3": "0.60"
+          },
+          {
+            "Assets": "Long-term Loans & Advances",
+            "In INR crores": "0.27",
+            "col_3": "0.24"
+          },
+          {
+            "Assets": "Other Non-current Assets",
+            "In INR crores": "0.25",
+            "col_3": "0.18"
+          },
+          {
+            "Assets": "Total Non-current Assets",
+            "In INR crores": "119.88",
+            "col_3": "104.88"
+          },
+          {
+            "Assets": "Inventories",
+            "In INR crores": "89.17",
+            "col_3": "83.79"
+          },
+          {
+            "Assets": "Trade Receivables",
+            "In INR crores": "41.78",
+            "col_3": "41.77"
+          },
+          {
+            "Assets": "Cash & Cash Equivalents",
+            "In INR crores": "1.11",
+            "col_3": "3.77"
+          },
+          {
+            "Assets": "Bank balances other than cash and cash equivalents",
+            "In INR crores": "",
+            "col_3": "0.01"
+          },
+          {
+            "Assets": "Short-term Loans & Advances",
+            "In INR crores": "0.86",
+            "col_3": "0.54"
+          },
+          {
+            "Assets": "Other financial assets (current)",
+            "In INR crores": "8.71",
+            "col_3": "2.80"
+          },
+          {
+            "Assets": "Other Current Assets",
+            "In INR crores": "0.24",
+            "col_3": "0.23"
+          },
+          {
+            "Assets": "Total Current Assets",
+            "In INR crores": "166.34",
+            "col_3": "156.10"
+          },
+          {
+            "Assets": "Total Assets",
+            "In INR crores": "286.22",
+            "col_3": "260.98"
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "table_index": 3,
+        "row_count": 20,
+        "rows": [
+          {
+            "Equity & Liabilities": "",
+            "In INR crores": "Sep-26",
+            "col_3": "Mar-26"
+          },
+          {
+            "Equity & Liabilities": "Equity Share Capital",
+            "In INR crores": "21.17",
+            "col_3": "21.17"
+          },
+          {
+            "Equity & Liabilities": "Other Equity",
+            "In INR crores": "140.04",
+            "col_3": "131.47"
+          },
+          {
+            "Equity & Liabilities": "Equity Attributable to Owners",
+            "In INR crores": "161.20",
+            "col_3": "152.64"
+          },
+          {
+            "Equity & Liabilities": "Non-controlling Interest",
+            "In INR crores": "15.02",
+            "col_3": "14.72"
+          },
+          {
+            "Equity & Liabilities": "Total Equity",
+            "In INR crores": "176.23",
+            "col_3": "167.35"
+          },
+          {
+            "Equity & Liabilities": "Long-term Borrowings",
+            "In INR crores": "5.35",
+            "col_3": "11.63"
+          },
+          {
+            "Equity & Liabilities": "Deferred Tax Liabilities (net)",
+            "In INR crores": "1.57",
+            "col_3": "1.27"
+          },
+          {
+            "Equity & Liabilities": "Lease liabilities (non-current)",
+            "In INR crores": "-",
+            "col_3": "0.55"
+          },
+          {
+            "Equity & Liabilities": "Long-term Provisions",
+            "In INR crores": "-",
+            "col_3": "0.46"
+          },
+          {
+            "Equity & Liabilities": "Total Non-current Liabilities",
+            "In INR crores": "6.93",
+            "col_3": "13.93"
+          },
+          {
+            "Equity & Liabilities": "Short-term Borrowings",
+            "In INR crores": "31.21",
+            "col_3": "20.66"
+          },
+          {
+            "Equity & Liabilities": "Lease liabilities (current)",
+            "In INR crores": "0.68",
+            "col_3": "0.24"
+          },
+          {
+            "Equity & Liabilities": "Trade Payables",
+            "In INR crores": "46.71",
+            "col_3": "42.17"
+          },
+          {
+            "Equity & Liabilities": "Other financial liabilities",
+            "In INR crores": "4.40",
+            "col_3": "0.39"
+          },
+          {
+            "Equity & Liabilities": "Other Current Liabilities",
+            "In INR crores": "15.45",
+            "col_3": "12.64"
+          },
+          {
+            "Equity & Liabilities": "Provisions",
+            "In INR crores": "0.83",
+            "col_3": "0.28"
+          },
+          {
+            "Equity & Liabilities": "Current Tax Liabilities (net)",
+            "In INR crores": "3.74",
+            "col_3": "3.29"
+          },
+          {
+            "Equity & Liabilities": "Total Current Liabilities",
+            "In INR crores": "103.06",
+            "col_3": "79.69"
+          },
+          {
+            "Equity & Liabilities": "Total Equity & Liabilities",
+            "In INR crores": "286.22",
+            "col_3": "260.98"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "ff2b7a43-74fe-422b-a967-f863f6d34ba9",
+    "SCRIP_CD": 530991,
+    "XML_NAME": "ANN_530991_FF2B7A43-74FE-422B-A967-F863F6D34BA9",
+    "NEWSSUB": "Roopa Industries Ltd - 530991 - Board Meeting Intimation for Intimation Regarding Board Meeting To Be Held On Saturday, 14Th November, 2026 To Consider And Approve The Unaudited Financial Results For The Half Year And Quarter Ended On 30Th September, 2026",
+    "DT_TM": "2026-11-07T22:37:55.1",
+    "NEWS_DT": "2026-11-07T22:37:55.1",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bbf7d0c8-38b3-4271-b1a2-8fbd3787ea58.pdf",
+    "MORE": "Roopa Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29(1) (a) and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that a meeting of the Board of Directors of the Company is scheduled to be held on Saturday, the 14th November, 2026 at the Corporate Office of the Company, inter alia, for considering and approving the Unaudited Financial Results for the half year and quarter ended 30th September 2026.\r\n\r\nThe ''Trading Window'' for dealing in the Securities of the company shall continue to remain closed for all Directors/ Officers/ designated persons of the Company till 48 hours after the results are made public on 14th November 2026.\r\n\r\n",
+    "HEADLINE": "Roopa Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29(1) ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/roopa-industries-ltd/roopaind/530991/",
+    "SLONGNAME": "Roopa Industries Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 20,
+    "News_submission_dt": "2026-11-07T22:37:54",
+    "DissemDT": "2026-11-07T22:37:55.1",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 410081,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A board meeting of Roopa Industries Ltd (Scrip 530991) is scheduled for **Saturday, 14 Nov 2026** at the company’s corporate office to **consider and approve the unaudited financial results for the half‑year and quarter ended 30 Sept 2026**.  \n\n- The **trading window** for directors, officers and designated persons will remain **closed until 48 hours after the results are publicly released on 14 Nov 2026**. **No specific financial figures or results are disclosed in",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "cbf63d84-66d5-4e16-aec4-ed4ed2f03e59",
     "SCRIP_CD": 521034,
     "XML_NAME": "ANN_521034_CBF63D84-66D5-4E16-AEC4-ED4ED2F03E59",
@@ -24268,117 +24839,6 @@
     "TimeDiff": "00:00:00",
     "Fld_Attachsize": 10473251,
     "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9913a32b-99e2-45d7-865b-ae01c68e21f8",
-    "SCRIP_CD": 532748,
-    "XML_NAME": "ANN_532748_9913A32B-99E2-45D7-865B-AE01C68E21F8",
-    "NEWSSUB": "Prime Focus Ltd - 532748 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-07T18:38:41.777",
-    "NEWS_DT": "2026-11-07T18:38:41.777",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8144ffdf-85a0-49e1-a9d0-35a7d58304d0.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation regarding Schedule of Institutional Investor(s) Meeting - Conference",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/prime-focus-ltd/pfocus/532748/",
-    "SLONGNAME": "Prime Focus Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-07T18:38:41",
-    "DissemDT": "2026-11-07T18:38:41.777",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 464537,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "9913a32b-99e2-45d7-865b-ae01c68e21f8",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14813697,
-    "DataInsDate": "2026-11-07T18:38:41.747",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Prime Focus Ltd will hold an Institutional Investor/Analyst meeting on **16 November 2026** at the **Grand Hyatt, Mumbai** (Avendus Spark INDX Group & One‑on‑One – Annual Investor Meet).  \n- The notice is a regulatory intimation under SEBI Regulation 30; it contains **no financial figures, transactions, or monetary decisions**.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a16a4148-83c4-4bea-a7f4-81325071ca3b",
-    "SCRIP_CD": 500243,
-    "XML_NAME": "ANN_500243_A16A4148-83C4-4BEA-A7F4-81325071CA3B",
-    "NEWSSUB": "Kirloskar Industries Ltd - 500243 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-07T18:37:30.34",
-    "NEWS_DT": "2026-11-07T18:37:30.34",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2f5084d3-4052-4594-8ab9-f4fc9323e891.pdf",
-    "MORE": "Dear Sir/Madam,\r\n\r\nPlease find enclosed copies of the Standalone and Consolidated unaudited Financial results for the quarter and half-year ended 30 September 2026, published in the Financial Express (English) and Loksatta (Marathi), each on 7 November 2026.\r\n\r\nYou are requested to take the same on your record.",
-    "HEADLINE": "Dear Sir/Madam,\r\n\r\nPlease find enclosed copies of the Standalone and Consolidated unaudited Financial results for the quarter and half-year ended 30 September 2026, published in the Financial ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kirloskar-industries-ltd/kirlosind/500243/",
-    "SLONGNAME": "Kirloskar Industries Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-07T18:37:30",
-    "DissemDT": "2026-11-07T18:37:30.34",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3357563,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "62.43",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "35ab96c3-53a7-4630-860e-5435811d0ed8",
-    "SCRIP_CD": 539041,
-    "XML_NAME": "ANN_539041_35AB96C3-53A7-4630-860E-5435811D0ED8",
-    "NEWSSUB": "Ganesha Ecoverse Ltd - 539041 - Board Meeting Intimation for Notice Of The Board Meeting",
-    "DT_TM": "2026-11-07T18:36:58.9",
-    "NEWS_DT": "2026-11-07T18:36:58.9",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d90bc840-3cf7-42c5-a064-acfeeef41a4f.pdf",
-    "MORE": "",
-    "HEADLINE": "Ganesha Ecoverse Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve As per the attached file.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ganesha-ecoverse-ltd/ganverse/539041/",
-    "SLONGNAME": "Ganesha Ecoverse Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-07T18:36:57",
-    "DissemDT": "2026-11-07T18:36:58.9",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 351488,
-    "SUBCATNAME": "Board Meeting",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
