@@ -1,5 +1,155 @@
 [
   {
+    "NEWSID": "4e835641-2695-401b-9a57-b83804a9e578",
+    "SCRIP_CD": 500770,
+    "XML_NAME": "ANN_500770_4E835641-2695-401B-9A57-B83804A9E578",
+    "NEWSSUB": "Tata Chemicals Ltd - 500770 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-08T17:45:19.6",
+    "NEWS_DT": "2026-11-08T17:45:19.6",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "322a5948-9df0-49b2-87ba-883c23b4c289.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed Newspaper Publication-Unaudited Consolidated and Audited Standalone financial results for second quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/tata-chemicals-ltd/tatachem/500770/",
+    "SLONGNAME": "Tata Chemicals Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T17:45:19",
+    "DissemDT": "2026-11-08T17:45:19.6",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4335110,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors approved the unaudited consolidated and audited standalone financial results for the second quarter and the half‑year ended 30 September 2026 at its meeting on 7 November 2026.  \n- The approved results were published in three newspapers (Financial Express, The Free Press Journal, and Navshakti) on 8 November 2026 and are also available on the company’s website.  \n\n*No specific financial figures or quantitative details were disclosed in the announcement.*",
+    "key_metrics": {
+      "total_equity": "22958",
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c53fdab0-1e31-47e8-a6d4-bb002922b55a",
+    "SCRIP_CD": 543171,
+    "XML_NAME": "ANN_543171_C53FDAB0-1E31-47E8-A6D4-BB002922B55A",
+    "NEWSSUB": "RO Jewels Ltd - 543171 - Announcement under Regulation 30 (LODR)-Resignation of Director",
+    "DT_TM": "2026-11-08T17:38:51.76",
+    "NEWS_DT": "2026-11-08T17:38:51.76",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a4282c6d-247f-4580-af65-e20a3cdc27c0.pdf",
+    "MORE": "",
+    "HEADLINE": "Mrs Pravinaben Shah (DIN: 08300064), Director has resigned w.e.f November 07, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ro-jewels-ltd/rojl/543171/",
+    "SLONGNAME": "RO Jewels Ltd",
+    "AGENDA_ID": 102,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T17:38:51",
+    "DissemDT": "2026-11-08T17:38:51.76",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 257566,
+    "SUBCATNAME": "Resignation of Director",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- RO Jewels Ltd announced that two directors resigned effective 07 Nov 2026: Mr. Bharat Rasiklal Shah (DIN 08300063), Whole‑Time Executive Director, and Mrs. Pravinaben Bharatbhai Shah (DIN 08300064), Non‑Executive Director, both citing personal reasons and other professional commitments.  \n\n- The announcement contains no financial figures, transactions, or other monetary decisions.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "09c97a73-c821-4ff3-b148-c01aec9a890e",
+    "SCRIP_CD": 543171,
+    "XML_NAME": "ANN_543171_09C97A73-C821-4FF3-B148-C01AEC9A890E",
+    "NEWSSUB": "RO Jewels Ltd - 543171 - Announcement under Regulation 30 (LODR)-Resignation of Director",
+    "DT_TM": "2026-11-08T17:34:32.263",
+    "NEWS_DT": "2026-11-08T17:34:32.263",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d55bf2b3-b0a7-43d6-987f-f08f6f753d52.pdf",
+    "MORE": "",
+    "HEADLINE": "Mr. Bharat Shah (DIN: 08300063), Whole time Director, resigned w.e.f November 07, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ro-jewels-ltd/rojl/543171/",
+    "SLONGNAME": "RO Jewels Ltd",
+    "AGENDA_ID": 102,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T17:34:32",
+    "DissemDT": "2026-11-08T17:34:32.263",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 257566,
+    "SUBCATNAME": "Resignation of Director",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 7 November 2026, two directors resigned from RO Jewels Ltd.: Mr. Bharat Rasiklal Shah (Executive/Whole‑Time Director, DIN 08300063) and Mrs. Pravinaben Bharatbhai Shah (Non‑Executive Director, DIN 08300064), citing personal reasons and other professional commitments.  \n\n- The announcement contains no financial figures, transactions, or monetary decisions; it solely reports the directors’ resignations.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "91064df1-1e85-4bb2-b58a-d8ba7d9b4cf0",
+    "SCRIP_CD": 532797,
+    "XML_NAME": "ANN_532797_91064DF1-1E85-4BB2-B58A-D8BA7D9B4CF0",
+    "NEWSSUB": "Autoline Industries Ltd - 532797 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-08T17:31:59.56",
+    "NEWS_DT": "2026-11-08T17:31:59.56",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "336cf965-658c-4d7c-a070-47fb3b4a3eed.pdf",
+    "MORE": "",
+    "HEADLINE": "Financial Results for the Quarter and Half Year ended on September 30,2026 - News Paper Publication\r\n\r\n",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/autoline-industries-ltd/autoind/532797/",
+    "SLONGNAME": "Autoline Industries Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T17:31:59",
+    "DissemDT": "2026-11-08T17:31:59.56",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 6376562,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Autoline Industries Ltd submitted newspaper advertisements (Financial Express and Loksatta) on **7 Nov 2026** to announce its **financial results for the quarter and half‑year ended 30 Sept 2026**.  \n- The filing contains only the notice of publication; **no specific financial figures, earnings, or other quantitative details are disclosed** in the announcement.",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "31e283df-176a-4657-abb3-9d1f1b764b0d",
     "SCRIP_CD": 512599,
     "XML_NAME": "ANN_512599_31E283DF-176A-4657-ABB3-9D1F1B764B0D",
@@ -21887,374 +22037,6 @@
             "col_9": "",
             "col_10": "",
             "col_11": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "34641828-b503-4849-a8c3-e68ae8003e6d",
-    "SCRIP_CD": 519367,
-    "XML_NAME": "ANN_519367_34641828-B503-4849-A8C3-E68AE8003E6D",
-    "NEWSSUB": "Transglobe Foods Ltd - 519367 - Unaudited Financial Results For The Second Quarter And Half Year Ended 30Th September, 2026",
-    "DT_TM": "2026-11-07T20:36:52.613",
-    "NEWS_DT": "2026-11-07T20:36:52.613",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "36ec08b1-b613-4e37-8bf5-792c0547d64d.pdf",
-    "MORE": "This is to inform you that the Board of Directors of the Company at its meeting held today i.e. 07th November 2026 inter-alia considered and approved the Unaudited Financial Results for the second quarter and half year ended 30th September, 2026.\r\n\r\nPursuant to Regulation 33 of the SEBI (LODR) Regulations, 2015, the Unaudited Financial Results for the second quarter and half year ended 30th September, 2026 along with Limited Review Report of the Statutory Auditor's thereon are enclosed herewith for your information and record.\r\n",
-    "HEADLINE": "This is to inform you that the Board of Directors of the Company at its meeting held today i.e. 07th November 2026 inter-alia considered and approved the Unaudited Financial Results for ....",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/transglobe-foods-ltd/transfd/519367/",
-    "SLONGNAME": "Transglobe Foods Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:36:52",
-    "DissemDT": "2026-11-07T20:36:52.613",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 730992,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "8.41",
-      "total_assets": "20.00",
-      "total_equity": "20.00",
-      "total_debt": "11",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "PARTICULARS",
-            "col_2": "Notes",
-            "col_3": "As at 30th September 2026",
-            "col_4": "As at 31st March 2026"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "I. ASSETS 1. Non -Current assets (a) Deffered tax asset Total non-current assets 2. Current assets (a)Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Other current financial assets (c) Other current assets (d) Other current tax assets Total current assets Total assets II. EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity Total equity Liabilities 1. Non-current liabilities (a) Financial liabilities (i) Borrowings Total non-current liabilities 2. Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease Liabilities (iii) Trade payables - Total outstanding dues of micro enterprises and small enterprises - Total outstanding dues of creditors other than micro enterprises and small enterprises (iv) Other financial liabilities (b) Other current liabilities Total current liabilities Total liabilities Total equity and liabilities",
-            "col_2": "3 4 5 6 7 8 9 10 11 12 13 14 15",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "8.24 8.35 0.50 2.02 0.89",
-            "col_4": "- 17.12 0.50 - 0.72"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "20.00",
-            "col_4": "18.34"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "20.00",
-            "col_4": "18.34"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "42.13 (88.36)",
-            "col_4": "42.13 (84.87)"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "(46.23)",
-            "col_4": "(42.74)"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "62.15",
-            "col_4": "60.02"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "62.15",
-            "col_4": "60.02"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "- - 2.11 0.18 0.96 0.84",
-            "col_4": "- - 1.06 - - -"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "4.09",
-            "col_4": "1.06"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "66.23",
-            "col_4": "61.08"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "20.00",
-            "col_4": "18.34"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "For and on behalf of the Board TRANSGLOBE FOODS LIMITED Prabhakar Khakhar Managing Director DIN: 06491642 Date: 07-11-2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "178ba392-1229-4ad7-bb61-ff6c7c4d9134",
-    "SCRIP_CD": 538882,
-    "XML_NAME": "ANN_538882_178BA392-1229-4AD7-BB61-FF6C7C4D9134",
-    "NEWSSUB": "Emerald Finance Ltd - 538882 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-07T20:36:20.063",
-    "NEWS_DT": "2026-11-07T20:36:20.063",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d152b118-a9fd-44eb-8585-41f8f6f7d9d7.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Earning Call transcript",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/emerald-finance-ltd/emerald/538882/",
-    "SLONGNAME": "Emerald Finance Ltd",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:36:20",
-    "DissemDT": "2026-11-07T20:36:20.063",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1236302,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "operating_profit": "54",
-      "eps": "1.33",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a9a7ed56-9844-4580-ab7e-7608ef527a75",
-    "SCRIP_CD": 538882,
-    "XML_NAME": "ANN_538882_A9A7ED56-9844-4580-AB7E-7608EF527A75",
-    "NEWSSUB": "Emerald Finance Ltd - 538882 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-07T20:35:10.88",
-    "NEWS_DT": "2026-11-07T20:35:10.88",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7645f5c0-2f9f-4d70-b861-cca313293f3b.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of outcome of Analyst meet",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/emerald-finance-ltd/emerald/538882/",
-    "SLONGNAME": "Emerald Finance Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:35:10",
-    "DissemDT": "2026-11-07T20:35:10.88",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 960855,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "a9a7ed56-9844-4580-ab7e-7608ef527a75",
-    "INVESTOR_PRESENTATION": "d0250373-0aaa-42e2-8a3f-260a42db2027.mpeg",
-    "RECORDID": 14813887,
-    "DataInsDate": "2026-11-07T20:35:10.833",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/d0250373-0aaa-42e2-8a3f-260a42db2027.mpeg",
-    "summary": "- Emerald Finance Ltd has submitted the audio recording of its Investor/Analyst call (discussing Q3 FY 2026 results for the quarter ended 30 Sept 2026) to BSE; the recording is accessible on the company’s website at the provided link.  \n- The company confirms that **no unpublished price‑sensitive information** was disclosed during the call.  \n\n*No specific financial figures or decisions are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3924e2af-bdb3-4220-a407-ae7ae9d06e18",
-    "SCRIP_CD": 519367,
-    "XML_NAME": "ANN_519367_3924E2AF-BDB3-4220-A407-AE7AE9D06E18",
-    "NEWSSUB": "Transglobe Foods Ltd - 519367 - Board Meeting Outcome for Held On 07Th November 2026",
-    "DT_TM": "2026-11-07T20:31:03.497",
-    "NEWS_DT": "2026-11-07T20:31:03.497",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6bfa200f-2c58-4e7d-b24c-a28fbb36db96.pdf",
-    "MORE": "This is to inform you that the Board of Directors of the Company at its meeting held today i.e. 07th November 2026 inter-alia considered and approved the Unaudited Financial Results for the second quarter and half year ended 30th September, 2026.\r\n\r\nThe meeting of the Board of Directors commenced at 6 PM (IST) and concluded at 8 PM (IST).\r\n",
-    "HEADLINE": "This is to inform you that the Board of Directors of the Company at its meeting held today i.e. 07th November 2026 inter-alia considered and approved the Unaudited Financial Results for ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/transglobe-foods-ltd/transfd/519367/",
-    "SLONGNAME": "Transglobe Foods Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:31:02",
-    "DissemDT": "2026-11-07T20:31:03.497",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 730992,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "8.41",
-      "total_assets": "20.00",
-      "total_equity": "20.00",
-      "total_debt": "11",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "PARTICULARS",
-            "col_2": "Notes",
-            "col_3": "As at 30th September 2026",
-            "col_4": "As at 31st March 2026"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "I. ASSETS 1. Non -Current assets (a) Deffered tax asset Total non-current assets 2. Current assets (a)Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Other current financial assets (c) Other current assets (d) Other current tax assets Total current assets Total assets II. EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity Total equity Liabilities 1. Non-current liabilities (a) Financial liabilities (i) Borrowings Total non-current liabilities 2. Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease Liabilities (iii) Trade payables - Total outstanding dues of micro enterprises and small enterprises - Total outstanding dues of creditors other than micro enterprises and small enterprises (iv) Other financial liabilities (b) Other current liabilities Total current liabilities Total liabilities Total equity and liabilities",
-            "col_2": "3 4 5 6 7 8 9 10 11 12 13 14 15",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "8.24 8.35 0.50 2.02 0.89",
-            "col_4": "- 17.12 0.50 - 0.72"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "20.00",
-            "col_4": "18.34"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "20.00",
-            "col_4": "18.34"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "42.13 (88.36)",
-            "col_4": "42.13 (84.87)"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "(46.23)",
-            "col_4": "(42.74)"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "62.15",
-            "col_4": "60.02"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "62.15",
-            "col_4": "60.02"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "- - 2.11 0.18 0.96 0.84",
-            "col_4": "- - 1.06 - - -"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "4.09",
-            "col_4": "1.06"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "66.23",
-            "col_4": "61.08"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "20.00",
-            "col_4": "18.34"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "TRANSGLOBE FOODS LIMITED CIN No: L15400MH1986PLC255807 BALANCE SHEET AS AT 30th September 2026 (All amounts in Indian Rupees Lakhs, except as otherwise stated)": "For and on behalf of the Board TRANSGLOBE FOODS LIMITED Prabhakar Khakhar Managing Director DIN: 06491642 Date: 07-11-2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
           }
         ]
       }
