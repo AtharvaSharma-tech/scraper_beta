@@ -1,5 +1,773 @@
 [
   {
+    "NEWSID": "e4179c1c-865a-489e-a658-61c09886b377",
+    "SCRIP_CD": 544281,
+    "XML_NAME": "ANN_544281_E4179C1C-865A-489E-A658-61C09886B377",
+    "NEWSSUB": "A B Infrabuild Ltd - 544281 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-08T18:13:08.973",
+    "NEWS_DT": "2026-11-08T18:13:08.973",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "75483f42-32ae-4fa7-9874-4520349635d7.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release on overview of the business and financials of the Company",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/a-b-infrabuild-ltd/abinfra/544281/",
+    "SLONGNAME": "A B Infrabuild Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T18:13:08",
+    "DissemDT": "2026-11-08T18:13:08.973",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 10368242,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement consists only of a cover letter and a standard disclaimer accompanying an investor presentation dated November 2026; it does not disclose any specific financial figures, dates of transactions, or decisions.  \n\n- Consequently, there are no key numbers, financial details, or actionable financial information presented in the text.",
+    "key_metrics": {
+      "revenue": "499.12 lakh",
+      "net_profit": "499.12 lakh",
+      "operating_profit": "546.5",
+      "total_assets": "12524.21",
+      "total_equity": "3532.10",
+      "total_debt": "829.90",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 41,
+        "table_index": 1,
+        "row_count": 21,
+        "rows": [
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Revenue 3,730.3 7,625.1 7,422.9 99.0% -2.7% 9,786.6 15,048.1",
+            "YoY %": "53.8%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "COGS 2,973.9 6,131.1 5,886.7 97.9% -4.0% 7,701.4 12,017.8",
+            "YoY %": "56.0%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Gross Profit 756.5 1,494.1 1,536.2 103.1% 2.8% 2,085.3 3,030.3",
+            "YoY %": "45.3%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Gross Margin % 20.3% 19.6% 20.7% 21.3% 20.1%",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Emp Expenses 78.3 115.5 115.32 150.8 230.9",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "as % of Sales 2.1% 1.5% 1.6% 1.5% 1.5%",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Other Expenses 131.7 317.9 306.1 427.4 624.0",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "as % of Sales 3.5% 4.2% 4.1% 4.4% 4.1%",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "EBITDA 546.5 1,060.6 1,114.8 104.0% 5.1% 1,507.0 2,175.5",
+            "YoY %": "44.4%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "EBITDA Margin % 14.6% 13.9% 15.0% 15.4% 14.5%",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Depreciation 120.0 142.4 149.6 237.5 291.9",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "EBIT 426.5 918.27 965.19 126.3% 5.1% 1,269.5 1,883.6",
+            "YoY %": "48.4%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "EBIT Margin % 11.4% 12.0% 13.0% 13.0% 12.5%",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Finance Cost 225.8 320.5 437.0 458.8 757.5",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Other Income 84.4 125.6 141.0 171.5 266.7",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Exceptional Item Gain/(loss) 3.45 0.06 -4.4 -0.06",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "PBT 288.6 723.4 669.3 131.9% -7.5% 977.8 1,392.7",
+            "YoY %": "42.4%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Tax Exp 75.5 189.1 170.2 252.8 359.3",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "Tax Rate % 26.1% 26.1% 25.4% 25.9% 25.8%",
+            "YoY %": ""
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "PAT 213.1 534.3 499.1 134.2% -6.6% 725.0 1,033.4",
+            "YoY %": "42.5%"
+          },
+          {
+            "Particulars Q2FY26 Q1FY27 Q2FY27 YoY % QoQ % HY26 HY27": "PAT Margin % 5.7% 7.0% 6.7% 7.4% 6.9%",
+            "YoY %": ""
+          }
+        ]
+      },
+      {
+        "page": 42,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Particulars": "Non-current Assets",
+            "As at March 31, 2023": "",
+            "As at March 31, 2024": "",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Property, Plant and Equipment",
+            "As at March 31, 2023": "294.47",
+            "As at March 31, 2024": "3,621.90",
+            "As at March 31, 2025": "3,602",
+            "As at March 31, 2026": "4,283.20",
+            "As at September 30, 2026": "4,331.38"
+          },
+          {
+            "Particulars": "Capital work-in-progress",
+            "As at March 31, 2023": "236.89",
+            "As at March 31, 2024": "108.12",
+            "As at March 31, 2025": "32.94",
+            "As at March 31, 2026": "-",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Intangible assets",
+            "As at March 31, 2023": "-",
+            "As at March 31, 2024": "-",
+            "As at March 31, 2025": "-",
+            "As at March 31, 2026": "-",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Financial Assets –Investments",
+            "As at March 31, 2023": "17.58",
+            "As at March 31, 2024": "17.58",
+            "As at March 31, 2025": "0.08",
+            "As at March 31, 2026": "0.08",
+            "As at September 30, 2026": "0.08"
+          },
+          {
+            "Particulars": "Financial Assets –Others",
+            "As at March 31, 2023": "596.16",
+            "As at March 31, 2024": "229.93",
+            "As at March 31, 2025": "2,546.71",
+            "As at March 31, 2026": "3,960.12",
+            "As at September 30, 2026": "4,707.10"
+          },
+          {
+            "Particulars": "Deferred tax Assets (Net)",
+            "As at March 31, 2023": "89.98",
+            "As at March 31, 2024": "87.05",
+            "As at March 31, 2025": "120.12",
+            "As at March 31, 2026": "131.87",
+            "As at September 30, 2026": "143.42"
+          },
+          {
+            "Particulars": "Other non-current assets",
+            "As at March 31, 2023": "-",
+            "As at March 31, 2024": "-",
+            "As at March 31, 2025": "-",
+            "As at March 31, 2026": "-",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Total non-current assets",
+            "As at March 31, 2023": "1,235.08",
+            "As at March 31, 2024": "4,064.58",
+            "As at March 31, 2025": "6,301.85",
+            "As at March 31, 2026": "8,375.27",
+            "As at September 30, 2026": "9,181.98"
+          },
+          {
+            "Particulars": "Current Assets",
+            "As at March 31, 2023": "",
+            "As at March 31, 2024": "",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Inventories",
+            "As at March 31, 2023": "5,273.63",
+            "As at March 31, 2024": "5,051.40",
+            "As at March 31, 2025": "8,111.31",
+            "As at March 31, 2026": "11,053.69",
+            "As at September 30, 2026": "11,934.43"
+          },
+          {
+            "Particulars": "Trade Receivables",
+            "As at March 31, 2023": "3,229.76",
+            "As at March 31, 2024": "2,095.98",
+            "As at March 31, 2025": "5,023.49",
+            "As at March 31, 2026": "10,421.31",
+            "As at September 30, 2026": "12,920.40"
+          },
+          {
+            "Particulars": "Cash and cash equivalents",
+            "As at March 31, 2023": "66.46",
+            "As at March 31, 2024": "888.25",
+            "As at March 31, 2025": "860.10",
+            "As at March 31, 2026": "328.78",
+            "As at September 30, 2026": "472.76"
+          },
+          {
+            "Particulars": "Bank balances other than above",
+            "As at March 31, 2023": "114.49",
+            "As at March 31, 2024": "115.38",
+            "As at March 31, 2025": "2,486.46",
+            "As at March 31, 2026": "2,871.83",
+            "As at September 30, 2026": "5,238.89"
+          },
+          {
+            "Particulars": "Loans & Advances",
+            "As at March 31, 2023": "65.01",
+            "As at March 31, 2024": "382.73",
+            "As at March 31, 2025": "787.31",
+            "As at March 31, 2026": "847.39",
+            "As at September 30, 2026": "840.16"
+          },
+          {
+            "Particulars": "Others",
+            "As at March 31, 2023": "1,139.99",
+            "As at March 31, 2024": "1,945.35",
+            "As at March 31, 2025": "-",
+            "As at March 31, 2026": "-",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Current Tax Assets",
+            "As at March 31, 2023": "266.90",
+            "As at March 31, 2024": "420.11",
+            "As at March 31, 2025": "512.33",
+            "As at March 31, 2026": "575.19",
+            "As at September 30, 2026": "348.87"
+          },
+          {
+            "Particulars": "Other current assets",
+            "As at March 31, 2023": "1,132.90",
+            "As at March 31, 2024": "698.59",
+            "As at March 31, 2025": "831.29",
+            "As at March 31, 2026": "1,690.74",
+            "As at September 30, 2026": "2,457.83"
+          },
+          {
+            "Particulars": "Total current assets",
+            "As at March 31, 2023": "11,289.14",
+            "As at March 31, 2024": "11,597.79",
+            "As at March 31, 2025": "18,612.29",
+            "As at March 31, 2026": "27,788.93",
+            "As at September 30, 2026": "34,213.34"
+          },
+          {
+            "Particulars": "Total Assets",
+            "As at March 31, 2023": "12,524.21",
+            "As at March 31, 2024": "15,662.37",
+            "As at March 31, 2025": "24,914.14",
+            "As at March 31, 2026": "36,164.20",
+            "As at September 30, 2026": "43,395.32"
+          }
+        ]
+      },
+      {
+        "page": 43,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Particulars": "Equity",
+            "As at March 31, 2023": "",
+            "As at March 31, 2024": "",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Equity Share capital",
+            "As at March 31, 2023": "1,266.94",
+            "As at March 31, 2024": "4,421.74",
+            "As at March 31, 2025": "5,323.24",
+            "As at March 31, 2026": "6,387.89",
+            "As at September 30, 2026": "6,387.89"
+          },
+          {
+            "Particulars": "Other Equity",
+            "As at March 31, 2023": "2,265.16",
+            "As at March 31, 2024": "3,638.72",
+            "As at March 31, 2025": "5,714.58",
+            "As at March 31, 2026": "10,540.53",
+            "As at September 30, 2026": "11,572.93"
+          },
+          {
+            "Particulars": "Share Warrant Pending for allotment",
+            "As at March 31, 2023": "-",
+            "As at March 31, 2024": "94.18",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Total Equity",
+            "As at March 31, 2023": "3,532.10",
+            "As at March 31, 2024": "8,154.64",
+            "As at March 31, 2025": "11,037.82",
+            "As at March 31, 2026": "16,928.42",
+            "As at September 30, 2026": "17,960.82"
+          },
+          {
+            "Particulars": "Non-current Liabilities",
+            "As at March 31, 2023": "",
+            "As at March 31, 2024": "",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Financial Liabilities –Borrowings",
+            "As at March 31, 2023": "829.90",
+            "As at March 31, 2024": "1,745.86",
+            "As at March 31, 2025": "1,893.70",
+            "As at March 31, 2026": "2,158.72",
+            "As at September 30, 2026": "2,650.34"
+          },
+          {
+            "Particulars": "Provisions",
+            "As at March 31, 2023": "",
+            "As at March 31, 2024": "",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": "1049.31"
+          },
+          {
+            "Particulars": "Total non-current liabilities",
+            "As at March 31, 2023": "829.90",
+            "As at March 31, 2024": "1,745.86",
+            "As at March 31, 2025": "1,893.70",
+            "As at March 31, 2026": "2,158.72",
+            "As at September 30, 2026": "3,699.65"
+          },
+          {
+            "Particulars": "Current Liabilities",
+            "As at March 31, 2023": "",
+            "As at March 31, 2024": "",
+            "As at March 31, 2025": "",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Financial Liabilities –Borrowings",
+            "As at March 31, 2023": "2,251.24",
+            "As at March 31, 2024": "2,142.84",
+            "As at March 31, 2025": "6,423.81",
+            "As at March 31, 2026": "8,824.87",
+            "As at September 30, 2026": "13,882.03"
+          },
+          {
+            "Particulars": "Trade Payables –Micro & small enterprises",
+            "As at March 31, 2023": "1,461.53",
+            "As at March 31, 2024": "213.67",
+            "As at March 31, 2025": "1,006.85",
+            "As at March 31, 2026": "4,466.11",
+            "As at September 30, 2026": "2,548.74"
+          },
+          {
+            "Particulars": "Trade Payables –Other than micro & small",
+            "As at March 31, 2023": "2,617.00",
+            "As at March 31, 2024": "1,546.89",
+            "As at March 31, 2025": "2,388.14",
+            "As at March 31, 2026": "",
+            "As at September 30, 2026": ""
+          },
+          {
+            "Particulars": "Other financial liabilities",
+            "As at March 31, 2023": "1,126.99",
+            "As at March 31, 2024": "1,053.32",
+            "As at March 31, 2025": "1,317.59",
+            "As at March 31, 2026": "1,845.95",
+            "As at September 30, 2026": "985.18"
+          },
+          {
+            "Particulars": "Other current liabilities",
+            "As at March 31, 2023": "400.69",
+            "As at March 31, 2024": "367.48",
+            "As at March 31, 2025": "202.16",
+            "As at March 31, 2026": "1,113.13",
+            "As at September 30, 2026": "3,758.25"
+          },
+          {
+            "Particulars": "Current Tax Liabilities",
+            "As at March 31, 2023": "213.00",
+            "As at March 31, 2024": "414.40",
+            "As at March 31, 2025": "605.60",
+            "As at March 31, 2026": "695.20",
+            "As at September 30, 2026": "367.20"
+          },
+          {
+            "Particulars": "Provisions",
+            "As at March 31, 2023": "91.76",
+            "As at March 31, 2024": "23.27",
+            "As at March 31, 2025": "38.47",
+            "As at March 31, 2026": "131.50",
+            "As at September 30, 2026": "193.45"
+          },
+          {
+            "Particulars": "Total current liabilities",
+            "As at March 31, 2023": "8,162.21",
+            "As at March 31, 2024": "5,761.87",
+            "As at March 31, 2025": "11,016.31",
+            "As at March 31, 2026": "15,811.93",
+            "As at September 30, 2026": "21,734.85"
+          },
+          {
+            "Particulars": "Total Liabilities",
+            "As at March 31, 2023": "8,992.11",
+            "As at March 31, 2024": "7,507.73",
+            "As at March 31, 2025": "12,910.01",
+            "As at March 31, 2026": "17,970.65",
+            "As at September 30, 2026": "25,434.5"
+          },
+          {
+            "Particulars": "Total Equity and Liabilities",
+            "As at March 31, 2023": "12,524.21",
+            "As at March 31, 2024": "15,662.37",
+            "As at March 31, 2025": "24,914.14",
+            "As at March 31, 2026": "36,164.20",
+            "As at September 30, 2026": "43,395.32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "9fda85a9-fa12-49b1-8fb3-6ae022c721a7",
+    "SCRIP_CD": 531080,
+    "XML_NAME": "ANN_531080_9FDA85A9-FA12-49B1-8FB3-6AE022C721A7",
+    "NEWSSUB": "Shri Krishna Devcon Ltd - 531080 - Board Meeting Intimation for Consideration And Approval Of Financial Results For The Quarter And Half Year Ended 30/09/2026.",
+    "DT_TM": "2026-11-08T18:08:02.387",
+    "NEWS_DT": "2026-11-08T18:08:02.387",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "96cd071a-8c92-483e-855a-a0ed984ad9cb.pdf",
+    "MORE": "Shri Krishna Devcon Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the financial results for the quarter and year ended 30/09/2026 alongwith other routine businesses.",
+    "HEADLINE": "Shri Krishna Devcon Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the financial results for ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shri-krishna-devcon-ltd/shrikrish/531080/",
+    "SLONGNAME": "Shri Krishna Devcon Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T18:08:01",
+    "DissemDT": "2026-11-08T18:08:02.387",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 298460,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A board meeting of Shri Krishna Devcon Ltd. is scheduled for **Saturday, 14 Nov 2026** to consider and approve the **unaudited financial results for the quarter and half‑year ended 30 Sep 2026**, along with routine agenda items.  \n\n- The company reiterates that the **trading window** for all designated persons will remain **closed until 48 hours after the results are declared** to the stock exchange; **no specific financial figures or results are disclosed in this notice**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9c36c404-6ff5-4e59-ba71-9f2e9674f969",
+    "SCRIP_CD": 531205,
+    "XML_NAME": "ANN_531205_9C36C404-6FF5-4E59-BA71-9F2E9674F969",
+    "NEWSSUB": "Spright Agro Ltd - 531205 - Corporate Insolvency Resolution Process (CIRP)-Outcome of meeting of Committee of Creditors",
+    "DT_TM": "2026-11-08T18:04:21.42",
+    "NEWS_DT": "2026-11-08T18:04:21.42",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "862943f7-fb8d-4e52-b0e1-8f6d3a6df539.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of 2nd CoC meeting of M/s Spright Agro Limited held on 28th October 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/spright-agro-ltd/spright/531205/",
+    "SLONGNAME": "Spright Agro Ltd",
+    "AGENDA_ID": 167,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T18:04:21",
+    "DissemDT": "2026-11-08T18:04:21.42",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 862411,
+    "SUBCATNAME": "Outcome of meeting of Committee of Creditors",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the financial summary based on the announcement:\n\n* **Approval of Insolvency Resolution Costs:** At the 2nd Committee of Creditors (CoC) meeting held on 28th October 2026, the CoC approved and ratified the inclusion of expenses for registered valuers, forensic audit, accounting services, and Form-G publication into the Insolvency Resolution Process Cost.\n* **Key Financials and Resolution Timelines:** The corporate debtor reported revenues of Rs. 16,487 Lacs for FY 2024–25 and Rs. 7,247 Lacs for FY 2023–24, with Form-G setting the deadline for Expression of Interest submissions by 13th November 2026 and the final submission of resolution plans by 08th January 2027.",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Item Nos": "1",
+            "Agenda items of CoC meeting held on 28.10.2026": "To ratify and reimburse the expenses towards appointment of registered valuers for valuation of assets of the corporate debtor and the same be included in the Insolvency Resolution Process Cost",
+            "Outcome": "Approved"
+          },
+          {
+            "Item Nos": "2",
+            "Agenda items of CoC meeting held on 28.10.2026": "To take note of the appointment of the forensic auditor and ratify, reimburse and approve the forensic audit costs incurred for the purpose of inclusion in Insolvency Resolution Process costs.",
+            "Outcome": "Approved"
+          },
+          {
+            "Item Nos": "3",
+            "Agenda items of CoC meeting held on 28.10.2026": "To take note and to ratify, reimburse and approve the appointment of accountant for maintaining books of account of corporate debtor for the purpose of inclusion in Insolvency Resolution Process costs.",
+            "Outcome": "Approved"
+          },
+          {
+            "Item Nos": "4",
+            "Agenda items of CoC meeting held on 28.10.2026": "To consider and approve the cost for publication of form – G invitation for expression of interest for the purpose of inclusion in insolvency resolution process cost.",
+            "Outcome": "Approved"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 17,
+        "rows": [
+          {
+            "col_1": "1.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "N ame of the corporate debtor along with PAN & CIN/ LLP No.",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "M/s. SPRIGHT AGRO LIMITED CIN: L01100GJ1994PLC117990 PAN: AAACK6719M",
+            "col_7": ""
+          },
+          {
+            "col_1": "2.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "A ddress of the registered office",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "Office no. 1216, Shilp Epitom, Rajpath - Rangoli road, off Sindhubhavan Road, Bodakdev, Ahmedabad, Ahmadabad City, Gujarat, ,India, 380054",
+            "col_7": ""
+          },
+          {
+            "col_1": "3.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "U RL of website",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "Not Applicable as no website of the CD operates /working",
+            "col_7": ""
+          },
+          {
+            "col_1": "4.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "D etails of place where majority of fixed assets are located",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "Office no. 1216, Shilp Epitom, Rajpath - Rangoli road, off Sindhubhavan Road, Bodakdev, Ahmedabad, Ahmadabad City, Gujarat, ,India, 380054",
+            "col_7": ""
+          },
+          {
+            "col_1": "5.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "I nstalled capacity of main products/ services",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "Information is not currently made available to RP.",
+            "col_7": ""
+          },
+          {
+            "col_1": "6.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "Q uantity and value of main products/ services sold in last financial year",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "Revenue reported in BSE for last two annual reports respectively for the FY 2024-25 is Rs. 16487 Lacs and FY 2023-2024 is 7247 Lacs",
+            "col_7": ""
+          },
+          {
+            "col_1": "7.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "N umber of employees/ workmen",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "Information is not currently made available to RP.",
+            "col_7": ""
+          },
+          {
+            "col_1": "8.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "F urther details including last available financial statements (with schedules) of two years, lists of creditors are available at URL:",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "The same can be availed by sending a request cirp.sprightagrolimited@gmail.com",
+            "col_7": ""
+          },
+          {
+            "col_1": "9.",
+            "SL.": "",
+            "col_3": "",
+            "col_4": "E ligibility for resolution applicants under section 25(2)(h) of the Code is available at URL:",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "The same can be availed by sending a request to – cirp.sprightagrolimited@gmail.com",
+            "col_7": ""
+          },
+          {
+            "col_1": "10",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". L ast date for receipt of expression of interest",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "13th November 2026",
+            "col_7": ""
+          },
+          {
+            "col_1": "11",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". D ate of issue of provisional list of prospective resolution applicants",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "23rd November 2026",
+            "col_7": ""
+          },
+          {
+            "col_1": "12",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". L ast date for submission of objections to provisional list",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "28th November 2026",
+            "col_7": ""
+          },
+          {
+            "col_1": "13",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". D ate of issue of final list of prospective resolution applicants",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "08th December 2026",
+            "col_7": ""
+          },
+          {
+            "col_1": "14",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". D ate of issue of information memorandum , evaluation matrix request for resolution plans to prospective resolution applicants",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "13th December 2026",
+            "col_7": ""
+          },
+          {
+            "col_1": "15",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". L ast date for submission of resolution plans",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "08th January 2027",
+            "col_7": ""
+          },
+          {
+            "col_1": "16",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". P rocess email id to submit Expression of Interest",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "cirp.sprightagrolimited@gmail.com",
+            "col_7": ""
+          },
+          {
+            "col_1": "17",
+            "SL.": "",
+            "col_3": "",
+            "col_4": ". D etails of the corporate debtor’s registration status as MSME",
+            "RELEVANT PARTICULARS": "",
+            "col_6": "NA",
+            "col_7": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "15964878-21c7-4e49-a158-87c776878dda",
+    "SCRIP_CD": 531205,
+    "XML_NAME": "ANN_531205_15964878-21C7-4E49-A158-87C776878DDA",
+    "NEWSSUB": "Spright Agro Ltd - 531205 - Corporate Insolvency Resolution Process (CIRP)-Outcome of meeting of Committee of Creditors",
+    "DT_TM": "2026-11-08T18:01:03.447",
+    "NEWS_DT": "2026-11-08T18:01:03.447",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "16c96ca0-65c2-45c6-a828-c83584ae838c.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of 1st CoC of M/s Spright Agro Limited held on 24th October 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/spright-agro-ltd/spright/531205/",
+    "SLONGNAME": "Spright Agro Ltd",
+    "AGENDA_ID": 167,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T18:01:03",
+    "DissemDT": "2026-11-08T18:01:03.447",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 324064,
+    "SUBCATNAME": "Outcome of meeting of Committee of Creditors",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **24 Oct 2026 – 1st Committee of Creditors (CoC) meeting:** The CoC approved the reimbursement and inclusion of all expenses related to the public announcement, other insolvency‑resolution costs, and the remuneration of the Interim Resolution Professional (IRP) as part of the Corporate Insolvency Resolution Process (CIRP) costs.  \n\n- **Resolution Professional appointment:** The CoC authorized the appointment of a new Resolution Professional and the finalisation of his/her fees, and also approved a reduction in the notice period required to convene future CoC meetings. (No monetary amounts were disclosed.)",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "4e835641-2695-401b-9a57-b83804a9e578",
     "SCRIP_CD": 500770,
     "XML_NAME": "ANN_500770_4E835641-2695-401B-9A57-B83804A9E578",
@@ -20018,2025 +20786,6 @@
             "ECOFINITY ATOMIX LIMITED FORMERLY NAMED AS ARYAVAN ENTERPRISE LIMITED CIN: L52100GJ1993PLC018943 Registered Office: 308, Shital Varsha Arcade, Opp. Girish Cold Drinks, C. G. Road, Navrangpura Ahmedabad-380009, Gujarat E-mail id: investor.deepti@gmail.com website: www.deeptialloysteel.com M. No.: 079-26440427": "By Order of Board of Directors For, ECOFINITY ATOMIX LIMITED Prafullchandra Vitthalbhai Patel Place : Ahmedabad Managing Director Date:November 7, 2026 DIN: 08376125",
             "col_2": "",
             "col_3": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "61d8f0b9-1091-44dc-a73f-62067554cfd9",
-    "SCRIP_CD": 539407,
-    "XML_NAME": "ANN_539407_61D8F0B9-1091-44DC-A73F-62067554CFD9",
-    "NEWSSUB": "Generic Engineering Construction and Projects Ltd - 539407 - Notice Of AGM",
-    "DT_TM": "2026-11-07T20:41:24.883",
-    "NEWS_DT": "2026-11-07T20:41:24.883",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "13408394-fd06-43b9-80b6-128c831de1ae.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of 32nd Annual General Meeting",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/generic-engineering-construction-and-projects-ltd/gencon/539407/",
-    "SLONGNAME": "Generic Engineering Construction and Projects Ltd",
-    "AGENDA_ID": 3,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:41:24",
-    "DissemDT": "2026-11-07T20:41:24.883",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 355825,
-    "SUBCATNAME": "AGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "Here is the summary based on the provided announcement:\n\n* **AGM Date and Financial Statements:** The 32nd Annual General Meeting (AGM) of the Company is scheduled to be held on Monday, November 30, 2026, at 11:00 A.M. via Video Conferencing/OAVM to consider and adopt the audited standalone and consolidated financial statements for the financial year ended March 31, 2026.\n* **Key Financial Approvals:** Shareholders will vote on ratifying a remuneration of 1,25,000 (plus applicable taxes and out-of-pocket expenses) payable to M/s. Ashish Deshmukh & Associates as Cost Auditors for the financial year ending March 31, 2027, as well as approving Material Related Party Transactions of the Company.",
-    "key_metrics": {
-      "total_equity": "18",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "Heben Chartered Resources Private Limited"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "To carry on the business of providing, buying, selling, leasing, renting, importing, exporting, manufacturing, dealing, supplying of all sorts of construction equipments, Construction Mobilisations related services, construction technology, construction machineries, all sorts of materials for construction industry and providing all sorts of advisory services relating to construction industry, mobilisation of resources, procurement and optimum utilization of materials, procurement and optimum utilization of labour, up gradation & utilization of technology for constriction industry, providing advisory, management & technical service and formwork solution for construction sites."
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern",
-            "Details": "Name of the Related Party: Heben Chartered Resources Private Limited Relationship: Mr. Dhairya Manish Patel is relative of Mr. Manish"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "or interest (financial or otherwise);",
-            "Details": "Patel. He is Director in Company."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in F.Y. 2024-25 and amount",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in F.Y. 2025-26 and amount",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till September,2026",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting upto Rs. 60 crore."
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 20% of the annual consolidated turnover of the Company for FY2025-26;"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024-25 (INR) Turnover Profit After Tax Net worth",
-            "Details": "(Amount in Lakhs) Turnover:- Rs. 1051.08/- Profit Ater Tax : (4.85)/- Net worth :- Rs. 1058.79/-"
-          },
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "'The Company anticipates entering into contracts for:' 1. Works Contract Service 2. Sales of Goods and Services These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly, approval of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break- up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 50 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2027-28."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel, Managing Director"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Relative of Director i.e. Mr. Manish Patel is Director in the Company"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          },
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(E)",
-            "Particulars": "Confirmation from the Company",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "(d) Disclosure that the material RPT or any material modification thereto, has been approved by the Audit Committee and the Board of Directors recommends the proposed transaction to the shareholders for approval.",
-            "Details": "The Material related party is approved by the Audit Committee and the Board of Directors have recommended to shareholder for the approval"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "Triveni Lifestyle Developers LLP"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "Business of real estate development, construction, and infrastructure projects, including residential, commercial, and industrial properties; to act as builders, developers, contractors, and agents; to acquire, develop, and deal in land and buildings; and to undertake related activities such as financing, leasing, and providing modern amenities, in alignment with private and government initiatives"
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern or interest (financial or otherwise);",
-            "Details": "Name of the Related Party: Triveni Lifestyle Developers LLP Relationship: Relative of Mr. Manish Patel is Designated Partner in the LLP."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in F.Y. 2024-25 and amount",
-            "Details": "During the finanical year 2024-25 the Company has entered into a transaction of sale of goods and services amounting to Rs: 9,04,712"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in F.Y. 2025-26 and amount",
-            "Details": "During the finanical year 2025-26 the Company has entered into a transaction of sale of goods and services amounting to Rs. NIL"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till September,2026",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2025–26 and continuing up to the date of the ensuing Annual General upto Rs. 60 crore."
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 20% of the annual consolidated turnover of the Company for FY2025-26;"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024-2025 (INR) Turnover Profit After Tax Net worth",
-            "Details": "Turnover:- Rs. 35,72,18,551/- Profit After Tax :- Rs. 3,42,18,855/- Net worth :- Rs. 35,90,02,483/-"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "The Company anticipates entering into contracts for: 1. Works Contract Service 2. Sales of Goods and Services These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly, approval of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 50 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2027-28."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Relative of Director i.e. Mr. Manish Patel is Designated partner in the LLP"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          },
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(E)",
-            "Particulars": "Confirmation from the Company.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "Triveni Uplife Realtors LLP"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "Business of real estate development, construction, and infrastructure projects, including residential, commercial, and industrial properties; to act as builders, developers, contractors, and agents; to acquire, develop, and deal in land and buildings; and to undertake related activities such as financing, leasing, and providing modern amenities, in alignment with private and government initiatives"
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern or interest (financial or otherwise);",
-            "Details": "Name of the Related Party: Triveni Uplife Realtors LLP Relationship: Relative of Mr. Manish Patel is Designated Partner in the LLP."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in F.Y. 2024-25 and amount",
-            "Details": "During the finanical year 2024-25 the Company has entered into a transaction of sale of goods and services amounting to Rs. 4,40,36,180/-"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in F.Y. 2025-26 and amount",
-            "Details": "During the finanical year 2025-26 the Company has entered into a transaction of sale of goods and services amounting to Rs. Nil"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till September,2025",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2026–27 and continuing up to the date of the ensuing Annual General upto Rs. 60 crore."
-          }
-        ]
-      },
-      {
-        "page": 20,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 20% of the annual consolidated turnover of the Company for FY2025-26;"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024-2025 (INR) Turnover Profit After Tax Net worth",
-            "Details": "Turnover:- Rs. 23,50,65,780/- Profit After Tax :- Rs. 53,54,202/- Net worth :- Rs. 7,36,55,514/-"
-          },
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "The Company anticipates entering into contracts for: 1. Works Contract Service 2. Sales of Goods and Services These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly,"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Details": "approval of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 50 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2027-28"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Relative of Director i.e. Mr. Manish Patel is Designated partner in the LLP"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          }
-        ]
-      },
-      {
-        "page": 22,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(F)",
-            "Particulars": "Confirmation from the Company",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "(d) Disclosure that the material RPT or any material modification thereto, has been approved by the Audit Committee and the Board of Directors recommends the proposed transaction to the shareholders for approval.",
-            "Details": "The Material related party is approved by the Audit Committee and the Board of Directors have recommended to shareholder for the approval"
-          }
-        ]
-      },
-      {
-        "page": 24,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "Bootes Generic Projects LLP"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "Business of real estate development, construction, and infrastructure projects, including residential, commercial, and industrial properties; to act as builders, developers, contractors, and agents; to acquire, develop, and deal in land and buildings; and to undertake related activities such as financing, leasing, and providing modern amenities, in alignment with private and government initiatives"
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern or interest (financial or otherwise);",
-            "Details": "Name of the Related Party: Bootes Generic Projects LLP Relationship: Mr. Dhairya Manish Patel relative of the Mr. Manish Patel is designated partner in the LLP."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in F.Y. 2024-25 and amount",
-            "Details": "During the financial year 2024-25 the Company has entered into a transaction of sale of goods and services amounting to Rs. 11,86,04,750/-"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in F.Y. 2025-26 and amount",
-            "Details": "During the financial year 2025-26 the Company has entered into a transaction of Reversal of sale of goods and services amounting to Rs. 11,86,04,750/-"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till Septmber,2025",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2026–27 and continuing up to the date of the ensuing Annual General upto Rs. 100 crore."
-          }
-        ]
-      },
-      {
-        "page": 25,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 34% of the annual consolidated turnover of the Company for FY2025-26;"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024-2025 (INR) Turnover Profit After Tax Net worth",
-            "Details": "The LLP is incorporated in the financial year 2024-25 Turnover: Nil Profit After Tax: (1005.12)/- (In Lakhs) Net Worth:1.00/- (In Lakhs)"
-          },
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "The Company anticipates entering into contracts for: 1. Works Contract Service 2. Sales of Goods and Services These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly, approval"
-          }
-        ]
-      },
-      {
-        "page": 26,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Details": "of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 70 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2026-27"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel, Managing Director"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Mr. Dhariya Patel is designated partner in the LLP"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          }
-        ]
-      },
-      {
-        "page": 27,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(F)",
-            "Particulars": "Confirmation from the Company.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "(d) Disclosure that the material RPT or any material modification thereto, has been approved by the Audit Committee and the Board of Directors recommends the proposed transaction to the shareholders for approval.",
-            "Details": "The Material related party is approved by the Audit Committee and the Board of Directors have recommended to shareholder for the approval"
-          }
-        ]
-      },
-      {
-        "page": 29,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "Trescon Limited"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "The Company is engaged primarily in the business of real estate development and allied operations on its own or joint ventures with others."
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern or interest (financial or otherwise);",
-            "Details": "Name of the Related Party: Trescon Limited Relationship: Relative of Mr. Manish Patel is Director and shareholder in the Company."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in F.Y. 2024-25 and amount",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in F.Y. 2025-26 and amount",
-            "Details": "During the F.Y. 2025-26 the company has entered into transaction of sale of services amounting to Rs. 3,54,11,918"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till September,2025",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2026–27 and continuing up to the date of the ensuing Annual General upto Rs. 150 crore."
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          }
-        ]
-      },
-      {
-        "page": 30,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 50% of the annual consolidated turnover of the Company for FY2025-26;"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024 -2025 (INR) Turnover Profit After Tax Net worth",
-            "Details": "(Amount in Lakhs) Turnover:- Rs. 934.88 /- Profit After Tax :- Rs. (28.71)/- Net worth :- Rs. 10906.92 /-"
-          },
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "The Company anticipates entering into contracts for: 1. Works Contract Service These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly, approval of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          }
-        ]
-      },
-      {
-        "page": 31,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 100 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2027-28"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Relative of Mr. Manish Patel is Director and shareholder in the Company."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          },
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(E)",
-            "Particulars": "Confirmation from the Company.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "(d) Disclosure that the material RPT or any material modification thereto, has been approved by the Audit Committee and the Board of Directors recommends the proposed transaction to the shareholders for approval.",
-            "Details": "The Material related party is approved by the Audit Committee and the Board of Directors have recommended to shareholder for the approval"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "(e) Provide web-link and QR Code, through which shareholders can access the valuation report or other reports of external party, if any, considered by Audit Committee while approving the RPT.",
-            "Details": "N.A"
-          }
-        ]
-      },
-      {
-        "page": 34,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "D Ravilal Resource Management Private Limited"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "Business of property development and construction across residential, commercial, industrial, and institutional sectors; to act as developers, contractors, estate agents, and service providers; to acquire, develop, lease, sell, or otherwise deal in land and buildings of any tenure; and to enter into contracts and arrangements for development, resale, or rental, including provision of amenities and securing advances against property."
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern or interest (financial or otherwise);",
-            "Details": "Name of the Related Party: D Ravilal Resource Management Private Limited Relationship: Mr. Manish Patel is common Director in both the Companies."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in fy 2024-25 and amount",
-            "Details": "The Company has entered into the transaction of giving of security deposit amounting to Rs. 4,00,00,000/-"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in fy 2025-26 and amount",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till Septmber,2026",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          }
-        ]
-      },
-      {
-        "page": 35,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2026–27 and continuing up to the date of the ensuing Annual General upto Rs. 150 crore."
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 50% of the annual consolidated turnover of the Company for FY2025-26;"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024-2025 (INR) Turnover Profit After Tax Net worth",
-            "Details": "(Amount in Lakhs) Turnover:- Rs. 3,71,65,700/- Profit After Tax :- Rs. 36,84,491 Net worth :- Rs. 35,66,51,502"
-          }
-        ]
-      },
-      {
-        "page": 36,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "The anticipates is anticipating to entered into the Contract of 1. Works Contract Service 2. Sales of Goods and Services 3. Giving and/or availing Corporate Guarantee These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly, approval of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 100 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2027-28"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Mr. Manish Patel is common Director in both the Companies."
-          }
-        ]
-      },
-      {
-        "page": 37,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          },
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(E)",
-            "Particulars": "Confirmation from the Company.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          }
-        ]
-      },
-      {
-        "page": 39,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "(A)",
-            "Particulars": "Basic details of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party",
-            "Details": "GENERIC BOOTES CONSTRUCTION LLP"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Country of incorporation of the related party",
-            "Details": "India"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of business of the related party",
-            "Details": "Business of construction and property development activities as builders, contractors, engineers, consultants, manufacturers, and dealers in related materials and machinery; to engage in real estate services including design, brokerage, and layout promotion; and to acquire, develop, lease, or dispose of land and buildings within or outside India, along with all allied and incidental services"
-          },
-          {
-            "Sr. No.": "(B)",
-            "Particulars": "Relationship and ownership of the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the related party and its relationship with the listed entity or its subsidiary, including nature of its concern or interest (financial or otherwise);",
-            "Details": "Name of the Related Party: Generic Bootes Construction LLP Relationship: Mr. Manish Patel is Designated Partner Director the LLP."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature of transaction with related party in F.Y. 2024-25 and amount",
-            "Details": "The LLP is incorporated in the financial year 2024- 25 need to enter"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Nature of transaction with related party in F.Y. 2025-26 and amount",
-            "Details": "During the finanical year 2025-26 the Company has invested Rs. 51,000/- as the Capital contribution in the LLP"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Nature of transaction with related party till September,2025",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Details": "Nil"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Amount of the proposed transactions",
-            "Details": "The Company estimates that the monetary value for transactions at C 1 and 2 above and allied transactions, from FY 2026–27 and continuing up to the date of the ensuing Annual General upto Rs. 150 crore."
-          }
-        ]
-      },
-      {
-        "page": 40,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Sr. No.": "7",
-            "Particulars": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover",
-            "Details": "The estimated transaction value at 1(d) above for FY2026-27 represents: Approximately 50% of the annual consolidated turnover of the Company for FY2025-26;"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "11",
-            "Particulars": "Financial performance of the related party for the immediately preceding financial year: Particulars FY 2024- 2025 (INR) Turnover Profit After Tax Net worth",
-            "Details": "The LLP is incorporated in the financial year 2024- 25 Amount in Lakhs Turnover: Nil Profit After Tax: Rs (0.10)/- Networth : Rs 0.90 /-"
-          },
-          {
-            "Sr. No.": "(C)",
-            "Particulars": "Basic details of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Specific type of the proposed transaction, Details of each type of the proposed transaction and Tenure of the proposed transaction",
-            "Details": "The Company anticipates entering into contracts for: 1. Works Contract Service 2. Sales of Goods and Services These arrangements are proposed to be undertaken in the ordinary course of business and shall constitute continuing business transactions. Accordingly, approval of the members is being sought for: a) All transactions referenced above, along with any allied or ancillary transactions to be undertaken during the financial years"
-          }
-        ]
-      },
-      {
-        "page": 41,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Details": "commencing from FY 2026–27 and continuing up to the date of the ensuing Annual General Meeting."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The Company is anticipating approximately Rs. 100 Cr to be executed in the financial year and balance amount to be executed till the date of AGM to be held in financial year 2027-28"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "The Company will make strategic expansion of the business operations. This arrangement is designed to leverage business expansion and explore emerging market opportunities, and reinforce its competitive standing in the industry. These synergies will help us to optimizing our financial and operational efficiencies."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Name of the director / KMP",
-            "Details": "Mr. Manish Patel"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": "Mr. Manish Patel is Designated Partner Director the LLP."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Other information relevant for decision making.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          },
-          {
-            "Sr. No.": "(D)",
-            "Particulars": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Details": "N.A"
-          }
-        ]
-      },
-      {
-        "page": 42,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Sr. No.": "2",
-            "Particulars": "Basis of determination of price.",
-            "Details": "The price for the sale of goods has been determined based on a combination of objective commercial parameters and industry-aligned practices, ensuring transparency, fairness, and regulatory compliance. The key considerations include: Arm’s Length Principle, Market Rate Assessment, Cost-Plus Methodology, Historical Transaction Data and Regulatory and Industry Standards"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "In case of Trade advance (of up to 365 days or such period for which such advances are extended as per normal trade practice) , if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "a. Amount of Trade advance",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "b. Tenure",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "c. Whether same is self- liquidating?",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "(E)",
-            "Particulars": "Confirmation from the Company",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Audit Committee has reviewed the certificates provided by the CEO/ Managing Director/ Whole Time Director/ Manager and CFO of the Listed Entity as required under the RPT Industry Standards",
-            "Details": "The Audit Committee hereby confirms that it has reviewed the certificates submitted by the Managing Director and Chief Financial Officer (CFO) of the Company, in accordance with the requirements prescribed under the Related Party Transactions (RPT) Industry Standards."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "(d) Disclosure that the material RPT or any material modification thereto, has been approved by the Audit Committee and the Board of Directors recommends the proposed transaction to the shareholders for approval.",
-            "Details": "The Material related party is approved by the Audit Committee and the Board of Directors have recommended to shareholder for the approval"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "(e) Provide web-link and QR Code, through which shareholders can access the valuation report or other reports of external party, if any, considered by Audit Committee while approving the RPT.",
-            "Details": "N.A"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "(a) Any other information that may be relevant.",
-            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "50f4bba9-fe59-49b4-b574-873d9486f992",
-    "SCRIP_CD": 542759,
-    "XML_NAME": "ANN_542759_50F4BBA9-FE59-49B4-B574-873D9486F992",
-    "NEWSSUB": "Spandana Sphoorty Financial Ltd - 542759 - Intimation Under Regulations 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 (\"SEBI Listing Regulations\") Regarding Initiation Of Forensic Audit.",
-    "DT_TM": "2026-11-07T20:41:24.473",
-    "NEWS_DT": "2026-11-07T20:41:24.473",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6b3fbee0-2c1a-4fd7-b48d-d5bb9800f5df.pdf",
-    "MORE": "",
-    "HEADLINE": "Initiation of Forensic Audit.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/spandana-sphoorty-financial-ltd/spandana/542759/",
-    "SLONGNAME": "Spandana Sphoorty Financial Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:41:24",
-    "DissemDT": "2026-11-07T20:41:24.473",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 366144,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "263a84fb-5b65-4924-898b-721cf91be9e0",
-    "SCRIP_CD": 544801,
-    "XML_NAME": "ANN_544801_263A84FB-5B65-4924-898B-721CF91BE9E0",
-    "NEWSSUB": "GSPL Transmission Ltd - 544801 - Announcement under Regulation 31A (LODR)-(8)(c) Submission of application to Exchange",
-    "DT_TM": "2026-11-07T20:38:34.473",
-    "NEWS_DT": "2026-11-07T20:38:34.473",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "746a41ff-6703-4a1b-9bb4-ad1c82a4531a.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Application under Regulation 31A of the SEBI (LODR) Regulations, 2015 submitted to Stock Exchanges for their approval",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gspl-transmission-ltd/gspltrans/544801/",
-    "SLONGNAME": "GSPL Transmission Ltd",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:38:34",
-    "DissemDT": "2026-11-07T20:38:34.473",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 172878,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "89fc824e-0de9-44ee-b283-87913c9e8c2d",
-    "SCRIP_CD": 540385,
-    "XML_NAME": "ANN_540385_89FC824E-0DE9-44EE-B283-87913C9E8C2D",
-    "NEWSSUB": "Vedic Ayurveda Ltd - 540385 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-07T20:37:35.037",
-    "NEWS_DT": "2026-11-07T20:37:35.037",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e5ca7c1d-27a6-4770-8645-9e2c8d0f6bd1.pdf",
-    "MORE": "Pursuant to Regulation 30 and 47 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find herewith attached copy of Newspaper advertisement for the statement of Standalone Un-Audited Financial Results for the Quarter and half year ended on September 30, 2026,",
-    "HEADLINE": "Pursuant to Regulation 30 and 47 read with Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find herewith attached copy of Newspaper advertisement ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/vedic-ayurveda-ltd/vedic/540385/",
-    "SLONGNAME": "Vedic Ayurveda Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T20:37:35",
-    "DissemDT": "2026-11-07T20:37:35.037",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6690677,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "net_profit": "5",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 1,
-        "row_count": 9,
-        "rows": [
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "",
-            "col_2": "Amount in Thousands",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "ulars",
-            "col_2": "Quarter Ended 30 Sep 2026 (Unaudited)",
-            "col_3": "Quarter Ended 30 Sep 2025 (Unaudited)",
-            "col_4": "Half Year Ended 30 Sep 2026 (Unaudited)",
-            "col_5": "Year Ended 31st March 2026 (Audited)"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "from operations (net)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "76,839"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "Loss) from ordinary er tax (before Extraordinary",
-            "col_2": "(7,731.79)",
-            "col_3": "1,304.93",
-            "col_4": "11,683.66",
-            "col_5": "44,826"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "oss) for the period r Extraordinary items)",
-            "col_2": "(7,731.79)",
-            "col_3": "1,304.93",
-            "col_4": "11,683.66",
-            "col_5": "44,826"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "Capital cluding Revaluation hown in the Balance Sheet ear)",
-            "col_2": "62,257.50 3,34,871.70",
-            "col_3": "62,257.50 3,07,820.37",
-            "col_4": "62,257.50 3,34,871.70",
-            "col_5": "62,258 3,23,188"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "Share ordinary items) ach) (Not Annualized)",
-            "col_2": "(1.24) (1.24)",
-            "col_3": "0.21 0.21",
-            "col_4": "1.88 1.88",
-            "col_5": "7.20 7.20"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "Share dinary items) ach) (Not Annulized)",
-            "col_2": "(1.24) (1.24)",
-            "col_3": "0.21 0.21",
-            "col_4": "1.88 1.88",
-            "col_5": "7.20 7.20"
-          },
-          {
-            "अडॅ �ा� �ा���ा�� ���म�ेड CIN: L45309MH1988PLC268437, Website: www.advance.net.in �� दसु रा म��ा, �े� ��गं , ��े���� मॅ शन, आ ासाहेब मराठे माग�, �र��, मंबु ई- 400025": "ults have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held 26 n extract of the detailed format of the Standalone Financial Results for the quarter ended and half year ended ber 2026 led with the Stock Exchanges under Regulation 33 of the SEBI ( Listing Obligations and uirements ) Regulations, 2015. The full format of this Financial Results are available on the Stock Exchange ww.bseindia.com and also on the Company's website: www.advance.net.in For and on behalf of the Board KASHYAP GANDHI MANAGING DIRECTOR 26 DIN:02604428",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": ""
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 2,
-        "row_count": 23,
-        "rows": [
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "AMPVOLTS CIN No : L72200MH200",
-            "col_3": "LIMITED 0PLC125359 i service, Andheri East, Mumbai, Maharashtra 400 069. esults for the Quarter and mber 30, 2026 (₹ in lakhs) uarter ended Half Year ended Year ended 30-Jun-26 30-Sep-25 30-Sep-26 30-Sep-25 31-Mar-26 Unaudited Unaudited Unaudited Unaudited Audited 1,300.71 145.31 3,074.35 247.49 2,063.64 31.79 55.41 46.73 96.19 312.73 1,332.50 200.72 3,121.08 343.68 2,376.37 49.85 783.54 1,269.35 907.84 1,479.10 471.66 (782.69) (72.82) (902.89) (517.79) 270.07 67.31 825.73 103.95 423.09 44.38 31.28 87.74 63.25 130.40 143.26 43.89 309.66 72.33 253.82 144.33 25.81 291.12 48.39 205.77 88.77 43.10 158.18 68.43 194.82 1,212.32 212.24 2,868.96 361.30 2,169.21 120.18 (11.52) 252.13 (17.62) 207.16 - - - - - 120.18 (11.52) 252.13 (17.62) 207.16 - - - - - 11.33 (32.59) 28.48 (6.63) 51.93 (1.43) - (1.43) - - 110.28 21.07 225.08 (10.99) 155.23 - - (0.48) (0.24) 110.28 21.07 224.60 (10.99) 154.99 2,571.09 2,571.09 2,571.09 2,571.09 2,571.09 - 5.46 5.46 - - 6.96 6.96 - - - 2,506.38 0.43 0.08 0.88 (0.04) 0.60 0.43 0.08 0.88 (0.04) 0.60 lized. ition and measurement principles laid down in Indian Accounting Act 2013, read with Rule 3 of the Companies (Indian Accounting nerally accepted in India. of the financial results for the quarter ended and half year ended e SEBI (Listing Obligations and Disclosure Requirement (LODR) dit Committee and thereafter approved by the Board of Directors vehicle chargers and charging stations. It has also carried out mercial trucks. Hence, the disclosures required under the Indian xure – A. stated wherever necessary to make them comparable with those A ng Standard 108 on Operating Segment (₹ in lakhs) r ended Half Year ended Year ended un-26 30-Sep-25 30-Sep-26 30-Sep-25 31-Mar-26 udited Unaudited Unaudited Unaudited Audited 528.66 1.22 1,273.57 6.20 1,226.06 772.05 144.11 1,800.79 241.29 837.58 300.71 145.31 3,074.35 247.49 2,063.64 7.15 0.37 77.04 1.26 264.75 501.98 76.80 975.06 137.35 414.49 509.13 77.16 1,052.10 138.61 679.23 44.38 31.28 87.74 63.25 130.40 143.26 43.89 309.66 72.33 253.82 144.33 25.81 291.12 48.39 205.77 88.77 43.10 158.18 68.43 194.82 420.74 144.08 846.70 252.40 784.81 31.79 55.41 46.73 96.19 312.73 120.18 (11.52) 252.13 (17.62) 207.16 For and on behalf of the Board of Director ts Limited (Formerly known as Quest Softech (India) Limited) CIN No. L72200MH2000PLC125359 Sd/- Vipul N. Chauhan",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "Cabin no. 20, 8th Floor, An",
-            "col_2": "dheri Workflo, Times Square, next to sa",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "Sta Sr. Part No.",
-            "col_2": "tement of unaudited Financial R Half year ended Septe Q iculars 30-Sep-26",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "1 Income (a) Revenue from Operatio (b) Other Income (c) Total Income [ (a) + (b 2 Expenses: (a) Purchase Cost (b) Changes in Inventory (c) Direct Expenses (d) Employee Benefits Exp (e) Finance Costs (f) Depreciation and Amort (g) Other Expenses (h) Total Expenses [ (a) t 3 Profit before Exceptional 4 Exceptional Items 5 Profit before Tax [ 3-4 ] 6 Tax Expense: (a) Current Tax (b) Deferred Tax Charge/ ( (c) Earlier Year Tax Adjust 7 Profit after Tax [ 5 - 6 ] 8 Other Comprehensive Inco 9 Total Comprehensive Inc 10 Paid-up Equity Share Capi (Face Value of Rs. 10 each Paid-up Equity Share Capi (Face Value of Rs. 10 each Paid-up Equity Share Capi (Face Value of Rs. 10 each 11 Other Equity (Excluding R 12 Earnings per equity shar * Earnings per equity share for th See accompanying notes to the fi Notes to the Financial Results: 1. The financial results have be Standards (Ind AS) as prescr Standards) Rules, 2015 as a 2. The Statutory Auditors of the September 30, 2026, pursua Regulations 2015. These fina at their respective meetings h 3. The Company is into busine business of fleet operation fo Accounting Standard 108 on 4. The figures for the earlier per of the current period. Disclosures requi Sr. Partic No. 1 Segment Revenue (a) Sale of Products (b) Sale of services (c) Total [ (a) + (b) ] 2 Segment Results (d) Sale of Products (e) Sale of services (f) Total [ (d) + (e) ] Less: Unallocable expenses (g) Employee Benefit E (h) Finance Costs (i) Depreciation and Am (j) Other Expenses (k) Total [ (g) to (j)] Add: (l) Unallocable Other I (m) Profit Before tax [",
-            "col_2": "Unaudited ns 1,773.64 14.94",
-            "col_3": "Unaudited 1,300.71 31.79",
-            "col_4": "",
-            "col_5": "Unaudited 145.31 55.41",
-            "col_6": "",
-            "col_7": "Unaudited 3,074.35 46.73",
-            "col_8": "",
-            "col_9": "Unaudited 247.49 96.19",
-            "col_10": "",
-            "col_11": "Audited 2,063.64 312.73"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": ") ] 1,788.58",
-            "col_3": "1,332.50",
-            "col_4": "",
-            "col_5": "200.72",
-            "col_6": "",
-            "col_7": "3,121.08",
-            "col_8": "",
-            "col_9": "343.68",
-            "col_10": "",
-            "col_11": "2,376.37"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "1,219.50 (544.48) 555.66 enses 43.36 166.40 isation Expenses 146.79",
-            "col_3": "49.85 471.66 270.07 44.38 143.26 144.33",
-            "col_4": "",
-            "col_5": "783.54 (782.69) 67.31 31.28 43.89 25.81",
-            "col_6": "",
-            "col_7": "1,269.35 (72.82) 825.73 87.74 309.66 291.12",
-            "col_8": "",
-            "col_9": "907.84 (902.89) 103.95 63.25 72.33 48.39",
-            "col_10": "",
-            "col_11": "1,479.10 (517.79) 423.09 130.40 253.82 205.77"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "69.41 o (g) ] 1,656.64",
-            "col_3": "88.77 1,212.32",
-            "col_4": "",
-            "col_5": "43.10 212.24",
-            "col_6": "",
-            "col_7": "158.18 2,868.96",
-            "col_8": "",
-            "col_9": "68.43 361.30",
-            "col_10": "",
-            "col_11": "194.82 2,169.21"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "Items and Tax [1 (c) - 2 (h)] 131.95",
-            "col_3": "120.18",
-            "col_4": "",
-            "col_5": "(11.52)",
-            "col_6": "",
-            "col_7": "252.13",
-            "col_8": "",
-            "col_9": "(17.62)",
-            "col_10": "",
-            "col_11": "207.16"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "",
-            "col_7": "-",
-            "col_8": "",
-            "col_9": "-",
-            "col_10": "",
-            "col_11": "-"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "131.95",
-            "col_3": "120.18",
-            "col_4": "",
-            "col_5": "(11.52)",
-            "col_6": "",
-            "col_7": "252.13",
-            "col_8": "",
-            "col_9": "(17.62)",
-            "col_10": "",
-            "col_11": "207.16"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "-",
-            "col_3": "-",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "",
-            "col_7": "-",
-            "col_8": "",
-            "col_9": "-",
-            "col_10": "",
-            "col_11": "-"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "Credit) 17.15",
-            "col_3": "11.33",
-            "col_4": "",
-            "col_5": "(32.59)",
-            "col_6": "",
-            "col_7": "28.48",
-            "col_8": "",
-            "col_9": "(6.63)",
-            "col_10": "",
-            "col_11": "51.93"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "ments (0.00)",
-            "col_3": "(1.43)",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "",
-            "col_7": "(1.43)",
-            "col_8": "",
-            "col_9": "-",
-            "col_10": "",
-            "col_11": "-"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "114.80 me (net of tax) (0.48)",
-            "col_3": "110.28 -",
-            "col_4": "",
-            "col_5": "21.07 -",
-            "col_6": "",
-            "col_7": "225.08 (0.48)",
-            "col_8": "",
-            "col_9": "(10.99)",
-            "col_10": "",
-            "col_11": "155.23 (0.24)"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "ome for the period [ 7+8 ] 114.33 tal ) 2,571.09 tal ) paid up Rs. 3 each - tal ) paid up Rs. 6.5 each - evaluation Reserve) - e *",
-            "col_3": "110.28 2,571.09 - - -",
-            "col_4": "",
-            "col_5": "21.07 2,571.09 5.46 6.96 -",
-            "col_6": "",
-            "col_7": "224.60 2,571.09",
-            "col_8": "",
-            "col_9": "(10.99) 2,571.09 5.46 6.96",
-            "col_10": "",
-            "col_11": "154.99 2,571.09 - - 2,506.38"
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "(i) Basic 0.45 (ii) Diluted 0.45 e quarter and half year ended are not annua nancial results en prepared in accordance with the recogn ibed under Section 133 of the Companies mended and other accounting principles ge Company have conducted limited Review nt to the requirements of Regulation 33 of th ncial results have been reviewed by the Au eld on November 06, 2026. ss of sales and services related to Electric r Electric passenger cars and Electric com Operating Segment are given as per Anne iods have been regrouped / reclassified / re",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "Annexure - red under the Indian Accounti Quarte ulars 30-Sep-26 30-J Unaudited Una",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "744.90 1,028.73 1,773.64 , 69.88 473.07 542.95",
-            "col_3": "528.66 772.05 300.71 7.15 501.98 509.13",
-            "col_4": "1.22 144.11 145.31 0.37 76.80 77.16",
-            "col_5": "",
-            "col_6": "1,273.57 1,800.79 3,074.35 77.04 975.06 1,052.10",
-            "col_7": "",
-            "col_8": "6.20 241.29 247.49 1.26 137.35 138.61",
-            "col_9": "",
-            "col_10": "1,226.06 837.58 2,063.64 264.75 414.49 679.23",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "xpenses 43.36 166.40 ortisation Expenses 146.79 69.41",
-            "col_3": "44.38 143.26 144.33 88.77",
-            "col_4": "31.28 43.89 25.81 43.10",
-            "col_5": "",
-            "col_6": "87.74 309.66 291.12 158.18",
-            "col_7": "",
-            "col_8": "63.25 72.33 48.39 68.43",
-            "col_9": "",
-            "col_10": "130.40 253.82 205.77 194.82",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "425.96",
-            "col_3": "420.74",
-            "col_4": "144.08",
-            "col_5": "",
-            "col_6": "846.70",
-            "col_7": "",
-            "col_8": "252.40",
-            "col_9": "",
-            "col_10": "784.81",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "ncome 14.94",
-            "col_3": "31.79",
-            "col_4": "55.41",
-            "col_5": "",
-            "col_6": "46.73",
-            "col_7": "",
-            "col_8": "96.19",
-            "col_9": "",
-            "col_10": "312.73",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "(f)-(k)+(l)] 131.95",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
-          },
-          {
-            "AMPVOLTS CIN No : L72200MH200": "",
-            "col_2": "Ampvol",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": ""
           }
         ]
       }
