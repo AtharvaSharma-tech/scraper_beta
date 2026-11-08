@@ -1,5 +1,834 @@
 [
   {
+    "NEWSID": "4c4c8ea3-b9fb-4225-8d9a-ff01421641bb",
+    "SCRIP_CD": 543986,
+    "XML_NAME": "ANN_543986_4C4C8EA3-B9FB-4225-8D9A-FF01421641BB",
+    "NEWSSUB": "South West Pinnacle Exploration Ltd - 543986 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-08T14:47:48.373",
+    "NEWS_DT": "2026-11-08T14:47:48.373",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "083b0748-32d9-4ca3-9c6b-2333b65631e8.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
+    "SLONGNAME": "South West Pinnacle Exploration Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T14:47:48",
+    "DissemDT": "2026-11-08T14:47:48.373",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3802891,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary based on the provided announcement:\n\n* **Key Financial Metrics:** As of September 30, 2026, the company reported an order book of INR 7,671 million, a 3-year Profit After Tax (PAT) CAGR of 54%, and a Debt-to-Equity ratio of 0.27.\n* **Operational Highlights & Reporting Period:** Released on November 08, 2026, for Q2/H1 FY 2026-27, the presentation outlines 20 years of experience with 166+ successful project deliveries, 20 ongoing projects, and over 33 lakh meters drilled.",
+    "key_metrics": {
+      "revenue": "1810 million",
+      "net_profit": "87 million",
+      "operating_profit": "83",
+      "total_debt": "122",
+      "eps": "52.4",
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 35,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "col_1": "Revenue from Operations",
+            "Q2 FY27": "577",
+            "Q2 FY26": "624",
+            "Y-o-Y": "(7.5)%"
+          },
+          {
+            "col_1": "Total Expenses",
+            "Q2 FY27": "494",
+            "Q2 FY26": "479",
+            "Y-o-Y": "3.1%"
+          },
+          {
+            "col_1": "EBITDA",
+            "Q2 FY27": "83",
+            "Q2 FY26": "145",
+            "Y-o-Y": "(42.8)%"
+          },
+          {
+            "col_1": "EBITDA Margins (%)",
+            "Q2 FY27": "14.38%",
+            "Q2 FY26": "23.24%",
+            "Y-o-Y": "(886) Bps"
+          },
+          {
+            "col_1": "Other Income",
+            "Q2 FY27": "9",
+            "Q2 FY26": "9",
+            "Y-o-Y": "0.0%"
+          },
+          {
+            "col_1": "Depreciation",
+            "Q2 FY27": "34",
+            "Q2 FY26": "29",
+            "Y-o-Y": "17.2%"
+          },
+          {
+            "col_1": "Finance Cost",
+            "Q2 FY27": "17",
+            "Q2 FY26": "23",
+            "Y-o-Y": "(26.1)%"
+          },
+          {
+            "col_1": "Profit Before Share of Profit from JVs",
+            "Q2 FY27": "41",
+            "Q2 FY26": "102",
+            "Y-o-Y": "(59.8)%"
+          },
+          {
+            "col_1": "Share of Profit/(Loss) from JVs",
+            "Q2 FY27": "9",
+            "Q2 FY26": "8",
+            "Y-o-Y": "12.5%"
+          },
+          {
+            "col_1": "PBT",
+            "Q2 FY27": "50",
+            "Q2 FY26": "110",
+            "Y-o-Y": "(54.5)%"
+          },
+          {
+            "col_1": "Tax",
+            "Q2 FY27": "10",
+            "Q2 FY26": "26",
+            "Y-o-Y": "(61.5)%"
+          },
+          {
+            "col_1": "PAT",
+            "Q2 FY27": "40",
+            "Q2 FY26": "84",
+            "Y-o-Y": "(52.4)%"
+          },
+          {
+            "col_1": "PAT Margins (%)",
+            "Q2 FY27": "6.93%",
+            "Q2 FY26": "13.46%",
+            "Y-o-Y": "(653) Bps"
+          },
+          {
+            "col_1": "Other Comprehensive Income",
+            "Q2 FY27": "61",
+            "Q2 FY26": "1",
+            "Y-o-Y": "NA"
+          },
+          {
+            "col_1": "Total Comprehensive Income",
+            "Q2 FY27": "102",
+            "Q2 FY26": "85",
+            "Y-o-Y": "20.0%"
+          },
+          {
+            "col_1": "Diluted EPS (INR)",
+            "Q2 FY27": "1.23",
+            "Q2 FY26": "2.74",
+            "Y-o-Y": "(55.1)%"
+          }
+        ]
+      },
+      {
+        "page": 36,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "col_1": "Revenue from Operations",
+            "H1 FY27": "1,194",
+            "H1 FY26": "1,027",
+            "Y-o-Y": "16.3%"
+          },
+          {
+            "col_1": "Total Expenses",
+            "H1 FY27": "962",
+            "H1 FY26": "824",
+            "Y-o-Y": "16.7%"
+          },
+          {
+            "col_1": "EBITDA",
+            "H1 FY27": "232",
+            "H1 FY26": "203",
+            "Y-o-Y": "14.3%"
+          },
+          {
+            "col_1": "EBITDA Margins (%)",
+            "H1 FY27": "19.43%",
+            "H1 FY26": "19.77%",
+            "Y-o-Y": "34 Bps"
+          },
+          {
+            "col_1": "Other Income",
+            "H1 FY27": "14",
+            "H1 FY26": "20",
+            "Y-o-Y": "(30.0)%"
+          },
+          {
+            "col_1": "Depreciation",
+            "H1 FY27": "65",
+            "H1 FY26": "51",
+            "Y-o-Y": "27.5%"
+          },
+          {
+            "col_1": "Finance Cost",
+            "H1 FY27": "34",
+            "H1 FY26": "42",
+            "Y-o-Y": "(19.0)%"
+          },
+          {
+            "col_1": "Profit Before Share of Profit from JVs",
+            "H1 FY27": "147",
+            "H1 FY26": "130",
+            "Y-o-Y": "13.1%"
+          },
+          {
+            "col_1": "Share of Profit/(Loss) from JVs",
+            "H1 FY27": "22",
+            "H1 FY26": "11",
+            "Y-o-Y": "NA"
+          },
+          {
+            "col_1": "PBT",
+            "H1 FY27": "169",
+            "H1 FY26": "141",
+            "Y-o-Y": "19.9%"
+          },
+          {
+            "col_1": "Tax",
+            "H1 FY27": "36",
+            "H1 FY26": "33",
+            "Y-o-Y": "9.1%"
+          },
+          {
+            "col_1": "PAT",
+            "H1 FY27": "133",
+            "H1 FY26": "108",
+            "Y-o-Y": "23.1%"
+          },
+          {
+            "col_1": "PAT Margins (%)",
+            "H1 FY27": "11.14%",
+            "H1 FY26": "10.52%",
+            "Y-o-Y": "62 Bps"
+          },
+          {
+            "col_1": "Other Comprehensive Income",
+            "H1 FY27": "68",
+            "H1 FY26": "-",
+            "Y-o-Y": "NA"
+          },
+          {
+            "col_1": "Total Comprehensive Income",
+            "H1 FY27": "201",
+            "H1 FY26": "108",
+            "Y-o-Y": "86.1%"
+          },
+          {
+            "col_1": "Diluted EPS (INR)",
+            "H1 FY27": "4.23",
+            "H1 FY26": "3.52",
+            "Y-o-Y": "20.2%"
+          }
+        ]
+      },
+      {
+        "page": 38,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "col_1": "Revenue from Operations",
+            "FY24": "1,334",
+            "FY25": "1,803",
+            "FY26": "2,430",
+            "H1-FY27": "1,194"
+          },
+          {
+            "col_1": "Total Expenses",
+            "FY24": "1,087",
+            "FY25": "1,467",
+            "FY26": "1,847",
+            "H1-FY27": "962"
+          },
+          {
+            "col_1": "EBITDA",
+            "FY24": "247",
+            "FY25": "336",
+            "FY26": "583",
+            "H1-FY27": "232"
+          },
+          {
+            "col_1": "EBITDA Margins (%)",
+            "FY24": "18.52%",
+            "FY25": "18.64%",
+            "FY26": "23.99%",
+            "H1-FY27": "19.43%"
+          },
+          {
+            "col_1": "Other Income",
+            "FY24": "24",
+            "FY25": "48",
+            "FY26": "36",
+            "H1-FY27": "14"
+          },
+          {
+            "col_1": "Depreciation",
+            "FY24": "88",
+            "FY25": "96",
+            "FY26": "114",
+            "H1-FY27": "65"
+          },
+          {
+            "col_1": "Finance Cost",
+            "FY24": "85",
+            "FY25": "87",
+            "FY26": "84",
+            "H1-FY27": "34"
+          },
+          {
+            "col_1": "Profit Before Share of Profit from JVs",
+            "FY24": "98",
+            "FY25": "201",
+            "FY26": "421",
+            "H1-FY27": "147"
+          },
+          {
+            "col_1": "Share of Profit/(Loss) from JVs",
+            "FY24": "11",
+            "FY25": "13",
+            "FY26": "14",
+            "H1-FY27": "22"
+          },
+          {
+            "col_1": "PBT",
+            "FY24": "109",
+            "FY25": "214",
+            "FY26": "435",
+            "H1-FY27": "169"
+          },
+          {
+            "col_1": "Tax",
+            "FY24": "26",
+            "FY25": "50",
+            "FY26": "105",
+            "H1-FY27": "36"
+          },
+          {
+            "col_1": "PAT",
+            "FY24": "83",
+            "FY25": "164",
+            "FY26": "330",
+            "H1-FY27": "133"
+          },
+          {
+            "col_1": "PAT Margins (%)",
+            "FY24": "6.22%",
+            "FY25": "9.10%",
+            "FY26": "13.58%",
+            "H1-FY27": "11.14%"
+          },
+          {
+            "col_1": "Other Comprehensive Income",
+            "FY24": "-",
+            "FY25": "(1)",
+            "FY26": "(1)",
+            "H1-FY27": "68"
+          },
+          {
+            "col_1": "Total Comprehensive Income",
+            "FY24": "83",
+            "FY25": "163",
+            "FY26": "329",
+            "H1-FY27": "201"
+          },
+          {
+            "col_1": "Diluted EPS (INR)",
+            "FY24": "2.96",
+            "FY25": "5.83",
+            "FY26": "10.82",
+            "H1-FY27": "4.23"
+          }
+        ]
+      },
+      {
+        "page": 39,
+        "table_index": 1,
+        "row_count": 24,
+        "rows": [
+          {
+            "col_1": "Total Non Current Assets",
+            "FY25": "970",
+            "FY26": "1,378",
+            "H1-FY27": "1,735"
+          },
+          {
+            "col_1": "Property, plant & equipment",
+            "FY25": "625",
+            "FY26": "918",
+            "H1-FY27": "992"
+          },
+          {
+            "col_1": "Capital Work-in-progress",
+            "FY25": "7",
+            "FY26": "4",
+            "H1-FY27": "15"
+          },
+          {
+            "col_1": "Right of use assets",
+            "FY25": "14",
+            "FY26": "11",
+            "H1-FY27": "10"
+          },
+          {
+            "col_1": "Investment property",
+            "FY25": "28",
+            "FY26": "26",
+            "H1-FY27": "25"
+          },
+          {
+            "col_1": "Intangible assets under development",
+            "FY25": "143",
+            "FY26": "193",
+            "H1-FY27": "230"
+          },
+          {
+            "col_1": "Goodwill",
+            "FY25": "1",
+            "FY26": "1",
+            "H1-FY27": "1"
+          },
+          {
+            "col_1": "Financial assets",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "col_1": "(i) Investments",
+            "FY25": "53",
+            "FY26": "90",
+            "H1-FY27": "231"
+          },
+          {
+            "col_1": "(ii) Loans",
+            "FY25": "9",
+            "FY26": "26",
+            "H1-FY27": "63"
+          },
+          {
+            "col_1": "(iii) Other financial assets",
+            "FY25": "57",
+            "FY26": "86",
+            "H1-FY27": "122"
+          },
+          {
+            "col_1": "Other non-current assets",
+            "FY25": "33",
+            "FY26": "23",
+            "H1-FY27": "46"
+          },
+          {
+            "col_1": "TotalCurrentAssets",
+            "FY25": "1,791",
+            "FY26": "1,943",
+            "H1-FY27": "1,821"
+          },
+          {
+            "col_1": "Inventories",
+            "FY25": "462",
+            "FY26": "509",
+            "H1-FY27": "553"
+          },
+          {
+            "col_1": "Financial assets",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "col_1": "(i)Trade Receivable",
+            "FY25": "763",
+            "FY26": "1,166",
+            "H1-FY27": "967"
+          },
+          {
+            "col_1": "(ii)Cash and cash equivalents",
+            "FY25": "194",
+            "FY26": "13",
+            "H1-FY27": "8"
+          },
+          {
+            "col_1": "(iii)Other bank balances",
+            "FY25": "216",
+            "FY26": "104",
+            "H1-FY27": "121"
+          },
+          {
+            "col_1": "(iv)Loans",
+            "FY25": "-",
+            "FY26": "",
+            "H1-FY27": "1"
+          },
+          {
+            "col_1": "(v) Other financial assets",
+            "FY25": "17",
+            "FY26": "32",
+            "H1-FY27": "22"
+          },
+          {
+            "col_1": "Current tax assets (net)",
+            "FY25": "2",
+            "FY26": "4",
+            "H1-FY27": "8"
+          },
+          {
+            "col_1": "Other current assets",
+            "FY25": "137",
+            "FY26": "115",
+            "H1-FY27": "141"
+          },
+          {
+            "col_1": "Assets classified as held for sale",
+            "FY25": "-",
+            "FY26": "-",
+            "H1-FY27": "-"
+          },
+          {
+            "col_1": "TotalAssets",
+            "FY25": "2,761",
+            "FY26": "3,321",
+            "H1-FY27": "3,556"
+          }
+        ]
+      },
+      {
+        "page": 39,
+        "table_index": 2,
+        "row_count": 20,
+        "rows": [
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Shareholders Funds",
+            "FY25": "1,706",
+            "FY26": "2,035",
+            "H1-FY27": "2,516"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Share Capital",
+            "FY25": "298",
+            "FY26": "298",
+            "H1-FY27": "326"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Other Equity",
+            "FY25": "1,408",
+            "FY26": "1,737",
+            "H1-FY27": "2,190"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Non Controlling Interest",
+            "FY25": "-",
+            "FY26": "-",
+            "H1-FY27": "-"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Non Current Liabilities",
+            "FY25": "203",
+            "FY26": "229",
+            "H1-FY27": "304"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Long Term Borrowings",
+            "FY25": "122",
+            "FY26": "160",
+            "H1-FY27": "224"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Lease Liability",
+            "FY25": "15",
+            "FY26": "13",
+            "H1-FY27": "11"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Provisions",
+            "FY25": "8",
+            "FY26": "4",
+            "H1-FY27": "4"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Other Financial Liabilities",
+            "FY25": "4",
+            "FY26": "3",
+            "H1-FY27": "4"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Deferred tax liabilities",
+            "FY25": "51",
+            "FY26": "47",
+            "H1-FY27": "59"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Other non-current liabilities",
+            "FY25": "3",
+            "FY26": "2",
+            "H1-FY27": "2"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Current Liabilities",
+            "FY25": "852",
+            "FY26": "1,057",
+            "H1-FY27": "736"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Short term Borrowings",
+            "FY25": "507",
+            "FY26": "626",
+            "H1-FY27": "456"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Trade Payables",
+            "FY25": "187",
+            "FY26": "232",
+            "H1-FY27": "170"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Lease Liability",
+            "FY25": "2",
+            "FY26": "3",
+            "H1-FY27": "3"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Other Financial Liabilities",
+            "FY25": "54",
+            "FY26": "60",
+            "H1-FY27": "65"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Other Current Liabilities",
+            "FY25": "74",
+            "FY26": "60",
+            "H1-FY27": "22"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Short term Provisions",
+            "FY25": "15",
+            "FY26": "20",
+            "H1-FY27": "20"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "Current Tax Liability (Net)",
+            "FY25": "13",
+            "FY26": "56",
+            "H1-FY27": "-"
+          },
+          {
+            "EQUITYANDLIABILITIES(INRMn)": "TotalEquity& Liabilities",
+            "FY25": "2,761",
+            "FY26": "3,321",
+            "H1-FY27": "3,556"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "5fb1dd86-ba93-43bd-bdb8-92169eb7a525",
+    "SCRIP_CD": 543986,
+    "XML_NAME": "ANN_543986_5FB1DD86-BA93-43BD-BDB8-92169EB7A525",
+    "NEWSSUB": "South West Pinnacle Exploration Ltd - 543986 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-08T14:45:02.88",
+    "NEWS_DT": "2026-11-08T14:45:02.88",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "26cf7817-c14a-4345-a0dc-17f368570d0a.pdf",
+    "MORE": "",
+    "HEADLINE": "Sustained Revenue Growth, Record Order Book and Strategic Expansion Position of the Company for a Stronger H2 Robust H1 Revenue Growth Despite Temporary Operational Challenges",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/south-west-pinnacle-exploration-ltd/southwest/543986/",
+    "SLONGNAME": "South West Pinnacle Exploration Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T14:45:02",
+    "DissemDT": "2026-11-08T14:45:02.88",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1172931,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **H1 FY27 performance (ended",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "133",
+      "operating_profit": "232",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars ( in Rs. Million)*": "Income from Operations",
+            "H1-FY27": "1194",
+            "H1-FY26": "1027",
+            "FY26": "2430"
+          },
+          {
+            "Particulars ( in Rs. Million)*": "EBITDA",
+            "H1-FY27": "232",
+            "H1-FY26": "203",
+            "FY26": "583"
+          },
+          {
+            "Particulars ( in Rs. Million)*": "EBITDA Margin %",
+            "H1-FY27": "19.43%",
+            "H1-FY26": "19.77%",
+            "FY26": "24%"
+          },
+          {
+            "Particulars ( in Rs. Million)*": "Profit After Tax",
+            "H1-FY27": "133",
+            "H1-FY26": "108",
+            "FY26": "330"
+          },
+          {
+            "Particulars ( in Rs. Million)*": "PAT Margin %",
+            "H1-FY27": "11.14%",
+            "H1-FY26": "10.52%",
+            "FY26": "13.58%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "ac626746-bb4e-4b9a-8c30-810219a9f5af",
+    "SCRIP_CD": 533287,
+    "XML_NAME": "ANN_533287_AC626746-BB4E-4B9A-8C30-810219A9F5AF",
+    "NEWSSUB": "Zee Learn Ltd - 533287 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "DT_TM": "2026-11-08T14:44:28.387",
+    "NEWS_DT": "2026-11-08T14:44:28.387",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4f871f46-82f0-4a9b-b2a1-9fa9a208de0b.pdf",
+    "MORE": "Disclosure Regarding the cessation of office of Mr. Manish Rastogi (DIN: 10056027), Whole-time Director and Chief Executive Officer of the company, upon attaining the age of superannuation pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+    "HEADLINE": "Disclosure Regarding the cessation of office of Mr. Manish Rastogi (DIN: 10056027), Whole-time Director and Chief Executive Officer of the company, upon attaining the age of superannuation ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/zee-learn-ltd/zeelearn/533287/",
+    "SLONGNAME": "Zee Learn Ltd",
+    "AGENDA_ID": 124,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T14:44:28",
+    "DissemDT": "2026-11-08T14:44:28.387",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 645602,
+    "SUBCATNAME": "Change in Management",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Mr. Manish Rastogi, Whole‑time Director & Chief Executive Officer of Zee Learn Ltd (DIN 10056027), will cease to hold these offices effective 8 November 2026, as required by the company’s retirement policy and SEBI Regulation 30.  \n- The filing contains no financial figures, transactions, or monetary decisions; it solely announces the CEO’s superannuation‑driven resignation.",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Particulars": "Reason for change viz. appointment, re-appointment, resignation, removal, death or otherwise;",
+            "Information of such event": "Mr. Manish Rastogi; Whole-time Director & Chief Executive Director upon his attaining the age of superannuation in accordance with the terms of his appointment and the retirement policy of the Company on November 8, 2026."
+          },
+          {
+            "Sr. No.": "2",
+            "Particulars": "Date of appointment/ Re-Appointment/ Cessation (as applicable) & term of appointment",
+            "Information of such event": "Wef November 8, 2026"
+          },
+          {
+            "Sr. No.": "3",
+            "Particulars": "Brief profile (in case of appointment)",
+            "Information of such event": "Not Applicable"
+          },
+          {
+            "Sr. No.": "4",
+            "Particulars": "Disclosure of relationships between directors. (in case of appointment of a director)",
+            "Information of such event": "Not Applicable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "9332b184-d9e7-40f2-a39f-0ae03c762d94",
+    "SCRIP_CD": 513532,
+    "XML_NAME": "ANN_513532_9332B184-D9E7-40F2-A39F-0AE03C762D94",
+    "NEWSSUB": "Pradeep Metals Ltd - 513532 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-08T14:41:46.53",
+    "NEWS_DT": "2026-11-08T14:41:46.53",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "022755ea-48bf-438a-b0b7-16f8c31c67db.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication of Financial Results for Quarter and Half-Year ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/pradeep-metals-ltd/pradpme/513532/",
+    "SLONGNAME": "Pradeep Metals Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T14:41:46",
+    "DissemDT": "2026-11-08T14:41:46.53",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5315805,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement:** Pradeep Metals Ltd submitted a newspaper advertisement to BSE, confirming that its financial results for the quarter and half‑year ended 30 September 2026 were published on 8 November 2026 in *Financial Express* (all editions) and *Mumbai Lakshdeep*.\n\n- **Financial details:** The notice does not contain any specific monetary figures, profit/loss numbers, or other quantitative financial information.",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "d5af6379-6d51-4efa-9af5-9b32e69ce09a",
     "SCRIP_CD": 526443,
     "XML_NAME": "ANN_526443_D5AF6379-6D51-4EFA-9AF5-9B32E69CE09A",
@@ -21782,156 +22611,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "fc05471e-b871-4a46-a1f9-db49056bc0e4",
-    "SCRIP_CD": 531161,
-    "XML_NAME": "ANN_531161_FC05471E-B871-4A46-A1F9-DB49056BC0E4",
-    "NEWSSUB": "ABM Knowledgeware Ltd - 531161 - Announcement Under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-07T19:56:52.317",
-    "NEWS_DT": "2026-11-07T19:56:52.317",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5818d19d-e40f-4f91-82e5-c5c37551233a.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication of Un-audited (Standalone & Consolidated) Financial Result for the Quarter and Half Year Ended 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/abm-knowledgeware-ltd/abmkno/531161/",
-    "SLONGNAME": "ABM Knowledgeware Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T19:56:52",
-    "DissemDT": "2026-11-07T19:56:52.317",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6224493,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Announcement date & disclosure** – On 7 November 2026 ABM Knowledgeware Ltd. filed a Regulation 30/47 notice with BSE, confirming that its unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 September 2026 were published in *The Free Press Journal* (English) and *Navshakti* (Marathi) and posted on the company’s website.  \n\n- **Financial details** – The notice does not contain any specific monetary figures, earnings numbers, or other quantitative financial information.  (No financial details are disclosed in the text.)",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d4f6d9fc-c0c4-40c2-bcb3-fe7fb93d33e3",
-    "SCRIP_CD": 524548,
-    "XML_NAME": "ANN_524548_D4F6D9FC-C0C4-40C2-BCB3-FE7FB93D33E3",
-    "NEWSSUB": "Sharma East India Hospitals & Medical Research Ltd - 524548 - Board Meeting Outcome for Outcome Of Board Meeting For Approval Of Unaudited Fianncial Results For The Quarter And Half Year Ended 30-09-2026",
-    "DT_TM": "2026-11-07T19:56:51.427",
-    "NEWS_DT": "2026-11-07T19:56:51.427",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a0af2e89-32d8-4f64-a7f7-816e1331e0ea.pdf",
-    "MORE": "",
-    "HEADLINE": "Approval of unaudied financial results for the quarter and half year ended 30-09-2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sharma-east-india-hospitals--medical-research-ltd/sharmeh/524548/",
-    "SLONGNAME": "Sharma East India Hospitals & Medical Research Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T19:56:50",
-    "DissemDT": "2026-11-07T19:56:51.427",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1695582,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1405b12b-8de2-4e4a-b8c0-0393d45898ce",
-    "SCRIP_CD": 530001,
-    "XML_NAME": "ANN_530001_1405B12B-8DE2-4E4A-B8C0-0393D45898CE",
-    "NEWSSUB": "Gujarat Alkalies and Chemicals Ltd - 530001 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-07T19:50:00.76",
-    "NEWS_DT": "2026-11-07T19:50:00.76",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c90479ce-2c8b-49c8-b35c-243773684fbb.pdf",
-    "MORE": "",
-    "HEADLINE": "We have uploaded an updated Investors Presentation on Company''s website for the benefit of Investor / Shareholders at large.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gujarat-alkalies-and-chemicals-ltd/gujalkali/530001/",
-    "SLONGNAME": "Gujarat Alkalies and Chemicals Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T19:50:00",
-    "DissemDT": "2026-11-07T19:50:00.76",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 476181,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- On 7 November 2026, Gujarat Alkalies and Chemicals Ltd. announced that an updated Investor Presentation (dated September 2026) has been uploaded to its website: https://gacl.com/wp-content/uploads/2026/11/Investor-presentation_Sep-2026.pdf.  \n- The notice contains no specific financial figures, dates of transactions, or other monetary decisions—only the availability of the updated presentation for investors and shareholders.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e0c7267f-59a4-4145-b4c3-d6400a61e815",
-    "SCRIP_CD": 541578,
-    "XML_NAME": "ANN_541578_E0C7267F-59A4-4145-B4C3-D6400A61E815",
-    "NEWSSUB": "Varroc Engineering Ltd - 541578 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-07T19:43:36.573",
-    "NEWS_DT": "2026-11-07T19:43:36.573",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a0def260-e119-44ba-8334-daf96fff9f29.pdf",
-    "MORE": "",
-    "HEADLINE": "Transcript",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/varroc-engineering-ltd/varroc/541578/",
-    "SLONGNAME": "Varroc Engineering Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 19,
-    "News_submission_dt": "2026-11-07T19:43:36",
-    "DissemDT": "2026-11-07T19:43:36.573",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 772482,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "e0c7267f-59a4-4145-b4c3-d6400a61e815",
-    "INVESTOR_PRESENTATION": "de3acae6-0386-4bde-8781-0eb77f795faa.mp3",
-    "RECORDID": 14813866,
-    "DataInsDate": "2026-11-07T19:43:36.52",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/de3acae6-0386-4bde-8781-0eb77f795faa.mp3",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "111 crore",
-      "operating_profit": "4838 million",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
   }
 ]
