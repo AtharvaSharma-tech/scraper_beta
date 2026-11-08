@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "82028a15-771b-4102-a266-f9d92f2cb219",
+    "SCRIP_CD": 513642,
+    "XML_NAME": "ANN_513642_82028A15-771B-4102-A266-F9D92F2CB219",
+    "NEWSSUB": "Axel Polymers Ltd - 513642 - Board Meeting Intimation for Consideration And Approval Of Unaudited Financial Results For The Second Quarter And Half Year Ended 30Th September, 2026.",
+    "DT_TM": "2026-11-08T21:19:50.83",
+    "NEWS_DT": "2026-11-08T21:19:50.83",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b0b76b28-9182-41b2-a12b-ad3fbebc5fb7.pdf",
+    "MORE": "Axel Polymers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Financial Results for the second quarter and half year ended 30th September, 2026.",
+    "HEADLINE": "Axel Polymers Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Financial Results for ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/axel-polymers-ltd/axelpoly/513642/",
+    "SLONGNAME": "Axel Polymers Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-08T21:19:49",
+    "DissemDT": "2026-11-08T21:19:50.83",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 794931,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors will meet on **Friday, 13 November 2026** to consider and approve the **unaudited financial results for the second quarter and half‑year ended 30 September 2026**.  \n- In line with SEBI’s insider‑trading rules, the **trading window will remain closed until 48 hours after the results are declared**; no specific financial figures are disclosed in the announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "6677096d-c919-4b18-b848-170d26f4e139",
     "SCRIP_CD": 534732,
     "XML_NAME": "ANN_534732_6677096D-C919-4B18-B848-170D26F4E139",
@@ -13053,83 +13089,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "893b7776-9883-4daf-9113-336609f7588b",
-    "SCRIP_CD": 506178,
-    "XML_NAME": "ANN_506178_893B7776-9883-4DAF-9113-336609F7588B",
-    "NEWSSUB": "Velox Shipping and Logistics Ltd - 506178 - Announcement under Regulation 30 (LODR)-Allotment",
-    "DT_TM": "2026-11-07T20:59:55.567",
-    "NEWS_DT": "2026-11-07T20:59:55.567",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b18dab1f-24bb-46e5-a921-2550c5342138.pdf",
-    "MORE": "",
-    "HEADLINE": "Allotment of equity shares pursuant to conversion of warrants",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/velox-shipping-and-logistics-ltd/velox/506178/",
-    "SLONGNAME": "Velox Shipping and Logistics Ltd",
-    "AGENDA_ID": 5,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T20:59:55",
-    "DissemDT": "2026-11-07T20:59:55.567",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 363790,
-    "SUBCATNAME": "Allotment of Equity Shares",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 1,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Name of Allottee": "Manvi Bharat Poojary",
-            "No. of Convertible Warrants Allotted": "9,00,000",
-            "Amount Received (75% of the total Consideration (in Rs.)*": "81,00,000",
-            "Number of Equity Shares allotted upon conversion of Warrants": "18,00,000",
-            "No. of warrants pending for conversion": "Nil"
-          },
-          {
-            "Sr. No.": "2",
-            "Name of Allottee": "Amit Arora",
-            "No. of Convertible Warrants Allotted": "7,00,000",
-            "Amount Received (75% of the total Consideration (in Rs.)*": "63,00,000",
-            "Number of Equity Shares allotted upon conversion of Warrants": "3,07,524",
-            "No. of warrants pending for conversion": "Nil"
-          },
-          {
-            "Sr. No.": "3",
-            "Name of Allottee": "Ravishankar Sarvothaman",
-            "No. of Convertible Warrants Allotted": "14,54,531",
-            "Amount Received (75% of the total Consideration (in Rs.)*": "1,30,90,779",
-            "Number of Equity Shares allotted upon conversion of Warrants": "9,71,775",
-            "No. of warrants pending for conversion": "Nil"
-          },
-          {
-            "Sr. No.": "",
-            "Name of Allottee": "TOTAL",
-            "No. of Convertible Warrants Allotted": "30,54,531",
-            "Amount Received (75% of the total Consideration (in Rs.)*": "2,74,90,779",
-            "Number of Equity Shares allotted upon conversion of Warrants": "30,54,531",
-            "No. of warrants pending for conversion": "Nil"
-          }
-        ]
-      }
-    ]
   }
 ]
