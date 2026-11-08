@@ -1,5 +1,687 @@
 [
   {
+    "NEWSID": "696f4a3e-7d11-451a-aa69-6ddd86ff9ba3",
+    "SCRIP_CD": 541741,
+    "XML_NAME": "ANN_541741_696F4A3E-7D11-451A-AA69-6DDD86FF9BA3",
+    "NEWSSUB": "Fratelli Vineyards Ltd - 541741 - Revised Outcome Of The Meeting Of The Board Of Directors Of Fratelli Vineyards Limited ('The Company') Held On Saturday, November 07, 2026",
+    "DT_TM": "2026-11-08T11:59:12.827",
+    "NEWS_DT": "2026-11-08T11:59:12.827",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "aef6e886-9112-4447-ad98-06e3b418887e.pdf",
+    "MORE": "",
+    "HEADLINE": "Revised outcome of the Board meeting held on 07.11.2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/fratelli-vineyards-ltd/fratelli/541741/",
+    "SLONGNAME": "Fratelli Vineyards Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T11:59:12",
+    "DissemDT": "2026-11-08T11:59:12.827",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 788920,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Unaudited financial results approved:** The Board ratified the unaudited standalone and consolidated financial",
+    "key_metrics": {
+      "revenue": "",
+      "total_assets": "30948.83",
+      "total_equity": "29648.94",
+      "total_debt": "1160.00",
+      "dividend": "0.76",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 14,
+        "rows": [
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "As at September 30, 2026",
+            "(Rs. In lakhs)_1": "As at March 31, 2026"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "(Unaudited)",
+            "(Rs. In lakhs)_1": "(Audited)"
+          },
+          {
+            "Statement of Assets And Liabilities": "A 1 2",
+            "col_2": "Assets Non- current assets Property, plant and equipment Financial assets i) Investments ii) Others financial assests Other non-current assets Current Assets Financial assets i) Trade receivables ii) Cash and cash equivalents iii) Short-term Loans iv) Others financial assets Current tax assets (Net) Other current assets",
+            "(Rs. In lakhs)": "1.12 29,372.52 0.36 0.05",
+            "(Rs. In lakhs)_1": "3.49 2 8,620.12 0.46 0 .05"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "29,374.05",
+            "(Rs. In lakhs)_1": "2 8,624.12"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "58.01 2.11 1,317.50 41.00 85.44 70.72",
+            "(Rs. In lakhs)_1": "46.72 0.88 9 32.50 30.07 82.49 6 8.84"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "1,574.78",
+            "(Rs. In lakhs)_1": "1,161.50"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "Total Assets",
+            "(Rs. In lakhs)": "30,948.83",
+            "(Rs. In lakhs)_1": "2 9,785.62"
+          },
+          {
+            "Statement of Assets And Liabilities": "B 1 2",
+            "col_2": "Equity and liabilities Equity Equity share capital Other equity Total equity Liabilities Non- current liabilities Financial liablities i) Others financial liabilities Provisions Total non current liabilities Current liabilities Financial liabilities i) Borrowings ii) Trade payables (1)Total outstanding dues of micro and small enterprises (2)Total outstanding dues of creditors other than micro and small enterprises iii) Other financial liabilities Other current liabilities Provisions Total current liabilities Total equity and liabilities",
+            "(Rs. In lakhs)": "4,347.24 25,301.70",
+            "(Rs. In lakhs)_1": "4,347.24 2 5,301.16"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "29,648.94",
+            "(Rs. In lakhs)_1": "2 9,648.40"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "33.32 0.58",
+            "(Rs. In lakhs)_1": "36.94 0 .56"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "33.90",
+            "(Rs. In lakhs)_1": "37.50"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "1,160.00 - 86.33 18.34 1.25 0 .07",
+            "(Rs. In lakhs)_1": "- - 73.11 24.73 1.81 0 .07"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "1 ,265.99",
+            "(Rs. In lakhs)_1": "9 9.72"
+          },
+          {
+            "Statement of Assets And Liabilities": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "3 0,948.83",
+            "(Rs. In lakhs)_1": "2 9,785.62"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 14,
+        "rows": [
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "As at September 30, 2026",
+            "(Rs. In lakhs)_1": "As at March 31, 2026"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "(Unaudited)",
+            "(Rs. In lakhs)_1": "(Audited)"
+          },
+          {
+            "Description": "A 1 2",
+            "col_2": "ASSETS Non- Current Assets Property, plant and equipment Capital work-in-progress Intangible assets Right to use assets Financial Assets i) Investments ii) Others financial assests Deferred tax assets(net) Other non-current assets Current Assets Inventories Financial Assets i) Trade receivables ii) Cash and cash equivalents iii) Bank balances other than (ii) above iv) Others financial assets Current tax assets (net) Other current assets",
+            "(Rs. In lakhs)": "8,064.84 735.16 4.07 1,690.25 25.08 1,054.16 1,461.55 15.34",
+            "(Rs. In lakhs)_1": "8 ,155.87 7 18.02 4 .69 1 ,480.38 2 5.08 1 ,134.92 1 ,180.12 1 9.30"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "13,050.45",
+            "(Rs. In lakhs)_1": "1 2,718.38"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "9,658.01 - 11,034.34 36.55 170.67 865.79 205.82 756.43",
+            "(Rs. In lakhs)_1": "9 ,514.75 1 0,511.14 7 .78 1 57.24 8 40.73 1 93.41 7 10.92"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "22,727.61",
+            "(Rs. In lakhs)_1": "2 1,935.97"
+          },
+          {
+            "Description": "",
+            "col_2": "Total assets",
+            "(Rs. In lakhs)": "35,778.06",
+            "(Rs. In lakhs)_1": "3 4,654.35"
+          },
+          {
+            "Description": "B 1 2",
+            "col_2": "EQUITY AND LIABILITY Equity Equity share capital Other equity Total equity Liabilities Non- current liabilities Financial liablities i) Long term borrowings ii) Lease liabilities Provisions Total Non Current Liabilities Current liabilities Financial Liabilities i) Short term borrowings ii) Lease liabilities iii) Trade payables (1)Total outstanding dues of micro,small and medium enterprises (2)Total outstanding dues of creditors other than micro, small and medium enterprises iv) Other financial liabilities Provisions Other current liabilities Total Current Liabilities Total Equity and Liabilities",
+            "(Rs. In lakhs)": "4,347.24 8,414.16",
+            "(Rs. In lakhs)_1": "4 ,347.24 9 ,249.12"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "12,761.40",
+            "(Rs. In lakhs)_1": "1 3,596.36"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "4,031.83 1,826.52 407.78",
+            "(Rs. In lakhs)_1": "3,013.65 1,590.86 389.28"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "6,266.13",
+            "(Rs. In lakhs)_1": "4,993.79"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "9,482.47 217.53 182.07 2,259.94 3,918.30 87.48 602.74",
+            "(Rs. In lakhs)_1": "8,959.92 194.65 93.27 2,614.32 3,514.06 87.48 600.50"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "1 6,750.53",
+            "(Rs. In lakhs)_1": "1 6,064.20"
+          },
+          {
+            "Description": "",
+            "col_2": "",
+            "(Rs. In lakhs)": "3 5,778.06",
+            "(Rs. In lakhs)_1": "3 4,654.35"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "S.No": "1 2 3 4 5 6 7 8 9 10",
+            "Particulars": "",
+            "Quarter Year Ended": "September 30, 2026 (Unaudited)",
+            "col_4": "June 30, 2026 (Unaudited)",
+            "col_5": "September 30, 2025 (Unaudited)",
+            "Half Year Ended": "September 30, 2026 (Unaudited)",
+            "col_7": "September 30, 2025 (Unaudited)",
+            "Year Ended": "March 31, 2026 (Audited)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Income Revenue from operations Other Income",
+            "Quarter Year Ended": "4,524.16 8 2.33",
+            "col_4": "4,471.51 65.66",
+            "col_5": "4,588.15 53.84",
+            "Half Year Ended": "8,995.67 147.99",
+            "col_7": "8,238.82 129.19",
+            "Year Ended": "1 8,128.65 3 21.62"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total income",
+            "Quarter Year Ended": "4,606.49",
+            "col_4": "4,537.17",
+            "col_5": "4641.99",
+            "Half Year Ended": "9 ,143.66",
+            "col_7": "8,368.01",
+            "Year Ended": "18,450.27"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Expenses (a) Cost of material consumed (b) Excise duty on sales (c) Purchases of traded goods (d) Changes in inventory of finished goods, traded goods and work in progress (e) Employee benefits expenses (f) Finance costs (g) Depreciation and amortization expenses (h) Other expenses",
+            "Quarter Year Ended": "1,049.48 606.00 0 .25 7 .34 948.31 394.12 240.81 1,992.25",
+            "col_4": "1,115.82 776.22 0.35 ( 206.39) 960.61 352.09 239.09 1,795.36",
+            "col_5": "861.78 581.61 0.26 99.08 892.68 344.57 230.99 2074.27",
+            "Half Year Ended": "2 ,165.30 1 ,382.22 0 .60 (199.05) 1,908.92 746.21 479.90 3,787.61",
+            "col_7": "2 ,136.36 1 ,367.31 3 .34 (470.47) 1,803.11 674.17 458.05 3,618.32",
+            "Year Ended": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total expenses",
+            "Quarter Year Ended": "5,238.56",
+            "col_4": "5,033.15",
+            "col_5": "5,085.24",
+            "Half Year Ended": "1 0,271.71",
+            "col_7": "9,590.19",
+            "Year Ended": "21,116.57"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Loss before tax (1-2) Tax expense (a) Current tax (b) Adjustment of tax relating to earlier years (c) Deferred tax charge/(credit)",
+            "Quarter Year Ended": "(632.07) - - (154.88)",
+            "col_4": "(495.98) - - (129.47)",
+            "col_5": "(443.25) - - (111.80)",
+            "Half Year Ended": "(1,128.05) - - (284.35)",
+            "col_7": "(1222.18) - - (308.59)",
+            "Year Ended": "(2666.30) - 8 .87 (183.98)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total tax expenses",
+            "Quarter Year Ended": "(154.88)",
+            "col_4": "(129.47)",
+            "col_5": "(111.80)",
+            "Half Year Ended": "(284.35)",
+            "col_7": "(308.59)",
+            "Year Ended": "(175.11)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Net loss for the period/year (3-4)",
+            "Quarter Year Ended": "(477.19)",
+            "col_4": "(366.51)",
+            "col_5": "(331.45)",
+            "Half Year Ended": "(843.70)",
+            "col_7": "(913.59)",
+            "Year Ended": "(2491.19)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Other comprehensive income Other Comprehensive Income not to be reclaassified to profit or loss in subsequent periods (a) Re-measurement gains/(losses) on defined benefits plans (b) Income tax relating to above",
+            "Quarter Year Ended": "5.83 (1.46)",
+            "col_4": "5 .83 (1.46)",
+            "col_5": "5.15 (1.29)",
+            "Half Year Ended": "11.66 (2.92)",
+            "col_7": "10.30 (2.59)",
+            "Year Ended": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Other Comprehensive Income (Net of Tax)",
+            "Quarter Year Ended": "4.37",
+            "col_4": "4.37",
+            "col_5": "3.86",
+            "Half Year Ended": "8.74",
+            "col_7": "7.71",
+            "Year Ended": "17.46"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Comprehensive Income for the period/year (Net of tax) (5+6)",
+            "Quarter Year Ended": "(472.82)",
+            "col_4": "(362.14)",
+            "col_5": "(327.59)",
+            "Half Year Ended": "(834.96)",
+            "col_7": "(905.88)",
+            "Year Ended": "( 2,473.73)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Loss for the period/year attributable to: Equity shareholders of the parent company Non-controlling interest Other Comprehensive Income attributable to: Equity shareholders of the parent company Non-controlling interest Total Comprehensive Loss attributable to: Equity shareholders of the parent company Non-controlling interest Paid up Equity Share capital (Face value of Rs. 10/- each) Other Equity Earnings per equity share (EPS) a) Basic Earning Per Share (Rs.) b) Diluted Earning Per Share (Rs.)",
+            "Quarter Year Ended": "( 477.19) (477.19) - 4 .37 4.37 - ( 472.82) (472.82) - 4 ,347.24 ( 1.10) ( 1.10)",
+            "col_4": "( 366.51) ( 366.51) - 4 .37 4 .37 - ( 362.14) ( 362.14) - 4 ,347.24 ( 0.84) ( 0.84)",
+            "col_5": "( 331.45) ( 331.45) - 3 .86 3 .86 - ( 327.59) ( 327.59) - 4 ,327.79 ( 0.76) ( 0.77)",
+            "Half Year Ended": "( 843.70) ( 843.70) - 8 .74 8 .74 - ( 834.96) ( 834.96) - 4 ,347.24 ( 1.94) ( 1.94)",
+            "col_7": "( 913.59) ( 913.59) - 7 .71 7 .71 - (905.88) (905.88) - 4 ,327.79 ( 2.11) (2.11)",
+            "Year Ended": ""
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "table_index": 0,
+        "row_count": 25,
+        "rows": [
+          {
+            "S.No": "",
+            "Particulars": "",
+            "Quarter Year Ended": "September 30, 2026 (Unaudited)",
+            "col_4": "June 30, 2026 (Unaudited)",
+            "col_5": "September 30, 2025 (Unaudited)",
+            "Half Year Ended": "September 30, 2026 (Unaudited)",
+            "col_7": "September 30, 2025 (Unaudited)",
+            "Year Ended": "March 31, 2026 (Audited)"
+          },
+          {
+            "S.No": "1",
+            "Particulars": "Segment Revenue (Sales and other operating revenue)",
+            "Quarter Year Ended": "",
+            "col_4": "",
+            "col_5": "",
+            "Half Year Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Wine manufacturing and sales",
+            "Quarter Year Ended": "4 ,524.16",
+            "col_4": "4,471.51",
+            "col_5": "4 ,588.15",
+            "Half Year Ended": "8,995.67",
+            "col_7": "8,230.21",
+            "Year Ended": "18,120.04"
+          },
+          {
+            "S.No": "",
+            "Particulars": "All other reportable segments",
+            "Quarter Year Ended": "5 6.73",
+            "col_4": "7 .28",
+            "col_5": "-",
+            "Half Year Ended": "64.01",
+            "col_7": "8.61",
+            "Year Ended": "6 7.83"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total",
+            "Quarter Year Ended": "4 ,580.89",
+            "col_4": "4,478.79",
+            "col_5": "4 ,588.15",
+            "Half Year Ended": "9,059.68",
+            "col_7": "8,238.82",
+            "Year Ended": "18,187.87"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Less: Inter segment revenue",
+            "Quarter Year Ended": "5 6.73",
+            "col_4": "7 .28",
+            "col_5": "-",
+            "Half Year Ended": "64.01",
+            "col_7": "-",
+            "Year Ended": "5 9.22"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Segment Revenue",
+            "Quarter Year Ended": "4 ,524.16",
+            "col_4": "4 ,471.51",
+            "col_5": "4 ,588.15",
+            "Half Year Ended": "8 ,995.67",
+            "col_7": "8 ,238.82",
+            "Year Ended": "1 8,128.65"
+          },
+          {
+            "S.No": "2",
+            "Particulars": "Segment Results",
+            "Quarter Year Ended": "",
+            "col_4": "",
+            "col_5": "",
+            "Half Year Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Wine manufacturing and sales",
+            "Quarter Year Ended": "( 297.14)",
+            "col_4": "(193.78)",
+            "col_5": "( 128.56)",
+            "Half Year Ended": "(490.92)",
+            "col_7": "(649.01)",
+            "Year Ended": "(1,061.10)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "All other reportable segments",
+            "Quarter Year Ended": "2 .02",
+            "col_4": "0 .26",
+            "col_5": "-",
+            "Half Year Ended": "2.28",
+            "col_7": "8.54",
+            "Year Ended": "( 520.56)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total",
+            "Quarter Year Ended": "(295.12)",
+            "col_4": "(193.52)",
+            "col_5": "( 128.56)",
+            "Half Year Ended": "(488.64)",
+            "col_7": "(640.47)",
+            "Year Ended": "(1,581.66)"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Add: i) Other Un-allocable Income",
+            "Quarter Year Ended": "8 2.33",
+            "col_4": "65.66",
+            "col_5": "53.84",
+            "Half Year Ended": "147.99",
+            "col_7": "129.19",
+            "Year Ended": "321.62"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Less: i) Finance Cost",
+            "Quarter Year Ended": "3 94.12",
+            "col_4": "352.09",
+            "col_5": "344.57",
+            "Half Year Ended": "746.21",
+            "col_7": "674.17",
+            "Year Ended": "1326.44"
+          },
+          {
+            "S.No": "",
+            "Particulars": "ii) Other Un-allocable Expenses",
+            "Quarter Year Ended": "2 5.16",
+            "col_4": "16.03",
+            "col_5": "23.96",
+            "Half Year Ended": "41.19",
+            "col_7": "36.73",
+            "Year Ended": "79.82"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Profit before Tax",
+            "Quarter Year Ended": "( 632.07)",
+            "col_4": "( 495.98)",
+            "col_5": "( 443.25)",
+            "Half Year Ended": "( 1,128.05)",
+            "col_7": "( 1,222.18)",
+            "Year Ended": "( 2,666.30)"
+          },
+          {
+            "S.No": "3",
+            "Particulars": "Segment Assets",
+            "Quarter Year Ended": "",
+            "col_4": "",
+            "col_5": "",
+            "Half Year Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Wine manufacturing and sales",
+            "Quarter Year Ended": "3 5,618.26",
+            "col_4": "35,920.36",
+            "col_5": "3 3,209.69",
+            "Half Year Ended": "3 5,618.26",
+            "col_7": "3 3,209.69",
+            "Year Ended": "34,498.16"
+          },
+          {
+            "S.No": "",
+            "Particulars": "All other reportable segments",
+            "Quarter Year Ended": "1 4.91",
+            "col_4": "1 4.91",
+            "col_5": "9 58.49",
+            "Half Year Ended": "14.91",
+            "col_7": "958.49",
+            "Year Ended": "1 4.91"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Unallocable assets",
+            "Quarter Year Ended": "1 44.89",
+            "col_4": "148.18",
+            "col_5": "9 28.12",
+            "Half Year Ended": "144.89",
+            "col_7": "928.12",
+            "Year Ended": "1 41.28"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total Assets",
+            "Quarter Year Ended": "3 5,778.06",
+            "col_4": "3 6,083.45",
+            "col_5": "3 5,096.30",
+            "Half Year Ended": "3 5,778.06",
+            "col_7": "3 5,096.30",
+            "Year Ended": "3 4,654.35"
+          },
+          {
+            "S.No": "4",
+            "Particulars": "Segment Liabilities",
+            "Quarter Year Ended": "",
+            "col_4": "",
+            "col_5": "",
+            "Half Year Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S.No": "",
+            "Particulars": "Wine manufacturing and sales",
+            "Quarter Year Ended": "2 2,925.94",
+            "col_4": "22,782.77",
+            "col_5": "2 0,028.08",
+            "Half Year Ended": "2 2,925.94",
+            "col_7": "2 0,028.08",
+            "Year Ended": "20,920.77"
+          },
+          {
+            "S.No": "",
+            "Particulars": "All other reportable segments",
+            "Quarter Year Ended": "3 2.76",
+            "col_4": "7 .02",
+            "col_5": "-",
+            "Half Year Ended": "32.76",
+            "col_7": "-",
+            "Year Ended": "5 6.33"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Unallocable liabilities",
+            "Quarter Year Ended": "5 7.96",
+            "col_4": "5 9.45",
+            "col_5": "3 41.63",
+            "Half Year Ended": "57.96",
+            "col_7": "341.63",
+            "Year Ended": "8 0.89"
+          },
+          {
+            "S.No": "",
+            "Particulars": "Total liabilities from (continuing and discontinued operations)",
+            "Quarter Year Ended": "2 3,016.66",
+            "col_4": "2 2,849.24",
+            "col_5": "2 0,369.71",
+            "Half Year Ended": "2 3,016.66",
+            "col_7": "2 0,369.71",
+            "Year Ended": "2 1,057.99"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "75b07f79-ec29-41cb-9eed-34861cad506b",
+    "SCRIP_CD": 543645,
+    "XML_NAME": "ANN_543645_75B07F79-EC29-41CB-9EED-34861CAD506B",
+    "NEWSSUB": "Hindprakash Industries Ltd - 543645 - Announcement Under Regulation 30- Newspaper Publication Of Results",
+    "DT_TM": "2026-11-08T11:44:33.78",
+    "NEWS_DT": "2026-11-08T11:44:33.78",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7b149330-81ba-41d3-8a5e-6b687fa8b10c.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication of Results for the period ended on 30.09.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hindprakash-industries-ltd/hpil/543645/",
+    "SLONGNAME": "Hindprakash Industries Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T11:44:33",
+    "DissemDT": "2026-11-08T11:44:33.78",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 899254,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Hindprakash Industries Ltd announced that its standalone unaudited financial results for the quarter and half‑year ended 30 September 2026 were published in newspapers on 8 November 2026 (The Indian Express – English edition and Jay Hind – Gujarati edition).  \n- The announcement provides a QR code and web links to view the complete results on the company’s website (www.hindprakash.in) and the BSE/NSE portals; no specific financial figures are disclosed in the notice itself.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9cc552a9-3577-4de0-bdd2-6cc9935554e5",
+    "SCRIP_CD": 519299,
+    "XML_NAME": "ANN_519299_9CC552A9-3577-4DE0-BDD2-6CC9935554E5",
+    "NEWSSUB": "Prime Industries Ltd - 519299 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-08T11:35:25.82",
+    "NEWS_DT": "2026-11-08T11:35:25.82",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "25ba018e-c0ec-4f9a-bee9-12e1df66fe4b.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication of financial result for the quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/prime-industries-ltd/primind/519299/",
+    "SLONGNAME": "Prime Industries Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-08T11:35:25",
+    "DissemDT": "2026-11-08T11:35:25.82",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3294399,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The provided announcement text contains no clear financial figures, dates, or corporate decisions that can be extracted.  \n- Consequently, there are no identifiable key numbers or financial details to summarize.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "53bd6fa3-b90c-42d2-85f8-721d04fc666d",
     "SCRIP_CD": 500336,
     "XML_NAME": "ANN_500336_53BD6FA3-B90C-42D2-85F8-721D04FC666D",
@@ -22776,117 +23458,6 @@
     "INVESTOR_PRESENTATION": null,
     "RECORDID": null,
     "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f202eac8-177f-4f08-8b70-4d3e013458bc",
-    "SCRIP_CD": 544863,
-    "XML_NAME": "ANN_544863_F202EAC8-177F-4F08-8B70-4D3E013458BC",
-    "NEWSSUB": "LAPL Automotive Ltd - 544863 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-07T19:00:22.23",
-    "NEWS_DT": "2026-11-07T19:00:22.23",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "636a638c-4528-4974-a455-16108fe3d0a7.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under the SEBI (Listing Obligations and Disclosure Requirements), Regulations 2015: Intimation of Earnings Call.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lapl-automotive-ltd/lapl/544863/",
-    "SLONGNAME": "LAPL Automotive Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-07T19:00:22",
-    "DissemDT": "2026-11-07T19:00:22.23",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 985214,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- LAPL Automotive Ltd will hold a virtual earnings call on **Wednesday, 18 November 2026 at 03:00 PM IST** to discuss its **unaudited financial results for the half‑year ended 30 September 2026** (no unpublished price‑sensitive information will be shared).  \n- The announcement contains **no specific financial figures, earnings numbers, or monetary decisions**—only the date, time, and format of the analyst/investor meeting.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "dc87e964-0f6c-41b3-9d26-6e3e75989116",
-    "SCRIP_CD": 533262,
-    "XML_NAME": "ANN_533262_DC87E964-0F6C-41B3-9D26-6E3E75989116",
-    "NEWSSUB": "Ramky Infrastructure Ltd - 533262 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-07T18:58:07.447",
-    "NEWS_DT": "2026-11-07T18:58:07.447",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7f71212a-22c6-4bf8-ba9e-9f2506cd0d44.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ramky-infrastructure-ltd/ramky/533262/",
-    "SLONGNAME": "Ramky Infrastructure Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-07T18:58:07",
-    "DissemDT": "2026-11-07T18:58:07.447",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1108813,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "534",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c0922067-9c80-45ea-8463-7577e7eb93df",
-    "SCRIP_CD": 505242,
-    "XML_NAME": "ANN_505242_C0922067-9C80-45EA-8463-7577E7EB93DF",
-    "NEWSSUB": "Dynamatic Technologies Ltd-$ - 505242 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-07T18:57:24.667",
-    "NEWS_DT": "2026-11-07T18:57:24.667",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ac9556dc-194b-4dee-adf0-aacb8b69d316.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Meeting Schedule",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dynamatic-technologies-ltd/dynamatech/505242/",
-    "SLONGNAME": "Dynamatic Technologies Ltd-$",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-07T18:57:24",
-    "DissemDT": "2026-11-07T18:57:24.667",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 565241,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "c0922067-9c80-45ea-8463-7577e7eb93df",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14813714,
-    "DataInsDate": "2026-11-07T18:57:24.64",
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
