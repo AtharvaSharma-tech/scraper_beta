@@ -1,5 +1,755 @@
 [
   {
+    "NEWSID": "d6bf5895-a1db-4b54-9fbb-bd089a302473",
+    "SCRIP_CD": 543275,
+    "XML_NAME": "ANN_543275_D6BF5895-A1DB-4B54-9FBB-BD089A302473",
+    "NEWSSUB": "Anupam Rasayan India Ltd - 543275 - Revised Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.",
+    "DT_TM": "2026-11-09T10:59:48.513",
+    "NEWS_DT": "2026-11-09T10:59:48.513",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "D6BF5895_A1DB_4B54_9FBB_BD089A302473_105941.pdf",
+    "MORE": "The Exchange has received the revised Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 on November 07, 2026 for Mona Anandbhai Desai",
+    "HEADLINE": "The Exchange has received the revised Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011 ....",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/anupam-rasayan-india-ltd/anuras/543275/",
+    "SLONGNAME": "Anupam Rasayan India Ltd",
+    "AGENDA_ID": 51,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-09T10:59:48.513",
+    "TimeDiff": null,
+    "Fld_Attachsize": null,
+    "SUBCATNAME": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "100000",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "SIN": "(i)",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "97200"
+          },
+          {
+            "SIN": "(ii)",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "5525"
+          },
+          {
+            "SIN": "(iii)",
+            "Particulars": "INVESTEC CREDIT FINANCE PRIVATE LIMITED",
+            "No. of Debentures": "5075"
+          },
+          {
+            "SIN": "(iv)",
+            "Particulars": "TAT A CAPITAL LIMITED",
+            "No. of Debentures": "10600"
+          },
+          {
+            "SIN": "(v)",
+            "Particulars": "ADITYA BIRLA CAPITAL LIMITED -",
+            "No. of Debentures": "15000"
+          },
+          {
+            "SIN": "(vi)",
+            "Particulars": "TRUST INVESTMENT ADVISORS PRIVATE LIMITED",
+            "No. of Debentures": "11600"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "SIN": "(i)",
+            "Particulars": "INDIAN CLEARING CORPORATION LIMITED",
+            "No. of Debentures": "990"
+          },
+          {
+            "SIN": "(ii)",
+            "Particulars": "KOT AK CREDIT OPPORTUNITIES FUND TRUST -KOT AK CREDIT OPPORTUNITIES FUND",
+            "No. of Debentures": ". 7070"
+          },
+          {
+            "SIN": "(iii)",
+            "Particulars": "TRUST INVESTMENT ADVISORS PRIVATE LIMITED",
+            "No. of Debentures": "2110"
+          },
+          {
+            "SIN": "(iv)",
+            "Particulars": "INVESTEC CREDIT FINANCE PRIVATE LIMITED",
+            "No. of Debentures": "5075"
+          },
+          {
+            "SIN": "(v)",
+            "Particulars": "TAT A CAP IT AL LIMITED",
+            "No. of Debentures": "10600"
+          },
+          {
+            "SIN": "(vi)",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "97200"
+          },
+          {
+            "SIN": "(vii)",
+            "Particulars": "ADITY A BIRLA CAPITAL LIMITED",
+            "No. of Debentures": "11430"
+          },
+          {
+            "SIN": "(viii)",
+            "Particulars": "SHREM INVESTMENTS PRIVATE LIMITED",
+            "No. of Debentures": "5000"
+          },
+          {
+            "SIN": "(ix)",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "5525"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "S/N": "(i)",
+            "Particulars": "KOTAK CREDIT OPPORTUNITIES FUND TRUST - KOTAK CREDIT OPPORTUNITIES FUND",
+            "No. of Debentures": "1460"
+          },
+          {
+            "S/N": "(ii)",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "20100"
+          },
+          {
+            "S/N": "(iii)",
+            "Particulars": "ADITY A BIRLA CAPITAL LIMITED",
+            "No. of Debentures": "4040"
+          },
+          {
+            "S/N": "(iv)",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "2200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "6c9cd73b-e3d2-458a-b853-0c704af6a7c6",
+    "SCRIP_CD": 544502,
+    "XML_NAME": "ANN_544502_6C9CD73B-E3D2-458A-B853-0C704AF6A7C6",
+    "NEWSSUB": "Amanta Healthcare Ltd - 544502 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-09T10:59:45.31",
+    "NEWS_DT": "2026-11-09T10:59:45.31",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6C9CD73B_E3D2_458A_B853_0C704AF6A7C6_105941.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Jitendrakumar Jashbhai Patel",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/amanta-healthcare-ltd/amanta/544502/",
+    "SLONGNAME": "Amanta Healthcare Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-09T10:59:45.31",
+    "TimeDiff": null,
+    "Fld_Attachsize": 385993,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 6 Nov 2026, promoter Jitendrakumar Jashbhai Patel bought 300,150 equity shares of Amanta Healthcare Ltd off‑market from MNJ Jackson Inc, representing a 0.77 % increase in voting rights and raising his total holding to 3,80,21,88 shares (9.79 % of the company’s 3,88,29,351‑share capital, up from 9.02 %).  \n\n- The transaction was a consideration‑based off‑market transfer; no new shares were issued and the company’s total equity share capital remains 3,88,29,351 shares of Rs 10 each.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e6a539bc-01bb-4548-8b9b-0011f0bde26a",
+    "SCRIP_CD": 540975,
+    "XML_NAME": "ANN_540975_E6A539BC-01BB-4548-8B9B-0011F0BDE26A",
+    "NEWSSUB": "Aster DM Quality Care Ltd - 540975 - Reports Of Audit Committee And Independent Directors Of The Company Certifying That The Company Has Compensated The Eligible Shareholders Of Quality Care India Limited Who Were Eligible For Fractional Shares Of The Company Pursuant To The Scheme",
+    "DT_TM": "2026-11-09T10:59:05.34",
+    "NEWS_DT": "2026-11-09T10:59:05.34",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "46294d11-d2da-470f-9a1f-3961f9532b09.pdf",
+    "MORE": "Reports of Audit Committee and Independent Directors of the Company certifying that the Company has compensated the eligible shareholders of Quality Care India Limited who were eligible for fractional shares of the Company pursuant to the Scheme of Amalgamation",
+    "HEADLINE": "Reports of Audit Committee and Independent Directors of the Company certifying that the Company has compensated the eligible shareholders of Quality Care India Limited who were eligible ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aster-dm-quality-care-ltd/asterdm/540975/",
+    "SLONGNAME": "Aster DM Quality Care Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:59:05",
+    "DissemDT": "2026-11-09T10:59:05.34",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2815013,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Share Allotment Pursuant to Amalgamation:** Following the amalgamation of Quality Care India Limited (QCIL) into the company effective July 1, 2026, the company approved the allotment of 35,35,51,410 equity shares of face value INR 10/- each on July 13, 2026, to eligible QCIL shareholders as of the July 9, 2026 record date.\n* **Fractional Share Compensation:** The allotment included 65 consolidated fractional shares issued to CTL Trusteeship Limited to hold in trust, and the Audit Committee issued a report certifying that the net proceeds from selling these fractional shares were distributed to eligible shareholders in proportion to their entitlements.",
+    "key_metrics": {
+      "face_value": "10"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f9e2e727-96aa-4c77-a81e-adccb2f403d8",
+    "SCRIP_CD": 511153,
+    "XML_NAME": "ANN_511153_F9E2E727-96AA-4C77-A81E-ADCCB2F403D8",
+    "NEWSSUB": "Anjani Foods Ltd - 511153 - Board Meeting Intimation for Inter-Alia To Consider Un-Audited Financial Results For The Quarter Ended September 30, 2026",
+    "DT_TM": "2026-11-09T10:56:37.437",
+    "NEWS_DT": "2026-11-09T10:56:37.437",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8683a8fd-183b-4921-a7db-3a5e4ff0189a.pdf",
+    "MORE": "Anjani Foods Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Un-Audited Financial results for the quarter ended September 30, 2026",
+    "HEADLINE": "Anjani Foods Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Un-Audited Financial results for ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/anjani-foods-ltd/anjanifoods/511153/",
+    "SLONGNAME": "Anjani Foods Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:56:36",
+    "DissemDT": "2026-11-09T10:56:37.437",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 1381954,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors will meet on **Friday, 13 November 2026** to **consider and record the un‑audited standalone and consolidated financial results for the quarter ended 30 September 2026** (no specific financial figures are disclosed in the notice).  \n- In line with the company’s Code of Conduct, the **trading window for the company’s securities is closed from 1 October 2026 until 48 hours after the Board meeting concludes**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "456813b2-390d-4b6f-86f8-8e4b9eb1d51c",
+    "SCRIP_CD": 543275,
+    "XML_NAME": "ANN_543275_456813B2-390D-4B6F-86F8-8E4B9EB1D51C",
+    "NEWSSUB": "Anupam Rasayan India Ltd - 543275 - Revised Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+    "DT_TM": "2026-11-09T10:54:34.027",
+    "NEWS_DT": "2026-11-09T10:54:34.027",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "456813B2_390D_4B6F_86F8_8E4B9EB1D51C_105424.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on November 07, 2026 for Mona Anandbhai Desai",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/anupam-rasayan-india-ltd/anuras/543275/",
+    "SLONGNAME": "Anupam Rasayan India Ltd",
+    "AGENDA_ID": 51,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-09T10:54:34.027",
+    "TimeDiff": null,
+    "Fld_Attachsize": 7391583,
+    "SUBCATNAME": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On",
+    "key_metrics": {
+      "face_value": "100000",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "SIN": "(i)",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "97200"
+          },
+          {
+            "SIN": "(ii)",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "5525"
+          },
+          {
+            "SIN": "(iii)",
+            "Particulars": "INVESTEC CREDIT FINANCE PRIVATE LIMITED",
+            "No. of Debentures": "5075"
+          },
+          {
+            "SIN": "(iv)",
+            "Particulars": "TAT A CAPITAL LIMITED",
+            "No. of Debentures": "10600"
+          },
+          {
+            "SIN": "(v)",
+            "Particulars": "ADITYA BIRLA CAPITAL LIMITED -",
+            "No. of Debentures": "15000"
+          },
+          {
+            "SIN": "(vi)",
+            "Particulars": "TRUST INVESTMENT ADVISORS PRIVATE LIMITED",
+            "No. of Debentures": "11600"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "SIN": "(i)",
+            "Particulars": "INDIAN CLEARING CORPORATION LIMITED",
+            "No. of Debentures": "990"
+          },
+          {
+            "SIN": "(ii)",
+            "Particulars": "KOT AK CREDIT OPPORTUNITIES FUND TRUST -KOT AK CREDIT OPPORTUNITIES FUND",
+            "No. of Debentures": ". 7070"
+          },
+          {
+            "SIN": "(iii)",
+            "Particulars": "TRUST INVESTMENT ADVISORS PRIVATE LIMITED",
+            "No. of Debentures": "2110"
+          },
+          {
+            "SIN": "(iv)",
+            "Particulars": "INVESTEC CREDIT FINANCE PRIVATE LIMITED",
+            "No. of Debentures": "5075"
+          },
+          {
+            "SIN": "(v)",
+            "Particulars": "TAT A CAP IT AL LIMITED",
+            "No. of Debentures": "10600"
+          },
+          {
+            "SIN": "(vi)",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "97200"
+          },
+          {
+            "SIN": "(vii)",
+            "Particulars": "ADITY A BIRLA CAPITAL LIMITED",
+            "No. of Debentures": "11430"
+          },
+          {
+            "SIN": "(viii)",
+            "Particulars": "SHREM INVESTMENTS PRIVATE LIMITED",
+            "No. of Debentures": "5000"
+          },
+          {
+            "SIN": "(ix)",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "5525"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "S/N": "(i)",
+            "Particulars": "KOTAK CREDIT OPPORTUNITIES FUND TRUST - KOTAK CREDIT OPPORTUNITIES FUND",
+            "No. of Debentures": "1460"
+          },
+          {
+            "S/N": "(ii)",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "20100"
+          },
+          {
+            "S/N": "(iii)",
+            "Particulars": "ADITY A BIRLA CAPITAL LIMITED",
+            "No. of Debentures": "4040"
+          },
+          {
+            "S/N": "(iv)",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "2200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "47567310-78f0-4957-99ca-8c0b6acb49e0",
+    "SCRIP_CD": 517166,
+    "XML_NAME": "ANN_517166_47567310-78F0-4957-99CA-8C0B6ACB49E0",
+    "NEWSSUB": "SPEL Semiconductor Ltd - 517166 - Board Meeting Intimation for To Consider Unaudited Results For The Quarter Ended 30Th September 2026",
+    "DT_TM": "2026-11-09T10:54:12.67",
+    "NEWS_DT": "2026-11-09T10:54:12.67",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "119d5340-c280-40d4-8b1c-7e83f005d201.pdf",
+    "MORE": "SPEL Semiconductor Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve To consider unaudited results for the quarter ended 30th September 2026",
+    "HEADLINE": "SPEL Semiconductor Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve To consider unaudited results ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/spel-semiconductor-ltd/spels/517166/",
+    "SLONGNAME": "SPEL Semiconductor Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:54:11",
+    "DissemDT": "2026-11-09T10:54:12.67",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 225537,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- A Board of Directors meeting of SPEL Semiconductor Ltd is scheduled for **Friday, 13 Nov 2026 at 10:00 am** to **consider and approve the unaudited standalone financial results for the quarter ended 30 Sep 2026**.  \n- The **trading window for designated persons and their immediate relatives was closed on 30 Sep 2026** and will remain closed **until 48 hours after the unaudited results for the quarter are declared**.  \n\n*No specific financial figures or performance numbers are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a51affdf-3693-490e-875f-efcf7104e316",
+    "SCRIP_CD": 543275,
+    "XML_NAME": "ANN_543275_A51AFFDF-3693-490E-875F-EFCF7104E316",
+    "NEWSSUB": "Anupam Rasayan India Ltd - 543275 - Revised Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+    "DT_TM": "2026-11-09T10:52:22.383",
+    "NEWS_DT": "2026-11-09T10:52:22.383",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "A51AFFDF_3693_490E_875F_EFCF7104E316_105213.pdf",
+    "MORE": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on November 07, 2026 for Anand Sureshbhai Desai & Shraddha Anand Desai",
+    "HEADLINE": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on November 07, 2026 for Anand Sureshbhai ....",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/anupam-rasayan-india-ltd/anuras/543275/",
+    "SLONGNAME": "Anupam Rasayan India Ltd",
+    "AGENDA_ID": 51,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-09T10:52:22.383",
+    "TimeDiff": null,
+    "Fld_Attachsize": 4242429,
+    "SUBCATNAME": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is a financial summary of the announcement:\n\n* **Share Pledge Details:** Promoter Anand Sureshbhai Desai pledged 31,40,000 shares (2.76% of total share capital) on September 22, 2026—raising his total encumbered holding to 69,75,780 shares (6.13%)—and pledged an additional 39,01,160 shares on September 23, 2026; promoter group member Shraddha Anand Desai also pledged 50,00,000 shares on September 23, 2026.\n* **Underlying Financial Facility:** The pledge was created in favor of CTL Trusteeship Limited for the benefit of Aditya Birla Capital Limited as security for the debt arising from the issuance of 14,500 Non-Convertible Debentures (NCDs) by the company, carrying a face value of INR 1,00,000 each and aggregating to INR 145 Crores.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "Anand Sureshbhai Desai",
+            "col_2": "1,10,76,940",
+            "col_3": "9.73% 6.84%",
+            "col_4": "69,75,780",
+            "col_5": "6.13% Creation -",
+            "col_6": "",
+            "col_7": "23.09.2026",
+            "col_8": "Pledge",
+            "Rasayan India Limited.": "Security for the due payment and discharge of the debt arising from the issuance and allotment of non- convertible debentures, by Mates Visa Consultancy Private Limited (wholly owned subsidiary of the Company) and Rehash Industrial And Resins Chemicals Private Limited.",
+            "col_10": "39,01,160",
+            "3.43%": "",
+            "col_12": "Catalyst Trusteeship Limited (Debenture Trustee) for the benefit of debenture holders as mentioned in AnnexureA forming part of this disclosure",
+            "col_13": "1,08,76,940 50,00,000",
+            "col_14": "9.55%"
+          },
+          {
+            "col_1": "Shraddha Anand Desai",
+            "col_2": "77,86,435",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "col_6": "Creation",
+            "col_7": "23.09.2026",
+            "col_8": "Pledge",
+            "Rasayan India Limited.": "Security for the due repayment of loan availed by Anand Sureshbhai Desai",
+            "col_10": "50,00,000",
+            "3.43%": "4.39%",
+            "col_12": "Tata Capital Limited",
+            "col_13": "",
+            "col_14": "4.39%"
+          },
+          {
+            "col_1": "Mona Anandbhai Desai",
+            "col_2": "41,40,625",
+            "col_3": "3.64%",
+            "col_4": "26,80,000",
+            "col_5": "2.35%",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "Rasayan India Limited.": "-",
+            "col_10": "-",
+            "3.43%": "-",
+            "col_12": "-",
+            "col_13": "26,80,000",
+            "col_14": "2.35%"
+          },
+          {
+            "col_1": "Ushma Deven Mehta (holding shares on behalf of Precision Financial Investments a partnership firm, in the capacity of the",
+            "col_2": "2,00,000 ,",
+            "col_3": "0.18%",
+            "col_4": "0",
+            "col_5": "0 -",
+            "col_6": "",
+            "col_7": "-",
+            "col_8": "-",
+            "Rasayan India Limited.": "-",
+            "col_10": "-",
+            "3.43%": "-",
+            "col_12": "-",
+            "col_13": "",
+            "col_14": ""
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Sr. No.": "1.",
+            "Particulars": "GSS INDIA OPPORTUNITIES AIF -SCHEME I",
+            "No. of Debentures": "20100"
+          },
+          {
+            "Sr. No.": "2.",
+            "Particulars": "EMERGING INDIA CREDIT OPPORTUNITIES FUND II",
+            "No. of Debentures": "775"
+          },
+          {
+            "Sr. No.": "3.",
+            "Particulars": "- ADITYA BIRLA CAPITAL LIMITED",
+            "No. of Debentures": "5500"
+          },
+          {
+            "Sr. No.": "4.",
+            "Particulars": "TATA CAPITAL LIMITED",
+            "No. of Debentures": "2200"
+          },
+          {
+            "Sr. No.": "5.",
+            "Particulars": "INVESTEC CREDIT FINANCE PRIVATE LIMITED",
+            "No. of Debentures": "1425"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "b175f7c9-485a-4219-a54a-111b0b49724b",
+    "SCRIP_CD": 531083,
+    "XML_NAME": "ANN_531083_B175F7C9-485A-4219-A54A-111B0B49724B",
+    "NEWSSUB": "Nihar Info Global Ltd - 531083 - Corporate Announcement Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - Nihar Info Global Limited Announces Diwali Soft Launch Of Goldnsilver.Shop With Commencement Of Commercial Transactions; Integrates Safegold, Digilocker, Cashfree And Sequel Logistics",
+    "DT_TM": "2026-11-09T10:48:06.8",
+    "NEWS_DT": "2026-11-09T10:48:06.8",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bb9618e5-40f0-48e7-a853-6f07f13e4002.pdf",
+    "MORE": "",
+    "HEADLINE": "The Company soft launched its proprietory integrated gold and silver digital platform, GoldnSilver.shop, on 08th November , 2026, on the occasion of Diwali.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nihar-info-global-ltd/niharinf/531083/",
+    "SLONGNAME": "Nihar Info Global Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:48:06",
+    "DissemDT": "2026-11-09T10:48:06.8",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3428825,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **8 Nov 2026 Diwali soft‑launch:** Nihar Info Global Ltd launched its integrated gold‑and‑silver digital platform GoldnSilver.shop, with commercial transactions for physical gold & silver and digital gold (via SafeGold) going live on the same day; DigiLocker onboarding and Cashfree payments were also enabled, and Sequel Logistics was integrated for delivery.\n\n- **Phased expansion timeline:** The company aims to roll out gold & silver ETFs (Zerodha integration) by **Nov 2026**, and to introduce gold‑loan referral and gold‑buyback services within **≈ 3 months** of the launch, subject to partnership, technology and regulatory clearances.  \n\n*No specific financial figures or monetary decisions are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "649ef902-fb30-48f4-a27c-d0490db4452e",
+    "SCRIP_CD": 543989,
+    "XML_NAME": "ANN_543989_649EF902-FB30-48F4-A27C-D0490DB4452E",
+    "NEWSSUB": "Sai Silks (Kalamandir) Ltd - 543989 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-09T10:46:05.94",
+    "NEWS_DT": "2026-11-09T10:46:05.94",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "73110567-88e8-481a-9239-542b2686eb36.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor meeting on November 11, 2026 at 11.00 am virtually",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sai-silks-(kalamandir)-ltd/kalamandir/543989/",
+    "SLONGNAME": "Sai Silks (Kalamandir) Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:46:05",
+    "DissemDT": "2026-11-09T10:46:05.94",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 476892,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "649ef902-fb30-48f4-a27c-d0490db4452e",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14815773,
+    "DataInsDate": "2026-11-09T10:46:05.89",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Sai Silks (Kalamandir) Ltd has scheduled a virtual analyst/institutional investor meeting for **Wednesday, 11 November 2026 at 11:00 AM IST** (as per Regulation 30 of SEBI LODR).  \n- The announcement contains **no financial figures, dates of earnings releases, or other monetary decisions**—it is solely an intimation of the investor‑meet schedule.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "64936a52-eff1-44b5-8d2c-7b6f402261a2",
+    "SCRIP_CD": 500510,
+    "XML_NAME": "ANN_500510_64936A52-EFF1-44B5-8D2C-7B6F402261A2",
+    "NEWSSUB": "Larsen & Toubro Ltd - 500510 - Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
+    "DT_TM": "2026-11-09T10:35:44.513",
+    "NEWS_DT": "2026-11-09T10:35:44.513",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8269aea9-54c0-4a24-a615-6dda0ab8f054.pdf",
+    "MORE": "",
+    "HEADLINE": "L&T bags (Significant*) order from Noida Metro for Aqua Line Extension",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/larsen--toubro-ltd/lt/500510/",
+    "SLONGNAME": "Larsen & Toubro Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:35:44",
+    "DissemDT": "2026-11-09T10:35:44.513",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1446143,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 9 Nov 2026, L&T’s Heavy Civil Infrastructure unit secured a **significant** order from Noida Metro Rail Corp. to design and construct a **15.1 km elevated viaduct** (Botanical Garden → Noida Sector‑142 and Depot → Boraki) and **10 elevated stations** with architectural finishes, to be completed within **36 months**.  \n\n- The announcement does **not disclose the contract’s monetary value**; only the",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "95724a64-5330-42d4-9dd2-8db23b175474",
+    "SCRIP_CD": 540975,
+    "XML_NAME": "ANN_540975_95724A64-5330-42D4-9DD2-8DB23B175474",
+    "NEWSSUB": "Aster DM Quality Care Ltd - 540975 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-09T10:35:38.99",
+    "NEWS_DT": "2026-11-09T10:35:38.99",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "eba1d7dd-34d5-4f5b-8aa5-5e53ba90c373.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication regarding unaudited financial results for the quarter and half year ended 30 September 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aster-dm-quality-care-ltd/asterdm/540975/",
+    "SLONGNAME": "Aster DM Quality Care Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T10:35:38",
+    "DissemDT": "2026-11-09T10:35:38.99",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4253111,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Newspaper Publication Notice:** On 8 November 2026, Aster DM Quality Care Limited submitted an intimation to the exchanges confirming that its unaudited financial results for the quarter and half year ended 30 September 2026 were published on 7 November 2026 in the *Financial Express* and *Andhra Jyothi* newspapers.\n* **Absence of Financial Details:** The announcement provides no financial figures, metrics, or financial decisions for Aster DM Quality Care Limited (the financial table visible in the document belongs to Gujarat Industries Power Company Limited, and Aster DM's specific results are unreadable/not provided).",
+    "key_metrics": {
+      "revenue": "8230.56",
+      "eps": "8",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "baeb0c8d-b3f5-4ea2-9a9b-01ec10261ee2",
     "SCRIP_CD": 541402,
     "XML_NAME": "ANN_541402_BAEB0C8D-B3F5-4EA2-9A9B-01EC10261EE2",
@@ -6766,870 +7516,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "- **Board approval & timeline:** On 7 November 2026, the Board of Directors of International Belting Limited (a wholly‑owned subsidiary of International Conveyors Ltd) approved converting the subsidiary from a Public Limited Company to a Private Limited Company, subject to shareholder, MCA Regional Director, and other statutory approvals.  \n\n- **Impact & name change:** Upon completion of the approvals, the subsidiary will be renamed “International Belting Private Limited.” The conversion is purely a legal status change and is stated to have **no material impact on the Company’s business operations**.  \n\n*No financial figures or monetary details are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a347918e-67a2-4393-8636-80ed86d4b671",
-    "SCRIP_CD": 543725,
-    "XML_NAME": "ANN_543725_A347918E-67A2-4393-8636-80ED86D4B671",
-    "NEWSSUB": "Elin Electronics Ltd - 543725 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-07T23:10:44.26",
-    "NEWS_DT": "2026-11-07T23:10:44.26",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7df20929-ae54-440f-9980-5a682457c59b.pdf",
-    "MORE": "",
-    "HEADLINE": "Attached",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/elin-electronics-ltd/elin/543725/",
-    "SLONGNAME": "Elin Electronics Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T23:10:44",
-    "DissemDT": "2026-11-07T23:10:44.26",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3924548,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "a347918e-67a2-4393-8636-80ed86d4b671",
-    "INVESTOR_PRESENTATION": "857bead0-777c-4a5c-9058-eaae0b7e7f41.pdf",
-    "RECORDID": 14813949,
-    "DataInsDate": "2026-11-07T23:10:44.183",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=857bead0-777c-4a5c-9058-eaae0b7e7f41.pdf",
-    "summary": "- **Q2 FY 2027 performance (quarter ended Sept 2026)**: Operating revenue rose 10% YoY to **₹413.2 crore** (vs ₹374.5 crore). Consolidated EBITDA fell to **₹14.1 crore** (down from ₹20.3 crore) with the margin slipping to **3.4%** (from 5.4%). Ex‑extraordinary PAT was **₹3.8 crore**, a sharp decline from **₹13.8 crore** a year earlier.  \n\n- **Regulatory",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "623cea20-fec0-43ba-992a-02a392589df2",
-    "SCRIP_CD": 544339,
-    "XML_NAME": "ANN_544339_623CEA20-FEC0-43BA-992A-02A392589DF2",
-    "NEWSSUB": "Laxmi Dental Ltd - 544339 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-07T22:41:44.947",
-    "NEWS_DT": "2026-11-07T22:41:44.947",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e3bb1f11-8bc2-4e96-bfc1-9e64917396ff.pdf",
-    "MORE": "",
-    "HEADLINE": "Earnings Call Transcript Q2 and H1 FY27",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/laxmi-dental-ltd/laxmidentl/544339/",
-    "SLONGNAME": "Laxmi Dental Ltd",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:41:44",
-    "DissemDT": "2026-11-07T22:41:44.947",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1056346,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Announcement & call details:** Laxmi Dental Ltd filed a Regulation 30 disclosure on 7 Nov 2026, enclosing the transcript of its Q2 FY27 & H1 FY27 earnings conference call held on 4 Nov 2026 at 10:00 a.m.",
-    "key_metrics": {
-      "net_profit": "49",
-      "operating_profit": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "96cbe9c8-3e4f-4e91-8bb6-d8bc053834ae",
-    "SCRIP_CD": 543912,
-    "XML_NAME": "ANN_543912_96CBE9C8-3E4F-4E91-8BB6-D8BC053834AE",
-    "NEWSSUB": "Power and Instrumentation (Gujarat) Ltd - 543912 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-07T22:38:13.35",
-    "NEWS_DT": "2026-11-07T22:38:13.35",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "340092cb-4e31-4580-b92c-19c9f13c042d.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/power-and-instrumentation-(gujarat)-ltd/pigl/543912/",
-    "SLONGNAME": "Power and Instrumentation (Gujarat) Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:38:13",
-    "DissemDT": "2026-11-07T22:38:13.35",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5177704,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Announcement date & purpose:** On 7 Nov 2026, Power and Instrumentation (Gujarat) Ltd filed a Regulation 30 notice to the NSE and BSE, attaching its Investor Presentation for the quarter and half‑year ended 30 Sept 2026 (Q2 FY27 & H1 FY27).  \n\n- **Financial details:** The excerpt contains no specific financial numbers, figures, or decisions; it only references the presentation’s scope (business overview, performance, growth plans) without disclosing quantitative data.",
-    "key_metrics": {
-      "revenue": "77.14",
-      "net_profit": "20000",
-      "operating_profit": "20000",
-      "total_assets": "286.22",
-      "total_equity": "176.23",
-      "total_debt": "5.35",
-      "eps": "20000",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 21,
-        "table_index": 2,
-        "row_count": 19,
-        "rows": [
-          {
-            "Particulars (₹ Cr)": "",
-            "Quarterly": "Q2FY27",
-            "col_3": "Q2FY26",
-            "col_4": "YoY",
-            "col_5": "Q1FY27",
-            "col_6": "QoQ",
-            "Half-Yearly": "H1FY27",
-            "col_8": "H1FY26",
-            "col_9": "YoY",
-            "Annual": "FY26"
-          },
-          {
-            "Particulars (₹ Cr)": "Revenue from Operations",
-            "Quarterly": "77.14",
-            "col_3": "70.27",
-            "col_4": "9.78%",
-            "col_5": "48.90",
-            "col_6": "57.78%",
-            "Half-Yearly": "126.04",
-            "col_8": "111.58",
-            "col_9": "12.96%",
-            "Annual": "218.76"
-          },
-          {
-            "Particulars (₹ Cr)": "Cost of Materials Consumed",
-            "Quarterly": "1.18",
-            "col_3": "0.00",
-            "col_4": "",
-            "col_5": "2.59",
-            "col_6": "",
-            "Half-Yearly": "3.76",
-            "col_8": "0.00",
-            "col_9": "",
-            "Annual": "4.00"
-          },
-          {
-            "Particulars (₹ Cr)": "Purchase of Stock-in-Trade",
-            "Quarterly": "63.34",
-            "col_3": "65.71",
-            "col_4": "",
-            "col_5": "42.71",
-            "col_6": "",
-            "Half-Yearly": "106.05",
-            "col_8": "102.69",
-            "col_9": "",
-            "Annual": "196.32"
-          },
-          {
-            "Particulars (₹ Cr)": "Change in Inventories",
-            "Quarterly": "(0.66.)",
-            "col_3": "-3.37",
-            "col_4": "",
-            "col_5": "-4.72",
-            "col_6": "",
-            "Half-Yearly": "-5.38",
-            "col_8": "-5.41",
-            "col_9": "",
-            "Annual": "-18.32"
-          },
-          {
-            "Particulars (₹ Cr)": "Gross Profit",
-            "Quarterly": "13.28",
-            "col_3": "7.93",
-            "col_4": "40.28%",
-            "col_5": "8.32 Cr",
-            "col_6": "59.61%",
-            "Half-Yearly": "21.60",
-            "col_8": "14.31",
-            "col_9": "50.94%",
-            "Annual": "34.32"
-          },
-          {
-            "Particulars (₹ Cr)": "Gross Margin (%)",
-            "Quarterly": "17.21%",
-            "col_3": "11.28%",
-            "col_4": "",
-            "col_5": "17.01%",
-            "col_6": "",
-            "Half-Yearly": "17.31%",
-            "col_8": "12.82%",
-            "col_9": "",
-            "Annual": "15.69%"
-          },
-          {
-            "Particulars (₹ Cr)": "Employee Expenses",
-            "Quarterly": "1.64",
-            "col_3": "1.13",
-            "col_4": "",
-            "col_5": "1.36",
-            "col_6": "",
-            "Half-Yearly": "2.99",
-            "col_8": "2.19",
-            "col_9": "",
-            "Annual": "5.19"
-          },
-          {
-            "Particulars (₹ Cr)": "Other Expenses",
-            "Quarterly": "1.80",
-            "col_3": "0.20",
-            "col_4": "",
-            "col_5": "1.94",
-            "col_6": "",
-            "Half-Yearly": "4.05",
-            "col_8": "1.48",
-            "col_9": "",
-            "Annual": "8.58"
-          },
-          {
-            "Particulars (₹ Cr)": "EBITDA",
-            "Quarterly": "9.52",
-            "col_3": "6.57",
-            "col_4": "44.76%",
-            "col_5": "5.02",
-            "col_6": "89.70%",
-            "Half-Yearly": "14.53",
-            "col_8": "10.64",
-            "col_9": "36.58%",
-            "Annual": "22.97"
-          },
-          {
-            "Particulars (₹ Cr)": "EBITDA Margin (%)",
-            "Quarterly": "12,34%",
-            "col_3": "9.36%",
-            "col_4": "",
-            "col_5": "10.26%",
-            "col_6": "",
-            "Half-Yearly": "11.54%",
-            "col_8": "9.53%",
-            "col_9": "",
-            "Annual": "10.50%"
-          },
-          {
-            "Particulars (₹ Cr)": "Other Income",
-            "Quarterly": "0.32",
-            "col_3": "0.64",
-            "col_4": "",
-            "col_5": "0.44",
-            "col_6": "",
-            "Half-Yearly": "0.76",
-            "col_8": "0.89",
-            "col_9": "",
-            "Annual": "1.54"
-          },
-          {
-            "Particulars (₹ Cr)": "Depreciation",
-            "Quarterly": "0.31",
-            "col_3": "0.11",
-            "col_4": "",
-            "col_5": "0.30",
-            "col_6": "",
-            "Half-Yearly": "0.61",
-            "col_8": "0.16",
-            "col_9": "",
-            "Annual": "0.59"
-          },
-          {
-            "Particulars (₹ Cr)": "Finance Cost",
-            "Quarterly": "1.80",
-            "col_3": "0.80",
-            "col_4": "",
-            "col_5": "1.27",
-            "col_6": "",
-            "Half-Yearly": "3.08",
-            "col_8": "1.53",
-            "col_9": "",
-            "Annual": "4.61"
-          },
-          {
-            "Particulars (₹ Cr)": "Profit Before Tax",
-            "Quarterly": "7.71",
-            "col_3": "6.34",
-            "col_4": "",
-            "col_5": "3.89",
-            "col_6": "",
-            "Half-Yearly": "11.60",
-            "col_8": "9.84",
-            "col_9": "",
-            "Annual": "19.27"
-          },
-          {
-            "Particulars (₹ Cr)": "Tax",
-            "Quarterly": "1.49",
-            "col_3": "1.60",
-            "col_4": "",
-            "col_5": "0.84",
-            "col_6": "",
-            "Half-Yearly": "2.34",
-            "col_8": "2.51",
-            "col_9": "",
-            "Annual": "4.43"
-          },
-          {
-            "Particulars (₹ Cr)": "Profit After Tax",
-            "Quarterly": "6.21",
-            "col_3": "4.74",
-            "col_4": "31.91%",
-            "col_5": "3.05",
-            "col_6": "104.23%",
-            "Half-Yearly": "9.26",
-            "col_8": "7.32",
-            "col_9": "26.36%",
-            "Annual": "14.84"
-          },
-          {
-            "Particulars (₹ Cr)": "PAT Margin (%)",
-            "Quarterly": "8.06%",
-            "col_3": "6.71%",
-            "col_4": "",
-            "col_5": "6.23%",
-            "col_6": "",
-            "Half-Yearly": "3.93%",
-            "col_8": "6.57%",
-            "col_9": "",
-            "Annual": "6.78%"
-          },
-          {
-            "Particulars (₹ Cr)": "EPS (₹)",
-            "Quarterly": "2.80",
-            "col_3": "2.66",
-            "col_4": "",
-            "col_5": "1.44",
-            "col_6": "",
-            "Half-Yearly": "4.17",
-            "col_8": "4.16",
-            "col_9": "",
-            "Annual": "8.13"
-          }
-        ]
-      },
-      {
-        "page": 22,
-        "table_index": 2,
-        "row_count": 20,
-        "rows": [
-          {
-            "Assets": "",
-            "In INR crores": "Sep-26",
-            "col_3": "Mar-26"
-          },
-          {
-            "Assets": "Property, Plant & Equipment",
-            "In INR crores": "13.35",
-            "col_3": "12.57"
-          },
-          {
-            "Assets": "Capital Work-in-Progress",
-            "In INR crores": "1.85",
-            "col_3": "1.85"
-          },
-          {
-            "Assets": "Goodwill",
-            "In INR crores": "30.88",
-            "col_3": "30.88"
-          },
-          {
-            "Assets": "Intangible Assets",
-            "In INR crores": "1.44",
-            "col_3": "1.34"
-          },
-          {
-            "Assets": "Non-current Investments",
-            "In INR crores": "0.21",
-            "col_3": "0.20"
-          },
-          {
-            "Assets": "Other financial assets (non-current)",
-            "In INR crores": "71.10",
-            "col_3": "56.99"
-          },
-          {
-            "Assets": "Right-of-use assets",
-            "In INR crores": "0.50",
-            "col_3": "0.60"
-          },
-          {
-            "Assets": "Long-term Loans & Advances",
-            "In INR crores": "0.27",
-            "col_3": "0.24"
-          },
-          {
-            "Assets": "Other Non-current Assets",
-            "In INR crores": "0.25",
-            "col_3": "0.18"
-          },
-          {
-            "Assets": "Total Non-current Assets",
-            "In INR crores": "119.88",
-            "col_3": "104.88"
-          },
-          {
-            "Assets": "Inventories",
-            "In INR crores": "89.17",
-            "col_3": "83.79"
-          },
-          {
-            "Assets": "Trade Receivables",
-            "In INR crores": "41.78",
-            "col_3": "41.77"
-          },
-          {
-            "Assets": "Cash & Cash Equivalents",
-            "In INR crores": "1.11",
-            "col_3": "3.77"
-          },
-          {
-            "Assets": "Bank balances other than cash and cash equivalents",
-            "In INR crores": "",
-            "col_3": "0.01"
-          },
-          {
-            "Assets": "Short-term Loans & Advances",
-            "In INR crores": "0.86",
-            "col_3": "0.54"
-          },
-          {
-            "Assets": "Other financial assets (current)",
-            "In INR crores": "8.71",
-            "col_3": "2.80"
-          },
-          {
-            "Assets": "Other Current Assets",
-            "In INR crores": "0.24",
-            "col_3": "0.23"
-          },
-          {
-            "Assets": "Total Current Assets",
-            "In INR crores": "166.34",
-            "col_3": "156.10"
-          },
-          {
-            "Assets": "Total Assets",
-            "In INR crores": "286.22",
-            "col_3": "260.98"
-          }
-        ]
-      },
-      {
-        "page": 22,
-        "table_index": 3,
-        "row_count": 20,
-        "rows": [
-          {
-            "Equity & Liabilities": "",
-            "In INR crores": "Sep-26",
-            "col_3": "Mar-26"
-          },
-          {
-            "Equity & Liabilities": "Equity Share Capital",
-            "In INR crores": "21.17",
-            "col_3": "21.17"
-          },
-          {
-            "Equity & Liabilities": "Other Equity",
-            "In INR crores": "140.04",
-            "col_3": "131.47"
-          },
-          {
-            "Equity & Liabilities": "Equity Attributable to Owners",
-            "In INR crores": "161.20",
-            "col_3": "152.64"
-          },
-          {
-            "Equity & Liabilities": "Non-controlling Interest",
-            "In INR crores": "15.02",
-            "col_3": "14.72"
-          },
-          {
-            "Equity & Liabilities": "Total Equity",
-            "In INR crores": "176.23",
-            "col_3": "167.35"
-          },
-          {
-            "Equity & Liabilities": "Long-term Borrowings",
-            "In INR crores": "5.35",
-            "col_3": "11.63"
-          },
-          {
-            "Equity & Liabilities": "Deferred Tax Liabilities (net)",
-            "In INR crores": "1.57",
-            "col_3": "1.27"
-          },
-          {
-            "Equity & Liabilities": "Lease liabilities (non-current)",
-            "In INR crores": "-",
-            "col_3": "0.55"
-          },
-          {
-            "Equity & Liabilities": "Long-term Provisions",
-            "In INR crores": "-",
-            "col_3": "0.46"
-          },
-          {
-            "Equity & Liabilities": "Total Non-current Liabilities",
-            "In INR crores": "6.93",
-            "col_3": "13.93"
-          },
-          {
-            "Equity & Liabilities": "Short-term Borrowings",
-            "In INR crores": "31.21",
-            "col_3": "20.66"
-          },
-          {
-            "Equity & Liabilities": "Lease liabilities (current)",
-            "In INR crores": "0.68",
-            "col_3": "0.24"
-          },
-          {
-            "Equity & Liabilities": "Trade Payables",
-            "In INR crores": "46.71",
-            "col_3": "42.17"
-          },
-          {
-            "Equity & Liabilities": "Other financial liabilities",
-            "In INR crores": "4.40",
-            "col_3": "0.39"
-          },
-          {
-            "Equity & Liabilities": "Other Current Liabilities",
-            "In INR crores": "15.45",
-            "col_3": "12.64"
-          },
-          {
-            "Equity & Liabilities": "Provisions",
-            "In INR crores": "0.83",
-            "col_3": "0.28"
-          },
-          {
-            "Equity & Liabilities": "Current Tax Liabilities (net)",
-            "In INR crores": "3.74",
-            "col_3": "3.29"
-          },
-          {
-            "Equity & Liabilities": "Total Current Liabilities",
-            "In INR crores": "103.06",
-            "col_3": "79.69"
-          },
-          {
-            "Equity & Liabilities": "Total Equity & Liabilities",
-            "In INR crores": "286.22",
-            "col_3": "260.98"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "ff2b7a43-74fe-422b-a967-f863f6d34ba9",
-    "SCRIP_CD": 530991,
-    "XML_NAME": "ANN_530991_FF2B7A43-74FE-422B-A967-F863F6D34BA9",
-    "NEWSSUB": "Roopa Industries Ltd - 530991 - Board Meeting Intimation for Intimation Regarding Board Meeting To Be Held On Saturday, 14Th November, 2026 To Consider And Approve The Unaudited Financial Results For The Half Year And Quarter Ended On 30Th September, 2026",
-    "DT_TM": "2026-11-07T22:37:55.1",
-    "NEWS_DT": "2026-11-07T22:37:55.1",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bbf7d0c8-38b3-4271-b1a2-8fbd3787ea58.pdf",
-    "MORE": "Roopa Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29(1) (a) and 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform that a meeting of the Board of Directors of the Company is scheduled to be held on Saturday, the 14th November, 2026 at the Corporate Office of the Company, inter alia, for considering and approving the Unaudited Financial Results for the half year and quarter ended 30th September 2026.\r\n\r\nThe ''Trading Window'' for dealing in the Securities of the company shall continue to remain closed for all Directors/ Officers/ designated persons of the Company till 48 hours after the results are made public on 14th November 2026.\r\n\r\n",
-    "HEADLINE": "Roopa Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Pursuant to Regulation 29(1) ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/roopa-industries-ltd/roopaind/530991/",
-    "SLONGNAME": "Roopa Industries Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:37:54",
-    "DissemDT": "2026-11-07T22:37:55.1",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 410081,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- A board meeting of Roopa Industries Ltd (Scrip 530991) is scheduled for **Saturday, 14 Nov 2026** at the company’s corporate office to **consider and approve the unaudited financial results for the half‑year and quarter ended 30 Sept 2026**.  \n\n- The **trading window** for directors, officers and designated persons will remain **closed until 48 hours after the results are publicly released on 14 Nov 2026**. **No specific financial figures or results are disclosed in",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cbf63d84-66d5-4e16-aec4-ed4ed2f03e59",
-    "SCRIP_CD": 521034,
-    "XML_NAME": "ANN_521034_CBF63D84-66D5-4E16-AEC4-ED4ED2F03E59",
-    "NEWSSUB": "Soma Textiles & Industries Ltd - 521034 - Board Meeting Intimation for Consideration And Approval Of Standalone And Consolidated Unaudited Financial Results Of The Company For The Quarter Ended 30Th September 2026",
-    "DT_TM": "2026-11-07T22:23:03.687",
-    "NEWS_DT": "2026-11-07T22:23:03.687",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6e5498dd-6bc0-471b-bcb8-a4d8b872c9df.pdf",
-    "MORE": "Soma Textiles & Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 11/11/2026 ,inter alia, to consider and approve Board Meeting Intimation for consideration and approval of Standalone and Consolidated Unaudited Financial Results of the Company for the quarter ended 30th September 2026, duly limited reviewed by the Auditors of the Company.",
-    "HEADLINE": "Soma Textiles & Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 11/11/2026 ,inter alia, to consider and approve Board Meeting Intimation ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/soma-textiles--industries-ltd/somatex/521034/",
-    "SLONGNAME": "Soma Textiles & Industries Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:23:02",
-    "DissemDT": "2026-11-07T22:23:03.687",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 327004,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors will meet on **Wednesday, 11 November 2026 at 3:30 PM (via video‑conferencing)** to consider and approve the **unaudited standalone and consolidated financial results for the quarter ended 30 September 2026**, together with the auditors’ limited review report.  \n\n- The company’s **trading window remains closed from 1 October 2026 until 48 hours after the public announcement of those unaudited results**, and will stay closed **through 13 November 2026**.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "245bf35a-56f6-4b66-aedd-566c8bdfdcd0",
-    "SCRIP_CD": 543930,
-    "XML_NAME": "ANN_543930_245BF35A-56F6-4B66-AEDD-566C8BDFDCD0",
-    "NEWSSUB": "Uravi Defence and Technology Ltd - 543930 - Board Meeting Intimation for  Intimation Of The Board Meeting Under Regulation 29 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
-    "DT_TM": "2026-11-07T22:23:00.643",
-    "NEWS_DT": "2026-11-07T22:23:00.643",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "aee582dc-7f3b-4fd4-bc34-2dededb0d936.pdf",
-    "MORE": "Uravi Defence And Technology Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve The Unaudited Standalone and Consolidated Financial results along with the limited review report thereon for the quarter and half year ended September 30, 2026.",
-    "HEADLINE": "Uravi Defence And Technology Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve The Unaudited ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/uravi-defence-and-technology-ltd/uravidef/543930/",
-    "SLONGNAME": "Uravi Defence and Technology Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:22:59",
-    "DissemDT": "2026-11-07T22:23:00.643",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 304387,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors will meet on **Saturday, 14 Nov 2026** to consider and approve the **unaudited standalone and consolidated financial results** (including a limited review report) for the **quarter and half‑year ended 30 Sept 2026**.  \n- The **trading window** for the company’s securities was **closed on 1 Oct 2026** and will reopen **48 hours after the results are declared**; no specific financial figures are disclosed in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3d27dc22-3bf8-4b0a-b0aa-c230643dceb3",
-    "SCRIP_CD": 524434,
-    "XML_NAME": "ANN_524434_3D27DC22-3BF8-4B0A-B0AA-C230643DCEB3",
-    "NEWSSUB": "Asian Petroproducts & Exports Ltd - 524434 - Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
-    "DT_TM": "2026-11-07T22:22:28.957",
-    "NEWS_DT": "2026-11-07T22:22:28.957",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "38925a11-027c-4d37-ab5e-ce3031c2280d.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find the attachment for Scrutinizer Report",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/asian-petroproducts--exports-ltd/asinpet/524434/",
-    "SLONGNAME": "Asian Petroproducts & Exports Ltd",
-    "AGENDA_ID": 28,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:22:28",
-    "DissemDT": "2026-11-07T22:22:28.957",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3234793,
-    "SUBCATNAME": "EGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Scrutinizer’s Report for the Extra‑Ordinary General Meeting (EGM) of Asian Petroproducts & Exports Ltd was submitted to BSE on **7 Nov 2026** (the EGM itself was held on **6 Nov 2026 at 12:30 PM** via video‑conferencing/other audio‑visual means).  \n- The announcement contains **no financial figures, decisions, or monetary resolutions**—it only reports the meeting date, time, and the filing of the voting‑result report.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "512745b0-972b-48ce-b20e-1c072d122216",
-    "SCRIP_CD": 544948,
-    "XML_NAME": "ANN_544948_512745B0-972B-48CE-B20E-1C072D122216",
-    "NEWSSUB": "Unitec Fibres Ltd - 544948 - Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-11-07T22:21:33.193",
-    "NEWS_DT": "2026-11-07T22:21:33.193",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "45c3d05e-8e11-4c5e-8e5f-0e942093faa2.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/unitec-fibres-ltd/unitec/544948/",
-    "SLONGNAME": "Unitec Fibres Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:21:33",
-    "DissemDT": "2026-11-07T22:21:33.193",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 681986,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- On 7 November 2026, Unitec Fibres Ltd’s Board approved delegating to Managing Director Virander Omjagdish Behl the authority to negotiate and obtain short‑term borrowings and working‑capital facilities.  \n- The delegation permits borrowing up to **Rs 20 crore** at any time, to be used for operational and temporary working‑capital needs and liquidity management.",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "19589339-1c2a-41ea-9639-acedf7651f0a",
-    "SCRIP_CD": 539469,
-    "XML_NAME": "ANN_539469_19589339-1C2A-41EA-9639-ACEDF7651F0A",
-    "NEWSSUB": "Panorama Studios International Ltd - 539469 - Board Meeting Intimation for  Intimation Under The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Board Meeting Of Directors Scheduled To Be Held On Saturday 14Th November 2026.",
-    "DT_TM": "2026-11-07T22:09:02.13",
-    "NEWS_DT": "2026-11-07T22:09:02.13",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5c43702b-e7f4-4abf-9bdb-66b1590637f9.pdf",
-    "MORE": "Panorama Studios International Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve As per Intimation Attached.",
-    "HEADLINE": "Panorama Studios International Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve As per Intimation Attached.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/panorama-studios-international-ltd/panorama/539469/",
-    "SLONGNAME": "Panorama Studios International Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:09:01",
-    "DissemDT": "2026-11-07T22:09:02.13",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 269149,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors of Panorama Studios International Ltd will meet on **Saturday, 14 November 2026** at its registered office in Andheri (West), Mumbai, to consider agenda items under SEBI LODR regulations.  \n- The meeting will **review and approve the unaudited standalone and consolidated financial results (and the limited review report) for the quarter and half‑year ended 30 September 2026**; no specific financial figures are disclosed in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "912ddbc2-0582-481f-9464-c98d92148720",
-    "SCRIP_CD": 544703,
-    "XML_NAME": "ANN_544703_912DDBC2-0582-481F-9464-C98D92148720",
-    "NEWSSUB": "DCM Shriram Fine Chemicals Ltd - 544703 - Board Meeting Intimation for Considering And Approving The Unaudited Financial Results (Both Standalone And Consolidated) For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-07T22:06:48.16",
-    "NEWS_DT": "2026-11-07T22:06:48.16",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6477b331-bac2-4dd4-9f91-41fa0661dbff.pdf",
-    "MORE": "DCM Shriram Fine Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the unaudited financial results (both standalone and consolidated) for the quarter and half year ended September 30, 2026",
-    "HEADLINE": "DCM Shriram Fine Chemicals Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the unaudited financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dcm-shriram-fine-chemicals-ltd/dsfcl/544703/",
-    "SLONGNAME": "DCM Shriram Fine Chemicals Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T22:06:47",
-    "DissemDT": "2026-11-07T22:06:48.16",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 399370,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "96c1ab9d-38b0-4bc4-9235-67d34bb88934",
-    "SCRIP_CD": 511131,
-    "XML_NAME": "ANN_511131_96C1AB9D-38B0-4BC4-9235-67D34BB88934",
-    "NEWSSUB": "Kamanwala Housing Construction Ltd - 511131 - Board Meeting Intimation for Board Meeting To Be Held On Saturday, November 14, 2026.",
-    "DT_TM": "2026-11-07T21:59:52.21",
-    "NEWS_DT": "2026-11-07T21:59:52.21",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5ad54dce-e396-494f-9da1-09340a2b0414.pdf",
-    "MORE": "Kamanwala Housing Construction Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve and take on record the Unaudited Financial Results (Standalone and Consolidated) for quarter and half year ended 30th September 2026 along with Limited Review Report and any other business items as per agenda circulated.",
-    "HEADLINE": "Kamanwala Housing Construction Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve and take on ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kamanwala-housing-construction-ltd/kamanwala/511131/",
-    "SLONGNAME": "Kamanwala Housing Construction Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T21:59:50",
-    "DissemDT": "2026-11-07T21:59:52.21",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 414298,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board meeting scheduled:** Saturday, 14 November 2026 at the company’s registered office (406‑New Udyog Mandir‑2, Mogul Lane, Mahim‑West, Mumbai) to consider and approve the unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 September 2026, together with the Limited Review Report.  \n\n- **Insider trading window:** Closed to all designated persons from 1 October 2026 and will remain closed until 48 hours after the financial results for the quarter and half",
     "key_metrics": {},
     "financial_tables": []
   }
