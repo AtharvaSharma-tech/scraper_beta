@@ -1,5 +1,122 @@
 [
   {
+    "NEWSID": "0972de3c-db34-40a2-bb7c-813471ff1056",
+    "SCRIP_CD": 538319,
+    "XML_NAME": "ANN_538319_0972DE3C-DB34-40A2-BB7C-813471FF1056",
+    "NEWSSUB": "GCM Capital Advisors Ltd - 538319 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-09T08:23:39.107",
+    "NEWS_DT": "2026-11-09T08:23:39.107",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "97999d84-b432-44a7-8c36-563539702e0d.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached Newspaper cuttings of publication of Unaudited Financial Results for HYE Sept 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gcm-capital-advisors-ltd/gcmcapi/538319/",
+    "SLONGNAME": "GCM Capital Advisors Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-09T08:23:39",
+    "DissemDT": "2026-11-09T08:23:39.107",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5390195,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary based strictly on the provided text:\n\n* **Publication Dates and Scope:** On November 9, 2026, GCM Capital Advisors Ltd informed BSE Limited that newspaper advertisements regarding its financial results for the half-year ended September 30, 2026 (H1FY2027), were published in English and Marathi newspapers on November 7, 2026.\n* **Absence of Company Financial Details:** The filing contains no financial figures or performance metrics for GCM Capital Advisors Ltd itself; the accompanying newspaper clippings display extracts for other separate entities.",
+    "key_metrics": {
+      "total_equity": "294662.10",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 3,
+        "row_count": 10,
+        "rows": [
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "Quarter Sr. Ended Particulars No. 30.09.2026 Unaudited",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "Half Year Corr Ended Quar",
+            "col_5": "esponding ter ended"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "",
+            "col_2": "",
+            "col_3": "30.09.2026",
+            "col_4": "30.09.2026 30.",
+            "col_5": "09.2025"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "",
+            "col_2": "",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited Un",
+            "col_5": "audited"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "1",
+            "col_2": "Total Income from Operations",
+            "col_3": "4.83",
+            "col_4": "10.17",
+            "col_5": "5.08"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "2",
+            "col_2": "Net Profit / (Loss) for the period (before Tax, Exceptional and/or Extraordinary items)",
+            "col_3": "-7.81",
+            "col_4": "-10.14 -",
+            "col_5": "15.82"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "3",
+            "col_2": "Net Profit/(Loss)for the period before tax (after Exceptional and/or Extraordinary items)",
+            "col_3": "-7.81",
+            "col_4": "-10.14 -",
+            "col_5": "15.82"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "4",
+            "col_2": "Net Profit / (Loss) for the period after tax (after Exceptional and/or Extraordinary items)",
+            "col_3": "-7.61",
+            "col_4": "-9.94 -",
+            "col_5": "15.82"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "5",
+            "col_2": "Total Comprehensive Income for the period [Comprising profit for the period (after tax) and other Comprehensive Income (after tax)]",
+            "col_3": "-7.61",
+            "col_4": "-9.94 -",
+            "col_5": "15.82"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "6",
+            "col_2": "Equity Share Capital",
+            "col_3": "444.13",
+            "col_4": "444.13 4",
+            "col_5": "44.13"
+          },
+          {
+            "Website : www.welterman.com Extract of Statement of Standalone Unaudited Financial Results for the Quarter and Half Year ended 30.09.2026": "7",
+            "col_2": "Earnings Per Share (of Rs. 10/- each)(for continuing and discontinued operations) Basic & Diluted",
+            "col_3": "- 0.17 - 0.22 -",
+            "col_4": "",
+            "col_5": "0.36"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "0361850e-3ff4-431b-b195-423799f7932e",
     "SCRIP_CD": 544484,
     "XML_NAME": "ANN_544484_0361850E-3FF4-431B-B195-423799F7932E",
@@ -10290,42 +10407,6 @@
     "DissemDT": "2026-11-07T21:16:06.183",
     "TimeDiff": "00:00:01",
     "Fld_Attachsize": 560032,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cb1fe0cc-4911-4dc4-ac98-a4bde189a51f",
-    "SCRIP_CD": 517170,
-    "XML_NAME": "ANN_517170_CB1FE0CC-4911-4DC4-AC98-A4BDE189A51F",
-    "NEWSSUB": "Edvenswa Enterprises Ltd - 517170 - Board Meeting Intimation for Consideration And Approval Of Unaudited Financial Results For The Half Year Ended On September 30, 2026",
-    "DT_TM": "2026-11-07T21:15:24.477",
-    "NEWS_DT": "2026-11-07T21:15:24.477",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "39d752b0-a14d-4c84-84cf-c5464efae147.pdf",
-    "MORE": "Edvenswa Enterprises Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Financial Results for the half year ended on September 30, 2026",
-    "HEADLINE": "Edvenswa Enterprises Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve Unaudited Financial Results ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/edvenswa-enterprises-ltd/edvenswa/517170/",
-    "SLONGNAME": "Edvenswa Enterprises Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-07T21:15:23",
-    "DissemDT": "2026-11-07T21:15:24.477",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 412123,
     "SUBCATNAME": "Board Meeting",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
