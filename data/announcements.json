@@ -1,5 +1,1345 @@
 [
   {
+    "NEWSID": "a0e978ca-9bd1-4684-a46c-a41c1c0a06a8",
+    "SCRIP_CD": 544022,
+    "XML_NAME": "ANN_544022_A0E978CA-9BD1-4684-A46C-A41C1C0A06A8",
+    "NEWSSUB": "ASK Automotive Ltd - 544022 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-09T22:46:30.167",
+    "NEWS_DT": "2026-11-09T22:46:30.167",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8dab0591-1a7c-4196-9e0c-9f02baf6a55a.pdf",
+    "MORE": "Please find enclosed herewith transcript of Investor/analyst Call organized on November 04, 2026, post declaration of Unaudited  Financial Results of the Company (Standalone and Consolidated) for the quarter and half year ended on September 30, 2026.",
+    "HEADLINE": "Please find enclosed herewith transcript of Investor/analyst Call organized on November 04, 2026, post declaration of Unaudited  Financial Results of the Company (Standalone and Consolidated) ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ask-automotive-ltd/askautoltd/544022/",
+    "SLONGNAME": "ASK Automotive Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-11-09T22:46:30",
+    "DissemDT": "2026-11-09T22:46:30.167",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 799353,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Key operating metrics (H1 FY 2026‑27):**  \n  - Indian vehicle production rose **20.3% YoY**; two‑wheeler output reached **153.7 lakh units**, up **19.5%** from 128.6 lakh units in H1 FY 2025‑26.  \n  - Q2 FY 2026‑27 two‑wheeler production was **81 lakh units**, versus **69.5 lakh units** in the same quarter a year earlier.  \n\n- **Timeline & disclosure:**  \n  - The unaudited",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "102 crore",
+      "operating_profit": "185 crore",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "0cac131b-6a68-4c78-9af0-73f64f3f5df4",
+    "SCRIP_CD": 526433,
+    "XML_NAME": "ANN_526433_0CAC131B-6A68-4C78-9AF0-73F64F3F5DF4",
+    "NEWSSUB": "ASM Technologies Ltd - 526433 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-09T22:43:29.57",
+    "NEWS_DT": "2026-11-09T22:43:29.57",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f77bc956-9a99-49b9-a346-3a3cb12a454c.pdf",
+    "MORE": "",
+    "HEADLINE": "Enclosed",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/asm-technologies-ltd/asmtec/526433/",
+    "SLONGNAME": "ASM Technologies Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-11-09T22:43:29",
+    "DissemDT": "2026-11-09T22:43:29.57",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4455670,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement provides ASM Technologies Ltd.’s Investor Presentation for the quarter ended September 2026 (Q2 FY27) and notes that the presentation is available on the company’s website; no specific financial figures, dates of transactions, or decisions are disclosed in the text.  \n\n- Since the document contains only a regulatory filing notice and a safe‑harbor disclaimer, there are no quantitative financial details to report.",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "31 cr",
+      "operating_profit": "59 cr",
+      "total_assets": "722.1",
+      "total_equity": "353.5",
+      "total_debt": "81.6",
+      "eps": "23.64",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "Particulars (₹ Cr.)": "Revenue from Operations",
+            "Q2 FY27": "268.4",
+            "Q2 FY26": "154.5",
+            "Y-o-Y": "74%",
+            "H1 FY27": "467.2",
+            "H1 FY26": "277.4",
+            "Y-o-Y_1": "68%"
+          },
+          {
+            "Particulars (₹ Cr.)": "Cost of Goods Sold",
+            "Q2 FY27": "111.0",
+            "Q2 FY26": "52.3",
+            "Y-o-Y": "",
+            "H1 FY27": "180.1",
+            "H1 FY26": "80.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Employee Cost",
+            "Q2 FY27": "70.8",
+            "Q2 FY26": "52.6",
+            "Y-o-Y": "",
+            "H1 FY27": "130.9",
+            "H1 FY26": "101.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Other Expenses",
+            "Q2 FY27": "27.5",
+            "Q2 FY26": "19.2",
+            "Y-o-Y": "",
+            "H1 FY27": "51.0",
+            "H1 FY26": "39.7",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "EBITDA",
+            "Q2 FY27": "59.0",
+            "Q2 FY26": "30.5",
+            "Y-o-Y": "94%",
+            "H1 FY27": "105.2",
+            "H1 FY26": "56.2",
+            "Y-o-Y_1": "87%"
+          },
+          {
+            "Particulars (₹ Cr.)": "EBITDA Margin",
+            "Q2 FY27": "22.0%",
+            "Q2 FY26": "19.7%",
+            "Y-o-Y": "",
+            "H1 FY27": "22.5%",
+            "H1 FY26": "20.3%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Depreciation",
+            "Q2 FY27": "5.4",
+            "Q2 FY26": "3.2",
+            "Y-o-Y": "",
+            "H1 FY27": "10.4",
+            "H1 FY26": "6.1",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Other Income",
+            "Q2 FY27": "0.6",
+            "Q2 FY26": "1.3",
+            "Y-o-Y": "",
+            "H1 FY27": "2.4",
+            "H1 FY26": "2.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "EBIT",
+            "Q2 FY27": "54.3",
+            "Q2 FY26": "28.6",
+            "Y-o-Y": "90%",
+            "H1 FY27": "97.2",
+            "H1 FY26": "52.5",
+            "Y-o-Y_1": "85%"
+          },
+          {
+            "Particulars (₹ Cr.)": "EBIT Margin",
+            "Q2 FY27": "20.2%",
+            "Q2 FY26": "18.5%",
+            "Y-o-Y": "",
+            "H1 FY27": "20.8%",
+            "H1 FY26": "18.9%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Finance Cost",
+            "Q2 FY27": "5.6",
+            "Q2 FY26": "2.1",
+            "Y-o-Y": "",
+            "H1 FY27": "9.3",
+            "H1 FY26": "4.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Exceptional Item Gain / (Loss)",
+            "Q2 FY27": "0.0",
+            "Q2 FY26": "0.0",
+            "Y-o-Y": "",
+            "H1 FY27": "0.0",
+            "H1 FY26": "0.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Share in Profit/(loss) in JV and Associates",
+            "Q2 FY27": "-0.4",
+            "Q2 FY26": "-0.1",
+            "Y-o-Y": "",
+            "H1 FY27": "-0.6",
+            "H1 FY26": "-0.1",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Profit before Tax",
+            "Q2 FY27": "48.3",
+            "Q2 FY26": "26.4",
+            "Y-o-Y": "83%",
+            "H1 FY27": "87.3",
+            "H1 FY26": "47.7",
+            "Y-o-Y_1": "83%"
+          },
+          {
+            "Particulars (₹ Cr.)": "Profit before Tax Margin",
+            "Q2 FY27": "18.0%",
+            "Q2 FY26": "17.1%",
+            "Y-o-Y": "",
+            "H1 FY27": "18.7%",
+            "H1 FY26": "17.2%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Tax",
+            "Q2 FY27": "13.8",
+            "Q2 FY26": "7.2",
+            "Y-o-Y": "",
+            "H1 FY27": "26.0",
+            "H1 FY26": "13.1",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Profit After Tax (Before Non Controlling Interest)",
+            "Q2 FY27": "34.5",
+            "Q2 FY26": "19.1",
+            "Y-o-Y": "80%",
+            "H1 FY27": "61.3",
+            "H1 FY26": "34.7",
+            "Y-o-Y_1": "77%"
+          },
+          {
+            "Particulars (₹ Cr.)": "Non Controlling Interest",
+            "Q2 FY27": "3.8",
+            "Q2 FY26": "0.0",
+            "Y-o-Y": "",
+            "H1 FY27": "3.8",
+            "H1 FY26": "0.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "Profit After Tax",
+            "Q2 FY27": "30.7",
+            "Q2 FY26": "19.1",
+            "Y-o-Y": "60%",
+            "H1 FY27": "57.5",
+            "H1 FY26": "34.7",
+            "Y-o-Y_1": "66%"
+          },
+          {
+            "Particulars (₹ Cr.)": "Profit After Tax Margin",
+            "Q2 FY27": "11.4%",
+            "Q2 FY26": "12.4%",
+            "Y-o-Y": "",
+            "H1 FY27": "12.3%",
+            "H1 FY26": "12.5%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (₹ Cr.)": "EPS",
+            "Q2 FY27": "23.64",
+            "Q2 FY26": "13.09",
+            "Y-o-Y": "",
+            "H1 FY27": "42.02",
+            "H1 FY26": "23.76",
+            "Y-o-Y_1": ""
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Total Equity",
+            "Sep-26": "353.5",
+            "Mar-26": "307.0"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Share Capital",
+            "Sep-26": "14.6",
+            "Mar-26": "14.6"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Other Equity",
+            "Sep-26": "338.9",
+            "Mar-26": "292.5"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Non Controlling Interest",
+            "Sep-26": "44.6",
+            "Mar-26": "0.0"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Non-Current Liabilities",
+            "Sep-26": "99.2",
+            "Mar-26": "81.7"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "(i) Borrowings",
+            "Sep-26": "81.6",
+            "Mar-26": "68.7"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "(ii) Lease Liabilities",
+            "Sep-26": "9.4",
+            "Mar-26": "9.5"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Provisions",
+            "Sep-26": "8.2",
+            "Mar-26": "3.5"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Current Liabilities",
+            "Sep-26": "224.8",
+            "Mar-26": "114.2"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "(i) Borrowings",
+            "Sep-26": "112.1",
+            "Mar-26": "43.9"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "(ii) Trade Payables",
+            "Sep-26": "35.5",
+            "Mar-26": "28.0"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "(iii) Lease Liability",
+            "Sep-26": "5.8",
+            "Mar-26": "5.6"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "(iv) Other Financial Liabilities",
+            "Sep-26": "2.6",
+            "Mar-26": "1.6"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Other Current Liabilities",
+            "Sep-26": "35.8",
+            "Mar-26": "21.8"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Provisions",
+            "Sep-26": "33.1",
+            "Mar-26": "13.2"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Total Equity & Liabilities",
+            "Sep-26": "722.1",
+            "Mar-26": "502.9"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Assets (in Rs. Crs)": "Non - Current Assets",
+            "Sep-26": "286.0",
+            "Mar-26": "204.8"
+          },
+          {
+            "Assets (in Rs. Crs)": "Property, plant and equipment",
+            "Sep-26": "104.0",
+            "Mar-26": "93.0"
+          },
+          {
+            "Assets (in Rs. Crs)": "Goodwill",
+            "Sep-26": "80.6",
+            "Mar-26": "12.2"
+          },
+          {
+            "Assets (in Rs. Crs)": "Intangible assets",
+            "Sep-26": "9.2",
+            "Mar-26": "14.7"
+          },
+          {
+            "Assets (in Rs. Crs)": "Intangibles under development",
+            "Sep-26": "2.5",
+            "Mar-26": "6.7"
+          },
+          {
+            "Assets (in Rs. Crs)": "Financial Assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Assets (in Rs. Crs)": "Investments",
+            "Sep-26": "22.6",
+            "Mar-26": "20.3"
+          },
+          {
+            "Assets (in Rs. Crs)": "Deferred tax assets (net)",
+            "Sep-26": "8.7",
+            "Mar-26": "9.3"
+          },
+          {
+            "Assets (in Rs. Crs)": "Other non-current assets",
+            "Sep-26": "58.4",
+            "Mar-26": "48.6"
+          },
+          {
+            "Assets (in Rs. Crs)": "Current Assets",
+            "Sep-26": "436.1",
+            "Mar-26": "298.1"
+          },
+          {
+            "Assets (in Rs. Crs)": "Inventories",
+            "Sep-26": "111.0",
+            "Mar-26": "69.6"
+          },
+          {
+            "Assets (in Rs. Crs)": "Financial Assets",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Assets (in Rs. Crs)": "(i)Investments",
+            "Sep-26": "16.0",
+            "Mar-26": "68.0"
+          },
+          {
+            "Assets (in Rs. Crs)": "(ii)Trade receivables",
+            "Sep-26": "247.4",
+            "Mar-26": "115.7"
+          },
+          {
+            "Assets (in Rs. Crs)": "(ii)Cash and cash equivalents",
+            "Sep-26": "23.4",
+            "Mar-26": "6.3"
+          },
+          {
+            "Assets (in Rs. Crs)": "(iii)Bank balances other than cash and cash equivalents",
+            "Sep-26": "24.7",
+            "Mar-26": "22.9"
+          },
+          {
+            "Assets (in Rs. Crs)": "(iv) Loans",
+            "Sep-26": "0.0",
+            "Mar-26": "0.0"
+          },
+          {
+            "Assets (in Rs. Crs)": "Other Financial Assets",
+            "Sep-26": "2.5",
+            "Mar-26": "2.5"
+          },
+          {
+            "Assets (in Rs. Crs)": "Other Current Assets",
+            "Sep-26": "11.0",
+            "Mar-26": "13.1"
+          },
+          {
+            "Assets (in Rs. Crs)": "Total Assets",
+            "Sep-26": "722.1",
+            "Mar-26": "502.9"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars (Rs. Crs)": "Net Profit Before Tax",
+            "Sep-26": "87.3",
+            "Sep-25": "47.7"
+          },
+          {
+            "Particulars (Rs. Crs)": "Adjustments for: Non -Cash Items / Other Investment or Financial Items",
+            "Sep-26": "18.1",
+            "Sep-25": "8.9"
+          },
+          {
+            "Particulars (Rs. Crs)": "Operating profit before working capital changes",
+            "Sep-26": "105.4",
+            "Sep-25": "56.6"
+          },
+          {
+            "Particulars (Rs. Crs)": "Changes in working capital",
+            "Sep-26": "-129.5",
+            "Sep-25": "5.2"
+          },
+          {
+            "Particulars (Rs. Crs)": "Cash generated from Operations",
+            "Sep-26": "-24.1",
+            "Sep-25": "61.8"
+          },
+          {
+            "Particulars (Rs. Crs)": "Direct taxes paid (net of refund)",
+            "Sep-26": "6.6",
+            "Sep-25": "11.8"
+          },
+          {
+            "Particulars (Rs. Crs)": "Net Cash from Operating Activities",
+            "Sep-26": "-30.6",
+            "Sep-25": "50"
+          },
+          {
+            "Particulars (Rs. Crs)": "Net Cash from Investing Activities",
+            "Sep-26": "3.0",
+            "Sep-25": "-101.6"
+          },
+          {
+            "Particulars (Rs. Crs)": "Net Cash from Financing Activities",
+            "Sep-26": "44.8",
+            "Sep-25": "52.8"
+          },
+          {
+            "Particulars (Rs. Crs)": "Net Decrease in Cash and Cash equivalents",
+            "Sep-26": "17.1",
+            "Sep-25": "1.2"
+          },
+          {
+            "Particulars (Rs. Crs)": "Add: Cash & Cash equivalents at the beginning of the period",
+            "Sep-26": "6.3",
+            "Sep-25": "2.3"
+          },
+          {
+            "Particulars (Rs. Crs)": "Cash & Cash equivalents at the end of the period",
+            "Sep-26": "23.4",
+            "Sep-25": "3.5"
+          }
+        ]
+      },
+      {
+        "page": 27,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Profit and Loss (In ₹ Cr.)": "Revenue from Operations",
+            "FY26": "528.5",
+            "FY25": "288.8",
+            "FY24": "201.6",
+            "FY23": "220.4",
+            "FY22": "191.6"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Cost of Goods Sold",
+            "FY26": "124.6",
+            "FY25": "45.4",
+            "FY24": "22.9",
+            "FY23": "26.0",
+            "FY22": "9.7"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Employee Cost",
+            "FY26": "213.7",
+            "FY25": "152.6",
+            "FY24": "139.1",
+            "FY23": "138.9",
+            "FY22": "127.1"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Other Expenses",
+            "FY26": "89.1",
+            "FY25": "43.6",
+            "FY24": "33.6",
+            "FY23": "34.4",
+            "FY22": "33.9"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "EBITDA",
+            "FY26": "101.1",
+            "FY25": "47.3",
+            "FY24": "6.0",
+            "FY23": "21.0",
+            "FY22": "21.0"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "EBITDA Margin (%)",
+            "FY26": "19.1%",
+            "FY25": "16.4%",
+            "FY24": "3.0%",
+            "FY23": "9.5%",
+            "FY22": "11.0%"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Depreciation",
+            "FY26": "14.0",
+            "FY25": "9.9",
+            "FY24": "11.3",
+            "FY23": "8.5",
+            "FY22": "4.4"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Other Income",
+            "FY26": "8.0",
+            "FY25": "8.8",
+            "FY24": "4.8",
+            "FY23": "6.3",
+            "FY22": "6.9"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "EBIT",
+            "FY26": "95.1",
+            "FY25": "46.2",
+            "FY24": "-0.5",
+            "FY23": "18.8",
+            "FY22": "23.5"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "EBIT Margin (%)",
+            "FY26": "18.0%",
+            "FY25": "16.0%",
+            "FY24": "-0.2%",
+            "FY23": "8.5%",
+            "FY22": "12.3%"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Finance Cost",
+            "FY26": "8.8",
+            "FY25": "11.8",
+            "FY24": "9.9",
+            "FY23": "7.2",
+            "FY22": "5.6"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Exceptional Item Gain / (Loss)",
+            "FY26": "1.6",
+            "FY25": "-0.3",
+            "FY24": "",
+            "FY23": "",
+            "FY22": ""
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Share in Profit/(loss) in JV and Associates",
+            "FY26": "-0.6",
+            "FY25": "-0.1",
+            "FY24": "-0.2",
+            "FY23": "-0.3",
+            "FY22": "0.0"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Profit before Tax",
+            "FY26": "84.1",
+            "FY25": "34.1",
+            "FY24": "-10.6",
+            "FY23": "11.4",
+            "FY22": "17.9"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Profit before Tax Margin (%)",
+            "FY26": "15.9%",
+            "FY25": "11.8%",
+            "FY24": "-5.3%",
+            "FY23": "5.2%",
+            "FY22": "9.3%"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Tax",
+            "FY26": "23.4",
+            "FY25": "9.1",
+            "FY24": "-3.5",
+            "FY23": "4.2",
+            "FY22": "4.0"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Profit After Tax",
+            "FY26": "60.8",
+            "FY25": "25.1",
+            "FY24": "-7.2",
+            "FY23": "7.1",
+            "FY22": "13.9"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "Profit After Tax Margin (%)",
+            "FY26": "11.5%",
+            "FY25": "8.7%",
+            "FY24": "-3.5%",
+            "FY23": "3.2%",
+            "FY22": "7.2%"
+          },
+          {
+            "Profit and Loss (In ₹ Cr.)": "EPS",
+            "FY26": "41.65",
+            "FY25": "21.28",
+            "FY24": "-6.62",
+            "FY23": "6.94",
+            "FY22": "13.9"
+          }
+        ]
+      },
+      {
+        "page": 28,
+        "table_index": 0,
+        "row_count": 20,
+        "rows": [
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Total Equity",
+            "Mar-26": "307.0",
+            "Mar-25": "165.1",
+            "Mar-24": "136.0",
+            "Mar-23": "69.1",
+            "Mar-22": "65.5"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Share Capital",
+            "Mar-26": "14.6",
+            "Mar-25": "11.9",
+            "Mar-24": "11.8",
+            "Mar-23": "10.3",
+            "Mar-22": "10.0"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Other Equity",
+            "Mar-26": "292.5",
+            "Mar-25": "153.2",
+            "Mar-24": "129.8",
+            "Mar-23": "61.4",
+            "Mar-22": "55.7"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Non Controlling Interest",
+            "Mar-26": "",
+            "Mar-25": "0.0",
+            "Mar-24": "-5.5",
+            "Mar-23": "-2.7",
+            "Mar-22": "-0.3"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Non-Current Liabilities",
+            "Mar-26": "81.7",
+            "Mar-25": "21.5",
+            "Mar-24": "39.7",
+            "Mar-23": "30.5",
+            "Mar-22": "14.3"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Financial Liabilities",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": ""
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(i) Borrowings",
+            "Mar-26": "68.7",
+            "Mar-25": "9.8",
+            "Mar-24": "27.4",
+            "Mar-23": "19.8",
+            "Mar-22": "9.7"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(ii) Lease Liabilities",
+            "Mar-26": "9.5",
+            "Mar-25": "5.4",
+            "Mar-24": "9.6",
+            "Mar-23": "9.2",
+            "Mar-22": "3.0"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(ii) Other Financial Liabilities",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": ""
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Provisions",
+            "Mar-26": "3.5",
+            "Mar-25": "6.4",
+            "Mar-24": "2.7",
+            "Mar-23": "1.6",
+            "Mar-22": "1.6"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Other non current liabilities",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": ""
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Current Liabilities",
+            "Mar-26": "114.2",
+            "Mar-25": "103.7",
+            "Mar-24": "63.3",
+            "Mar-23": "69.1",
+            "Mar-22": "66.3"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Financial Liabilities",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": ""
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(i) Borrowings",
+            "Mar-26": "43.9",
+            "Mar-25": "66.7",
+            "Mar-24": "41.6",
+            "Mar-23": "41.2",
+            "Mar-22": "35.5"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(ii) Trade Payables",
+            "Mar-26": "28.0",
+            "Mar-25": "20.9",
+            "Mar-24": "5.5",
+            "Mar-23": "8.9",
+            "Mar-22": "15.2"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(iii) Lease Liability",
+            "Mar-26": "5.6",
+            "Mar-25": "4.4",
+            "Mar-24": "3.8",
+            "Mar-23": "3.9",
+            "Mar-22": "2.5"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "(iv) Other Financial Liabilities",
+            "Mar-26": "1.6",
+            "Mar-25": "0.9",
+            "Mar-24": "0.8",
+            "Mar-23": "0.9",
+            "Mar-22": "0.8"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Other Current Liabilities",
+            "Mar-26": "21.8",
+            "Mar-25": "8.9",
+            "Mar-24": "8.5",
+            "Mar-23": "8.7",
+            "Mar-22": "9.1"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Provisions",
+            "Mar-26": "13.2",
+            "Mar-25": "1.9",
+            "Mar-24": "3.0",
+            "Mar-23": "5.5",
+            "Mar-22": "3.3"
+          },
+          {
+            "Equity & Liabilities (in ₹ Cr.)": "Total Equity & Liabilities",
+            "Mar-26": "502.9",
+            "Mar-25": "290.3",
+            "Mar-24": "239.0",
+            "Mar-23": "168.6",
+            "Mar-22": "146.1"
+          }
+        ]
+      },
+      {
+        "page": 28,
+        "table_index": 1,
+        "row_count": 22,
+        "rows": [
+          {
+            "Assets (in ₹ Cr.)": "Non - Current Assets",
+            "Mar-26": "204.8",
+            "Mar-25": "109.0",
+            "Mar-24": "94.3",
+            "Mar-23": "83.4",
+            "Mar-22": "54.2"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Property, plant and equipment",
+            "Mar-26": "93.0",
+            "Mar-25": "47.4",
+            "Mar-24": "32.3",
+            "Mar-23": "31.3",
+            "Mar-22": "19.6"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Capital work-in-progress",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "1.0",
+            "Mar-22": ""
+          },
+          {
+            "Assets (in ₹ Cr.)": "Goodwill",
+            "Mar-26": "12.2",
+            "Mar-25": "12.2",
+            "Mar-24": "3.4",
+            "Mar-23": "0.1",
+            "Mar-22": "0.1"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Intangible assets",
+            "Mar-26": "14.7",
+            "Mar-25": "15.9",
+            "Mar-24": "13.3",
+            "Mar-23": "16.7",
+            "Mar-22": "8.3"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Intangibles under development",
+            "Mar-26": "6.7",
+            "Mar-25": "0.0",
+            "Mar-24": "0.0",
+            "Mar-23": "0.0",
+            "Mar-22": "0.0"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Financial Assets",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": ""
+          },
+          {
+            "Assets (in ₹ Cr.)": "Investments",
+            "Mar-26": "20.3",
+            "Mar-25": "16.7",
+            "Mar-24": "16.1",
+            "Mar-23": "15.1",
+            "Mar-22": "13.3"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Loans",
+            "Mar-26": "3.9",
+            "Mar-25": "3.2",
+            "Mar-24": "7.3",
+            "Mar-23": "2.2",
+            "Mar-22": "0.5"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Deferred tax assets (net)",
+            "Mar-26": "9.3",
+            "Mar-25": "12.2",
+            "Mar-24": "12.7",
+            "Mar-23": "9.0",
+            "Mar-22": "5.9"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Other non-current assets",
+            "Mar-26": "44.6",
+            "Mar-25": "1.4",
+            "Mar-24": "9.2",
+            "Mar-23": "8.1",
+            "Mar-22": "6.6"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Current Assets",
+            "Mar-26": "298.1",
+            "Mar-25": "181.4",
+            "Mar-24": "144.8",
+            "Mar-23": "85.2",
+            "Mar-22": "91.9"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Inventories",
+            "Mar-26": "69.6",
+            "Mar-25": "18.8",
+            "Mar-24": "4.5",
+            "Mar-23": "3.2",
+            "Mar-22": "9.3"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Financial Assets",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": ""
+          },
+          {
+            "Assets (in ₹ Cr.)": "(i)Investments",
+            "Mar-26": "68.0",
+            "Mar-25": "12.4",
+            "Mar-24": "11.5",
+            "Mar-23": "11.7",
+            "Mar-22": "11.1"
+          },
+          {
+            "Assets (in ₹ Cr.)": "(ii)Trade receivables",
+            "Mar-26": "115.7",
+            "Mar-25": "129.1",
+            "Mar-24": "51.7",
+            "Mar-23": "54.6",
+            "Mar-22": "56.9"
+          },
+          {
+            "Assets (in ₹ Cr.)": "(ii)Cash and cash equivalents",
+            "Mar-26": "6.3",
+            "Mar-25": "2.3",
+            "Mar-24": "2.2",
+            "Mar-23": "1.0",
+            "Mar-22": "2.0"
+          },
+          {
+            "Assets (in ₹ Cr.)": "(iii)Bank balances other than cash and cash equivalents",
+            "Mar-26": "22.9",
+            "Mar-25": "10.9",
+            "Mar-24": "70.8",
+            "Mar-23": "8.9",
+            "Mar-22": "7.3"
+          },
+          {
+            "Assets (in ₹ Cr.)": "(iv) Loans",
+            "Mar-26": "0.0",
+            "Mar-25": "0.0",
+            "Mar-24": "0.3",
+            "Mar-23": "0.4",
+            "Mar-22": "0.7"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Other Financial Assets",
+            "Mar-26": "2.5",
+            "Mar-25": "0.2",
+            "Mar-24": "0.2",
+            "Mar-23": "1.4",
+            "Mar-22": "1.0"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Other Current Assets",
+            "Mar-26": "13.1",
+            "Mar-25": "7.6",
+            "Mar-24": "3.7",
+            "Mar-23": "4.1",
+            "Mar-22": "3.6"
+          },
+          {
+            "Assets (in ₹ Cr.)": "Total Assets",
+            "Mar-26": "502.9",
+            "Mar-25": "290.3",
+            "Mar-24": "239.0",
+            "Mar-23": "168.6",
+            "Mar-22": "146.1"
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars (In ₹ Cr.)": "Net Profit Before Tax",
+            "Mar-26": "84.7",
+            "Mar-25": "34.2",
+            "Mar-24": "-10.4",
+            "Mar-23": "11.6",
+            "Mar-22": "17.9"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Adjustments for: Non -Cash Items / Other Investment or Financial Items",
+            "Mar-26": "18.0",
+            "Mar-25": "16.6",
+            "Mar-24": "19.5",
+            "Mar-23": "13.3",
+            "Mar-22": "7.1"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Operating profit before working capital changes",
+            "Mar-26": "102.7",
+            "Mar-25": "50.8",
+            "Mar-24": "9.1",
+            "Mar-23": "24.9",
+            "Mar-22": "25.1"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Changes in working capital",
+            "Mar-26": "-21.7",
+            "Mar-25": "-73.6",
+            "Mar-24": "-4.2",
+            "Mar-23": "0.7",
+            "Mar-22": "-5.4"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Cash generated from Operations",
+            "Mar-26": "81.0",
+            "Mar-25": "-22.9",
+            "Mar-24": "4.9",
+            "Mar-23": "25.7",
+            "Mar-22": "19.7"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Direct taxes paid (net of refund)",
+            "Mar-26": "13.0",
+            "Mar-25": "0.6",
+            "Mar-24": "5.5",
+            "Mar-23": "5.4",
+            "Mar-22": "5.8"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Net Cash from Operating Activities",
+            "Mar-26": "68.0",
+            "Mar-25": "-23.5",
+            "Mar-24": "-0.6",
+            "Mar-23": "20.2",
+            "Mar-22": "13.9"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Net Cash from Investing Activities",
+            "Mar-26": "-165.6",
+            "Mar-25": "32.7",
+            "Mar-24": "-65.8",
+            "Mar-23": "-25.1",
+            "Mar-22": "-8.9"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Net Cash from Financing Activities",
+            "Mar-26": "101.6",
+            "Mar-25": "-9.1",
+            "Mar-24": "67.6",
+            "Mar-23": "4.0",
+            "Mar-22": "-6.2"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Net Decrease in Cash and Cash equivalents",
+            "Mar-26": "4.0",
+            "Mar-25": "0.1",
+            "Mar-24": "1.18",
+            "Mar-23": "-0.9",
+            "Mar-22": "-1.2"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Add: Cash & Cash equivalents at the beginning of the period",
+            "Mar-26": "2.3",
+            "Mar-25": "2.2",
+            "Mar-24": "1.0",
+            "Mar-23": "2.0",
+            "Mar-22": "3.0"
+          },
+          {
+            "Particulars (In ₹ Cr.)": "Cash & Cash equivalents at the end of the period",
+            "Mar-26": "6.3",
+            "Mar-25": "2.3",
+            "Mar-24": "2.2",
+            "Mar-23": "1.0",
+            "Mar-22": "1.9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "803bff11-c2c5-4fec-8aab-382df6291600",
+    "SCRIP_CD": 526433,
+    "XML_NAME": "ANN_526433_803BFF11-C2C5-4FEC-8AAB-382DF6291600",
+    "NEWSSUB": "ASM Technologies Ltd - 526433 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-09T22:42:12.363",
+    "NEWS_DT": "2026-11-09T22:42:12.363",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "47fa43fe-def5-4ae9-9041-012f38ec1ec7.pdf",
+    "MORE": "",
+    "HEADLINE": "Enclosed",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/asm-technologies-ltd/asmtec/526433/",
+    "SLONGNAME": "ASM Technologies Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-11-09T22:42:12",
+    "DissemDT": "2026-11-09T22:42:12.363",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 518210,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- ASM Technologies Ltd submitted a notice to BSE on 9 Nov 2026 confirming that newspaper advertisements (in English and Kannada) have been published to disclose its Q2 FY 2026‑27 financial results for the quarter ended 30 Sep 2026, as required under SEBI Regulation 47.  \n- The same financial‑results information will also be posted on the company’s website (www.asmltd.com); no specific financial figures or quantitative results are provided in the announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b94dbffa-6ab1-4a0d-8b41-2a90fec8e3ad",
+    "SCRIP_CD": 532522,
+    "XML_NAME": "ANN_532522_B94DBFFA-6AB1-4A0D-8B41-2A90FEC8E3AD",
+    "NEWSSUB": "Petronet LNG Ltd - 532522 - Announcement under Regulation 30 (LODR)-Dividend Updates",
+    "DT_TM": "2026-11-09T22:39:33.53",
+    "NEWS_DT": "2026-11-09T22:39:33.53",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9c8fee6b-ef8a-40ba-a11d-120c57455f13.pdf",
+    "MORE": "",
+    "HEADLINE": "Communication to Shareholders regarding deduction of tax at source (TDS) on Interim Dividend for FY 2026-27",
+    "CATEGORYNAME": " Corp Action",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/petronet-lng-ltd/petronet/532522/",
+    "SLONGNAME": "Petronet LNG Ltd",
+    "AGENDA_ID": 130,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-11-09T22:39:33",
+    "DissemDT": "2026-11-09T22:39:33.53",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1176438,
+    "SUBCATNAME": "Dividend Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Interim dividend declared:** The Board approved an interim dividend of **₹7 per share (face value ₹10)** for FY 2026‑27 on **2 Nov 2026**; it will be paid **within 30 days** of the declaration to shareholders recorded as of the **record date – 6 Nov 2026**.  \n\n- **Tax and payment details:** The dividend is subject to **TDS** under the Income Tax",
+    "key_metrics": {
+      "dividend": "1.1"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "bd5100cb-2dab-4750-a3c5-d83bb1c4b427",
+    "SCRIP_CD": 543711,
+    "XML_NAME": "ANN_543711_BD5100CB-2DAB-4750-A3C5-D83BB1C4B427",
+    "NEWSSUB": "Sula Vineyards Ltd - 543711 - The Company Has Received An Order-In-Original Dated 30Th October, 2026, As Received By The Company On 8Th November, 2026 Under The Provisions Of Section 73 Of The Central Goods And Services Tax Act, 2017 ('CGST Act, 2017') And Section 73 Of The Maharashtra Goods And Services Tax Act, 2017 ('MGST Act, 2017') Confirming Differential Tax Payable Under The Provisions Of CGST Act, 2017 And MGST Act, 2017 Alongwith Applicable Interest And Penalty.\r\n\r\nThe Demand For Differential Tax Alongwith Applicable Penalty And Interest Has Been Confirmed Under The Order-In-Original. However, The Company Is In The Process Of Pursuing Appropriate Appellate Remedies Against The Said Order-In-Original, In Accordance With Applicable Law.\r\n",
+    "DT_TM": "2026-11-09T22:38:05.25",
+    "NEWS_DT": "2026-11-09T22:38:05.25",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ad6b33c2-b1ef-4f27-90b5-1c5e79b1ec26.pdf",
+    "MORE": "",
+    "HEADLINE": "as attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sula-vineyards-ltd/sula/543711/",
+    "SLONGNAME": "Sula Vineyards Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-11-09T22:38:05",
+    "DissemDT": "2026-11-09T22:38:05.25",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 737466,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr no": "1",
+            "Particulars": "Tax",
+            "Amount (in Rs.)": "1,54,34,022"
+          },
+          {
+            "Sr no": "2",
+            "Particulars": "Penalty",
+            "Amount (in Rs.)": "15,43,402"
+          },
+          {
+            "Sr no": "3",
+            "Particulars": "Interest",
+            "Amount (in Rs.)": "As applicable"
+          },
+          {
+            "Sr no": "Total",
+            "Particulars": "",
+            "Amount (in Rs.)": "1,69,77,424 (excluding interest)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "5b7ed11f-74eb-4ba4-a48d-73bdece5bf0a",
+    "SCRIP_CD": 544964,
+    "XML_NAME": "ANN_544964_5B7ED11F-74EB-4BA4-A48D-73BDECE5BF0A",
+    "NEWSSUB": "Acme Universal Safezone 9 Ltd - 544964 - Acme Universal Safezone 9 Limited Has Informed The Exchange Regarding Disclosure Under Regulation 7(2) Of SEBI (Prohibition Of Insider Trading) Regulations 2015",
+    "DT_TM": "2026-11-09T22:35:25.683",
+    "NEWS_DT": "2026-11-09T22:35:25.683",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "29a1c271-a78f-479b-8d31-7298439b6cc3.pdf",
+    "MORE": "",
+    "HEADLINE": "Acme Universal Safezone 9 Limited has informed the exchange regarding disclosure under regulation 7(2) of SEBI (Prohibition of Insider Trading) regulations 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/acme-universal-safezone-9-ltd/acmeuniv/544964/",
+    "SLONGNAME": "Acme Universal Safezone 9 Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 9,
+    "News_submission_dt": "2026-11-09T22:35:25",
+    "DissemDT": "2026-11-09T22:35:25.683",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1163189,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "77f920f9-3542-41ca-a521-e369d4c81858",
     "SCRIP_CD": 544111,
     "XML_NAME": "ANN_544111_77F920F9-3542-41CA-A521-E369D4C81858",
@@ -6253,221 +7593,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "081908eb-f045-4f39-ad6b-06c511ed4155",
-    "SCRIP_CD": 543920,
-    "XML_NAME": "ANN_543920_081908EB-F045-4F39-AD6B-06C511ED4155",
-    "NEWSSUB": "CFF Fluid Control Ltd - 543920 - Board Meeting Intimation for Meeting To Be Held On November 13, 2026",
-    "DT_TM": "2026-11-09T17:55:30.893",
-    "NEWS_DT": "2026-11-09T17:55:30.893",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1096b54a-11a3-43cc-8e47-31e5cf93318c.pdf",
-    "MORE": "CFF Fluid Control Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve The Unaudited Financial Results for the quarter and half year ended September 30, 2026 and any other items with the permission of Chairman.",
-    "HEADLINE": "CFF Fluid Control Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve The Unaudited Financial Results ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/cff-fluid-control-ltd/cff/543920/",
-    "SLONGNAME": "CFF Fluid Control Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-11-09T17:55:29",
-    "DissemDT": "2026-11-09T17:55:30.893",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 155837,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board meeting scheduled for Friday, 13 Nov 2026 (via video/ audio‑visual conference)** to consider and approve the unaudited financial results for the quarter and half‑year ended 30 Sept 2026, plus any other items approved by the Chairman.  \n- **Trading window:** currently closed; it will reopen **48 hours after the conclusion of the board meeting**.  \n\n*No specific financial figures or quantitative decisions are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7f489989-4b1f-4207-9be4-3572a48ae3c3",
-    "SCRIP_CD": 511764,
-    "XML_NAME": "ANN_511764_7F489989-4B1F-4207-9BE4-3572A48AE3C3",
-    "NEWSSUB": "Aastamangalam Finance Ltd - 511764 - Board Meeting Intimation for To Consider The Unaudited Results For Quarter Ended 30.09.2026",
-    "DT_TM": "2026-11-09T17:53:03.767",
-    "NEWS_DT": "2026-11-09T17:53:03.767",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fa55e33c-5220-4cb3-8c93-2dced4b9376b.pdf",
-    "MORE": "Aastamangalam Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve To consider the unaudited results for quarter ended 30.09.2026",
-    "HEADLINE": "Aastamangalam Finance Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2026 ,inter alia, to consider and approve To consider the unaudited ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aastamangalam-finance-ltd/aastafin/511764/",
-    "SLONGNAME": "Aastamangalam Finance Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-11-09T17:53:03",
-    "DissemDT": "2026-11-09T17:53:03.767",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 195486,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e4be771c-bb89-4bff-aeaa-d599308eb540",
-    "SCRIP_CD": 542772,
-    "XML_NAME": "ANN_542772_E4BE771C-BB89-4BFF-AEAA-D599308EB540",
-    "NEWSSUB": "360 ONE WAM LTD - 542772 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-09T17:52:57.96",
-    "NEWS_DT": "2026-11-09T17:52:57.96",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a7f7b57a-2cdc-4753-b9ce-089e946e6573.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Intimation of Schedule of Analysts / Institutional Investor Meeting.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/360-one-wam-ltd/360one/542772/",
-    "SLONGNAME": "360 ONE WAM LTD",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-11-09T17:52:57",
-    "DissemDT": "2026-11-09T17:52:57.96",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 636298,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "e4be771c-bb89-4bff-aeaa-d599308eb540",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14825438,
-    "DataInsDate": "2026-11-09T17:52:57.923",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "dd9a264c-ffde-4054-bead-8548d15e78e2",
-    "SCRIP_CD": 542649,
-    "XML_NAME": "ANN_542649_DD9A264C-FFDE-4054-BEAD-8548D15E78E2",
-    "NEWSSUB": "Rail Vikas Nigam Ltd - 542649 - Update on board meeting",
-    "DT_TM": "2026-11-09T17:48:53.073",
-    "NEWS_DT": "2026-11-09T17:48:53.073",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4afe343a-76e5-4b28-82b7-efdd3ae06daa.pdf",
-    "MORE": "",
-    "HEADLINE": "The Board Meeting to be held on 13/11/2026 has been revised to 12/11/2026 Intimation of Board Meeting- Re-schedule",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rail-vikas-nigam-ltd/rvnl/542649/",
-    "SLONGNAME": "Rail Vikas Nigam Ltd",
-    "AGENDA_ID": 101,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-11-09T17:48:51",
-    "DissemDT": "2026-11-09T17:48:53.073",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 1230303,
-    "SUBCATNAME": "Board Meeting Rescheduled",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d458fe1b-dd5c-447c-b9be-4c549eec4ba6",
-    "SCRIP_CD": 542772,
-    "XML_NAME": "ANN_542772_D458FE1B-DD5C-447C-B9BE-4C549EEC4BA6",
-    "NEWSSUB": "360 ONE WAM LTD - 542772 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-09T17:48:22.63",
-    "NEWS_DT": "2026-11-09T17:48:22.63",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cbb4d31a-24b5-4c29-891e-f736922d24a8.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Intimation of Schedule of Analysts / Institutional Investor Meeting.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/360-one-wam-ltd/360one/542772/",
-    "SLONGNAME": "360 ONE WAM LTD",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 7,
-    "News_submission_dt": "2026-11-09T17:48:22",
-    "DissemDT": "2026-11-09T17:48:22.63",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 636298,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "d458fe1b-dd5c-447c-b9be-4c549eec4ba6",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14825433,
-    "DataInsDate": "2026-11-09T17:48:22.6",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ca5f8aa2-ab26-472f-8f68-0d40fd1331e5",
-    "SCRIP_CD": 543244,
-    "XML_NAME": "ANN_543244_CA5F8AA2-AB26-472F-8F68-0D40FD1331E5",
-    "NEWSSUB": "Shine Fashions (India) Ltd - 543244 - Clarification sought from Shine Fashions (India) Ltd",
-    "DT_TM": "2026-11-09T17:48:10.07",
-    "NEWS_DT": "2026-11-09T17:48:10.07",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "",
-    "MORE": "The Exchange has sought clarification from Shine Fashions (India) Ltd on November 9, 2026 with reference to significant movement in price, in order to ensure that investors have latest relevant information about the company and to inform the market so that the interest of the investors is safeguarded.<BR><BR>The reply is awaited.",
-    "HEADLINE": "The Exchange has sought clarification from Shine Fashions (India) Ltd on November 9, 2026 with reference to significant movement in price, in order to ensure that investors have latest ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/shine-fashions-(india)-ltd/shinefash/543244/",
-    "SLONGNAME": "Shine Fashions (India) Ltd",
-    "AGENDA_ID": 17,
-    "TotalPageCnt": 7,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-09T17:48:10.07",
-    "TimeDiff": null,
-    "Fld_Attachsize": null,
-    "SUBCATNAME": "Clarification",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
   }
 ]
