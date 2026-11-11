@@ -1,5 +1,271 @@
 [
   {
+    "NEWSID": "37d75e19-f88a-4aa6-a70b-dbb00f45dc03",
+    "SCRIP_CD": 539798,
+    "XML_NAME": "ANN_539798_37D75E19-F88A-4AA6-A70B-DBB00F45DC03",
+    "NEWSSUB": "Umiya Tubes Ltd - 539798 - Update on board meeting",
+    "DT_TM": "2026-11-11T22:59:36.317",
+    "NEWS_DT": "2026-11-11T22:59:36.317",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "098aa6db-3451-4ef7-8a76-293974be5ddf.pdf",
+    "MORE": "The Board Meeting to be held on 13/11/2026 has been revised to 14/11/2026 The Board Meeting earlier scheduled to be held on 13/11/2026 has been revised to 14/11/2026 inter-alia to consider and approve the Un-audited Limited Reviewed Financial Results for the Quarter II and Half Year ended on September 30, 2026",
+    "HEADLINE": "The Board Meeting to be held on 13/11/2026 has been revised to 14/11/2026 The Board Meeting earlier scheduled to be held on 13/11/2026 has been revised to 14/11/2026 inter-alia to consider ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/umiya-tubes-ltd/umiya/539798/",
+    "SLONGNAME": "Umiya Tubes Ltd",
+    "AGENDA_ID": 101,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:59:35",
+    "DissemDT": "2026-11-11T22:59:36.317",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 688574,
+    "SUBCATNAME": "Board Meeting Rescheduled",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors will meet on **14 Nov 2026** to consider and approve the **unaudited limited‑reviewed financial results for Q2 ended 30 Sep 2026**.  \n- The company’s insider‑trading “window” is **closed from 1 Oct 2026** and will stay closed **until 48 hours after the board’s outcome is announced** to the stock exchange.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e9dcbda5-5945-4704-bf65-ccfec3e57974",
+    "SCRIP_CD": 532271,
+    "XML_NAME": "ANN_532271_E9DCBDA5-5945-4704-BF65-CCFEC3E57974",
+    "NEWSSUB": "Orchasp Ltd - 532271 - Unaudited Quarter Results For The Financial Results Ason  30-09-2026",
+    "DT_TM": "2026-11-11T22:57:45.21",
+    "NEWS_DT": "2026-11-11T22:57:45.21",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "40a3fd3c-c32e-4953-92ac-365f315dbb48.pdf",
+    "MORE": "",
+    "HEADLINE": "The Board of Directors has adopted the Unaudited Finacial Results for the Quarter Ending 30-09-2026- Consolidated and Standalone.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orchasp-ltd/orchasp/532271/",
+    "SLONGNAME": "Orchasp Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:57:45",
+    "DissemDT": "2026-11-11T22:57:45.21",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 14197050,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "total_assets": "23962.35",
+      "eps": "6",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2981e50d-6fa6-4276-9aa1-c17e8218a1f4",
+    "SCRIP_CD": 532271,
+    "XML_NAME": "ANN_532271_2981E50D-6FA6-4276-9AA1-C17E8218A1F4",
+    "NEWSSUB": "Orchasp Ltd - 532271 - Unaudited Quarter Results For The Financial Results Ason  30-09-2026",
+    "DT_TM": "2026-11-11T22:56:41.16",
+    "NEWS_DT": "2026-11-11T22:56:41.16",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9b208691-e04c-4c68-bf7a-a144a75eefd6.pdf",
+    "MORE": "",
+    "HEADLINE": "The Board of Directors has adopted the Unaudited Finacial Results for the Quarter Ending 30-09-2026- Consolidated and Standalone.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orchasp-ltd/orchasp/532271/",
+    "SLONGNAME": "Orchasp Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:56:41",
+    "DissemDT": "2026-11-11T22:56:41.16",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 14197050,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "total_assets": "23962.35",
+      "eps": "6",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "bd4eecb4-f92e-40c2-aa5b-2973f90c9ab7",
+    "SCRIP_CD": 544977,
+    "XML_NAME": "ANN_544977_BD4EECB4-F92E-40C2-AA5B-2973F90C9AB7",
+    "NEWSSUB": "Sollfege Smart Electronics Ltd - 544977 - Board Meeting Intimation for Approval Of The Unaudited Financial Results (Standalone) Of The\r\nCompany For The Half Year Ended 30Th September, 2026",
+    "DT_TM": "2026-11-11T22:54:50.693",
+    "NEWS_DT": "2026-11-11T22:54:50.693",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "afa29f57-7fc8-4ed4-9867-a2811846483b.pdf",
+    "MORE": "Sollfege Smart Electronics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the Unaudited Financial Results (Standalone) of the\r\nCompany for the half year ended 30th September, 2026",
+    "HEADLINE": "Sollfege Smart Electronics Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve the Unaudited Financial ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sollfege-smart-electronics-ltd/sollfege/544977/",
+    "SLONGNAME": "Sollfege Smart Electronics Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:54:49",
+    "DissemDT": "2026-11-11T22:54:50.693",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 220204,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4a90e089-65c0-468d-a49f-fc9169db0064",
+    "SCRIP_CD": 541400,
+    "XML_NAME": "ANN_541400_4A90E089-65C0-468D-A49F-FC9169DB0064",
+    "NEWSSUB": "Zim Laboratories Ltd - 541400 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-11T22:54:31.093",
+    "NEWS_DT": "2026-11-11T22:54:31.093",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6de63bdd-aafa-4470-9976-35ab131a5143.pdf",
+    "MORE": "",
+    "HEADLINE": "Transcript of Q2 & H1FY27 Earnings Conference Call",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/zim-laboratories-ltd/zimlab/541400/",
+    "SLONGNAME": "Zim Laboratories Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:54:31",
+    "DissemDT": "2026-11-11T22:54:31.093",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 748923,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b00bc8a8-d9cd-42e1-b30b-78638429add3",
+    "SCRIP_CD": 534091,
+    "XML_NAME": "ANN_534091_B00BC8A8-D9CD-42E1-B30B-78638429ADD3",
+    "NEWSSUB": "Multi Commodity Exchange of India Ltd - 534091 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-11T22:43:54.6",
+    "NEWS_DT": "2026-11-11T22:43:54.6",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9d184c97-b9f4-40ee-98ad-1da2e7ea836d.pdf",
+    "MORE": "",
+    "HEADLINE": "Transcript of the Earnings Conference Call with investors/analysts on Q2 FY2027 results.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/multi-commodity-exchange-of-india-ltd/mcx/534091/",
+    "SLONGNAME": "Multi Commodity Exchange of India Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:43:54",
+    "DissemDT": "2026-11-11T22:43:54.6",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4132249,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1f8ef3fe-9663-4c26-a47b-827ef1a1a11a",
+    "SCRIP_CD": 540613,
+    "XML_NAME": "ANN_540613_1F8EF3FE-9663-4C26-A47B-827EF1A1A11A",
+    "NEWSSUB": "Gautam Exim Ltd - 540613 - Board Meeting Intimation for Notice Of 06Th  /2026-27 Meeting Of The Board Of Directors Of Gautam Exim Limited For Half Yearly Results.",
+    "DT_TM": "2026-11-11T22:37:21.47",
+    "NEWS_DT": "2026-11-11T22:37:21.47",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "64068a8e-bfea-4ac3-83ef-c0e4a85c3a9e.pdf",
+    "MORE": "Gautam Exim Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 5. To consider and approve the Un-audited Standalone Financial Results of the company for the half year ended September 30, 2026.\r\n6. To review and take on record the Limited Review Report issued by the Statutory Auditors of the company on the financial results for the half year ended September 30, 2026.\r\n7. To review compliance with SEBI (LODR) Regulations, 2015, specifically concerning BSE SME listing norms for the period ended September 30, 2026.\r\n8. To authorize the Managing Director, Company Secretary, or Chief Financial Officer to sign, file, and submit the approved financial results and Limited Review Report to BSE Limited within the stipulated timeline.\r\n9. To authorize publishing the financial results extract in newspapers as per regulatory requirements.\r\n",
+    "HEADLINE": "Gautam Exim Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve 5. To consider and approve the ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gautam-exim-ltd/gel/540613/",
+    "SLONGNAME": "Gautam Exim Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 18,
+    "News_submission_dt": "2026-11-11T22:37:19",
+    "DissemDT": "2026-11-11T22:37:21.47",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 2333500,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "7f390c5b-e240-4838-92e0-a89be83f5038",
     "SCRIP_CD": 540673,
     "XML_NAME": "ANN_540673_7F390C5B-E240-4838-92E0-A89BE83F5038",
@@ -16843,1632 +17109,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "2850c62d-1412-404a-866e-9e11bffea534",
-    "SCRIP_CD": 532630,
-    "XML_NAME": "ANN_532630_2850C62D-1412-404A-866E-9E11BFFEA534",
-    "NEWSSUB": "Gokaldas Exports Ltd - 532630 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-11T19:52:03.85",
-    "NEWS_DT": "2026-11-11T19:52:03.85",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "08f47f41-1a6a-479c-9797-90ef417db63c.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gokaldas-exports-ltd/gokex/532630/",
-    "SLONGNAME": "Gokaldas Exports Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:52:03",
-    "DissemDT": "2026-11-11T19:52:03.85",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 391446,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Customer bankruptcy impact (announced Nov 9 2026, press release dated Nov 11",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5c45af18-f2dc-4972-8b66-b49a58966332",
-    "SCRIP_CD": 544383,
-    "XML_NAME": "ANN_544383_5C45AF18-F2DC-4972-8B66-B49A58966332",
-    "NEWSSUB": "Paradeep Parivahan Ltd - 544383 - Board Meeting Outcome for Outcome Of Board Meeting Held On Wednesday, November 11, 2026.",
-    "DT_TM": "2026-11-11T19:51:39.08",
-    "NEWS_DT": "2026-11-11T19:51:39.08",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "095991ac-1205-4239-b985-2beaee2901e3.pdf",
-    "MORE": "The Board of Directors of the Company at its meeting held today i.e. Wednesday, November 11, 2026, inter-alia, considered and approved the Standalone and Consolidated Unaudited Financial Results of the Company for the half year ended September 30, 2026, along with the Limited Review Reports issued by the Statutory Auditors of the Company, as recommended by the Audit Committee.\r\n",
-    "HEADLINE": "The Board of Directors of the Company at its meeting held today i.e. Wednesday, November 11, 2026, inter-alia, considered and approved the Standalone and Consolidated Unaudited Financial ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/paradeep-parivahan-ltd/pparivah/544383/",
-    "SLONGNAME": "Paradeep Parivahan Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:51:36",
-    "DissemDT": "2026-11-11T19:51:39.08",
-    "TimeDiff": "00:00:03",
-    "Fld_Attachsize": 4050822,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ee495005-1f10-4bea-a5aa-15177b4c7177",
-    "SCRIP_CD": 544879,
-    "XML_NAME": "ANN_544879_EE495005-1F10-4BEA-A5AA-15177B4C7177",
-    "NEWSSUB": "Lalithaa Jewellery Mart Ltd - 544879 - Board Meeting Outcome for Outcome Of Board Meeting Held On November 11, 2026 Pursuant To Regulation 30 And Regulation 33 Read With Schedule III Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-11-11T19:50:21.767",
-    "NEWS_DT": "2026-11-11T19:50:21.767",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0e190886-f3c3-4e2d-a603-d86ef50e551f.pdf",
-    "MORE": "Pursuant to Regulation 30 and Regulation 33 read with Schedule III and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we hereby inform you that the Board of Directors of Lalithaa Jewellery Mart Limited ('the Company'), at its meeting held today, i.e., November 11, 2026, inter alia, considered and approved",
-    "HEADLINE": "Pursuant to Regulation 30 and Regulation 33 read with Schedule III and other applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lalithaa-jewellery-mart-ltd/lalithaa/544879/",
-    "SLONGNAME": "Lalithaa Jewellery Mart Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:50:19",
-    "DissemDT": "2026-11-11T19:50:21.767",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 6750115,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "net_profit": "2530.47",
-      "operating_profit": "4452.77",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 19,
-        "table_index": 3,
-        "row_count": 2,
-        "rows": [
-          {
-            "Particulars": "Standalone",
-            "Turnover": "2,50,390.36",
-            "Networth": "30162.64"
-          },
-          {
-            "Particulars": "Consolidated",
-            "Turnover": "2,50,239.27",
-            "Networth": "29,297.25"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "0bfe336f-a53c-4684-84dd-edd378a80066",
-    "SCRIP_CD": 544434,
-    "XML_NAME": "ANN_544434_0BFE336F-A53C-4684-84DD-EDD378A80066",
-    "NEWSSUB": "Neetu Yoshi Ltd - 544434 - Board Meeting Intimation for Approving And Take On Record The Unaudited Financial Results (Standalone & Consolidated) Of The Company For The Half Year\r\nEnded 30Th September, 2026",
-    "DT_TM": "2026-11-11T19:49:59.333",
-    "NEWS_DT": "2026-11-11T19:49:59.333",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dc6596c9-3602-4a47-824f-ec9194ca9ecb.pdf",
-    "MORE": "",
-    "HEADLINE": "Neetu Yoshi Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2026 ,inter alia, to consider and approve Intimation of Board Meeting",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/neetu-yoshi-ltd/neetuyoshi/544434/",
-    "SLONGNAME": "Neetu Yoshi Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:49:58",
-    "DissemDT": "2026-11-11T19:49:59.333",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 181000,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "Here is the summary of the corporate announcement:\n\n* **Board Meeting Date & Purpose:** A meeting of the Board of Directors is scheduled for Saturday, 14th November, 2026, to consider and approve the unaudited financial results (standalone & consolidated) for the half-year ended 30th September, 2026. *(Note: The announcement contains no specific financial figures or details).*\n* **Trading Window Closure:** In accordance with insider trading regulations, the trading window for dealing in the company's equity shares has been closed since 1st October, 2026, and will remain closed until 48 hours after the financial results are communicated to the stock exchange.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "83d80b34-853f-4c9b-a675-6f53df2bfd9f",
-    "SCRIP_CD": 532945,
-    "XML_NAME": "ANN_532945_83D80B34-853F-4C9B-A675-6F53DF2BFD9F",
-    "NEWSSUB": "SEPC Ltd - 532945 - Financial Results For The Quarter And Half-Year Ended September 30, 2026",
-    "DT_TM": "2026-11-11T19:49:39.37",
-    "NEWS_DT": "2026-11-11T19:49:39.37",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "40125d95-9ec4-4d10-a69d-4d05910492d2.pdf",
-    "MORE": "",
-    "HEADLINE": "We herewith enclose the Unaudited Standalone And Consolidated Financial Results for the Quarter and Half-Year ended September 30,  2026. Detailed letter is enclosed.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sepc-ltd/sepc/532945/",
-    "SLONGNAME": "SEPC Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:49:39",
-    "DissemDT": "2026-11-11T19:49:39.37",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 17737845,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "total_assets": "350083",
-      "total_equity": "19745111",
-      "total_debt": "34393.5283",
-      "face_value": "10",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "8125d627-84a3-4bfc-b316-865e513f5bc6",
-    "SCRIP_CD": 544144,
-    "XML_NAME": "ANN_544144_8125D627-84A3-4BFC-B316-865E513F5BC6",
-    "NEWSSUB": "Popular Vehicles and Services Ltd - 544144 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-11T19:47:16.017",
-    "NEWS_DT": "2026-11-11T19:47:16.017",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "399e8e18-5aa6-4819-a521-8b640c1d8df4.pdf",
-    "MORE": "In continuation of the intimation dated 03rd November, 2026, regarding the earnings conference call with analysts and investors, we enclose herewith the copy of the investor presentation on the unaudited financial results of the Company for the quarter ended 30th September, 2026",
-    "HEADLINE": "In continuation of the intimation dated 03rd November, 2026, regarding the earnings conference call with analysts and investors, we enclose herewith the copy of the investor presentation ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/popular-vehicles-and-services-ltd/pvsl/544144/",
-    "SLONGNAME": "Popular Vehicles and Services Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:47:16",
-    "DissemDT": "2026-11-11T19:47:16.017",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2585842,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company issued an Investor/Analyst Presentation on **11 Nov 2026** covering its **unaudited Q2 and H1 FY 27 results (quarter and half‑year ended 30 Sep 2026)**, and announced an earnings conference call with analysts and investors on **12 Nov 2026 at 08:45 AM IST**.  \n- The presentation is filed to comply with **Regulation 30 of the SEBI (LODR) Regulations, 2015** and is available on the company’s website; the announcement does **not contain any specific financial figures or quantitative results**.",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "2.2",
-      "operating_profit": "77.7",
-      "total_assets": "2667.4",
-      "total_equity": "631.0",
-      "total_debt": "128.2",
-      "eps": "0.31",
-      "roce": "18.3",
-      "roe": "18.7",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 9,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars (Approx. YoY Growth In %)": "Total Revenue from Operations",
-            "Q2FY27": "40%",
-            "Organic Growth": "26%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "PV (excluding luxury)",
-            "Q2FY27": "47%",
-            "Organic Growth": "31%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "Luxury PV",
-            "Q2FY27": "53%",
-            "Organic Growth": "19%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "CV",
-            "Q2FY27": "28%",
-            "Organic Growth": "23%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "EV, Spare parts distribution",
-            "Q2FY27": "42%",
-            "Organic Growth": "15%"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 2,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars (Approx. YoY Growth In %)": "Total New Vehicle Volume Sales",
-            "Q2FY27": "51%",
-            "Organic Growth": "28%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "PV (excluding luxury)",
-            "Q2FY27": "44%",
-            "Organic Growth": "28%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "Luxury PV",
-            "Q2FY27": "50%",
-            "Organic Growth": "7%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "CV",
-            "Q2FY27": "28%",
-            "Organic Growth": "26%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "EV",
-            "Q2FY27": "120%",
-            "Organic Growth": "35%"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 3,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars (Approx. YoY Growth In %)": "Total Service Volume",
-            "Q2FY27": "17%",
-            "Organic Growth": "5%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "PV (excluding luxury)",
-            "Q2FY27": "16%",
-            "Organic Growth": "5%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "Luxury PV",
-            "Q2FY27": "86%",
-            "Organic Growth": "12%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "CV",
-            "Q2FY27": "9%",
-            "Organic Growth": "5%"
-          },
-          {
-            "Particulars (Approx. YoY Growth In %)": "EV",
-            "Q2FY27": "75%",
-            "Organic Growth": "18%"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 1,
-        "row_count": 25,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Property, Plant & Equipments",
-            "Sep-26": "482.6",
-            "Mar-26": "444.5"
-          },
-          {
-            "Particulars (INR Crs)": "Capital Work-in-progress",
-            "Sep-26": "1.7",
-            "Mar-26": "27.0"
-          },
-          {
-            "Particulars (INR Crs)": "Goodwill",
-            "Sep-26": "13.3",
-            "Mar-26": "13.3"
-          },
-          {
-            "Particulars (INR Crs)": "Other Intangible assets",
-            "Sep-26": "5.7",
-            "Mar-26": "6.7"
-          },
-          {
-            "Particulars (INR Crs)": "Intangible assets under development",
-            "Sep-26": "2.8",
-            "Mar-26": "0.5"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Assets",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Investments",
-            "Sep-26": "24.0",
-            "Mar-26": "18.6"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Other financial assets",
-            "Sep-26": "56.9",
-            "Mar-26": "51.8"
-          },
-          {
-            "Particulars (INR Crs)": "Right of use assets",
-            "Sep-26": "536.6",
-            "Mar-26": "610.0"
-          },
-          {
-            "Particulars (INR Crs)": "Deferred Tax Assets (Net)",
-            "Sep-26": "61.3",
-            "Mar-26": "52.3"
-          },
-          {
-            "Particulars (INR Crs)": "Other Non-Current Assets",
-            "Sep-26": "45.5",
-            "Mar-26": "45.1"
-          },
-          {
-            "Particulars (INR Crs)": "Income Tax Assets (net)",
-            "Sep-26": "19.1",
-            "Mar-26": "24.8"
-          },
-          {
-            "Particulars (INR Crs)": "Non - Current Assets",
-            "Sep-26": "1,249.5",
-            "Mar-26": "1,294.6"
-          },
-          {
-            "Particulars (INR Crs)": "Inventories",
-            "Sep-26": "920.3",
-            "Mar-26": "617.4"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Assets",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Investments",
-            "Sep-26": "1.0",
-            "Mar-26": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Trade receivables",
-            "Sep-26": "302.1",
-            "Mar-26": "259.4"
-          },
-          {
-            "Particulars (INR Crs)": "(iii) Cash and cash equivalents",
-            "Sep-26": "28.5",
-            "Mar-26": "66.1"
-          },
-          {
-            "Particulars (INR Crs)": "(iv) Bank balances other than cash and cash equivalents",
-            "Sep-26": "11.6",
-            "Mar-26": "7.3"
-          },
-          {
-            "Particulars (INR Crs)": "(v) Other Financial Assets",
-            "Sep-26": "4.3",
-            "Mar-26": "5.1"
-          },
-          {
-            "Particulars (INR Crs)": "Income Tax Assets",
-            "Sep-26": "1.0",
-            "Mar-26": "1.7"
-          },
-          {
-            "Particulars (INR Crs)": "Other Current Assets",
-            "Sep-26": "149.2",
-            "Mar-26": "131.8"
-          },
-          {
-            "Particulars (INR Crs)": "Current Assets",
-            "Sep-26": "1,417.9",
-            "Mar-26": "1,088.7"
-          },
-          {
-            "Particulars (INR Crs)": "Assets classified as held for sale",
-            "Sep-26": "0.0",
-            "Mar-26": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Total Assets",
-            "Sep-26": "2,667.4",
-            "Mar-26": "2,383.3"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 2,
-        "row_count": 22,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Equity Share Capital",
-            "Sep-26": "14.2",
-            "Mar-26": "14.2"
-          },
-          {
-            "Particulars (INR Crs)": "Other Equity",
-            "Sep-26": "616.7",
-            "Mar-26": "613.6"
-          },
-          {
-            "Particulars (INR Crs)": "Total Equity",
-            "Sep-26": "631.0",
-            "Mar-26": "627.8"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Liabilities",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Borrowings",
-            "Sep-26": "128.2",
-            "Mar-26": "47.5"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Lease Liabilities",
-            "Sep-26": "586.6",
-            "Mar-26": "652.8"
-          },
-          {
-            "Particulars (INR Crs)": "Provisions",
-            "Sep-26": "7.4",
-            "Mar-26": "5.9"
-          },
-          {
-            "Particulars (INR Crs)": "Deferred tax liabilities (net)",
-            "Sep-26": "0.0",
-            "Mar-26": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Non Current Tax Liability",
-            "Sep-26": "0.1",
-            "Mar-26": "0.8"
-          },
-          {
-            "Particulars (INR Crs)": "Other Non-Current Liabilities",
-            "Sep-26": "0.2",
-            "Mar-26": "0.2"
-          },
-          {
-            "Particulars (INR Crs)": "Non-Current Liabilities",
-            "Sep-26": "722.4",
-            "Mar-26": "707.2"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Liabilities",
-            "Sep-26": "",
-            "Mar-26": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Borrowings",
-            "Sep-26": "885.6",
-            "Mar-26": "648.5"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Lease Liabilities",
-            "Sep-26": "60.3",
-            "Mar-26": "56.7"
-          },
-          {
-            "Particulars (INR Crs)": "(iii) Trade Payables",
-            "Sep-26": "196.0",
-            "Mar-26": "102.2"
-          },
-          {
-            "Particulars (INR Crs)": "(iv) Other Financial Liabilities",
-            "Sep-26": "27.8",
-            "Mar-26": "54.5"
-          },
-          {
-            "Particulars (INR Crs)": "Provisions",
-            "Sep-26": "2.2",
-            "Mar-26": "2.4"
-          },
-          {
-            "Particulars (INR Crs)": "Current Tax Liability",
-            "Sep-26": "2.2",
-            "Mar-26": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Other Current Liabilities",
-            "Sep-26": "139.9",
-            "Mar-26": "183.9"
-          },
-          {
-            "Particulars (INR Crs)": "Current Liabilities",
-            "Sep-26": "1,314.1",
-            "Mar-26": "1,048.2"
-          },
-          {
-            "Particulars (INR Crs)": "Liabilities classified as held for sale",
-            "Sep-26": "0.0",
-            "Mar-26": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Total Equity & Liabilities",
-            "Sep-26": "2,667.4",
-            "Mar-26": "2,383.3"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 1,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Net Profit Before Tax",
-            "Sep-26": "6.1",
-            "Sep-25": "-14.7"
-          },
-          {
-            "Particulars (INR Crs)": "Adjustments for: Non - Cash Items / Other Investment or Financial Items",
-            "Sep-26": "132.4",
-            "Sep-25": "98.0"
-          },
-          {
-            "Particulars (INR Crs)": "Cash generated from operations before working capital changes",
-            "Sep-26": "138.6",
-            "Sep-25": "83.3"
-          },
-          {
-            "Particulars (INR Crs)": "Changes in working capital",
-            "Sep-26": "-315.7",
-            "Sep-25": "-82.4"
-          },
-          {
-            "Particulars (INR Crs)": "Cash generated from Operations",
-            "Sep-26": "-177.1",
-            "Sep-25": "0.9"
-          },
-          {
-            "Particulars (INR Crs)": "Direct taxes paid (net of refund)",
-            "Sep-26": "-3.5",
-            "Sep-25": "-12.3"
-          },
-          {
-            "Particulars (INR Crs)": "Net Cash from Operating Activities",
-            "Sep-26": "-180.6",
-            "Sep-25": "-11.4"
-          },
-          {
-            "Particulars (INR Crs)": "Net Cash from Investing Activities",
-            "Sep-26": "-84.7",
-            "Sep-25": "-23.3"
-          },
-          {
-            "Particulars (INR Crs)": "Net Cash from Financing Activities",
-            "Sep-26": "227.7",
-            "Sep-25": "58.5"
-          },
-          {
-            "Particulars (INR Crs)": "Net Increase/Decrease in Cash and Cash equivalents",
-            "Sep-26": "-37.6",
-            "Sep-25": "23.7"
-          },
-          {
-            "Particulars (INR Crs)": "Add: Cash & Cash equivalents at the beginning of the period",
-            "Sep-26": "66.1",
-            "Sep-25": "24.5"
-          },
-          {
-            "Particulars (INR Crs)": "Cash & Cash equivalents at the end of the period",
-            "Sep-26": "28.5",
-            "Sep-25": "48.2"
-          }
-        ]
-      },
-      {
-        "page": 27,
-        "table_index": 2,
-        "row_count": 6,
-        "rows": [
-          {
-            "Revenue (INR Crs)": "Total Revenue",
-            "FY26": "4,813.3",
-            "col_3": "",
-            "FY25": "",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "",
-            "FY26": "",
-            "col_3": "4,813.3",
-            "FY25": "4,040.0",
-            "col_5": "+19%"
-          },
-          {
-            "Revenue (INR Crs)": "(-) Honda & Piaggio Divestment",
-            "FY26": "61.4",
-            "col_3": "",
-            "FY25": "152.7",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "(-) Acquisitions",
-            "FY26": "258.8",
-            "col_3": "",
-            "FY25": "-",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "Adjusted / Organic Revenue",
-            "FY26": "4,493.1",
-            "col_3": "",
-            "FY25": "",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "",
-            "FY26": "",
-            "col_3": "4,493.1",
-            "FY25": "3,887.3",
-            "col_5": "+16%"
-          }
-        ]
-      },
-      {
-        "page": 27,
-        "table_index": 4,
-        "row_count": 6,
-        "rows": [
-          {
-            "Revenue (INR Crs)": "Total Revenue",
-            "FY26": "967.9",
-            "col_3": "",
-            "FY25": "",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "",
-            "FY26": "",
-            "col_3": "967.9",
-            "FY25": "903.2",
-            "col_5": "+7%"
-          },
-          {
-            "Revenue (INR Crs)": "(-) Honda & Piaggio Divestment",
-            "FY26": "37.2",
-            "col_3": "",
-            "FY25": "97.7",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "(-) Acquisitions",
-            "FY26": "62.5",
-            "col_3": "",
-            "FY25": "-",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "Adjusted / Organic Revenue",
-            "FY26": "868.2",
-            "col_3": "",
-            "FY25": "",
-            "col_5": ""
-          },
-          {
-            "Revenue (INR Crs)": "",
-            "FY26": "",
-            "col_3": "868.2",
-            "FY25": "805.6",
-            "col_5": "+8%"
-          }
-        ]
-      },
-      {
-        "page": 28,
-        "table_index": 1,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Reported EBITDA",
-            "FY26": "203.4",
-            "FY25": "175.4",
-            "Growth %": "+16%"
-          },
-          {
-            "Particulars (INR Crs)": "(-) EBITDA contribution from divested Honda & Piaggio businesses",
-            "FY26": "6.2",
-            "FY25": "17.7",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(-) Acquisition-related EBITDA Impact",
-            "FY26": "3.6",
-            "FY25": "-",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(+) One-off cess provision",
-            "FY26": "7.3",
-            "FY25": "-",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "Adjusted EBITDA",
-            "FY26": "200.9",
-            "FY25": "157.7",
-            "Growth %": "+27%"
-          },
-          {
-            "Particulars (INR Crs)": "(-) Depreciation and Finance cost",
-            "FY26": "230.6",
-            "FY25": "184.4",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(+) Finance cost from Honda & Piaggio",
-            "FY26": "1.9",
-            "FY25": "3.5",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(+) Depreciation cost from Honda & Piaggio",
-            "FY26": "3.7",
-            "FY25": "8.5",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(+) Acquisition-related depreciation impact",
-            "FY26": "21.8",
-            "FY25": "-",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(+) Acquisition related Finance cost",
-            "FY26": "11.2",
-            "FY25": "-",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "Adjusted PBT before Exceptional Item",
-            "FY26": "8.8",
-            "FY25": "-14.7",
-            "Growth %": "FY26: After necessary adjustments PBT before exceptions turns positive"
-          },
-          {
-            "Particulars (INR Crs)": "Reported PBT before Exceptional Item",
-            "FY26": "-27.2",
-            "FY25": "-8.9",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "Exceptional Items",
-            "FY26": "",
-            "FY25": "",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(+) One-Time Labor Code Impact",
-            "FY26": "1.3",
-            "FY25": "-",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "(-) One-Time Disinvestment Gain",
-            "FY26": "15.3",
-            "FY25": "-",
-            "Growth %": ""
-          },
-          {
-            "Particulars (INR Crs)": "Adjusted PBT",
-            "FY26": "-5.1",
-            "FY25": "-14.7",
-            "Growth %": "FY26: After necessary adjustments PBT loss reduced by ~60%"
-          },
-          {
-            "Particulars (INR Crs)": "Reported PBT",
-            "FY26": "-13.3",
-            "FY25": "-8.9",
-            "Growth %": ""
-          }
-        ]
-      },
-      {
-        "page": 35,
-        "table_index": 1,
-        "row_count": 25,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Property, Plant & Equipments",
-            "Mar-26": "444.5",
-            "Mar-25": "311.0",
-            "Mar-24": "328.8",
-            "Mar-23": "293.5"
-          },
-          {
-            "Particulars (INR Crs)": "Capital Work-in-progress",
-            "Mar-26": "27.0",
-            "Mar-25": "7.9",
-            "Mar-24": "14.3",
-            "Mar-23": "7.7"
-          },
-          {
-            "Particulars (INR Crs)": "Goodwill",
-            "Mar-26": "13.3",
-            "Mar-25": "11.5",
-            "Mar-24": "11.5",
-            "Mar-23": "11.5"
-          },
-          {
-            "Particulars (INR Crs)": "Other Intangible assets",
-            "Mar-26": "6.7",
-            "Mar-25": "9.8",
-            "Mar-24": "13.9",
-            "Mar-23": "18.2"
-          },
-          {
-            "Particulars (INR Crs)": "Intangible assets under development",
-            "Mar-26": "0.5",
-            "Mar-25": "0.7",
-            "Mar-24": "0.4",
-            "Mar-23": "0.2"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Assets",
-            "Mar-26": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Investments",
-            "Mar-26": "18.6",
-            "Mar-25": "14.0",
-            "Mar-24": "11.3",
-            "Mar-23": "5.8"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Other financial assets",
-            "Mar-26": "51.8",
-            "Mar-25": "40.0",
-            "Mar-24": "44.1",
-            "Mar-23": "37.9"
-          },
-          {
-            "Particulars (INR Crs)": "Right of use assets",
-            "Mar-26": "610.0",
-            "Mar-25": "388.2",
-            "Mar-24": "379.3",
-            "Mar-23": "348.0"
-          },
-          {
-            "Particulars (INR Crs)": "Deferred Tax Assets (Net)",
-            "Mar-26": "52.3",
-            "Mar-25": "29.8",
-            "Mar-24": "18.7",
-            "Mar-23": "16.1"
-          },
-          {
-            "Particulars (INR Crs)": "Other Non-Current Assets",
-            "Mar-26": "45.1",
-            "Mar-25": "29.6",
-            "Mar-24": "27.3",
-            "Mar-23": "19.3"
-          },
-          {
-            "Particulars (INR Crs)": "Income Tax Assets (net)",
-            "Mar-26": "24.8",
-            "Mar-25": "16.5",
-            "Mar-24": "10.9",
-            "Mar-23": "9.8"
-          },
-          {
-            "Particulars (INR Crs)": "Non - Current Assets",
-            "Mar-26": "1,294.6",
-            "Mar-25": "858.9",
-            "Mar-24": "860.5",
-            "Mar-23": "768.2"
-          },
-          {
-            "Particulars (INR Crs)": "Inventories",
-            "Mar-26": "617.4",
-            "Mar-25": "580.4",
-            "Mar-24": "592.9",
-            "Mar-23": "434.9"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Assets",
-            "Mar-26": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Investments",
-            "Mar-26": "0.0",
-            "Mar-25": "0.0",
-            "Mar-24": "17.0",
-            "Mar-23": "0.2"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Trade receivables",
-            "Mar-26": "259.4",
-            "Mar-25": "223.0",
-            "Mar-24": "296.9",
-            "Mar-23": "223.8"
-          },
-          {
-            "Particulars (INR Crs)": "(iii) Cash and cash equivalents",
-            "Mar-26": "66.1",
-            "Mar-25": "24.5",
-            "Mar-24": "55.0",
-            "Mar-23": "23.8"
-          },
-          {
-            "Particulars (INR Crs)": "(iv) Bank balances other than cash and cash equivalents",
-            "Mar-26": "7.3",
-            "Mar-25": "6.6",
-            "Mar-24": "5.6",
-            "Mar-23": "4.3"
-          },
-          {
-            "Particulars (INR Crs)": "(v) Other Financial Assets",
-            "Mar-26": "5.1",
-            "Mar-25": "6.4",
-            "Mar-24": "28.3",
-            "Mar-23": "4.5"
-          },
-          {
-            "Particulars (INR Crs)": "Income Tax Assets",
-            "Mar-26": "1.7",
-            "Mar-25": "3.8",
-            "Mar-24": "2.4",
-            "Mar-23": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Other Current Assets",
-            "Mar-26": "131.8",
-            "Mar-25": "94.7",
-            "Mar-24": "98.1",
-            "Mar-23": "42.5"
-          },
-          {
-            "Particulars (INR Crs)": "Current Assets",
-            "Mar-26": "1,088.7",
-            "Mar-25": "939.3",
-            "Mar-24": "1,096.2",
-            "Mar-23": "734.1"
-          },
-          {
-            "Particulars (INR Crs)": "Assets Classified as held for sale",
-            "Mar-26": "0.0",
-            "Mar-25": "106.3",
-            "Mar-24": "0.0",
-            "Mar-23": "1.5"
-          },
-          {
-            "Particulars (INR Crs)": "Total Assets",
-            "Mar-26": "2,383.3",
-            "Mar-25": "1,904.6",
-            "Mar-24": "1,956.6",
-            "Mar-23": "1,503.8"
-          }
-        ]
-      },
-      {
-        "page": 35,
-        "table_index": 2,
-        "row_count": 22,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Equity Share Capital",
-            "Mar-26": "14.2",
-            "Mar-25": "14.2",
-            "Mar-24": "14.2",
-            "Mar-23": "12.5"
-          },
-          {
-            "Particulars (INR Crs)": "Other Equity",
-            "Mar-26": "613.6",
-            "Mar-25": "624.5",
-            "Mar-24": "638.9",
-            "Mar-23": "330.5"
-          },
-          {
-            "Particulars (INR Crs)": "Total Equity",
-            "Mar-26": "627.8",
-            "Mar-25": "638.8",
-            "Mar-24": "653.2",
-            "Mar-23": "343.0"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Liabilities",
-            "Mar-26": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Borrowings",
-            "Mar-26": "47.5",
-            "Mar-25": "1.8",
-            "Mar-24": "13.4",
-            "Mar-23": "91.1"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Lease Liabilities",
-            "Mar-26": "652.8",
-            "Mar-25": "459.8",
-            "Mar-24": "445.6",
-            "Mar-23": "399.8"
-          },
-          {
-            "Particulars (INR Crs)": "Provisions",
-            "Mar-26": "5.9",
-            "Mar-25": "5.8",
-            "Mar-24": "6.1",
-            "Mar-23": "5.9"
-          },
-          {
-            "Particulars (INR Crs)": "Deferred tax liabilities (net)",
-            "Mar-26": "0.0",
-            "Mar-25": "0.0",
-            "Mar-24": "0.0",
-            "Mar-23": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Non-Current Tax Liability",
-            "Mar-26": "0.8",
-            "Mar-25": "0.0",
-            "Mar-24": "0.0",
-            "Mar-23": "0.2"
-          },
-          {
-            "Particulars (INR Crs)": "Other Non-Current Liabilities",
-            "Mar-26": "0.2",
-            "Mar-25": "12.0",
-            "Mar-24": "25.5",
-            "Mar-23": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Non-Current Liabilities",
-            "Mar-26": "707.2",
-            "Mar-25": "479.4",
-            "Mar-24": "490.6",
-            "Mar-23": "497.1"
-          },
-          {
-            "Particulars (INR Crs)": "Financial Liabilities",
-            "Mar-26": "",
-            "Mar-25": "",
-            "Mar-24": "",
-            "Mar-23": ""
-          },
-          {
-            "Particulars (INR Crs)": "(i) Borrowings",
-            "Mar-26": "648.5",
-            "Mar-25": "421.3",
-            "Mar-24": "431.2",
-            "Mar-23": "413.9"
-          },
-          {
-            "Particulars (INR Crs)": "(ii) Lease Liabilities",
-            "Mar-26": "56.7",
-            "Mar-25": "38.7",
-            "Mar-24": "34.7",
-            "Mar-23": "33.5"
-          },
-          {
-            "Particulars (INR Crs)": "(iii) Trade Payables",
-            "Mar-26": "102.2",
-            "Mar-25": "82.7",
-            "Mar-24": "154.3",
-            "Mar-23": "90.8"
-          },
-          {
-            "Particulars (INR Crs)": "(iv) Other Financial Liabilities",
-            "Mar-26": "54.5",
-            "Mar-25": "24.7",
-            "Mar-24": "38.6",
-            "Mar-23": "22.8"
-          },
-          {
-            "Particulars (INR Crs)": "Provisions",
-            "Mar-26": "2.4",
-            "Mar-25": "3.5",
-            "Mar-24": "3.7",
-            "Mar-23": "3.3"
-          },
-          {
-            "Particulars (INR Crs)": "Current Tax Liability",
-            "Mar-26": "0.0",
-            "Mar-25": "0.0",
-            "Mar-24": "0.0",
-            "Mar-23": "1.2"
-          },
-          {
-            "Particulars (INR Crs)": "Other Current Liabilities",
-            "Mar-26": "183.9",
-            "Mar-25": "161.7",
-            "Mar-24": "150.4",
-            "Mar-23": "98.1"
-          },
-          {
-            "Particulars (INR Crs)": "Current Liabilities",
-            "Mar-26": "1,048.2",
-            "Mar-25": "732.6",
-            "Mar-24": "812.9",
-            "Mar-23": "663.6"
-          },
-          {
-            "Particulars (INR Crs)": "Liabilities classified as held for sale",
-            "Mar-26": "0.0",
-            "Mar-25": "53.8",
-            "Mar-24": "0.0",
-            "Mar-23": "0.0"
-          },
-          {
-            "Particulars (INR Crs)": "Total Equity & Liabilities",
-            "Mar-26": "2,383.3",
-            "Mar-25": "1,904.6",
-            "Mar-24": "1,956.6",
-            "Mar-23": "1,503.8"
-          }
-        ]
-      },
-      {
-        "page": 36,
-        "table_index": 1,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Net Profit Before Tax and Exceptional item",
-            "Mar-26": "-27.2",
-            "Mar-25": "-8.9",
-            "Mar-24": "96.1",
-            "Mar-23": "84.9"
-          },
-          {
-            "Particulars (INR Crs)": "Adjustments for: Non - Cash Items / Other Investment or Financial Items",
-            "Mar-26": "219.8",
-            "Mar-25": "173.7",
-            "Mar-24": "161.1",
-            "Mar-23": "143.7"
-          },
-          {
-            "Particulars (INR Crs)": "Cash generated from operations before working capital changes",
-            "Mar-26": "192.6",
-            "Mar-25": "164.8",
-            "Mar-24": "257.3",
-            "Mar-23": "228.6"
-          },
-          {
-            "Particulars (INR Crs)": "Changes in working capital",
-            "Mar-26": "-65.1",
-            "Mar-25": "6.4",
-            "Mar-24": "-147.5",
-            "Mar-23": "-94.3"
-          },
-          {
-            "Particulars (INR Crs)": "Cash generated from Operations",
-            "Mar-26": "127.5",
-            "Mar-25": "171.2",
-            "Mar-24": "109.7",
-            "Mar-23": "134.2"
-          },
-          {
-            "Particulars (INR Crs)": "Direct taxes paid (net of refund)",
-            "Mar-26": "-27.3",
-            "Mar-25": "-20.4",
-            "Mar-24": "-29.8",
-            "Mar-23": "-25.3"
-          },
-          {
-            "Particulars (INR Crs)": "Net Cash from Operating Activities",
-            "Mar-26": "100.2",
-            "Mar-25": "150.8",
-            "Mar-24": "79.9",
-            "Mar-23": "108.9"
-          },
-          {
-            "Particulars (INR Crs)": "Net Cash from Investing Activities",
-            "Mar-26": "-145.6",
-            "Mar-25": "-39.4",
-            "Mar-24": "-88.2",
-            "Mar-23": "-79.6"
-          },
-          {
-            "Particulars (INR Crs)": "Net Cash from Financing Activities",
-            "Mar-26": "87.0",
-            "Mar-25": "-141.9",
-            "Mar-24": "39.4",
-            "Mar-23": "-23.8"
-          },
-          {
-            "Particulars (INR Crs)": "Net Increase / Decrease in Cash and Cash equivalents",
-            "Mar-26": "41.6",
-            "Mar-25": "-30.5",
-            "Mar-24": "31.1",
-            "Mar-23": "5.4"
-          },
-          {
-            "Particulars (INR Crs)": "Add: Cash & Cash equivalents at the beginning of the period",
-            "Mar-26": "24.5",
-            "Mar-25": "55.0",
-            "Mar-24": "23.8",
-            "Mar-23": "18.4"
-          },
-          {
-            "Particulars (INR Crs)": "Cash & Cash equivalents at the end of the period",
-            "Mar-26": "66.1",
-            "Mar-25": "24.5",
-            "Mar-24": "55.0",
-            "Mar-23": "23.8"
-          }
-        ]
-      },
-      {
-        "page": 37,
-        "table_index": 1,
-        "row_count": 10,
-        "rows": [
-          {
-            "Particulars (INR Crs)": "Total Equity",
-            "FY23": "343.0",
-            "col_3": "",
-            "FY24": "653.2",
-            "FY25": "638.8",
-            "FY26": "627.8"
-          },
-          {
-            "Particulars (INR Crs)": "Total Borrowings",
-            "FY23": "505.0",
-            "col_3": "",
-            "FY24": "444.6",
-            "FY25": "423.1",
-            "FY26": "696.1"
-          },
-          {
-            "Particulars (INR Crs)": "Capital Expenditure",
-            "FY23": "85.3",
-            "col_3": "",
-            "FY24": "80.7",
-            "FY25": "53.8",
-            "FY26": "102.2"
-          },
-          {
-            "Particulars (INR Crs)": "Debt to Equity",
-            "FY23": "1.5x",
-            "col_3": "",
-            "FY24": "0.7x",
-            "FY25": "0.7x",
-            "FY26": "1.1x"
-          },
-          {
-            "Particulars (INR Crs)": "Net Debt / Equity",
-            "FY23": "1.4x",
-            "col_3": "",
-            "FY24": "0.6x",
-            "FY25": "0.6x",
-            "FY26": "1.0x"
-          },
-          {
-            "Particulars (INR Crs)": "Net Debt/EBITDA",
-            "FY23": "2.0x",
-            "col_3": "",
-            "FY24": "1.3x",
-            "FY25": "2.2x",
-            "FY26": "3.1x"
-          },
-          {
-            "Particulars (INR Crs)": "ROCE",
-            "FY23": "18.3%",
-            "col_3": "",
-            "FY24": "17.7%",
-            "FY25": "7.2%",
-            "FY26": "5.8%"
-          },
-          {
-            "Particulars (INR Crs)": "ROE",
-            "FY23": "18.7%",
-            "col_3": "",
-            "FY24": "",
-            "FY25": "-",
-            "FY26": "-"
-          },
-          {
-            "Particulars (INR Crs)": "",
-            "FY23": "",
-            "col_3": "",
-            "FY24": "11.6%",
-            "FY25": "",
-            "FY26": ""
-          },
-          {
-            "Particulars (INR Crs)": "",
-            "FY23": "",
-            "col_3": "Impact of Net IPO Proceeds of Rs. 230 Crs raised in March 2024",
-            "FY24": "",
-            "FY25": "",
-            "FY26": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "1ed1b22d-f930-42d5-9b5e-d9d0bafcd6e9",
-    "SCRIP_CD": 544396,
-    "XML_NAME": "ANN_544396_1ED1B22D-F930-42D5-9B5E-D9D0BAFCD6E9",
-    "NEWSSUB": "Network People Services Technologies Ltd - 544396 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-11T19:44:38.497",
-    "NEWS_DT": "2026-11-11T19:44:38.497",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "84f41ee8-7a33-4f04-be6d-57d2ca115b16.pdf",
-    "MORE": "",
-    "HEADLINE": "Pursuant to reg 30 of SEBI LODR, Please find attached investor presentation for the quarter ended on September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/network-people-services-technologies-ltd/npst/544396/",
-    "SLONGNAME": "Network People Services Technologies Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 16,
-    "News_submission_dt": "2026-11-11T19:44:38",
-    "DissemDT": "2026-11-11T19:44:38.497",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4716585,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "9.84",
-      "operating_profit": "13.64",
-      "eps": "72.95",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 19,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Particulars": "Revenue",
-            "Q2 FY26": "46.68",
-            "Q1 FY27": "56.48",
-            "Q2 FY27": "67.74",
-            "QoQ": "20%",
-            "YoY": "45%",
-            "H1 FY26": "80.30",
-            "H1 FY27": "124.22",
-            "H1 YoY": "55%"
-          },
-          {
-            "Particulars": "Other income",
-            "Q2 FY26": "2.00",
-            "Q1 FY27": "4.94",
-            "Q2 FY27": "5.21",
-            "QoQ": "5%",
-            "YoY": "161%",
-            "H1 FY26": "3.46",
-            "H1 FY27": "10.15",
-            "H1 YoY": "193%"
-          },
-          {
-            "Particulars": "Total income",
-            "Q2 FY26": "48.68",
-            "Q1 FY27": "61.42",
-            "Q2 FY27": "72.95",
-            "QoQ": "19%",
-            "YoY": "50%",
-            "H1 FY26": "83.76",
-            "H1 FY27": "134.37",
-            "H1 YoY": "60%"
-          },
-          {
-            "Particulars": "Direct expenses",
-            "Q2 FY26": "19.36",
-            "Q1 FY27": "29.86",
-            "Q2 FY27": "38.26",
-            "QoQ": "28%",
-            "YoY": "98%",
-            "H1 FY26": "31.12",
-            "H1 FY27": "68.12",
-            "H1 YoY": "119%"
-          },
-          {
-            "Particulars": "Employee expenses",
-            "Q2 FY26": "10.56",
-            "Q1 FY27": "10.12",
-            "Q2 FY27": "9.83",
-            "QoQ": "(3%)",
-            "YoY": "(7%)",
-            "H1 FY26": "20.00",
-            "H1 FY27": "19.95",
-            "H1 YoY": "0%"
-          },
-          {
-            "Particulars": "Other expenses",
-            "Q2 FY26": "3.12",
-            "Q1 FY27": "2.65",
-            "Q2 FY27": "3.66",
-            "QoQ": "38%",
-            "YoY": "17%",
-            "H1 FY26": "5.70",
-            "H1 FY27": "6.31",
-            "H1 YoY": "11%"
-          },
-          {
-            "Particulars": "Finance costs",
-            "Q2 FY26": "0.17",
-            "Q1 FY27": "0.21",
-            "Q2 FY27": "0.17",
-            "QoQ": "(19%)",
-            "YoY": "0%",
-            "H1 FY26": "0.37",
-            "H1 FY27": "0.38",
-            "H1 YoY": "3%"
-          },
-          {
-            "Particulars": "Depreciation & amortisation",
-            "Q2 FY26": "1.98",
-            "Q1 FY27": "4.09",
-            "Q2 FY27": "4.09",
-            "QoQ": "0%",
-            "YoY": "107%",
-            "H1 FY26": "3.40",
-            "H1 FY27": "8.18",
-            "H1 YoY": "141%"
-          },
-          {
-            "Particulars": "Total expenditure",
-            "Q2 FY26": "35.19",
-            "Q1 FY27": "46.93",
-            "Q2 FY27": "56.01",
-            "QoQ": "19%",
-            "YoY": "59%",
-            "H1 FY26": "60.59",
-            "H1 FY27": "102.94",
-            "H1 YoY": "70%"
-          },
-          {
-            "Particulars": "EBITDA",
-            "Q2 FY26": "13.64",
-            "Q1 FY27": "13.85",
-            "Q2 FY27": "15.99",
-            "QoQ": "15%",
-            "YoY": "17%",
-            "H1 FY26": "23.48",
-            "H1 FY27": "29.84",
-            "H1 YoY": "27%"
-          },
-          {
-            "Particulars": "EBITDA (%)",
-            "Q2 FY26": "29.22%",
-            "Q1 FY27": "24.52%",
-            "Q2 FY27": "23.60%",
-            "QoQ": "",
-            "YoY": "",
-            "H1 FY26": "29.24%",
-            "H1 FY27": "24.02%",
-            "H1 YoY": ""
-          },
-          {
-            "Particulars": "Profit before tax",
-            "Q2 FY26": "13.49",
-            "Q1 FY27": "14.49",
-            "Q2 FY27": "16.94",
-            "QoQ": "17%",
-            "YoY": "26%",
-            "H1 FY26": "23.17",
-            "H1 FY27": "31.43",
-            "H1 YoY": "36%"
-          },
-          {
-            "Particulars": "Tax",
-            "Q2 FY26": "3.65",
-            "Q1 FY27": "3.44",
-            "Q2 FY27": "3.73",
-            "QoQ": "8%",
-            "YoY": "2%",
-            "H1 FY26": "6.11",
-            "H1 FY27": "7.17",
-            "H1 YoY": "17%"
-          },
-          {
-            "Particulars": "Net profit",
-            "Q2 FY26": "9.84",
-            "Q1 FY27": "11.05",
-            "Q2 FY27": "13.21",
-            "QoQ": "20%",
-            "YoY": "34%",
-            "H1 FY26": "17.06",
-            "H1 FY27": "24.26",
-            "H1 YoY": "42%"
-          },
-          {
-            "Particulars": "Net profit (%)",
-            "Q2 FY26": "20.21%",
-            "Q1 FY27": "17.99%",
-            "Q2 FY27": "18.11%",
-            "QoQ": "",
-            "YoY": "",
-            "H1 FY26": "20.37%",
-            "H1 FY27": "18.05%",
-            "H1 YoY": ""
-          },
-          {
-            "Particulars": "EPS (₹)",
-            "Q2 FY26": "5.00",
-            "Q1 FY27": "5.26",
-            "Q2 FY27": "6.34",
-            "QoQ": "21%",
-            "YoY": "27%",
-            "H1 FY26": "8.70",
-            "H1 FY27": "11.63",
-            "H1 YoY": "34%"
-          }
-        ]
-      }
-    ]
   }
 ]
