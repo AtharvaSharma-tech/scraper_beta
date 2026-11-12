@@ -1,5 +1,513 @@
 [
   {
+    "NEWSID": "37e976de-ed19-44ea-8a99-79155537212e",
+    "SCRIP_CD": 543399,
+    "XML_NAME": "ANN_543399_37E976DE-ED19-44EA-8A99-79155537212E",
+    "NEWSSUB": "Tarsons Products Ltd - 543399 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-13T00:19:23.167",
+    "NEWS_DT": "2026-11-13T00:19:23.167",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f9004ec0-0a44-4870-b482-78daaa9e89ec.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation for the quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/tarsons-products-ltd/tarsons/543399/",
+    "SLONGNAME": "Tarsons Products Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T00:19:23",
+    "DissemDT": "2026-11-13T00:19:23.167",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3890065,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Tarsons Products Ltd. submitted its Investor Presentation for the quarter and half‑year ended 30 September 2026 to BSE and NSE in compliance with SEBI Regulation 30 (Schedule III).  \n- The announcement contains no specific financial figures, dates of results release, or details of financial decisions; it only references the forthcoming presentation.",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "3.1",
+      "operating_profit": "30.6",
+      "total_assets": "1179.5",
+      "total_equity": "633.1",
+      "total_debt": "188.9",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 10,
+        "table_index": 1,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars (in ₹ cr)": "Revenue from Operations",
+            "Q2FY27": "100.2",
+            "Q2FY26": "80.5",
+            "Y-o-Y": "24.5%",
+            "H1FY27": "186.4",
+            "H1FY26": "151.8",
+            "Y-o-Y_1": "22.8%"
+          },
+          {
+            "Particulars (in ₹ cr)": "Cost of Goods Sold",
+            "Q2FY27": "32.8",
+            "Q2FY26": "21.9",
+            "Y-o-Y": "",
+            "H1FY27": "61.1",
+            "H1FY26": "42.3",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "Gross Profit",
+            "Q2FY27": "67.4",
+            "Q2FY26": "58.6",
+            "Y-o-Y": "15.0%",
+            "H1FY27": "125.2",
+            "H1FY26": "109.5",
+            "Y-o-Y_1": "14.4%"
+          },
+          {
+            "Particulars (in ₹ cr)": "Gross Margin (%)",
+            "Q2FY27": "67.3%",
+            "Q2FY26": "72.8%",
+            "Y-o-Y": "-560 bps",
+            "H1FY27": "67.2%",
+            "H1FY26": "72.2%",
+            "Y-o-Y_1": "-500 bps"
+          },
+          {
+            "Particulars (in ₹ cr)": "Employee Cost Other Expenses",
+            "Q2FY27": "13.9 23.0",
+            "Q2FY26": "11.8 20.7",
+            "Y-o-Y": "",
+            "H1FY27": "26.7 43.8",
+            "H1FY26": "23.7 37.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "EBITDA",
+            "Q2FY27": "30.6",
+            "Q2FY26": "26.1",
+            "Y-o-Y": "16.9%",
+            "H1FY27": "54.7",
+            "H1FY26": "48.4",
+            "Y-o-Y_1": "13.1%"
+          },
+          {
+            "Particulars (in ₹ cr)": "EBITDA Margin (%)",
+            "Q2FY27": "30.5%",
+            "Q2FY26": "32.5%",
+            "Y-o-Y": "-200 bps",
+            "H1FY27": "29.4%",
+            "H1FY26": "31.9%",
+            "Y-o-Y_1": "-250 bps"
+          },
+          {
+            "Particulars (in ₹ cr)": "Depreciation Other Income Finance Cost",
+            "Q2FY27": "25.9 5.3 5.8",
+            "Q2FY26": "20.2 7.3 4.4",
+            "Y-o-Y": "",
+            "H1FY27": "50.5 12.1 11.2",
+            "H1FY26": "37.9 11.9 8.7",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "Profit before Tax",
+            "Q2FY27": "4.2",
+            "Q2FY26": "8.9",
+            "Y-o-Y": "-52.6%",
+            "H1FY27": "5.1",
+            "H1FY26": "13.7",
+            "Y-o-Y_1": "-62.4%"
+          },
+          {
+            "Particulars (in ₹ cr)": "Tax",
+            "Q2FY27": "1.1",
+            "Q2FY26": "2.3",
+            "Y-o-Y": "",
+            "H1FY27": "1.4",
+            "H1FY26": "3.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "Profit After Tax",
+            "Q2FY27": "3.1",
+            "Q2FY26": "6.5",
+            "Y-o-Y": "-52.7%",
+            "H1FY27": "3.8",
+            "H1FY26": "10.1",
+            "Y-o-Y_1": "-62.7%"
+          },
+          {
+            "Particulars (in ₹ cr)": "PAT Margin (%)",
+            "Q2FY27": "3.1%",
+            "Q2FY26": "8.1%",
+            "Y-o-Y": "-500 bps",
+            "H1FY27": "2.0%",
+            "H1FY26": "6.7%",
+            "Y-o-Y_1": "-460 bps"
+          },
+          {
+            "Particulars (in ₹ cr)": "Cash PAT#",
+            "Q2FY27": "29.0",
+            "Q2FY26": "26.7",
+            "Y-o-Y": "8.6%",
+            "H1FY27": "54.2",
+            "H1FY26": "48.0",
+            "Y-o-Y_1": "13.0%"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 1,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars (in ₹ cr)": "Revenue from Operations",
+            "Q2FY27": "123.7",
+            "Q2FY26": "102.3",
+            "Y-o-Y": "20.8%",
+            "H1FY27": "233.9",
+            "H1FY26": "193.7",
+            "Y-o-Y_1": "20.8%"
+          },
+          {
+            "Particulars (in ₹ cr)": "Cost of Goods Sold",
+            "Q2FY27": "44.8",
+            "Q2FY26": "33.2",
+            "Y-o-Y": "",
+            "H1FY27": "83.5",
+            "H1FY26": "62.5",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "Gross Profit",
+            "Q2FY27": "78.9",
+            "Q2FY26": "69.1",
+            "Y-o-Y": "14.2%",
+            "H1FY27": "150.4",
+            "H1FY26": "131.2",
+            "Y-o-Y_1": "14.7%"
+          },
+          {
+            "Particulars (in ₹ cr)": "Gross Margin (%)",
+            "Q2FY27": "63.8%",
+            "Q2FY26": "67.5%",
+            "Y-o-Y": "-370 bps",
+            "H1FY27": "64.3%",
+            "H1FY26": "67.7%",
+            "Y-o-Y_1": "-340 bps"
+          },
+          {
+            "Particulars (in ₹ cr)": "Employee Cost Other Expenses",
+            "Q2FY27": "21.6 26.2",
+            "Q2FY26": "17.8 23.8",
+            "Y-o-Y": "",
+            "H1FY27": "42.8 50.5",
+            "H1FY26": "35.7 43.3",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "EBITDA",
+            "Q2FY27": "31.1",
+            "Q2FY26": "27.4",
+            "Y-o-Y": "13.3%",
+            "H1FY27": "57.1",
+            "H1FY26": "52.1",
+            "Y-o-Y_1": "9.4%"
+          },
+          {
+            "Particulars (in ₹ cr)": "EBITDA Margin (%)",
+            "Q2FY27": "25.1%",
+            "Q2FY26": "26.8%",
+            "Y-o-Y": "-170 bps",
+            "H1FY27": "24.4%",
+            "H1FY26": "26.9%",
+            "Y-o-Y_1": "-250 bps"
+          },
+          {
+            "Particulars (in ₹ cr)": "Depreciation Other Income Finance Cost",
+            "Q2FY27": "28.3 4.4 6.6",
+            "Q2FY26": "22.5 5.8 5.2",
+            "Y-o-Y": "",
+            "H1FY27": "55.3 10.4 12.9",
+            "H1FY26": "42.4 9.1 10.2",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "Profit before Tax",
+            "Q2FY27": "0.7",
+            "Q2FY26": "5.6",
+            "Y-o-Y": "-88.1%",
+            "H1FY27": "-0.7",
+            "H1FY26": "8.6",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Particulars (in ₹ cr)": "Tax",
+            "Q2FY27": "1.0",
+            "Q2FY26": "2.3",
+            "Y-o-Y": "",
+            "H1FY27": "1.1",
+            "H1FY26": "3.5",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Particulars (in ₹ cr)": "Profit After Tax",
+            "Q2FY27": "-0.3",
+            "Q2FY26": "3.3",
+            "Y-o-Y": "N.M.",
+            "H1FY27": "-1.8",
+            "H1FY26": "5.1",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Particulars (in ₹ cr)": "PAT Margin (%)",
+            "Q2FY27": "-0.3%",
+            "Q2FY26": "3.2%",
+            "Y-o-Y": "N.M.",
+            "H1FY27": "-0.8%",
+            "H1FY26": "2.6%",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Particulars (in ₹ cr)": "Cash PAT#",
+            "Q2FY27": "27.9",
+            "Q2FY26": "25.8",
+            "Y-o-Y": "8.2%",
+            "H1FY27": "53.5",
+            "H1FY26": "47.5",
+            "Y-o-Y_1": "12.6%"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Assets (in Rs. Crs)": "Non-Current Assets",
+            "Sep-26": "905.2",
+            "Mar-26": "920.1"
+          },
+          {
+            "Assets (in Rs. Crs)": "Property, Plant & Equipment Capital WIP Right of Use Assets Goodwill Other Intangible Assets Financial Assets: Other Financial Assets Tax Assets (Net) Other Non Current Assets",
+            "Sep-26": "645.2 167.7 14.4 32.5 24.7 5.2 4.0 11.5",
+            "Mar-26": "656.8 158.6 16.1 32.5 27.2 9.6 3.1 16.1"
+          },
+          {
+            "Assets (in Rs. Crs)": "Current Assets",
+            "Sep-26": "274.3",
+            "Mar-26": "265.8"
+          },
+          {
+            "Assets (in Rs. Crs)": "Inventories Financial Assets: Trade receivables Cash and cash equivalents Other Bank balances Other Financial Assets Current Tax Assets (Net) Other Current Assets",
+            "Sep-26": "134.0 89.5 15.7 10.9 0.1 0.0 24.0",
+            "Mar-26": "129.8 85.4 23.2 2.1 0.2 2.0 23.2"
+          },
+          {
+            "Assets (in Rs. Crs)": "Total Assets",
+            "Sep-26": "1,179.5",
+            "Mar-26": "1,185.8"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 2,
+        "row_count": 7,
+        "rows": [
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Total Equity",
+            "Sep-26": "633.1",
+            "Mar-26": "634.7"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Share Capital Other Equity",
+            "Sep-26": "10.6 622.5",
+            "Mar-26": "10.6 624.0"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Non-Current Liabilities",
+            "Sep-26": "294.6",
+            "Mar-26": "286.9"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities: Borrowings Lease Liabilities Other Financial Liabilities Provisions Other Non Current Liabilities Deferred Tax Liabilities",
+            "Sep-26": "188.9 4.7 30.4 0.2 59.3 11.0",
+            "Mar-26": "209.5 6.5 1.1 0.2 58.8 10.8"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Current Liabilities",
+            "Sep-26": "251.8",
+            "Mar-26": "264.2"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Financial Liabilities: Borrowings Trade Payables Lease Liabilities Other Financial Liabilities Other Current Liabilities Provisions",
+            "Sep-26": "198.5 22.3 3.9 10.2 12.5 4.4",
+            "Mar-26": "173.1 20.3 3.8 50.0 11.3 5.6"
+          },
+          {
+            "Equity & Liabilities (in Rs. Crs)": "Total Equity & Liabilities",
+            "Sep-26": "1,179.5",
+            "Mar-26": "1,185.8"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 1,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars (in Rs. Crs)": "Net Profit Before Tax",
+            "H1FY27": "-0.7",
+            "H1FY26": "8.6"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Adjustments for: Non -Cash Items / Other Investment or Financial Items",
+            "H1FY27": "62.8",
+            "H1FY26": "46.3"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Operating profit before working capital changes",
+            "H1FY27": "62.2",
+            "H1FY26": "55.0"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Changes in working capital",
+            "H1FY27": "-8.3",
+            "H1FY26": "-6.6"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Cash generated from Operations",
+            "H1FY27": "53.8",
+            "H1FY26": "48.3"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Direct taxes paid (net of refund)",
+            "H1FY27": "0.0",
+            "H1FY26": "-3.9"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Net Cash from Operating Activities",
+            "H1FY27": "53.8",
+            "H1FY26": "44.5"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Net Cash from Investing Activities",
+            "H1FY27": "-50.8",
+            "H1FY26": "-78.3"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Net Cash from Financing Activities",
+            "H1FY27": "-9.9",
+            "H1FY26": "32.1"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Net Decrease in Cash and Cash equivalents",
+            "H1FY27": "-6.9",
+            "H1FY26": "-1.7"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Add: Cash & Cash equivalents at the beginning of the period Exchange difference on translation of foreign currency",
+            "H1FY27": "23.2 -0.6",
+            "H1FY26": "25.1 2.5"
+          },
+          {
+            "Particulars (in Rs. Crs)": "Cash & Cash equivalents at the end of the period",
+            "H1FY27": "15.7",
+            "H1FY26": "25.9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "1ce06805-3985-459b-96be-b582e3d3e0d9",
+    "SCRIP_CD": 500279,
+    "XML_NAME": "ANN_500279_1CE06805-3985-459B-96BE-B582E3D3E0D9",
+    "NEWSSUB": "Onida Electronics Ltd - 500279 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-13T00:07:53.843",
+    "NEWS_DT": "2026-11-13T00:07:53.843",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "45debd1e-d6dc-4d28-8adc-249fde629ed4.pdf",
+    "MORE": "",
+    "HEADLINE": "Credit Rating",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/onida-electronics-ltd/onida/500279/",
+    "SLONGNAME": "Onida Electronics Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T00:07:53",
+    "DissemDT": "2026-11-13T00:07:53.843",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4357310,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "0f863d42-65e6-4e95-87da-1ec52695be25",
+    "SCRIP_CD": 503169,
+    "XML_NAME": "ANN_503169_0F863D42-65E6-4E95-87DA-1EC52695BE25",
+    "NEWSSUB": "Ruby Mills Ltd - 503169 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+    "DT_TM": "2026-11-13T00:02:13.53",
+    "NEWS_DT": "2026-11-13T00:02:13.53",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "90a2aec7-fa56-4766-be20-caa9656e90ee.pdf",
+    "MORE": "",
+    "HEADLINE": "Appointment of Directors ,SMP and Cessation of SMP.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ruby-mills-ltd/rubymills/503169/",
+    "SLONGNAME": "Ruby Mills Ltd",
+    "AGENDA_ID": 15,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T00:02:13",
+    "DissemDT": "2026-11-13T00:02:13.53",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 245385,
+    "SUBCATNAME": "Change in Directorate",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board changes on 12 Nov 2026:** Shri Siddharth S. Thacker was appointed as an Additional Director and Independent Director for a five‑year term (12 Nov 2026 – 11 Nov 2031); Shri Rishabh Viraj Shah ceased as President and was re‑appointed as an Additional Director and Whole‑time Director for a",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "4aff86b4-8a63-4e52-919e-e562ca31a54c",
     "SCRIP_CD": 503169,
     "XML_NAME": "ANN_503169_4AFF86B4-8A63-4E52-919E-E562CA31A54C",
@@ -20637,152 +21145,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "19893a26-bfcd-44d9-b8e2-e4840b85ec44",
-    "SCRIP_CD": 544572,
-    "XML_NAME": "ANN_544572_19893A26-BFCD-44D9-B8E2-E4840B85EC44",
-    "NEWSSUB": "SKF India (Industrial) Ltd - 544572 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-12T21:22:22.597",
-    "NEWS_DT": "2026-11-12T21:22:22.597",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0f7739be-1c59-4826-a002-f7985e56faa3.pdf",
-    "MORE": "Pursuant to Regulation 30 of SEBI LODR, we are hereby submitting the audio recording of the Analyst/Institutional Investor Meeting held on Thursday, 12th November 2026, at 2:00pm (IST) for Financial Results for the second quarter ended 30th September 2026.",
-    "HEADLINE": "Pursuant to Regulation 30 of SEBI LODR, we are hereby submitting the audio recording of the Analyst/Institutional Investor Meeting held on Thursday, 12th November 2026, at 2:00pm (IST) ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/skf-india-(industrial)-ltd/skfindus/544572/",
-    "SLONGNAME": "SKF India (Industrial) Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:22:22",
-    "DissemDT": "2026-11-12T21:22:22.597",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 312370,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "19893a26-bfcd-44d9-b8e2-e4840b85ec44",
-    "INVESTOR_PRESENTATION": "f3da8518-8e69-400b-a855-a8eeffed3cca.pdf",
-    "RECORDID": 14861748,
-    "DataInsDate": "2026-11-12T21:22:22.47",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f3da8518-8e69-400b-a855-a8eeffed3cca.pdf",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5fa02205-529a-4d26-9577-45c331ace041",
-    "SCRIP_CD": 544890,
-    "XML_NAME": "ANN_544890_5FA02205-529A-4D26-9577-45C331ACE041",
-    "NEWSSUB": "Skyways Air Services Ltd - 544890 - Press Release By Brace Port Logistics Limited, A Material Subsidiary Providing Updates On Its Financial Performance For The Half Year Ended September 30, 2026, Along With Its Future Business Outlook And Growth Prospects.",
-    "DT_TM": "2026-11-12T21:22:21.7",
-    "NEWS_DT": "2026-11-12T21:22:21.7",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "68bb4a45-2d81-44a1-b873-08c31f091925.pdf",
-    "MORE": "Press Release by Brace Port Logistics Limited, a Material Subsidiary providing updates on its financial performance for the half year ended September 30, 2026 along with its future business outlook and growth prospects.",
-    "HEADLINE": "Press Release by Brace Port Logistics Limited, a Material Subsidiary providing updates on its financial performance for the half year ended September 30, 2026 along with its future business ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/skyways-air-services-ltd/skyways/544890/",
-    "SLONGNAME": "Skyways Air Services Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:22:21",
-    "DissemDT": "2026-11-12T21:22:21.7",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 437426,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "3.47",
-      "eps": "1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "Revenue from operations",
-            "H1 FY27": "44.43",
-            "H1 FY26": "32.94",
-            "YoY growth": "34.9%"
-          },
-          {
-            "Particulars": "Profit before tax",
-            "H1 FY27": "4.67",
-            "H1 FY26": "3.37",
-            "YoY growth": "38.7%"
-          },
-          {
-            "Particulars": "Profit after tax",
-            "H1 FY27": "3.47",
-            "H1 FY26": "2.49",
-            "YoY growth": "39.5%"
-          },
-          {
-            "Particulars": "EPS (₹)",
-            "H1 FY27": "3.07",
-            "H1 FY26": "2.20",
-            "YoY growth": "—"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "1ca9be9d-c65c-472a-a1bc-25ae04123949",
-    "SCRIP_CD": 508918,
-    "XML_NAME": "ANN_508918_1CA9BE9D-C65C-472A-A1BC-25AE04123949",
-    "NEWSSUB": "Ironwood Education Ltd - 508918 - Corporate Action-Outcome of Right issue",
-    "DT_TM": "2026-11-12T21:21:11.493",
-    "NEWS_DT": "2026-11-12T21:21:11.493",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d6ff1da5-22b8-4265-ba2c-9734657e8956.pdf",
-    "MORE": "In continuation of the outcome of Board meeting dated August 14, 2026, wherein the Board approved the issuance of equity shares of face value of Rs. 10 each of the Company (Rights Equity Shares) upto an amount of Rs. 24,00,00,000 by way of a rights issue (Rights Issue), in accordance with applicable laws, was approved to the eligible equity shareholders of the Company, please be informed that the Board at its meeting held today, i.e. on November 12, 2026, has, inter alia considered, approved and fixed the terms of the rights issue including issue price and Record Date. Read less",
-    "HEADLINE": "In continuation of the outcome of Board meeting dated August 14, 2026, wherein the Board approved the issuance of equity shares of face value of Rs. 10 each of the Company (Rights Equity ....",
-    "CATEGORYNAME": "Corp. Action",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ironwood-education-ltd/ironwood/508918/",
-    "SLONGNAME": "Ironwood Education Ltd",
-    "AGENDA_ID": 42,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:21:11",
-    "DissemDT": "2026-11-12T21:21:11.493",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5150428,
-    "SUBCATNAME": "Bonds / Right issue",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
   }
 ]
