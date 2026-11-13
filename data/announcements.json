@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "9d0cbb57-4b8b-414b-bea0-f2d17a1fb676",
+    "SCRIP_CD": 507833,
+    "XML_NAME": "ANN_507833_9D0CBB57-4B8B-414B-BEA0-F2D17A1FB676",
+    "NEWSSUB": "Computer Point Ltd - 507833 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-13T07:32:11.313",
+    "NEWS_DT": "2026-11-13T07:32:11.313",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "201d739e-d9fe-4bfd-abf9-67581df421ac.pdf",
+    "MORE": "",
+    "HEADLINE": "COPY OF NEWSPAPER PUBLICATION FOR FINANCIAL RESULTS",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/computer-point-ltd/compupn/507833/",
+    "SLONGNAME": "Computer Point Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T07:32:11",
+    "DissemDT": "2026-11-13T07:32:11.313",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3135082,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & purpose**: On 12 Nov 2026, Computer Point Ltd submitted a Regulation 30 filing to BSE, notifying that it has published newspaper advertisements (in *The Echo of India* and *Lipi*, both Kolkata editions) of its **unaudited standalone financial results for the quarter and half‑year ended 30 Sept 2026**.  \n\n- **Financial details disclosed**: The notice contains **no monetary figures, earnings, or other financial numbers**—it only confirms the publication of the unaudited results in the two newspapers as required by SEBI Listing Regulations.  \n\n*If you need the actual financial results, they must be obtained from the cited newspaper advertisements or the company’s forthcoming audited statements.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "1de48d8f-ee1d-4dcf-b38c-3ccf757ddbbc",
     "SCRIP_CD": 533150,
     "XML_NAME": "ANN_533150_1DE48D8F-EE1D-4DCF-B38C-3CCF757DDBBC",
@@ -16047,129 +16083,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "ec1152a0-8255-4ef1-b620-670e7c04e7a1",
-    "SCRIP_CD": 538772,
-    "XML_NAME": "ANN_538772_EC1152A0-8255-4EF1-B620-670E7C04E7A1",
-    "NEWSSUB": "Niyogin Fintech Ltd - 538772 - CEO''s Letter - Q2 FY27",
-    "DT_TM": "2026-11-12T21:34:20.317",
-    "NEWS_DT": "2026-11-12T21:34:20.317",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c8b34e0b-75ab-42fb-921b-611acddb1749.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed CEO''s Letter for the quarter ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/niyogin-fintech-ltd/niyogin/538772/",
-    "SLONGNAME": "Niyogin Fintech Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:34:20",
-    "DissemDT": "2026-11-12T21:34:20.317",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1407966,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "operating_profit": "1.4",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "Consolidated": "(in Rs. Cr)",
-            "col_3": "",
-            "Q2FY27": "",
-            "Q1FY27": "",
-            "QoQ (%)": "",
-            "Q2FY26": "",
-            "YoY(%)": "",
-            "FY 26": ""
-          },
-          {
-            "col_1": "",
-            "Consolidated": "Gross Income",
-            "col_3": "",
-            "Q2FY27": "65.0",
-            "Q1FY27": "66.8",
-            "QoQ (%)": "-3%",
-            "Q2FY26": "75.1",
-            "YoY(%)": "-13%",
-            "FY 26": "307.8"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "Net Revenues**",
-            "col_3": "",
-            "Q2FY27": "23.9",
-            "Q1FY27": "22.1",
-            "QoQ (%)": "8%",
-            "Q2FY26": "25.9",
-            "YoY(%)": "-8%",
-            "FY 26": "106.0"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "EBITDA",
-            "col_3": "",
-            "Q2FY27": "1.4",
-            "Q1FY27": "0.2",
-            "QoQ (%)": "544%",
-            "Q2FY26": "4.9",
-            "YoY(%)": "-72%",
-            "FY 26": "19.9"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "PBT",
-            "col_3": "",
-            "Q2FY27": "(4.6)",
-            "Q1FY27": "(6.2)",
-            "QoQ (%)": "-25%",
-            "Q2FY26": "0.9",
-            "YoY(%)": "NM",
-            "FY 26": "3.4"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "ESOP",
-            "col_3": "",
-            "Q2FY27": "0.2",
-            "Q1FY27": "0.2",
-            "QoQ (%)": "0%",
-            "Q2FY26": "0.2",
-            "YoY(%)": "-15%",
-            "FY 26": "1.3"
-          },
-          {
-            "col_1": "",
-            "Consolidated": "PBT (Ex-ESOP)",
-            "col_3": "",
-            "Q2FY27": "(4.4)",
-            "Q1FY27": "(6.0)",
-            "QoQ (%)": "-25%",
-            "Q2FY26": "1.2",
-            "YoY(%)": "NM",
-            "FY 26": "4.7"
-          }
-        ]
-      }
-    ]
   }
 ]
