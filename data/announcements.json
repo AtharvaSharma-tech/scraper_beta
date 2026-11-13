@@ -1,5 +1,291 @@
 [
   {
+    "NEWSID": "1fcce002-70be-465c-9b5d-8756747e6d12",
+    "SCRIP_CD": 544544,
+    "XML_NAME": "ANN_544544_1FCCE002-70BE-465C-9B5D-8756747E6D12",
+    "NEWSSUB": "Telge Projects Ltd - 544544 - Approval Of Unaudited Financial Results (Standalone And Consolidated) For The Quarter And Half Year Ended 30/09/2026.",
+    "DT_TM": "2026-11-13T09:51:05.473",
+    "NEWS_DT": "2026-11-13T09:51:05.473",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ce528ab9-bcf0-4464-bf58-b445abaf0d1c.pdf",
+    "MORE": "",
+    "HEADLINE": "Financial Results (Standalone and Consolidated) have been published for the Quarter And Half Year Ended 30/09/2026.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/telge-projects-ltd/telge/544544/",
+    "SLONGNAME": "Telge Projects Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:51:05",
+    "DissemDT": "2026-11-13T09:51:05.473",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 811262,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board approval:** On Friday 13 November 2026, Telge Projects Ltd’s Board of Directors (via video conference) approved the unaudited standalone and consolidated financial results for the quarter ended 30 September 2026, together with a limited review report (Annexure A).  \n\n- **Financial details:** The announcement does not disclose any specific financial figures, ratios, or performance metrics; it only confirms that the unaudited results have been prepared in accordance with SEBI Regulation 33.",
+    "key_metrics": {
+      "total_assets": "4610.80",
+      "total_debt": "482.92",
+      "eps": "9",
+      "face_value": "10",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "33cc18e2-ef9e-450a-abaf-ec773c1945af",
+    "SCRIP_CD": 526739,
+    "XML_NAME": "ANN_526739_33CC18E2-EF9E-450A-ABAF-EC773C1945AF",
+    "NEWSSUB": "Narmada Gelatines Ltd - 526739 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-13T09:50:48.69",
+    "NEWS_DT": "2026-11-13T09:50:48.69",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "cc8f9e70-4767-4c37-b410-2255244c964f.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication of Un-audited Standalone and Consolidated Financial Results of the Company for the quarter and half year ended 30th September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/narmada-gelatines-ltd/shawgeltin/526739/",
+    "SLONGNAME": "Narmada Gelatines Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:50:48",
+    "DissemDT": "2026-11-13T09:50:48.69",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1610090,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement text is garbled and does not contain any readable information about dates, financial figures, or corporate decisions.  \n- Consequently, there are no verifiable financial details to summarize.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "10833ede-4734-4236-84d0-5703c98a3734",
+    "SCRIP_CD": 530367,
+    "XML_NAME": "ANN_530367_10833EDE-4734-4236-84D0-5703C98A3734",
+    "NEWSSUB": "NRB Bearings Ltd - 530367 - Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+    "DT_TM": "2026-11-13T09:49:55.62",
+    "NEWS_DT": "2026-11-13T09:49:55.62",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "10833EDE_4734_4236_84D0_5703C98A3734_094950.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on November 12, 2026 for Harshbeena Sahney Zaveri",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nrb-bearings-ltd/nrbbearing/530367/",
+    "SLONGNAME": "NRB Bearings Ltd",
+    "AGENDA_ID": 51,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-13T09:49:55.62",
+    "TimeDiff": null,
+    "Fld_Attachsize": 241734,
+    "SUBCATNAME": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is a summary of the corporate announcement:\n\n* **Pledge Release Details:** On November 12, 2026, Tata Capital Limited released the pledge on 3,00,000 equity shares (representing 0.31% of total share capital) held by promoter Harshbeena Sahney Zaveri following the pre-payment of a loan.\n* **Post-Event Encumbered Holding:** Following this release, the promoter's encumbered shares decreased from 14,00,000 shares (1.44%) to 11,00,000 shares (1.13% of total share capital), out of her total holding of 3,98,70,208 shares (41.13%).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7d757f4d-ef01-41d3-ac88-01421bbc8d9f",
+    "SCRIP_CD": 544755,
+    "XML_NAME": "ANN_544755_7D757F4D-EF01-41D3-AC88-01421BBC8D9F",
+    "NEWSSUB": "Recode Studios Ltd - 544755 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-13T09:47:48.093",
+    "NEWS_DT": "2026-11-13T09:47:48.093",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e82d8f62-af01-4736-b966-a12dc331e913.pdf",
+    "MORE": "",
+    "HEADLINE": "Schedule of Earnings Conference Call for the Half Year Ended 30th September, 2026 to be held on Tuesday, 17th November, 2026 at 04:00 PM (IST)",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/recode-studios-ltd/recode/544755/",
+    "SLONGNAME": "Recode Studios Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:47:47",
+    "DissemDT": "2026-11-13T09:47:48.093",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 853287,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "7d757f4d-ef01-41d3-ac88-01421bbc8d9f",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14864971,
+    "DataInsDate": "2026-11-13T09:47:47.977",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Recode Studios Ltd will hold its H1 FY27 earnings conference call on **Tuesday, 17 November 2026 at 04:00 PM IST** to discuss the financial performance for the half‑year ended **30 September 2026**.  \n- The call will be conducted over Zoom (Meeting ID 896 0686 7891, Passcode 301999) and requires prior registration via the provided link.  \n\n*The announcement does not disclose any specific financial figures or decisions.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2f370cd4-691a-42a2-8848-edd9dbb4d409",
+    "SCRIP_CD": 521226,
+    "XML_NAME": "ANN_521226_2F370CD4-691A-42A2-8848-EDD9DBB4D409",
+    "NEWSSUB": "Uniroyal Industries Ltd - 521226 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-13T09:47:24.557",
+    "NEWS_DT": "2026-11-13T09:47:24.557",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c8b42424-1dab-42d3-835a-34bad6c80c40.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication of quarterly results is attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/uniroyal-industries-ltd/uniroyal/521226/",
+    "SLONGNAME": "Uniroyal Industries Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:47:24",
+    "DissemDT": "2026-11-13T09:47:24.557",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 432512,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Uniroyal Industries Ltd. has filed a Regulation 47 disclosure to inform the market that its financial results for the quarter ended 30 September 2026 were published in the “Business Standard” (English and Hindi) newspaper on 13 November 2026.  \n- The filing contains only the notice of this newspaper publication; no specific financial figures, earnings, or other monetary details are disclosed in the announcement.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2ba19c77-2d5b-4f91-a1b7-447e00de96ce",
+    "SCRIP_CD": 544240,
+    "XML_NAME": "ANN_544240_2BA19C77-2D5B-4F91-A1B7-447E00DE96CE",
+    "NEWSSUB": "Raymond Lifestyle Ltd - 544240 - Revised Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011.",
+    "DT_TM": "2026-11-13T09:44:14.193",
+    "NEWS_DT": "2026-11-13T09:44:14.193",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2BA19C77_2D5B_4F91_A1B7_447E00DE96CE_094406.pdf",
+    "MORE": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on November 12, 2026 for J K Investors (Bombay) Ltd",
+    "HEADLINE": "The Exchange has received revised Disclosure under Regulation 31(1) and 31(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 on November 12, 2026 for J K Investors ....",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/raymond-lifestyle-ltd/raymondlsl/544240/",
+    "SLONGNAME": "Raymond Lifestyle Ltd",
+    "AGENDA_ID": 51,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-13T09:44:14.193",
+    "TimeDiff": null,
+    "Fld_Attachsize": 7031846,
+    "SUBCATNAME": "Disclosures under Reg. 31(1) and 31(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The post‑event encumber",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 1,
+        "table_index": 0,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "No. of Shares (Post event holding of encumbered shares)",
+            "As Reported Earlier (October 07, 2026)": "72,83,057",
+            "Revised / Correct Figure": "99,40,079"
+          },
+          {
+            "Particulars": "% of Total Share Capital (Post event holding of encumbered shares)",
+            "As Reported Earlier (October 07, 2026)": "11.954%",
+            "Revised / Correct Figure": "16.32%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "09648de7-3eed-4bf9-b18e-4352c3d937af",
+    "SCRIP_CD": 544544,
+    "XML_NAME": "ANN_544544_09648DE7-3EED-4BF9-B18E-4352C3D937AF",
+    "NEWSSUB": "Telge Projects Ltd - 544544 - Board Meeting Outcome for Outcome Of Board Meeting Held On 13/11/2026 For Approval Of Unaudited Financial Results (Standalone And Consolidated) For The Quarter And Half Year Ended 30/09/2026.",
+    "DT_TM": "2026-11-13T09:42:54.007",
+    "NEWS_DT": "2026-11-13T09:42:54.007",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7f7a5697-1eab-4810-84fd-5884136a89eb.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome Of Board Meeting Held On 13/11/2026 For Approval Of Unaudited Financial Results (Standalone And Consolidated) For The Quarter And Half Year Ended 30/09/2026.",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/telge-projects-ltd/telge/544544/",
+    "SLONGNAME": "Telge Projects Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:42:52",
+    "DissemDT": "2026-11-13T09:42:54.007",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 811262,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting on 13 Nov 2026 (09:05 – 09:25 IST, video‑conference)** approved the unaudited standalone and consolidated financial results for the quarter ended 30 Sep 2026, together with a limited review report (Annexure A).  \n- **No specific financial figures** (e.g., revenue, profit, assets) were disclosed in the announcement; it only confirms the approval of the unaudited results.",
+    "key_metrics": {
+      "total_assets": "4610.80",
+      "total_debt": "482.92",
+      "eps": "9",
+      "face_value": "10",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "a931ddb4-315c-4d4d-9a2b-315999e95ba4",
     "SCRIP_CD": 544960,
     "XML_NAME": "ANN_544960_A931DDB4-315C-4D4D-9A2B-315999E95BA4",
@@ -15950,1318 +16236,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "842ef484-f1c7-4442-850d-388a489ea838",
-    "SCRIP_CD": 543225,
-    "XML_NAME": "ANN_543225_842EF484-F1C7-4442-850D-388A489EA838",
-    "NEWSSUB": "Altius Telecom Infrastructure Trust - 543225 - Reg 23(5)(i): Disclosure of material issue",
-    "DT_TM": "2026-11-12T21:51:44.653",
-    "NEWS_DT": "2026-11-12T21:51:44.653",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ac1a59bc-1267-49f6-9e64-fd5d2cdf18b4.pdf",
-    "MORE": "",
-    "HEADLINE": "Altius Telecom Infrastructure Trust has informed the Exchange regarding Disclosure of material issue",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/altius-telecom-infrastructure-trust/altiusinvit/543225/",
-    "SLONGNAME": "Altius Telecom Infrastructure Trust",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:51:44",
-    "DissemDT": "2026-11-12T21:51:44.653",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3083756,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2",
-      "operating_profit": "21",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7c1790e4-52f0-4c57-bd46-f6df9c79d31b",
-    "SCRIP_CD": 540673,
-    "XML_NAME": "ANN_540673_7C1790E4-52F0-4C57-BD46-F6DF9C79D31B",
-    "NEWSSUB": "SIS Ltd - 540673 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
-    "DT_TM": "2026-11-12T21:51:43.063",
-    "NEWS_DT": "2026-11-12T21:51:43.063",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "31383102-fb34-4517-8493-b441d9dbcca7.pdf",
-    "MORE": "",
-    "HEADLINE": "SIS Limited has informed the Exchange regarding Notice of Postal Ballot dated November 4, 2026, for seeking approval of the members of the Company for the matter mentioned in the notice.",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sis-ltd/sis/540673/",
-    "SLONGNAME": "SIS Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:51:43",
-    "DissemDT": "2026-11-12T21:51:43.063",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 695532,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "28828636-2cd2-479c-a61b-ef803c0b2af9",
-    "SCRIP_CD": 519307,
-    "XML_NAME": "ANN_519307_28828636-2CD2-479C-A61B-EF803C0B2AF9",
-    "NEWSSUB": "Vikas WSP Ltd - 519307 - Board Meeting Outcome for Outcome Of Board Meeting Held On November, 12 2026 For Considered, Approved And Took On Record Unaudited Financial Results Along With Limited Review Report By The Auditor For The Quarter And Half Year Ended On September 30, 2026.",
-    "DT_TM": "2026-11-12T21:47:40.29",
-    "NEWS_DT": "2026-11-12T21:47:40.29",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "03a7afd0-c538-4162-96dd-811544309b33.pdf",
-    "MORE": "Outcome of Board Meeting held on November, 12 2026 for Considered, approved and took on record Unaudited Financial Results along with Limited Review Report by the auditor for the quarter and half year ended on September 30, 2026.",
-    "HEADLINE": "Outcome of Board Meeting held on November, 12 2026 for Considered, approved and took on record Unaudited Financial Results along with Limited Review Report by the auditor for the quarter ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/vikas-wsp-ltd/vikaswsp/519307/",
-    "SLONGNAME": "Vikas WSP Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:47:38",
-    "DissemDT": "2026-11-12T21:47:40.29",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 953574,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "7.29",
-      "total_assets": "137703.99",
-      "total_equity": "71909.62",
-      "total_debt": "30666.87",
-      "dividend": "505.00",
-      "face_value": "2044.40",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 28,
-        "rows": [
-          {
-            "SI. NO": "",
-            "Particulars": "",
-            "Quarter ended": "30-Sep-26",
-            "col_4": "30-Jun-26",
-            "col_5": "30-Sep-25",
-            "Six months ended": "30-Sep-26",
-            "col_7": "30-Sep-25",
-            "Year ended": "31-Mar-26"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "",
-            "Quarter ended": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited",
-            "Six months ended": "Unaudited",
-            "col_7": "Unaudited",
-            "Year ended": "Audited"
-          },
-          {
-            "SI. NO": "I",
-            "Particulars": "Revenue from operations",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Six months ended": "",
-            "col_7": "-",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "II",
-            "Particulars": "Other income",
-            "Quarter ended": "7.29",
-            "col_4": "4.05",
-            "col_5": "4.80",
-            "Six months ended": "11.34",
-            "col_7": "11.14",
-            "Year ended": "25.75"
-          },
-          {
-            "SI. NO": "III",
-            "Particulars": "Total income",
-            "Quarter ended": "7.29",
-            "col_4": "4.05",
-            "col_5": "4.80",
-            "Six months ended": "11.34",
-            "col_7": "11.14",
-            "Year ended": "25.75"
-          },
-          {
-            "SI. NO": "IV",
-            "Particulars": "Expenses",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(a) Cost of materials consumed/purchased for trade",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(b) Change in inventories of finished goods and work-in-progress",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Six months ended": "-",
-            "col_7": "-",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(c) Employee benefits expense",
-            "Quarter ended": "4.35",
-            "col_4": "2.97",
-            "col_5": "2.97",
-            "Six months ended": "7.32",
-            "col_7": "5.94",
-            "Year ended": "69.69"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(d) Finance costs",
-            "Quarter ended": "0.03",
-            "col_4": "",
-            "col_5": "-",
-            "Six months ended": "0.03",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(e) Depreciation",
-            "Quarter ended": "12.49",
-            "col_4": "12.49",
-            "col_5": "854.00",
-            "Six months ended": "24.97",
-            "col_7": "1,708.00",
-            "Year ended": "49.95"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(f) Other expenses",
-            "Quarter ended": "143.66",
-            "col_4": "18.78",
-            "col_5": "23.53",
-            "Six months ended": "162.44",
-            "col_7": "50.64",
-            "Year ended": "10,658.24"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "Total expenses",
-            "Quarter ended": "160.53",
-            "col_4": "34.24",
-            "col_5": "880.50",
-            "Six months ended": "194.77",
-            "col_7": "1,764.58",
-            "Year ended": "10,777.89"
-          },
-          {
-            "SI. NO": "V",
-            "Particulars": "Profit/(Loss) from operations before tax and exceptional items (III-IV)",
-            "Quarter ended": "(153.24)",
-            "col_4": "(30.19)",
-            "col_5": "( 875.69)",
-            "Six months ended": "( 183.43)",
-            "col_7": "( 1,753.44)",
-            "Year ended": "(10,752.13)"
-          },
-          {
-            "SI. NO": "VI",
-            "Particulars": "Exceptional item -Expenses / (income)",
-            "Quarter ended": "",
-            "col_4": "0",
-            "col_5": "",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "VII",
-            "Particulars": "Profit/(Loss) from before tax ( V-VI)",
-            "Quarter ended": "(153.24)",
-            "col_4": "(30.19)",
-            "col_5": "( 875.69)",
-            "Six months ended": "( 183.43)",
-            "col_7": "( 1,753.44)",
-            "Year ended": "(10,752.13)"
-          },
-          {
-            "SI. NO": "VIII",
-            "Particulars": "Tax expense",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "Current tax [Minimum Alternate Tax ('MAT')]",
-            "Quarter ended": "-",
-            "col_4": "",
-            "col_5": "-",
-            "Six months ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "Deferred tax expense/(credit)",
-            "Quarter ended": "-",
-            "col_4": "",
-            "col_5": "-",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": "(4,054.56)"
-          },
-          {
-            "SI. NO": "IX",
-            "Particulars": "Net Profit/(Loss) for the period (VII-VIII)",
-            "Quarter ended": "(153.24)",
-            "col_4": "(30.19)",
-            "col_5": "( 875.69)",
-            "Six months ended": "( 183.43)",
-            "col_7": "( 1,753.44)",
-            "Year ended": "(6,697.57)"
-          },
-          {
-            "SI. NO": "X",
-            "Particulars": "Other comprehensive income",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "Items not to be reclassified to profit or loss",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Six months ended": "-",
-            "col_7": "-",
-            "Year ended": "(82.75)"
-          },
-          {
-            "SI. NO": "XI",
-            "Particulars": "Income tax relating to items not to be reclassified to profit or loss",
-            "Quarter ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Six months ended": "-",
-            "col_7": "-",
-            "Year ended": "21.52"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "Total comprehensive income (IX+X)",
-            "Quarter ended": "(153.24)",
-            "col_4": "(30.19)",
-            "col_5": "( 875.69)",
-            "Six months ended": "( 183.43)",
-            "col_7": "( 1,753.44)",
-            "Year ended": "(6,636.34)"
-          },
-          {
-            "SI. NO": "XII",
-            "Particulars": "Paid-up equity share capital(face value of share Re.1/- each)",
-            "Quarter ended": "2,044.40",
-            "col_4": "2,044.40",
-            "col_5": "2,044.40",
-            "Six months ended": "2,044.40",
-            "col_7": "2,044.40",
-            "Year ended": "2,044.40"
-          },
-          {
-            "SI. NO": "XIII",
-            "Particulars": "Earning/(loss) per share (Non-annualised)",
-            "Quarter ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Six months ended": "",
-            "col_7": "",
-            "Year ended": ""
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(a) Earning/(loss) per share (Rs.) (Basic)",
-            "Quarter ended": "(0.07)",
-            "col_4": "(0.01)",
-            "col_5": "( 0.43)",
-            "Six months ended": "( 0.09)",
-            "col_7": "( 0.86)",
-            "Year ended": "(3.25)"
-          },
-          {
-            "SI. NO": "",
-            "Particulars": "(b) Earning/(loss) per share (Rs.) (Diluted)",
-            "Quarter ended": "(0.07)",
-            "col_4": "(0.01)",
-            "col_5": "( 0.43)",
-            "Six months ended": "( 0.09)",
-            "col_7": "( 0.86)",
-            "Year ended": "(3.25)"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 23,
-        "rows": [
-          {
-            "col_1": "Particulars",
-            "Quarter ended": "30-Sep-26",
-            "col_3": "30-Jun-26",
-            "col_4": "30-Sep-25",
-            "Six months ended": "30-Sep-26",
-            "col_6": "30-Sep-25",
-            "col_7": "31-Mar-26"
-          },
-          {
-            "col_1": "",
-            "Quarter ended": "Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "Six months ended": "Unaudited",
-            "col_6": "Unaudited",
-            "col_7": "Audited"
-          },
-          {
-            "col_1": "Segment Revenue",
-            "Quarter ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "United States of America (USA)",
-            "Quarter ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": "-"
-          },
-          {
-            "col_1": "Europe",
-            "Quarter ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": "-"
-          },
-          {
-            "col_1": "Domestic",
-            "Quarter ended": "-",
-            "col_3": "-",
-            "col_4": "",
-            "Six months ended": "-",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "Unallocated",
-            "Quarter ended": "-",
-            "col_3": "",
-            "col_4": "-",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": "-"
-          },
-          {
-            "col_1": "Total",
-            "Quarter ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "-",
-            "col_6": "-",
-            "col_7": "-"
-          },
-          {
-            "col_1": "Add :",
-            "Quarter ended": "",
-            "col_3": "-",
-            "col_4": "",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "Unallocable revenue",
-            "Quarter ended": "7.29",
-            "col_3": "4.05",
-            "col_4": "4.80",
-            "Six months ended": "11.34",
-            "col_6": "11.14",
-            "col_7": "25.75"
-          },
-          {
-            "col_1": "Less :",
-            "Quarter ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "Finance cost",
-            "Quarter ended": "0.03",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "0.03",
-            "col_6": "-",
-            "col_7": ""
-          },
-          {
-            "col_1": "Depreciation and amortization expense",
-            "Quarter ended": "12.49",
-            "col_3": "12.49",
-            "col_4": "854.00",
-            "Six months ended": "24.97",
-            "col_6": "1,708.00",
-            "col_7": "49.95"
-          },
-          {
-            "col_1": "Unallocable expenditure",
-            "Quarter ended": "148.01",
-            "col_3": "21.75",
-            "col_4": "26.50",
-            "Six months ended": "169.77",
-            "col_6": "56.58",
-            "col_7": "10,727.93"
-          },
-          {
-            "col_1": "Profit/(Loss) before tax and exceptional item",
-            "Quarter ended": "(153.24)",
-            "col_3": "(30.19)",
-            "col_4": "(875.69)",
-            "Six months ended": "(183.43)",
-            "col_6": "(1,753.44)",
-            "col_7": "(10,752.13)"
-          },
-          {
-            "col_1": "Exceptional item",
-            "Quarter ended": "",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "-",
-            "col_6": "-",
-            "col_7": ""
-          },
-          {
-            "col_1": "Profit/(Loss) before tax and after exceptional item",
-            "Quarter ended": "(153.24)",
-            "col_3": "(30.19)",
-            "col_4": "(875.69)",
-            "Six months ended": "(183.43)",
-            "col_6": "(1,753.44)",
-            "col_7": "(10,752.13)"
-          },
-          {
-            "col_1": "Tax (credit)/expenses (includes impact of deferred tax)",
-            "Quarter ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "-",
-            "col_6": "-",
-            "col_7": "(4,054.56)"
-          },
-          {
-            "col_1": "Profit/(loss) after tax",
-            "Quarter ended": "(153.24)",
-            "col_3": "(30.19)",
-            "col_4": "(875.69)",
-            "Six months ended": "(183.43)",
-            "col_6": "(1,753.44)",
-            "col_7": "(6,697.57)"
-          },
-          {
-            "col_1": "Other Comprehensive Income",
-            "Quarter ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "col_1": "Remeasurement of post employment benefit obligations",
-            "Quarter ended": "-",
-            "col_3": "-",
-            "col_4": "-",
-            "Six months ended": "-",
-            "col_6": "-",
-            "col_7": "(82.75)"
-          },
-          {
-            "col_1": "Income tax relating to these items",
-            "Quarter ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Six months ended": "",
-            "col_6": "",
-            "col_7": "21.52"
-          },
-          {
-            "col_1": "Total Comprehensive Income for the period/Year",
-            "Quarter ended": "( 153.24)",
-            "col_3": "(30.19)",
-            "col_4": "( 875.69)",
-            "Six months ended": "(183.43)",
-            "col_6": "( 1,753.44)",
-            "col_7": "(6,636.34)"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "06a5c11f-5337-4454-b09b-4a5eb6660c2e",
-    "SCRIP_CD": 544965,
-    "XML_NAME": "ANN_544965_06A5C11F-5337-4454-B09B-4A5EB6660C2E",
-    "NEWSSUB": "Srit India Ltd - 544965 - Board Meeting Outcome for For Approval Of Un-Audited (Standalone And Consolidated) Financial Results For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-11-12T21:45:14.603",
-    "NEWS_DT": "2026-11-12T21:45:14.603",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "092e6d34-d9e8-4c82-ad20-e5e5696e690e.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting held on November 12, 2026 pursuant to Regulation 30 and Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/srit-india-ltd/srit/544965/",
-    "SLONGNAME": "Srit India Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:45:11",
-    "DissemDT": "2026-11-12T21:45:14.603",
-    "TimeDiff": "00:00:03",
-    "Fld_Attachsize": 7803717,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "1032.38",
-      "total_assets": "7569.22",
-      "total_equity": "2708.45",
-      "total_debt": "231.91",
-      "face_value": "5",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "S.No": "",
-            "Particulars": "Refer Notes",
-            "For the quarter ended September 30, 2026": "Unaudited",
-            "For the quarter ended June 30, 2026": "Unaudited",
-            "For the quarter ended September 30, 2025": "Unaudited",
-            "For the half year ended September 30, 2026": "Unaudited",
-            "For the half year ended September 30, 2025": "Audited",
-            "For the year ended March 31, 2026": "Audited"
-          },
-          {
-            "S.No": "I II Ill IV V VI VII VIII IX X XI",
-            "Particulars": "INCOME Revenue from operations Other income Total Income EXPENSES Sub-contracting and technical fees Employee benefits expense Finance costs Depreciation and Amortization expenses Other expenses Total Expenses Profit/(Loss) before tax and Exceptional Item (11-111) Exceptional Item Proflt/(Loss) before tax (IV-V) Tax expense Current tax Deferred tax Total Tax Expense Profit/(Loss) after tax for the year (VI-VII) Other Comprehensive Income /(Loss) Items that will be reclassified to profit or loss Items that will not be reclassified to profit or loss Re-measurement gain/(loss) on Defined Benefit Plans Income tax relating to items that will not be reclassified to profit or loss Total Other Comprehensive lncome/(Loss) (net of taxes) Total Comprehensive Income for the year Earnings per equity share: Basic (In Rs. Per share) Diluted (In Rs. Per share)",
-            "For the quarter ended September 30, 2026": "1,032.38 49.99",
-            "For the quarter ended June 30, 2026": "865.16 29.67",
-            "For the quarter ended September 30, 2025": "789.39 23.16",
-            "For the half year ended September 30, 2026": "1,897.54 79.66",
-            "For the half year ended September 30, 2025": "2,275.82 49.23",
-            "For the year ended March 31, 2026": "4,395.33 124.38"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "1,082.37",
-            "For the quarter ended June 30, 2026": "894.83",
-            "For the quarter ended September 30, 2025": "812.55",
-            "For the half year ended September 30, 2026": "1,977.20",
-            "For the half year ended September 30, 2025": "2,325.05",
-            "For the year ended March 31, 2026": "4,519.71"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "617.59 124.07 37.95 28.71 81.28",
-            "For the quarter ended June 30, 2026": "578.58 107.49 33.43 28.52 55.41",
-            "For the quarter ended September 30, 2025": "458.91 85.07 30.81 17.62 59.80",
-            "For the half year ended September 30, 2026": "1,196.17 231.56 71.38 57.23 136.69",
-            "For the half year ended September 30, 2025": "1,683.98 172.94 63.37 33.39 110.34",
-            "For the year ended March 31, 2026": "3,163.40 372.87 141.93 80.16 228.11"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "889.60",
-            "For the quarter ended June 30, 2026": "803.43",
-            "For the quarter ended September 30, 2025": "652.21",
-            "For the half year ended September 30, 2026": "1,693.03",
-            "For the half year ended September 30, 2025": "2,064.02",
-            "For the year ended March 31, 2026": "3,986.47"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "192.77",
-            "For the quarter ended June 30, 2026": "91.40",
-            "For the quarter ended September 30, 2025": "160.34",
-            "For the half year ended September 30, 2026": "284.17",
-            "For the half year ended September 30, 2025": "261.03",
-            "For the year ended March 31, 2026": ""
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "192.77",
-            "For the quarter ended June 30, 2026": "91.40",
-            "For the quarter ended September 30, 2025": "160.34",
-            "For the half year ended September 30, 2026": "284.17",
-            "For the half year ended September 30, 2025": "261.03",
-            "For the year ended March 31, 2026": "533.24"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "53.91 (2.39)",
-            "For the quarter ended June 30, 2026": "24.33 (1.32)",
-            "For the quarter ended September 30, 2025": "10.50 39.48",
-            "For the half year ended September 30, 2026": "78.23 (3.71)",
-            "For the half year ended September 30, 2025": "35.59 37.95",
-            "For the year ended March 31, 2026": "132.90 (8.13)"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "51.52",
-            "For the quarter ended June 30, 2026": "23.00",
-            "For the quarter ended September 30, 2025": "49.98",
-            "For the half year ended September 30, 2026": "74.53",
-            "For the half year ended September 30, 2025": "73.54",
-            "For the year ended March 31, 2026": "124.77"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "141.25",
-            "For the quarter ended June 30, 2026": "68.40",
-            "For the quarter ended September 30, 2025": "110.36",
-            "For the half year ended September 30, 2026": "209.64",
-            "For the half year ended September 30, 2025": "187.49",
-            "For the year ended March 31, 2026": "408.47"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "(0.23) 0.06",
-            "For the quarter ended June 30, 2026": "0.64 (0.16)",
-            "For the quarter ended September 30, 2025": "0.38 (0.09)",
-            "For the half year ended September 30, 2026": "0.41 (0.10)",
-            "For the half year ended September 30, 2025": "0.76 (0.19)",
-            "For the year ended March 31, 2026": "2.06 (0.52)"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "(0.17)",
-            "For the quarter ended June 30, 2026": "0.48",
-            "For the quarter ended September 30, 2025": "0.29",
-            "For the half year ended September 30, 2026": "0.31",
-            "For the half year ended September 30, 2025": "0.57",
-            "For the year ended March 31, 2026": "1.54"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "141.08",
-            "For the quarter ended June 30, 2026": "68.88",
-            "For the quarter ended September 30, 2025": "110.65",
-            "For the half year ended September 30, 2026": "209.95",
-            "For the half year ended September 30, 2025": "188.06",
-            "For the year ended March 31, 2026": "410.01"
-          },
-          {
-            "S.No": "",
-            "Particulars": "",
-            "For the quarter ended September 30, 2026": "2.98 2.98",
-            "For the quarter ended June 30, 2026": "1.44 1.44",
-            "For the quarter ended September 30, 2025": "2.49 2.49",
-            "For the half year ended September 30, 2026": "4.42 4.42",
-            "For the half year ended September 30, 2025": "4.24 4.24",
-            "For the year ended March 31, 2026": "8.93 8.93"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "Unaudited",
-            "As at March 31, 2026": "Audited"
-          },
-          {
-            "Particulars": "I. ASSETS 1. Non-current assets Property, Plant and Equipment Other Intangible Assets Intangible Assets under development Right of use asset Financial assets -Investments -Loans • Trade Receivables -Other financial assets Deferred tax asset (Net) Other non-current assets 2.Current assets Financial assets -Trade receivables • Cash and cash equivalents • Bank balances other than cash and cash equivalents above • Other financial assets Other current assets Total Assets II. EQUITY AND LIABILITIES EQUITY Equity share capital Other equity Total equity LIABILITIES 1. Non-current liabilities Financial liabilities -Borrowings -Lease Lia bi lilies -Trade payables -Total outstanding dues of micro and small enterprises -Total outstanding dues of creditors other than micro and small enterpri; -Other financial liabilities Provisions Other non-current liabilities 2. Current liabilities Financial liabilities -Borrowings -Lease Liabilities -Trade payables -Total outstanding dues of micro and small enterprises -Total outstanding dues of creditors other than micro and small enterpr -Other financial liabilities Other current liabilities Provisions Current tax liabilities (Net) Total liabilities Total Equity and Liabilities",
-            "As at September 30, 2026": "89.45 244.54 103.80 24.71 0.22 108.69 310.03 30.49 6.11",
-            "As at March 31, 2026": "109.96 272.32 86.60 33.12 0.22 240.98 355.39 26.88 8.54"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "918.04 2,676.77 1,084.05 119.78 940.41 1,830.17",
-            "As at March 31, 2026": "1,134.01 2,328.26 52.74 143.75 615.27 1,747.08"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "6,651.18",
-            "As at March 31, 2026": "4,887.10"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "7,569.22",
-            "As at March 31, 2026": "6,021.11"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "237.37 2,471.08",
-            "As at March 31, 2026": "237.37 1,605.93"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "2,708.45",
-            "As at March 31, 2026": "1,843.30"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "231.91 44.68 - 102.54 155.97 19.68 22.80",
-            "As at March 31, 2026": "187.67 61.86 227.34 160.79 17.20 29.54"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "577.58 314.58 20.99 - 2,360.21 645.61 864.31 1.55 75.94",
-            "As at March 31, 2026": "684.40 161.76 24.22 2,054.05 385.99 828.16 1.41 37.82"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "4,283.19",
-            "As at March 31, 2026": "3,493.41"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "4,860.77",
-            "As at March 31, 2026": "4,177.81"
-          },
-          {
-            "Particulars": "",
-            "As at September 30, 2026": "7,569.22",
-            "As at March 31, 2026": "6,021.11"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used in) financing activities (Ill) IV Net lncrease/(decrease) in cash and cash equivalents (I+ II+ Ill) Cash and cash equivalents at the beginning of the year V Cash and cash equivalents at the end of the year": "",
-            "(23.99) 197.06 (11.71) 900.02": "1,061.38",
-            "(26.04) 131.64 (14.68) 148.15": "239.07"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used in) financing activities (Ill) IV Net lncrease/(decrease) in cash and cash equivalents (I+ II+ Ill) Cash and cash equivalents at the beginning of the year V Cash and cash equivalents at the end of the year": "",
-            "(23.99) 197.06 (11.71) 900.02": "1,031.31 52.74",
-            "(26.04) 131.64 (14.68) 148.15": "(84.29) 151.89"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used in) financing activities (Ill) IV Net lncrease/(decrease) in cash and cash equivalents (I+ II+ Ill) Cash and cash equivalents at the beginning of the year V Cash and cash equivalents at the end of the year": "",
-            "(23.99) 197.06 (11.71) 900.02": "1,084.05",
-            "(26.04) 131.64 (14.68) 148.15": "67.60"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used in) financing activities (Ill) IV Net lncrease/(decrease) in cash and cash equivalents (I+ II+ Ill) Cash and cash equivalents at the beginning of the year V Cash and cash equivalents at the end of the year": "VJ Components of cash and cash equivalents: Cash on hand With banks Current Accounts Total cash and cash equivalents",
-            "(23.99) 197.06 (11.71) 900.02": "0.11 1,083.94",
-            "(26.04) 131.64 (14.68) 148.15": "0.11 67.49"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used in) financing activities (Ill) IV Net lncrease/(decrease) in cash and cash equivalents (I+ II+ Ill) Cash and cash equivalents at the beginning of the year V Cash and cash equivalents at the end of the year": "",
-            "(23.99) 197.06 (11.71) 900.02": "1,084.05",
-            "(26.04) 131.64 (14.68) 148.15": "67.60"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 1,
-        "row_count": 2,
-        "rows": [
-          {
-            "Particulars": "Long-term borrowings Short-term borrowings Lease liabilities",
-            "As at April 01, 2026": "187.67 161.76 86.08",
-            "Net cash flows": "44.24 152.82 (11.71)",
-            "Non cash changes I other adjustments": "- - 8.70",
-            "As at September 30, 2026": "231.91 314.58 65.67"
-          },
-          {
-            "Particulars": "Total",
-            "As at April 01, 2026": "435.51",
-            "Net cash flows": "185.35",
-            "Non cash changes I other adjustments": "8.70",
-            "As at September 30, 2026": "612.16"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 20,
-        "rows": [
-          {
-            "S.No": "",
-            "Paniculars": "Refer Notes",
-            "For the quaner ended September 30, 2026": "Unaudited",
-            "For the quaner ended June 30, 2026": "Unaudited",
-            "For the quaner ended September 30, 2025": "Unaudited",
-            "For the half year ended September 30, 2026": "Unaudited",
-            "For the half year ended September 30, 2025": "Audited",
-            "For the year ended March 31, 2026": "Audited"
-          },
-          {
-            "S.No": "I II Ill IV V VI VII VIII IX X XI XII XIII XIV",
-            "Paniculars": "INCOME Revenue from operations Other income Total Income EXPENSES Sub-contracting and technical tees Employee benefits expense Finance costs Depreciation and Amortization expenses Other expenses Total Expenses Profit/(loss) before tax and Exceptional ltem(II -Ill) Exceptional Item Profit/(loss) before tax (IV -V) Tax expense Current tax Deterred tax Total Tax Expense Profit/(loss) after tax for the year(VI • VII) Other Comprehensive Income /(Loss) Items that will be reclassified to profit or loss Items that will not be reclassified to profit or loss Re-measurement galn/(loss) on Defined Benefit Plans Income tax relating to items that will not be reclassified to profit or Total Other Comprehensive lncome/(loss) (net of taxes) Total Comprehensive income for the year Net Profit/(loss) attributable to: Owners of the of the Parent Company Non-Controlling Interests other Comprehensive lncome/(loss) attributable to: Owners of the of the Parent Company Non-Controlling Interests Total Comprehensive lncome/(loss) attributable to: Owners of the of the Parent Company Non-Controlling Interests Earnings per equity share: Basic (In Rs. Per share) Diluted (In Rs. Per share)",
-            "For the quaner ended September 30, 2026": "1,047.01 50.51",
-            "For the quaner ended June 30, 2026": "878.10 29.97",
-            "For the quaner ended September 30, 2025": "811.79 22.84",
-            "For the half year ended September 30, 2026": "1,925.11 80.48",
-            "For the half year ended September 30, 2025": "2,326.18 48.99",
-            "For the year ended March 31, 2026": "4,499.99 125.39"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "1,097.52",
-            "For the quaner ended June 30, 2026": "908.07",
-            "For the quaner ended September 30, 2025": "834.63",
-            "For the half year ended September 30, 2026": "2,005.59",
-            "For the half year ended September 30, 2025": "2,375.17",
-            "For the year ended March 31, 2026": "4,625.38"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "625.81 129.n 38.30 29.44 85.29",
-            "For the quaner ended June 30, 2026": "586.12 110.67 33.77 29.25 57.18",
-            "For the quaner ended September 30, 2025": "476.88 88.73 30.12 18.82 64.46",
-            "For the half year ended September 30, 2026": "1,211.93 240.44 72.07 58.69 112.17",
-            "For the half year ended September 30, 2025": "1,725.94 182.02 63.21 35.81 119.59",
-            "For the year ended March 31, 2026": "3,238.79 395.63 143.75 84.96 239.94"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "908.61",
-            "For the quaner ended June 30, 2026": "816.99",
-            "For the quaner ended September 30, 2025": "679.02",
-            "For the half year ended September 30, 2026": "1,725.60",
-            "For the half year ended September 30, 2025": "2,126.57",
-            "For the year ended March 31, 2026": "4,103.07"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "188.92",
-            "For the quaner ended June 30, 2026": "91.07",
-            "For the quaner ended September 30, 2025": "155.61",
-            "For the half year ended September 30, 2026": "279.99",
-            "For the half year ended September 30, 2025": "248.60",
-            "For the year ended March 31, 2026": "522.31"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "188.92",
-            "For the quaner ended June 30, 2026": "91.07",
-            "For the quaner ended September 30, 2025": "155.61",
-            "For the half year ended September 30, 2026": "279.99",
-            "For the half year ended September 30, 2025": "248.60",
-            "For the year ended March 31, 2026": "522.31"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "53.91 (2.39)",
-            "For the quaner ended June 30, 2026": "24.33 (1.32)",
-            "For the quaner ended September 30, 2025": "10.50 45.70",
-            "For the half year ended September 30, 2026": "78.23 (3.71)",
-            "For the half year ended September 30, 2025": "35.59 37.73",
-            "For the year ended March 31, 2026": "132.90 (19.53)"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "51.52",
-            "For the quaner ended June 30, 2026": "23.00",
-            "For the quaner ended September 30, 2025": "56.20",
-            "For the half year ended September 30, 2026": "74.53",
-            "For the half year ended September 30, 2025": "73.32",
-            "For the year ended March 31, 2026": "113.37"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "137.40",
-            "For the quaner ended June 30, 2026": "68.07",
-            "For the quaner ended September 30, 2025": "99.41",
-            "For the half year ended September 30, 2026": "205.47",
-            "For the half year ended September 30, 2025": "175.28",
-            "For the year ended March 31, 2026": "408.94"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "(2.35) 0.59",
-            "For the quaner ended June 30, 2026": "1.09 (0.27)",
-            "For the quaner ended September 30, 2025": "1.29 (0.33)",
-            "For the half year ended September 30, 2026": "(1.27) 0.32",
-            "For the half year ended September 30, 2025": "2.57 (0.65)",
-            "For the year ended March 31, 2026": "3.87 (0.98)"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "(1.76)",
-            "For the quaner ended June 30, 2026": "0.81",
-            "For the quaner ended September 30, 2025": "0.96",
-            "For the half year ended September 30, 2026": "(0.95)",
-            "For the half year ended September 30, 2025": "1.92",
-            "For the year ended March 31, 2026": "2.89"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "135.64",
-            "For the quaner ended June 30, 2026": "68.88",
-            "For the quaner ended September 30, 2025": "100.38",
-            "For the half year ended September 30, 2026": "204.52",
-            "For the half year ended September 30, 2025": "1n.20",
-            "For the year ended March 31, 2026": "411.83"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "137.63 (0.23)",
-            "For the quaner ended June 30, 2026": "68.09 (0.02)",
-            "For the quaner ended September 30, 2025": "100.07 (0,65)",
-            "For the half year ended September 30, 2026": "205.72 (0.25)",
-            "For the half year ended September 30, 2025": "176.01 (0.73)",
-            "For the year ended March 31, 2026": "409.07 (0.13)"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "137.40",
-            "For the quaner ended June 30, 2026": "68.07",
-            "For the quaner ended September 30, 2025": "99.42",
-            "For the half year ended September 30, 2026": "205.47",
-            "For the half year ended September 30, 2025": "175.28",
-            "For the year ended March 31, 2026": "408.94"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "(1.66) (0.10)",
-            "For the quaner ended June 30, 2026": "0.79 0.02",
-            "For the quaner ended September 30, 2025": "0.92 0,04",
-            "For the half year ended September 30, 2026": "(0.87) (0.08)",
-            "For the half year ended September 30, 2025": "1.84 0.08",
-            "For the year ended March 31, 2026": "2.81 0.08"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "(1.76)",
-            "For the quaner ended June 30, 2026": "0.81",
-            "For the quaner ended September 30, 2025": "0.96",
-            "For the half year ended September 30, 2026": "(0.95)",
-            "For the half year ended September 30, 2025": "1.92",
-            "For the year ended March 31, 2026": "2.89"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "135.96 (0.33)",
-            "For the quaner ended June 30, 2026": "68.88 0.00",
-            "For the quaner ended September 30, 2025": "100.99 (0,61)",
-            "For the half year ended September 30, 2026": "204.85 (0.33)",
-            "For the half year ended September 30, 2025": "177.85 (0.65)",
-            "For the year ended March 31, 2026": "411.88 (0.05)"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "135.64",
-            "For the quaner ended June 30, 2026": "68.88",
-            "For the quaner ended September 30, 2025": "100.38",
-            "For the half year ended September 30, 2026": "204.52",
-            "For the half year ended September 30, 2025": "1n.20",
-            "For the year ended March 31, 2026": "411.83"
-          },
-          {
-            "S.No": "",
-            "Paniculars": "",
-            "For the quaner ended September 30, 2026": "2.90 2.90",
-            "For the quaner ended June 30, 2026": "1.43 1.43",
-            "For the quaner ended September 30, 2025": "2.26 2.26",
-            "For the half year ended September 30, 2026": "4.33 4.33",
-            "For the half year ended September 30, 2025": "3.98 3.98",
-            "For the year ended March 31, 2026": "9.00 9.00"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used In) financing activities (Ill)": "",
-            "(32.48) 195.51 (20.94) (0.00)": "142.09",
-            "(25.88) (149.83) (14.85) 428.38": "237.82"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used In) financing activities (Ill)": "IV Net lncrease/(decrease) In cash and cash equivalents (I+ II+ Ill) Cash and cash equivalents at the beginning of the year Adjustment for unrealised foreign exchange gain V Cash and cash equivalents at the end of the year",
-            "(32.48) 195.51 (20.94) (0.00)": "1,021.91 55.87 7.07",
-            "(25.88) (149.83) (14.85) 428.38": "(77.75) 153.56"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used In) financing activities (Ill)": "",
-            "(32.48) 195.51 (20.94) (0.00)": "1,084.85",
-            "(25.88) (149.83) (14.85) 428.38": "75.81"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used In) financing activities (Ill)": "VI Components ofc ash and cash equivalents: Cash on hand With banks Current Accounts Total cash and cash equivalents",
-            "(32.48) 195.51 (20.94) (0.00)": "0.11 1,084.74",
-            "(25.88) (149.83) (14.85) 428.38": "0.15 75.66"
-          },
-          {
-            "Ill Cash flows from financing activities Interest paid Proceeds/(Repayment) of borrowings Payment of lease liabilities Proceeds from Issue of Share Capital Net cash flow from/ (used In) financing activities (Ill)": "",
-            "(32.48) 195.51 (20.94) (0.00)": "1,084.85",
-            "(25.88) (149.83) (14.85) 428.38": "75.81"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 1,
-        "row_count": 2,
-        "rows": [
-          {
-            "Particulars": "Long-term borrowings Short-term borrowings Lease liabilities",
-            "Asat April 01, 2026": "195.01 166.45 86.61",
-            "Net cash flows": "42.60 152.77 (20.94)",
-            "Non cash changes/ other adjustments": "- - 0.00",
-            "Asat September 30, 2026": "237.61 319.22 65.67"
-          },
-          {
-            "Particulars": "Total",
-            "Asat April 01, 2026": "448.07",
-            "Net cash flows": "174.43",
-            "Non cash changes/ other adjustments": "0.00",
-            "Asat September 30, 2026": "622.50"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "dbea0796-07a3-4b7c-b908-452dfbfa73c9",
-    "SCRIP_CD": 508918,
-    "XML_NAME": "ANN_508918_DBEA0796-07A3-4B7C-B908-452DFBFA73C9",
-    "NEWSSUB": "Ironwood Education Ltd - 508918 - Intimation Of Record Date For Issuance Of Equity Shares Of The Company On Right Basis.",
-    "DT_TM": "2026-11-12T21:44:47.363",
-    "NEWS_DT": "2026-11-12T21:44:47.363",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8c0d63b9-0fa7-4ad3-b396-5f3c7a72c63a.pdf",
-    "MORE": "In continuation of the outcome of Board meeting dated August 14, 2026, wherein the Board approved the issuance of equity shares of face value of Rs. 10 each of the Company (Rights Equity Shares) upto an amount of Rs. 24,00,00,000 by way of a rights issue (Rights Issue), in accordance with applicable laws, was approved to the eligible equity shareholders of the Company, please be informed that the Board at its meeting held today, i.e. on November 12, 2026, has, inter alia considered, approved and fixed Wednesday November 18, 2026 as the Record Date in accordance with Regulation 42 of the Listing Regulation and Regulation 68 of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, for determining the equity shareholders eligible to receive the Rights Entitlement in the proposed Rights Issue .",
-    "HEADLINE": "In continuation of the outcome of Board meeting dated August 14, 2026, wherein the Board approved the issuance of equity shares of face value of Rs. 10 each of the Company (Rights Equity ....",
-    "CATEGORYNAME": "Corp. Action",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ironwood-education-ltd/ironwood/508918/",
-    "SLONGNAME": "Ironwood Education Ltd",
-    "AGENDA_ID": 36,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:44:47",
-    "DissemDT": "2026-11-12T21:44:47.363",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 542916,
-    "SUBCATNAME": "Record Date",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board approved a rights issue of equity shares (Rs 10 face value) for a total amount **not exceeding ₹24 crore** (₹24,00,00,000) to be offered to eligible shareholders.  \n- The **record date** for determining entitlement to the rights issue has been set for **Wednesday, 18 Nov 2026**, as confirmed in the Board meeting held on **12 Nov 2026**.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "334112e5-a32a-4ba1-bd83-12a908786e6f",
-    "SCRIP_CD": 511644,
-    "XML_NAME": "ANN_511644_334112E5-A32A-4BA1-BD83-12A908786E6F",
-    "NEWSSUB": "Omega Interactive Technologies Ltd - 511644 - Outcome Of The Board Of Directors Meeting Held On Thursday, 12Th November, 2026",
-    "DT_TM": "2026-11-12T21:44:20",
-    "NEWS_DT": "2026-11-12T21:44:20",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c9f38393-f7d7-44f1-9ebc-656bfb6b1282.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of BM for Anaudited Financial Result Standalone and Consolidated for quarter and half yearly ended 30-09-2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/omega-interactive-technologies-ltd/omegain/511644/",
-    "SLONGNAME": "Omega Interactive Technologies Ltd",
-    "AGENDA_ID": 84,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:44:19",
-    "DissemDT": "2026-11-12T21:44:20",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 7971652,
-    "SUBCATNAME": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2015.56",
-      "total_assets": "29383.80",
-      "total_equity": "10164.83",
-      "total_debt": "4829.00",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "976729dc-3573-47cd-90f2-ff7f7f48053b",
-    "SCRIP_CD": 538772,
-    "XML_NAME": "ANN_538772_976729DC-3573-47CD-90F2-FF7F7F48053B",
-    "NEWSSUB": "Niyogin Fintech Ltd - 538772 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-12T21:41:45.833",
-    "NEWS_DT": "2026-11-12T21:41:45.833",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "63b8ded3-c28b-4684-b3c2-405002fb20ab.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Investor Presentation - Q2 FY27",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/niyogin-fintech-ltd/niyogin/538772/",
-    "SLONGNAME": "Niyogin Fintech Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:41:45",
-    "DissemDT": "2026-11-12T21:41:45.833",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6551112,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "operating_profit": "2",
-      "total_debt": "89.7",
-      "currency_unit": "₹ in Crores"
-    },
     "financial_tables": []
   }
 ]
