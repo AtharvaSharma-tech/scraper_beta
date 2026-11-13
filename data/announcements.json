@@ -1,5 +1,2186 @@
 [
   {
+    "NEWSID": "fa4e7826-cc8d-42cf-a52d-854fef3a76ff",
+    "SCRIP_CD": 544995,
+    "XML_NAME": "ANN_544995_FA4E7826-CC8D-42CF-A52D-854FEF3A76FF",
+    "NEWSSUB": "Fusion CX Ltd - 544995 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+    "DT_TM": "2026-11-14T00:51:36.61",
+    "NEWS_DT": "2026-11-14T00:51:36.61",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bd8f0729-befd-4a18-929e-60f56f0d87cd.pdf",
+    "MORE": "",
+    "HEADLINE": "Please refer enclosed herewith",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/fusion-cx-ltd/fusioncx/544995/",
+    "SLONGNAME": "Fusion CX Ltd",
+    "AGENDA_ID": 15,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-14T00:51:36",
+    "DissemDT": "2026-11-14T00:51:36.61",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7694767,
+    "SUBCATNAME": "Change in Directorate",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Financial results & dividend** – The Board approved the unaudited standalone and consolidated results for the quarter and half‑year ended 30 Sept 2026 (no monetary figures were disclosed). It also recommended",
+    "key_metrics": {
+      "revenue": "7",
+      "total_debt": "3",
+      "dividend": "0.75",
+      "face_value": "1",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 23,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 31 March 2026": "(Audited)"
+          },
+          {
+            "Particulars": "I",
+            "col_2": "ASSETS Non-current assets (a) Property, plant and equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Other intangible assets (e) Financial assets (i) Investments (ii) Loans (iii) Other non-financial assets (f) Deferred tax asset (net) (g) Non-current tax assets(net) (h) Other non-current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c) (d)",
+            "As at 30 September 2026": "2 27.82 1 18.76 41.34 37.96",
+            "As at 31 March 2026": "173.80 162.59 86.94 41.47"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(e)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "1 83.96 1 38.02 3 58.72",
+            "As at 31 March 2026": "179.18 80.37 303.73"
+          },
+          {
+            "Particulars": "II",
+            "col_2": "",
+            "As at 30 September 2026": "88.95 83.65 4.77",
+            "As at 31 March 2026": "101.59 64.11 10.75"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total non-current assets (I)",
+            "As at 30 September 2026": "1,283.95",
+            "As at 31 March 2026": "1,204.53"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalent (iv) Loans (v) Other financial assets (b) Other current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "1 ,541.52",
+            "As at 31 March 2026": "1,191.30"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b)",
+            "As at 30 September 2026": "45.13 1 12.77 3.06 39.50 1 23.12",
+            "As at 31 March 2026": "2 .96 139.16 5 .20 135.99 113.95"
+          },
+          {
+            "Particulars": "III",
+            "col_2": "Total current assets (II)",
+            "As at 30 September 2026": "1,865.10",
+            "As at 31 March 2026": "1,588.56"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Assets (I+II)",
+            "As at 30 September 2026": "3,149.05",
+            "As at 31 March 2026": "2 ,793.09"
+          },
+          {
+            "Particulars": "",
+            "col_2": "EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "1 27.06 1 ,071.14",
+            "As at 31 March 2026": "126.33 863.64"
+          },
+          {
+            "Particulars": "IV",
+            "col_2": "Total equity (III)",
+            "As at 30 September 2026": "1,198.20",
+            "As at 31 March 2026": "989.97"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (b) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "3 85.52 50.20 73.03",
+            "As at 31 March 2026": "260.93 87.90 76.87"
+          },
+          {
+            "Particulars": "V",
+            "col_2": "Total non-current liabilities (IV)",
+            "As at 30 September 2026": "508.75",
+            "As at 31 March 2026": "425.70"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprises and small enterprises; and (B) total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other financial liabilities (b) Other current liabilities (c) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c)",
+            "As at 30 September 2026": "8 59.25 70.66 28.47 2 04.71 2 16.83 39.71 22.47",
+            "As at 31 March 2026": "745.07 74.84 18.03 288.47 214.49 14.12 22.40"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total current liabilities (V)",
+            "As at 30 September 2026": "1,442.10",
+            "As at 31 March 2026": "1,377.42"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total liabilities (IV+V)",
+            "As at 30 September 2026": "1,950.85",
+            "As at 31 March 2026": "1,803.12"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Equity and Liabilities (III+IV+ V)",
+            "As at 30 September 2026": "3,149.05",
+            "As at 31 March 2026": "2,793.09"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 24,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 31 March 2026": "(Audited)"
+          },
+          {
+            "Particulars": "I",
+            "col_2": "ASSETS Non-current assets (a) Property, plant and equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Goodwill (e) Other intangible assets (f) Financial assets (i) Investments (ii) Loans (iii) Other non-financial assets (g) Deferred tax asset (net) (h) Non-current tax assets(net) (i) Other non-current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c) (d) (e) (f)",
+            "As at 30 September 2026": "1,008.61 1,074.99 4 1.34 5,532.06 984.54 4 7.15 4 1.05 448.72",
+            "As at 31 March 2026": "9 58.01 1 ,235.90 86.94 3 ,604.38 1 ,064.33 44.34 89.81 3 96.37"
+          },
+          {
+            "Particulars": "II",
+            "col_2": "",
+            "As at 30 September 2026": "359.06 8 3.43 1 3.38",
+            "As at 31 March 2026": "3 09.06 1 01.08 20.41"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total non-current assets (I)",
+            "As at 30 September 2026": "9 ,634.33",
+            "As at 31 March 2026": "7,910.63"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalent (iv) Loans (v) Other financial assets (b) Current tax assets (net) (c) Other current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "4,176.87 585.95 112.77",
+            "As at 31 March 2026": "3 ,750.57 8 95.59 1 39.16"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b) (c)",
+            "As at 30 September 2026": "1,063.61 3 3.15 - 527.51",
+            "As at 31 March 2026": "7 15.53 117.71 - 4 84.86"
+          },
+          {
+            "Particulars": "III",
+            "col_2": "Total current assets (II)",
+            "As at 30 September 2026": "6 ,499.86",
+            "As at 31 March 2026": "6,103.42"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total assets (I+II)",
+            "As at 30 September 2026": "1 6,134.19",
+            "As at 31 March 2026": "14,014.05"
+          },
+          {
+            "Particulars": "",
+            "col_2": "EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "127.06 6,658.87",
+            "As at 31 March 2026": "1 26.33 5 ,480.51"
+          },
+          {
+            "Particulars": "IV",
+            "col_2": "Total equity (III)",
+            "As at 30 September 2026": "6 ,785.93",
+            "As at 31 March 2026": "5,606.84"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Other financial liabilities (b) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "897.20 695.38 225.30 7 9.04",
+            "As at 31 March 2026": "7 97.67 9 00.57 14.50 82.81"
+          },
+          {
+            "Particulars": "V",
+            "col_2": "Total non-current liabilities (IV)",
+            "As at 30 September 2026": "1 ,896.92",
+            "As at 31 March 2026": "1,795.55"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprises and small enterprises; and (B) total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (net)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "2,175.78 500.84 2 8.47 1,387.94 1,954.60",
+            "As at 31 March 2026": "1 ,870.97 4 55.03 18.03 1 ,744.97 1 ,690.51"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b)",
+            "As at 30 September 2026": "1,000.88",
+            "As at 31 March 2026": "5 57.47"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(c) (d)",
+            "As at 30 September 2026": "2 2.81 380.02",
+            "As at 31 March 2026": "22.74 2 51.94"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total current liabilities (V)",
+            "As at 30 September 2026": "7,451.34",
+            "As at 31 March 2026": "6,611.66"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total liabilities (IV+V)",
+            "As at 30 September 2026": "9 ,348.26",
+            "As at 31 March 2026": "8,407.21"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Equity and Liabilities (III+IV+ V)",
+            "As at 30 September 2026": "1 6,134.19",
+            "As at 31 March 2026": "14,014.05"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "S. No.": "",
+            "Particulars": "",
+            "Quarter ended": "September 30, 2026",
+            "col_4": "June 30, 2026",
+            "col_5": "September 30, 2025",
+            "Period Ended": "September 30, 2026",
+            "col_7": "September 30, 2025",
+            "Year Ended": "March 31, 2026"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "",
+            "Quarter ended": "(Unaudited)",
+            "col_4": "(Audited) (Refer note 8)",
+            "col_5": "(Unaudited) (Refer note 9)",
+            "Period Ended": "(Unaudited)",
+            "col_7": "(Audited) (Refer note 7)",
+            "Year Ended": "(Audited)"
+          },
+          {
+            "S. No.": "I",
+            "Particulars": "Income",
+            "Quarter ended": "",
+            "col_4": "",
+            "col_5": "4 ,303.22 59.45",
+            "Period Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S. No.": "II",
+            "Particulars": "(a) Revenue from operations (b) Other income",
+            "Quarter ended": "5 ,252.86 1 50.39",
+            "col_4": "4,904.84 133.63",
+            "col_5": "",
+            "Period Ended": "10,157.70 2 84.02",
+            "col_7": "8 ,434.19 1 22.49",
+            "Year Ended": "18,181.38 3 36.93"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total income (I)",
+            "Quarter ended": "5,403.25",
+            "col_4": "5,038.47",
+            "col_5": "4,362.67",
+            "Period Ended": "1 0,441.72",
+            "col_7": "8,556.68",
+            "Year Ended": "18,518.31"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Expenses (a) Employee benefits expense (b) Finance cost (c) Depreciation and amortization",
+            "Quarter ended": "3 ,613.84 97.53 2 44.03",
+            "col_4": "3,312.24 8 9.90 232.81",
+            "col_5": "3 ,129.80 134.49 212.04 385.39",
+            "Period Ended": "6 ,926.08 1 87.43 4 76.84",
+            "col_7": "5 ,694.61 2 38.22 4 58.75",
+            "Year Ended": "11,929.80 4 54.71 9 50.99"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "(d) Other expenses",
+            "Quarter ended": "8 12.92",
+            "col_4": "775.37",
+            "col_5": "",
+            "Period Ended": "1 ,588.29",
+            "col_7": "1 ,352.38",
+            "Year Ended": "3,289.80"
+          },
+          {
+            "S. No.": "III IV V VI",
+            "Particulars": "Total expenses (II)",
+            "Quarter ended": "4,768.32",
+            "col_4": "4,410.32",
+            "col_5": "3,861.72",
+            "Period Ended": "9 ,178.64",
+            "col_7": "7,743.96",
+            "Year Ended": "16,625.30"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Profit before tax (I-II)",
+            "Quarter ended": "634.93",
+            "col_4": "628.15",
+            "col_5": "500.95",
+            "Period Ended": "1 ,263.08",
+            "col_7": "8 12.72",
+            "Year Ended": "1,893.01"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Tax expenses (a) Current tax (b) 'Tax pertaining to earlier years (c) Deferred tax",
+            "Quarter ended": "87.71 1.85 (40.96)",
+            "col_4": "7 1.79 0 .82 ( 0.62)",
+            "col_5": "5 4.62 1 0.03 (10.36)",
+            "Period Ended": "1 59.50 2.67 (41.58)",
+            "col_7": "88.61 10.03 (16.80)",
+            "Year Ended": "2 17.06 1 0.23 ( 22.45)"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total tax expense (IV)",
+            "Quarter ended": "48.60",
+            "col_4": "71.99",
+            "col_5": "54.29",
+            "Period Ended": "1 20.59",
+            "col_7": "8 1.84",
+            "Year Ended": "2 04.84"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Profit after tax (III - IV)",
+            "Quarter ended": "586.33",
+            "col_4": "556.16",
+            "col_5": "446.66",
+            "Period Ended": "1 ,142.49",
+            "col_7": "7 30.88",
+            "Year Ended": "1 ,688.17"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Other Comprehensive Income (a) Items that will not be reclassifled to profit or loss (net of taxes) (b) Items that will be reclassified to profit or loss (net of taxes)",
+            "Quarter ended": "(1.48) (52.59)",
+            "col_4": "( 3.09) 2 9.91",
+            "col_5": "6 .43 7 .19",
+            "Period Ended": "(4.57) (22.68)",
+            "col_7": "( 6.53) 42.62",
+            "Year Ended": "0 .58 2 92.85"
+          },
+          {
+            "S. No.": "VII",
+            "Particulars": "Total Other Comprehensive Income",
+            "Quarter ended": "(54.07)",
+            "col_4": "26.82",
+            "col_5": "13.62",
+            "Period Ended": "( 27.25)",
+            "col_7": "3 6.09",
+            "Year Ended": "2 93.43"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total Comprehensive Income for the",
+            "Quarter ended": "532.26",
+            "col_4": "582.98",
+            "col_5": "460.28",
+            "Period Ended": "1 ,115.24",
+            "col_7": "7 66.97",
+            "Year Ended": "1 ,981.60"
+          },
+          {
+            "S. No.": "VIII",
+            "Particulars": "Paid-up Equity Share Capital (Face Value of Re 1 each)",
+            "Quarter ended": "1 27.06",
+            "col_4": "126.33",
+            "col_5": "126.01",
+            "Period Ended": "1 27.06",
+            "col_7": "1 26.01",
+            "Year Ended": "1 26.33"
+          },
+          {
+            "S. No.": "IX",
+            "Particulars": "Other equity",
+            "Quarter ended": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "Period Ended": "-",
+            "col_7": "-",
+            "Year Ended": "5,480.51"
+          },
+          {
+            "S. No.": "X",
+            "Particulars": "Earnings per equity share: (a) Basic [Not Annualized]* (b) Diluted [Not Annualized]*",
+            "Quarter ended": "4.64* 4.60*",
+            "col_4": "4.40* 4.38*",
+            "col_5": "3.54* 3.52*",
+            "Period Ended": "9.04* 8.96*",
+            "col_7": "5.80* 5.75*",
+            "Year Ended": "1 3.39 13.33"
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 30 September 2025": "(Audited) (Refer note 7)"
+          },
+          {
+            "Particulars": "Cash flow from operating activities Profit before tax Adjustments for: Depreciation and amortisation expense Finance costs Interest income on: - Bank deposits - Income tax refund - Security deposit - Loan to related parties Dividend income Share based compensation expenses Gain on sale of property, plant and equipment Provision for credit allowances on trade receivables Bad debts written off Other receivables written off Liabilities/ provisions no longer required written back Unrealised foreign exchange gain on foreign currency transactions and translation",
+            "As at 30 September 2026": "1,263.08 476.84 187.43 (7.60) (0.65) (5.07) (32.65) (2.84) 18.89 (0.01) 90.08 - 5.39 (90.76) (281.09)",
+            "As at 30 September 2025": "812.72 458.75 238.22 ( 5.01) ( 7.70) ( 5.61) ( 2.43) ( 2.56) 28.90 ( 1.76) 47.69 23.07 18.24 ( 9.07) (64.61)"
+          },
+          {
+            "Particulars": "Operating profit before working capital changes",
+            "As at 30 September 2026": "1,621.04",
+            "As at 30 September 2025": "1,528.84"
+          },
+          {
+            "Particulars": "Changes in operating assets and liabilities Adjustments for (increase) / decrease in operating assets Trade receivables Other financial assets Other current assets Adjustments for increase / (decrease) in operating liabilities Trade payables Other financial liabilities Other liabilities Provisions",
+            "As at 30 September 2026": "(280.01) 324.42 (153.39) (264.97) 2.06 123.15 (22.72)",
+            "As at 30 September 2025": "(256.76) 87.58 (148.03) (65.62) 80.82 (205.98) ( 6.14)"
+          },
+          {
+            "Particulars": "Cash generated from operations",
+            "As at 30 September 2026": "1,349.58",
+            "As at 30 September 2025": "1,014.71"
+          },
+          {
+            "Particulars": "Income tax paid",
+            "As at 30 September 2026": "(20.15)",
+            "As at 30 September 2025": "(114.69)"
+          },
+          {
+            "Particulars": "Net cash generated from operating activities (A)",
+            "As at 30 September 2026": "1,329.43",
+            "As at 30 September 2025": "900.02"
+          },
+          {
+            "Particulars": "Cash flows from investing activities Purchase of property, plant & equipment and other intangible assets (including intangible assets under development, capital work-in-progress, capital advances and capital creditors) Proceeds from sale of property, plant and equipment Acquisition of subsidiaries Fixed deposits with banks (net) Loan given (net) Dividend received Interest received",
+            "As at 30 September 2026": "(110.66) 1.11 ( 1,275.64) 7.64 (299.60) 0.03 37.05",
+            "As at 30 September 2025": "(170.19) 52.48 (25.64) (35.97) (25.21) 0.03 6.48"
+          },
+          {
+            "Particulars": "Net cash flows used in investing activities (B)",
+            "As at 30 September 2026": "(1,640.07)",
+            "As at 30 September 2025": "(198.02)"
+          },
+          {
+            "Particulars": "Cash flow from financing activities Proceeds from long-term borrowings Proceeds from issue and allotment of equity shares Repayment of long-term borrowings Proceeds from issue of preference shares Proceeds from short-term borrowings (net) Repayment of short-term borrowings Payment of lease obligations Interest paid",
+            "As at 30 September 2026": "165.19 44.96 (66.67) 1.01 304.81 - (499.18) (186.80)",
+            "As at 30 September 2025": "30.00 - (90.15) - - (229.45) (174.56) (246.43)"
+          },
+          {
+            "Particulars": "Net cash flows used in financing activities (C)",
+            "As at 30 September 2026": "(236.68)",
+            "As at 30 September 2025": "(710.59)"
+          },
+          {
+            "Particulars": "Net decrease in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Effect of exchange rate changes on cash and cash equivalents Cash and cash equivalents from acquisition of subsidiaries Less: adjustment on account of initial application of IND AS 109 amendment as on April 01, 2026",
+            "As at 30 September 2026": "(547.32) 8 95.59 (7.14) 248.97 (4.15)",
+            "As at 30 September 2025": "(8.59) 386.12 - 87.92 -"
+          },
+          {
+            "Particulars": "Cash and cash equivalents at the end of the period",
+            "As at 30 September 2026": "5 85.95",
+            "As at 30 September 2025": "465.45"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Statutory Auditor",
+            "Details": "M/s Price Waterhouse & Co Chartered Accountants LLP"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "End of tenure of the existing Statutory Auditor and appointment of Statutory Auditor, as recommended by the Audit Committee"
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "For a term of five (5) consecutive years, i.e., effective from the financial year 2026-27 to the financial year 2030-31, from the conclusion of the 23rd AGM till the conclusion of the 28th AGM, subject to the approval of the Members at the ensuing AGM. The remuneration of the Statutory Auditors has been/shall be recommended by the audit committee and decided by the Board of Directors from time to time"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Price Waterhouse & Co Chartered Accountants LLP, having a Firm Registration No. 304026E/E300009, is a firm of Chartered Accountants registered with the Institute of Chartered Accountants of India. The Firm was established in the year 1991 and was converted into a limited liability partnership in the year 2014. The registered office of the Firm is at Plot No. 56 & 57, Block DN, Sector V, Salt Lake, Kolkata - 700 091 and has seventeen (17) branch offices in various cities in India. The Firm is primarily engaged in providing assurance and auditing services to its clients and is a member firm of Price Waterhouse & Affiliates, a network of firms registered with the Institute of Chartered Accountants of India having Network Registration No. NRN/E/14. Price Waterhouse & Affiliates is a network of separate, distinct and independent Indian Chartered Accountant firms, each of which is registered with the Institute of Chartered Accountants of India. The Firm has more than 120 Assurance Partners as of April 1, 2026. It has a valid peer review certificate and audits various companies listed on stock exchanges in India."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Director",
+            "Details": "Mr. Rakesh Sony (DIN: 00363053)"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "Appointment as an Additional Director in the category of Non-Executive Independent Director, as recommended by the Nomination and Remuneration Committee"
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "Appointed with effect from November 13, 2026, for a term of five (5) consecutive years, i.e., from November 13, 2026 to November 12, 2031 (both days inclusive), not liable to retire by rotation. The appointment is subject to the approval of the Members by way of a special resolution. The standard appointment letter for Independent Directors are available at the website of the Company i.e. https://www.fusioncx.com/investor-relations/"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Over 25 years of experience spanning investment banking, private equity, global fund management and corporate leadership, across the media, digital, FMCG and corporate finance sectors. Mr. Rakesh Sony began his career as an investment banker in Calcutta, helping mid-sized companies raise capital from the capital markets and financial institutions. In 2008, he moved to Mumbai as a founding partner of Motilal Oswal Private Equity, where, over eight years, he led investments in more than 15 companies and helped several of them grow into leaders in their industries — a run that saw the fund recognized as India’s best mid- market private equity fund in 2012. He then joined Proterra Investment Partners, a global food- and agriculture-focused private equity fund, as its India Partner, investing in food businesses across India and Asia. From 2017 to 2021, Rakesh served as Head of Strategy, M&A and Investor Relations at Tata Consumer Products, the Tata Group’s leading FMCG company. In 2021, he joined The Times of India Group as Corporate Head of Strategy, Investments, M&A and Transformation, where he is responsible for the group’s reorganization and its transformation into a formidable media conglomerate. He also leads the Family Office of BCCL’s shareholders and serves on the boards of Times Internet and Bennett Property Ltd.. He is currently the Group Corporate Director at The Times Group, the leading media and digital platform in India."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          }
+        ]
+      },
+      {
+        "page": 21,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Director",
+            "Details": "Mr. Andrew Jay Wilmott (DIN: 12047388)"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "Appointment as an Additional Director in the category of Non- Executive Non-Independent Director, as recommended by the Nomination and Remuneration Committee."
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "Appointed with effect from November 13, 2026, with fixed term and liable to retire by rotation. The appointment is subject to the approval of the Members by way of an ordinary resolution. The standard appointment letter for Non-Executive Non-Independent Directors are available at the website of the Company i.e. https://www.fusioncx.com/investor-relations/"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Andrew Jay Wilmott is the President – Telecom and Utilities, and Healthcare of the Fusion CX Group (through its subsidiary company). He holds a bachelor’s degree in arts from the University of Victoria, Canada, and a certificate in application and management of information technology from the University of Victoria, Canada. He was previously associated with Sequential Technology International, LLC. He has over 23 years of work experience. He has been associated with our Company since November 28, 2022, and oversees strategic growth, client engagement, and delivery operations."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          },
+          {
+            "S.": "6",
+            "Particulars": "Information as required pursuant to BSE Circular No. LIST/COMP/14/2018-19 and NSE Circular No. NSE/CML/2018/24 dated June 20, 2018",
+            "Details": "Mr. Andrew Jay Wilmott is not debarred from holding the office of Director by virtue of any order of SEBI or any other such authority."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "4df6dfae-26a9-408d-8514-039a29a2ecae",
+    "SCRIP_CD": 544965,
+    "XML_NAME": "ANN_544965_4DF6DFAE-26A9-408D-8514-039A29A2ECAE",
+    "NEWSSUB": "Srit India Ltd - 544965 - Management Commentary On The Financial Results For The Quarter And Half Year Ended September 30, 2026.",
+    "DT_TM": "2026-11-14T00:42:25.02",
+    "NEWS_DT": "2026-11-14T00:42:25.02",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d85c2a42-cdf9-46d6-88af-2ba5b5bb02eb.pdf",
+    "MORE": "",
+    "HEADLINE": "Management Commentary of the Company on the Financial Results for the Quarter and Half Year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/srit-india-ltd/srit/544965/",
+    "SLONGNAME": "Srit India Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-14T00:42:25",
+    "DissemDT": "2026-11-14T00:42:25.02",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 840238,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1047.0 million",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2321ebd7-8e52-4891-9b1b-de34dc0fce57",
+    "SCRIP_CD": 544995,
+    "XML_NAME": "ANN_544995_2321EBD7-8E52-4891-9B1B-DE34DC0FCE57",
+    "NEWSSUB": "Fusion CX Ltd - 544995 - Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s",
+    "DT_TM": "2026-11-14T00:38:30.327",
+    "NEWS_DT": "2026-11-14T00:38:30.327",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "902e9a01-861a-416b-9ab4-62465d8f5248.pdf",
+    "MORE": "",
+    "HEADLINE": "Please refer enclosed attachment",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/fusion-cx-ltd/fusioncx/544995/",
+    "SLONGNAME": "Fusion CX Ltd",
+    "AGENDA_ID": 156,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-14T00:38:30",
+    "DissemDT": "2026-11-14T00:38:30.327",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7694767,
+    "SUBCATNAME": "Appointment of Statutory Auditor/s",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "7",
+      "total_debt": "3",
+      "dividend": "0.75",
+      "face_value": "1",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 23,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 31 March 2026": "(Audited)"
+          },
+          {
+            "Particulars": "I",
+            "col_2": "ASSETS Non-current assets (a) Property, plant and equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Other intangible assets (e) Financial assets (i) Investments (ii) Loans (iii) Other non-financial assets (f) Deferred tax asset (net) (g) Non-current tax assets(net) (h) Other non-current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c) (d)",
+            "As at 30 September 2026": "2 27.82 1 18.76 41.34 37.96",
+            "As at 31 March 2026": "173.80 162.59 86.94 41.47"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(e)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "1 83.96 1 38.02 3 58.72",
+            "As at 31 March 2026": "179.18 80.37 303.73"
+          },
+          {
+            "Particulars": "II",
+            "col_2": "",
+            "As at 30 September 2026": "88.95 83.65 4.77",
+            "As at 31 March 2026": "101.59 64.11 10.75"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total non-current assets (I)",
+            "As at 30 September 2026": "1,283.95",
+            "As at 31 March 2026": "1,204.53"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalent (iv) Loans (v) Other financial assets (b) Other current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "1 ,541.52",
+            "As at 31 March 2026": "1,191.30"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b)",
+            "As at 30 September 2026": "45.13 1 12.77 3.06 39.50 1 23.12",
+            "As at 31 March 2026": "2 .96 139.16 5 .20 135.99 113.95"
+          },
+          {
+            "Particulars": "III",
+            "col_2": "Total current assets (II)",
+            "As at 30 September 2026": "1,865.10",
+            "As at 31 March 2026": "1,588.56"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Assets (I+II)",
+            "As at 30 September 2026": "3,149.05",
+            "As at 31 March 2026": "2 ,793.09"
+          },
+          {
+            "Particulars": "",
+            "col_2": "EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "1 27.06 1 ,071.14",
+            "As at 31 March 2026": "126.33 863.64"
+          },
+          {
+            "Particulars": "IV",
+            "col_2": "Total equity (III)",
+            "As at 30 September 2026": "1,198.20",
+            "As at 31 March 2026": "989.97"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (b) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "3 85.52 50.20 73.03",
+            "As at 31 March 2026": "260.93 87.90 76.87"
+          },
+          {
+            "Particulars": "V",
+            "col_2": "Total non-current liabilities (IV)",
+            "As at 30 September 2026": "508.75",
+            "As at 31 March 2026": "425.70"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprises and small enterprises; and (B) total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other financial liabilities (b) Other current liabilities (c) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c)",
+            "As at 30 September 2026": "8 59.25 70.66 28.47 2 04.71 2 16.83 39.71 22.47",
+            "As at 31 March 2026": "745.07 74.84 18.03 288.47 214.49 14.12 22.40"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total current liabilities (V)",
+            "As at 30 September 2026": "1,442.10",
+            "As at 31 March 2026": "1,377.42"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total liabilities (IV+V)",
+            "As at 30 September 2026": "1,950.85",
+            "As at 31 March 2026": "1,803.12"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Equity and Liabilities (III+IV+ V)",
+            "As at 30 September 2026": "3,149.05",
+            "As at 31 March 2026": "2,793.09"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 24,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 31 March 2026": "(Audited)"
+          },
+          {
+            "Particulars": "I",
+            "col_2": "ASSETS Non-current assets (a) Property, plant and equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Goodwill (e) Other intangible assets (f) Financial assets (i) Investments (ii) Loans (iii) Other non-financial assets (g) Deferred tax asset (net) (h) Non-current tax assets(net) (i) Other non-current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c) (d) (e) (f)",
+            "As at 30 September 2026": "1,008.61 1,074.99 4 1.34 5,532.06 984.54 4 7.15 4 1.05 448.72",
+            "As at 31 March 2026": "9 58.01 1 ,235.90 86.94 3 ,604.38 1 ,064.33 44.34 89.81 3 96.37"
+          },
+          {
+            "Particulars": "II",
+            "col_2": "",
+            "As at 30 September 2026": "359.06 8 3.43 1 3.38",
+            "As at 31 March 2026": "3 09.06 1 01.08 20.41"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total non-current assets (I)",
+            "As at 30 September 2026": "9 ,634.33",
+            "As at 31 March 2026": "7,910.63"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalent (iv) Loans (v) Other financial assets (b) Current tax assets (net) (c) Other current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "4,176.87 585.95 112.77",
+            "As at 31 March 2026": "3 ,750.57 8 95.59 1 39.16"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b) (c)",
+            "As at 30 September 2026": "1,063.61 3 3.15 - 527.51",
+            "As at 31 March 2026": "7 15.53 117.71 - 4 84.86"
+          },
+          {
+            "Particulars": "III",
+            "col_2": "Total current assets (II)",
+            "As at 30 September 2026": "6 ,499.86",
+            "As at 31 March 2026": "6,103.42"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total assets (I+II)",
+            "As at 30 September 2026": "1 6,134.19",
+            "As at 31 March 2026": "14,014.05"
+          },
+          {
+            "Particulars": "",
+            "col_2": "EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "127.06 6,658.87",
+            "As at 31 March 2026": "1 26.33 5 ,480.51"
+          },
+          {
+            "Particulars": "IV",
+            "col_2": "Total equity (III)",
+            "As at 30 September 2026": "6 ,785.93",
+            "As at 31 March 2026": "5,606.84"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Other financial liabilities (b) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "897.20 695.38 225.30 7 9.04",
+            "As at 31 March 2026": "7 97.67 9 00.57 14.50 82.81"
+          },
+          {
+            "Particulars": "V",
+            "col_2": "Total non-current liabilities (IV)",
+            "As at 30 September 2026": "1 ,896.92",
+            "As at 31 March 2026": "1,795.55"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprises and small enterprises; and (B) total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (net)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "2,175.78 500.84 2 8.47 1,387.94 1,954.60",
+            "As at 31 March 2026": "1 ,870.97 4 55.03 18.03 1 ,744.97 1 ,690.51"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b)",
+            "As at 30 September 2026": "1,000.88",
+            "As at 31 March 2026": "5 57.47"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(c) (d)",
+            "As at 30 September 2026": "2 2.81 380.02",
+            "As at 31 March 2026": "22.74 2 51.94"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total current liabilities (V)",
+            "As at 30 September 2026": "7,451.34",
+            "As at 31 March 2026": "6,611.66"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total liabilities (IV+V)",
+            "As at 30 September 2026": "9 ,348.26",
+            "As at 31 March 2026": "8,407.21"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Equity and Liabilities (III+IV+ V)",
+            "As at 30 September 2026": "1 6,134.19",
+            "As at 31 March 2026": "14,014.05"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "S. No.": "",
+            "Particulars": "",
+            "Quarter ended": "September 30, 2026",
+            "col_4": "June 30, 2026",
+            "col_5": "September 30, 2025",
+            "Period Ended": "September 30, 2026",
+            "col_7": "September 30, 2025",
+            "Year Ended": "March 31, 2026"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "",
+            "Quarter ended": "(Unaudited)",
+            "col_4": "(Audited) (Refer note 8)",
+            "col_5": "(Unaudited) (Refer note 9)",
+            "Period Ended": "(Unaudited)",
+            "col_7": "(Audited) (Refer note 7)",
+            "Year Ended": "(Audited)"
+          },
+          {
+            "S. No.": "I",
+            "Particulars": "Income",
+            "Quarter ended": "",
+            "col_4": "",
+            "col_5": "4 ,303.22 59.45",
+            "Period Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S. No.": "II",
+            "Particulars": "(a) Revenue from operations (b) Other income",
+            "Quarter ended": "5 ,252.86 1 50.39",
+            "col_4": "4,904.84 133.63",
+            "col_5": "",
+            "Period Ended": "10,157.70 2 84.02",
+            "col_7": "8 ,434.19 1 22.49",
+            "Year Ended": "18,181.38 3 36.93"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total income (I)",
+            "Quarter ended": "5,403.25",
+            "col_4": "5,038.47",
+            "col_5": "4,362.67",
+            "Period Ended": "1 0,441.72",
+            "col_7": "8,556.68",
+            "Year Ended": "18,518.31"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Expenses (a) Employee benefits expense (b) Finance cost (c) Depreciation and amortization",
+            "Quarter ended": "3 ,613.84 97.53 2 44.03",
+            "col_4": "3,312.24 8 9.90 232.81",
+            "col_5": "3 ,129.80 134.49 212.04 385.39",
+            "Period Ended": "6 ,926.08 1 87.43 4 76.84",
+            "col_7": "5 ,694.61 2 38.22 4 58.75",
+            "Year Ended": "11,929.80 4 54.71 9 50.99"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "(d) Other expenses",
+            "Quarter ended": "8 12.92",
+            "col_4": "775.37",
+            "col_5": "",
+            "Period Ended": "1 ,588.29",
+            "col_7": "1 ,352.38",
+            "Year Ended": "3,289.80"
+          },
+          {
+            "S. No.": "III IV V VI",
+            "Particulars": "Total expenses (II)",
+            "Quarter ended": "4,768.32",
+            "col_4": "4,410.32",
+            "col_5": "3,861.72",
+            "Period Ended": "9 ,178.64",
+            "col_7": "7,743.96",
+            "Year Ended": "16,625.30"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Profit before tax (I-II)",
+            "Quarter ended": "634.93",
+            "col_4": "628.15",
+            "col_5": "500.95",
+            "Period Ended": "1 ,263.08",
+            "col_7": "8 12.72",
+            "Year Ended": "1,893.01"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Tax expenses (a) Current tax (b) 'Tax pertaining to earlier years (c) Deferred tax",
+            "Quarter ended": "87.71 1.85 (40.96)",
+            "col_4": "7 1.79 0 .82 ( 0.62)",
+            "col_5": "5 4.62 1 0.03 (10.36)",
+            "Period Ended": "1 59.50 2.67 (41.58)",
+            "col_7": "88.61 10.03 (16.80)",
+            "Year Ended": "2 17.06 1 0.23 ( 22.45)"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total tax expense (IV)",
+            "Quarter ended": "48.60",
+            "col_4": "71.99",
+            "col_5": "54.29",
+            "Period Ended": "1 20.59",
+            "col_7": "8 1.84",
+            "Year Ended": "2 04.84"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Profit after tax (III - IV)",
+            "Quarter ended": "586.33",
+            "col_4": "556.16",
+            "col_5": "446.66",
+            "Period Ended": "1 ,142.49",
+            "col_7": "7 30.88",
+            "Year Ended": "1 ,688.17"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Other Comprehensive Income (a) Items that will not be reclassifled to profit or loss (net of taxes) (b) Items that will be reclassified to profit or loss (net of taxes)",
+            "Quarter ended": "(1.48) (52.59)",
+            "col_4": "( 3.09) 2 9.91",
+            "col_5": "6 .43 7 .19",
+            "Period Ended": "(4.57) (22.68)",
+            "col_7": "( 6.53) 42.62",
+            "Year Ended": "0 .58 2 92.85"
+          },
+          {
+            "S. No.": "VII",
+            "Particulars": "Total Other Comprehensive Income",
+            "Quarter ended": "(54.07)",
+            "col_4": "26.82",
+            "col_5": "13.62",
+            "Period Ended": "( 27.25)",
+            "col_7": "3 6.09",
+            "Year Ended": "2 93.43"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total Comprehensive Income for the",
+            "Quarter ended": "532.26",
+            "col_4": "582.98",
+            "col_5": "460.28",
+            "Period Ended": "1 ,115.24",
+            "col_7": "7 66.97",
+            "Year Ended": "1 ,981.60"
+          },
+          {
+            "S. No.": "VIII",
+            "Particulars": "Paid-up Equity Share Capital (Face Value of Re 1 each)",
+            "Quarter ended": "1 27.06",
+            "col_4": "126.33",
+            "col_5": "126.01",
+            "Period Ended": "1 27.06",
+            "col_7": "1 26.01",
+            "Year Ended": "1 26.33"
+          },
+          {
+            "S. No.": "IX",
+            "Particulars": "Other equity",
+            "Quarter ended": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "Period Ended": "-",
+            "col_7": "-",
+            "Year Ended": "5,480.51"
+          },
+          {
+            "S. No.": "X",
+            "Particulars": "Earnings per equity share: (a) Basic [Not Annualized]* (b) Diluted [Not Annualized]*",
+            "Quarter ended": "4.64* 4.60*",
+            "col_4": "4.40* 4.38*",
+            "col_5": "3.54* 3.52*",
+            "Period Ended": "9.04* 8.96*",
+            "col_7": "5.80* 5.75*",
+            "Year Ended": "1 3.39 13.33"
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 30 September 2025": "(Audited) (Refer note 7)"
+          },
+          {
+            "Particulars": "Cash flow from operating activities Profit before tax Adjustments for: Depreciation and amortisation expense Finance costs Interest income on: - Bank deposits - Income tax refund - Security deposit - Loan to related parties Dividend income Share based compensation expenses Gain on sale of property, plant and equipment Provision for credit allowances on trade receivables Bad debts written off Other receivables written off Liabilities/ provisions no longer required written back Unrealised foreign exchange gain on foreign currency transactions and translation",
+            "As at 30 September 2026": "1,263.08 476.84 187.43 (7.60) (0.65) (5.07) (32.65) (2.84) 18.89 (0.01) 90.08 - 5.39 (90.76) (281.09)",
+            "As at 30 September 2025": "812.72 458.75 238.22 ( 5.01) ( 7.70) ( 5.61) ( 2.43) ( 2.56) 28.90 ( 1.76) 47.69 23.07 18.24 ( 9.07) (64.61)"
+          },
+          {
+            "Particulars": "Operating profit before working capital changes",
+            "As at 30 September 2026": "1,621.04",
+            "As at 30 September 2025": "1,528.84"
+          },
+          {
+            "Particulars": "Changes in operating assets and liabilities Adjustments for (increase) / decrease in operating assets Trade receivables Other financial assets Other current assets Adjustments for increase / (decrease) in operating liabilities Trade payables Other financial liabilities Other liabilities Provisions",
+            "As at 30 September 2026": "(280.01) 324.42 (153.39) (264.97) 2.06 123.15 (22.72)",
+            "As at 30 September 2025": "(256.76) 87.58 (148.03) (65.62) 80.82 (205.98) ( 6.14)"
+          },
+          {
+            "Particulars": "Cash generated from operations",
+            "As at 30 September 2026": "1,349.58",
+            "As at 30 September 2025": "1,014.71"
+          },
+          {
+            "Particulars": "Income tax paid",
+            "As at 30 September 2026": "(20.15)",
+            "As at 30 September 2025": "(114.69)"
+          },
+          {
+            "Particulars": "Net cash generated from operating activities (A)",
+            "As at 30 September 2026": "1,329.43",
+            "As at 30 September 2025": "900.02"
+          },
+          {
+            "Particulars": "Cash flows from investing activities Purchase of property, plant & equipment and other intangible assets (including intangible assets under development, capital work-in-progress, capital advances and capital creditors) Proceeds from sale of property, plant and equipment Acquisition of subsidiaries Fixed deposits with banks (net) Loan given (net) Dividend received Interest received",
+            "As at 30 September 2026": "(110.66) 1.11 ( 1,275.64) 7.64 (299.60) 0.03 37.05",
+            "As at 30 September 2025": "(170.19) 52.48 (25.64) (35.97) (25.21) 0.03 6.48"
+          },
+          {
+            "Particulars": "Net cash flows used in investing activities (B)",
+            "As at 30 September 2026": "(1,640.07)",
+            "As at 30 September 2025": "(198.02)"
+          },
+          {
+            "Particulars": "Cash flow from financing activities Proceeds from long-term borrowings Proceeds from issue and allotment of equity shares Repayment of long-term borrowings Proceeds from issue of preference shares Proceeds from short-term borrowings (net) Repayment of short-term borrowings Payment of lease obligations Interest paid",
+            "As at 30 September 2026": "165.19 44.96 (66.67) 1.01 304.81 - (499.18) (186.80)",
+            "As at 30 September 2025": "30.00 - (90.15) - - (229.45) (174.56) (246.43)"
+          },
+          {
+            "Particulars": "Net cash flows used in financing activities (C)",
+            "As at 30 September 2026": "(236.68)",
+            "As at 30 September 2025": "(710.59)"
+          },
+          {
+            "Particulars": "Net decrease in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Effect of exchange rate changes on cash and cash equivalents Cash and cash equivalents from acquisition of subsidiaries Less: adjustment on account of initial application of IND AS 109 amendment as on April 01, 2026",
+            "As at 30 September 2026": "(547.32) 8 95.59 (7.14) 248.97 (4.15)",
+            "As at 30 September 2025": "(8.59) 386.12 - 87.92 -"
+          },
+          {
+            "Particulars": "Cash and cash equivalents at the end of the period",
+            "As at 30 September 2026": "5 85.95",
+            "As at 30 September 2025": "465.45"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Statutory Auditor",
+            "Details": "M/s Price Waterhouse & Co Chartered Accountants LLP"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "End of tenure of the existing Statutory Auditor and appointment of Statutory Auditor, as recommended by the Audit Committee"
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "For a term of five (5) consecutive years, i.e., effective from the financial year 2026-27 to the financial year 2030-31, from the conclusion of the 23rd AGM till the conclusion of the 28th AGM, subject to the approval of the Members at the ensuing AGM. The remuneration of the Statutory Auditors has been/shall be recommended by the audit committee and decided by the Board of Directors from time to time"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Price Waterhouse & Co Chartered Accountants LLP, having a Firm Registration No. 304026E/E300009, is a firm of Chartered Accountants registered with the Institute of Chartered Accountants of India. The Firm was established in the year 1991 and was converted into a limited liability partnership in the year 2014. The registered office of the Firm is at Plot No. 56 & 57, Block DN, Sector V, Salt Lake, Kolkata - 700 091 and has seventeen (17) branch offices in various cities in India. The Firm is primarily engaged in providing assurance and auditing services to its clients and is a member firm of Price Waterhouse & Affiliates, a network of firms registered with the Institute of Chartered Accountants of India having Network Registration No. NRN/E/14. Price Waterhouse & Affiliates is a network of separate, distinct and independent Indian Chartered Accountant firms, each of which is registered with the Institute of Chartered Accountants of India. The Firm has more than 120 Assurance Partners as of April 1, 2026. It has a valid peer review certificate and audits various companies listed on stock exchanges in India."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Director",
+            "Details": "Mr. Rakesh Sony (DIN: 00363053)"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "Appointment as an Additional Director in the category of Non-Executive Independent Director, as recommended by the Nomination and Remuneration Committee"
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "Appointed with effect from November 13, 2026, for a term of five (5) consecutive years, i.e., from November 13, 2026 to November 12, 2031 (both days inclusive), not liable to retire by rotation. The appointment is subject to the approval of the Members by way of a special resolution. The standard appointment letter for Independent Directors are available at the website of the Company i.e. https://www.fusioncx.com/investor-relations/"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Over 25 years of experience spanning investment banking, private equity, global fund management and corporate leadership, across the media, digital, FMCG and corporate finance sectors. Mr. Rakesh Sony began his career as an investment banker in Calcutta, helping mid-sized companies raise capital from the capital markets and financial institutions. In 2008, he moved to Mumbai as a founding partner of Motilal Oswal Private Equity, where, over eight years, he led investments in more than 15 companies and helped several of them grow into leaders in their industries — a run that saw the fund recognized as India’s best mid- market private equity fund in 2012. He then joined Proterra Investment Partners, a global food- and agriculture-focused private equity fund, as its India Partner, investing in food businesses across India and Asia. From 2017 to 2021, Rakesh served as Head of Strategy, M&A and Investor Relations at Tata Consumer Products, the Tata Group’s leading FMCG company. In 2021, he joined The Times of India Group as Corporate Head of Strategy, Investments, M&A and Transformation, where he is responsible for the group’s reorganization and its transformation into a formidable media conglomerate. He also leads the Family Office of BCCL’s shareholders and serves on the boards of Times Internet and Bennett Property Ltd.. He is currently the Group Corporate Director at The Times Group, the leading media and digital platform in India."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          }
+        ]
+      },
+      {
+        "page": 21,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Director",
+            "Details": "Mr. Andrew Jay Wilmott (DIN: 12047388)"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "Appointment as an Additional Director in the category of Non- Executive Non-Independent Director, as recommended by the Nomination and Remuneration Committee."
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "Appointed with effect from November 13, 2026, with fixed term and liable to retire by rotation. The appointment is subject to the approval of the Members by way of an ordinary resolution. The standard appointment letter for Non-Executive Non-Independent Directors are available at the website of the Company i.e. https://www.fusioncx.com/investor-relations/"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Andrew Jay Wilmott is the President – Telecom and Utilities, and Healthcare of the Fusion CX Group (through its subsidiary company). He holds a bachelor’s degree in arts from the University of Victoria, Canada, and a certificate in application and management of information technology from the University of Victoria, Canada. He was previously associated with Sequential Technology International, LLC. He has over 23 years of work experience. He has been associated with our Company since November 28, 2022, and oversees strategic growth, client engagement, and delivery operations."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          },
+          {
+            "S.": "6",
+            "Particulars": "Information as required pursuant to BSE Circular No. LIST/COMP/14/2018-19 and NSE Circular No. NSE/CML/2018/24 dated June 20, 2018",
+            "Details": "Mr. Andrew Jay Wilmott is not debarred from holding the office of Director by virtue of any order of SEBI or any other such authority."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "d827774d-eadd-4df1-b929-4c2ba9bf066a",
+    "SCRIP_CD": 544995,
+    "XML_NAME": "ANN_544995_D827774D-EADD-4DF1-B929-4C2BA9BF066A",
+    "NEWSSUB": "Fusion CX Ltd - 544995 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "DT_TM": "2026-11-14T00:35:39.94",
+    "NEWS_DT": "2026-11-14T00:35:39.94",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9708b404-884f-499f-aab6-ef89d8730bb9.pdf",
+    "MORE": "",
+    "HEADLINE": "Please refer enclosed attachment",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/fusion-cx-ltd/fusioncx/544995/",
+    "SLONGNAME": "Fusion CX Ltd",
+    "AGENDA_ID": 124,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-14T00:35:39",
+    "DissemDT": "2026-11-14T00:35:39.94",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7694767,
+    "SUBCATNAME": "Change in Management",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "7",
+      "total_debt": "3",
+      "dividend": "0.75",
+      "face_value": "1",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 23,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 31 March 2026": "(Audited)"
+          },
+          {
+            "Particulars": "I",
+            "col_2": "ASSETS Non-current assets (a) Property, plant and equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Other intangible assets (e) Financial assets (i) Investments (ii) Loans (iii) Other non-financial assets (f) Deferred tax asset (net) (g) Non-current tax assets(net) (h) Other non-current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c) (d)",
+            "As at 30 September 2026": "2 27.82 1 18.76 41.34 37.96",
+            "As at 31 March 2026": "173.80 162.59 86.94 41.47"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(e)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "1 83.96 1 38.02 3 58.72",
+            "As at 31 March 2026": "179.18 80.37 303.73"
+          },
+          {
+            "Particulars": "II",
+            "col_2": "",
+            "As at 30 September 2026": "88.95 83.65 4.77",
+            "As at 31 March 2026": "101.59 64.11 10.75"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total non-current assets (I)",
+            "As at 30 September 2026": "1,283.95",
+            "As at 31 March 2026": "1,204.53"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalent (iv) Loans (v) Other financial assets (b) Other current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "1 ,541.52",
+            "As at 31 March 2026": "1,191.30"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b)",
+            "As at 30 September 2026": "45.13 1 12.77 3.06 39.50 1 23.12",
+            "As at 31 March 2026": "2 .96 139.16 5 .20 135.99 113.95"
+          },
+          {
+            "Particulars": "III",
+            "col_2": "Total current assets (II)",
+            "As at 30 September 2026": "1,865.10",
+            "As at 31 March 2026": "1,588.56"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Assets (I+II)",
+            "As at 30 September 2026": "3,149.05",
+            "As at 31 March 2026": "2 ,793.09"
+          },
+          {
+            "Particulars": "",
+            "col_2": "EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "1 27.06 1 ,071.14",
+            "As at 31 March 2026": "126.33 863.64"
+          },
+          {
+            "Particulars": "IV",
+            "col_2": "Total equity (III)",
+            "As at 30 September 2026": "1,198.20",
+            "As at 31 March 2026": "989.97"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (b) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "3 85.52 50.20 73.03",
+            "As at 31 March 2026": "260.93 87.90 76.87"
+          },
+          {
+            "Particulars": "V",
+            "col_2": "Total non-current liabilities (IV)",
+            "As at 30 September 2026": "508.75",
+            "As at 31 March 2026": "425.70"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprises and small enterprises; and (B) total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other financial liabilities (b) Other current liabilities (c) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c)",
+            "As at 30 September 2026": "8 59.25 70.66 28.47 2 04.71 2 16.83 39.71 22.47",
+            "As at 31 March 2026": "745.07 74.84 18.03 288.47 214.49 14.12 22.40"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total current liabilities (V)",
+            "As at 30 September 2026": "1,442.10",
+            "As at 31 March 2026": "1,377.42"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total liabilities (IV+V)",
+            "As at 30 September 2026": "1,950.85",
+            "As at 31 March 2026": "1,803.12"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Equity and Liabilities (III+IV+ V)",
+            "As at 30 September 2026": "3,149.05",
+            "As at 31 March 2026": "2,793.09"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 24,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 31 March 2026": "(Audited)"
+          },
+          {
+            "Particulars": "I",
+            "col_2": "ASSETS Non-current assets (a) Property, plant and equipment (b) Right-of-use assets (c) Capital work-in-progress (d) Goodwill (e) Other intangible assets (f) Financial assets (i) Investments (ii) Loans (iii) Other non-financial assets (g) Deferred tax asset (net) (h) Non-current tax assets(net) (i) Other non-current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b) (c) (d) (e) (f)",
+            "As at 30 September 2026": "1,008.61 1,074.99 4 1.34 5,532.06 984.54 4 7.15 4 1.05 448.72",
+            "As at 31 March 2026": "9 58.01 1 ,235.90 86.94 3 ,604.38 1 ,064.33 44.34 89.81 3 96.37"
+          },
+          {
+            "Particulars": "II",
+            "col_2": "",
+            "As at 30 September 2026": "359.06 8 3.43 1 3.38",
+            "As at 31 March 2026": "3 09.06 1 01.08 20.41"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total non-current assets (I)",
+            "As at 30 September 2026": "9 ,634.33",
+            "As at 31 March 2026": "7,910.63"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current assets (a) Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalent (iv) Loans (v) Other financial assets (b) Current tax assets (net) (c) Other current assets",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 30 September 2026": "4,176.87 585.95 112.77",
+            "As at 31 March 2026": "3 ,750.57 8 95.59 1 39.16"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b) (c)",
+            "As at 30 September 2026": "1,063.61 3 3.15 - 527.51",
+            "As at 31 March 2026": "7 15.53 117.71 - 4 84.86"
+          },
+          {
+            "Particulars": "III",
+            "col_2": "Total current assets (II)",
+            "As at 30 September 2026": "6 ,499.86",
+            "As at 31 March 2026": "6,103.42"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total assets (I+II)",
+            "As at 30 September 2026": "1 6,134.19",
+            "As at 31 March 2026": "14,014.05"
+          },
+          {
+            "Particulars": "",
+            "col_2": "EQUITY AND LIABILITIES Equity (a) Equity share capital (b) Other equity",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "127.06 6,658.87",
+            "As at 31 March 2026": "1 26.33 5 ,480.51"
+          },
+          {
+            "Particulars": "IV",
+            "col_2": "Total equity (III)",
+            "As at 30 September 2026": "6 ,785.93",
+            "As at 31 March 2026": "5,606.84"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Liabilities Non-current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Other financial liabilities (b) Provisions",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a) (b)",
+            "As at 30 September 2026": "897.20 695.38 225.30 7 9.04",
+            "As at 31 March 2026": "7 97.67 9 00.57 14.50 82.81"
+          },
+          {
+            "Particulars": "V",
+            "col_2": "Total non-current liabilities (IV)",
+            "As at 30 September 2026": "1 ,896.92",
+            "As at 31 March 2026": "1,795.55"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables (A) total outstanding dues of micro enterprises and small enterprises; and (B) total outstanding dues of creditors other than micro enterprises and small enterprises. (iv) Other financial liabilities (b) Other current liabilities (c) Provisions (d) Current tax liabilities (net)",
+            "As at 30 September 2026": "",
+            "As at 31 March 2026": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(a)",
+            "As at 30 September 2026": "2,175.78 500.84 2 8.47 1,387.94 1,954.60",
+            "As at 31 March 2026": "1 ,870.97 4 55.03 18.03 1 ,744.97 1 ,690.51"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(b)",
+            "As at 30 September 2026": "1,000.88",
+            "As at 31 March 2026": "5 57.47"
+          },
+          {
+            "Particulars": "",
+            "col_2": "(c) (d)",
+            "As at 30 September 2026": "2 2.81 380.02",
+            "As at 31 March 2026": "22.74 2 51.94"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total current liabilities (V)",
+            "As at 30 September 2026": "7,451.34",
+            "As at 31 March 2026": "6,611.66"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total liabilities (IV+V)",
+            "As at 30 September 2026": "9 ,348.26",
+            "As at 31 March 2026": "8,407.21"
+          },
+          {
+            "Particulars": "",
+            "col_2": "Total Equity and Liabilities (III+IV+ V)",
+            "As at 30 September 2026": "1 6,134.19",
+            "As at 31 March 2026": "14,014.05"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "S. No.": "",
+            "Particulars": "",
+            "Quarter ended": "September 30, 2026",
+            "col_4": "June 30, 2026",
+            "col_5": "September 30, 2025",
+            "Period Ended": "September 30, 2026",
+            "col_7": "September 30, 2025",
+            "Year Ended": "March 31, 2026"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "",
+            "Quarter ended": "(Unaudited)",
+            "col_4": "(Audited) (Refer note 8)",
+            "col_5": "(Unaudited) (Refer note 9)",
+            "Period Ended": "(Unaudited)",
+            "col_7": "(Audited) (Refer note 7)",
+            "Year Ended": "(Audited)"
+          },
+          {
+            "S. No.": "I",
+            "Particulars": "Income",
+            "Quarter ended": "",
+            "col_4": "",
+            "col_5": "4 ,303.22 59.45",
+            "Period Ended": "",
+            "col_7": "",
+            "Year Ended": ""
+          },
+          {
+            "S. No.": "II",
+            "Particulars": "(a) Revenue from operations (b) Other income",
+            "Quarter ended": "5 ,252.86 1 50.39",
+            "col_4": "4,904.84 133.63",
+            "col_5": "",
+            "Period Ended": "10,157.70 2 84.02",
+            "col_7": "8 ,434.19 1 22.49",
+            "Year Ended": "18,181.38 3 36.93"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total income (I)",
+            "Quarter ended": "5,403.25",
+            "col_4": "5,038.47",
+            "col_5": "4,362.67",
+            "Period Ended": "1 0,441.72",
+            "col_7": "8,556.68",
+            "Year Ended": "18,518.31"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Expenses (a) Employee benefits expense (b) Finance cost (c) Depreciation and amortization",
+            "Quarter ended": "3 ,613.84 97.53 2 44.03",
+            "col_4": "3,312.24 8 9.90 232.81",
+            "col_5": "3 ,129.80 134.49 212.04 385.39",
+            "Period Ended": "6 ,926.08 1 87.43 4 76.84",
+            "col_7": "5 ,694.61 2 38.22 4 58.75",
+            "Year Ended": "11,929.80 4 54.71 9 50.99"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "(d) Other expenses",
+            "Quarter ended": "8 12.92",
+            "col_4": "775.37",
+            "col_5": "",
+            "Period Ended": "1 ,588.29",
+            "col_7": "1 ,352.38",
+            "Year Ended": "3,289.80"
+          },
+          {
+            "S. No.": "III IV V VI",
+            "Particulars": "Total expenses (II)",
+            "Quarter ended": "4,768.32",
+            "col_4": "4,410.32",
+            "col_5": "3,861.72",
+            "Period Ended": "9 ,178.64",
+            "col_7": "7,743.96",
+            "Year Ended": "16,625.30"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Profit before tax (I-II)",
+            "Quarter ended": "634.93",
+            "col_4": "628.15",
+            "col_5": "500.95",
+            "Period Ended": "1 ,263.08",
+            "col_7": "8 12.72",
+            "Year Ended": "1,893.01"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Tax expenses (a) Current tax (b) 'Tax pertaining to earlier years (c) Deferred tax",
+            "Quarter ended": "87.71 1.85 (40.96)",
+            "col_4": "7 1.79 0 .82 ( 0.62)",
+            "col_5": "5 4.62 1 0.03 (10.36)",
+            "Period Ended": "1 59.50 2.67 (41.58)",
+            "col_7": "88.61 10.03 (16.80)",
+            "Year Ended": "2 17.06 1 0.23 ( 22.45)"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total tax expense (IV)",
+            "Quarter ended": "48.60",
+            "col_4": "71.99",
+            "col_5": "54.29",
+            "Period Ended": "1 20.59",
+            "col_7": "8 1.84",
+            "Year Ended": "2 04.84"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Profit after tax (III - IV)",
+            "Quarter ended": "586.33",
+            "col_4": "556.16",
+            "col_5": "446.66",
+            "Period Ended": "1 ,142.49",
+            "col_7": "7 30.88",
+            "Year Ended": "1 ,688.17"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Other Comprehensive Income (a) Items that will not be reclassifled to profit or loss (net of taxes) (b) Items that will be reclassified to profit or loss (net of taxes)",
+            "Quarter ended": "(1.48) (52.59)",
+            "col_4": "( 3.09) 2 9.91",
+            "col_5": "6 .43 7 .19",
+            "Period Ended": "(4.57) (22.68)",
+            "col_7": "( 6.53) 42.62",
+            "Year Ended": "0 .58 2 92.85"
+          },
+          {
+            "S. No.": "VII",
+            "Particulars": "Total Other Comprehensive Income",
+            "Quarter ended": "(54.07)",
+            "col_4": "26.82",
+            "col_5": "13.62",
+            "Period Ended": "( 27.25)",
+            "col_7": "3 6.09",
+            "Year Ended": "2 93.43"
+          },
+          {
+            "S. No.": "",
+            "Particulars": "Total Comprehensive Income for the",
+            "Quarter ended": "532.26",
+            "col_4": "582.98",
+            "col_5": "460.28",
+            "Period Ended": "1 ,115.24",
+            "col_7": "7 66.97",
+            "Year Ended": "1 ,981.60"
+          },
+          {
+            "S. No.": "VIII",
+            "Particulars": "Paid-up Equity Share Capital (Face Value of Re 1 each)",
+            "Quarter ended": "1 27.06",
+            "col_4": "126.33",
+            "col_5": "126.01",
+            "Period Ended": "1 27.06",
+            "col_7": "1 26.01",
+            "Year Ended": "1 26.33"
+          },
+          {
+            "S. No.": "IX",
+            "Particulars": "Other equity",
+            "Quarter ended": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "Period Ended": "-",
+            "col_7": "-",
+            "Year Ended": "5,480.51"
+          },
+          {
+            "S. No.": "X",
+            "Particulars": "Earnings per equity share: (a) Basic [Not Annualized]* (b) Diluted [Not Annualized]*",
+            "Quarter ended": "4.64* 4.60*",
+            "col_4": "4.40* 4.38*",
+            "col_5": "3.54* 3.52*",
+            "Period Ended": "9.04* 8.96*",
+            "col_7": "5.80* 5.75*",
+            "Year Ended": "1 3.39 13.33"
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars": "",
+            "As at 30 September 2026": "(Unaudited)",
+            "As at 30 September 2025": "(Audited) (Refer note 7)"
+          },
+          {
+            "Particulars": "Cash flow from operating activities Profit before tax Adjustments for: Depreciation and amortisation expense Finance costs Interest income on: - Bank deposits - Income tax refund - Security deposit - Loan to related parties Dividend income Share based compensation expenses Gain on sale of property, plant and equipment Provision for credit allowances on trade receivables Bad debts written off Other receivables written off Liabilities/ provisions no longer required written back Unrealised foreign exchange gain on foreign currency transactions and translation",
+            "As at 30 September 2026": "1,263.08 476.84 187.43 (7.60) (0.65) (5.07) (32.65) (2.84) 18.89 (0.01) 90.08 - 5.39 (90.76) (281.09)",
+            "As at 30 September 2025": "812.72 458.75 238.22 ( 5.01) ( 7.70) ( 5.61) ( 2.43) ( 2.56) 28.90 ( 1.76) 47.69 23.07 18.24 ( 9.07) (64.61)"
+          },
+          {
+            "Particulars": "Operating profit before working capital changes",
+            "As at 30 September 2026": "1,621.04",
+            "As at 30 September 2025": "1,528.84"
+          },
+          {
+            "Particulars": "Changes in operating assets and liabilities Adjustments for (increase) / decrease in operating assets Trade receivables Other financial assets Other current assets Adjustments for increase / (decrease) in operating liabilities Trade payables Other financial liabilities Other liabilities Provisions",
+            "As at 30 September 2026": "(280.01) 324.42 (153.39) (264.97) 2.06 123.15 (22.72)",
+            "As at 30 September 2025": "(256.76) 87.58 (148.03) (65.62) 80.82 (205.98) ( 6.14)"
+          },
+          {
+            "Particulars": "Cash generated from operations",
+            "As at 30 September 2026": "1,349.58",
+            "As at 30 September 2025": "1,014.71"
+          },
+          {
+            "Particulars": "Income tax paid",
+            "As at 30 September 2026": "(20.15)",
+            "As at 30 September 2025": "(114.69)"
+          },
+          {
+            "Particulars": "Net cash generated from operating activities (A)",
+            "As at 30 September 2026": "1,329.43",
+            "As at 30 September 2025": "900.02"
+          },
+          {
+            "Particulars": "Cash flows from investing activities Purchase of property, plant & equipment and other intangible assets (including intangible assets under development, capital work-in-progress, capital advances and capital creditors) Proceeds from sale of property, plant and equipment Acquisition of subsidiaries Fixed deposits with banks (net) Loan given (net) Dividend received Interest received",
+            "As at 30 September 2026": "(110.66) 1.11 ( 1,275.64) 7.64 (299.60) 0.03 37.05",
+            "As at 30 September 2025": "(170.19) 52.48 (25.64) (35.97) (25.21) 0.03 6.48"
+          },
+          {
+            "Particulars": "Net cash flows used in investing activities (B)",
+            "As at 30 September 2026": "(1,640.07)",
+            "As at 30 September 2025": "(198.02)"
+          },
+          {
+            "Particulars": "Cash flow from financing activities Proceeds from long-term borrowings Proceeds from issue and allotment of equity shares Repayment of long-term borrowings Proceeds from issue of preference shares Proceeds from short-term borrowings (net) Repayment of short-term borrowings Payment of lease obligations Interest paid",
+            "As at 30 September 2026": "165.19 44.96 (66.67) 1.01 304.81 - (499.18) (186.80)",
+            "As at 30 September 2025": "30.00 - (90.15) - - (229.45) (174.56) (246.43)"
+          },
+          {
+            "Particulars": "Net cash flows used in financing activities (C)",
+            "As at 30 September 2026": "(236.68)",
+            "As at 30 September 2025": "(710.59)"
+          },
+          {
+            "Particulars": "Net decrease in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the period Effect of exchange rate changes on cash and cash equivalents Cash and cash equivalents from acquisition of subsidiaries Less: adjustment on account of initial application of IND AS 109 amendment as on April 01, 2026",
+            "As at 30 September 2026": "(547.32) 8 95.59 (7.14) 248.97 (4.15)",
+            "As at 30 September 2025": "(8.59) 386.12 - 87.92 -"
+          },
+          {
+            "Particulars": "Cash and cash equivalents at the end of the period",
+            "As at 30 September 2026": "5 85.95",
+            "As at 30 September 2025": "465.45"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Statutory Auditor",
+            "Details": "M/s Price Waterhouse & Co Chartered Accountants LLP"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "End of tenure of the existing Statutory Auditor and appointment of Statutory Auditor, as recommended by the Audit Committee"
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "For a term of five (5) consecutive years, i.e., effective from the financial year 2026-27 to the financial year 2030-31, from the conclusion of the 23rd AGM till the conclusion of the 28th AGM, subject to the approval of the Members at the ensuing AGM. The remuneration of the Statutory Auditors has been/shall be recommended by the audit committee and decided by the Board of Directors from time to time"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Price Waterhouse & Co Chartered Accountants LLP, having a Firm Registration No. 304026E/E300009, is a firm of Chartered Accountants registered with the Institute of Chartered Accountants of India. The Firm was established in the year 1991 and was converted into a limited liability partnership in the year 2014. The registered office of the Firm is at Plot No. 56 & 57, Block DN, Sector V, Salt Lake, Kolkata - 700 091 and has seventeen (17) branch offices in various cities in India. The Firm is primarily engaged in providing assurance and auditing services to its clients and is a member firm of Price Waterhouse & Affiliates, a network of firms registered with the Institute of Chartered Accountants of India having Network Registration No. NRN/E/14. Price Waterhouse & Affiliates is a network of separate, distinct and independent Indian Chartered Accountant firms, each of which is registered with the Institute of Chartered Accountants of India. The Firm has more than 120 Assurance Partners as of April 1, 2026. It has a valid peer review certificate and audits various companies listed on stock exchanges in India."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Director",
+            "Details": "Mr. Rakesh Sony (DIN: 00363053)"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "Appointment as an Additional Director in the category of Non-Executive Independent Director, as recommended by the Nomination and Remuneration Committee"
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "Appointed with effect from November 13, 2026, for a term of five (5) consecutive years, i.e., from November 13, 2026 to November 12, 2031 (both days inclusive), not liable to retire by rotation. The appointment is subject to the approval of the Members by way of a special resolution. The standard appointment letter for Independent Directors are available at the website of the Company i.e. https://www.fusioncx.com/investor-relations/"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Over 25 years of experience spanning investment banking, private equity, global fund management and corporate leadership, across the media, digital, FMCG and corporate finance sectors. Mr. Rakesh Sony began his career as an investment banker in Calcutta, helping mid-sized companies raise capital from the capital markets and financial institutions. In 2008, he moved to Mumbai as a founding partner of Motilal Oswal Private Equity, where, over eight years, he led investments in more than 15 companies and helped several of them grow into leaders in their industries — a run that saw the fund recognized as India’s best mid- market private equity fund in 2012. He then joined Proterra Investment Partners, a global food- and agriculture-focused private equity fund, as its India Partner, investing in food businesses across India and Asia. From 2017 to 2021, Rakesh served as Head of Strategy, M&A and Investor Relations at Tata Consumer Products, the Tata Group’s leading FMCG company. In 2021, he joined The Times of India Group as Corporate Head of Strategy, Investments, M&A and Transformation, where he is responsible for the group’s reorganization and its transformation into a formidable media conglomerate. He also leads the Family Office of BCCL’s shareholders and serves on the boards of Times Internet and Bennett Property Ltd.. He is currently the Group Corporate Director at The Times Group, the leading media and digital platform in India."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          }
+        ]
+      },
+      {
+        "page": 21,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "S.": "No.",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S.": "1",
+            "Particulars": "Name of the Director",
+            "Details": "Mr. Andrew Jay Wilmott (DIN: 12047388)"
+          },
+          {
+            "S.": "2",
+            "Particulars": "Reason for change",
+            "Details": "Appointment as an Additional Director in the category of Non- Executive Non-Independent Director, as recommended by the Nomination and Remuneration Committee."
+          },
+          {
+            "S.": "3",
+            "Particulars": "Date of appointment and term",
+            "Details": "Appointed with effect from November 13, 2026, with fixed term and liable to retire by rotation. The appointment is subject to the approval of the Members by way of an ordinary resolution. The standard appointment letter for Non-Executive Non-Independent Directors are available at the website of the Company i.e. https://www.fusioncx.com/investor-relations/"
+          },
+          {
+            "S.": "4",
+            "Particulars": "Brief profile",
+            "Details": "Andrew Jay Wilmott is the President – Telecom and Utilities, and Healthcare of the Fusion CX Group (through its subsidiary company). He holds a bachelor’s degree in arts from the University of Victoria, Canada, and a certificate in application and management of information technology from the University of Victoria, Canada. He was previously associated with Sequential Technology International, LLC. He has over 23 years of work experience. He has been associated with our Company since November 28, 2022, and oversees strategic growth, client engagement, and delivery operations."
+          },
+          {
+            "S.": "5",
+            "Particulars": "Disclosure of relationships between directors",
+            "Details": "No Relation"
+          },
+          {
+            "S.": "6",
+            "Particulars": "Information as required pursuant to BSE Circular No. LIST/COMP/14/2018-19 and NSE Circular No. NSE/CML/2018/24 dated June 20, 2018",
+            "Details": "Mr. Andrew Jay Wilmott is not debarred from holding the office of Director by virtue of any order of SEBI or any other such authority."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "c54ad1c6-a0e2-4c2e-9f67-a72ff4c756de",
     "SCRIP_CD": 532915,
     "XML_NAME": "ANN_532915_C54AD1C6-A0E2-4C2E-9F67-A72FF4C756DE",
@@ -26388,154 +28569,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "edc83754-19c0-4ab0-a398-eb58f12c9754",
-    "SCRIP_CD": 521054,
-    "XML_NAME": "ANN_521054_EDC83754-19C0-4AB0-A398-EB58F12C9754",
-    "NEWSSUB": "Kakatiya Textiles Ltd - 521054 - Board Meeting Outcome for Outcome Of The Board Meeting",
-    "DT_TM": "2026-11-13T18:28:11.217",
-    "NEWS_DT": "2026-11-13T18:28:11.217",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1c118066-b02a-4c83-89ab-0a76fb5b2da0.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the board meeting",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kakatiya-textiles-ltd/kaktex/521054/",
-    "SLONGNAME": "Kakatiya Textiles Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 36,
-    "News_submission_dt": "2026-11-13T18:28:10",
-    "DissemDT": "2026-11-13T18:28:11.217",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 598633,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2f5be01f-785b-4f83-a2bd-bf261837dd25",
-    "SCRIP_CD": 544055,
-    "XML_NAME": "ANN_544055_2F5BE01F-785B-4F83-A2BD-BF261837DD25",
-    "NEWSSUB": "Muthoot Microfin Ltd - 544055 - Board Meeting Intimation for Adoption Of The Audited Financial Statement Of The Company For The Half Year Ended September 30, 2025 And September 30, 2026",
-    "DT_TM": "2026-11-13T18:28:09.843",
-    "NEWS_DT": "2026-11-13T18:28:09.843",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "429c098d-df0f-4756-a000-feb2cff1ea74.pdf",
-    "MORE": "Muthoot Microfin Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 19/11/2026 ,inter alia, to consider and approve the audited financial statement of the Company for the half year ended September 30, 2025 and September 30, 2026",
-    "HEADLINE": "Muthoot Microfin Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 19/11/2026 ,inter alia, to consider and approve the audited financial statement ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/muthoot-microfin-ltd/muthootmf/544055/",
-    "SLONGNAME": "Muthoot Microfin Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 36,
-    "News_submission_dt": "2026-11-13T18:28:08",
-    "DissemDT": "2026-11-13T18:28:09.843",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 249409,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7bc7f922-48e4-4dc1-82e6-d337334afd74",
-    "SCRIP_CD": 511246,
-    "XML_NAME": "ANN_511246_7BC7F922-48E4-4DC1-82E6-D337334AFD74",
-    "NEWSSUB": "Bombay Talkies Ltd - 511246 - Board Meeting Outcome for Outcome Of The Board Meeting Of Bombay Talkies Limited ('The Company')",
-    "DT_TM": "2026-11-13T18:28:01.747",
-    "NEWS_DT": "2026-11-13T18:28:01.747",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "586c7490-e39a-40e3-a37e-8c21dc729e2c.pdf",
-    "MORE": "Pursuant to the provisions of Regulation 30 of the Securities and Exchange Board of India \r\n(Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you \r\nthat the Board of Directors of the Company at their meeting held on November 13, 2026, has \r\ninter-alia, considered and approved the Unaudited Financial Results (Standalone) for the \r\nQuarter and Half Year ended on September 30, 2026. \r\nFurther, in compliance with Regulation 33 of the SEBI (Listing Obligations and Disclosures \r\nRequirements) Regulations, 2015, please find enclosed the Unaudited Financial Results \r\n(Standalone) for the Quarter and Half Year ended on September 30, 2026 & Limited Review \r\nReport issued by Statutory Auditors. \r\nThe Board meeting commenced at 05:15 P.M and concluded at 05:45 P.M",
-    "HEADLINE": "Pursuant to the provisions of Regulation 30 of the Securities and Exchange Board of India \r\n(Listing Obligations and Disclosure Requirements) Regulations, 2015, this is to inform you \r\nthat ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bombay-talkies-ltd/bomtalkies/511246/",
-    "SLONGNAME": "Bombay Talkies Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 36,
-    "News_submission_dt": "2026-11-13T18:28:00",
-    "DissemDT": "2026-11-13T18:28:01.747",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1871539,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "02f4a717-ee5a-422e-b16d-68fa6b60802f",
-    "SCRIP_CD": 500016,
-    "XML_NAME": "ANN_500016_02F4A717-EE5A-422E-B16D-68FA6B60802F",
-    "NEWSSUB": "Aruna Hotels Ltd - 500016 - Unaudited Financial Results For The Quarter And Half Year Ended 30Th September 2026",
-    "DT_TM": "2026-11-13T18:28:01.493",
-    "NEWS_DT": "2026-11-13T18:28:01.493",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a0317bff-efc6-4196-af34-d9867b1ab2fc.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Financial Results for the quarter and half year ended 30th September 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aruna-hotels-ltd/arunahtel/500016/",
-    "SLONGNAME": "Aruna Hotels Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 36,
-    "News_submission_dt": "2026-11-13T18:28:01",
-    "DissemDT": "2026-11-13T18:28:01.493",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5192986,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_assets": "19707.91",
-      "total_equity": "19707.91",
-      "total_debt": "62255",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
   }
 ]
