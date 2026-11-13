@@ -1,5 +1,1626 @@
 [
   {
+    "NEWSID": "a931ddb4-315c-4d4d-9a2b-315999e95ba4",
+    "SCRIP_CD": 544960,
+    "XML_NAME": "ANN_544960_A931DDB4-315C-4D4D-9A2B-315999E95BA4",
+    "NEWSSUB": "Orient Cables (India) Ltd - 544960 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-13T09:20:59.713",
+    "NEWS_DT": "2026-11-13T09:20:59.713",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7151763f-fc6f-4af5-8c5c-780d5832802c.pdf",
+    "MORE": "Orient Cables (India) Limited has informed the exchange regarding the press release dated November 13, 2026 titled \"Orient Cables reports highest ever quarterly & half yearly results in Q2  & H1 FY27, revenue doubles to Rs. 1,018 Crore and EBITDA grows 155% YoY\"",
+    "HEADLINE": "Orient Cables (India) Limited has informed the exchange regarding the press release dated November 13, 2026 titled \"Orient Cables reports highest ever quarterly & half yearly results in ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orient-cables-(india)-ltd/orientcabl/544960/",
+    "SLONGNAME": "Orient Cables (India) Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:20:59",
+    "DissemDT": "2026-11-13T09:20:59.713",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 710973,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e410ae17-fe7c-41d7-8b66-4e71953b80f6",
+    "SCRIP_CD": 504258,
+    "XML_NAME": "ANN_504258_E410AE17-FE7C-41D7-8B66-4E71953B80F6",
+    "NEWSSUB": "Lakshmi Electrical Control Systems Ltd - 504258 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-13T09:16:33.913",
+    "NEWS_DT": "2026-11-13T09:16:33.913",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7ba7fe8c-689b-4964-b38d-63a02c96df36.pdf",
+    "MORE": "",
+    "HEADLINE": "Postal Ballot Notice",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/lakshmi-electrical-control-systems-ltd/lakselec/504258/",
+    "SLONGNAME": "Lakshmi Electrical Control Systems Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:16:33",
+    "DissemDT": "2026-11-13T09:16:33.913",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 540288,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Voting timeline & logistics** – The Postal Ballot notice (dated 29 Oct 2026) authorises a remote e‑voting process that runs from **14 Nov 2026 09:00 IST to 13 Dec 2026 17:00 IST**; voting results will be disclosed within two working days after the close. The ballot is being sent only by email to shareholders recorded on the register as of **5 Nov 2026 (cut‑off date)**, with email",
+    "key_metrics": {
+      "eps": "2025",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 14,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "Sales & other income",
+            "2025-26": "24,246.98",
+            "2024-25": "21,785.22"
+          },
+          {
+            "Particulars": "Profit/ (Loss) before tax",
+            "2025-26": "143.48",
+            "2024-25": "574.76"
+          },
+          {
+            "Particulars": "Profit/ (Loss) after tax",
+            "2025-26": "118.70",
+            "2024-25": "347.23"
+          },
+          {
+            "Particulars": "Paid-up equity capital",
+            "2025-26": "245.80",
+            "2024-25": "245.80"
+          },
+          {
+            "Particulars": "Reserves and Surplus (except Other Comprehensive Income Reserve)",
+            "2025-26": "15,408.22",
+            "2024-25": "15,409.88"
+          },
+          {
+            "Particulars": "Basic Earnings per share (EPS)",
+            "2025-26": "4.83",
+            "2024-25": "14.12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "096159bb-7e74-4175-84e0-651b8428acf2",
+    "SCRIP_CD": 523796,
+    "XML_NAME": "ANN_523796_096159BB-7E74-4175-84E0-651B8428ACF2",
+    "NEWSSUB": "Viceroy Hotels Ltd - 523796 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-13T09:13:10.77",
+    "NEWS_DT": "2026-11-13T09:13:10.77",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e7ea6eb6-a356-4a6f-ae79-26bd3aed33eb.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release for the period ended 30.09.2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/viceroy-hotels-ltd/vhltd/523796/",
+    "SLONGNAME": "Viceroy Hotels Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:13:10",
+    "DissemDT": "2026-11-13T09:13:10.77",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 940289,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "61",
+      "net_profit": "2.23",
+      "operating_profit": "1",
+      "total_equity": "61",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 1,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars (₹ Cr)": "Total Income",
+            "Q2 FY27": "48.79",
+            "Q2 FY26": "31.86",
+            "Y-o-Y": "53.1%",
+            "H1 FY27": "93.99",
+            "H1 FY26": "58.31",
+            "Y-o-Y_1": "61.2%"
+          },
+          {
+            "Particulars (₹ Cr)": "EBITDA",
+            "Q2 FY27": "12.89",
+            "Q2 FY26": "8.82",
+            "Y-o-Y": "46.1%",
+            "H1 FY27": "24.68",
+            "H1 FY26": "13.64",
+            "Y-o-Y_1": "80.9%"
+          },
+          {
+            "Particulars (₹ Cr)": "EBITDA Margin (%)",
+            "Q2 FY27": "26.74%",
+            "Q2 FY26": "28.64%",
+            "Y-o-Y": "-190 bps",
+            "H1 FY27": "26.50%",
+            "H1 FY26": "24.29%",
+            "Y-o-Y_1": "+221 bps"
+          },
+          {
+            "Particulars (₹ Cr)": "PAT",
+            "Q2 FY27": "2.23",
+            "Q2 FY26": "4.38",
+            "Y-o-Y": "-49.1%",
+            "H1 FY27": "3.68",
+            "H1 FY26": "1.36",
+            "Y-o-Y_1": "170.7%"
+          },
+          {
+            "Particulars (₹ Cr)": "PAT Margin (%)",
+            "Q2 FY27": "4.63%",
+            "Q2 FY26": "14.23%",
+            "Y-o-Y": "-960 bps",
+            "H1 FY27": "3.95%",
+            "H1 FY26": "2.42%",
+            "Y-o-Y_1": "+153 bps"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "78ebf4b6-6d99-4b65-90e5-6b5f3d606fc3",
+    "SCRIP_CD": 523796,
+    "XML_NAME": "ANN_523796_78EBF4B6-6D99-4B65-90E5-6B5F3D606FC3",
+    "NEWSSUB": "Viceroy Hotels Ltd - 523796 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-13T09:11:24.727",
+    "NEWS_DT": "2026-11-13T09:11:24.727",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "74efc7aa-d343-47ed-9cde-58ff84691274.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/viceroy-hotels-ltd/vhltd/523796/",
+    "SLONGNAME": "Viceroy Hotels Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:11:24",
+    "DissemDT": "2026-11-13T09:11:24.727",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7463943,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Viceroy Hotels Ltd filed a Regulation 30 disclosure (BSE 523796 / NSE VHLTD) on 13 Nov 2026, attaching the investor presentation covering its Q2 and H1 FY 2027 financial results for the quarter and half‑year ended 30 Sept 2026.  \n\n- The announcement contains no specific financial figures, dates of transactions, or decisions; it merely references the existence of the presentation.",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "223.0",
+      "operating_profit": "48.8 cr",
+      "total_assets": "66766.9",
+      "total_equity": "41",
+      "total_debt": "24377.5",
+      "eps": "0.34",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 23,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "Total Income",
+            "Q2 FY27": "4,879.5",
+            "Q2 FY26": "3,186.1",
+            "YoY": "53.1%",
+            "Q1 FY27": "4,519.4",
+            "QoQ": "8.0%",
+            "H1 FY27": "9,398.9",
+            "H1 FY26": "5,831.4",
+            "YoY_1": "61.2%"
+          },
+          {
+            "Particulars": "Total Expenditure",
+            "Q2 FY27": "3,590.7",
+            "Q2 FY26": "2,304.1",
+            "YoY": "",
+            "Q1 FY27": "3,340.6",
+            "QoQ": "",
+            "H1 FY27": "6,931.3",
+            "H1 FY26": "4,467.2",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "EBITDA",
+            "Q2 FY27": "1,288.8",
+            "Q2 FY26": "882.0",
+            "YoY": "46.1%",
+            "Q1 FY27": "1,178.9",
+            "QoQ": "9.3%",
+            "H1 FY27": "2,467.6",
+            "H1 FY26": "1,364.2",
+            "YoY_1": "80.9%"
+          },
+          {
+            "Particulars": "EBITDA Margin*",
+            "Q2 FY27": "26.7%",
+            "Q2 FY26": "28.6%",
+            "YoY": "",
+            "Q1 FY27": "26.3%",
+            "QoQ": "",
+            "H1 FY27": "26.5%",
+            "H1 FY26": "24.3%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Depreciation & Amortization",
+            "Q2 FY27": "608.2",
+            "Q2 FY26": "342.7",
+            "YoY": "",
+            "Q1 FY27": "496.3",
+            "QoQ": "",
+            "H1 FY27": "1,104.5",
+            "H1 FY26": "686.4",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Finance Cost",
+            "Q2 FY27": "579.3",
+            "Q2 FY26": "109.7",
+            "YoY": "",
+            "Q1 FY27": "544.9",
+            "QoQ": "",
+            "H1 FY27": "1,124.2",
+            "H1 FY26": "210.3",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Profit before Tax",
+            "Q2 FY27": "101.3",
+            "Q2 FY26": "429.6",
+            "YoY": "-76.4%",
+            "Q1 FY27": "137.7",
+            "QoQ": "-26.4%",
+            "H1 FY27": "239.0",
+            "H1 FY26": "467.6",
+            "YoY_1": "-48.9%"
+          },
+          {
+            "Particulars": "PBT Margin*",
+            "Q2 FY27": "2.1%",
+            "Q2 FY26": "13.9%",
+            "YoY": "",
+            "Q1 FY27": "3.1%",
+            "QoQ": "",
+            "H1 FY27": "2.6%",
+            "H1 FY26": "8.3%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Tax",
+            "Q2 FY27": "-121.7",
+            "Q2 FY26": "-8.6",
+            "YoY": "",
+            "Q1 FY27": "-7.2",
+            "QoQ": "",
+            "H1 FY27": "-128.9",
+            "H1 FY26": "331.7",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "PAT",
+            "Q2 FY27": "223.0",
+            "Q2 FY26": "438.2",
+            "YoY": "-49.1%",
+            "Q1 FY27": "144.9",
+            "QoQ": "54.0%",
+            "H1 FY27": "367.9",
+            "H1 FY26": "135.9",
+            "YoY_1": "170.7%"
+          },
+          {
+            "Particulars": "PAT Margin*",
+            "Q2 FY27": "4.6%",
+            "Q2 FY26": "14.2%",
+            "YoY": "",
+            "Q1 FY27": "3.2%",
+            "QoQ": "",
+            "H1 FY27": "4.0%",
+            "H1 FY26": "2.4%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Basic EPS (₹)",
+            "Q2 FY27": "0.34",
+            "Q2 FY26": "0.64",
+            "YoY": "",
+            "Q1 FY27": "0.21",
+            "QoQ": "",
+            "H1 FY27": "0.55",
+            "H1 FY26": "0.20",
+            "YoY_1": ""
+          }
+        ]
+      },
+      {
+        "page": 24,
+        "table_index": 0,
+        "row_count": 16,
+        "rows": [
+          {
+            "Particulars": "Non Current Assets",
+            "H1 FY27": "",
+            "FY26": ""
+          },
+          {
+            "Particulars": "Fixed Assets",
+            "H1 FY27": "39,596.2",
+            "FY26": "34,617.4"
+          },
+          {
+            "Particulars": "Capital work in progress",
+            "H1 FY27": "1,598.6",
+            "FY26": "5,703.0"
+          },
+          {
+            "Particulars": "Goodwill",
+            "H1 FY27": "5,856.8",
+            "FY26": "5,856.8"
+          },
+          {
+            "Particulars": "Other Non Current Assets",
+            "H1 FY27": "4,955.7",
+            "FY26": "4,751.8"
+          },
+          {
+            "Particulars": "Current Assets",
+            "H1 FY27": "14,759.6",
+            "FY26": "5,235.1"
+          },
+          {
+            "Particulars": "Total Assets",
+            "H1 FY27": "66,766.9",
+            "FY26": "56,164.0"
+          },
+          {
+            "Particulars": "Equity",
+            "H1 FY27": "",
+            "FY26": ""
+          },
+          {
+            "Particulars": "Equity Share Capital",
+            "H1 FY27": "7,678.2",
+            "FY26": "6,757.9"
+          },
+          {
+            "Particulars": "Other Equity",
+            "H1 FY27": "29,912.2",
+            "FY26": "19,921.7"
+          },
+          {
+            "Particulars": "Long Term Liabilities",
+            "H1 FY27": "",
+            "FY26": ""
+          },
+          {
+            "Particulars": "Borrowings",
+            "H1 FY27": "24,377.5",
+            "FY26": "24,539.5"
+          },
+          {
+            "Particulars": "Provision",
+            "H1 FY27": "169.1",
+            "FY26": "158.2"
+          },
+          {
+            "Particulars": "Deferred Tax Liabilities",
+            "H1 FY27": "482.4",
+            "FY26": "492.4"
+          },
+          {
+            "Particulars": "Current Liabilities",
+            "H1 FY27": "4,147.5",
+            "FY26": "4,294.4"
+          },
+          {
+            "Particulars": "Total Equity & Liabilities",
+            "H1 FY27": "66,766.9",
+            "FY26": "56,164.0"
+          }
+        ]
+      },
+      {
+        "page": 25,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars": "Cash Flow from Operating Activities",
+            "H1 FY27": "",
+            "H1 FY26": ""
+          },
+          {
+            "Particulars": "Profit before Tax",
+            "H1 FY27": "239.0",
+            "H1 FY26": "467.6"
+          },
+          {
+            "Particulars": "Adjustment for Non-Operating Items",
+            "H1 FY27": "2,157.5",
+            "H1 FY26": "682.8"
+          },
+          {
+            "Particulars": "Operating Profit before Working Capital Changes",
+            "H1 FY27": "2,396.5",
+            "H1 FY26": "1,150.4"
+          },
+          {
+            "Particulars": "Changes in Working Capital",
+            "H1 FY27": "-548.4",
+            "H1 FY26": "2,446.0"
+          },
+          {
+            "Particulars": "Cash Generated from Operations",
+            "H1 FY27": "1,848.1",
+            "H1 FY26": "3,596.4"
+          },
+          {
+            "Particulars": "Income tax paid (net)",
+            "H1 FY27": "-38.5",
+            "H1 FY26": "-66.4"
+          },
+          {
+            "Particulars": "Net Cash from Operating Activities",
+            "H1 FY27": "1,809.6",
+            "H1 FY26": "3,530.0"
+          },
+          {
+            "Particulars": "Cash Flow from Investing Activities",
+            "H1 FY27": "-1,877.8",
+            "H1 FY26": "-2,647.1"
+          },
+          {
+            "Particulars": "Cash Flow from Financing Activities",
+            "H1 FY27": "9,180.6",
+            "H1 FY26": "-494.8"
+          },
+          {
+            "Particulars": "Net increase/ (decrease) in Cash & Cash equivalent",
+            "H1 FY27": "9,112.4",
+            "H1 FY26": "388.1"
+          },
+          {
+            "Particulars": "Add: Cash and cash equivalents as at beginning of period",
+            "H1 FY27": "1,942.3",
+            "H1 FY26": "582.4"
+          },
+          {
+            "Particulars": "Cash and cash equivalents as at end of period",
+            "H1 FY27": "11,054.7",
+            "H1 FY26": "970.5"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Particulars": "Revenue from Operations",
+            "FY 2025-26": "14,319.6",
+            "FY 2024-25": "13,729.4",
+            "FY 2023-24": "13,818.4"
+          },
+          {
+            "Particulars": "Total Expenditure",
+            "FY 2025-26": "10,515.7",
+            "FY 2024-25": "10,387.3",
+            "FY 2023-24": "12,036.9"
+          },
+          {
+            "Particulars": "EBITDA",
+            "FY 2025-26": "3,803.9",
+            "FY 2024-25": "3,342.2",
+            "FY 2023-24": "1,781.5"
+          },
+          {
+            "Particulars": "Margin to Revenue from Operations %",
+            "FY 2025-26": "26.6%",
+            "FY 2024-25": "24.3%",
+            "FY 2023-24": "12.9%"
+          },
+          {
+            "Particulars": "Other Income",
+            "FY 2025-26": "652.9",
+            "FY 2024-25": "353.2",
+            "FY 2023-24": "103.7"
+          },
+          {
+            "Particulars": "Depreciation & amortisation",
+            "FY 2025-26": "1,509.7",
+            "FY 2024-25": "1,213.1",
+            "FY 2023-24": "1,394.4"
+          },
+          {
+            "Particulars": "Finance Costs",
+            "FY 2025-26": "855.5",
+            "FY 2024-25": "495.5",
+            "FY 2023-24": "144.1"
+          },
+          {
+            "Particulars": "Profit before income tax and exceptional items",
+            "FY 2025-26": "2,091.7",
+            "FY 2024-25": "1,986.7",
+            "FY 2023-24": "346.7"
+          },
+          {
+            "Particulars": "Exceptional Items",
+            "FY 2025-26": "0.0",
+            "FY 2024-25": "-66.0",
+            "FY 2023-24": "318.0"
+          },
+          {
+            "Particulars": "Profit before income tax",
+            "FY 2025-26": "2,091.7",
+            "FY 2024-25": "2,052.7",
+            "FY 2023-24": "28.7"
+          },
+          {
+            "Particulars": "Less: Tax Expense",
+            "FY 2025-26": "260.0",
+            "FY 2024-25": "-5,746.6",
+            "FY 2023-24": "-210.1"
+          },
+          {
+            "Particulars": "Profit after tax for the year",
+            "FY 2025-26": "1,831.7",
+            "FY 2024-25": "7,799.3",
+            "FY 2023-24": "238.8"
+          },
+          {
+            "Particulars": "Basic EPS (₹)",
+            "FY 2025-26": "2.68",
+            "FY 2024-25": "12.21",
+            "FY 2023-24": "0.46"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "c43ee851-e90b-446b-9cec-8ba4b3eace5b",
+    "SCRIP_CD": 544960,
+    "XML_NAME": "ANN_544960_C43EE851-E90B-446B-9CEC-8BA4B3EACE5B",
+    "NEWSSUB": "Orient Cables (India) Ltd - 544960 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-13T09:09:52.57",
+    "NEWS_DT": "2026-11-13T09:09:52.57",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c38f4ae1-277a-47df-a91e-aab1e9cad59c.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor presentation on un-audited Financial Results of the Company for Quarter II and Half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orient-cables-(india)-ltd/orientcabl/544960/",
+    "SLONGNAME": "Orient Cables (India) Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:09:52",
+    "DissemDT": "2026-11-13T09:09:52.57",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5034571,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & purpose:** On 13 Nov 2026, Orient Cables (India) Ltd filed a Regulation 30 disclosure to inform the stock exchanges that its unaudited, limited‑reviewed investor presentation for Q2 and the first half of FY 2026‑27 (ended 30 Sept 2026) is now available on the company website.  \n\n- **Financial details:** The notice contains no specific financial figures, performance metrics, or monetary decisions; it only references the forthcoming Q2/H1 presentation.",
+    "key_metrics": {
+      "revenue": "528.8",
+      "net_profit": "40.1",
+      "operating_profit": "63.6",
+      "total_assets": "1112.7",
+      "total_equity": "605.4",
+      "total_debt": "277.3",
+      "eps": "3.92",
+      "roce": "23.8",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 11,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Particulars": "Revenue from Operations",
+            "Q2 FY27": "528.8",
+            "Q2 FY26": "255.5",
+            "YoY": "107%",
+            "Q1 FY27": "489.2",
+            "QoQ": "8%",
+            "H1 FY27": "1,018.0",
+            "H1 FY26": "501.8",
+            "YoY_1": "103%"
+          },
+          {
+            "Particulars": "Cost of Goods Sold 421.7 198.1 393.8 815.5 393.5",
+            "Q2 FY27": "",
+            "Q2 FY26": "",
+            "YoY": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Gross Profit",
+            "Q2 FY27": "107.1",
+            "Q2 FY26": "57.4",
+            "YoY": "86%",
+            "Q1 FY27": "95.4",
+            "QoQ": "12%",
+            "H1 FY27": "202.5",
+            "H1 FY26": "108.3",
+            "YoY_1": "87%"
+          },
+          {
+            "Particulars": "Gross Profit Margin (%)",
+            "Q2 FY27": "20.3%",
+            "Q2 FY26": "22.5%",
+            "YoY": "",
+            "Q1 FY27": "19.5%",
+            "QoQ": "",
+            "H1 FY27": "19.9%",
+            "H1 FY26": "21.6%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Employee Cost 18.8 14.8 17.1 35.9 28.1 Other Expenses 24.7 18.0 22.7 47.4 33.5",
+            "Q2 FY27": "",
+            "Q2 FY26": "",
+            "YoY": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "EBITDA",
+            "Q2 FY27": "63.6",
+            "Q2 FY26": "24.7",
+            "YoY": "158%",
+            "Q1 FY27": "55.6",
+            "QoQ": "14%",
+            "H1 FY27": "119.2",
+            "H1 FY26": "46.7",
+            "YoY_1": "155%"
+          },
+          {
+            "Particulars": "EBITDA Margin (%)",
+            "Q2 FY27": "12.0%",
+            "Q2 FY26": "9.7%",
+            "YoY": "",
+            "Q1 FY27": "11.4%",
+            "QoQ": "",
+            "H1 FY27": "11.7%",
+            "H1 FY26": "9.3%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Depreciation 4.6 3.5 4.3 8.9 7.0 Other Income 1.7 1.6 1.8 3.5 2.7",
+            "Q2 FY27": "",
+            "Q2 FY26": "",
+            "YoY": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "EBIT",
+            "Q2 FY27": "60.7",
+            "Q2 FY26": "22.8",
+            "YoY": "167%",
+            "Q1 FY27": "53.0",
+            "QoQ": "14%",
+            "H1 FY27": "113.8",
+            "H1 FY26": "42.4",
+            "YoY_1": "168%"
+          },
+          {
+            "Particulars": "EBIT Margin (%)",
+            "Q2 FY27": "11.5%",
+            "Q2 FY26": "8.9%",
+            "YoY": "",
+            "Q1 FY27": "10.8%",
+            "QoQ": "",
+            "H1 FY27": "11.2%",
+            "H1 FY26": "8.5%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Finance Cost 8.5 3.6 7.6 16.2 8.9",
+            "Q2 FY27": "",
+            "Q2 FY26": "",
+            "YoY": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Profit before Tax",
+            "Q2 FY27": "52.2",
+            "Q2 FY26": "19.1",
+            "YoY": "173%",
+            "Q1 FY27": "45.4",
+            "QoQ": "15%",
+            "H1 FY27": "97.6",
+            "H1 FY26": "33.5",
+            "YoY_1": "191%"
+          },
+          {
+            "Particulars": "Profit before Tax Margin (%)",
+            "Q2 FY27": "9.9%",
+            "Q2 FY26": "7.5%",
+            "YoY": "",
+            "Q1 FY27": "9.3%",
+            "QoQ": "",
+            "H1 FY27": "9.6%",
+            "H1 FY26": "6.7%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Tax 12.1 4.8 11.8 23.9 8.5",
+            "Q2 FY27": "",
+            "Q2 FY26": "",
+            "YoY": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "Profit After Tax",
+            "Q2 FY27": "40.1",
+            "Q2 FY26": "14.3",
+            "YoY": "180%",
+            "Q1 FY27": "33.7",
+            "QoQ": "19%",
+            "H1 FY27": "73.7",
+            "H1 FY26": "25.1",
+            "YoY_1": "194%"
+          },
+          {
+            "Particulars": "Profit After Tax Margin (%)",
+            "Q2 FY27": "7.6%",
+            "Q2 FY26": "5.6%",
+            "YoY": "",
+            "Q1 FY27": "6.9%",
+            "QoQ": "",
+            "H1 FY27": "7.2%",
+            "H1 FY26": "5.0%",
+            "YoY_1": ""
+          },
+          {
+            "Particulars": "EPS 3.92 1.40 3.30 7.22 2.46",
+            "Q2 FY27": "",
+            "Q2 FY26": "",
+            "YoY": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "H1 FY26": "",
+            "YoY_1": ""
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Assets": "Non - Current Assets",
+            "Sep-26": "232.2",
+            "Mar-26": "194.8"
+          },
+          {
+            "Assets": "Property Plant & Equipment 200.0 188.3 Capital work-in-progress 1.9 2.0 Other Intangible Assets 0.6 0.6 Intangible Assets under Development 1.0 1.0 Right of-use of assets 8.2 1.3 Investment in Subsidiaries /Joint Venture 1.0 0.0 Other Financial Assets 0.8 0.9 Other non-current assets 18.7 0.8",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Assets": "Current Assets",
+            "Sep-26": "880.5",
+            "Mar-26": "384.9"
+          },
+          {
+            "Assets": "Inventories 229.4 112.2 Financial Assets (i) Investments 8.1 7.9 (ii) Trade receivables 255.2 218.2 (iii) Cash and cash equivalents 182.3 12.9 (iv) Bank balances other than cash and cash equivalents 0.4 0.4 Loans 13.8 0.8 Other Financial Assets 180.9 23.7 Other Current Assets 10.3 8.9",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Assets": "Total Assets",
+            "Sep-26": "1,112.7",
+            "Mar-26": "579.7"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 2,
+        "row_count": 7,
+        "rows": [
+          {
+            "Equity & Liabilities": "Total Equity",
+            "Sep-26": "605.4",
+            "Mar-26": "236.3"
+          },
+          {
+            "Equity & Liabilities": "Share Capital 11.4 10.2 Other Equity 594.0 226.1",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities": "Non-Current Liabilities",
+            "Sep-26": "76.3",
+            "Mar-26": "39.5"
+          },
+          {
+            "Equity & Liabilities": "Financial Liabilities (i) Borrowings 65.6 35.7 (ii) Lease Liability 6.1 0.3 Provisions 2.5 1.8 Deferred Tax Liabilities 2.1 1.7",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities": "Current Liabilities",
+            "Sep-26": "431.0",
+            "Mar-26": "303.8"
+          },
+          {
+            "Equity & Liabilities": "Financial Liabilities (i) Borrowings 211.7 197.5 (ii) Trade Payables 182.5 94.8 (iii) Lease Liabilities 1.9 0.8 (iv) Other Financial Liabilities 9.7 7.3 Other Current Liabilities 5.3 2.1 Provisions 0.3 0.2 Current tax liabilities (net) 19.6 1.0",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities": "Total Equity & Liabilities",
+            "Sep-26": "1,112.7",
+            "Mar-26": "579.7"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "Net Profit Before Tax",
+            "H1 FY27": "97.6",
+            "H1 FY26": "33.5"
+          },
+          {
+            "Particulars": "Adjustments for: Non -Cash Items / Other Investment or Financial Items 25.0 15.3 Operating profit before working capital changes 122.6 48.8 Changes in working capital -108.4 -24.0",
+            "H1 FY27": "",
+            "H1 FY26": ""
+          },
+          {
+            "Particulars": "Cash generated from Operations",
+            "H1 FY27": "14.2",
+            "H1 FY26": "24.8"
+          },
+          {
+            "Particulars": "Direct taxes paid (net of refund) -4.9 -10.4",
+            "H1 FY27": "",
+            "H1 FY26": ""
+          },
+          {
+            "Particulars": "Net Cash from Operating Activities",
+            "H1 FY27": "9.3",
+            "H1 FY26": "14.4"
+          },
+          {
+            "Particulars": "Net Cash from Investing Activities",
+            "H1 FY27": "-33.4",
+            "H1 FY26": "-55.0"
+          },
+          {
+            "Particulars": "Net Cash from Financing Activities",
+            "H1 FY27": "193.4",
+            "H1 FY26": "41.1"
+          },
+          {
+            "Particulars": "Net Increase / Decrease in Cash and Cash equivalents",
+            "H1 FY27": "169.3",
+            "H1 FY26": "0.5"
+          },
+          {
+            "Particulars": "Add: Cash & Cash equivalents at the beginning of the period 12.9 1.5 Add: Effect of exchange of foreign currency 0.1 0.0",
+            "H1 FY27": "",
+            "H1 FY26": ""
+          },
+          {
+            "Particulars": "Cash & Cash equivalents at the end of the period",
+            "H1 FY27": "182.3",
+            "H1 FY26": "1.9"
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Particulars": "Revenue from Operations",
+            "Q2 FY27": "529.3",
+            "Q1 FY27": "489.2",
+            "QoQ": "8%",
+            "H1 FY27": "1,018.5",
+            "FY26*": "1,171.7"
+          },
+          {
+            "Particulars": "Cost of Goods Sold 422.1 393.8 815.9 941.5",
+            "Q2 FY27": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "FY26*": ""
+          },
+          {
+            "Particulars": "Gross Profit",
+            "Q2 FY27": "107.2",
+            "Q1 FY27": "95.4",
+            "QoQ": "12%",
+            "H1 FY27": "202.6",
+            "FY26*": "230.2"
+          },
+          {
+            "Particulars": "Gross Profit Margin (%)",
+            "Q2 FY27": "20.3%",
+            "Q1 FY27": "19.5%",
+            "QoQ": "",
+            "H1 FY27": "19.9%",
+            "FY26*": "19.6%"
+          },
+          {
+            "Particulars": "Employee Cost 19.1 17.4 36.5 59.5 Other Expenses 24.8 23.0 47.9 74.3",
+            "Q2 FY27": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "FY26*": ""
+          },
+          {
+            "Particulars": "EBITDA",
+            "Q2 FY27": "63.3",
+            "Q1 FY27": "54.9",
+            "QoQ": "15%",
+            "H1 FY27": "118.2",
+            "FY26*": "96.4"
+          },
+          {
+            "Particulars": "EBITDA Margin (%)",
+            "Q2 FY27": "12.0%",
+            "Q1 FY27": "11.2%",
+            "QoQ": "",
+            "H1 FY27": "11.6%",
+            "FY26*": "8.2%"
+          },
+          {
+            "Particulars": "Depreciation 4.8 4.5 9.3 14.7 Other Income 1.7 1.8 3.4 10.0",
+            "Q2 FY27": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "FY26*": ""
+          },
+          {
+            "Particulars": "EBIT",
+            "Q2 FY27": "60.2",
+            "Q1 FY27": "52.2",
+            "QoQ": "15%",
+            "H1 FY27": "112.4",
+            "FY26*": "91.7"
+          },
+          {
+            "Particulars": "EBIT Margin (%)",
+            "Q2 FY27": "11.4%",
+            "Q1 FY27": "10.7%",
+            "QoQ": "",
+            "H1 FY27": "11.0%",
+            "FY26*": "7.8%"
+          },
+          {
+            "Particulars": "Finance Cost 8.5 7.7 16.2 19.1 Share of profit of joint ventures (net of tax) -0.4 0.0 -0.4 0.0",
+            "Q2 FY27": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "FY26*": ""
+          },
+          {
+            "Particulars": "Profit before Tax",
+            "Q2 FY27": "51.3",
+            "Q1 FY27": "44.5",
+            "QoQ": "15%",
+            "H1 FY27": "95.8",
+            "FY26*": "72.6"
+          },
+          {
+            "Particulars": "Profit before Tax Margin (%)",
+            "Q2 FY27": "9.7%",
+            "Q1 FY27": "9.1%",
+            "QoQ": "",
+            "H1 FY27": "9.4%",
+            "FY26*": "6.2%"
+          },
+          {
+            "Particulars": "Tax 11.7 11.7 23.4 19.0",
+            "Q2 FY27": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "FY26*": ""
+          },
+          {
+            "Particulars": "Profit After Tax",
+            "Q2 FY27": "39.5",
+            "Q1 FY27": "32.8",
+            "QoQ": "21%",
+            "H1 FY27": "72.3",
+            "FY26*": "53.6"
+          },
+          {
+            "Particulars": "Profit After Tax Margin (%)",
+            "Q2 FY27": "7.5%",
+            "Q1 FY27": "6.7%",
+            "QoQ": "",
+            "H1 FY27": "7.1%",
+            "FY26*": "4.6%"
+          },
+          {
+            "Particulars": "EPS 3.89 3.26 7.14 5.28",
+            "Q2 FY27": "",
+            "Q1 FY27": "",
+            "QoQ": "",
+            "H1 FY27": "",
+            "FY26*": ""
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Assets": "Non - Current Assets",
+            "Sep-26": "238.3",
+            "Mar-26": "195.9"
+          },
+          {
+            "Assets": "Property Plant & Equipment 206.4 189.3 Capital work-in-progress 1.9 2.0 Other Intangible Assets 0.6 0.6 Intangible Assets under Development 1.0 1.0 Right of-use of assets 8.2 1.3 Investment in Subsidiaries/Joint Venture 0.6 0.0 Other Financial Assets 0.8 0.9 Other non-current assets 18.8 0.9",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Assets": "Current Assets",
+            "Sep-26": "874.9",
+            "Mar-26": "384.9"
+          },
+          {
+            "Assets": "Inventories 230.0 112.6 Financial Assets (i) Investments 8.1 7.9 (ii) Trade receivables 249.2 218.1 (iii) Cash and cash equivalents 182.4 12.9 (iv) Bank balances other than cash and cash equivalents 0.4 0.4 Loans 12.0 0.0 Other Financial Assets 180.9 23.7 Other Current Assets 11.8 9.3",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Assets": "Total Assets",
+            "Sep-26": "1,113.2",
+            "Mar-26": "580.8"
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "table_index": 2,
+        "row_count": 7,
+        "rows": [
+          {
+            "Equity & Liabilities": "Total Equity",
+            "Sep-26": "603.4",
+            "Mar-26": "235.8"
+          },
+          {
+            "Equity & Liabilities": "Share Capital 11.4 10.2 Other Equity 592.8 225.9 Non-controlling interests -0.8 -0.2",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities": "Non-Current Liabilities",
+            "Sep-26": "75.8",
+            "Mar-26": "39.3"
+          },
+          {
+            "Equity & Liabilities": "Financial Liabilities (i) Borrowings 65.6 35.7 (ii) Lease Liability 6.1 0.3 Provisions 2.5 1.8 Deferred Tax Liabilities 1.6 1.5",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities": "Current Liabilities",
+            "Sep-26": "433.9",
+            "Mar-26": "305.6"
+          },
+          {
+            "Equity & Liabilities": "Financial Liabilities (i) Borrowings 213.6 198.5 (ii) Trade Payables 167.3 95.4 (iii) Lease Liabilities 1.9 0.8 (iv) Other Financial Liabilities 25.9 7.4 Other Current Liabilities 5.3 2.2 Provisions 0.3 0.2 Current tax liabilities (net) 19.6 1.0",
+            "Sep-26": "",
+            "Mar-26": ""
+          },
+          {
+            "Equity & Liabilities": "Total Equity & Liabilities",
+            "Sep-26": "1,113.2",
+            "Mar-26": "580.8"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "Net Profit Before Tax",
+            "H1 FY27": "95.8"
+          },
+          {
+            "Particulars": "Adjustments for: Non -Cash Items / Other Investment or Financial Items 25.7 Operating profit before working capital changes 121.5 Changes in working capital -103.2",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Cash generated from Operations",
+            "H1 FY27": "18.3"
+          },
+          {
+            "Particulars": "Direct taxes paid (net of refund) -4.9",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Net Cash from Operating Activities",
+            "H1 FY27": "13.4"
+          },
+          {
+            "Particulars": "Net Cash from Investing Activities",
+            "H1 FY27": "-26.2"
+          },
+          {
+            "Particulars": "Net Cash from Financing Activities",
+            "H1 FY27": "182.2"
+          },
+          {
+            "Particulars": "Net Increase / Decrease in Cash and Cash equivalents",
+            "H1 FY27": "169.4"
+          },
+          {
+            "Particulars": "Add: Cash & Cash equivalents at the beginning of the period 12.9 Add: Effect of exchange of foreign currency 0.1",
+            "H1 FY27": ""
+          },
+          {
+            "Particulars": "Cash & Cash equivalents at the end of the period",
+            "H1 FY27": "182.4"
+          }
+        ]
+      },
+      {
+        "page": 35,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Particulars": "Revenue from Operations",
+            "H1 FY27": "1,018.0",
+            "FY26": "1,171.6",
+            "FY25": "825.0",
+            "FY24": "657.8"
+          },
+          {
+            "Particulars": "Cost of Goods Sold 815.5 941.4 644.5 515.9",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "Gross Profit",
+            "H1 FY27": "202.5",
+            "FY26": "230.2",
+            "FY25": "180.4",
+            "FY24": "141.9"
+          },
+          {
+            "Particulars": "Gross Profit Margin",
+            "H1 FY27": "19.9%",
+            "FY26": "19.6%",
+            "FY25": "21.9%",
+            "FY24": "21.6%"
+          },
+          {
+            "Particulars": "Employee Cost 35.9 59.3 42.9 30.9 Other Expenses 47.4 73.9 53.6 52.2",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "EBITDA",
+            "H1 FY27": "119.2",
+            "FY26": "97.0",
+            "FY25": "83.9",
+            "FY24": "58.8"
+          },
+          {
+            "Particulars": "EBITDA Margin",
+            "H1 FY27": "11.7%",
+            "FY26": "8.3%",
+            "FY25": "10.2%",
+            "FY24": "8.9%"
+          },
+          {
+            "Particulars": "Depreciation 8.9 14.7 6.6 6.1 Other Income 3.5 10.0 6.9 7.2",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "EBIT",
+            "H1 FY27": "113.8",
+            "FY26": "92.3",
+            "FY25": "84.2",
+            "FY24": "59.9"
+          },
+          {
+            "Particulars": "EBIT Margin",
+            "H1 FY27": "11.2%",
+            "FY26": "7.9%",
+            "FY25": "10.2%",
+            "FY24": "9.1%"
+          },
+          {
+            "Particulars": "Finance Cost 16.2 19.1 12.5 5.6 Exceptional items 0.0 0.0 0.0 0.0",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "Profit before Tax",
+            "H1 FY27": "97.6",
+            "FY26": "73.3",
+            "FY25": "71.7",
+            "FY24": "54.4"
+          },
+          {
+            "Particulars": "Profit before Tax Margin",
+            "H1 FY27": "9.6%",
+            "FY26": "6.3%",
+            "FY25": "8.7%",
+            "FY24": "8.3%"
+          },
+          {
+            "Particulars": "Tax 23.9 19.2 18.4 14.3",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "Profit After Tax",
+            "H1 FY27": "73.7",
+            "FY26": "54.1",
+            "FY25": "53.3",
+            "FY24": "40.1"
+          },
+          {
+            "Particulars": "Profit After Tax Margin",
+            "H1 FY27": "7.2%",
+            "FY26": "4.6%",
+            "FY25": "6.5%",
+            "FY24": "6.1%"
+          },
+          {
+            "Particulars": "EPS 7.22 5.30 5.23 3.93",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          }
+        ]
+      },
+      {
+        "page": 36,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Assets": "Non - Current Assets",
+            "Sep-26": "232.2",
+            "Mar-26": "194.8",
+            "Mar-25": "168.1",
+            "Mar-24": "84.3"
+          },
+          {
+            "Assets": "Property Plant & Equipment 200.0 188.3 130.9 56.4 Capital work-in-progress 1.9 2.0 2.5 23.2 Other Intangible Assets 0.6 0.6 0.2 0.2 Intangible Assets under Development 1.0 1.0 0.0 0.0 Right of-use of assets 8.2 1.3 1.8 0.2 Investment in Subsidiaries /Joint Venture 1.0 0.0 0.0 0.0 Other Financial Assets 0.8 0.9 9.5 1.8 Other non-current assets 18.7 0.8 23.0 2.6",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": ""
+          },
+          {
+            "Assets": "Current Assets",
+            "Sep-26": "880.5",
+            "Mar-26": "384.9",
+            "Mar-25": "259.1",
+            "Mar-24": "208.9"
+          },
+          {
+            "Assets": "Inventories 229.4 112.2 72.8 40.4 Financial Assets (i) Investments 8.1 7.9 7.5 6.9 (ii) Trade receivables 255.2 218.2 162.2 136.4 (iii) Cash and cash equivalents 182.3 12.9 1.5 8.0 (iv) Bank balances other than cash and 0.4 0.4 0.1 7.1 cash equivalents Loans 13.8 0.8 0.0 0.0 Other Financial Assets 180.9 23.7 7.2 3.6 Other Current Assets 10.3 8.9 8.0 6.7",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": ""
+          },
+          {
+            "Assets": "Total Assets",
+            "Sep-26": "1,112.7",
+            "Mar-26": "579.7",
+            "Mar-25": "427.2",
+            "Mar-24": "293.2"
+          }
+        ]
+      },
+      {
+        "page": 36,
+        "table_index": 2,
+        "row_count": 7,
+        "rows": [
+          {
+            "Equity & Liabilities": "Total Equity",
+            "Sep-26": "605.4",
+            "Mar-26": "236.3",
+            "Mar-25": "180.7",
+            "Mar-24": "127.5"
+          },
+          {
+            "Equity & Liabilities": "Share Capital 11.4 10.2 10.2 1.0 Other Equity 594.0 226.1 170.5 126.5",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": ""
+          },
+          {
+            "Equity & Liabilities": "Non-Current Liabilities",
+            "Sep-26": "76.3",
+            "Mar-26": "39.5",
+            "Mar-25": "31.1",
+            "Mar-24": "4.5"
+          },
+          {
+            "Equity & Liabilities": "Financial Liabilities (i) Borrowings 65.6 35.7 27.4 3.4 (ii) Lease Liability 6.1 0.3 1.1 0.2 Provisions 2.5 1.8 1.3 0.9 Deferred Tax Liabilities 2.1 1.7 1.3 0.2",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": ""
+          },
+          {
+            "Equity & Liabilities": "Current Liabilities",
+            "Sep-26": "431.0",
+            "Mar-26": "303.8",
+            "Mar-25": "215.3",
+            "Mar-24": "161.1"
+          },
+          {
+            "Equity & Liabilities": "Financial Liabilities (i) Borrowings 211.7 197.5 86.0 33.4 (ii) Trade Payables 182.5 94.8 120.1 116.8 (iii) Lease Liabilities 1.9 0.8 0.7 0.1 (iv) Other Financial Liabilities 9.7 7.3 4.5 4.2 Other Current Liabilities 5.3 2.1 2.9 1.8 Provisions 0.3 0.2 0.2 0.1 Current tax liabilities (net) 19.6 1.0 0.9 4.7",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": ""
+          },
+          {
+            "Equity & Liabilities": "Total Equity & Liabilities",
+            "Sep-26": "1,112.7",
+            "Mar-26": "579.7",
+            "Mar-25": "427.2",
+            "Mar-24": "293.2"
+          }
+        ]
+      },
+      {
+        "page": 37,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "Net Profit Before Tax",
+            "H1 FY27": "97.6",
+            "FY26": "73.3",
+            "FY25": "71.7",
+            "FY24": "54.4"
+          },
+          {
+            "Particulars": "Adjustments for: Non -Cash Items / Other Investment or Financial Items 25.0 32.5 14.6 7.9 Operating profit before working capital changes 122.6 105.8 86.3 62.3 Changes in working capital -108.4 -112.9 -75.1 -9.5",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "Cash generated from Operations",
+            "H1 FY27": "14.2",
+            "FY26": "-7.1",
+            "FY25": "11.2",
+            "FY24": "52.8"
+          },
+          {
+            "Particulars": "Direct taxes paid (net of refund) -4.9 -18.6 -21.0 -10.6",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "Net Cash from Operating Activities",
+            "H1 FY27": "9.3",
+            "FY26": "-25.7",
+            "FY25": "-9.8",
+            "FY24": "42.2"
+          },
+          {
+            "Particulars": "Net Cash from Investing Activities",
+            "H1 FY27": "-33.4",
+            "FY26": "-63.5",
+            "FY25": "-59.8",
+            "FY24": "-32.7"
+          },
+          {
+            "Particulars": "Net Cash from Financing Activities",
+            "H1 FY27": "193.4",
+            "FY26": "100.7",
+            "FY25": "63.1",
+            "FY24": "-6.1"
+          },
+          {
+            "Particulars": "Net Decrease in Cash and Cash equivalents",
+            "H1 FY27": "169.3",
+            "FY26": "11.4",
+            "FY25": "-6.5",
+            "FY24": "3.4"
+          },
+          {
+            "Particulars": "Add: Cash & Cash equivalents at the beginning of the period 12.9 1.5 8.0 4.6 Add: Effect of exchange of foreign currency 0.1 0.0 0.0 0.0",
+            "H1 FY27": "",
+            "FY26": "",
+            "FY25": "",
+            "FY24": ""
+          },
+          {
+            "Particulars": "Cash & Cash equivalents at the end of the period",
+            "H1 FY27": "182.3",
+            "FY26": "12.9",
+            "FY25": "1.5",
+            "FY24": "8.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "0439ee7b-6817-4bd2-81e7-df8f05d20832",
+    "SCRIP_CD": 544418,
+    "XML_NAME": "ANN_544418_0439EE7B-6817-4BD2-81E7-DF8F05D20832",
+    "NEWSSUB": "Oswal Pumps Ltd - 544418 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-13T09:03:00.77",
+    "NEWS_DT": "2026-11-13T09:03:00.77",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b57f7e66-b1ef-42ea-ace6-a50b74bcb3b1.pdf",
+    "MORE": "",
+    "HEADLINE": "As per attached intimation letter.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oswal-pumps-ltd/oswalpumps/544418/",
+    "SLONGNAME": "Oswal Pumps Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-13T09:03:00",
+    "DissemDT": "2026-11-13T09:03:00.77",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 6115737,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Oswal Pumps Ltd filed an Investor Presentation for Q2 FY 27 under Regulation 30 of the SEBI (LODR) Regulations, dated November 2026.  \n- The announcement contains no specific financial figures, dates of transactions, or disclosed financial decisions.",
+    "key_metrics": {
+      "revenue": "4",
+      "net_profit": "3",
+      "operating_profit": "1501",
+      "total_assets": "21462",
+      "total_equity": "1",
+      "total_debt": "2253",
+      "eps": "8.20",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "2bffddcc-469a-413c-8341-238b2f293d76",
     "SCRIP_CD": 539254,
     "XML_NAME": "ANN_539254_2BFFDDCC-469A-413C-8341-238B2F293D76",
@@ -15642,450 +17263,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "5d0dcead-82f0-472d-920b-0fa339f128c2",
-    "SCRIP_CD": 538772,
-    "XML_NAME": "ANN_538772_5D0DCEAD-82F0-472D-920B-0FA339F128C2",
-    "NEWSSUB": "Niyogin Fintech Ltd - 538772 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-12T21:39:53.057",
-    "NEWS_DT": "2026-11-12T21:39:53.057",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "27e10448-ef8b-429b-8891-81ed0ede5e80.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Press Release: Q2 FY27 Results",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/niyogin-fintech-ltd/niyogin/538772/",
-    "SLONGNAME": "Niyogin Fintech Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:39:53",
-    "DissemDT": "2026-11-12T21:39:53.057",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 313346,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "18.1 cr",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "8a750af6-de85-4a8d-932e-4658e18c97c1",
-    "SCRIP_CD": 511644,
-    "XML_NAME": "ANN_511644_8A750AF6-DE85-4A8D-932E-4658E18C97C1",
-    "NEWSSUB": "Omega Interactive Technologies Ltd - 511644 - Un-Audited Standalone And Consolidated Financial Results Of The Company For The Quarter And Half Yearly Ended On September 30, 2026.",
-    "DT_TM": "2026-11-12T21:38:59.807",
-    "NEWS_DT": "2026-11-12T21:38:59.807",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "83cdb6b5-ff50-4c8c-9fc4-f7d8038860f6.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Standalone and Consolidated Financial Result of the company for the quarter and half yearly ended on 30-09-2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/omega-interactive-technologies-ltd/omegain/511644/",
-    "SLONGNAME": "Omega Interactive Technologies Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:38:59",
-    "DissemDT": "2026-11-12T21:38:59.807",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7971652,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2015.56",
-      "total_assets": "29383.80",
-      "total_equity": "10164.83",
-      "total_debt": "4829.00",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6e271228-6c15-48a9-a205-b323f24b07e3",
-    "SCRIP_CD": 526530,
-    "XML_NAME": "ANN_526530_6E271228-6C15-48A9-A205-B323F24B07E3",
-    "NEWSSUB": "IIRM Holdings India Ltd - 526530 - Statement Of Deviation Or Variation In Utilization Of Funds Raised Under Regulation 32 Of SEBI (Listing Obligations And Disclosure Requirements) Regulation, 2015 For The Quarter Ended September 30, 2026.",
-    "DT_TM": "2026-11-12T21:38:16.997",
-    "NEWS_DT": "2026-11-12T21:38:16.997",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ff530074-64d1-4172-9e29-f4cdb80f9a3d.pdf",
-    "MORE": "",
-    "HEADLINE": "Statement of Deviation or Variation under Reg. 32 for the quarter ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/iirm-holdings-india-ltd/iirm/526530/",
-    "SLONGNAME": "IIRM Holdings India Ltd",
-    "AGENDA_ID": 84,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:38:16",
-    "DissemDT": "2026-11-12T21:38:16.997",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1081834,
-    "SUBCATNAME": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 1,
-        "row_count": 11,
-        "rows": [
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "Sr.",
-            "col_2": "Original Object",
-            "col_3": "Modified Object, if any",
-            "col_4": "Original Allocation",
-            "col_5": "Modified allocation, if any",
-            "col_6": "Funds Utilised",
-            "col_7": "Amount of Deviation/Variation for the quarter according to applicable object",
-            "col_8": "Remarks if any"
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "1",
-            "col_2": "Working Capital Requirements of India Insure Risk Management and Insurance Broking Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "750",
-            "col_5": "745",
-            "col_6": "268",
-            "col_7": "5",
-            "col_8": "As one of the proposed allottees, Mr. Pradeep Kumar, did not subscribe to the Preferential Issue. Accordingly, the proposed allotment of 10,469 equity shares amounting to ₹14,99,998.32 and convertible warrants amounting to ₹84,99,942.72, aggregating to ₹99,99,941.04, was not undertaken. Consequently, the total issue size stands reduced by the aforesaid amount, and the amounts allocated towards the various objects of the issue, as specified in the AGM Notice dated July 31, 2026, have been correspondingly reduced and adjusted on a proportionate basis."
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "2",
-            "col_2": "Working Capital Requirements of IIRM Global Shared Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "250",
-            "col_5": "248.33",
-            "col_6": "50",
-            "col_7": "1.67",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "3",
-            "col_2": "Funding of day-to-day business operations and operating expenses of India Insure Risk Management and Insurance Broking Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "750",
-            "col_5": "745",
-            "col_6": "268",
-            "col_7": "5",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "4",
-            "col_2": "Funding of day-to-day business operations and operating expenses of IIRM Global Shared Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "250",
-            "col_5": "248.33",
-            "col_6": "50",
-            "col_7": "1.67",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "5",
-            "col_2": "Capital expenditure for technology, infrastructure, equipment and expansion of the existing business operations of India Insure Risk Management and Insurance Broking Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "375",
-            "col_5": "372.5",
-            "col_6": "0",
-            "col_7": "2.5",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "6",
-            "col_2": "Capital expenditure for technology, infrastructure, equipment and expansion of the existing business operations of IIRM Global Shared Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "125",
-            "col_5": "124.17",
-            "col_6": "0",
-            "col_7": "0.83",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "7",
-            "col_2": "Acquisition(s) / Strategic Investment(s), as specifically identified and approved in accordance with applicable laws, through India Insure Risk Management and Insurance Broking Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "10000",
-            "col_5": "9933.33",
-            "col_6": "1550",
-            "col_7": "66.67",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "8",
-            "col_2": "General Corporate Purposes of IIRM Holdings India Limited",
-            "col_3": "Not Applicable",
-            "col_4": "250",
-            "col_5": "248.33",
-            "col_6": "0",
-            "col_7": "1.67",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "9",
-            "col_2": "General Corporate Purposes of India Insure Risk Management and Insurance Broking Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "1650",
-            "col_5": "1639",
-            "col_6": "514",
-            "col_7": "11",
-            "col_8": ""
-          },
-          {
-            "Objects for which funds have been raised and where there has been a deviation, in the following table: (Amount in Lakhs)": "10",
-            "col_2": "General Corporate Purposes of IIRM Global Shared Services Private Limited",
-            "col_3": "Not Applicable",
-            "col_4": "600",
-            "col_5": "596",
-            "col_6": "73",
-            "col_7": "4",
-            "col_8": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "24778d6e-1af0-4fee-87f6-aa33d9f624d8",
-    "SCRIP_CD": 544945,
-    "XML_NAME": "ANN_544945_24778D6E-1AF0-4FEE-87F6-AA33D9F624D8",
-    "NEWSSUB": "Elevate Campuses Ltd - 544945 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-    "DT_TM": "2026-11-12T21:38:08.027",
-    "NEWS_DT": "2026-11-12T21:38:08.027",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0280a91a-50a8-47ba-aeba-2c65a6fa1ce6.pdf",
-    "MORE": "",
-    "HEADLINE": "Monitoring Agency Report for the quarter ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/elevate-campuses-ltd/elevate/544945/",
-    "SLONGNAME": "Elevate Campuses Ltd",
-    "AGENDA_ID": 135,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:38:08",
-    "DissemDT": "2026-11-12T21:38:08.027",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 729659,
-    "SUBCATNAME": "Monitoring Agency Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "12c7a2c3-fd67-42c4-a002-25dad2eb8bb2",
-    "SCRIP_CD": 544822,
-    "XML_NAME": "ANN_544822_12C7A2C3-FD67-42C4-A002-25DAD2EB8BB2",
-    "NEWSSUB": "Laser Power & Infra Ltd - 544822 -   Unaudited Financial Results For The Quarter Ended 30 September 2026",
-    "DT_TM": "2026-11-12T21:37:50.197",
-    "NEWS_DT": "2026-11-12T21:37:50.197",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dd803c9b-e8f7-429c-843d-b4abf1699294.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Financial Results for the quarter ended 30th September, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/laser-power--infra-ltd/laserpower/544822/",
-    "SLONGNAME": "Laser Power & Infra Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:37:50",
-    "DissemDT": "2026-11-12T21:37:50.197",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2312108,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4cce7c83-03cf-490a-8774-5765412a4707",
-    "SCRIP_CD": 543249,
-    "XML_NAME": "ANN_543249_4CCE7C83-03CF-490A-8774-5765412A4707",
-    "NEWSSUB": "Tarc Ltd - 543249 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-12T21:35:59.153",
-    "NEWS_DT": "2026-11-12T21:35:59.153",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "207055a0-16c2-44c3-b629-ed62e3442218.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor Presentation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/tarc-ltd/tarc/543249/",
-    "SLONGNAME": "Tarc Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 37,
-    "News_submission_dt": "2026-11-12T21:35:59",
-    "DissemDT": "2026-11-12T21:35:59.153",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5912874,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "69",
-      "net_profit": "4.39",
-      "operating_profit": "69",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars (₹ Cr)": "Revenue",
-            "Q2 FY2026-27": "128.81",
-            "Q2 FY2025-26": "6.87",
-            "H1 2026-27": "345.94",
-            "H1 2025-26": "82.77"
-          },
-          {
-            "Particulars (₹ Cr)": "Add: Other Income",
-            "Q2 FY2026-27": "5.26",
-            "Q2 FY2025-26": "27.23",
-            "H1 2026-27": "6.84",
-            "H1 2025-26": "246.70"
-          },
-          {
-            "Particulars (₹ Cr)": "Total income",
-            "Q2 FY2026-27": "134.07",
-            "Q2 FY2025-26": "34.10",
-            "H1 2026-27": "352.78",
-            "H1 2025-26": "329.47"
-          },
-          {
-            "Particulars (₹ Cr)": "Less: Direct Costs (incl change in inventory)",
-            "Q2 FY2026-27": "110.29",
-            "Q2 FY2025-26": "12.91",
-            "H1 2026-27": "255.63",
-            "H1 2025-26": "9.35"
-          },
-          {
-            "Particulars (₹ Cr)": "Less: Other expenses",
-            "Q2 FY2026-27": "20.98",
-            "Q2 FY2025-26": "29.60",
-            "H1 2026-27": "52.59",
-            "H1 2025-26": "219.37"
-          },
-          {
-            "Particulars (₹ Cr)": "EBITDA",
-            "Q2 FY2026-27": "2.80",
-            "Q2 FY2025-26": "(8.41)",
-            "H1 2026-27": "44.57",
-            "H1 2025-26": "90.75"
-          },
-          {
-            "Particulars (₹ Cr)": "EBITDA Margin (%)",
-            "Q2 FY2026-27": "2.09%",
-            "Q2 FY2025-26": "-24.66%",
-            "H1 2026-27": "12.63%",
-            "H1 2025-26": "27.54%"
-          },
-          {
-            "Particulars (₹ Cr)": "Less: Depreciation",
-            "Q2 FY2026-27": "2.25",
-            "Q2 FY2025-26": "2.40",
-            "H1 2026-27": "4.34",
-            "H1 2025-26": "4.81"
-          },
-          {
-            "Particulars (₹ Cr)": "Less: Finance Costs",
-            "Q2 FY2026-27": "13.61",
-            "Q2 FY2025-26": "11.23",
-            "H1 2026-27": "31.31",
-            "H1 2025-26": "26.51"
-          },
-          {
-            "Particulars (₹ Cr)": "PBT",
-            "Q2 FY2026-27": "(13.06)",
-            "Q2 FY2025-26": "(22.04)",
-            "H1 2026-27": "8.92",
-            "H1 2025-26": "59.43"
-          },
-          {
-            "Particulars (₹ Cr)": "Less: Taxes",
-            "Q2 FY2026-27": "(17.46)",
-            "Q2 FY2025-26": "(6.27)",
-            "H1 2026-27": "(18.12)",
-            "H1 2025-26": "20.98"
-          },
-          {
-            "Particulars (₹ Cr)": "Reported PAT",
-            "Q2 FY2026-27": "4.39",
-            "Q2 FY2025-26": "(15.77)",
-            "H1 2026-27": "27.04",
-            "H1 2025-26": "38.45"
-          }
-        ]
-      }
-    ]
   }
 ]
