@@ -1,5 +1,450 @@
 [
   {
+    "NEWSID": "88aa9181-ea80-4534-acc4-391ccc77fc31",
+    "SCRIP_CD": 539661,
+    "XML_NAME": "ANN_539661_88AA9181-EA80-4534-ACC4-391CCC77FC31",
+    "NEWSSUB": "Ace Men Engg Works Ltd - 539661 - Outcome Of Board Meeting",
+    "DT_TM": "2026-11-15T01:26:15.6",
+    "NEWS_DT": "2026-11-15T01:26:15.6",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a3ce50ed-51c4-4ff7-b512-6b53c14a2a04.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Board meeting enclosed herewith.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ace-men-engg-works-ltd/acemen/539661/",
+    "SLONGNAME": "Ace Men Engg Works Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-15T01:26:15",
+    "DissemDT": "2026-11-15T01:26:15.6",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1564791,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 15",
+    "key_metrics": {
+      "revenue": "5",
+      "total_assets": "8",
+      "total_equity": "6",
+      "total_debt": "9",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "(All amounts in Indian Rupees Lakhs, except as otherwise stated)",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Particulars",
+            "col_2": "Standalone",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "",
+            "col_2": "For the Period Ended on 30th September 2026",
+            "col_3": "For the Period Ended on 30th September 2025"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "",
+            "col_2": "Unaudited",
+            "col_3": "Unaudited"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "A. Cash flow from operating activities Net Profit / (Loss) before extraordinary items and tax Adjustments for: Depreciation and amortisation Interest & Financial expenses Employee Benefit Expenses Bad Debt Expense Rent Income (Profit)/Loss on sale of fixed Assets Share of (Profit)/Loss from Firm Interest Income",
+            "col_2": "0.72",
+            "col_3": "3.03"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Operating profit / (loss) before working capital changes",
+            "col_2": "0.72",
+            "col_3": "3.03"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Changes in working capital: Adjustments for (increase) / decrease in operating assets: Inventories Trade receivables Short-term loans and advances Non - Current Financial assets Current Financial assets Other current assets Other Non - current assets Adjustments for increase / (decrease) in operating liabilities: Trade payables",
+            "col_2": "(12.00) (18.29) (2.02) 32.57",
+            "col_3": "(23.21) (7.03) 12.10"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Provisions",
+            "col_2": "(0.35)",
+            "col_3": "0.53"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Other current liabilities",
+            "col_2": "(0.08)",
+            "col_3": "14.07"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Cash generated from operations",
+            "col_2": "0.55",
+            "col_3": "(0.51)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net income tax (paid) / refunds",
+            "col_2": "",
+            "col_3": "(0.53)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net cash flow from / (used in) operating activities (A)",
+            "col_2": "0.55",
+            "col_3": "(1.04)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "B. Cash flow from investing activities Investment in Associates/Subsidiary Rent Received Interest Received",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net cash flow from / (used in) investing activities (B)",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "C. Cash flow from financing activities Repayment from Long-term borrowings Proceeds from other short-term borrowings",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Finance cost",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net cash flow from / (used in) financing activities (C)",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net increase / (decrease) in Cash and cash equivalents (A+B+C)",
+            "col_2": "0.55",
+            "col_3": "(1.04)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Cash and cash equivalents at the beginning of the year Cash and cash equivalents at the end of the year Cash and cash equivalents at the end of the year * * Comprises: (a) Cash on hand (b) Balances with banks (i) In current accounts (ii) Short Term Bank Deposits (iii) Balance Held as Margin Money",
+            "col_2": "0.35 0.90 0.90 0.17 0.73",
+            "col_3": "2.12 1.08 1.08 0.70 0.38"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Cash and cash equivalents at the end of the Period",
+            "col_2": "0 .90",
+            "col_3": "1.08"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Place: Ahmedabad For and on behalf of the Board of Directors of Date: 14-11-2026 Ace Men Engg Works Limited Ruchir Patel Managing Director DIN: 09840600",
+            "col_2": "",
+            "col_3": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "3dfef302-2c3b-4de9-bac0-774593bc0093",
+    "SCRIP_CD": 539661,
+    "XML_NAME": "ANN_539661_3DFEF302-2C3B-4DE9-BAC0-774593BC0093",
+    "NEWSSUB": "Ace Men Engg Works Ltd - 539661 - Board Meeting Outcome for Outcome Of Board Meeting",
+    "DT_TM": "2026-11-15T01:21:35.727",
+    "NEWS_DT": "2026-11-15T01:21:35.727",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7a9c322a-8c20-492f-a574-bd08a855b945.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Board meeting enclosed herewith.",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ace-men-engg-works-ltd/acemen/539661/",
+    "SLONGNAME": "Ace Men Engg Works Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-15T01:21:31",
+    "DissemDT": "2026-11-15T01:21:35.727",
+    "TimeDiff": "00:00:04",
+    "Fld_Attachsize": 1564791,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board met on 15 Nov 2026 (05:45 PM – 11:45 PM) and approved the unaudited consolidated and standalone financial results for Q2 and the half‑year ended 30 Sept 2026, with auditors issuing an unmodified opinion.  \n\n- The announcement does **not** disclose any specific financial figures or monetary amounts.",
+    "key_metrics": {
+      "revenue": "5",
+      "total_assets": "8",
+      "total_equity": "6",
+      "total_debt": "9",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 21,
+        "rows": [
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "(All amounts in Indian Rupees Lakhs, except as otherwise stated)",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Particulars",
+            "col_2": "Standalone",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "",
+            "col_2": "For the Period Ended on 30th September 2026",
+            "col_3": "For the Period Ended on 30th September 2025"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "",
+            "col_2": "Unaudited",
+            "col_3": "Unaudited"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "A. Cash flow from operating activities Net Profit / (Loss) before extraordinary items and tax Adjustments for: Depreciation and amortisation Interest & Financial expenses Employee Benefit Expenses Bad Debt Expense Rent Income (Profit)/Loss on sale of fixed Assets Share of (Profit)/Loss from Firm Interest Income",
+            "col_2": "0.72",
+            "col_3": "3.03"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Operating profit / (loss) before working capital changes",
+            "col_2": "0.72",
+            "col_3": "3.03"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Changes in working capital: Adjustments for (increase) / decrease in operating assets: Inventories Trade receivables Short-term loans and advances Non - Current Financial assets Current Financial assets Other current assets Other Non - current assets Adjustments for increase / (decrease) in operating liabilities: Trade payables",
+            "col_2": "(12.00) (18.29) (2.02) 32.57",
+            "col_3": "(23.21) (7.03) 12.10"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Provisions",
+            "col_2": "(0.35)",
+            "col_3": "0.53"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Other current liabilities",
+            "col_2": "(0.08)",
+            "col_3": "14.07"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Cash generated from operations",
+            "col_2": "0.55",
+            "col_3": "(0.51)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net income tax (paid) / refunds",
+            "col_2": "",
+            "col_3": "(0.53)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net cash flow from / (used in) operating activities (A)",
+            "col_2": "0.55",
+            "col_3": "(1.04)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "B. Cash flow from investing activities Investment in Associates/Subsidiary Rent Received Interest Received",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net cash flow from / (used in) investing activities (B)",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "C. Cash flow from financing activities Repayment from Long-term borrowings Proceeds from other short-term borrowings",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Finance cost",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net cash flow from / (used in) financing activities (C)",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Net increase / (decrease) in Cash and cash equivalents (A+B+C)",
+            "col_2": "0.55",
+            "col_3": "(1.04)"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Cash and cash equivalents at the beginning of the year Cash and cash equivalents at the end of the year Cash and cash equivalents at the end of the year * * Comprises: (a) Cash on hand (b) Balances with banks (i) In current accounts (ii) Short Term Bank Deposits (iii) Balance Held as Margin Money",
+            "col_2": "0.35 0.90 0.90 0.17 0.73",
+            "col_3": "2.12 1.08 1.08 0.70 0.38"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Cash and cash equivalents at the end of the Period",
+            "col_2": "0 .90",
+            "col_3": "1.08"
+          },
+          {
+            "ACE MEN ENGG WORKS LIMITED CIN: L77307GJ1980PLC100420 Address: Office No. 305, 3rd Floor Stellor, Sindhubhavan Road, Boadakdev, Thaltej, Ahmedabad – 380059 Phone No. 917405858589 , Email: info@acumenengg.co.in, Website: www.acumenengg.co.in Unaudited Standalone Cashflow Statement for the period ended 30th September, 2026": "Place: Ahmedabad For and on behalf of the Board of Directors of Date: 14-11-2026 Ace Men Engg Works Limited Ruchir Patel Managing Director DIN: 09840600",
+            "col_2": "",
+            "col_3": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "ed57482f-e44c-48f0-845f-de20bf69bc5e",
+    "SCRIP_CD": 544518,
+    "XML_NAME": "ANN_544518_ED57482F-E44C-48F0-845F-DE20BF69BC5E",
+    "NEWSSUB": "L. T. Elevator Ltd - 544518 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-15T01:04:47.73",
+    "NEWS_DT": "2026-11-15T01:04:47.73",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "89c86c6b-761c-43ef-8ba3-f0eb635eda95.pdf",
+    "MORE": "",
+    "HEADLINE": "Press release under the Reg 30 of the SEBI (LODR) reg, 2015.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/l-t-elevator-ltd/ltelevator/544518/",
+    "SLONGNAME": "L. T. Elevator Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-15T01:04:47",
+    "DissemDT": "2026-11-15T01:04:47.73",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 405652,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "71.4 crore",
+      "net_profit": "10.3 crore",
+      "operating_profit": "9.91",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "df4d870c-a414-4b84-b8e8-a46be8109372",
+    "SCRIP_CD": 539407,
+    "XML_NAME": "ANN_539407_DF4D870C-A414-4B84-B8E8-A46BE8109372",
+    "NEWSSUB": "Generic Engineering Construction and Projects Ltd - 539407 - Quarterly & Half Yearly Financial Results",
+    "DT_TM": "2026-11-15T01:02:53.17",
+    "NEWS_DT": "2026-11-15T01:02:53.17",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "005ee763-1f72-42d5-a037-ccdc2c89d123.pdf",
+    "MORE": "",
+    "HEADLINE": "Quarterly & Half Yearly Financial Results for the September 30, 2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/generic-engineering-construction-and-projects-ltd/gencon/539407/",
+    "SLONGNAME": "Generic Engineering Construction and Projects Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-15T01:02:53",
+    "DissemDT": "2026-11-15T01:02:53.17",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1836723,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "220.40",
+      "total_debt": "9",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Particulars": "ASSETS 1. Non-current assets (a) Plant Property and Equipment's (b) Right to Use of Assets (c) Investment Property (d) Intangible Assets - Goodwill - Software (e) Financial Assets (i) Investment (ii) Trade Receivables (ii) Others Financial Assets (f) Other Non Current Assets (g) Deferred Tax Assets (Net) 2. Current assets (a) Inventories (b) Financial Assets (i) Trade Receivable (ii) Cash and Cash Equivalents (iii) Bank Balances Other than above (v) Others Financial Assets (c) Current Tax Assets (net) (d) Other Current Assets",
+            "Unaudited As at 30 September 2026": "6,175.35 541.95 1,136.07 - 1,727.10 0.00 - 0.36 678.78 1,039.16 - 3 29.03",
+            "Audited As at 31 March 2026": "6,745.95 684.10 1,136.07 1,727.10 0.00 0.41 1,907.27 - 263.10"
+          },
+          {
+            "Particulars": "",
+            "Unaudited As at 30 September 2026": "11,627.80 7,787.54 - 21,973.69 147.92 347.70 3,247.69 263.76 6,638.00",
+            "Audited As at 31 March 2026": "12,464.01 7,829.20 19,784.93 432.91 141.49 3,744.02 173.02 6,187.02"
+          },
+          {
+            "Particulars": "",
+            "Unaudited As at 30 September 2026": "41,451.46",
+            "Audited As at 31 March 2026": "39,337.75"
+          },
+          {
+            "Particulars": "TOTAL - ASSETS",
+            "Unaudited As at 30 September 2026": "53,079.26",
+            "Audited As at 31 March 2026": "51,801.76"
+          },
+          {
+            "Particulars": "EQUITY AND LIABILITIES I. Equity (a) Equity Share Capital (i) Reserves & Surplus (ii) Money received against share warrants II. Liability 1. Non-current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Lease Liabilities (iii) Other Non Current Financial Liabilities (b) Provisions (a) Financial Liabilities (i) Borrowings (ii) Lease Liabilities a) Total outstanding dues of micro enterprises and small enterprises b) Total outstanding dues of creditors other than micro enterprises (iv) Others Financial liabilities (b) Other Current Liabilities (c) Provisions (d) Contract Liabilities",
+            "Unaudited As at 30 September 2026": "2,849.31 26,873.74 -",
+            "Audited As at 31 March 2026": "2,849.31 26,450.93 -"
+          },
+          {
+            "Particulars": "",
+            "Unaudited As at 30 September 2026": "29,723.06 9 18.17 2 12.76 6 6.00 3 6.35",
+            "Audited As at 31 March 2026": "29,300.24 3 1.93 4 10.63 6 6.00 3 3.73"
+          },
+          {
+            "Particulars": "",
+            "Unaudited As at 30 September 2026": "1,233.28 7,459.74 333.04 2,059.27 7,158.68 2,460.10 1,649.04 48.16 954.89",
+            "Audited As at 31 March 2026": "5 42.29 5,708.34 276.70 2,096.15 9,312.68 2,570.26 1,362.18 44.69 588.22"
+          },
+          {
+            "Particulars": "",
+            "Unaudited As at 30 September 2026": "22,122.93",
+            "Audited As at 31 March 2026": "21,959.22"
+          },
+          {
+            "Particulars": "TOTAL - EQUITY AND LIABILITIES",
+            "Unaudited As at 30 September 2026": "53,079.26",
+            "Audited As at 31 March 2026": "51,801.75"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "86d58c99-7922-4066-b39b-202925ff6fbb",
     "SCRIP_CD": 544518,
     "XML_NAME": "ANN_544518_86D58C99-7922-4066-B39B-202925FF6FBB",
@@ -27269,161 +27714,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ec57e505-261c-4bd2-bc4f-0d8d9347fc8b",
-    "SCRIP_CD": 538579,
-    "XML_NAME": "ANN_538579_EC57E505-261C-4BD2-BC4F-0D8D9347FC8B",
-    "NEWSSUB": "Zinema Media And Entertainment Ltd - 538579 - Delay In Submission Of Financial Results (Consolidated) For Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-14T22:12:55.787",
-    "NEWS_DT": "2026-11-14T22:12:55.787",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fc3cfefc-ee92-44fd-96df-04d5235ffe90.pdf",
-    "MORE": "Disclosure of reason for delay in publication of Financial Results (Consolidated) for half year ended September 30, 2026 pursuant to Regulation 33 of SEBI (LODR) Regulations read with applicable SEBI Circulars.",
-    "HEADLINE": "Disclosure of reason for delay in publication of Financial Results (Consolidated) for half year ended September 30, 2026 pursuant to Regulation 33 of SEBI (LODR) Regulations read with applicable ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/zinema-media-and-entertainment-ltd/zinema/538579/",
-    "SLONGNAME": "Zinema Media And Entertainment Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:12:55",
-    "DissemDT": "2026-11-14T22:12:55.787",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5121872,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "316.07",
-      "total_assets": "253171",
-      "total_equity": "540.00",
-      "total_debt": "564.11",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "81b7d720-2e24-4a8d-8d10-929f08318204",
-    "SCRIP_CD": 544563,
-    "XML_NAME": "ANN_544563_81B7D720-2E24-4A8D-8D10-929F08318204",
-    "NEWSSUB": "Zelio E Mobility Ltd - 544563 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-14T22:12:20.983",
-    "NEWS_DT": "2026-11-14T22:12:20.983",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bd9d83e4-7bac-4a0e-9eec-0eebb23f180c.pdf",
-    "MORE": "Submission of Audio Recording of the Investors/Analysts Meet held on Saturday, November 14, 2026 from 02:00 P.M. to 03:00 P.M. (IST) to discuss the Un-Audited Financial Results (Standalone and Consolidated) for the Half Year Ended September 30, 2026",
-    "HEADLINE": "Submission of Audio Recording of the Investors/Analysts Meet held on Saturday, November 14, 2026 from 02:00 P.M. to 03:00 P.M. (IST) to discuss the Un-Audited Financial Results (Standalone ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/zelio-e-mobility-ltd/zelio/544563/",
-    "SLONGNAME": "Zelio E Mobility Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:12:20",
-    "DissemDT": "2026-11-14T22:12:20.987",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 761340,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "81b7d720-2e24-4a8d-8d10-929f08318204",
-    "INVESTOR_PRESENTATION": "53988996-c70f-4602-bc0d-3e3561fe41ef.zip",
-    "RECORDID": 14889909,
-    "DataInsDate": "2026-11-14T22:12:20.907",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/53988996-c70f-4602-bc0d-3e3561fe41ef.zip",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "31c8631c-4b84-42d1-962d-ec137e7e8e33",
-    "SCRIP_CD": 526570,
-    "XML_NAME": "ANN_526570_31C8631C-4B84-42D1-962D-EC137E7E8E33",
-    "NEWSSUB": "Midwest Energy Ltd - 526570 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-    "DT_TM": "2026-11-14T22:11:43.023",
-    "NEWS_DT": "2026-11-14T22:11:43.023",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "958f86f2-c06a-40a0-80ee-e4c59acdddd1.pdf",
-    "MORE": "",
-    "HEADLINE": "Monitoring Agency Report",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/midwest-energy-ltd/remagnet/526570/",
-    "SLONGNAME": "Midwest Energy Ltd",
-    "AGENDA_ID": 135,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:11:43",
-    "DissemDT": "2026-11-14T22:11:43.023",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2397065,
-    "SUBCATNAME": "Monitoring Agency Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4127cb36-b6f9-4e10-9077-cd43d35cc56a",
-    "SCRIP_CD": 526935,
-    "XML_NAME": "ANN_526935_4127CB36-B6F9-4E10-9077-CD43D35CC56A",
-    "NEWSSUB": "Kalind Ltd - 526935 - Board Meeting Intimation for Considering The Proposal For Raising Of Funds.",
-    "DT_TM": "2026-11-14T22:11:41.697",
-    "NEWS_DT": "2026-11-14T22:11:41.697",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7330ce0e-77ea-4875-8f9b-1bc935d9873d.pdf",
-    "MORE": "",
-    "HEADLINE": "Kalind Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/11/2026 ,inter alia, to consider and approve proposal for raising of funds.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kalind-ltd/kalind/526935/",
-    "SLONGNAME": "Kalind Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:11:41",
-    "DissemDT": "2026-11-14T22:11:41.697",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 350877,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
     "financial_tables": []
   }
 ]
