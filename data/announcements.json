@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "37416c28-5428-41fc-a627-5888f0387a58",
+    "SCRIP_CD": 533278,
+    "XML_NAME": "ANN_533278_37416C28-5428-41FC-A627-5888F0387A58",
+    "NEWSSUB": "Coal India Ltd - 533278 - Filing Of RHP Of Mahanadi Coalfields Limited (MCL), A Wholly Owned Subsidiary Of CIL, With SEBI",
+    "DT_TM": "2026-11-14T07:23:28.897",
+    "NEWS_DT": "2026-11-14T07:23:28.897",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "35b32c1e-b430-4b98-9236-9b0a240fe081.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find the attached.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/coal-india-ltd/coalindia/533278/",
+    "SLONGNAME": "Coal India Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-14T07:23:28",
+    "DissemDT": "2026-11-14T07:23:28.897",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 238533,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **13 Nov 2026:** Mahanadi Coalfields Limited (MCL), a wholly‑owned subsidiary of",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "257bd953-2b4e-4f73-9fab-8c9da2cebd9e",
     "SCRIP_CD": 523419,
     "XML_NAME": "ANN_523419_257BD953-2B4E-4F73-9FAB-8C9DA2CEBD9E",
@@ -27705,145 +27741,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "67f24423-09bd-4674-8161-092f58b06196",
-    "SCRIP_CD": 500178,
-    "XML_NAME": "ANN_500178_67F24423-09BD-4674-8161-092F58B06196",
-    "NEWSSUB": "Harig Crankshafts Ltd - 500178 - Board Meeting Outcome for Board Meeting Outcome For Un-Audited Standalone Financial Results For The Quarter And Half Year Ended September 30, 2026.",
-    "DT_TM": "2026-11-13T18:29:02.563",
-    "NEWS_DT": "2026-11-13T18:29:02.563",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bf1e48be-b09a-44c8-a816-ee35bd75da08.pdf",
-    "MORE": "",
-    "HEADLINE": "Board Meeting Outcome For Un-Audited Standalone Financial Results For The Quarter And Half Year Ended September 30, 2026.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/harig-crankshafts-ltd/harcr/500178/",
-    "SLONGNAME": "Harig Crankshafts Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 36,
-    "News_submission_dt": "2026-11-13T18:29:00",
-    "DissemDT": "2026-11-13T18:29:02.563",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 3329525,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "9",
-      "total_assets": "1502729.30",
-      "total_equity": "5113112.94",
-      "total_debt": "5308483.48"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Particulars": "I II",
-            "col_2": "ASSETS Non-current assets a. Property, Plant & Equipments (i) Property, Plant and Equipment (ii) Capital Work in Progress (iiI) Intangible Assets b. Financial Asets (Investments) c. Other Non Current Assets",
-            "Note No.": "",
-            "As at 30th September 2026": "2 94,764.81 1 45,456.06 - - -",
-            "As at 31st March 2026": "296,249.83 145,456.06 - - -"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Total Non-Current Assets",
-            "Note No.": "",
-            "As at 30th September 2026": "440,220.87",
-            "As at 31st March 2026": "441,705.89"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Current Assets a. Inventories b. Financial Assets (i) Investments (ii) Trade Receivables (iii) Cash & Cash Equivalents (iv) Other Financial Assets c. Current Tax Assets (Net) d. Other Current Assets e. Assets classified as held for Sale",
-            "Note No.": "",
-            "As at 30th September 2026": "- - 1,501.26 7,639.15 - - 6 03,368.02 4 50,000.00",
-            "As at 31st March 2026": "- - 871,353.75 27,765.54 - - 57,199.91 450,000.00"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Total Current Assets",
-            "Note No.": "",
-            "As at 30th September 2026": "1,062,508.43",
-            "As at 31st March 2026": "1,406,319.21"
-          },
-          {
-            "Particulars": "",
-            "col_2": "TOTAL ASSETS",
-            "Note No.": "",
-            "As at 30th September 2026": "1,502,729.30",
-            "As at 31st March 2026": "1,848,025.09"
-          },
-          {
-            "Particulars": "",
-            "col_2": "EQUITIES & LIABILITIES a. Equity (i) Equity Share Capital (ii) Other Equity",
-            "Note No.": "",
-            "As at 30th September 2026": "1,050,000.00 -6,163,112.94",
-            "As at 31st March 2026": "1,050,000.00 -6,159,665.88"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Total Equity",
-            "Note No.": "",
-            "As at 30th September 2026": "- 5,113,112.94",
-            "As at 31st March 2026": "-5,109,665.88"
-          },
-          {
-            "Particulars": "",
-            "col_2": "b. Liabilities (bi) Non-Current Liabilities Finanical Liabilities (i) Borrowings Provisions Deferred Tax Liabilities (Net) Other Non Current Liabilities",
-            "Note No.": "",
-            "As at 30th September 2026": "5,308,483.48 899.90 -",
-            "As at 31st March 2026": "6,515,617.47 899.90 -"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Total Non-Current Liabilities",
-            "Note No.": "",
-            "As at 30th September 2026": "5,309,383.38",
-            "As at 31st March 2026": "6,516,517.37"
-          },
-          {
-            "Particulars": "",
-            "col_2": "(bii) Current Liabilities Financial Liabilities Trade Payables Other Financial Liabilities (Borrowings) Other Current Liabilities Provisions",
-            "Note No.": "",
-            "As at 30th September 2026": "5,087.00 1 08,038.35 1,193,244.53 88.98",
-            "As at 31st March 2026": "66,744.73 237,083.48 137,256.41 88.98"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Total Current Liabilities",
-            "Note No.": "",
-            "As at 30th September 2026": "1,306,458.86",
-            "As at 31st March 2026": "441,173.60"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Total Liabilities",
-            "Note No.": "",
-            "As at 30th September 2026": "6,615,842.24",
-            "As at 31st March 2026": "6,957,690.97"
-          },
-          {
-            "Particulars": "",
-            "col_2": "TOTAL EQUITY & LIABILITIES",
-            "Note No.": "",
-            "As at 30th September 2026": "1,502,729.30",
-            "As at 31st March 2026": "1,848,025.09"
-          }
-        ]
-      }
-    ]
   }
 ]
