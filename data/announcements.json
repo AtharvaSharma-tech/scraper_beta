@@ -1,5 +1,363 @@
 [
   {
+    "NEWSID": "e6fac857-2fc7-4090-a392-6de441e50a1e",
+    "SCRIP_CD": 544354,
+    "XML_NAME": "ANN_544354_E6FAC857-2FC7-4090-A392-6DE441E50A1E",
+    "NEWSSUB": "Solarium Green Energy Ltd - 544354 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-16T00:28:42.517",
+    "NEWS_DT": "2026-11-16T00:28:42.517",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2124f834-2285-4a0a-8a01-7cc9ef541adb.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation under Regulation 30 read with Schedule III  of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/solarium-green-energy-ltd/solarium/544354/",
+    "SLONGNAME": "Solarium Green Energy Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-16T00:28:42",
+    "DissemDT": "2026-11-16T00:28:42.517",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4114976,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & purpose:** On 16 November 2026, Solarium Green Energy Ltd submitted its Investor Presentation for the first half of FY 2027 to BSE Ltd under Regulation 30 (SEBI Listing Obligations), confirming that the material contains no unpublished price‑sensitive information and is entirely public‑domain data.  \n\n- **Financial details disclosed:** The filing does not contain any specific financial numbers, performance metrics, or monetary decisions; it merely references the H1 FY27 presentation without providing quantitative data.",
+    "key_metrics": {
+      "revenue": "3.4",
+      "net_profit": "2",
+      "operating_profit": "2",
+      "total_assets": "234.42",
+      "total_equity": "141.47",
+      "total_debt": "0.32",
+      "eps": "11.65",
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 9,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "H1 FY27": "",
+            "% OF REVENUE": "47.6"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "H1 FY27": "",
+            "% OF REVENUE": "36.5"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "H1 FY27": "",
+            "% OF REVENUE": "12.1"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "H1 FY27": "",
+            "% OF REVENUE": "3.7"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "H1 FY27": "",
+            "% OF REVENUE": "100.0"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "310.47"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "1.89"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "312.36"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "245.20"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "67.16"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "21.6"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "12.13"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "29.39"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "25.63"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "8.3"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "8.26"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "3.43"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "13.94"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "–"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "13.94"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "3.42"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "10.53"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "3.4"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "",
+            "FY25": "",
+            "FY26": "",
+            "H1 FY26": "",
+            "H1 FY27": "5.04"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 22,
+        "rows": [
+          {
+            "PARTICULARS (₹ CRORE)": "EQUITY",
+            "31 MAR 2025": "",
+            "31 MAR 2026": "",
+            "30 SEP 2026": ""
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Equity share capital",
+            "31 MAR 2025": "20.85",
+            "31 MAR 2026": "20.87",
+            "30 SEP 2026": "20.87"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Other equity",
+            "31 MAR 2025": "120.62",
+            "31 MAR 2026": "141.76",
+            "30 SEP 2026": "151.98"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Net worth",
+            "31 MAR 2025": "141.47",
+            "31 MAR 2026": "162.63",
+            "30 SEP 2026": "172.85"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "NON-CURRENT LIABILITIES",
+            "31 MAR 2025": "",
+            "31 MAR 2026": "",
+            "30 SEP 2026": ""
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Long term borrowings",
+            "31 MAR 2025": "0.32",
+            "31 MAR 2026": "39.39",
+            "30 SEP 2026": "73.58"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Others",
+            "31 MAR 2025": "0.18",
+            "31 MAR 2026": "4.75",
+            "30 SEP 2026": "7.57"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "CURRENT LIABILITIES",
+            "31 MAR 2025": "",
+            "31 MAR 2026": "",
+            "30 SEP 2026": ""
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Short term borrowings",
+            "31 MAR 2025": "67.67",
+            "31 MAR 2026": "117.43",
+            "30 SEP 2026": "115.52"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Trade payables",
+            "31 MAR 2025": "16.76",
+            "31 MAR 2026": "96.89",
+            "30 SEP 2026": "83.24"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Others",
+            "31 MAR 2025": "8.03",
+            "31 MAR 2026": "37.99",
+            "30 SEP 2026": "48.60"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Total equity and liabilities",
+            "31 MAR 2025": "234.42",
+            "31 MAR 2026": "459.08",
+            "30 SEP 2026": "501.36"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "NON-CURRENT ASSETS",
+            "31 MAR 2025": "",
+            "31 MAR 2026": "",
+            "30 SEP 2026": ""
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Tangible assets",
+            "31 MAR 2025": "6.02",
+            "31 MAR 2026": "93.72",
+            "30 SEP 2026": "93.62"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Intangible assets",
+            "31 MAR 2025": "0.04",
+            "31 MAR 2026": "1.29",
+            "30 SEP 2026": "1.12"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Others",
+            "31 MAR 2025": "4.95",
+            "31 MAR 2026": "6.05",
+            "30 SEP 2026": "5.32"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "CURRENT ASSETS",
+            "31 MAR 2025": "",
+            "31 MAR 2026": "",
+            "30 SEP 2026": ""
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Inventories",
+            "31 MAR 2025": "38.03",
+            "31 MAR 2026": "99.68",
+            "30 SEP 2026": "40.68"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Trade receivables",
+            "31 MAR 2025": "90.90",
+            "31 MAR 2026": "152.61",
+            "30 SEP 2026": "281.85"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Cash and bank balances",
+            "31 MAR 2025": "77.01",
+            "31 MAR 2026": "90.41",
+            "30 SEP 2026": "35.55"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Others",
+            "31 MAR 2025": "17.47",
+            "31 MAR 2026": "15.33",
+            "30 SEP 2026": "43.21"
+          },
+          {
+            "PARTICULARS (₹ CRORE)": "Total assets",
+            "31 MAR 2025": "234.42",
+            "31 MAR 2026": "459.08",
+            "30 SEP 2026": "501.36"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "1f0e8952-b14d-4f61-aa84-65eb8c58e000",
     "SCRIP_CD": 544924,
     "XML_NAME": "ANN_544924_1F0E8952-B14D-4F61-AA84-65EB8C58E000",
@@ -11308,42 +11666,6 @@
     "DissemDT": "2026-11-15T16:49:56.75",
     "TimeDiff": "00:00:00",
     "Fld_Attachsize": 5474020,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "33efe815-69e9-4f5d-8452-bea6d293e0d4",
-    "SCRIP_CD": 544302,
-    "XML_NAME": "ANN_544302_33EFE815-69E9-4F5D-8452-BEA6D293E0D4",
-    "NEWSSUB": "Innovana Thinklabs Ltd - 544302 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T16:43:52.163",
-    "NEWS_DT": "2026-11-15T16:43:52.163",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9b75dd00-d00b-43bc-bf76-ca2ce75e34bf.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed herewith a copy of newspaper advertisement of the extract of unaudited standalone and consolidated financial results for the quarter and half year ended September 30,2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/innovana-thinklabs-ltd/innovana/544302/",
-    "SLONGNAME": "Innovana Thinklabs Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-15T16:43:52",
-    "DissemDT": "2026-11-15T16:43:52.163",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1853292,
     "SUBCATNAME": "Newspaper Publication",
     "BSENEWSID": null,
     "INVESTOR_PRESENTATION": null,
