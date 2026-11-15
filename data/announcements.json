@@ -1,5 +1,377 @@
 [
   {
+    "NEWSID": "3c1e6c9d-6dcd-48bb-84cb-333d5919bedf",
+    "SCRIP_CD": 531989,
+    "XML_NAME": "ANN_531989_3C1E6C9D-6DCD-48BB-84CB-333D5919BEDF",
+    "NEWSSUB": "Deccan Polypacks Ltd - 531989 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-15T10:48:46.917",
+    "NEWS_DT": "2026-11-15T10:48:46.917",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "af09bc3d-56e2-49f1-91b8-8bccb4abedd0.pdf",
+    "MORE": "",
+    "HEADLINE": "Un-audited results for the Quarter ended 30-09-2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/deccan-polypacks-ltd/decpo/531989/",
+    "SLONGNAME": "Deccan Polypacks Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:48:46",
+    "DissemDT": "2026-11-15T10:48:46.917",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8630362,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "66a8b20a-4bb5-4f2d-98cd-36ddfe0c9cc5",
+    "SCRIP_CD": 532362,
+    "XML_NAME": "ANN_532362_66A8B20A-4BB5-4F2D-98CD-36DDFE0C9CC5",
+    "NEWSSUB": "Nagpur Power & Industries Ltd - 532362 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:48:13.193",
+    "NEWS_DT": "2026-11-15T10:48:13.193",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9c71a1e4-d3db-4e7a-a49a-76696bebad15.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication of Un-audited (Standalone & Consolidated) Financial Results for the Quarter and Half Year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nagpur-power--industries-ltd/nagpi/532362/",
+    "SLONGNAME": "Nagpur Power & Industries Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:48:13",
+    "DissemDT": "2026-11-15T10:48:13.193",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2341284,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Nagpur Power & Industries Ltd. notified BSE (via Regulation 30/47) that its financial results for the quarter and half‑year ended 30 September 2026 will be published in the newspapers *Financial Express* and *Pratahkal* on 15 November 2026.  \n\n- The notice itself was dated",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "125c21a6-0232-4405-97fc-7270749a5d1c",
+    "SCRIP_CD": 500319,
+    "XML_NAME": "ANN_500319_125C21A6-0232-4405-97FC-7270749A5D1C",
+    "NEWSSUB": "Indian Sucrose Ltd - 500319 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:47:22.167",
+    "NEWS_DT": "2026-11-15T10:47:22.167",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f37a4335-0b09-4fd1-adb6-0bcf22c2f70f.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of Copies of newspaper advertisement of Standalone Unaudited Financial Results for the Quarter and Half year ended 30th September,2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/indian-sucrose-ltd/indsucr/500319/",
+    "SLONGNAME": "Indian Sucrose Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:47:22",
+    "DissemDT": "2026-11-15T10:47:22.167",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 6984807,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Indian S",
+    "key_metrics": {
+      "revenue": "1635.41",
+      "net_profit": "37912",
+      "eps": "0.866",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "6349dae4-7f28-4563-ae55-215ed3e00ab2",
+    "SCRIP_CD": 538860,
+    "XML_NAME": "ANN_538860_6349DAE4-7F28-4563-AE55-215ED3E00AB2",
+    "NEWSSUB": "Panafic Industrials Ltd - 538860 - Newspaper Clippings Of The Unaudited Financial Results For The Quarter And Half-Year Ended On 30Th September, 2026",
+    "DT_TM": "2026-11-15T10:44:27.617",
+    "NEWS_DT": "2026-11-15T10:44:27.617",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9dd47061-c968-4186-a711-2fc1a104dd44.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of newspaper clippings of the Unaudited Financial Results for the quarter and half year ended on 30th Sep.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/panafic-industrials-ltd/panafic/538860/",
+    "SLONGNAME": "Panafic Industrials Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:44:27",
+    "DissemDT": "2026-11-15T10:44:27.617",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3792501,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The provided text contains no discernible financial figures, dates, or decisions; therefore, no key numbers or financial details can be extracted from this announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fb4e14ae-db5e-473a-b84c-011ae4eb26f1",
+    "SCRIP_CD": 544356,
+    "XML_NAME": "ANN_544356_FB4E14AE-DB5E-473A-B84C-011AE4EB26F1",
+    "NEWSSUB": "AJAX Engineering Ltd - 544356 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:40:52.427",
+    "NEWS_DT": "2026-11-15T10:40:52.427",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0fce28c6-3ca7-4c35-94c5-159645e51e6d.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement confirming the dispatch of the notice of postal ballot.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ajax-engineering-ltd/ajaxengg/544356/",
+    "SLONGNAME": "AJAX Engineering Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:40:52",
+    "DissemDT": "2026-11-15T10:40:52.427",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3716204,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Date & Disclosure:** On 15 November 2026, AJAX Engineering Ltd published newspaper advertisements in *Financial Express* (English) and *Vishwavani* (Kannada) confirming that the Postal Ballot Notice had been dispatched, in compliance with SEBI Regulation 30 & 47 (as referenced in the company’s letter dated 14 November 2026).  \n\n- **Availability & Content:** The notice of the postal",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "af4fc3e2-ea8e-4d71-80e8-8b1d1735ccd3",
+    "SCRIP_CD": 539189,
+    "XML_NAME": "ANN_539189_AF4FC3E2-EA8E-4D71-80E8-8B1D1735CCD3",
+    "NEWSSUB": "Adhbhut Infrastructure Ltd - 539189 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:24:42.7",
+    "NEWS_DT": "2026-11-15T10:24:42.7",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5584801e-6951-4170-940a-77c45b47d3bc.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of Newspaper Clipping pertaining to the un-audited Financial Results for the Second Quarter and Half Year ended 30th September 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/adhbhut-infrastructure-ltd/adhbhutin/539189/",
+    "SLONGNAME": "Adhbhut Infrastructure Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:24:42",
+    "DissemDT": "2026-11-15T10:24:42.7",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1794043,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement (15 Nov 2026):** Adhbhut Infrastructure Ltd submitted newspaper clippings of its unaudited financial results for the second quarter and the half‑year ended 30 Sept 2026, as required under Regulation 47 of the SEBI (LODR) Regulations.  \n- **Publication details:** The results were published in the *Financial Express* and *Jansatta* on 15 Sept 2026; copies are available on the company’s website (www.adhbhutinfra.in) and the BSE website.  \n\n*No specific financial figures or quantitative details are provided in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4457f6a2-1833-4885-91bd-9470f732b3df",
+    "SCRIP_CD": 500440,
+    "XML_NAME": "ANN_500440_4457F6A2-1833-4885-91BD-9470F732B3DF",
+    "NEWSSUB": "Hindalco Industries Ltd - 500440 - Announcement under Regulation 30 (LODR)-Scheme of Arrangement",
+    "DT_TM": "2026-11-15T10:20:13.933",
+    "NEWS_DT": "2026-11-15T10:20:13.933",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c263722b-a491-47c2-95cc-87fb5b84293e.pdf",
+    "MORE": "Intimation regarding cessation of Novelis (China) Aluminum Products Co. Ltd and Novelis (Shanghai) Aluminum Trading Co. Ltd., wholly-owned subsidiaries of Novelis Inc., a subsidiary of Hindalco Industries Limited [\"Company\"], as subsidiaries of the Company.",
+    "HEADLINE": "Intimation regarding cessation of Novelis (China) Aluminum Products Co. Ltd and Novelis (Shanghai) Aluminum Trading Co. Ltd., wholly-owned subsidiaries of Novelis Inc., a subsidiary of ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hindalco-industries-ltd/hindalco/500440/",
+    "SLONGNAME": "Hindalco Industries Ltd",
+    "AGENDA_ID": 149,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:20:13",
+    "DissemDT": "2026-11-15T10:20:13.933",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 200787,
+    "SUBCATNAME": "Scheme of Arrangement",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary based on the provided announcement:\n\n* **Divestment Agreement and Consideration:** On November 14, 2026, Hindalco's subsidiary, Novelis Inc., entered into a definitive agreement to sell its wholly-owned Novelis China Entities to Shenzhen Hongzhi Industrial Investment Co., Ltd. (and/or its affiliates) for approximately USD $265 million, plus an additional contingent earn-out of $10 million subject to specified conditions, with closing expected within 12 months pending regulatory approvals.\n* **Financial Contribution:** In financial year 2026, the Novelis China Entities generated USD $376 million (₹3,319 Crore) in net sales (representing ~1% of Hindalco's net sales) and contributed USD $259 million (₹2,420 Crore) to Hindalco's net worth (representing ~2% of total net worth).",
+    "key_metrics": {
+      "total_equity": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d1bde2a5-5d45-42fc-8707-a5f0193ecada",
+    "SCRIP_CD": 544243,
+    "XML_NAME": "ANN_544243_D1BDE2A5-5D45-42FC-8707-A5F0193ECADA",
+    "NEWSSUB": "Baazar Style Retail Ltd - 544243 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:16:14.217",
+    "NEWS_DT": "2026-11-15T10:16:14.217",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0465d933-6a8a-4057-9a20-995b5050a097.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached herewith Newspaper publication of the Financial Results of the Company for the Quarter and Half year (Q2 and H1) ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/baazar-style-retail-ltd/stylebaaza/544243/",
+    "SLONGNAME": "Baazar Style Retail Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:16:14",
+    "DissemDT": "2026-11-15T10:16:14.217",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4554827,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Baazar Style Retail Ltd. filed a Regulation 30/47 disclosure stating that its unaudited standalone and consolidated financial results for Q2 and H1 2026 (quarter and half‑year ended 30 Sept 2026) were published in the **Financial Express (All‑India edition)** and **Arthik Lipi (Bengali edition)** on **15 Nov 2026**.  \n\n- The announcement contains **no specific financial numbers, amounts, or decisions**; it merely informs the market of the newspaper publication of the results",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fb8447b0-2bb5-4e37-9dc1-4660a26ff632",
+    "SCRIP_CD": 530215,
+    "XML_NAME": "ANN_530215_FB8447B0-2BB5-4E37-9DC1-4660A26FF632",
+    "NEWSSUB": "Kings Infra Ventures Ltd - 530215 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:12:29.807",
+    "NEWS_DT": "2026-11-15T10:12:29.807",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "213dc38e-d2b1-4dbb-a219-d9820795dcf8.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement of Published Financial Results",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kings-infra-ventures-ltd/kingsinfr/530215/",
+    "SLONGNAME": "Kings Infra Ventures Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:12:29",
+    "DissemDT": "2026-11-15T10:12:29.807",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 11038774,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Date & purpose:** On 15 Nov 2026, Kings Infra Ventures Ltd submitted a notice to the BSE confirming that its quarterly financial results for the quarter ended 30 Sep 2026 were published in the *Financial Express* (English) and *Deepika* (Malayalam) newspapers.  \n- **Financial details:** The announcement contains no specific monetary figures, earnings numbers, or other financial metrics—only the fact that the results have been publicly advertised.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1c5ab771-07d2-4f82-b178-31186bb3d4f3",
+    "SCRIP_CD": 531647,
+    "XML_NAME": "ANN_531647_1C5AB771-07D2-4F82-B178-31186BB3D4F3",
+    "NEWSSUB": "Prabhatam Infra Venture Ltd - 531647 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T10:05:16.493",
+    "NEWS_DT": "2026-11-15T10:05:16.493",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4f45d1d3-67e0-45d7-b04f-5677b9663866.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper advertisement for the statement of standalone & consolidated result for the quarter & half year ended 30th September 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/prabhatam-infra-venture-ltd/prabhatam/531647/",
+    "SLONGNAME": "Prabhatam Infra Venture Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T10:05:16",
+    "DissemDT": "2026-11-15T10:05:16.493",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3494758,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Prabhatam Infra Venture Ltd submitted copies of newspaper advertisements announcing its **unaudited standalone and consolidated financial results for the quarter and half‑year ended 30 September 2026**.  \n- The advertisements were **published on 15 November 2026** in two newspapers – **Financial Express (English)** and **Jansatta (Hindi)**.  \n\n*The announcement does not contain any specific financial figures or monetary decisions.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "2b1210e2-d3c3-43e7-bf1f-38662c1fe680",
     "SCRIP_CD": 506528,
     "XML_NAME": "ANN_506528_2B1210E2-D3C3-43E7-BF1F-38662C1FE680",
@@ -25202,2638 +25574,6 @@
     "key_metrics": {
       "currency_unit": "in Millions"
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e34e5970-92fd-4dc6-b1de-c419a1f0bbfd",
-    "SCRIP_CD": 531909,
-    "XML_NAME": "ANN_531909_E34E5970-92FD-4DC6-B1DE-C419A1F0BBFD",
-    "NEWSSUB": "Croissance Ltd - 531909 - Board Meeting Outcome for Un-Audited Financial Results Of The Company For The Quarter And Half-Year Ended 30.09.2026.",
-    "DT_TM": "2026-11-14T22:36:42.96",
-    "NEWS_DT": "2026-11-14T22:36:42.96",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d1657469-a28b-47f1-afe1-4719aba795bb.pdf",
-    "MORE": "",
-    "HEADLINE": "Un-Audited Financial Results of the Company for the Quarter and Half-year ended 30.09.2026.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/croissance-ltd/croissance/531909/",
-    "SLONGNAME": "Croissance Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T22:36:29",
-    "DissemDT": "2026-11-14T22:36:42.96",
-    "TimeDiff": "00:00:13",
-    "Fld_Attachsize": 26450271,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "0",
-      "total_assets": "1191.76",
-      "total_equity": "735.91",
-      "total_debt": "9",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "Particulars",
-            "col_2": "Note No.",
-            "col_3": "As at 30th SEP ,2026",
-            "col_4": "As at 31st March, 2026"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "A ASSETS 1 Non-Current Assets (a) Property, Plant and Equipment (b) Capital Work in Progress (c) Investment Property (d) Goodwill (e) Other Intangible Assets (f) Intangible assets under development (g) Biological Assets other than bearer plants (h) Financial Assets (i) Investments (i) Long-term Loans & Advances (e) Other non-current assets Deferred Tax Asset Total Non-Current Assets 2 Current Assets (a) Financial Assets (i) Inventries (ii) Trade Receivables (iii) Cash and Cash Equivalents (iv) Bank balances other than (iii) above (v) Loans & Advances (vi) Other financial assets (b) Current Tax Assets (Net) (c) Other current assets Total Current Assets",
-            "col_2": "3 4 5 6 6 7 8",
-            "col_3": "1.09 - - 0.51 - - -",
-            "col_4": "- - - - - - - 0.51 - - -"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "1.60",
-            "col_4": "0.51"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "2 .05 163.05 0.52 - 855.67 - 170.92",
-            "col_4": "2 .05 3 81.30 0.23 2 .43 - 1 ,069.83 - 1 81.68"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "1,190.16",
-            "col_4": "1 ,635.47"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "TOTAL ASSETS",
-            "col_2": "",
-            "col_3": "1,191.76",
-            "col_4": "1 ,635.98"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "II EQUITY AND LIABILITIES 1 Equity (a) Equity share capital (b) Share Application Money Pending allotment (c) Other equity Total Equity 2Non-Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Other financial liabilities (b) Provisions (c) Deferred tax liabilities (Net) Total Non-Current Liabilities 3Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other Financial Liabilities (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net) Total Current Liabilities",
-            "col_2": "9 10 9 10 11 12 13",
-            "col_3": "685.48 - 50.43",
-            "col_4": "6 85.48 - 1 04.11"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "735.91",
-            "col_4": "7 89.59"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "- - -",
-            "col_4": "- - - -"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "412.00 - 8.00 5.73 30.11",
-            "col_4": "90.88 2 25.88 - 4 96.52 3.00 30.11"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "455.85",
-            "col_4": "8 46.39"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "Total Equity and Liabilities",
-            "col_2": "",
-            "col_3": "1,191.75",
-            "col_4": "1 ,635.99"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "1",
-            "col_2": "CASH FLOW FROM OPERATING ACTIVITIES",
-            "col_3": "For the Year Ended 30.09.2026 (Unaudited)",
-            "col_4": "For the Year Ended 31.03.2026 (Audited)"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "Net Profit before taxation Adjustment for: Depreciation Finance Cost Tranfer to Capital Reserve Operating Profit before Working Capital Changes Increase/Decrease in Trade and Other Current Assets (Decrease) / Increase in Long Term Liabilities Increase/Decrease in Trade Receivable Increase/Decrease in Trade Payables Increase/Decrease in provisions Increase/Decrease in Other Current Liabilities Cash generated from Operations Income Tax",
-            "col_3": "(53.68) - - (53.68) 10.76 - 218.25 (225.88) 2.73 (488.52)",
-            "col_4": "7.41 - 0.24 - 7.65 (54.35) ( 0.29) 7.92 ( 1.00) 10.52"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "",
-            "col_3": "(536.34) -",
-            "col_4": "(29.56) ( 0.30)"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "NET CASH FLOW FROM OPERATING ACTIVITIES",
-            "col_3": "(536.34)",
-            "col_4": "(29.86)"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "2",
-            "col_2": "CASH FLOW FROM INVESTING ACTIVITIES Purchase of Fixed Assets Amount Advanced to Related Parties Loan and Advances(net)",
-            "col_3": "(1.09) - 214.16",
-            "col_4": "( 0.02) 1.92 (60.29)"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "NET CASH FLOW FROM INVESTING ACTIVITIES",
-            "col_3": "213.07",
-            "col_4": "(58.39)"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "3",
-            "col_2": "CASH FLOW FROM FINANCING ACTIVITIES Proceeds from short term borrowings Repayment of borrowings Finance cost",
-            "col_3": "321.13 - - -",
-            "col_4": "90.88 ( 0.24)"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "NET CASH FLOW FROM FINANCING ACTIVITIES",
-            "col_3": "321.13",
-            "col_4": "90.64"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "NET INCREASE IN CASH AND CASH EQUIVALENTS",
-            "col_3": "( 2.14)",
-            "col_4": "2.39"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "Cash and Cash Equivalents at the begining of the period Cash and Cash Equivalents at the end of the period",
-            "col_3": "2.66",
-            "col_4": "0.27"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com Standalone Unaudited Statement Of Cash Flow Statement For The Period Ended 30.09.2026 (Amount In Lakhs.)": "",
-            "col_2": "",
-            "col_3": "0.52",
-            "col_4": "2.66"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "Particulars",
-            "col_2": "Note No.",
-            "col_3": "As at 30th Sep ,2026",
-            "col_4": "As at 31st March, 2026"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "A ASSETS 1 Non-Current Assets (a) Property, Plant and Equipment (b) Capital Work in Progress (c) Investment Property (d) Goodwill (e) Other Intangible Assets (f) Intangible assets under development (g) Biological Assets other than bearer plants (h) Financial Assets (i) Investments (i) Long-term Loans & Advances (e) Other non-current assets Deferred Tax Asset Total Non-Current Assets 2 Current Assets (a) Financial Assets (i) Inventries (ii) Trade Receivables (iii) Cash and Cash Equivalents (iv) Bank balances other than (iii) above (v) Loans & Advances (vi) Other financial assets (b) Current Tax Assets (Net) (c) Other current assets Total Current Assets",
-            "col_2": "3 4 5 6 6 7 8",
-            "col_3": "1.09 0.20 - - 9.80 - - -",
-            "col_4": "- - - 0.20 - - - 9.80 - - -"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "11.09",
-            "col_4": "10.00"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "2 .05 163.05 0.65 - 862.76 - 161.03",
-            "col_4": "2 .05 3 81.30 2.70 - 1 ,060.91 - 1 81.68"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "1,187.49",
-            "col_4": "1 ,626.59"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "TOTAL ASSETS",
-            "col_2": "",
-            "col_3": "1,198.58",
-            "col_4": "1 ,636.59"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "II EQUITY AND LIABILITIES 1 Equity (a) Equity share capital (b) Share Application Money Pending allotment (c) Other equity (d) Non controlling Interest Total Equity 2Non-Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Other financial liabilities (b) Provisions (c) Deferred tax liabilities (Net) Total Non-Current Liabilities 3Current Liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other Financial Liabilities (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net) Total Current Liabilities",
-            "col_2": "9 10 9 10 11 12 13",
-            "col_3": "685.48 - 50.07 0.18",
-            "col_4": ""
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "735.73",
-            "col_4": "7 89.41"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "- - -",
-            "col_4": "- - - -"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "419.00 - 8.00 5.73 30.11",
-            "col_4": "90.88 2 26.17 - 4 97.00 3.00 30.12"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "",
-            "col_2": "",
-            "col_3": "462.85",
-            "col_4": "8 47.17"
-          },
-          {
-            "CROISSANCE LIMITED 306, 1st Floor, 17th Cross, 2nd Block, R T Nagar, Bangalore, Bangalore North, Karnataka, India, 560032 CIN: L11019KA1994PLC103470 Email ID: support@croissance-group.com Website:https:www.croissance-group.com CONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026 (Amount Rs. in lakhs)": "Total Equity and Liabilities",
-            "col_2": "",
-            "col_3": "1,198.57",
-            "col_4": "1 ,636.59"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "Net Profit before taxation Adjustment for: Depreciation Finance Cost Tranfer to Capital Reserve Operating Profit before Working Capital Changes Increase/Decrease in Inventories Increase/Decrease in Trade and Other Current Assets (Decrease) / Increase in Long Term Liabilities Increase/Decrease in Trade Receivable Increase/Decrease in Trade Payables Increase/Decrease in provisions Increase/Decrease in Other Current Liabilities Cash generated from Operations Income Tax",
-            "For the Year Ended 30.09.2026 (Unaudited)": "(53.68) - - (53.68) 20.65 - 218.25 (226.17) 2.73 (489.00)",
-            "For the Year Ended 31.03.2026 (Audited)": "7.06 - 0.27 - 7.33 (2.05) (62.09) (0.29) 8.21 (0.75) 4.70"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "",
-            "For the Year Ended 30.09.2026 (Unaudited)": "(527.22) -",
-            "For the Year Ended 31.03.2026 (Audited)": "(44.95) (0.30)"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "NET CASH FLOW FROM OPERATING ACTIVITIES",
-            "For the Year Ended 30.09.2026 (Unaudited)": "(527.22)",
-            "For the Year Ended 31.03.2026 (Audited)": "(45.25)"
-          },
-          {
-            "1": "2",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "CASH FLOW FROM INVESTING ACTIVITIES Purchase of Fixed Assets Amount Advanced to Related Parties Loan and Advances(net)",
-            "For the Year Ended 30.09.2026 (Unaudited)": "(1.09) - 198.15",
-            "For the Year Ended 31.03.2026 (Audited)": "- - (43.05)"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "NET CASH FLOW FROM INVESTING ACTIVITIES",
-            "For the Year Ended 30.09.2026 (Unaudited)": "197.06",
-            "For the Year Ended 31.03.2026 (Audited)": "(43.05)"
-          },
-          {
-            "1": "3",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "CASH FLOW FROM FINANCING ACTIVITIES Proceeds from short term borrowings Repayment of borrowings Finance cost",
-            "For the Year Ended 30.09.2026 (Unaudited)": "328.13 - - -",
-            "For the Year Ended 31.03.2026 (Audited)": "90.88 (0.27)"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "NET CASH FLOW FROM FINANCING ACTIVITIES",
-            "For the Year Ended 30.09.2026 (Unaudited)": "328.13",
-            "For the Year Ended 31.03.2026 (Audited)": "90.61"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "NET INCREASE IN CASH AND CASH EQUIVALENTS",
-            "For the Year Ended 30.09.2026 (Unaudited)": "(2.03)",
-            "For the Year Ended 31.03.2026 (Audited)": "2.31"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "Cash and Cash Equivalents at the begining of the period Cash and Cash Equivalents at the end of the period",
-            "For the Year Ended 30.09.2026 (Unaudited)": "2.70",
-            "For the Year Ended 31.03.2026 (Audited)": "0.39"
-          },
-          {
-            "1": "",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "",
-            "For the Year Ended 30.09.2026 (Unaudited)": "0.67",
-            "For the Year Ended 31.03.2026 (Audited)": "2.70"
-          },
-          {
-            "1": "For and on behalf of the Board of Directors For CROISSANCE LIMITED Place: Bengaluru Date: 14.11.2026 Sravan Prabhakar Veledandi Managing Director (DIN: 02757599)",
-            "CASH FLOW FROM OPERATING ACTIVITIES": "",
-            "For the Year Ended 30.09.2026 (Unaudited)": "",
-            "For the Year Ended 31.03.2026 (Audited)": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "bf434f53-9fc4-4b59-b093-0df0068120ae",
-    "SCRIP_CD": 532386,
-    "XML_NAME": "ANN_532386_BF434F53-9FC4-4B59-B093-0DF0068120AE",
-    "NEWSSUB": "California Software Company Ltd - 532386 - Outcome Of Board Meeting Held On Nov 14, 2026",
-    "DT_TM": "2026-11-14T22:29:49.13",
-    "NEWS_DT": "2026-11-14T22:29:49.13",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0a9f7d04-eb3c-4127-987b-e767cd6eacdf.pdf",
-    "MORE": "Persuant to Reg 30 and Reg 33 of the securities and exchange board of India (LODR)  Regulation 2015,  we wish to inform you that  the meeing of the BOD held on Saturday, November 14, 2026 where in the board has considered and approved Unaudited financial results standalone and consolidated  of the company for the half year 2026 along with the LRR",
-    "HEADLINE": "Persuant to Reg 30 and Reg 33 of the securities and exchange board of India (LODR)  Regulation 2015,  we wish to inform you that  the meeing of the BOD held on Saturday, November 14, 2026 ....",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/california-software-company-ltd/calsoft/532386/",
-    "SLONGNAME": "California Software Company Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:29:49",
-    "DissemDT": "2026-11-14T22:29:49.13",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1872031,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board of Directors met on **14 Nov 2026** (5:00 PM – 9:00 PM IST) and approved the **unaudited standalone and consolidated financial results for the half‑year ended 30 Sep 2026**, together with the statutory auditors’ limited review report.  \n- No specific financial figures (e.g., revenue, profit, or cash flow numbers) are disclosed in the announcement; it only states that the results will be posted on the company’s website.",
-    "key_metrics": {
-      "revenue": "263.11",
-      "total_assets": "6802.68",
-      "total_equity": "5",
-      "total_debt": "4",
-      "eps": "1",
-      "face_value": "10",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 33,
-        "rows": [
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "(₹ in lakhs, except per share data)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Particulars",
-            "col_2": "",
-            "col_3": "Quarter Ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half Year Ended",
-            "col_7": "",
-            "col_8": "Year Ended (Audited)"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "",
-            "col_2": "",
-            "col_3": "30 Sep '26",
-            "col_4": "30 Jun '26",
-            "col_5": "30 Sep '25",
-            "col_6": "30 Sep '26",
-            "col_7": "30 Sep '25",
-            "col_8": "31 March'26"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Income",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Revenue from Operations",
-            "col_2": "",
-            "col_3": "263.11",
-            "col_4": "662.88",
-            "col_5": "154.49",
-            "col_6": "925.99",
-            "col_7": "309.07",
-            "col_8": "1,965.76"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Other Income",
-            "col_2": "",
-            "col_3": "29.05",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "29.05",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Total Income",
-            "col_2": "",
-            "col_3": "292.16",
-            "col_4": "662.88",
-            "col_5": "154.49",
-            "col_6": "955.03",
-            "col_7": "309.07",
-            "col_8": "1,965.76"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Expenses",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Employee Benefits Expense",
-            "col_2": "",
-            "col_3": "98.05",
-            "col_4": "68.32",
-            "col_5": "92.75",
-            "col_6": "166.37",
-            "col_7": "177.27",
-            "col_8": "384.76"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Finance Costs",
-            "col_2": "",
-            "col_3": "11.63",
-            "col_4": "0.87",
-            "col_5": "-",
-            "col_6": "12.50",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Depreciation / Amortisation and Depletion Expense",
-            "col_2": "",
-            "col_3": "11.76",
-            "col_4": "11.06",
-            "col_5": "14.22",
-            "col_6": "22.82",
-            "col_7": "28.28",
-            "col_8": "56.40"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Other Expenses",
-            "col_2": "",
-            "col_3": "54.49",
-            "col_4": "30.64",
-            "col_5": "16.68",
-            "col_6": "85.13",
-            "col_7": "46.58",
-            "col_8": "92.23"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Total Expenses",
-            "col_2": "",
-            "col_3": "175.94",
-            "col_4": "110.89",
-            "col_5": "123.65",
-            "col_6": "286.82",
-            "col_7": "252.13",
-            "col_8": "533.39"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Profit Before Tax",
-            "col_2": "",
-            "col_3": "116.22",
-            "col_4": "551.99",
-            "col_5": "30.84",
-            "col_6": "668.21",
-            "col_7": "56.94",
-            "col_8": "1,432.37"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Tax Expenses",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Current Tax",
-            "col_2": "",
-            "col_3": "31.55",
-            "col_4": "131.18",
-            "col_5": "8.02",
-            "col_6": "162.74",
-            "col_7": "14.81",
-            "col_8": "364.07"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Deferred Tax",
-            "col_2": "",
-            "col_3": "-3.40",
-            "col_4": "1.42",
-            "col_5": "-",
-            "col_6": "-1.98",
-            "col_7": "-",
-            "col_8": "5.66"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Profit for the Period",
-            "col_2": "",
-            "col_3": "88.06",
-            "col_4": "419.39",
-            "col_5": "22.82",
-            "col_6": "507.46",
-            "col_7": "42.14",
-            "col_8": "1062.64"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Other Comprehensive Income (OCI)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "i",
-            "col_2": "Items that will not be reclassified to Profit or Loss",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "ii",
-            "col_2": "Income tax relating to items that will not be reclassified to Profit or Loss",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "ii i",
-            "col_2": "Items that will be reclassified to Profit or Loss",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "i v",
-            "col_2": "Income tax relating to items that will be reclassified to Profit or Loss",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Total Other Comprehensive Income (Net of Tax)",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Total Comprehensive Income for the Period",
-            "col_2": "",
-            "col_3": "88.06",
-            "col_4": "419.39",
-            "col_5": "22.82",
-            "col_6": "507.46",
-            "col_7": "42.14",
-            "col_8": "1,062.64"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Earnings per Equity Share (Face Value of ` 10/-) (Not Annualised)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "(a)",
-            "col_2": "Basic (in `)",
-            "col_3": "0.14",
-            "col_4": "0.68",
-            "col_5": "0.04",
-            "col_6": "0.82",
-            "col_7": "0.07",
-            "col_8": "1.72"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "(b)",
-            "col_2": "Diluted (in `)",
-            "col_3": "0.14",
-            "col_4": "0.68",
-            "col_5": "0.04",
-            "col_6": "0.82",
-            "col_7": "0.07",
-            "col_8": "1.72"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Number of Shares",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "a)",
-            "col_2": "Basic",
-            "col_3": "618.28",
-            "col_4": "618.28",
-            "col_5": "618.28",
-            "col_6": "618.28",
-            "col_7": "618.28",
-            "col_8": "618.28"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "b)",
-            "col_2": "Diluted",
-            "col_3": "618.28",
-            "col_4": "618.28",
-            "col_5": "618.28",
-            "col_6": "618.28",
-            "col_7": "618.28",
-            "col_8": "618.28"
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "Notes",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER / HALF YEAR ENDED 30TH SEPTEMBER, 2026": "*EPS not annualized Notes: 1. The above results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on 14/11/2026 2. The Financial results have been prepared in accordance with the recognition and measurement principles laid down in the applicable Indian 3. The Company is engaged in primarily in the IT and Software development business and there are no separate reportable segments as per Ind AS 108 4. Balance appearing in the current tax (net) amounting to Rs.380.02 Lakhs, under current asset is the Standalone Financial Results are subject to reconcialation. The effect of non-reconcilication is not quantifiable 5. The investment in the equity of subsidiary company of Rs.311.38 Lakhs is reported under historical cost. 6.Thefiguresoflastquarterofcurrentyearandpreviousyeararethebalancingfiguresbetweentheauditedfiguresinrespectofthefullfinancialyear and the published unaudited year to date figures. 7.ReceivablesamountingtoRs.20.00CroresfromRyuklabshavebeenconvertedintoaninvestmentin“IAgent”.Thenecessarydocumentationis currently under execution, and the related regulatory and statutory compliances are in progress. For and on Behalf of the Board DATE: 14/11/2026 MAHALINGAM VASUDEVAN PLACE: Chennai Director DIN 01608150",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Particulars": "Cash flow from operating activities Profit before tax Adjustments for: Exceptional items Depreciation and amortisation expense Operating profit before working capital changes Changes in working capital: Decrease/(increase) in trade receivables Increase/(decrease) in trade payables Increase/(decrease) in other current financial assets Increase/(decrease) in other current libilities and provisions Decrease/(increase) in other current asssets Increase/(decrease) in other current financial libilities Cash generated from operations Taxes Paid Net cash generated from operating activities Cash flows from investing activities Payment for acquisition of subsidiary, net of cash acquired Payments for property, plant and equipment Changes in long term funds Net cash outflow from investing activities Cash flows from financing activities Proceeds from borrowings Proceeds from Rights Issue Redemption of Preference shares Net cash inflow (outflow) from financing activities Net increase (decrease) in cash and cash equivalents Cash and cash equivalents at the beginning of the financial year Cash and cash equivalents at end of the year",
-            "Half year ended 30.09.26 (Unaudited)": "668.21 -",
-            "Year ended 31.03.2026 (Audited)": "1,432.36 - 56.40"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "22.82",
-            "Year ended 31.03.2026 (Audited)": ""
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "691.03",
-            "Year ended 31.03.2026 (Audited)": "1,488.77"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "- 795.04 4.74 - 62.91 - 1,330.82 -",
-            "Year ended 31.03.2026 (Audited)": "158.36 -28.75 -12.18 492.15 -1,994.28"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "-2,058.21 162.74",
-            "Year ended 31.03.2026 (Audited)": "-1,384.71 364.07"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "-1,529.92",
-            "Year ended 31.03.2026 (Audited)": "-260.01"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "- - 18.89",
-            "Year ended 31.03.2026 (Audited)": "- -35.97"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "-18.89",
-            "Year ended 31.03.2026 (Audited)": "-35.97"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "",
-            "Year ended 31.03.2026 (Audited)": "- 8 0.95 611.69 -"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "4 67.03 911.13",
-            "Year ended 31.03.2026 (Audited)": ""
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "- 418.70",
-            "Year ended 31.03.2026 (Audited)": ""
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "9 59.46",
-            "Year ended 31.03.2026 (Audited)": "692.64"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "- 589.35 6 00.41",
-            "Year ended 31.03.2026 (Audited)": "3 96.66 203.75"
-          },
-          {
-            "Particulars": "",
-            "Half year ended 30.09.26 (Unaudited)": "1 1.06",
-            "Year ended 31.03.2026 (Audited)": "600.41"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Particulars",
-            "col_2": "As at 30.09.2026 (Unaudited)",
-            "(₹ in lakhs)": "As at 31.03.2026 (Audited)"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Assets Non-current assets Property, plant and equipment Financial assets i. Investments Deferred tax assets",
-            "col_2": "200.38 311.38 1 0.57",
-            "(₹ in lakhs)": "204.31 311.38 8.59"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total non-current assets",
-            "col_2": "5 22.33",
-            "(₹ in lakhs)": "524.27"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Current assets Inventories Financial assets i. Trade receivables ii. Cash and cash equivalents Other current assets",
-            "col_2": "- - 2,476.80 11.06 3,792.49",
-            "(₹ in lakhs)": "- - 1681.76 600.41 2,461.67"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total current assets",
-            "col_2": "6 ,280.35",
-            "(₹ in lakhs)": "4,743.83"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total assets",
-            "col_2": "6,802.68",
-            "(₹ in lakhs)": "5,268.11"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Equity and Liabilities Equity Equity share capital Other equity",
-            "col_2": "4,227.81 1,209.75",
-            "(₹ in lakhs)": "3316.68 1121.00"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total equity",
-            "col_2": "5 ,437.57",
-            "(₹ in lakhs)": "4,437.68"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Liabilities Non-current liabilities",
-            "col_2": "-",
-            "(₹ in lakhs)": "-"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total non-current liabilities",
-            "col_2": "-",
-            "(₹ in lakhs)": "-"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Current liabilities Financial liabilities i. Borrowings ii. Trade payables iii. Other financial liabilities Provisions Other current liabilities Liabilities directly associated with assets classified as held for sale",
-            "col_2": "628.20",
-            "(₹ in lakhs)": "161.17 18.37 1.03 649.86"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "",
-            "col_2": "23.11",
-            "(₹ in lakhs)": ""
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "",
-            "col_2": "1.03 -",
-            "(₹ in lakhs)": ""
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "",
-            "col_2": "712.77",
-            "(₹ in lakhs)": ""
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total current liabilities",
-            "col_2": "1 ,365.11",
-            "(₹ in lakhs)": "8 30.43"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total liabilities",
-            "col_2": "1 ,365.11",
-            "(₹ in lakhs)": "8 30.43"
-          },
-          {
-            "California Software Company Limited Standalone unaudited assets and liabilities": "Total equity and liabilities",
-            "col_2": "6 ,802.68",
-            "(₹ in lakhs)": "5 ,268.11"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 41,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "30 Sep '26",
-            "col_4": "30 Jun '26",
-            "col_5": "30 Sep '25",
-            "Half Year Ended": "30 Sep '26",
-            "col_7": "30 Sep '25",
-            "Year": "31 March'26"
-          },
-          {
-            "Particulars": "Income",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "Revenue from Operations",
-            "col_2": "",
-            "Quarter Ended": "263.11",
-            "col_4": "6 62.88",
-            "col_5": "154.49",
-            "Half Year Ended": "925.99",
-            "col_7": "309.07",
-            "Year": "1,965.76"
-          },
-          {
-            "Particulars": "Other Income",
-            "col_2": "",
-            "Quarter Ended": "29.05",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "29.05",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Total Income",
-            "col_2": "",
-            "Quarter Ended": "292.16",
-            "col_4": "662.88",
-            "col_5": "154.49",
-            "Half Year Ended": "955.03",
-            "col_7": "309.07",
-            "Year": "1,965.76"
-          },
-          {
-            "Particulars": "Expenses",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "Employee Benefits Expense",
-            "col_2": "",
-            "Quarter Ended": "98.05",
-            "col_4": "6 8.32",
-            "col_5": "92.75",
-            "Half Year Ended": "166.37",
-            "col_7": "177.27",
-            "Year": "384.76"
-          },
-          {
-            "Particulars": "Finance Costs",
-            "col_2": "",
-            "Quarter Ended": "11.63",
-            "col_4": "0 .87",
-            "col_5": "-",
-            "Half Year Ended": "12.50",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Depreciation / Amortisation and Depletion Expense",
-            "col_2": "",
-            "Quarter Ended": "11.76",
-            "col_4": "1 1.06",
-            "col_5": "14.22",
-            "Half Year Ended": "22.82",
-            "col_7": "28.28",
-            "Year": "56.40"
-          },
-          {
-            "Particulars": "Other Expenses",
-            "col_2": "",
-            "Quarter Ended": "54.49",
-            "col_4": "3 0.64",
-            "col_5": "16.68",
-            "Half Year Ended": "85.13",
-            "col_7": "46.58",
-            "Year": "92.23"
-          },
-          {
-            "Particulars": "Total Expenses",
-            "col_2": "",
-            "Quarter Ended": "175.94",
-            "col_4": "110.89",
-            "col_5": "123.65",
-            "Half Year Ended": "286.82",
-            "col_7": "252.13",
-            "Year": "533.39"
-          },
-          {
-            "Particulars": "Profit before exceptional items and tax",
-            "col_2": "",
-            "Quarter Ended": "116.22",
-            "col_4": "551.99",
-            "col_5": "30.84",
-            "Half Year Ended": "668.21",
-            "col_7": "56.94",
-            "Year": "1,432.37"
-          },
-          {
-            "Particulars": "Exceptional items",
-            "col_2": "",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Profit Before Tax",
-            "col_2": "",
-            "Quarter Ended": "116.22",
-            "col_4": "551.99",
-            "col_5": "30.84",
-            "Half Year Ended": "668.21",
-            "col_7": "56.94",
-            "Year": "1,432.37"
-          },
-          {
-            "Particulars": "Tax Expenses",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "Current Tax",
-            "col_2": "",
-            "Quarter Ended": "31.55",
-            "col_4": "1 31.18",
-            "col_5": "8.02",
-            "Half Year Ended": "162.74",
-            "col_7": "14.81",
-            "Year": "364.07"
-          },
-          {
-            "Particulars": "Deferred Tax",
-            "col_2": "",
-            "Quarter Ended": "-3.40",
-            "col_4": "1 .42",
-            "col_5": "-",
-            "Half Year Ended": "-1.98",
-            "col_7": "-",
-            "Year": "5.66"
-          },
-          {
-            "Particulars": "Profit for the Period",
-            "col_2": "",
-            "Quarter Ended": "88.06",
-            "col_4": "4 19.39",
-            "col_5": "22.82",
-            "Half Year Ended": "5 07.46",
-            "col_7": "42.14",
-            "Year": "1,062.64"
-          },
-          {
-            "Particulars": "Other Comprehensive Income (OCI)",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "i",
-            "col_2": "Items that will not be reclassified to Profit and Loss",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "ii",
-            "col_2": "Income tax relating to items that will not be reclassified to Profit or Loss",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "iii",
-            "col_2": "Items that will be reclassified to Profit or Loss",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "iv",
-            "col_2": "Income tax relating to items that will be reclassified to Profit or Loss",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Total Other Comprehensive Income (Net of Tax)",
-            "col_2": "",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Total Comprehensive Income for the Period",
-            "col_2": "",
-            "Quarter Ended": "88.06",
-            "col_4": "4 19.39",
-            "col_5": "22.82",
-            "Half Year Ended": "5 07.46",
-            "col_7": "42.14",
-            "Year": "1,062.64"
-          },
-          {
-            "Particulars": "Net Profit attributable to :",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "a)",
-            "col_2": "Owners of the Company",
-            "Quarter Ended": "88.06",
-            "col_4": "419.39",
-            "col_5": "22.82",
-            "Half Year Ended": "507.46",
-            "col_7": "42.14",
-            "Year": "1,062.64"
-          },
-          {
-            "Particulars": "b)",
-            "col_2": "Non-Controlling Interest",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Other Comprehensive Income attributable to :",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "a)",
-            "col_2": "Owners of the Company",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "b)",
-            "col_2": "Non-Controlling Interest",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Total Comprehensive Income attributable to :",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "a)",
-            "col_2": "Owners of the Company",
-            "Quarter Ended": "88.06",
-            "col_4": "419.39",
-            "col_5": "22.82",
-            "Half Year Ended": "507.46",
-            "col_7": "42.14",
-            "Year": "1,062.64"
-          },
-          {
-            "Particulars": "b)",
-            "col_2": "Non-Controlling Interest",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year": "-"
-          },
-          {
-            "Particulars": "Earnings per Equity Share (Face Value of ` 10/-) (Not Annualised)",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "(a)",
-            "col_2": "Basic (in `)",
-            "Quarter Ended": "0.14",
-            "col_4": "0.68",
-            "col_5": "0.04",
-            "Half Year Ended": "0.82",
-            "col_7": "0.07",
-            "Year": "1.72"
-          },
-          {
-            "Particulars": "(b)",
-            "col_2": "Diluted (in `)",
-            "Quarter Ended": "0.14",
-            "col_4": "0.68",
-            "col_5": "0.04",
-            "Half Year Ended": "0.82",
-            "col_7": "0.07",
-            "Year": "1.72"
-          },
-          {
-            "Particulars": "Number of Shares",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          },
-          {
-            "Particulars": "a)",
-            "col_2": "Basic",
-            "Quarter Ended": "618.28",
-            "col_4": "618.28",
-            "col_5": "618.28",
-            "Half Year Ended": "618.28",
-            "col_7": "618.28",
-            "Year": "618.28"
-          },
-          {
-            "Particulars": "b)",
-            "col_2": "Diluted",
-            "Quarter Ended": "618.28",
-            "col_4": "618.28",
-            "col_5": "618.28",
-            "Half Year Ended": "618.28",
-            "col_7": "618.28",
-            "Year": "618.28"
-          },
-          {
-            "Particulars": "*EPS not annualized Notes: 1. The above results have been reviewed by the Audit Committee and approved by the Board of Directors in their meeting held on 14/11/2026 2.TheFinancialresultshavebeenpreparedinaccordancewiththerecognitionandmeasurementprincipleslaiddownintheapplicableIndianAccounting Standards(\"IndAS”)prescribedundersection133oftheCompaniesAct,2013,readwithrelevantrulesthereunderandintermsofRegulation33oftheSEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended. 3.TheCompanyisengagedinprimarilyintheITandSoftwaredevelopmentbusinessandtherearenoseparatereportablesegmentsasperIndAS108on \"Operating Segments\" and hence the Ind AS 108 is not applicable. 4.Balanceappearinginthecurrenttax(net)amountingtoRs.380.02Lakhs,undercurrentassetistheStandaloneFinancialResultsaresubjecttoreconcialation.The effect of non-reconcilication is not quantifiable 5.Thefiguresoflastquarterofcurrentyearandpreviousyeararethebalancingfiguresbetweentheauditedfiguresinrespectofthefullfinancialyearandthe published unaudited year to date figures. 6. The figures for the corresponding previous period have been regrouped/ reclassified wherever necessary, to make them comparable. 7.ReceivablesamountingtoRs.20.00CroresfromRyuklabshavebeenconvertedintoaninvestmentin“IAgent”.Thenecessarydocumentationiscurrentlyunder execution, and the related regulatory and statutory compliances are in progress. Standalone Results of the Company:",
-            "col_2": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year": ""
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter Ended": "30 Sep '26",
-            "col_3": "30 Jun '26",
-            "col_4": "30 Sep '25",
-            "Half Year Ended": "30 Sep '26",
-            "col_6": "30 Sep '25",
-            "Year Ended (Audit ed)": "31 March'26"
-          },
-          {
-            "Particulars": "",
-            "Quarter Ended": "Un Audited",
-            "col_3": "Un Audited",
-            "col_4": "Un Audited",
-            "Half Year Ended": "Un Audited",
-            "col_6": "Un Audited",
-            "Year Ended (Audit ed)": "Audited"
-          },
-          {
-            "Particulars": "Total Income",
-            "Quarter Ended": "292.16",
-            "col_3": "6 62.88",
-            "col_4": "154.49",
-            "Half Year Ended": "9 55.03",
-            "col_6": "309.07",
-            "Year Ended (Audit ed)": "1,965.76"
-          },
-          {
-            "Particulars": "Net Profit/(loss) before tax expenses",
-            "Quarter Ended": "116.22",
-            "col_3": "5 51.99",
-            "col_4": "30.84",
-            "Half Year Ended": "6 68.21",
-            "col_6": "56.94",
-            "Year Ended (Audit ed)": "1,432.37"
-          },
-          {
-            "Particulars": "Net Profit/(loss) for the period/year",
-            "Quarter Ended": "88.06",
-            "col_3": "4 19.39",
-            "col_4": "22.82",
-            "Half Year Ended": "5 07.46",
-            "col_6": "42.14",
-            "Year Ended (Audit ed)": "1,062.64"
-          },
-          {
-            "Particulars": "Total Comprehensive Income for the period/year",
-            "Quarter Ended": "88.06",
-            "col_3": "419.39",
-            "col_4": "22.82",
-            "Half Year Ended": "507.46",
-            "col_6": "42.14",
-            "Year Ended (Audit ed)": "1 ,062.64"
-          },
-          {
-            "Particulars": "For and on behalf of the Board Mahalingam Vasudevan Date: 14/11/2026 Director Place: Chennai DIN- 01608150",
-            "Quarter Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Half Year Ended": "",
-            "col_6": "",
-            "Year Ended (Audit ed)": ""
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "Particulars",
-            "col_2": "Half year ended 30.09.26 (Unaudited)",
-            "(₹ in lakhs)": "Year ended 31.03.2026 (Audited)"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "Cash flow from operating activities Profit before tax Adjustments for: Exceptional Items Depreciation and amortisation expense Operating profit before working capital changes Changes in working capital: Decrease/(increase) in trade receivables Increase/(decrease) in trade payables Increase/(decrease) in other current financial assets Increase/(decrease) in other current libilities and provisions Decrease/(increase) in other current asssets Increase/(decrease) in other current financial libilities Cash generated from operations Taxes Paid Net cash generated from operating activities Cash flows from investing activities Payment for acquisition of subsidiary, net of cash acquired Payments for property, plant and equipment Changes in long term funds Net cash outflow from investing activities Cash flows from financing activities Proceeds from borrowings Proceeds from Rights Issue Redemption of Preference shares Net cash inflow (outflow) from financing activities Net increase (decrease) in cash and cash equivalents Cash and cash equivalents at the beginning of the financial year Cash and cash equivalents at end of the year",
-            "col_2": "668.21 22.82 691.03",
-            "(₹ in lakhs)": "1,432.36 - 5 6.40 1,488.77"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "- 795.04 4.74 - 62.91 - 1,330.90 -",
-            "(₹ in lakhs)": "158.36 -28.75 -1,994.28 492.15 -13.22 -"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "-1,367.25 162.74",
-            "(₹ in lakhs)": "-1,385.74 364"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "-1,529.99",
-            "(₹ in lakhs)": "-261.05"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "- - 18.89",
-            "(₹ in lakhs)": "- -35.97"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "- 18.89",
-            "(₹ in lakhs)": "-35.97"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "4 67.03 911.13 - 418.70",
-            "(₹ in lakhs)": "8 0.95 611.69 -"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "9 59.46",
-            "(₹ in lakhs)": "692.64"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "- 589.42 600.48",
-            "(₹ in lakhs)": "3 95.62 204.86"
-          },
-          {
-            "California Software Company Limited Consolidated unaudited cash flow statement": "",
-            "col_2": "1 1.06",
-            "(₹ in lakhs)": "600.48"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 20,
-        "rows": [
-          {
-            "Particulars": "Assets Non-current assets Property, plant and equipment Financial assets i. Investments Deferred tax assets",
-            "As at 30.09.2026 Unaudited": "200.38",
-            "AS at 31.03.2026 Audited": "204.31"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "-",
-            "AS at 31.03.2026 Audited": "-"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "10.57",
-            "AS at 31.03.2026 Audited": "8.59"
-          },
-          {
-            "Particulars": "Total non-current assets",
-            "As at 30.09.2026 Unaudited": "210.95",
-            "AS at 31.03.2026 Audited": "212.89"
-          },
-          {
-            "Particulars": "Current assets Inventories Financial assets i. Trade receivables ii. Cash and cash equivalents Other current assets",
-            "As at 30.09.2026 Unaudited": "-",
-            "AS at 31.03.2026 Audited": "-"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "2,476.80 11.06 3,793.60",
-            "AS at 31.03.2026 Audited": "1,681.76 600.48"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "",
-            "AS at 31.03.2026 Audited": "2,462.70"
-          },
-          {
-            "Particulars": "Total current assets",
-            "As at 30.09.2026 Unaudited": "6,281.46",
-            "AS at 31.03.2026 Audited": "4,744.94"
-          },
-          {
-            "Particulars": "Total assets",
-            "As at 30.09.2026 Unaudited": "6,492.40",
-            "AS at 31.03.2026 Audited": "4,957.83"
-          },
-          {
-            "Particulars": "Equity and Liabilities Equity Equity share capital Other equity",
-            "As at 30.09.2026 Unaudited": "",
-            "AS at 31.03.2026 Audited": ""
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "4,227.81 899.48",
-            "AS at 31.03.2026 Audited": "3,316.68 810.72"
-          },
-          {
-            "Particulars": "Total equity",
-            "As at 30.09.2026 Unaudited": "5,127.29",
-            "AS at 31.03.2026 Audited": "4,127.41"
-          },
-          {
-            "Particulars": "Liabilities Non-current liabilities",
-            "As at 30.09.2026 Unaudited": "-",
-            "AS at 31.03.2026 Audited": "-"
-          },
-          {
-            "Particulars": "Total non-current liabilities",
-            "As at 30.09.2026 Unaudited": "-",
-            "AS at 31.03.2026 Audited": "-"
-          },
-          {
-            "Particulars": "Current liabilities Financial liabilities i. Borrowings ii. Trade payables iii. Other financial liabilities Provisions Other current liabilities Liabilities directly associated with assets classified as held for sale",
-            "As at 30.09.2026 Unaudited": "",
-            "AS at 31.03.2026 Audited": ""
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "628.20",
-            "AS at 31.03.2026 Audited": "161.17"
-          },
-          {
-            "Particulars": "",
-            "As at 30.09.2026 Unaudited": "23.11 1.03 - 712.77",
-            "AS at 31.03.2026 Audited": "18.37 1.03 - 649.86"
-          },
-          {
-            "Particulars": "Total current liabilities",
-            "As at 30.09.2026 Unaudited": "1 ,365.11",
-            "AS at 31.03.2026 Audited": "8 30.43"
-          },
-          {
-            "Particulars": "Total liabilities",
-            "As at 30.09.2026 Unaudited": "1 ,365.11",
-            "AS at 31.03.2026 Audited": "8 30.43"
-          },
-          {
-            "Particulars": "Total equity and liabilities",
-            "As at 30.09.2026 Unaudited": "6 ,492.40",
-            "AS at 31.03.2026 Audited": "4 ,957.83"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "8dab82bc-15d4-4079-b1e6-6f79868de80b",
-    "SCRIP_CD": 544559,
-    "XML_NAME": "ANN_544559_8DAB82BC-15D4-4079-B1E6-6F79868DE80B",
-    "NEWSSUB": "Om Metallogic Ltd - 544559 - Corporate Action : Fix Record Date For Right Issue",
-    "DT_TM": "2026-11-14T22:28:43.15",
-    "NEWS_DT": "2026-11-14T22:28:43.15",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "382d5a78-8c34-443a-bd4f-aba9d6b06b57.pdf",
-    "MORE": "",
-    "HEADLINE": "As per file attached",
-    "CATEGORYNAME": "Corp. Action",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/om-metallogic-ltd/oml/544559/",
-    "SLONGNAME": "Om Metallogic Ltd",
-    "AGENDA_ID": 36,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:28:43",
-    "DissemDT": "2026-11-14T22:28:43.15",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 225620,
-    "SUBCATNAME": "Record Date",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Om Metallogic Ltd (BSE scrip 544559) has fixed **Friday 20 November 2026** as the record date to determine shareholders eligible for its upcoming **rights issue of fully paid‑up equity shares**.  \n- The company will disclose the detailed terms, application procedure and any fractional entitlements in a forthcoming Letter of Offer filed with BSE; no specific financial figures (e.g., issue size, price, or amount raised) are provided in this notice.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4a2fbd10-95c5-4e09-95d3-65cacef7448d",
-    "SCRIP_CD": 544091,
-    "XML_NAME": "ANN_544091_4A2FBD10-95C5-4E09-95D3-65CACEF7448D",
-    "NEWSSUB": "Qualitek Labs Ltd - 544091 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-14T22:28:21.263",
-    "NEWS_DT": "2026-11-14T22:28:21.263",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ffae6832-1101-4be1-af68-8d766966b35d.pdf",
-    "MORE": "",
-    "HEADLINE": "As per attached information",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/qualitek-labs-ltd/qll/544091/",
-    "SLONGNAME": "Qualitek Labs Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:28:21",
-    "DissemDT": "2026-11-14T22:28:21.263",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2304589,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "4a2fbd10-95c5-4e09-95d3-65cacef7448d",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14889952,
-    "DataInsDate": "2026-11-14T22:28:21.22",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Earnings conference call scheduled:** Tuesday 24 Nov 2026 at 04:00 PM IST (virtual Zoom webinar); speaker – Mr. Antaryami Nayak, Managing Director; organized by Finportal (registration link provided).  \n- **No financial figures disclosed:** The announcement contains only the meeting details; it does not provide any earnings numbers, financial decisions, or other quantitative data.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "04e1c27a-9e2a-4973-bed9-7d614364c0ae",
-    "SCRIP_CD": 539300,
-    "XML_NAME": "ANN_539300_04E1C27A-9E2A-4973-BED9-7D614364C0AE",
-    "NEWSSUB": "Sunrakshakk Industries India Ltd - 539300 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-14T22:26:54.707",
-    "NEWS_DT": "2026-11-14T22:26:54.707",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "61aa7bc9-0fb6-495d-8478-add2517ee5d3.pdf",
-    "MORE": "",
-    "HEADLINE": "Plese find herewith press release regarding Financial Result Q2 H1 FY27 of the company",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sunrakshakk-industries-india-ltd/sunrakshak/539300/",
-    "SLONGNAME": "Sunrakshakk Industries India Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:26:54",
-    "DissemDT": "2026-11-14T22:26:54.707",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4607923,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "119.20",
-      "eps": "5.16",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "col_1": "Revenue from Operations",
-            "Particulars (₹ Crore)": "",
-            "col_3": "",
-            "col_4": "265.17",
-            "Q2FY27": "",
-            "col_6": "",
-            "col_7": "120.97",
-            "Q2FY26": "",
-            "col_9": "",
-            "col_10": "119.20%",
-            "Y-o-Y%": "",
-            "col_12": "",
-            "col_13": "276.33",
-            "Q1FY27": "",
-            "col_15": "",
-            "col_16": "(4.04%)",
-            "Q-o-Q%": "",
-            "col_18": ""
-          },
-          {
-            "col_1": "EBITDA (Excl. Other Income)",
-            "Particulars (₹ Crore)": "",
-            "col_3": "",
-            "col_4": "23.14",
-            "Q2FY27": "",
-            "col_6": "",
-            "col_7": "11.67",
-            "Q2FY26": "",
-            "col_9": "",
-            "col_10": "98.26%",
-            "Y-o-Y%": "",
-            "col_12": "",
-            "col_13": "22.59",
-            "Q1FY27": "",
-            "col_15": "",
-            "col_16": "2.42%",
-            "Q-o-Q%": "",
-            "col_18": ""
-          },
-          {
-            "col_1": "Profit after Tax (PAT)",
-            "Particulars (₹ Crore)": "",
-            "col_3": "",
-            "col_4": "16.00",
-            "Q2FY27": "",
-            "col_6": "",
-            "col_7": "6.95",
-            "Q2FY26": "",
-            "col_9": "",
-            "col_10": "130.10%",
-            "Y-o-Y%": "",
-            "col_12": "",
-            "col_13": "15.04",
-            "Q1FY27": "",
-            "col_15": "",
-            "col_16": "6.38%",
-            "Q-o-Q%": "",
-            "col_18": ""
-          },
-          {
-            "col_1": "EPS (₹)",
-            "Particulars (₹ Crore)": "",
-            "col_3": "",
-            "col_4": "5.16",
-            "Q2FY27": "",
-            "col_6": "",
-            "col_7": "2.24",
-            "Q2FY26": "",
-            "col_9": "",
-            "col_10": "130.36%",
-            "Y-o-Y%": "",
-            "col_12": "",
-            "col_13": "4.85",
-            "Q1FY27": "",
-            "col_15": "",
-            "col_16": "6.39%",
-            "Q-o-Q%": "",
-            "col_18": ""
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars (₹ Crore)": "Revenue from Operations",
-            "H1FY27": "541.50",
-            "H1FY26": "246.21",
-            "Y-o-Y%": "119.93%"
-          },
-          {
-            "Particulars (₹ Crore)": "EBITDA (Excl. Other Income)",
-            "H1FY27": "45.73",
-            "H1FY26": "23.30",
-            "Y-o-Y%": "96.32%"
-          },
-          {
-            "Particulars (₹ Crore)": "Profit after Tax (PAT)",
-            "H1FY27": "31.04",
-            "H1FY26": "13.47",
-            "Y-o-Y%": "130.39%"
-          },
-          {
-            "Particulars (₹ Crore)": "EPS (₹)",
-            "H1FY27": "10.01",
-            "H1FY26": "4.64",
-            "Y-o-Y%": "115.73%"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "73271af4-9693-4ed2-9485-8cdc2634de14",
-    "SCRIP_CD": 544559,
-    "XML_NAME": "ANN_544559_73271AF4-9693-4ED2-9485-8CDC2634DE14",
-    "NEWSSUB": "Om Metallogic Ltd - 544559 - Determination Of Record Date",
-    "DT_TM": "2026-11-14T22:26:47.28",
-    "NEWS_DT": "2026-11-14T22:26:47.28",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f716f9a4-8164-4f26-b141-2c46aab80975.pdf",
-    "MORE": "",
-    "HEADLINE": "Approval of issue price, Entitlement Ratio, Record Date, Issue Open and Closure Dates and other modalities related to Right Issue",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/om-metallogic-ltd/oml/544559/",
-    "SLONGNAME": "Om Metallogic Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:26:47",
-    "DissemDT": "2026-11-14T22:26:47.28",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2193508,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "0",
-      "total_debt": "260.65",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "afb767c2-c3b0-4fa3-a969-d63ade0f8bfa",
-    "SCRIP_CD": 544641,
-    "XML_NAME": "ANN_544641_AFB767C2-C3B0-4FA3-A969-D63ADE0F8BFA",
-    "NEWSSUB": "K. V. Toys India Ltd - 544641 - Financial Result As On 30/09/2026",
-    "DT_TM": "2026-11-14T22:25:01.683",
-    "NEWS_DT": "2026-11-14T22:25:01.683",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9d254c5c-27bf-4603-a9d3-f57c8599da7f.pdf",
-    "MORE": "With reference to the captioned subject, please be informed that the Board of Directors of the\r\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered and\r\napproved the Un-audited Financial Results (Standalone and Consolidated) along with the Limited\r\nReview Report for the quarter and half year ended September 30, 2026, duly reviewed and\r\nrecommended by the Audit Committee pursuant to Regulation 33 of the SEBI (Listing Obligations\r\nand Disclosure Requirements) Regulations, 2015;",
-    "HEADLINE": "With reference to the captioned subject, please be informed that the Board of Directors of the\r\nCompany at their meeting held today i.e., Saturday November 14,2026, inter-alia, considered ....",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/k-v-toys-india-ltd/kvtoys/544641/",
-    "SLONGNAME": "K. V. Toys India Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:25:01",
-    "DissemDT": "2026-11-14T22:25:01.683",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1325129,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "10391.85",
-      "net_profit": "7.35 lakh",
-      "total_assets": "732.94 lakh",
-      "total_debt": "1222.62",
-      "face_value": "10",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 20,
-        "rows": [
-          {
-            "K. V. TOYS INDIA LIMITED": "CIN : U32409MH2023PLC400074",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "STATEMENT OF UN-AUDITED STANDALONE FINANCIAL RESULTS FOR THE HALF-YEAR ENDED SEPTEMBER 30, 2026 (PURSUANT TO REGULATION 33 OF SEBI (LODR) REGULATION, 2015)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "(₹ in Lakhs Except Share Data and Ratios)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "Particulars",
-            "col_2": "",
-            "col_3": "For the Half-Year ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "For the year ended March 31, 2026"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "September 30, 2026",
-            "col_4": "March 31, 2026",
-            "col_5": "September 30, 2025",
-            "col_6": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Audited",
-            "col_6": "Audited"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "I II III IV V VI VII VIII IX X XI XII",
-            "col_2": "Revenue from operations Other Income Total Revenue (I+II) Expenses: (a) Cost of materials consumed (b) Direct expenses (c) Changes in inventories of work-in-progress & finished goods (d) Employee benefits expense (e) Finance costs (f) Depreciation & amortisation expense (g) Other expenses Total Expenses Profit/(Loss) Before exceptional, Prior Period items and tax (III - IV) Prior Period items (Net) Profit/(Loss) Before Tax (V - VI) Tax expense: (a) Current tax expense (b) Deferred tax expense/(credit) (c) Short / (excess) provision for tax of earlier years Total Tax Expense Profit/(Loss) for the period/year (VII - VIII) Paid-up equity share capital (Face Value of ₹ 10/- each) Reserve excluding Revaluation Reserves as per balance sheet of previous accounting year Earnings per share (Post Bonus):-",
-            "col_3": "10,391.85 59.54",
-            "col_4": "9,399.04 27.73",
-            "col_5": "8,080.30 10.07",
-            "col_6": "17,479.34 37.80"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "1 0,451.39",
-            "col_4": "9,426.77",
-            "col_5": "8,090.37",
-            "col_6": "17,517.14"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "7,982.82 761.19 146.86 307.39 10.36 66.21 532.43",
-            "col_4": "7,233.90 798.12 143.57 208.51 28.44 24.76 371.08 939.18",
-            "col_5": "6,448.21 642.92 (82.16) 204.84 58.04 21.58 253.97 - 939.18",
-            "col_6": "- 13,682.11 1,441.04 61.41 413.35 86.48 46.34 625.05"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "9,807.26",
-            "col_4": "8,808.38",
-            "col_5": "7,547.40",
-            "col_6": "16,355.78"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "644.13",
-            "col_4": "618.39",
-            "col_5": "542.97",
-            "col_6": "1,161.36"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "(12.18)",
-            "col_5": "0.97",
-            "col_6": "(11.21)"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "644.13",
-            "col_4": "630.57",
-            "col_5": "542.00",
-            "col_6": "1,172.57"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "161.05 (1.83) -",
-            "col_4": "160.68 0.79 1.34",
-            "col_5": "135.95 5.00 (7.96)",
-            "col_6": "296.63 5.79 (6.62)"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "159.22",
-            "col_4": "162.81",
-            "col_5": "132.99",
-            "col_6": "295.80"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "484.91",
-            "col_4": "467.76",
-            "col_5": "409.01",
-            "col_6": "876.77"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "628.00 7.72 7.72",
-            "col_4": "628.00 8.32 8.32",
-            "col_5": "460.00 8.89 8.89",
-            "col_6": "628.00 4,849.49 17.15 17.15"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "a) Basic",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "b) Diluted",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "For and on behalf of the Board of Directors K. V. TOYS INDIA LIMITED KARAN NARANG (Managing Director) DIN - 07098277 Place : Mumbai Date : 14-11-2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "K. V. TOYS INDIA LIMITED": "CIN : U32409MH2023PLC400074",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "UNAUDITED STANDALONE STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "(₹ in Lakhs)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "Particulars",
-            "col_2": "",
-            "col_3": "As at September 30, 2026",
-            "col_4": "As at March 31, 2026"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "(Un-Audited)",
-            "col_4": "(Audited)"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "₹",
-            "col_4": "₹"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "A (1) (2) (3) B (1) (2)",
-            "col_2": "EQUITY AND LIABILITIES Shareholders’ funds (a) Share capital (b) Reserves and Surplus Non-current liabilities (a) Long-Term Borrowings (b) Long-Term Provisions Current liabilities (a) Short Term Borrowings (b) Trade payables (i) Total outstanding dues of micro enterprises and small enterprises (ii) Total outstanding dues of creditors other than micro enterprises and small enterprises (c) Other current liabilities (d) Short-term provisions TOTAL ASSETS Non-current assets (a) Property, Plant & Equipment and Intangible Assets (i) Property,Plant & Equipment (ii) Intangible Assets (b) Deferred Tax Assets (Net) (c) Non-Current Investments (d) Other Non-Current Assets Current assets (a) Current Investments (b) Inventories (c) Trade Receivables (d) Cash and Bank Balances (e) Short-Term Loans and Advances (f) Other Current Assets TOTAL",
-            "col_3": "628.00 5,334.40",
-            "col_4": "628.00 4,849.49"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "5,962.40 1,222.62 45.68",
-            "col_4": "5,477.49 1,252.84 12.14"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "1,268.30 - 581.71 1,257.14 109.72 32.26",
-            "col_4": "1,264.98 5.98 141.70 1,217.97 82.23 64.98"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "1,980.83",
-            "col_4": "1,512.86"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "9,211.53",
-            "col_4": "8,255.33"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "654.00 18.62 4.64 5.25 69.12",
-            "col_4": "132.97 24.89 2.81 5.25 75.50"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "751.63 198.10 2,312.56 3,924.83 1,265.03 717.29 42.09",
-            "col_4": "241.42 875.89 2,255.25 2,424.28 1,531.38 909.81 17.30"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "8,459.90",
-            "col_4": "8,013.91"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "",
-            "col_2": "",
-            "col_3": "9,211.53",
-            "col_4": "8,255.33"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED": "For and on behalf of the Board of Directors K. V. TOYS INDIA LIMITED KARAN NARANG (Managing Director) DIN - 07098277 Place : Mumbai Date : 14-11-2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Object of the Issue": "Fundingtheworking capital requirements of the company",
-            "Allocated Amount (₹ in Lakhs)": "2,091.80",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "939.18",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "1,152.62",
-            "Remarks (if any)": "As on 30-09-2026, unutilised balance is parked in fixed deposits with banks (Rs. 1,176.39 lakhs) and mutual funds (Rs. 198.10 lakhs)."
-          },
-          {
-            "S. No.": "2",
-            "Object of the Issue": "Repayment/Prepay ment of borrowings",
-            "Allocated Amount (₹ in Lakhs)": "1,169.82",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "1,169.82",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "-",
-            "Remarks (if any)": ""
-          },
-          {
-            "S. No.": "3",
-            "Object of the Issue": "General Corporate Purposes",
-            "Allocated Amount (₹ in Lakhs)": "417.09",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "195.22",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "221.87",
-            "Remarks (if any)": ""
-          },
-          {
-            "S. No.": "4",
-            "Object of the Issue": "Issue Expenses",
-            "Allocated Amount (₹ in Lakhs)": "336.49",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "336.49",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "-",
-            "Remarks (if any)": ""
-          },
-          {
-            "S. No.": "Total",
-            "Object of the Issue": "",
-            "Allocated Amount (₹ in Lakhs)": "4,015.20",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "2,640.71",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "1,374.49",
-            "Remarks (if any)": ""
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 18,
-        "rows": [
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "Sr. No.",
-            "col_2": "Particulars",
-            "col_3": "As at September 30, 2026",
-            "col_4": "As at March 31, 2026"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Audited"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "A B C D A B",
-            "col_2": "EQUITY AND LIABILITIES Shareholders Funds a. Share Capital b. Reserves & Surplus Minority interest Non - Current Liabilities a. Long-term Borrowings b. Long-term Provisions Current Liabilities a. Short Term Borrowings b. Trade Payables - Due to Micro and Small Enterprises - Due to Others c. Other Current liabilities d. Short Term Provisions",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "6 28.00",
-            "col_4": "6 28.00"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "5,314.43",
-            "col_4": "4,847.03"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "0.75"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "1 ,406.87",
-            "col_4": "1,252.84"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "45.68",
-            "col_4": "1 2.14"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "38.21",
-            "col_4": "5.98"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "5 81.71",
-            "col_4": "1 41.70"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "1,387.46",
-            "col_4": "1,217.97"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "130.54",
-            "col_4": "8 1.03"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "48.13",
-            "col_4": "6 5.13"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "Total",
-            "col_3": "9,581.03",
-            "col_4": "8,252.57"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "ASSETS Non Current Assets a. Property, Plant & Equipment and Intangible Assets - Property, Plant & Equipment - Intangible Assets b. Deferred Tax Assets (Net) c. Non-Current Investments d. Other Non-current assets Current Assets a. Current Investments b. Inventories c. Trade Receivables d. Cash and Bank Balances e. Short term loan and advances f. Other current assets",
-            "col_3": "875.04 18.62 11.02 9.04 152.40 198.10 2,468.77 3,961.75 1,282.91 532.21 71.17",
-            "col_4": ""
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "132.97 24.89 2.81 1.69 8 5.12 875.89 2,255.25 2,424.28 1,531.38 900.19 18.10"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "",
-            "col_2": "Total",
-            "col_3": "9,581.03",
-            "col_4": "8,252.57"
-          },
-          {
-            "K. V. TOYS INDIA LIMITED (U32409MH2023PLC400074) CONSOLIDATED STATEMENT OF ASSETS & LIABILITIES AS AT SEPTEMBER 30, 2026 (₹ In Lakhs)": "For and on behalf of the Board of Directors KARAN NARANG (Managing Director) DIN - 07098277 Place : Mumbai Date : 14-11-2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Object of the Issue": "Funding the working capital requirements of the company",
-            "Allocated Amount (₹ in Lakhs)": "2,091.80",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "939.18",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "1,152.62",
-            "Remarks (if any)": "As on 30-09-2026, unutilised balance is parked in fixed deposits with banks (Rs. 1,176.39 lakhs) and mutual funds (Rs. 198.10 lakhs)."
-          },
-          {
-            "S. No.": "2",
-            "Object of the Issue": "Repayment/Prepay ment of borrowings",
-            "Allocated Amount (₹ in Lakhs)": "1,169.82",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "1,169.82",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "-",
-            "Remarks (if any)": ""
-          },
-          {
-            "S. No.": "3",
-            "Object of the Issue": "General Corporate Purposes",
-            "Allocated Amount (₹ in Lakhs)": "417.09",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "195.22",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "221.87",
-            "Remarks (if any)": ""
-          },
-          {
-            "S. No.": "4",
-            "Object of the Issue": "Issue Expenses",
-            "Allocated Amount (₹ in Lakhs)": "336.49",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "336.49",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "-",
-            "Remarks (if any)": ""
-          },
-          {
-            "S. No.": "Total",
-            "Object of the Issue": "",
-            "Allocated Amount (₹ in Lakhs)": "4,015.20",
-            "Amount utilised Up to September 30, 2026 (₹ in Lakhs)": "2,640.71",
-            "Amount Un - utilised as at September 30, 2026 (₹ in Lakhs)": "1,374.49",
-            "Remarks (if any)": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "00c0ef44-5d48-42e6-9b73-84e89c3d6ae3",
-    "SCRIP_CD": 544524,
-    "XML_NAME": "ANN_544524_00C0EF44-5D48-42E6-9B73-84E89C3D6AE3",
-    "NEWSSUB": "JD Cables Ltd - 544524 - Statement Of Deviation & Variation For 30Th September 2026",
-    "DT_TM": "2026-11-14T22:23:52.02",
-    "NEWS_DT": "2026-11-14T22:23:52.02",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1c4370f2-4be7-4457-9503-34703b8781e7.pdf",
-    "MORE": "",
-    "HEADLINE": "BSE Intimation regarding nil deviation or variation as on 30th September 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jd-cables-ltd/jdcables/544524/",
-    "SLONGNAME": "JD Cables Ltd",
-    "AGENDA_ID": 84,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:23:52",
-    "DissemDT": "2026-11-14T22:23:52.02",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 810446,
-    "SUBCATNAME": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "04d2dc12-5bd9-4bf2-8f7f-ec0cf8cfef28",
-    "SCRIP_CD": 530253,
-    "XML_NAME": "ANN_530253_04D2DC12-5BD9-4BF2-8F7F-EC0CF8CFEF28",
-    "NEWSSUB": "Rajasthan Tube Manufacturing Company Ltd - 530253 - Board Meeting Outcome for Outcome Of Board Meeting Held On 14Th November, 2026 At 7:45 P.M.",
-    "DT_TM": "2026-11-14T22:23:18.63",
-    "NEWS_DT": "2026-11-14T22:23:18.63",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "75924798-dd88-47c6-be32-6428677332cd.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Board Meeting held on 14th November 2026 at 7:45 P.M.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rajasthan-tube-manufacturing-company-ltd/rajtube/530253/",
-    "SLONGNAME": "Rajasthan Tube Manufacturing Company Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:23:17",
-    "DissemDT": "2026-11-14T22:23:18.63",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 166703,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "4.43",
-      "total_assets": "1",
-      "total_equity": "1",
-      "total_debt": "3",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "(Rs. In Lacs)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "Sr. No.",
-            "col_2": "Particulars",
-            "col_3": "Quarter ended",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "Half year ended",
-            "col_7": "",
-            "col_8": "Year ended"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "9/30/2026",
-            "col_4": "6/30/2026",
-            "col_5": "9/30/2025",
-            "col_6": "9/30/2026",
-            "col_7": "9/30/2025",
-            "col_8": "3/31/2026"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "Un-audited",
-            "col_4": "Un-audited",
-            "col_5": "Un-audited",
-            "col_6": "Un-audited",
-            "col_7": "Un-audited",
-            "col_8": "Audited"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "I II III IV V VI VII VIII IX X XI XII XIII XIV XV",
-            "col_2": "Income From Operations Revenue from operations Other Income Total Revenue (II+III) Expenses (a) Cost of materials consumed (b) Purchases of stock-in-trade (c) Changes in inventories of finished goods, work-inprogress and stock-in-trade (d) Employee benefits expense (e) Finance Expenses (f) Depreciation & Amortization Expenses (g) Other expenses Total expenses (IV) Profit / (Loss) before exceptional and extra-ordinary item and tax (III-IV) Exceptional items Profit / (Loss) before extra-ordinary item and tax (V-VI) Extra-ordinary Item (refer note below) Profit / (Loss) before tax (VII-VIII) Tax expense: (a) Current tax (b) Deferred tax Profit / (Loss) for the year (IX-X) Other Comprehensive Income Items that will not be reclassified to profit or loss -Remeasurement Gains/(Losses) on Defined Benefit Plans -Income tax on above Total other comprehensive income (XII) Total Comprehensive Income for the Year (XI-XII) Paid up equity share capital Face value of equity share capital Earnings per share (of Rs. 10/- each) (not annualised for quarters): Basic/Diluted",
-            "col_3": "- -",
-            "col_4": "- 5.56",
-            "col_5": "4.43 -",
-            "col_6": "5.56",
-            "col_7": "1,349.00 0.81",
-            "col_8": "1,700.64 0.81"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "-",
-            "col_4": "5.56",
-            "col_5": "4.43",
-            "col_6": "5.56",
-            "col_7": "1,349.81",
-            "col_8": "1,701.45"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "- - - - 0.35 1.30 0.01",
-            "col_4": "- - - - 0.36 1.28 1.08",
-            "col_5": "- - - - 2.64 1.82 0.08",
-            "col_6": "0.71 2.58 1.09",
-            "col_7": "572.09 - 822.81 15.35 17.65 3.64 27.96",
-            "col_8": "572.09 - 874.97 15.35 18.12 7.09 38.93"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "1.66",
-            "col_4": "2.72",
-            "col_5": "4.54",
-            "col_6": "4.38",
-            "col_7": "1,459.50",
-            "col_8": "1,526.55"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "(1.66) -",
-            "col_4": "2.85 -",
-            "col_5": "(0.11) -",
-            "col_6": "1.19 -",
-            "col_7": "(109.69) -",
-            "col_8": "174.90 -"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "(1.66) -",
-            "col_4": "2.85 -",
-            "col_5": "(0.11) -",
-            "col_6": "1.19 -",
-            "col_7": "(109.69) -",
-            "col_8": "174.90 -"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "(1.66)",
-            "col_4": "2.85",
-            "col_5": "(0.11)",
-            "col_6": "1.19",
-            "col_7": "(109.69)",
-            "col_8": "174.90 51.18 0.03"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "(1.66)",
-            "col_4": "2.85",
-            "col_5": "(0.11)",
-            "col_6": "1.19",
-            "col_7": "(109.69)",
-            "col_8": "123.69"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "- -",
-            "col_4": "- -",
-            "col_5": "- -",
-            "col_6": "- -",
-            "col_7": "- -",
-            "col_8": "- -"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "",
-            "col_2": "",
-            "col_3": "- (1.66) 450.78 1.00 (0.00)",
-            "col_4": "- 2.85 450.78 1.00 0.01",
-            "col_5": "- (0.11) 450.78 1.00 (0.00)",
-            "col_6": "- 1.19 450.78 1.00 0.00",
-            "col_7": "- (109.69) 450.78 1.00 (0.24)",
-            "col_8": "- 123.69 450.78 1.00 0.27"
-          },
-          {
-            "RAJASTHAN TUBE MANUFACTURING COMPANY LIMITED STATEMENT OF AUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30th September,2026": "Notes: 1The above Unaudited Results for Quarter and half Year ended 30th September,2026 have been reviewed by audit committee and approved by the board of Directors at their respective meeting held on 6th November 2026. The Auditors have carried out Limited Review of the above Financial Results as required under Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,2015. 2These above unaudited financial results have been prepared in accordance with Indian Accounting Standards (Ind AS) prescribed under Section 133 of the Companies Act 2013 read with the relevant Rules thereunder and in terms of Regulation 33 of the SEBI (Listing obligations & Disclosure Requirements) Regulations 2015. 3During the quarter, no investor complaints were received and was resolved before quarter ended 30.09.2026. 4The Company is engaged in the business of manufacturing of ERW Steel Tubes. As there is only one reportable segment, the company has not given any segment information. 5The unaudited financial results for the quarter and half year ended 30th September,2026 are available on the website of the Company(www.rajtube.com) and on the website of the Stock Exchange(www.bseindia.com) 6Provision for taxation, if any, will be considered at year end. 7The figures of the previous year have been regrouped/ rearranged whereever necessary. 8No production activities are carried out during the quarter edning 30.09.2026 Place: Jaipur For and on behalf of Board of Directors Date: 06/11/2026 RAJASTHAN TUBE MANUFACTURING COMPANY LTD UDIN - 26075689NFSGVH6279 Chanchal Director DIN:10836478",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "2d7553e9-b610-4ce7-87a2-5bbba2528545",
-    "SCRIP_CD": 544331,
-    "XML_NAME": "ANN_544331_2D7553E9-B610-4CE7-87A2-5BBBA2528545",
-    "NEWSSUB": "Davin Sons Retail Ltd - 544331 - Board Meeting Outcome for OUTCOME OF MEETING OF THE BOARD OF DIRECTORS OF THE COMPANY HELD ON 14TH NOVEMBER, 2026",
-    "DT_TM": "2026-11-14T22:20:05.973",
-    "NEWS_DT": "2026-11-14T22:20:05.973",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dc706e3c-2bc3-4116-aa8e-8241ff231fc3.pdf",
-    "MORE": "",
-    "HEADLINE": "As per file attached",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/davin-sons-retail-ltd/davin/544331/",
-    "SLONGNAME": "Davin Sons Retail Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:20:04",
-    "DissemDT": "2026-11-14T22:20:05.973",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1549087,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
