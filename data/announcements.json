@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "68d8949d-4dc0-43b7-a3a8-fa15b94410d2",
+    "SCRIP_CD": 533269,
+    "XML_NAME": "ANN_533269_68D8949D-4DC0-43B7-A3A8-FA15B94410D2",
+    "NEWSSUB": "VA Tech Wabag Ltd - 533269 - Request To The Physical Shareholders Of The Company For Conversion Of Shareholding Into Dematerialised Mode",
+    "DT_TM": "2026-11-15T08:36:07.943",
+    "NEWS_DT": "2026-11-15T08:36:07.943",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e3e8898f-beae-4635-a808-0a2281b54439.pdf",
+    "MORE": "",
+    "HEADLINE": "Request to the Physical Shareholders of the Company for conversion of Shareholding into Dematerialised mode",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/va-tech-wabag-ltd/wabag/533269/",
+    "SLONGNAME": "VA Tech Wabag Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-15T08:36:07",
+    "DissemDT": "2026-11-15T08:36:07.943",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 352670,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement (Nov 15 2026):** VA Tech Wabag Ltd. asks all physical‑shareholders to convert their holdings to dematerialised form so that shares can be transferred (physical transfer is now prohibited) and the company can achieve 100 % dematerialised membership.  \n\n- **Action steps:** A dedicated helpline (044‑6123 1569, 10 am‑6 pm IST) and email (companysecretary@wabag.in) are provided; detailed procedures and forms are available on the company website",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "c88b4cfa-08fa-4e94-b681-6ad80b14a6d9",
     "SCRIP_CD": 503626,
     "XML_NAME": "ANN_503626_C88B4CFA-08FA-4E94-B681-6AD80B14A6D9",
@@ -27548,161 +27584,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "9d9b5e67-63a8-49a9-874b-2e809ad9edcd",
-    "SCRIP_CD": 543593,
-    "XML_NAME": "ANN_543593_9D9B5E67-63A8-49A9-874B-2E809AD9EDCD",
-    "NEWSSUB": "Dhampur Bio Organics Ltd - 543593 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-14T22:15:34.94",
-    "NEWS_DT": "2026-11-14T22:15:34.94",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "650171d8-8f31-41fe-92b6-078f7e2e6bc8.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find attached the Investor Presentation for the Quarter ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dhampur-bio-organics-ltd/dbol/543593/",
-    "SLONGNAME": "Dhampur Bio Organics Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 45,
-    "News_submission_dt": "2026-11-14T22:15:34",
-    "DissemDT": "2026-11-14T22:15:34.94",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3712405,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "468.7",
-      "operating_profit": "47.6",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "Sugar",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "Revenue",
-            "col_2": "468.7",
-            "col_3": "415.9",
-            "col_4": "12.7%",
-            "col_5": "861.0",
-            "col_6": "871.2",
-            "col_7": "(1.2%)"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "EBIT",
-            "col_2": "47.6",
-            "col_3": "9.6",
-            "col_4": "395.1%",
-            "col_5": "52.3",
-            "col_6": "15.5",
-            "col_7": "236.8%"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "EBIT Margin (%)",
-            "col_2": "10.15%",
-            "col_3": "2.31%",
-            "col_4": "784 bps",
-            "col_5": "6.08%",
-            "col_6": "1.78%",
-            "col_7": "429 bps"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "Biofuel & Spirits",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "Revenue",
-            "col_2": "104.4",
-            "col_3": "95.5",
-            "col_4": "9.3%",
-            "col_5": "185.2",
-            "col_6": "223.2",
-            "col_7": "(17.0%)"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "EBIT",
-            "col_2": "5.6",
-            "col_3": "-4.4",
-            "col_4": "225.5%",
-            "col_5": "12.2",
-            "col_6": "-3.8",
-            "col_7": "420.8%"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "EBIT Margin (%)",
-            "col_2": "5.32%",
-            "col_3": "(4.6%)",
-            "col_4": "996 bps",
-            "col_5": "6.57%",
-            "col_6": "(1.7%)",
-            "col_7": "826 bps"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "Country Liquor",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": ""
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "Revenue",
-            "col_2": "107.8",
-            "col_3": "29.2",
-            "col_4": "268.7%",
-            "col_5": "211.2",
-            "col_6": "57.4",
-            "col_7": "267.9%"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "EBIT",
-            "col_2": "3.6",
-            "col_3": "4.7",
-            "col_4": "(22.8%)",
-            "col_5": "7.1",
-            "col_6": "9.0",
-            "col_7": "(21.6%)"
-          },
-          {
-            "Particulars (₹ in Crores) Q2FY27 Q2FY26 YoY H1 FY27 H1 FY26 YoY": "EBIT Margin (%)",
-            "col_2": "3.37%",
-            "col_3": "16.07%",
-            "col_4": "(1271) bps",
-            "col_5": "3.35%",
-            "col_6": "15.73%",
-            "col_7": "(1237) bps"
-          }
-        ]
-      }
-    ]
   }
 ]
