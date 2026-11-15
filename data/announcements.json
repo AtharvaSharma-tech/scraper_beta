@@ -1,5 +1,1170 @@
 [
   {
+    "NEWSID": "82847090-f38e-4af5-b3a2-25fe1626ab28",
+    "SCRIP_CD": 517399,
+    "XML_NAME": "ANN_517399_82847090-F38E-4AF5-B3A2-25FE1626AB28",
+    "NEWSSUB": "VXL Instruments Ltd - 517399 - Shareholder Meeting / Postal Ballot-Scrutinizer''s Report",
+    "DT_TM": "2026-11-15T13:28:52.387",
+    "NEWS_DT": "2026-11-15T13:28:52.387",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b2e330a9-4eb3-4212-8c38-51802de18e82.pdf",
+    "MORE": "",
+    "HEADLINE": "Declaration of Voting Results and Scrutinizers Report with respect to the Adjourned 40th Annual General Meeting of the Company held on Friday, 13th November 2026",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vxl-instruments-ltd/vxlinstr/517399/",
+    "SLONGNAME": "VXL Instruments Ltd",
+    "AGENDA_ID": 3,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:28:52",
+    "DissemDT": "2026-11-15T13:28:52.387",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 9913372,
+    "SUBCATNAME": "AGM",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **AGM dates & corporate status:** The 40th Annual General Meeting was originally scheduled for 26 Oct 2026 and was adjourned to 13 Nov 2026 (held via video‑conferencing). VXL Instruments Ltd remains under a Corporate Insolvency Resolution Process (CIRP) following the NCLT order dated 26 Nov 2024.  \n\n- **",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 14,
+        "rows": [
+          {
+            "VXL INSTRUME NTS LIMITED": "Resolution Required: Ordinary",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Adoption of the Audited Financial Statements of the Company for the Financial Year Ended March 31, 2026 and the reports of the Board of Directors and Auditors thereon.",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": ""
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Whether promoter/ promoter group are interested in the agenda/resolution?",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "N o",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": ""
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Category",
+            "col_2": "Mode of Voting",
+            "col_3": "No. of shares held",
+            "col_4": "No. of votes polled",
+            "col_5": "% of Votes Polled on outstanding shares",
+            "col_6": "",
+            "col_7": "No. of Votes – in favour",
+            "col_8": "No. of Votes – Against",
+            "col_9": "% of Votes in favour on votes polled",
+            "col_10": "% of Votes against on votes polled"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "",
+            "col_3": "[1]",
+            "col_4": "[2]",
+            "col_5": "[3]={[2]/[1]}*100",
+            "col_6": "",
+            "col_7": "[4]",
+            "col_8": "[5]",
+            "col_9": "[6]={[4]/[2]}*100",
+            "col_10": "[7]={[5]/[2]}*100"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Promoter and Promoter Group",
+            "col_2": "E- Voting",
+            "col_3": "629584",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Public Institutions",
+            "col_2": "E- Voting",
+            "col_3": "3900",
+            "col_4": "0.0",
+            "col_5": "0.",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Public non- institutions",
+            "col_2": "E- Voting",
+            "col_3": "12691316",
+            "col_4": "1947",
+            "col_5": "0.02",
+            "col_6": "",
+            "col_7": "1916",
+            "col_8": "31",
+            "col_9": "98.41",
+            "col_10": "1.59"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "d8ee21bd-6ef7-4391-b51f-73a49fa62ac6",
+    "SCRIP_CD": 517399,
+    "XML_NAME": "ANN_517399_D8EE21BD-6EF7-4391-B51F-73A49FA62AC6",
+    "NEWSSUB": "VXL Instruments Ltd - 517399 - Shareholder Meeting / Postal Ballot-Scrutinizer''s Report",
+    "DT_TM": "2026-11-15T13:26:02.28",
+    "NEWS_DT": "2026-11-15T13:26:02.28",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "05a20119-2074-49a5-accf-7f0f6b765030.pdf",
+    "MORE": "",
+    "HEADLINE": "Declaration of Voting Results and Scrutinizers Report with respect to the Adjourned 39th Annual General Meeting of the Company held on Friday, 13th November 2026",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vxl-instruments-ltd/vxlinstr/517399/",
+    "SLONGNAME": "VXL Instruments Ltd",
+    "AGENDA_ID": 3,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:26:02",
+    "DissemDT": "2026-11-15T13:26:02.28",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 10364248,
+    "SUBCATNAME": "AGM",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The adjourned 39th Annual General Meeting of VXL Instruments Ltd was held on **13 Nov 2026** (original",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 14,
+        "rows": [
+          {
+            "VXL INSTRUME NTS LIMITED": "Resolution Required: Ordinary",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Adoption of the Audited Financial Statements of the Company for the Financial Year Ended March 31, 2025 and the reports of the Board of Directors and Auditors thereon.",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": ""
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Whether promoter/ promoter group are interested in the agenda/resolution?",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "N o",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": ""
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Category",
+            "col_2": "Mode of Voting",
+            "col_3": "No. of shares held",
+            "col_4": "No. of votes polled",
+            "col_5": "% of Votes Polled on outstanding shares",
+            "col_6": "",
+            "col_7": "No. of Votes – in favour",
+            "col_8": "No. of Votes – Against",
+            "col_9": "% of Votes in favour on votes polled",
+            "col_10": "% of Votes against on votes polled"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "",
+            "col_3": "[1]",
+            "col_4": "[2]",
+            "col_5": "[3]={[2]/[1]}*100",
+            "col_6": "",
+            "col_7": "[4]",
+            "col_8": "[5]",
+            "col_9": "[6]={[4]/[2]}*100",
+            "col_10": "[7]={[5]/[2]}*100"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Promoter and Promoter Group",
+            "col_2": "E- Voting",
+            "col_3": "629584",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Public Institutions",
+            "col_2": "E- Voting",
+            "col_3": "3900",
+            "col_4": "0.0",
+            "col_5": "0.",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.00",
+            "col_9": "0.00",
+            "col_10": "0.00"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "Public non- institutions",
+            "col_2": "E- Voting",
+            "col_3": "12691316",
+            "col_4": "1936",
+            "col_5": "0.02",
+            "col_6": "",
+            "col_7": "1905",
+            "col_8": "31",
+            "col_9": "98.40",
+            "col_10": "1.60"
+          },
+          {
+            "VXL INSTRUME NTS LIMITED": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0.0",
+            "col_5": "0.0",
+            "col_6": "",
+            "col_7": "0.0",
+            "col_8": "0.0",
+            "col_9": "0.0",
+            "col_10": "0.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "91b240bc-787c-442e-9832-5b4f2bbee7a3",
+    "SCRIP_CD": 544522,
+    "XML_NAME": "ANN_544522_91B240BC-787C-442E-9832-5B4F2BBEE7A3",
+    "NEWSSUB": "ABC Industries India Ltd - 544522 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:20:18.563",
+    "NEWS_DT": "2026-11-15T13:20:18.563",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "befe1b58-310f-4057-aadb-040d56780d41.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication for the financial results for the quarter and half year ended on September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/abc-industries-india-ltd/abcind/544522/",
+    "SLONGNAME": "ABC Industries India Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:20:18",
+    "DissemDT": "2026-11-15T13:20:18.563",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1424103,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary based on the provided text:\n\n* **Newspaper Publication Notice:** On November 15, 2026, ABC Industries India Limited informed the exchanges that it published its un-audited standalone and consolidated financial results for the quarter and half-year ended September 30, 2026, in the *Financial Express* (English) and *Nawan Zamana* (Punjabi) newspapers.\n* **No Financial Details Disclosed:** The announcement does not contain any financial details, figures, or performance metrics for the company (the attached newspaper clipping contains unrelated regional news).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a68e9844-1921-4c8a-b3e6-4b3daa54d3a0",
+    "SCRIP_CD": 524488,
+    "XML_NAME": "ANN_524488_A68E9844-1921-4C8A-B3E6-4B3DAA54D3A0",
+    "NEWSSUB": "SVC INDUSTRIES Ltd - 524488 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:20:07.53",
+    "NEWS_DT": "2026-11-15T13:20:07.53",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "31ba032a-9740-4930-b2c7-bb24a869fb98.pdf",
+    "MORE": "",
+    "HEADLINE": "Copies of the newspaper publication are attached here, wherein an extract of the unaudited financial results of the company for the period ended on 30.09.2026 were published.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/svc-industries-ltd/svcind/524488/",
+    "SLONGNAME": "SVC INDUSTRIES Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:20:07",
+    "DissemDT": "2026-11-15T13:20:07.53",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 5536075,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the corporate announcement:\n\n* **Board Meeting & Publication Dates:** Following a Board Meeting held on November 13, 2026, SVC Industries Ltd published its unaudited financial results for the quarter ended September 30, 2026, in the newspapers *Active Times* (English) and *Pratahkal* (Marathi) on November 14, 2026, and submitted the copies to BSE on November 15, 2026.\n* **No Financial Details:** The announcement contains no financial details or figures for SVC Industries Ltd (the attached newspaper clipping features unrelated information for another company and entity).",
+    "key_metrics": {
+      "revenue": "597241",
+      "net_profit": "14",
+      "eps": "10",
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2ceef2a0-89f3-49fe-a1ba-2a2f2f2561b2",
+    "SCRIP_CD": 526227,
+    "XML_NAME": "ANN_526227_2CEEF2A0-89F3-49FE-A1BA-2A2F2F2561B2",
+    "NEWSSUB": "Filatex India Ltd-$ - 526227 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:14:01.89",
+    "NEWS_DT": "2026-11-15T13:14:01.89",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3896db55-4ddc-43f0-8e08-ba758c086588.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached Newspapers Cuttings in respect Q2 & H1FY2027 Results.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/filatex-india-ltd/filatex/526227/",
+    "SLONGNAME": "Filatex India Ltd-$",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:14:01",
+    "DissemDT": "2026-11-15T13:14:01.89",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2043194,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Filatex India Ltd. announced that its standalone and consolidated unaudited financial results for the quarter and half‑year ended 30 September 2026 were approved by the Board on 13 November 2026 and were published in the Mumbai edition of *The Financial Express* and the Surat edition of *Gujarat Mitra* on 15 November 2026.  \n\n- The filing complies with SEBI Regulation 47 (Listing Obligations and Disclosure Requirements) and serves as the formal newspaper disclosure of the unaudited Q3/H1 2026 results; no specific financial figures were disclosed in the announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5cbfdea5-4f5d-486c-acc6-d7ddd4e3462b",
+    "SCRIP_CD": 500083,
+    "XML_NAME": "ANN_500083_5CBFDEA5-4F5D-486C-ACC6-D7DDD4E3462B",
+    "NEWSSUB": "Century Extrusions Ltd - 500083 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:13:12.483",
+    "NEWS_DT": "2026-11-15T13:13:12.483",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "087bf3d5-1b4d-4916-b298-aa8a27fd3dda.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication of the Extract of Unaudited Financial Results for the Quarter and Half Year ended on 30th September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/century-extrusions-ltd/centext/500083/",
+    "SLONGNAME": "Century Extrusions Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:13:12",
+    "DissemDT": "2026-11-15T13:13:12.483",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1889681,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Newspaper Publication of Results:** On November 15, 2026 (following a prior letter dated November 14, 2026), Century Extrusions Ltd reported the newspaper publication of the extract of its Standalone Unaudited Financial Results for the quarter and half-year ended September 30, 2026, in the *Financial Express* (all editions) and *Duranta Barta* (Kolkata edition).\n* **Absence of Financial Details:** The announcement text contains no readable financial details or figures, as the attached extract of the financial results is entirely garbled and illegible.",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f387759d-75a7-433f-b18a-dc8b6096519b",
+    "SCRIP_CD": 532309,
+    "XML_NAME": "ANN_532309_F387759D-75A7-433F-B18A-DC8B6096519B",
+    "NEWSSUB": "GE Power India Ltd - 532309 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:05:21.573",
+    "NEWS_DT": "2026-11-15T13:05:21.573",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f68052f4-d056-4ada-88e0-b645cb131036.pdf",
+    "MORE": "Newspaper Advertisement- Publication of Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended 30 September 2026 and Opening of Special Window for Transfer and Dematerialization of Physical Securities.",
+    "HEADLINE": "Newspaper Advertisement- Publication of Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended 30 September 2026 and Opening of Special Window for ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ge-power-india-ltd/gvpil/532309/",
+    "SLONGNAME": "GE Power India Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:05:21",
+    "DissemDT": "2026-11-15T13:05:21.573",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4822612,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **No Financial Details Provided:** The announcement confirms the publication of the Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended 30 September 2026 in select newspapers on 15 November 2026, but the document contains no financial figures or performance metrics.\n* **Special Window for Securities:** A one-year special window has been opened from 05 February 2026 to 04 February 2027 for the transfer and dematerialization of physical securities that were sold or purchased prior to 01 April 2019.",
+    "key_metrics": {
+      "revenue": "7.81",
+      "face_value": "10",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "Sl. No.",
+            "col_2": "PARTICULARS",
+            "col_3": "Standalone",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Consolidated",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "Quarter Ended",
+            "col_4": "Half year Ended",
+            "col_5": "Year",
+            "col_6": "Quarter Ended",
+            "col_7": "Half year Ended",
+            "col_8": "Year"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "30.09.2026 (Unaudited)",
+            "col_4": "30.09.2026 (Unaudited)",
+            "col_5": "31.03.2026 (Audited)",
+            "col_6": "30.09.2026 (Unaudited)",
+            "col_7": "30.09.2026 (Unaudited)",
+            "col_8": "31.03.2026 (Audited)"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "1",
+            "col_2": "Total Income",
+            "col_3": "7.81",
+            "col_4": "15.63",
+            "col_5": "15.63",
+            "col_6": "126.65",
+            "col_7": "218.73",
+            "col_8": "406.69"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "2",
+            "col_2": "Net Profit/(Loss) from ordinary activities after tax",
+            "col_3": "2.50",
+            "col_4": "5.09",
+            "col_5": "(1.64)",
+            "col_6": "57.08",
+            "col_7": "94.58",
+            "col_8": "99.18"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "3",
+            "col_2": "Total Comprehensive Income for the period",
+            "col_3": "2.50",
+            "col_4": "5.09",
+            "col_5": "(1.64)",
+            "col_6": "(114.40)",
+            "col_7": "944.94",
+            "col_8": "126.50"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "4",
+            "col_2": "Equity Share Capital ( Face Value of ` 10/- per share)",
+            "col_3": "183.10",
+            "col_4": "183.10",
+            "col_5": "183.10",
+            "col_6": "183.10",
+            "col_7": "183.10",
+            "col_8": "183.10"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "5",
+            "col_2": "Reserves (Excluding Revaluation Reserves)*",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "(104.48)",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "3,573.49"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "6",
+            "col_2": "Earning per share (`) for the period (Face value of ` 10/- per share) - Basic & diluted (not Annualised)",
+            "col_3": "0.14",
+            "col_4": "0.28",
+            "col_5": "(0.09)",
+            "col_6": "1.45",
+            "col_7": "2.35",
+            "col_8": "2.30"
+          },
+          {
+            "United Interactive Limited CIN : L72900MH1983PLC030920 Regd. Office : 602, Maker Bhavan III, New marine lines, Mumbai-400020 Tel. : 022-22013736; Fax : 022-40023307, E-mail : investors@unitedinteractive.in; Website : www.unitedinteractive.in Extract of Unaudited Standalone & Consolidated Financial Results for the Quarter and Half Year ended 30th September, 2026 (Rs. in Lakhs)": "Note : 1. The above is an extracts of the detailed format of Financial Results for the Quarter and Half Year ended September 30, 2026 filed with the stock Exchange under Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. The full format of the same is available on the Stock Exchange Website (www.bseindia.com) and on the Company's website (www.unitedinteractive.in). 2. The Above results have been prepared in accordance with Ind As prescribed under section 133 of the Companies Act 2013. 3. The Auditor have issued unmodified opinion on the above results in their limited review report. For United Interactive Limited Date : November 14, 2026 Sarayu Somaiya Place : Mumbai Director (DIN : 00153136)",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 2,
+        "row_count": 20,
+        "rows": [
+          {
+            "Sr. No.": "",
+            "Particulars": "",
+            "Quarter Ended": "30.09.2026 (Unaudited)",
+            "col_4": "30.06.2026 (Unaudited)",
+            "col_5": "30.09.2025 (Unaudited)",
+            "Half Year ended": "30.09.2026 (Unaudited)",
+            "col_7": "30.09.2025 (Unaudited)",
+            "Year ended": "31.03.2026 (Audited)"
+          },
+          {
+            "Sr. No.": "1.",
+            "Particulars": "Total Income from Operations",
+            "Quarter Ended": "80,459",
+            "col_4": "13,172",
+            "col_5": "9,587",
+            "Half Year ended": "93,631",
+            "col_7": "21,784",
+            "Year ended": "43,220"
+          },
+          {
+            "Sr. No.": "2.",
+            "Particulars": "Net Profi t/(Loss) for the period (before Tax, Exceptional and/or Extraordinary Items)",
+            "Quarter Ended": "16,817",
+            "col_4": "4,703",
+            "col_5": "500",
+            "Half Year ended": "21,520",
+            "col_7": "1,343",
+            "Year ended": "3,386"
+          },
+          {
+            "Sr. No.": "3.",
+            "Particulars": "Net Profi t/(Loss) for the period before tax (after Exceptional and/or Extraordinary Items)",
+            "Quarter Ended": "16,817",
+            "col_4": "4,703",
+            "col_5": "500",
+            "Half Year ended": "21,520",
+            "col_7": "1,343",
+            "Year ended": "3,386"
+          },
+          {
+            "Sr. No.": "4.",
+            "Particulars": "Net Profi t/(Loss) for the period after tax (after Exceptional and/or Extraordinary Items)",
+            "Quarter Ended": "12,587",
+            "col_4": "3,519",
+            "col_5": "497",
+            "Half Year ended": "16,106",
+            "col_7": "1,346",
+            "Year ended": "2,852"
+          },
+          {
+            "Sr. No.": "5.",
+            "Particulars": "Total Comprehensive Income for the period[Comprising Profi t/ (Loss) for the period (after tax) and Other Comprehensive Income (after tax)]",
+            "Quarter Ended": "12,603",
+            "col_4": "3,536",
+            "col_5": "497",
+            "Half Year ended": "16,139",
+            "col_7": "1,346",
+            "Year ended": "2,916"
+          },
+          {
+            "Sr. No.": "6.",
+            "Particulars": "Paid up Equity Share Capital",
+            "Quarter Ended": "5",
+            "col_4": "5",
+            "col_5": "5",
+            "Half Year ended": "5",
+            "col_7": "5",
+            "Year ended": "5"
+          },
+          {
+            "Sr. No.": "7.",
+            "Particulars": "Reserves (excluding Revaluation Reserve)",
+            "Quarter Ended": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "Half Year ended": "-",
+            "col_7": "-",
+            "Year ended": ""
+          },
+          {
+            "Sr. No.": "8.",
+            "Particulars": "Securities Premium Account",
+            "Quarter Ended": "18,663",
+            "col_4": "18,663",
+            "col_5": "18,663",
+            "Half Year ended": "18,663",
+            "col_7": "18,663",
+            "Year ended": "18,663"
+          },
+          {
+            "Sr. No.": "9.",
+            "Particulars": "Net Worth",
+            "Quarter Ended": "(17,427)",
+            "col_4": "(30,030)",
+            "col_5": "(35,136)",
+            "Half Year ended": "(17,427)",
+            "col_7": "(35,136)",
+            "Year ended": "(33,566)"
+          },
+          {
+            "Sr. No.": "10.",
+            "Particulars": "Paid up Debt Capital/Outstanding Debt",
+            "Quarter Ended": "2,29,784",
+            "col_4": "2,32,284",
+            "col_5": "2,41,485",
+            "Half Year ended": "2,29,784",
+            "col_7": "2,41,485",
+            "Year ended": "2,33,762"
+          },
+          {
+            "Sr. No.": "11.",
+            "Particulars": "Outstanding Redeemable Preference Shares",
+            "Quarter Ended": "",
+            "col_4": "",
+            "col_5": "",
+            "Half Year ended": "",
+            "col_7": "",
+            "Year ended": "-"
+          },
+          {
+            "Sr. No.": "12.",
+            "Particulars": "Debt Equity Ratio",
+            "Quarter Ended": "(16.21)",
+            "col_4": "(9.76)",
+            "col_5": "(8.95)",
+            "Half Year ended": "(16.21)",
+            "col_7": "(8.95)",
+            "Year ended": "(9.14)"
+          },
+          {
+            "Sr. No.": "13.",
+            "Particulars": "Earning per Share (of ` 10/- each) (for continuing and discontinued operations)",
+            "Quarter Ended": "",
+            "col_4": "",
+            "col_5": "",
+            "Half Year ended": "",
+            "col_7": "",
+            "Year ended": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Basic",
+            "Quarter Ended": "33,528",
+            "col_4": "7,345",
+            "col_5": "2,796",
+            "Half Year ended": "33,528",
+            "col_7": "2,796",
+            "Year ended": "6,058"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Diluted",
+            "Quarter Ended": "33,528",
+            "col_4": "7,345",
+            "col_5": "2,796",
+            "Half Year ended": "33,528",
+            "col_7": "2,796",
+            "Year ended": "6,058"
+          },
+          {
+            "Sr. No.": "14.",
+            "Particulars": "Capital Redemption Reserve",
+            "Quarter Ended": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "Half Year ended": "-",
+            "col_7": "-",
+            "Year ended": "-"
+          },
+          {
+            "Sr. No.": "15.",
+            "Particulars": "Debenture Redemption Reserve",
+            "Quarter Ended": "-",
+            "col_4": "-",
+            "col_5": "-",
+            "Half Year ended": "-",
+            "col_7": "-",
+            "Year ended": "-"
+          },
+          {
+            "Sr. No.": "16.",
+            "Particulars": "Debt Service Coverage Ratio",
+            "Quarter Ended": "2.44",
+            "col_4": "1.62",
+            "col_5": "1.08",
+            "Half Year ended": "2.44",
+            "col_7": "1.08",
+            "Year ended": "1.10"
+          },
+          {
+            "Sr. No.": "17.",
+            "Particulars": "Interest Service Coverage Ratio",
+            "Quarter Ended": "2.44",
+            "col_4": "1.62",
+            "col_5": "1.08",
+            "Half Year ended": "2.44",
+            "col_7": "1.08",
+            "Year ended": "1.10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "78cfee37-c551-40fa-b487-7bda1a25e31c",
+    "SCRIP_CD": 530695,
+    "XML_NAME": "ANN_530695_78CFEE37-C551-40FA-B487-7BDA1A25E31C",
+    "NEWSSUB": "Prime Property Development Corporation Ltd-$ - 530695 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:05:14.803",
+    "NEWS_DT": "2026-11-15T13:05:14.803",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1296bfca-d8ac-41da-a10e-e2e6b187edc7.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of Newspaper clipping of Unaudited Financials Results for the quarter ended September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/prime-property-development-corporation-ltd/primepro/530695/",
+    "SLONGNAME": "Prime Property Development Corporation Ltd-$",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:05:14",
+    "DissemDT": "2026-11-15T13:05:14.803",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 11487650,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Board Approval and Publication Dates:** The Board of Directors of Prime Property Development Corporation Ltd approved the un-audited financial results at its meeting on November 13, 2026, which were subsequently published in *The Free Press Journal* (English) and *Navshakti* (Marathi) on November 15, 2026.\n* **No Financial Details Provided:** The document contains no financial figures or details for Prime Property Development Corporation Ltd (the attached newspaper clippings belong to other entities, Vibrant Global Capital Limited and Mangalam Organics).",
+    "key_metrics": {
+      "revenue": "936.84",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8fa5daa6-2bef-4b53-bd7a-a455e37932fb",
+    "SCRIP_CD": 540358,
+    "XML_NAME": "ANN_540358_8FA5DAA6-2BEF-4B53-BD7A-A455E37932FB",
+    "NEWSSUB": "RMC Switchgears Ltd - 540358 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:00:34.1",
+    "NEWS_DT": "2026-11-15T13:00:34.1",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8976bce5-724e-43fe-8601-64808271b4c9.pdf",
+    "MORE": "",
+    "HEADLINE": "Financials for 30.09.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rmc-switchgears-ltd/rmc/540358/",
+    "SLONGNAME": "RMC Switchgears Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:00:34",
+    "DissemDT": "2026-11-15T13:00:34.1",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1838624,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* On November 15, 2026, RMC Switchgears Ltd submitted copies of its newspaper advertisements published that same day in the *Financial Express* (English) and *Business Remedies* (vernacular), pertaining to its un-audited financial results for the quarter and half-year ended September 30, 2026.\n* The announcement contains no specific financial details, figures, or financial decisions for RMC Switchgears Ltd.",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 2,
+        "row_count": 11,
+        "rows": [
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "S. No.",
+            "col_2": "Particulars",
+            "col_3": "Quarter ended 30/09/2026 Unaudited",
+            "col_4": "Quarter ended 30/06/2026 Unaudited",
+            "col_5": "Quarter ended 30/09/2025 Unaudited",
+            "col_6": "Half Year ended 30/09/2026 Unaudited",
+            "col_7": "Half Year ended 30/09/2025 Unaudited",
+            "col_8": "Year ended 31/03/2026 Audited"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "1",
+            "col_2": "Total Income from Operations",
+            "col_3": "354.30",
+            "col_4": "342.62",
+            "col_5": "774.14",
+            "col_6": "696.92",
+            "col_7": "1487.99",
+            "col_8": "2574.34"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "2",
+            "col_2": "Net Profit / (Loss) for the period (before Tax, Exceptional and/or extraordinary items)",
+            "col_3": "15.32",
+            "col_4": "16.04",
+            "col_5": "38.19",
+            "col_6": "31.36",
+            "col_7": "73.52",
+            "col_8": "126.68"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "3",
+            "col_2": "Net Profit / (Loss) for the period before tax (after Exceptional and/or extraordinary items)",
+            "col_3": "15.32",
+            "col_4": "16.04",
+            "col_5": "38.19",
+            "col_6": "31.36",
+            "col_7": "73.52",
+            "col_8": "126.68"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "4",
+            "col_2": "Net Profit / (Loss) for the period after tax (after Exceptional and/or extraordinary items)",
+            "col_3": "11.50",
+            "col_4": "11.97",
+            "col_5": "28.59",
+            "col_6": "23.47",
+            "col_7": "54.39",
+            "col_8": "90.15"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "5",
+            "col_2": "Total Comprehensive Income for the period [Comprising Profit / (Loss) for the period (after tax) and Other Comprehensive Income (after tax)]",
+            "col_3": "5.34",
+            "col_4": "24.79",
+            "col_5": "28.08",
+            "col_6": "30.11",
+            "col_7": "53.43",
+            "col_8": "58.36"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "6",
+            "col_2": "Equity Share Capital",
+            "col_3": "1335.33",
+            "col_4": "1335.33",
+            "col_5": "1335.33",
+            "col_6": "1335.33",
+            "col_7": "1335.33",
+            "col_8": "1335.33"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "7",
+            "col_2": "Reserves (excluding Revaluation Reserve) as shown in the Audited Balance Sheet of the previous year",
+            "col_3": "--",
+            "col_4": "--",
+            "col_5": "--",
+            "col_6": "--",
+            "col_7": "--",
+            "col_8": "5909.21"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "8",
+            "col_2": "Earnings Per Share (of Rs. 10/- each) (for continuing and discontinued operations) - Basic:",
+            "col_3": "0.10",
+            "col_4": "0.09",
+            "col_5": "0.22",
+            "col_6": "0.18",
+            "col_7": "0.41",
+            "col_8": "0.68"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "",
+            "col_2": "Diluted:",
+            "col_3": "0.10",
+            "col_4": "0.09",
+            "col_5": "0.22",
+            "col_6": "0.18",
+            "col_7": "0.41",
+            "col_8": "0.68"
+          },
+          {
+            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "Notes: 1. The above is an extract of the detailed format of Quarterly and Half Yearly Standalone Financial Results filed with the Stock Exchanges under Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. The full format of the Quarterly and Half Yearly Standalone Financial Results are available on the websites of the Stock Exchange at (www.nseindia.com) and website of Priti International Limited at (www.pritihome.com). 2. The unaudited results have been reviewed by the Audit Committee of the Board at their meeting held on November 14, 2026, and approved by the Board of Directors of the Company at their meeting held on November 14, 2026. For PRITI INTERNATIONAL LIMITED Sd/- RITESH LOHIYA Place: JODHPUR Chairman and Managing Director Date: 14th November 2026 DIN: 07787331",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "5e52ab1a-56b0-4803-aa87-25e5e229cb96",
+    "SCRIP_CD": 543193,
+    "XML_NAME": "ANN_543193_5E52AB1A-56B0-4803-AA87-25E5E229CB96",
+    "NEWSSUB": "DJ Mediaprint & Logistics Ltd - 543193 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T13:00:29.427",
+    "NEWS_DT": "2026-11-15T13:00:29.427",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "42fcbce9-1c3f-45f7-ac37-1f02efd733c5.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement-Publication of Results- September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dj-mediaprint--logistics-ltd/djml/543193/",
+    "SLONGNAME": "DJ Mediaprint & Logistics Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-15T13:00:29",
+    "DissemDT": "2026-11-15T13:00:29.427",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1769096,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & filing:** On 15 Nov 2026, DJ Mediaprint & Logistics Ltd filed a Regulation 30 notice confirming that it placed newspaper advertisements (Financial Express – English and Pratahakal – Marathi) announcing its **un‑audited standalone and consolidated financial results for the quarter ended 30 Sept 2026**.  \n\n- **Financial details:** The notice does **not disclose any specific financial figures, ratios, or monetary decisions**—it only states that the quarter‑end results have been published in the newspapers.",
+    "key_metrics": {
+      "eps": "४२८०",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "82efcca8-efe4-4120-bb8f-7655f5330edd",
     "SCRIP_CD": 539834,
     "XML_NAME": "ANN_539834_82EFCCA8-EFE4-4120-BB8F-7655F5330EDD",
@@ -14826,2667 +15991,6 @@
             "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "56,199",
             "col_4": "21,684",
             "Unutillsed as on September 30, 2026": "34,515"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "04137bd1-c60b-4728-9200-e2e413167147",
-    "SCRIP_CD": 500051,
-    "XML_NAME": "ANN_500051_04137BD1-C60B-4728-9200-E2E413167147",
-    "NEWSSUB": "Bhagawati Gas Ltd - 500051 - Board Meeting Outcome for  Outcome Of The Board Meeting  For The Quarter And Half Year Ended On September 30, 2026",
-    "DT_TM": "2026-11-14T23:21:18.717",
-    "NEWS_DT": "2026-11-14T23:21:18.717",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5d72488e-9e03-41fc-8319-cab8bce750a0.pdf",
-    "MORE": "The Board of Directors of Bhagawati Gas Limited (''The Company'') at its meeting held today i.e. Saturday, November 14, 2026 at their corporate office situated at S-492/A, Greater Kailash-I, New Delhi-110048, India, has inter-alia, considered the following: 1.Approved the Unaudited Standalone Financial Results of the Company for the quarter and half year ended on September 30, 2026 along with a Statement of Assets and Liabilities as at September 30, 2026 and Statement of Cash Flow for the half year ended on September 30, 2026.; 2.Took note of the Limited Review Report on the Unaudited Standalone Financial Results of the Company for the quarter and half year ended on September 30, 2026, issued by the Statutory Auditor of the Company i.e. M/S YG & Associates. Chartered Accountants, and same is enclosed herewith.",
-    "HEADLINE": "The Board of Directors of Bhagawati Gas Limited (''The Company'') at its meeting held today i.e. Saturday, November 14, 2026 at their corporate office situated at S-492/A, Greater Kailash-I, ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bhagawati-gas-ltd/bhaggas/500051/",
-    "SLONGNAME": "Bhagawati Gas Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:21:17",
-    "DissemDT": "2026-11-14T23:21:18.717",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 2419692,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "3",
-      "total_assets": "1841.21",
-      "total_equity": "1841.21",
-      "total_debt": "1",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "98fcc719-f81e-4efb-87ee-bd51ff0efeaa",
-    "SCRIP_CD": 544936,
-    "XML_NAME": "ANN_544936_98FCC719-F81E-4EFB-87EE-BD51FF0EFEAA",
-    "NEWSSUB": "Hero Motors Ltd - 544936 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-11-14T23:20:28.673",
-    "NEWS_DT": "2026-11-14T23:20:28.673",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2f6fd3f4-f543-465a-a805-4a4763a0666e.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board Meeting",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hero-motors-ltd/heromotors/544936/",
-    "SLONGNAME": "Hero Motors Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:20:26",
-    "DissemDT": "2026-11-14T23:20:28.673",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 7407544,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "31811.92",
-      "total_assets": "161207.79",
-      "total_equity": "113987.55",
-      "total_debt": "422.83",
-      "dividend": "1213.79",
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "September 30, 2026",
-            "col_4": "June 30, 2026",
-            "col_5": "September 30, 2025",
-            "' Half Year Ended": "September 30,2026",
-            "col_7": "September 30,2025",
-            "Year Ended·": "March 31, 2026"
-          },
-          {
-            "Sr No. Particulars": "l II III IV V VI VII VIII IX X XI XII XIII",
-            "col_2": "Income (a) Revenue from operations (b) other income Total income (a+b) Expenses (a) Cost of materials consumed (b) Changes In Inventories of finished goods, work in progress and stock in trade (c) Employee benefit expenses ( d) Finance costs (e) Depreciation and amortization expense (f) Other expenses Total expenses (a+b+c+d+e+f) Profit before exceptional items and tax (II-III) Exceptional Items Statutory Impact of new Labour Codes (Refer note 4) Profit before tax (IV-V) Tax expense: (a) Current tax ( b) Deferred tax Total tax expense (a+b) Profit for the period / year (VI-VII) Other comprehensive income (i) Items that will not be reclassified to profit or loss (a) Re-measurement gains/ (losses) on defined benefit plans (b) Income tax on items that will not be reclassified to profit or loss Other comprehensive income for the period / year, net of tax Total comprehensive income for the period / year, net of tax Paid up share capital Other Equity Earnings per share: (face value t 10 per share) * i) Basic (amount In ?} ii) Diluted (amount in fl",
-            "Quarter Ended": "Unaudited",
-            "col_4": "Unaudited Unaudited ( Refer Note 5)",
-            "col_5": "",
-            "' Half Year Ended": "Unaudited",
-            "col_7": "Unaudited (Refer Note 5)",
-            "Year Ended·": "Audited"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "31,811.92 511.09",
-            "col_4": "27,819.65 372.98",
-            "col_5": "25,109.06 519.04",
-            "' Half Year Ended": "59,631.57 884.07",
-            "col_7": "46,555.98 1,065.04",
-            "Year Ended·": "1,00, 775.21 2,678.44"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "32 323.01",
-            "col_4": "28,192.63",
-            "col_5": "25.628.10",
-            "' Half Year Ended": "60.515.64",
-            "col_7": "47 621.02",
-            "Year Ended·": "103,453.65"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "19,955.16 283.92 2,289.62 813.37 655.14 5,124.84",
-            "col_4": "16,747 71 (114.57) 2,346.77 803.48 621.47 4,671.85",
-            "col_5": "15,622.79 (301.77) 2,495.25 766.54 542.18 4,362.38",
-            "' Half Year Ended": "36,702.87 169.35 4,636.39 1,616.85 1,276.61 9,796.70",
-            "col_7": "27,598.90 1,385.73 4,610.31 1,497 62 1,070.85 8,166.68",
-            "Year Ended·": "61,793.06 1,538.16 8,797.26 3,099.06 2,246.14 17,004.90"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "29 122.05",
-            "col_4": "25 076.71",
-            "col_5": "23 487.37",
-            "' Half Year Ended": "54 198,77",
-            "col_7": "44 330.09",
-            "Year Ended·": "94,478.58"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "3 200.96",
-            "col_4": "3 115.92",
-            "col_5": "2 140.73",
-            "' Half Year Ended": "6 316.87",
-            "col_7": "3 290.93",
-            "Year Ended·": "8 975.07"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "",
-            "' Half Year Ended": "-",
-            "col_7": ".",
-            "Year Ended·": "195.88"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "3 200.96",
-            "col_4": "3 115.92",
-            "col_5": "2 140.73",
-            "' Half Year Ended": "6 316.87",
-            "col_7": "3,290.93",
-            "Year Ended·": "8 779.19"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "737.09 89.08",
-            "col_4": "725.37 50.07",
-            "col_5": "451.32 93.40",
-            "' Half Year Ended": "1,462.46 139.16",
-            "col_7": "666.15 158.17",
-            "Year Ended·": "1,918.75 298.88"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "826.17",
-            "col_4": "775.44",
-            "col_5": "544,72",
-            "' Half Year Ended": "1 601.62",
-            "col_7": "824.32",
-            "Year Ended·": "2 217.63"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "2 374.79",
-            "col_4": "2 'Ll0 .. t8",
-            "col_5": "1 596.01",
-            "' Half Year Ended": "4 715.25",
-            "col_7": "2 466,61",
-            "Year Ended·": "6 561.56"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "(62.47) 15.73",
-            "col_4": "54.98 (13.84)",
-            "col_5": "54.98 (13.84)",
-            "' Half Year Ended": "(7.49) 1.89",
-            "col_7": "109.96 (27.68)",
-            "Year Ended·": "219.92 (55.35)"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "146,74",
-            "col_4": "41.14",
-            "col_5": "41.14",
-            "' Half Year Ended": "(5.60)",
-            "col_7": "82.28",
-            "Year Ended·": "164.57"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "2 328.05",
-            "col_4": "2 381.62",
-            "col_5": "1 637.15",
-            "' Half Year Ended": "4,709.65",
-            "col_7": "2 548.89",
-            "Year Ended·": "6 726,13"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "45,421.56 0.61 0.60",
-            "col_4": "35,928.75 0.62 0.61",
-            "col_5": "35,833.60 0.42 0.42",
-            "' Half Year Ended": "45,421.56 1.23 1.21",
-            "col_7": "35,833.60 0.65 0.64",
-            "Year Ended·": "35,833.60 15,835.00 1.73 1.71"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "col_1": "",
-            "As at September 30, 2026": "Unaudited",
-            "As at March 31, 2026": "Audite<f"
-          },
-          {
-            "col_1": "Non-current assets (a) Property, plant and equipment (b) Right of use assets ( c) Capital work in progress (d) Intangible assets (e) Financial assets (i) Investments (i1) Loans (iii) Other financial assets (f) Non current tax asset (Net) (g) Other-non current assets Total Non-current assets Current assets (a) Inventories (b) Financial assets (i) Investments (Ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank balances other than (ill) above (v) Loans (vi) Other financial assets (c) Other current assets Total current assets Total assets Equity (a) Equity share capital (b) other equity Total Equity Liabilities Non-current liabilities (a) Financial liabilities (I) Borrowings (ii) Lease liabilities (iii) Others financial liabilities (b) Provisions (c) Deferred tax liabilities (net) Total Non-current liabilities Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables -Total outstanding dues of micro and small enterprises -Total outstanding dues of creditors other than micro and small enterprises (iv) Other financial liabilities (b) Other current liabilities ( c) Provisions (d) Current tax liabilities Total current liabilities Total eauitv and liabilities",
-            "As at September 30, 2026": "36,638.61 34,929.24 556.39 600.32 5,424.96 4,637.51 212.56 250.18 14,367.62 12,882.86 5,709.47 7,202.03 12,579.36 362.12 - 489.39 566.50 526.77",
-            "As at March 31, 2026": ""
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "76,055.47",
-            "As at March 31, 2026": "61,880.42"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "16,290.32 238.72 25,600.39 3,419.33 22,345.00 5,282.25 9,560.31 2,416.00",
-            "As at March 31, 2026": "14,757.41 230.98 22,948.50 1,170.52 2,000.00 2,059.08 4,013.47 4,190.10"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "85,152.32",
-            "As at March 31, 2026": "51,370.06"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "1,61,207.79",
-            "As at March 31, 2026": "1,13,250.48"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "45,421.56 68,565.99",
-            "As at March 31, 2026": "35,833.60 15,835.00"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "1,13,987.55",
-            "As at March 31, 2026": "51,668.60"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "422.83 637.72 0.55 2,270.63 1,811.39",
-            "As at March 31, 2026": "6,955.82 679.00 1.15 2,153.56 1,674.13"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "5,143.12",
-            "As at March 31, 2026": "11,463.66"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "10,636.53 64.56 2,851.04 10,604.97 16,820.39 366.30 276.63 456.70",
-            "As at March 31, 2026": "22,177.10 52.51 2,236.87 9,130.76 15,681.91 546.24 292.83 -"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "42,077.12",
-            "As at March 31, 2026": "50 118.22"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "1,61,207.79",
-            "As at March 31, 2026": "1,13,250.48"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "S.no": "1",
-            "Particulars": "Repayment/prepayment/redemption In full or in part, of certain outstanding borrowings availed by our Company",
-            "Amount to be utilised as per prospectus": "19,000",
-            "Utilisation upto September 30, 2026": "18,984",
-            "Unutilised as on September 30, 2026": "16"
-          },
-          {
-            "S.no": "2",
-            "Particulars": "Capital expenditure of our Company through purchase of equipment required for expansion in capacity of our Gautam Buddha Nagar, Uttar Pradesh facili!'v",
-            "Amount to be utilised as per prospectus": "20,000",
-            "Utilisation upto September 30, 2026": "",
-            "Unutilised as on September 30, 2026": "20,000"
-          },
-          {
-            "S.no": "3",
-            "Particulars": "Funding inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes",
-            "Amount to be utilised as per prospectus": "17,199",
-            "Utilisation upto September 30, 2026": "2,700",
-            "Unutilised as on September 30, 2026": "14,499"
-          },
-          {
-            "S.no": "",
-            "Particulars": "Total",
-            "Amount to be utilised as per prospectus": "56,199",
-            "Utilisation upto September 30, 2026": "21,684",
-            "Unutilised as on September 30, 2026": "34,515"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 22,
-        "rows": [
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "S. No",
-            "col_2": "Particulars",
-            "col_3": "",
-            "col_4": "Ouarter Ended",
-            "col_5": "",
-            "col_6": "Half Year Ended",
-            "col_7": "",
-            "col_8": "Year Ended"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "-~-- September 30,",
-            "col_4": "lune 30, 2026",
-            "col_5": "Sept':~~~r 30,",
-            "col_6": "Sept:~~!' 30,",
-            "col_7": "September 30, ,n-..,",
-            "col_8": "March 31, 2026"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited (Refer Note 5)",
-            "col_6": "Unaudited",
-            "col_7": "Unaudited (Refer Note 5)",
-            "col_8": "Audited"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "I II ill IV V VI VII VIll IX X XI XII XIII XII",
-            "col_2": "~ Revenue from operations Other Income Total Income rI+Il) ~ (a) Cost of materials consumed (b) Purchase of stock-in-trade (c) Change in inventories of finished goods and work-in-progress and stock in trade (d) Employee benefit expenses (e} Finance Cost (f) Depreciation and amortisation (g) Other expenses Total Expenses (a+b+c+d+e+f+g) Profit before exceptional items end before tax (III-IV) Exceptional Items (Refer note 4) Profit before tax Tax Expense Current tax Deferred tax Total Tax ExDenses (VIII) Net Profit for the period / year (VII-VIII) Other Comprehensive Income (OCI) Items that will not be reclanified to profit or loss (i) Items that wlll not be reclassified to profit or loss (a) Re-measurement gains/(losses) on defined benefit plans (b) Income tax effect (i) Items that will be reclassified to profit or loss (a) Exchange differences in translating the financial statements of foreign subsidiaries Total Other Comprehensive Income Total Comprehensive Income for the period / year (JX+X) Profit for the period / year attributable to : Equity holder of parent Non~Controlling interest Total Other comprehensive income for the period / year, attributable to Equity holder of parent Non-Control/Ing interest Total Total comprehensive income for the period / year, attributable to: Equity holder of parent Non-Controlling interest Total Paid up share capital Other Equity Earnings per share: {face value f 10 per share)* i) Basic (amount in f) 111 DIiuted amount In fl",
-            "col_3": "36,479.49 sn77",
-            "col_4": "..3 1,932..3.1 r1, n1",
-            "col_5": "30,070..8.5 \"\"'.",
-            "col_6": "68.411 80 •« 1•",
-            "col_7": "55,645.12 .. 4.,.0 ... .,",
-            "col_8": "1..1 8,835.06 ~ -~q t~"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "3• ,g 21,299.52 1,101.26 (380.42) 4,121.07 1,100.52 1,286.53 6,120.54",
-            "col_4": "17,731.64 71111 (230.04) 4,438.83 1,117.05 1,250 96 5,686.06",
-            "col_5": "•n 16,506.69 893.67 (297.55) 4,406.69 997.51 1,129.74 5,324.34",
-            "col_6": "•9 ra 39,031.16 1,812.37 (610.46) 8,559 90 2,217.57 2,537.49 11,806.60",
-            "col_7": "nr 29,351.64 1,424.06 1,225.40 8,445.07 1,951.57 2,220.80 10,089 95",
-            "col_8": ",. 65,350.15 2,771.35 1167 .05 16,450.80 4,083.72 4,594.01 20,960.33"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "34,649.02",
-            "col_4": "30 705.61",
-            "col_5": "28 961.09",
-            "col_6": "65,354.63",
-            "col_7": "54 708.49",
-            "col_8": "115,377.41"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "2 344.24",
-            "col_4": "1 558.71",
-            "col_5": "1 729.27",
-            "col_6": "3,902.95",
-            "col_7": "2 375.56",
-            "col_8": "6 296.81"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "195.87"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "2 344.24",
-            "col_4": "1 558.71",
-            "col_5": "1,729.27",
-            "col_6": "3,902.95",
-            "col_7": "2 375.56",
-            "col_8": "6,100.94"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "798.04 ,.,e,111;.,r.1",
-            "col_4": "772..3.8 ' 7n. 71\\",
-            "col_5": "4,9, 4.69 ....",
-            "col_6": ". 1,570.42 ''\" \"'",
-            "col_7": "751.89 ,s .,",
-            "col_8": ". 2,,.1 4.3, ..7, 2.,"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "•• ,a",
-            "col_4": "",
-            "col_5": "Jlll:tQ 1'1",
-            "col_6": ".......... ,",
-            "col_7": "a•",
-            "col_8": ""
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,801.85",
-            "col_4": "957.10",
-            "col_5": "1110.14",
-            "col_6": "2.758.95",
-            "col_7": "1,497.74",
-            "col_8": "4117.40"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "171.99 (42.92) (12 15)",
-            "col_4": "58.86 (14.72) 7.99",
-            "col_5": "58.84 (14.71) 47.61",
-            "col_6": "230.85 (57.64) (4.16)",
-            "col_7": "115.77 (28.94) 16.47",
-            "col_8": "785.23 (196.29) 132.57"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "116.92",
-            "col_4": "52.13",
-            "col_5": "91.74",
-            "col_6": "169.05",
-            "col_7": "103.30",
-            "col_8": "721.51"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,918.77",
-            "col_4": "1 009.23",
-            "col_5": "1 201.88",
-            "col_6": "2,928.00",
-            "col_7": "1 601.04",
-            "col_8": "4,838.91"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,823.19 (21.34)",
-            "col_4": "1,020.33 163.231",
-            "col_5": "1,104 25 5.89",
-            "col_6": "2,843.52 184.57)",
-            "col_7": "1,578.18 180.441",
-            "col_8": "4,357.36 (239.961"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1 801.85",
-            "col_4": "957.10",
-            "col_5": "1 110.14",
-            "col_6": "2,758.95",
-            "col_7": "1 497.74",
-            "col_8": "4 117.40"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "99.86 17.06",
-            "col_4": "51.15 0.98",
-            "col_5": "92.77 ,1,03)",
-            "col_6": "151.01 18.04",
-            "col_7": "112.98 9.681",
-            "col_8": "534.25 187.26"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "116.92",
-            "col_4": "52,13",
-            "col_5": "91.74",
-            "col_6": "169.05",
-            "col_7": "10].]0",
-            "col_8": "721.51"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,923.05 (4.28)",
-            "col_4": "1,071.48 162.25)",
-            "col_5": "1,197.02 4.86",
-            "col_6": "2,994.53 66.53",
-            "col_7": "1,691.16 (90.121",
-            "col_8": "4,891.61 (52.701"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1918.77",
-            "col_4": "1 009.23",
-            "col_5": "1,201.88",
-            "col_6": "2 928.00",
-            "col_7": "1 601.04",
-            "col_8": "4 838,91"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "45,421.56 0.47 0.46",
-            "col_4": "35,928.75 0.27 0.27",
-            "col_5": "35,833.60 0.29 0.29",
-            "col_6": "45,421.56 0.74 0.73",
-            "col_7": "45,421.56 0.42 0.41",
-            "col_8": "35,833.60 48,101.34 1.15 1.14"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "S.no": "1",
-            "Particulars": "Repayment/prepayment/redemption in full or ,n part, of certain outstanding borrowings availed by our Ir",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "19,000",
-            "col_4": "18,984",
-            "Unutillsed as on September 30, 2026": "16"
-          },
-          {
-            "S.no": "2",
-            "Particulars": "capital expenditure of our Company through purchase of equipment required for expansion In capacity of our Gautam Buddha Nagar, Uttar Pradesh facllltv",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "20,000",
-            "col_4": "-",
-            "Unutillsed as on September 30, 2026": "20,000"
-          },
-          {
-            "S.no": "3",
-            "Particulars": "Funding Inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "17,199",
-            "col_4": "2,700",
-            "Unutillsed as on September 30, 2026": "14,499"
-          },
-          {
-            "S.no": "",
-            "Particulars": "Total",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "56,199",
-            "col_4": "21,684",
-            "Unutillsed as on September 30, 2026": "34,515"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "c01ecb89-9cfb-4513-a92d-f629b2f2fb2e",
-    "SCRIP_CD": 544346,
-    "XML_NAME": "ANN_544346_C01ECB89-9CFB-4513-A92D-F629B2F2FB2E",
-    "NEWSSUB": "RDB Real Estate Constructions Ltd - 544346 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-    "DT_TM": "2026-11-14T23:18:28.567",
-    "NEWS_DT": "2026-11-14T23:18:28.567",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "42f3e780-0020-48c0-9a99-1e3556fae05d.pdf",
-    "MORE": "Pursuant to Regulation 32(6) of SEBI(LODR), 2015 read with Regulation 162A of SEBI (ICDR) Regulation 2018, we have enclosed herewith the Monitoring Agency Report for the quarter and half year ended on 30.09.2026",
-    "HEADLINE": "Pursuant to Regulation 32(6) of SEBI(LODR), 2015 read with Regulation 162A of SEBI (ICDR) Regulation 2018, we have enclosed herewith the Monitoring Agency Report for the quarter and half ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rdb-real-estate-constructions-ltd/rrecl/544346/",
-    "SLONGNAME": "RDB Real Estate Constructions Ltd",
-    "AGENDA_ID": 135,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:18:28",
-    "DissemDT": "2026-11-14T23:18:28.567",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 532245,
-    "SUBCATNAME": "Monitoring Agency Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "col_3": "",
-            "Total Number of Securities ^": "",
-            "Price (₹) #": "",
-            "col_6": "",
-            "Value as per": "Offer Document",
-            "col_8": "",
-            "col_9": "",
-            "Amount": "Received",
-            "col_11": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "",
-            "col_3": "",
-            "Total Number of Securities ^": "",
-            "Price (₹) #": "",
-            "col_6": "",
-            "Value as per": "(₹ Crore) #",
-            "col_8": "",
-            "col_9": "",
-            "Amount": "(₹ Crore) *",
-            "col_11": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "Preferential Allotment of",
-            "col_3": "",
-            "Total Number of Securities ^": "17830000",
-            "Price (₹) #": "87.15",
-            "col_6": "155.39",
-            "Value as per": "155.39",
-            "col_8": "",
-            "col_9": "97.84",
-            "Amount": "97.84",
-            "col_11": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "warrants",
-            "col_3": "",
-            "Total Number of Securities ^": "",
-            "Price (₹) #": "",
-            "col_6": "",
-            "Value as per": "",
-            "col_8": "",
-            "col_9": "",
-            "Amount": "",
-            "col_11": ""
-          },
-          {
-            "Particulars": "Total",
-            "col_2": "",
-            "col_3": "",
-            "Total Number of Securities ^": "17830000",
-            "Price (₹) #": "87.15",
-            "col_6": "155.39",
-            "Value as per": "",
-            "col_8": "",
-            "col_9": "97.84",
-            "Amount": "",
-            "col_11": ""
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 22,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "As at beginning of the quarter in ₹ Crore",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "During the quarter in ₹ Crore",
-            "col_10": "At the end of the quarter in ₹ Crore",
-            "col_11": "",
-            "Total": "Unutilised",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "amount in ₹",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "Crore as on",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "30th",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "September",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "2026",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "(C)",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "A-B ^",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "1.",
-            "Item Head": "For repayment of existing debt of the company and/or its subsidiary companies",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "Bank Statements, Company’s letter, CA Certificate, Comfort letter",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "83.37",
-            "col_7": "63.90",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "0.00",
-            "col_10": "63.90",
-            "col_11": "19.47",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": "Nil"
-          },
-          {
-            "Sr. No.": "2.",
-            "Item Head": "For funding the capital expenditure requirements of the company by purchase of land",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Bank",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "36.00",
-            "col_7": "0.00",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "0.00",
-            "col_10": "0.00",
-            "col_11": "36.00",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": "Nil"
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Statements,",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Company’s",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "letter, Invoices,",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "CA Certificate,",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Comfort letter",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "3.",
-            "Item Head": "General corporate purpose",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "Bank Statements, Company’s letter, Invoices, CA Certificate, Comfort letter",
-            "col_4": "",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "36.02",
-            "col_7": "33.94",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "0.00",
-            "col_10": "33.94",
-            "col_11": "2.08",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": "Nil"
-          },
-          {
-            "Sr. No.": "4.",
-            "Item Head": "Any other purpose approved by board",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Bank",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "-",
-            "col_7": "-",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "-",
-            "col_10": "-",
-            "col_11": "-",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": "-"
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Statements,",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Company’s",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "letter, Invoices,",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "CA Certificate,",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/ certifications considered by Monitoring Agency for preparation of report": "",
-            "col_4": "Comfort letter",
-            "col_5": "",
-            "Amount as proposed in the Offer Document in ₹ Crore (A)": "",
-            "col_7": "",
-            "Amount utilized in ₹ Crore (B)": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "Total": "",
-            "col_13": "",
-            "Comments of the Monitoring Agency": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b8ae6458-4a85-4ff4-8fa9-4f15c944b755",
-    "SCRIP_CD": 544936,
-    "XML_NAME": "ANN_544936_B8AE6458-4A85-4FF4-8FA9-4F15C944B755",
-    "NEWSSUB": "Hero Motors Ltd - 544936 - Financial Results For The Quarter/Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-14T23:18:19.14",
-    "NEWS_DT": "2026-11-14T23:18:19.14",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "24fa1d42-6ae3-4ce1-9fb0-c470a5ee128c.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed herewith the attached Financial Results for the quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hero-motors-ltd/heromotors/544936/",
-    "SLONGNAME": "Hero Motors Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:18:19",
-    "DissemDT": "2026-11-14T23:18:19.14",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 7407544,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "31811.92",
-      "total_assets": "161207.79",
-      "total_equity": "113987.55",
-      "total_debt": "422.83",
-      "dividend": "1213.79",
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "September 30, 2026",
-            "col_4": "June 30, 2026",
-            "col_5": "September 30, 2025",
-            "' Half Year Ended": "September 30,2026",
-            "col_7": "September 30,2025",
-            "Year Ended·": "March 31, 2026"
-          },
-          {
-            "Sr No. Particulars": "l II III IV V VI VII VIII IX X XI XII XIII",
-            "col_2": "Income (a) Revenue from operations (b) other income Total income (a+b) Expenses (a) Cost of materials consumed (b) Changes In Inventories of finished goods, work in progress and stock in trade (c) Employee benefit expenses ( d) Finance costs (e) Depreciation and amortization expense (f) Other expenses Total expenses (a+b+c+d+e+f) Profit before exceptional items and tax (II-III) Exceptional Items Statutory Impact of new Labour Codes (Refer note 4) Profit before tax (IV-V) Tax expense: (a) Current tax ( b) Deferred tax Total tax expense (a+b) Profit for the period / year (VI-VII) Other comprehensive income (i) Items that will not be reclassified to profit or loss (a) Re-measurement gains/ (losses) on defined benefit plans (b) Income tax on items that will not be reclassified to profit or loss Other comprehensive income for the period / year, net of tax Total comprehensive income for the period / year, net of tax Paid up share capital Other Equity Earnings per share: (face value t 10 per share) * i) Basic (amount In ?} ii) Diluted (amount in fl",
-            "Quarter Ended": "Unaudited",
-            "col_4": "Unaudited Unaudited ( Refer Note 5)",
-            "col_5": "",
-            "' Half Year Ended": "Unaudited",
-            "col_7": "Unaudited (Refer Note 5)",
-            "Year Ended·": "Audited"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "31,811.92 511.09",
-            "col_4": "27,819.65 372.98",
-            "col_5": "25,109.06 519.04",
-            "' Half Year Ended": "59,631.57 884.07",
-            "col_7": "46,555.98 1,065.04",
-            "Year Ended·": "1,00, 775.21 2,678.44"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "32 323.01",
-            "col_4": "28,192.63",
-            "col_5": "25.628.10",
-            "' Half Year Ended": "60.515.64",
-            "col_7": "47 621.02",
-            "Year Ended·": "103,453.65"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "19,955.16 283.92 2,289.62 813.37 655.14 5,124.84",
-            "col_4": "16,747 71 (114.57) 2,346.77 803.48 621.47 4,671.85",
-            "col_5": "15,622.79 (301.77) 2,495.25 766.54 542.18 4,362.38",
-            "' Half Year Ended": "36,702.87 169.35 4,636.39 1,616.85 1,276.61 9,796.70",
-            "col_7": "27,598.90 1,385.73 4,610.31 1,497 62 1,070.85 8,166.68",
-            "Year Ended·": "61,793.06 1,538.16 8,797.26 3,099.06 2,246.14 17,004.90"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "29 122.05",
-            "col_4": "25 076.71",
-            "col_5": "23 487.37",
-            "' Half Year Ended": "54 198,77",
-            "col_7": "44 330.09",
-            "Year Ended·": "94,478.58"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "3 200.96",
-            "col_4": "3 115.92",
-            "col_5": "2 140.73",
-            "' Half Year Ended": "6 316.87",
-            "col_7": "3 290.93",
-            "Year Ended·": "8 975.07"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "",
-            "' Half Year Ended": "-",
-            "col_7": ".",
-            "Year Ended·": "195.88"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "3 200.96",
-            "col_4": "3 115.92",
-            "col_5": "2 140.73",
-            "' Half Year Ended": "6 316.87",
-            "col_7": "3,290.93",
-            "Year Ended·": "8 779.19"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "737.09 89.08",
-            "col_4": "725.37 50.07",
-            "col_5": "451.32 93.40",
-            "' Half Year Ended": "1,462.46 139.16",
-            "col_7": "666.15 158.17",
-            "Year Ended·": "1,918.75 298.88"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "826.17",
-            "col_4": "775.44",
-            "col_5": "544,72",
-            "' Half Year Ended": "1 601.62",
-            "col_7": "824.32",
-            "Year Ended·": "2 217.63"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "2 374.79",
-            "col_4": "2 'Ll0 .. t8",
-            "col_5": "1 596.01",
-            "' Half Year Ended": "4 715.25",
-            "col_7": "2 466,61",
-            "Year Ended·": "6 561.56"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "(62.47) 15.73",
-            "col_4": "54.98 (13.84)",
-            "col_5": "54.98 (13.84)",
-            "' Half Year Ended": "(7.49) 1.89",
-            "col_7": "109.96 (27.68)",
-            "Year Ended·": "219.92 (55.35)"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "146,74",
-            "col_4": "41.14",
-            "col_5": "41.14",
-            "' Half Year Ended": "(5.60)",
-            "col_7": "82.28",
-            "Year Ended·": "164.57"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "2 328.05",
-            "col_4": "2 381.62",
-            "col_5": "1 637.15",
-            "' Half Year Ended": "4,709.65",
-            "col_7": "2 548.89",
-            "Year Ended·": "6 726,13"
-          },
-          {
-            "Sr No. Particulars": "",
-            "col_2": "",
-            "Quarter Ended": "45,421.56 0.61 0.60",
-            "col_4": "35,928.75 0.62 0.61",
-            "col_5": "35,833.60 0.42 0.42",
-            "' Half Year Ended": "45,421.56 1.23 1.21",
-            "col_7": "35,833.60 0.65 0.64",
-            "Year Ended·": "35,833.60 15,835.00 1.73 1.71"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "col_1": "",
-            "As at September 30, 2026": "Unaudited",
-            "As at March 31, 2026": "Audite<f"
-          },
-          {
-            "col_1": "Non-current assets (a) Property, plant and equipment (b) Right of use assets ( c) Capital work in progress (d) Intangible assets (e) Financial assets (i) Investments (i1) Loans (iii) Other financial assets (f) Non current tax asset (Net) (g) Other-non current assets Total Non-current assets Current assets (a) Inventories (b) Financial assets (i) Investments (Ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank balances other than (ill) above (v) Loans (vi) Other financial assets (c) Other current assets Total current assets Total assets Equity (a) Equity share capital (b) other equity Total Equity Liabilities Non-current liabilities (a) Financial liabilities (I) Borrowings (ii) Lease liabilities (iii) Others financial liabilities (b) Provisions (c) Deferred tax liabilities (net) Total Non-current liabilities Current liabilities (a) Financial liabilities (i) Borrowings (ii) Lease liabilities (iii) Trade payables -Total outstanding dues of micro and small enterprises -Total outstanding dues of creditors other than micro and small enterprises (iv) Other financial liabilities (b) Other current liabilities ( c) Provisions (d) Current tax liabilities Total current liabilities Total eauitv and liabilities",
-            "As at September 30, 2026": "36,638.61 34,929.24 556.39 600.32 5,424.96 4,637.51 212.56 250.18 14,367.62 12,882.86 5,709.47 7,202.03 12,579.36 362.12 - 489.39 566.50 526.77",
-            "As at March 31, 2026": ""
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "76,055.47",
-            "As at March 31, 2026": "61,880.42"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "16,290.32 238.72 25,600.39 3,419.33 22,345.00 5,282.25 9,560.31 2,416.00",
-            "As at March 31, 2026": "14,757.41 230.98 22,948.50 1,170.52 2,000.00 2,059.08 4,013.47 4,190.10"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "85,152.32",
-            "As at March 31, 2026": "51,370.06"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "1,61,207.79",
-            "As at March 31, 2026": "1,13,250.48"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "45,421.56 68,565.99",
-            "As at March 31, 2026": "35,833.60 15,835.00"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "1,13,987.55",
-            "As at March 31, 2026": "51,668.60"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "422.83 637.72 0.55 2,270.63 1,811.39",
-            "As at March 31, 2026": "6,955.82 679.00 1.15 2,153.56 1,674.13"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "5,143.12",
-            "As at March 31, 2026": "11,463.66"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "10,636.53 64.56 2,851.04 10,604.97 16,820.39 366.30 276.63 456.70",
-            "As at March 31, 2026": "22,177.10 52.51 2,236.87 9,130.76 15,681.91 546.24 292.83 -"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "42,077.12",
-            "As at March 31, 2026": "50 118.22"
-          },
-          {
-            "col_1": "",
-            "As at September 30, 2026": "1,61,207.79",
-            "As at March 31, 2026": "1,13,250.48"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "S.no": "1",
-            "Particulars": "Repayment/prepayment/redemption In full or in part, of certain outstanding borrowings availed by our Company",
-            "Amount to be utilised as per prospectus": "19,000",
-            "Utilisation upto September 30, 2026": "18,984",
-            "Unutilised as on September 30, 2026": "16"
-          },
-          {
-            "S.no": "2",
-            "Particulars": "Capital expenditure of our Company through purchase of equipment required for expansion in capacity of our Gautam Buddha Nagar, Uttar Pradesh facili!'v",
-            "Amount to be utilised as per prospectus": "20,000",
-            "Utilisation upto September 30, 2026": "",
-            "Unutilised as on September 30, 2026": "20,000"
-          },
-          {
-            "S.no": "3",
-            "Particulars": "Funding inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes",
-            "Amount to be utilised as per prospectus": "17,199",
-            "Utilisation upto September 30, 2026": "2,700",
-            "Unutilised as on September 30, 2026": "14,499"
-          },
-          {
-            "S.no": "",
-            "Particulars": "Total",
-            "Amount to be utilised as per prospectus": "56,199",
-            "Utilisation upto September 30, 2026": "21,684",
-            "Unutilised as on September 30, 2026": "34,515"
-          }
-        ]
-      },
-      {
-        "page": 12,
-        "table_index": 0,
-        "row_count": 22,
-        "rows": [
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "S. No",
-            "col_2": "Particulars",
-            "col_3": "",
-            "col_4": "Ouarter Ended",
-            "col_5": "",
-            "col_6": "Half Year Ended",
-            "col_7": "",
-            "col_8": "Year Ended"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "-~-- September 30,",
-            "col_4": "lune 30, 2026",
-            "col_5": "Sept':~~~r 30,",
-            "col_6": "Sept:~~!' 30,",
-            "col_7": "September 30, ,n-..,",
-            "col_8": "March 31, 2026"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Unaudited",
-            "col_5": "Unaudited (Refer Note 5)",
-            "col_6": "Unaudited",
-            "col_7": "Unaudited (Refer Note 5)",
-            "col_8": "Audited"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "I II ill IV V VI VII VIll IX X XI XII XIII XII",
-            "col_2": "~ Revenue from operations Other Income Total Income rI+Il) ~ (a) Cost of materials consumed (b) Purchase of stock-in-trade (c) Change in inventories of finished goods and work-in-progress and stock in trade (d) Employee benefit expenses (e} Finance Cost (f) Depreciation and amortisation (g) Other expenses Total Expenses (a+b+c+d+e+f+g) Profit before exceptional items end before tax (III-IV) Exceptional Items (Refer note 4) Profit before tax Tax Expense Current tax Deferred tax Total Tax ExDenses (VIII) Net Profit for the period / year (VII-VIII) Other Comprehensive Income (OCI) Items that will not be reclanified to profit or loss (i) Items that wlll not be reclassified to profit or loss (a) Re-measurement gains/(losses) on defined benefit plans (b) Income tax effect (i) Items that will be reclassified to profit or loss (a) Exchange differences in translating the financial statements of foreign subsidiaries Total Other Comprehensive Income Total Comprehensive Income for the period / year (JX+X) Profit for the period / year attributable to : Equity holder of parent Non~Controlling interest Total Other comprehensive income for the period / year, attributable to Equity holder of parent Non-Control/Ing interest Total Total comprehensive income for the period / year, attributable to: Equity holder of parent Non-Controlling interest Total Paid up share capital Other Equity Earnings per share: {face value f 10 per share)* i) Basic (amount in f) 111 DIiuted amount In fl",
-            "col_3": "36,479.49 sn77",
-            "col_4": "..3 1,932..3.1 r1, n1",
-            "col_5": "30,070..8.5 \"\"'.",
-            "col_6": "68.411 80 •« 1•",
-            "col_7": "55,645.12 .. 4.,.0 ... .,",
-            "col_8": "1..1 8,835.06 ~ -~q t~"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "3• ,g 21,299.52 1,101.26 (380.42) 4,121.07 1,100.52 1,286.53 6,120.54",
-            "col_4": "17,731.64 71111 (230.04) 4,438.83 1,117.05 1,250 96 5,686.06",
-            "col_5": "•n 16,506.69 893.67 (297.55) 4,406.69 997.51 1,129.74 5,324.34",
-            "col_6": "•9 ra 39,031.16 1,812.37 (610.46) 8,559 90 2,217.57 2,537.49 11,806.60",
-            "col_7": "nr 29,351.64 1,424.06 1,225.40 8,445.07 1,951.57 2,220.80 10,089 95",
-            "col_8": ",. 65,350.15 2,771.35 1167 .05 16,450.80 4,083.72 4,594.01 20,960.33"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "34,649.02",
-            "col_4": "30 705.61",
-            "col_5": "28 961.09",
-            "col_6": "65,354.63",
-            "col_7": "54 708.49",
-            "col_8": "115,377.41"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "2 344.24",
-            "col_4": "1 558.71",
-            "col_5": "1 729.27",
-            "col_6": "3,902.95",
-            "col_7": "2 375.56",
-            "col_8": "6 296.81"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "195.87"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "2 344.24",
-            "col_4": "1 558.71",
-            "col_5": "1,729.27",
-            "col_6": "3,902.95",
-            "col_7": "2 375.56",
-            "col_8": "6,100.94"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "798.04 ,.,e,111;.,r.1",
-            "col_4": "772..3.8 ' 7n. 71\\",
-            "col_5": "4,9, 4.69 ....",
-            "col_6": ". 1,570.42 ''\" \"'",
-            "col_7": "751.89 ,s .,",
-            "col_8": ". 2,,.1 4.3, ..7, 2.,"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "•• ,a",
-            "col_4": "",
-            "col_5": "Jlll:tQ 1'1",
-            "col_6": ".......... ,",
-            "col_7": "a•",
-            "col_8": ""
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,801.85",
-            "col_4": "957.10",
-            "col_5": "1110.14",
-            "col_6": "2.758.95",
-            "col_7": "1,497.74",
-            "col_8": "4117.40"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "171.99 (42.92) (12 15)",
-            "col_4": "58.86 (14.72) 7.99",
-            "col_5": "58.84 (14.71) 47.61",
-            "col_6": "230.85 (57.64) (4.16)",
-            "col_7": "115.77 (28.94) 16.47",
-            "col_8": "785.23 (196.29) 132.57"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "116.92",
-            "col_4": "52.13",
-            "col_5": "91.74",
-            "col_6": "169.05",
-            "col_7": "103.30",
-            "col_8": "721.51"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,918.77",
-            "col_4": "1 009.23",
-            "col_5": "1 201.88",
-            "col_6": "2,928.00",
-            "col_7": "1 601.04",
-            "col_8": "4,838.91"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,823.19 (21.34)",
-            "col_4": "1,020.33 163.231",
-            "col_5": "1,104 25 5.89",
-            "col_6": "2,843.52 184.57)",
-            "col_7": "1,578.18 180.441",
-            "col_8": "4,357.36 (239.961"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1 801.85",
-            "col_4": "957.10",
-            "col_5": "1 110.14",
-            "col_6": "2,758.95",
-            "col_7": "1 497.74",
-            "col_8": "4 117.40"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "99.86 17.06",
-            "col_4": "51.15 0.98",
-            "col_5": "92.77 ,1,03)",
-            "col_6": "151.01 18.04",
-            "col_7": "112.98 9.681",
-            "col_8": "534.25 187.26"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "116.92",
-            "col_4": "52,13",
-            "col_5": "91.74",
-            "col_6": "169.05",
-            "col_7": "10].]0",
-            "col_8": "721.51"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1,923.05 (4.28)",
-            "col_4": "1,071.48 162.25)",
-            "col_5": "1,197.02 4.86",
-            "col_6": "2,994.53 66.53",
-            "col_7": "1,691.16 (90.121",
-            "col_8": "4,891.61 (52.701"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "1918.77",
-            "col_4": "1 009.23",
-            "col_5": "1,201.88",
-            "col_6": "2 928.00",
-            "col_7": "1 601.04",
-            "col_8": "4 838,91"
-          },
-          {
-            "Hero Motors Limited Statement o( Unaudited Consolidated Financial Results for the quarter ;md half year ended September 30, 2026 CIN : U29299PB1998PLC039602 Registered Office: Hero Nagar G. T Road Ludhiana, Punjab 141003,India Corporate Office Max Square Office Level, 7th Floor, Plot No. C3-C,Jaypee Wlshtown, Sect.-,r 129, t-loida, Uttar Pradesh - 201304, lndi3 Tel.· +91 1204412000, Email: investorrelations@heromotors.com, Website: www.he.-omotors.com (Amount in f lakhs, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "45,421.56 0.47 0.46",
-            "col_4": "35,928.75 0.27 0.27",
-            "col_5": "35,833.60 0.29 0.29",
-            "col_6": "45,421.56 0.74 0.73",
-            "col_7": "45,421.56 0.42 0.41",
-            "col_8": "35,833.60 48,101.34 1.15 1.14"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "S.no": "1",
-            "Particulars": "Repayment/prepayment/redemption in full or ,n part, of certain outstanding borrowings availed by our Ir",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "19,000",
-            "col_4": "18,984",
-            "Unutillsed as on September 30, 2026": "16"
-          },
-          {
-            "S.no": "2",
-            "Particulars": "capital expenditure of our Company through purchase of equipment required for expansion In capacity of our Gautam Buddha Nagar, Uttar Pradesh facllltv",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "20,000",
-            "col_4": "-",
-            "Unutillsed as on September 30, 2026": "20,000"
-          },
-          {
-            "S.no": "3",
-            "Particulars": "Funding Inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "17,199",
-            "col_4": "2,700",
-            "Unutillsed as on September 30, 2026": "14,499"
-          },
-          {
-            "S.no": "",
-            "Particulars": "Total",
-            "Amount to be Utilisation upto utilised as per September 30, 2026 orosoectus": "56,199",
-            "col_4": "21,684",
-            "Unutillsed as on September 30, 2026": "34,515"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "1a49c968-26a8-42d9-bebc-fd533d95b9a5",
-    "SCRIP_CD": 505797,
-    "XML_NAME": "ANN_505797_1A49C968-26A8-42D9-BEBC-FD533D95B9A5",
-    "NEWSSUB": "Mipco Seamless Rings Gujarat Ltd - 505797 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-14T23:17:42.947",
-    "NEWS_DT": "2026-11-14T23:17:42.947",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7bca1f26-8caf-4626-9197-a5af7f6bc26a.pdf",
-    "MORE": "We hereby inform the exchange that the Company has published its Un-Audited Financial Results for the quarter and half-year ended 30th September 2026 in the following newspapers:\r\n1. Business Standard (English Language)\r\n2. Mana Telangana (Regional Language)",
-    "HEADLINE": "We hereby inform the exchange that the Company has published its Un-Audited Financial Results for the quarter and half-year ended 30th September 2026 in the following newspapers:\r\n1. Business ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mipco-seamless-rings-gujarat-ltd/mpcosemb/505797/",
-    "SLONGNAME": "Mipco Seamless Rings Gujarat Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:17:42",
-    "DissemDT": "2026-11-14T23:17:42.947",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 20211749,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9dadc80f-8b7e-4793-a1c1-9c485caa52e9",
-    "SCRIP_CD": 531780,
-    "XML_NAME": "ANN_531780_9DADC80F-8B7E-4793-A1C1-9C485CAA52E9",
-    "NEWSSUB": "Kaiser Corporation Ltd - 531780 - Board Meeting Intimation for Intimation About Adjournment Of Board Meeting Pursuant To Regulation 29 Of SEBI (Listing Obligations And Disclosures Requirements) Regulations, 2015.",
-    "DT_TM": "2026-11-14T23:17:26.98",
-    "NEWS_DT": "2026-11-14T23:17:26.98",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e70c86f5-dd5e-4a47-b95d-955fe0899271.pdf",
-    "MORE": "Kaiser Corporation Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/11/2026 ,inter alia, to consider and approve We hereby intimate the Stock Exchange(s) as per the provisions of Regulation 29 of the Securities and Exchange Board of India (listing Obligations and Disclosure Requirements) Regulations 2015, that the Meeting of the Board of Directors of the company held today Saturday, November 14, 2026 and concluded at 23.00 p.m. and will continue on Wednesday, November 18, 2026, to consider and approve and take on record the Unaudited Financial Results of the Company for the quarter and half-year ended September 30, 2026",
-    "HEADLINE": "Kaiser Corporation Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 18/11/2026 ,inter alia, to consider and approve We hereby intimate the Stock ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kaiser-corporation-ltd/kacl/531780/",
-    "SLONGNAME": "Kaiser Corporation Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:17:25",
-    "DissemDT": "2026-11-14T23:17:26.98",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 482901,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f0234789-0387-4d88-ada3-12c01fa4f651",
-    "SCRIP_CD": 511034,
-    "XML_NAME": "ANN_511034_F0234789-0387-4D88-ADA3-12C01FA4F651",
-    "NEWSSUB": "Jindal Drilling & Industries Ltd - 511034 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-14T23:17:11.47",
-    "NEWS_DT": "2026-11-14T23:17:11.47",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e210f191-35a0-4c55-aaf7-40d8493bfede.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication of financial results for the quarter and half year ended 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jindal-drilling--industries-ltd/jindrill/511034/",
-    "SLONGNAME": "Jindal Drilling & Industries Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:17:11",
-    "DissemDT": "2026-11-14T23:17:11.47",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5448593,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "147",
-      "eps": "021",
-      "face_value": "6",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d4000867-6b1b-4f7c-8ae0-2b3a70d51edd",
-    "SCRIP_CD": 531381,
-    "XML_NAME": "ANN_531381_D4000867-6B1B-4F7C-8AE0-2B3A70D51EDD",
-    "NEWSSUB": "Arihant Foundations & Housing Ltd-$ - 531381 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-14T23:16:32.237",
-    "NEWS_DT": "2026-11-14T23:16:32.237",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a63f3317-2342-4cb6-a413-76d6b0d5111d.pdf",
-    "MORE": "",
-    "HEADLINE": "Attached the Press Release for the financial results quarter/half year ended 30.09.2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/arihant-foundations--housing-ltd/arihant/531381/",
-    "SLONGNAME": "Arihant Foundations & Housing Ltd-$",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:16:32",
-    "DissemDT": "2026-11-14T23:16:32.237",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 487889,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "22.92",
-      "operating_profit": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "03563fab-6a4a-4dab-a2e5-bd6718031d21",
-    "SCRIP_CD": 543897,
-    "XML_NAME": "ANN_543897_03563FAB-6A4A-4DAB-A2E5-BD6718031D21",
-    "NEWSSUB": "Sancode Technologies Ltd - 543897 - Financial Results 30.09.2026",
-    "DT_TM": "2026-11-14T23:15:24.06",
-    "NEWS_DT": "2026-11-14T23:15:24.06",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4a3e4d9a-1319-43b2-bb0f-9c3574a76f16.pdf",
-    "MORE": "",
-    "HEADLINE": "Financial Results 30.09.206",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sancode-technologies-ltd/sancode/543897/",
-    "SLONGNAME": "Sancode Technologies Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:15:24",
-    "DissemDT": "2026-11-14T23:15:24.06",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2357865,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "785.70",
-      "operating_profit": "13.10",
-      "total_assets": "793.18",
-      "total_debt": "116.99",
-      "eps": "0",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Sr. No": "",
-            "Particulars": "",
-            "Half Year Ended": "30-Sept-2026 UnAudited",
-            "col_4": "31-Mar-2026 Audited",
-            "col_5": "30-Sep-2025 UnAudited",
-            "Year Ended": "2025-26 Audited"
-          },
-          {
-            "Sr. No": "1",
-            "Particulars": "INCOME a) Revenue from Operations b) Other Income",
-            "Half Year Ended": "785.70 13.02",
-            "col_4": "830.42 9 .28",
-            "col_5": "745.59 1 .44",
-            "Year Ended": "1,576.01 10.72"
-          },
-          {
-            "Sr. No": "",
-            "Particulars": "Total Income",
-            "Half Year Ended": "798.72",
-            "col_4": "839.71",
-            "col_5": "747.03",
-            "Year Ended": "1,586.74"
-          },
-          {
-            "Sr. No": "2",
-            "Particulars": "EXPENDITURE a) Employee Benefit Expense b) Finance Cost c) Depreciation and Amortization Expense d) Other Expenses",
-            "Half Year Ended": "103.44 3 .25 2 .95 671.52",
-            "col_4": "108.53 1 .18 2 .69 651.23",
-            "col_5": "93.60 0 .49 3 .16 674.20",
-            "Year Ended": "2 02.13 1.67 5.84 1,325.43"
-          },
-          {
-            "Sr. No": "",
-            "Particulars": "Total Expenses {Sum of 2 (a) to (d)}",
-            "Half Year Ended": "781.16",
-            "col_4": "763.62",
-            "col_5": "771.45",
-            "Year Ended": "1,535.07"
-          },
-          {
-            "Sr. No": "3",
-            "Particulars": "Profit (+) / Loss (-) before prior items, extra-ordinary items, and tax (1-2)",
-            "Half Year Ended": "17.56",
-            "col_4": "76.09",
-            "col_5": "( 24.42)",
-            "Year Ended": "5 1.67"
-          },
-          {
-            "Sr. No": "4",
-            "Particulars": "Prior Period items",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": ""
-          },
-          {
-            "Sr. No": "5",
-            "Particulars": "Profit (+) / Loss (-) before extra-ordinary items, and tax (3-4)",
-            "Half Year Ended": "17.56",
-            "col_4": "76.09",
-            "col_5": "( 24.42)",
-            "Year Ended": "5 1.67"
-          },
-          {
-            "Sr. No": "6",
-            "Particulars": "Extra ordinary items",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "Sr. No": "7",
-            "Particulars": "Profit (+) / Loss (-) before tax (5-6)",
-            "Half Year Ended": "17.56",
-            "col_4": "76.09",
-            "col_5": "( 24.42)",
-            "Year Ended": "5 1.67"
-          },
-          {
-            "Sr. No": "8",
-            "Particulars": "Tax Expenses",
-            "Half Year Ended": "0 .62",
-            "col_4": "16.77",
-            "col_5": "(13.21)",
-            "Year Ended": "3.57"
-          },
-          {
-            "Sr. No": "9",
-            "Particulars": "Net Profit (+) / Loss (-) after tax (7-8)",
-            "Half Year Ended": "16.94",
-            "col_4": "59.32",
-            "col_5": "( 11.22)",
-            "Year Ended": "4 8.10"
-          },
-          {
-            "Sr. No": "10",
-            "Particulars": "Profit / (loss) attributable to Parent Profit / (loss) attributable to Non Controlling Interest Paid Up Equity Share Capital (Face Value of Rs 10/- each)",
-            "Half Year Ended": "14.15 2 .78 745.56",
-            "col_4": "35.89 23.43 406.89",
-            "col_5": "10.73 (21.95) 406.89",
-            "Year Ended": "46.62 1.48 4 06.89"
-          },
-          {
-            "Sr. No": "11",
-            "Particulars": "Earning Per Share (EPS) a) Basic and Diluted EPS - Total Basic EPS Diluted EPS b) Basic and Diluted EPS - Attributable to Parent Basic EPS Diluted EPS See accompanying notes to the Financial Results",
-            "Half Year Ended": "0 .29 0 .29 0 .24 0 .24",
-            "col_4": "1 .46 1 .38 0 .88 0 .83",
-            "col_5": "(0.28) (0.28) 0 .26 0 .26",
-            "Year Ended": "1.18 1.12 1.15 1.08"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "Name of the Entity",
-            "col_2": "Relationship",
-            "col_3": "Country of Incorporation",
-            "col_4": "% of Holding"
-          },
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "ZNL Management LLP",
-            "col_2": "Subsidiary",
-            "col_3": "India",
-            "col_4": "99.99%"
-          },
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "Zsolt ventures LLC",
-            "col_2": "Wholly owned Subsidiary",
-            "col_3": "United States of America",
-            "col_4": "100%"
-          },
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "Sanfin Technologies Pvt Ltd",
-            "col_2": "Subsidiary",
-            "col_3": "India",
-            "col_4": "51%"
-          },
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "Sancode Semi Pvt Ltd (w.e.f 22 September 2025)",
-            "col_2": "Subsidiary",
-            "col_3": "India",
-            "col_4": "99.99%"
-          },
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "Sancode Electronics Pvt Ltd",
-            "col_2": "Subsidiary",
-            "col_3": "India",
-            "col_4": "99.99%"
-          },
-          {
-            "Notes to Consolidated Financial Results 1) The above Financial Results and Statement of Assets and Liabilities were reviewed by the Audit Committeeand then approved by the Board of Directors at their respective meetings held on November 14, 2026. 2) The Results for the half year ended Septembet 30, 2026 are reviewed by the statutory auditor of the company in compliance with Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 3) These financial results have been prepared in accordance with the recognition and measurement principles of Accounting Standards (\"AS\") prescribed section 133 of the Companies Act 2013 (the \"Act\") read with relevant rules issued thereunder and the other accounting principles generally accepted in India. 4) The Earning Per Share (EPS) has been computed in accordance with the Accounting Standard on Earnings Per Share (AS 20). 5) Sancode Electronics Private Limited is a private limited company incorporated on 15th April 2026 and is a subsidiary of the Company. 6) Sancode Semi Private Limited (“Sancode Semi”), a subsidiary incorporated on 22 September 2025, allotted 4,00,000 equity shares of 7) At the shareholders’ meeting of Sancode Technologies Ltd. held on 19 August 2025, it was approved to allot 11,11,111 convertible warrants at an issue price of ₹54 per warrant, including a premium of ₹44 per warrant. All the warrants were subsequently converted into equity shares on 14 May 2026, upon receipt of the requisite consideration. 8)At the shareholders’ meeting of Sancode Technologies Ltd. held on 25 March 2026, it was approved to allot 23,25,582 convertible warrants at an issue price of ₹172 per warrant, including a premium of ₹162 per warrant. Out of the total warrants allotted, 22,75,582 warrants were converted into equity shares on 22 July 2026 upon receipt of the requisite consideration, while 50,000 warrants remain unconverted. 9) Results of the following entities have been inluded:": "10) Figures of Previous Year / Period have been regrouped/recast wherever necessary, in order to make them comparable. 11) The results for the half year ended Septembet 30, 2026 are available on the Bombay Stock Exchange website (URL: www.bseindia.com) and also on the company's website (URL: www.sancodetech.com). For and on behalf of Board of Directors MIHIR DEEPAK VORA (MANAGING DIRECTOR) MUMBAI, NOVEMBER 14, 2026 (DIN : 08602271)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "Unaudited": "As at September 30, 2026",
-            "Audited": "As at March 31, 2026"
-          },
-          {
-            "Particulars": "EQUITY AND LIABILITIES Shareholders Funds Share Capital Reserves & Surplus Minority Interest Money Received Against Share Warrant Non Current Liabilities Long Term Borrowings Long Term Provisions Current Liabilities Short Term Borrowings Trade Payables Due to Micro and Small Enterprises Due to Others Other Current Liabilities Short Term Provisions",
-            "Unaudited": "745.56 4,529.44 6,336.31 25.41 116.99 3.85 686.47 - 96.81 78.23 3.19",
-            "Audited": "406.89 205.54 - 150.00 84.10 3.85 100.54 - 36.03 46.12 3.23"
-          },
-          {
-            "Particulars": "T O T A L",
-            "Unaudited": "12,622.25",
-            "Audited": "1,036.29"
-          },
-          {
-            "Particulars": "ASSETS Non Current Assets Property, Plant and Equipments and Intangible Assets -Property, Plant and Equipments -Intangible Assets -Capital Work in Progress -Intangible Assets - Goodwill on Consolidation Deferred Tax Assets (Net) Non-current Investments Other Non Current Assets Current Assets Trade Receivables Cash and Cash Equivalents Short Term Loans & Advances Other Current Assets",
-            "Unaudited": "3.21 6.34 472.37 2.53 81.23 139.02 10,005.51 294.67 1,374.28 94.00 149.10",
-            "Audited": "4.08 7.94 - 2.53 81.56 137.10 95.51 39.39 291.30 81.59 295.28"
-          },
-          {
-            "Particulars": "T O T A L",
-            "Unaudited": "12,622.25",
-            "Audited": "1,036.29"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars": "",
-            "For the half year ended Sept 30,": "2026",
-            "For the half year ended Sept 30,_1": "2025"
-          },
-          {
-            "Particulars": "Cash Flow From Operating Activities: Net Profit before tax as per Profit And Loss A/c Adjustments for: Depreciation & Amortisation Expense Finance Cost Interest Income Increase / (decrease) in Foreign Currency Transalation Reserve Operating Profit Before Working Capital Changes Adjusted for (Increase)/ Decrease in: Trade Receivables Short Term Loans and advances Other Current & Non Current Assets Trade Payables Short Term & Long Term Provisions Other Current & Non Current Liabilities Cash Generated From Operations Before Extra-Ordinary Items Cash Generated From Operations Net Income Tax (paid) / refunded",
-            "For the half year ended Sept 30,": "17.56 - 2.95 3.25 ( 12.99) 79.03 89.80 (255.28) ( 12.41) 236.18 60.78 (0.03) 32.11 1 51.15 1 51.15 (0.28)",
-            "For the half year ended Sept 30,_1": "(24.42) - 3.16 0.49 (1.43) 2.22 (19.99) (176.51) ( 14.57) 203.15 38.44 1.08 ( 21.64) 9.97 9.97 -"
-          },
-          {
-            "Particulars": "Net Cash Flow from/(used in) Operating Activities: (A)",
-            "For the half year ended Sept 30,": "150.87",
-            "For the half year ended Sept 30,_1": "9.97"
-          },
-          {
-            "Particulars": "Cash Flow From Investing Activities: Purchase of Fixed Asset (including capital work in progress) Investments (purchased) / redeemed Gain on Derecognition of subsidiary Interest Income Investment in Fixed Deposits with maturity of more than 12 months",
-            "For the half year ended Sept 30,": "(472.85) (1.91) - 12.99 (10,000.00)",
-            "For the half year ended Sept 30,_1": "(1.16) (7.80) - 1.43 -"
-          },
-          {
-            "Particulars": "Net Cash Flow from/(used in) Investing Activities: (B)",
-            "For the half year ended Sept 30,": "(10,461.78)",
-            "For the half year ended Sept 30,_1": "( 7.54)"
-          },
-          {
-            "Particulars": "Cash Flow from Financing Activities: Net Increase/(Decrease) in Share Capital Proceeds from issue of share warrants (net of issue expense) Net Increase/(Decrease) in Short Term Borrowings Net Increase/(Decrease) in Long Term Borrowings Net Increase/(Decrease) in Securities Premium Proceeds from issue of CCPS by subsidiary (Sancode Semi) to outside investors (incl. secu Finance Cost",
-            "For the half year ended Sept 30,": "338.67 (124.59) 585.93 32.89 4 ,165.44 ri t i e s p r e m i u m ) 6 ,398.80 (3.25)",
-            "For the half year ended Sept 30,_1": "- - 1.63 ( 13.00) - - (0.49)"
-          },
-          {
-            "Particulars": "Net Cash Flow from/(used in) Financing Activities ( C)",
-            "For the half year ended Sept 30,": "11,393.88",
-            "For the half year ended Sept 30,_1": "(11.86)"
-          },
-          {
-            "Particulars": "Net Increase/(Decrease) in Cash & Cash Equivalents (A+B+C) Cash & Cash Equivalents As At Beginning of the Year",
-            "For the half year ended Sept 30,": "1 ,082.97 291.30",
-            "For the half year ended Sept 30,_1": "(9.43) 109.75"
-          },
-          {
-            "Particulars": "Cash & Cash Equivalents As At End of the Year",
-            "For the half year ended Sept 30,": "1,374.28",
-            "For the half year ended Sept 30,_1": "100.32"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 0,
-        "row_count": 24,
-        "rows": [
-          {
-            "Particulars": "1. SEGMENT REVENUE",
-            "Technology Advisory Services": "",
-            "Semi Conductor(OSAT)": "",
-            "Others": "",
-            "Eliminations": "",
-            "Consolidated Total": ""
-          },
-          {
-            "Particulars": "External sales",
-            "Technology Advisory Services": "788.70",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "(3.00)",
-            "Consolidated Total": "785.70"
-          },
-          {
-            "Particulars": "Inter-segment sales",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "-"
-          },
-          {
-            "Particulars": "Total revenue",
-            "Technology Advisory Services": "788.70",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "(3.00)",
-            "Consolidated Total": "785.70"
-          },
-          {
-            "Particulars": "2. SEGMENT RESULTS",
-            "Technology Advisory Services": "",
-            "Semi Conductor(OSAT)": "",
-            "Others": "",
-            "Eliminations": "",
-            "Consolidated Total": ""
-          },
-          {
-            "Particulars": "Segment result",
-            "Technology Advisory Services": "13.10",
-            "Semi Conductor(OSAT)": "(5.31)",
-            "Others": "14.56",
-            "Eliminations": "-",
-            "Consolidated Total": "22.35"
-          },
-          {
-            "Particulars": "Less: Unallocated corporate expenses",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "(14.56)",
-            "Eliminations": "-",
-            "Consolidated Total": "(14.56)"
-          },
-          {
-            "Particulars": "Operating profit",
-            "Technology Advisory Services": "13.10",
-            "Semi Conductor(OSAT)": "(5.31)",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "7.79"
-          },
-          {
-            "Particulars": "Interest expense",
-            "Technology Advisory Services": "(17.47)",
-            "Semi Conductor(OSAT)": "(0.91)",
-            "Others": "-",
-            "Eliminations": "15.12",
-            "Consolidated Total": "(3.25)"
-          },
-          {
-            "Particulars": "Interest income",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "28.14",
-            "Eliminations": "(15.12)",
-            "Consolidated Total": "13.02"
-          },
-          {
-            "Particulars": "Income taxes",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "(0.62)",
-            "Eliminations": "-",
-            "Consolidated Total": "(0.62)"
-          },
-          {
-            "Particulars": "Profit from ordinary activities after tax",
-            "Technology Advisory Services": "(4.36)",
-            "Semi Conductor(OSAT)": "(6.22)",
-            "Others": "27.52",
-            "Eliminations": "-",
-            "Consolidated Total": "16.94"
-          },
-          {
-            "Particulars": "Extraordinary items",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "-"
-          },
-          {
-            "Particulars": "Net profit",
-            "Technology Advisory Services": "(4.36)",
-            "Semi Conductor(OSAT)": "(6.22)",
-            "Others": "27.52",
-            "Eliminations": "-",
-            "Consolidated Total": "16.94"
-          },
-          {
-            "Particulars": "3. OTHER INFORMATION",
-            "Technology Advisory Services": "",
-            "Semi Conductor(OSAT)": "",
-            "Others": "",
-            "Eliminations": "",
-            "Consolidated Total": ""
-          },
-          {
-            "Particulars": "Segment assets",
-            "Technology Advisory Services": "793.18",
-            "Semi Conductor(OSAT)": "493.77",
-            "Others": "5,246.27",
-            "Eliminations": "(4,826.92)",
-            "Consolidated Total": "1,706.30"
-          },
-          {
-            "Particulars": "Unallocated corporate assets",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "10,915.95",
-            "Eliminations": "-",
-            "Consolidated Total": "10,915.95"
-          },
-          {
-            "Particulars": "Total assets",
-            "Technology Advisory Services": "793.18",
-            "Semi Conductor(OSAT)": "493.77",
-            "Others": "16,162.22",
-            "Eliminations": "(4,826.92)",
-            "Consolidated Total": "12,622.25"
-          },
-          {
-            "Particulars": "Segment liabilities",
-            "Technology Advisory Services": "365.71",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "941.22",
-            "Eliminations": "(321.38)",
-            "Consolidated Total": "985.54"
-          },
-          {
-            "Particulars": "Unallocated corporate liabilities",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "-"
-          },
-          {
-            "Particulars": "Total liabilities",
-            "Technology Advisory Services": "365.71",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "941.22",
-            "Eliminations": "(321.38)",
-            "Consolidated Total": "985.54"
-          },
-          {
-            "Particulars": "Capital expenditure / additions to fixed assets",
-            "Technology Advisory Services": "0.48",
-            "Semi Conductor(OSAT)": "472.37",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "472.85"
-          },
-          {
-            "Particulars": "Depreciation",
-            "Technology Advisory Services": "2.95",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "2.95"
-          },
-          {
-            "Particulars": "Non-cash expenses other than depreciation",
-            "Technology Advisory Services": "-",
-            "Semi Conductor(OSAT)": "-",
-            "Others": "-",
-            "Eliminations": "-",
-            "Consolidated Total": "-"
-          }
-        ]
-      },
-      {
-        "page": 9,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "4. GEOGRAPHICAL SEGMENTS": "Particulars",
-            "col_2": "India",
-            "col_3": "Outside India",
-            "col_4": "Eliminations",
-            "(₹ In Lakhs)": "Consolidated Total"
-          },
-          {
-            "4. GEOGRAPHICAL SEGMENTS": "Revenue",
-            "col_2": "731.93",
-            "col_3": "56.77",
-            "col_4": "(3.00)",
-            "(₹ In Lakhs)": "785.70"
-          },
-          {
-            "4. GEOGRAPHICAL SEGMENTS": "Profit after tax (PAT)",
-            "col_2": "9.61",
-            "col_3": "7.33",
-            "col_4": "-",
-            "(₹ In Lakhs)": "16.94"
-          },
-          {
-            "4. GEOGRAPHICAL SEGMENTS": "Assets",
-            "col_2": "17,149.25",
-            "col_3": "299.92",
-            "col_4": "(4,826.92)",
-            "(₹ In Lakhs)": "12,622.25"
-          },
-          {
-            "4. GEOGRAPHICAL SEGMENTS": "Liabilities",
-            "col_2": "1,245.21",
-            "col_3": "61.72",
-            "col_4": "(321.38)",
-            "(₹ In Lakhs)": "985.54"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Sr. No": "",
-            "Particulars": "",
-            "Half Year Ended": "30-Sep-2026 Unaudited",
-            "col_4": "31-Mar-2026 Audited",
-            "col_5": "30-Sep-2025 Unaudited",
-            "Year Ended": "2025-26 Audited"
-          },
-          {
-            "Sr. No": "1",
-            "Particulars": "INCOME a)Revenue from Operations b)Other Income",
-            "Half Year Ended": "12.00 22.97",
-            "col_4": "8.75 22.23",
-            "col_5": "32.62 16.41",
-            "Year Ended": "41.37 38.65"
-          },
-          {
-            "Sr. No": "",
-            "Particulars": "Total Income",
-            "Half Year Ended": "34.97",
-            "col_4": "30.98",
-            "col_5": "49.03",
-            "Year Ended": "80.01"
-          },
-          {
-            "Sr. No": "2",
-            "Particulars": "EXPENDITURE a)Employee Benefit Expense b)Finance Cost c)Depreciation and Amortization Expense d)Other Expenses",
-            "Half Year Ended": "17.00 0.04 1.75 11.01",
-            "col_4": "14.65 0.12 1.05 24.97",
-            "col_5": "14.10 0.28 1.00 17.20",
-            "Year Ended": "28.75 0.40 2.05 42.18"
-          },
-          {
-            "Sr. No": "",
-            "Particulars": "Total Expenses {Sum of 2 (a) to (d)}",
-            "Half Year Ended": "29.79",
-            "col_4": "40.79",
-            "col_5": "32.59",
-            "Year Ended": "73.38"
-          },
-          {
-            "Sr. No": "3",
-            "Particulars": "Profit (+) / Loss (-) before prior items, extra-ordinary items, and tax (1-2)",
-            "Half Year Ended": "5.17",
-            "col_4": "( 9.81)",
-            "col_5": "16.44",
-            "Year Ended": "6.63"
-          },
-          {
-            "Sr. No": "4",
-            "Particulars": "Prior Period items",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": ""
-          },
-          {
-            "Sr. No": "5",
-            "Particulars": "Profit (+) / Loss (-) before extra-ordinary items, and tax (3-4)",
-            "Half Year Ended": "5.17",
-            "col_4": "( 9.81)",
-            "col_5": "16.44",
-            "Year Ended": "6.63"
-          },
-          {
-            "Sr. No": "6",
-            "Particulars": "Extra ordinary items",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": "0.00"
-          },
-          {
-            "Sr. No": "7",
-            "Particulars": "Profit (+) / Loss (-) before tax (5-6)",
-            "Half Year Ended": "5.17",
-            "col_4": "( 9.81)",
-            "col_5": "16.44",
-            "Year Ended": "6.63"
-          },
-          {
-            "Sr. No": "8",
-            "Particulars": "Tax Expenses",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": "0.00"
-          },
-          {
-            "Sr. No": "9",
-            "Particulars": "Net Profit (+) / Loss (-) after tax (7-8)",
-            "Half Year Ended": "5.17",
-            "col_4": "( 9.81)",
-            "col_5": "16.44",
-            "Year Ended": "6.63"
-          },
-          {
-            "Sr. No": "10",
-            "Particulars": "Paid Up Equity Share Capital (Face Value of Rs 10/- each)",
-            "Half Year Ended": "745.56",
-            "col_4": "406.89",
-            "col_5": "406.89",
-            "Year Ended": "406.89"
-          },
-          {
-            "Sr. No": "11",
-            "Particulars": "Earning Per Share (EPS) a)Basic EPS b)Diluted EPS See accompanying notes to the Financial Results",
-            "Half Year Ended": "0.09 0.09",
-            "col_4": "(0.24) (0.23)",
-            "col_5": "0.40 0.40",
-            "Year Ended": "0.16 0.15"
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "",
-            "Unaudited": "As at September 30, 2026",
-            "Audited": "As at March 31, 2026"
-          },
-          {
-            "Particulars": "EQUITY AND LIABILITIES Shareholders Funds Share Capital Reserves & Surplus Money received against share warrants Current Liabilities Short Term Borrowings Trade Payables -Due to Micro and Small Enterprises -Due to Others Other Current Liabilities Short Term Provisions",
-            "Unaudited": "745.56 4,513.19 25.41 - - - 16.33 1.92",
-            "Audited": "406.89 342.58 150.00 - - - 10.50 1.92"
-          },
-          {
-            "Particulars": "T O T A L",
-            "Unaudited": "5,302.40",
-            "Audited": "911.89"
-          },
-          {
-            "Particulars": "ASSETS Non Current Assets Property, Plant and Equipments and Intangible Assets -Property, Plant & Equipments -Intangible Assets Deferred Tax Assets (Net) Non-current Investments Other Non Current Assets Current Assets Trade Receivables Cash and Cash Equivalents Short Term Loans & Advances Other Current Assets",
-            "Unaudited": "0.78 4.53 47.45 4,506.33 5.51 42.84 326.89 277.23 90.85",
-            "Audited": "1.07 5.50 47.45 165.35 95.51 30.60 244.35 256.17 65.87"
-          },
-          {
-            "Particulars": "T O T A L",
-            "Unaudited": "5,302.40",
-            "Audited": "911.89"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars": "",
-            "Unaudited": "For the Period ended September 30,2026",
-            "Unaudited_1": "For the period ended September 30, 2025"
-          },
-          {
-            "Particulars": "Cash Flow From Operating Activities: Net Profit before tax as per Profit And Loss A/c Adjustments for: Depreciation & Amortisation Expense Finance Cost Interest Income Foreign Exchange Gain / (Loss) Balance w/off Operating Profit Before Working Capital Changes Adjusted for (Increase)/ Decrease in: Trade Receivables Short Term Loans and advances Other Current & Non Current Assets Short Term Provisions Other Current Liabilities Cash Generated From Operations Before Extra-Ordinary Items Add:- Extra-Ordinary Items Cash Generated From Operations Net Income Tax (paid) / refunded",
-            "Unaudited": "5 .17 1.75 0.04 (22.94) - (0.03) (16.01) (12.24) (21.05) 6 5.03 - 5.85 21.58 - 21.58 -",
-            "Unaudited_1": "16.44 1.00 0.28 ( 16.41) - - 1.31 (1.26) ( 58.37) 32.62 3.24 1.13 (21.33) - (21.33) -"
-          },
-          {
-            "Particulars": "Net Cash Flow from/(used in) Operating Activities: (A)",
-            "Unaudited": "21.58",
-            "Unaudited_1": "(21.33)"
-          },
-          {
-            "Particulars": "Cash Flow From Investing Activities: Purchase of Fixed Asset (including capital work in progress) Investments (purchased) / redeemed Interest Income",
-            "Unaudited": "(0.48) (4,340.98) 2 2.94",
-            "Unaudited_1": "(0.81) - 16.41"
-          },
-          {
-            "Particulars": "Net Cash Flow from/(used in) Investing Activities: (B)",
-            "Unaudited": "( 4,318.52)",
-            "Unaudited_1": "15.60"
-          },
-          {
-            "Particulars": "Cash Flow from Financing Activities: Proceeds from issue of share warrants (net of issue expense) Net Increase/(Decrease) in Securities Premium Proceeds from Issue of Equity Shares Warrant Money Received in Previous Year Finance Cost",
-            "Unaudited": "2 5.41 4,165.44 338.67 (150.00) (0.04)",
-            "Unaudited_1": "- - - (0.28)"
-          },
-          {
-            "Particulars": "Net Cash Flow from/(used in) Financing Activities ( C)",
-            "Unaudited": "4,379.48",
-            "Unaudited_1": "( 0.28)"
-          },
-          {
-            "Particulars": "Net Increase/(Decrease) in Cash & Cash Equivalents (A+B+C) Cash & Cash Equivalents As At Beginning of the Year",
-            "Unaudited": "8 2.54 244.35",
-            "Unaudited_1": "(6.01) 90.38"
-          },
-          {
-            "Particulars": "Cash & Cash Equivalents As At End of the Year",
-            "Unaudited": "326.89",
-            "Unaudited_1": "84.37"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "725cefea-c58b-4532-9f8f-43f8a21d17e2",
-    "SCRIP_CD": 544779,
-    "XML_NAME": "ANN_544779_725CEFEA-C58B-4532-9F8F-43F8A21D17E2",
-    "NEWSSUB": "UHM Vacation Ltd - 544779 - Compliances - Reg 32 Statement Of Deviation And Variation",
-    "DT_TM": "2026-11-14T23:15:16.417",
-    "NEWS_DT": "2026-11-14T23:15:16.417",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "097d8176-181d-4907-ab14-b51facf2f319.pdf",
-    "MORE": "",
-    "HEADLINE": "Regulation 32 - Statement of Deviation and Variation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/uhm-vacation-ltd/uhmvl/544779/",
-    "SLONGNAME": "UHM Vacation Ltd",
-    "AGENDA_ID": 84,
-    "TotalPageCnt": 46,
-    "News_submission_dt": "2026-11-14T23:15:16",
-    "DissemDT": "2026-11-14T23:15:16.417",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 672935,
-    "SUBCATNAME": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr No": "A",
-            "Particulars": "Fixed Deposit:",
-            "Amount (Rs In Lakhs)": ""
-          },
-          {
-            "Sr No": "",
-            "Particulars": "Fixed Deposit With ICICI Bank",
-            "Amount (Rs In Lakhs)": "181.50"
-          },
-          {
-            "Sr No": "",
-            "Particulars": "Fixed Deposit With HDFC Bank",
-            "Amount (Rs In Lakhs)": "535.42"
-          },
-          {
-            "Sr No": "B",
-            "Particulars": "Balance With Escrow A/c:",
-            "Amount (Rs In Lakhs)": ""
-          },
-          {
-            "Sr No": "",
-            "Particulars": "Bank Balance with Kotak Mahindra Bank (Escrow A/c)",
-            "Amount (Rs In Lakhs)": "21.57"
-          },
-          {
-            "Sr No": "C",
-            "Particulars": "Balance With Non Escrow A/c:",
-            "Amount (Rs In Lakhs)": ""
-          },
-          {
-            "Sr No": "",
-            "Particulars": "Bank Balance with ICICI Bank (Current A/c)",
-            "Amount (Rs In Lakhs)": "9.37"
-          },
-          {
-            "Sr No": "",
-            "Particulars": "Bank Balance with HDFC Bank (Current A/c)",
-            "Amount (Rs In Lakhs)": "101.02"
-          },
-          {
-            "Sr No": "Total Fund Available with the Company as on 30-09-2026 (A+B+C)*",
-            "Particulars": "",
-            "Amount (Rs In Lakhs)": "848.87"
           }
         ]
       }
