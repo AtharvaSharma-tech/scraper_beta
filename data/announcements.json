@@ -1,5 +1,1519 @@
 [
   {
+    "NEWSID": "d0e802e4-f09a-40ec-bd65-e447a1411ee8",
+    "SCRIP_CD": 544202,
+    "XML_NAME": "ANN_544202_D0E802E4-F09A-40EC-BD65-E447A1411EE8",
+    "NEWSSUB": "Stanley Lifestyles Ltd - 544202 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-15T19:28:16.997",
+    "NEWS_DT": "2026-11-15T19:28:16.997",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1332f3a1-f89a-40e9-adf3-4872fed776f5.pdf",
+    "MORE": "",
+    "HEADLINE": "Earnings call presentation on the Unaudited Financial Results for Q2 FY 2026-27",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
+    "SLONGNAME": "Stanley Lifestyles Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:28:16",
+    "DissemDT": "2026-11-15T19:28:17",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 4126930,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Earnings Call Announcement:** Stanley Lifestyles Ltd will hold an earnings call on **16 Nov 2026** to discuss its unaudited financial results for the quarter and half‑year ended **30 Sep 2026** (Q2 FY 2026‑27), as required under SEBI Regulation 30.  \n\n- **FY 2026 Highlights (as presented):**  \n  - Reported **EBITDA of ₹41,930 Lakhs** with an **EBITDA margin of",
+    "key_metrics": {
+      "revenue": "1",
+      "net_profit": "293",
+      "operating_profit": "1989",
+      "total_assets": "89052",
+      "total_equity": "47550",
+      "total_debt": "230",
+      "eps": "0.49",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Rs. Lakhs": "Short Term Debt",
+            "FY25": "160",
+            "FY26": "31",
+            "H1 FY27": "474"
+          },
+          {
+            "Rs. Lakhs": "Long term Debt",
+            "FY25": "70",
+            "FY26": "78",
+            "H1 FY27": "62"
+          },
+          {
+            "Rs. Lakhs": "Total Debt",
+            "FY25": "230",
+            "FY26": "109",
+            "H1 FY27": "536"
+          },
+          {
+            "Rs. Lakhs": "(-) Cash & Cash Equivalent",
+            "FY25": "21,592",
+            "FY26": "19,540",
+            "H1 FY27": "17,850"
+          },
+          {
+            "Rs. Lakhs": "Net Debt",
+            "FY25": "(21,362)",
+            "FY26": "(19,431)",
+            "H1 FY27": "(17,314)"
+          },
+          {
+            "Rs. Lakhs": "Total Equity",
+            "FY25": "47,550",
+            "FY26": "47,207",
+            "H1 FY27": "47,760"
+          },
+          {
+            "Rs. Lakhs": "Net Debt/Equity (x)",
+            "FY25": "(0.45)",
+            "FY26": "(0.41)",
+            "H1 FY27": "(0.36)"
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "Rs. Lakhs": "Revenue",
+            "Q2 FY27": "10,706",
+            "Q2 FY26": "10,542",
+            "Y-o-Y (%)": "1.6%",
+            "Q1 FY27": "9,935",
+            "Q-o-Q (%)": "7.8%",
+            "H1 FY27": "20,641",
+            "H1 FY26": "21,409",
+            "Y-o-Y (%)_1": "(3.6%)"
+          },
+          {
+            "Rs. Lakhs": "Cost of Materials Consumed",
+            "Q2 FY27": "4,435",
+            "Q2 FY26": "4,278",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "3,758",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "8,193",
+            "H1 FY26": "8,383",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Purchase of stock in trade",
+            "Q2 FY27": "522",
+            "Q2 FY26": "214",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "452",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "974",
+            "H1 FY26": "594",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Changes in Inventories",
+            "Q2 FY27": "(366)",
+            "Q2 FY26": "(98)",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "12",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "(354)",
+            "H1 FY26": "51",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Employee Cost",
+            "Q2 FY27": "1,719",
+            "Q2 FY26": "1,429",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "1,696",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "3,415",
+            "H1 FY26": "3,016",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Other Expenses",
+            "Q2 FY27": "2,407",
+            "Q2 FY26": "2,237",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "2,295",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "4,702",
+            "H1 FY26": "4,637",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "EBITDA",
+            "Q2 FY27": "1,989",
+            "Q2 FY26": "2,482",
+            "Y-o-Y (%)": "(19.9%)",
+            "Q1 FY27": "1,722",
+            "Q-o-Q (%)": "15.5%",
+            "H1 FY27": "3,711",
+            "H1 FY26": "4,728",
+            "Y-o-Y (%)_1": "(21.5%)"
+          },
+          {
+            "Rs. Lakhs": "Margin",
+            "Q2 FY27": "18.6%",
+            "Q2 FY26": "23.5%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "17.3%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "18.0%",
+            "H1 FY26": "22.1%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Other Income",
+            "Q2 FY27": "527",
+            "Q2 FY26": "510",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "629",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "1,156",
+            "H1 FY26": "974",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Depreciation",
+            "Q2 FY27": "1,504",
+            "Q2 FY26": "1,431",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "1,535",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "3,039",
+            "H1 FY26": "2,611",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Finance Cost",
+            "Q2 FY27": "606",
+            "Q2 FY26": "751",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "568",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "1,174",
+            "H1 FY26": "1,242",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Exceptional Item",
+            "Q2 FY27": "48",
+            "Q2 FY26": "-",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "67",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "115",
+            "H1 FY26": "-",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "PBT",
+            "Q2 FY27": "358",
+            "Q2 FY26": "810",
+            "Y-o-Y (%)": "(55.8%)",
+            "Q1 FY27": "181",
+            "Q-o-Q (%)": "97.8%",
+            "H1 FY27": "539",
+            "H1 FY26": "1,849",
+            "Y-o-Y (%)_1": "(70.8%)"
+          },
+          {
+            "Rs. Lakhs": "Margin",
+            "Q2 FY27": "3.3%",
+            "Q2 FY26": "7.7%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "1.8%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "2.6%",
+            "H1 FY26": "8.6%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Tax",
+            "Q2 FY27": "65",
+            "Q2 FY26": "206",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "116",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "181",
+            "H1 FY26": "467",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "PAT",
+            "Q2 FY27": "293*",
+            "Q2 FY26": "604",
+            "Y-o-Y (%)": "(51.5%)",
+            "Q1 FY27": "65*",
+            "Q-o-Q (%)": "350.8%",
+            "H1 FY27": "358*",
+            "H1 FY26": "1,382",
+            "Y-o-Y (%)_1": "(74.1%)"
+          },
+          {
+            "Rs. Lakhs": "Margin",
+            "Q2 FY27": "2.7%",
+            "Q2 FY26": "5.7%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "0.7%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "1.7%",
+            "H1 FY26": "6.5%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Basic EPS",
+            "Q2 FY27": "0.49",
+            "Q2 FY26": "0.98",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "0.08",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "0.57",
+            "H1 FY26": "2.36",
+            "Y-o-Y (%)_1": ""
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "Assets (Rs. Lakhs)": "Property, Plant and Equipment",
+            "March 2026": "9,246",
+            "September 2026": "12,486"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Capital Work in Progress",
+            "March 2026": "2,422",
+            "September 2026": "48"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Goodwill on Consolidation",
+            "March 2026": "262",
+            "September 2026": "262"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Right of Use Assets",
+            "March 2026": "29,646",
+            "September 2026": "27,586"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Intangible Assets",
+            "March 2026": "4,171",
+            "September 2026": "4,107"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Intangible Assets Under Development",
+            "March 2026": "144",
+            "September 2026": "155"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Financial Assets",
+            "March 2026": "6,664",
+            "September 2026": "5,857"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Other Non Current Assets",
+            "March 2026": "373",
+            "September 2026": "295"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Non Current Assets",
+            "March 2026": "52,928",
+            "September 2026": "50,796"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Inventories",
+            "March 2026": "13,541",
+            "September 2026": "14,482"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Investments",
+            "March 2026": "2,050",
+            "September 2026": "798"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Trade Receivables",
+            "March 2026": "1,055",
+            "September 2026": "1,507"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Cash and Cash Equivalent",
+            "March 2026": "2,426",
+            "September 2026": "4,913"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Bank Balance",
+            "March 2026": "13,821",
+            "September 2026": "12,131"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Other Financial Assets",
+            "March 2026": "1,538",
+            "September 2026": "516"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Other Current Assets",
+            "March 2026": "1,693",
+            "September 2026": "2,621"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Current Assets",
+            "March 2026": "36,124",
+            "September 2026": "36,968"
+          },
+          {
+            "Assets (Rs. Lakhs)": "Total Assets",
+            "March 2026": "89,052",
+            "September 2026": "87,764"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 1,
+        "row_count": 19,
+        "rows": [
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Share Capital",
+            "March 2026": "1,143",
+            "September 2026": "1,143"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Other Equity",
+            "March 2026": "45,467",
+            "September 2026": "45,991"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Non Controlling Interest",
+            "March 2026": "597",
+            "September 2026": "626"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Shareholders Funds",
+            "March 2026": "47,207",
+            "September 2026": "47,760"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Long Term Borrowings",
+            "March 2026": "78",
+            "September 2026": "62"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Lease Liabilities",
+            "March 2026": "27,983",
+            "September 2026": "26,483"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Asset retirement obligations",
+            "March 2026": "722",
+            "September 2026": "571"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Provisions",
+            "March 2026": "289",
+            "September 2026": "159"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Non Current Liabilities",
+            "March 2026": "29,072",
+            "September 2026": "27,275"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Short Term Borrowings",
+            "March 2026": "31",
+            "September 2026": "474"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Lease Liabilities",
+            "March 2026": "2,779",
+            "September 2026": "2,714"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Trade Payables",
+            "March 2026": "4,781",
+            "September 2026": "4,808"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Other Financials Liabilities",
+            "March 2026": "874",
+            "September 2026": "749"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Other Current Liabilities",
+            "March 2026": "3,513",
+            "September 2026": "3,225"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Provisions",
+            "March 2026": "648",
+            "September 2026": "640"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Current Tax Liabilities",
+            "March 2026": "147",
+            "September 2026": "119"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Current Liabilities",
+            "March 2026": "12,773",
+            "September 2026": "12,729"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Total Liabilities",
+            "March 2026": "41,845",
+            "September 2026": "40,004"
+          },
+          {
+            "Equity and Liabilities (Rs. Lakhs)": "Total Equity and Liabilities",
+            "March 2026": "89,052",
+            "September 2026": "87,764"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "82c7ef6c-3ab3-4329-81a2-48e72f97505e",
+    "SCRIP_CD": 532654,
+    "XML_NAME": "ANN_532654_82C7EF6C-3AB3-4329-81A2-48E72F97505E",
+    "NEWSSUB": "Mcleod Russel India Ltd - 532654 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T19:27:45.663",
+    "NEWS_DT": "2026-11-15T19:27:45.663",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d9c6183a-aa67-4a9b-bdb3-33a0f07d7fc7.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication - Statement of Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended 30th September, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mcleod-russel-india-ltd/mcleodruss/532654/",
+    "SLONGNAME": "Mcleod Russel India Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:27:45",
+    "DissemDT": "2026-11-15T19:27:45.663",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7974973,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "6",
+      "total_assets": "0.78",
+      "total_equity": "3565830",
+      "eps": "30",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "73c30b11-b696-4689-b688-9dfea3d7f9cf",
+    "SCRIP_CD": 500143,
+    "XML_NAME": "ANN_500143_73C30B11-B696-4689-B688-9DFEA3D7F9CF",
+    "NEWSSUB": "PH Capital Ltd - 500143 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T19:23:51.067",
+    "NEWS_DT": "2026-11-15T19:23:51.067",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a78afe72-b18c-4c06-8699-7afd7606158b.pdf",
+    "MORE": "",
+    "HEADLINE": "Extract of Unaudited Standalone Financial results for the quarter and six months ended September 30, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ph-capital-ltd/phcap/500143/",
+    "SLONGNAME": "PH Capital Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:23:51",
+    "DissemDT": "2026-11-15T19:23:51.067",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 913526,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company (AHB Capital Limited, formerly P H Capital Ltd) submitted to BSE a copy of its newspaper advertisement, published on 15 Nov 2026 in *Financial Express* and *Mumbai Lakshadweep*, announcing the unaudited financial results for the quarter and half‑year ended 30 Sept 2026.  \n- No specific financial figures, earnings numbers, or other quantitative details are disclosed in the announcement itself.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4e0bec54-01c5-4d6c-9033-e8c6cb885560",
+    "SCRIP_CD": 530199,
+    "XML_NAME": "ANN_530199_4E0BEC54-01C5-4D6C-9033-E8C6CB885560",
+    "NEWSSUB": "Themis Medicare Ltd - 530199 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-15T19:22:09.127",
+    "NEWS_DT": "2026-11-15T19:22:09.127",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a3a7ce32-de64-491d-9636-bff36e570908.pdf",
+    "MORE": "",
+    "HEADLINE": "Please refer to the attachment",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/themis-medicare-ltd/themismed/530199/",
+    "SLONGNAME": "Themis Medicare Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:22:09",
+    "DissemDT": "2026-11-15T19:22:09.127",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1744582,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "7.06 crore",
+      "operating_profit": "5.58 crore",
+      "total_assets": "612.39",
+      "total_equity": "612.39",
+      "total_debt": "56.19",
+      "eps": "2.67",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 8,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Particulars (Rs.Cr.)": "Net Revenue",
+            "Q2 FY27": "89.74",
+            "Q2 FY26": "77.99",
+            "Y-o-Y (%)": "15.1%",
+            "Q1 FY27": "86.96"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Costof MaterialConsumed",
+            "Q2 FY27": "18.16",
+            "Q2 FY26": "16.11",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "17.63"
+          },
+          {
+            "Particulars (Rs.Cr.)": "PurchaseofSIT",
+            "Q2 FY27": "22.16",
+            "Q2 FY26": "18.23",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "49.81"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Changes inInventory",
+            "Q2 FY27": "(4.30)",
+            "Q2 FY26": "(10.19)",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "(9.46)"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Employee Expenses",
+            "Q2 FY27": "20.89",
+            "Q2 FY26": "24.93",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "22.18"
+          },
+          {
+            "Particulars (Rs.Cr.)": "OtherExpenses",
+            "Q2 FY27": "27.26",
+            "Q2 FY26": "32.01",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "59.21"
+          },
+          {
+            "Particulars (Rs.Cr.)": "TotalExpenditure",
+            "Q2 FY27": "84.17",
+            "Q2 FY26": "81.08",
+            "Y-o-Y (%)": "3.8%",
+            "Q1 FY27": "139.38"
+          },
+          {
+            "Particulars (Rs.Cr.)": "EBITDA",
+            "Q2 FY27": "5.58",
+            "Q2 FY26": "(3.09)",
+            "Y-o-Y (%)": "280.6%",
+            "Q1 FY27": "(52.42)"
+          },
+          {
+            "Particulars (Rs.Cr.)": "EBITDA Margin",
+            "Q2 FY27": "6.22%",
+            "Q2 FY26": "(3.96%)",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "(60.28%)"
+          },
+          {
+            "Particulars (Rs.Cr.)": "OtherIncome",
+            "Q2 FY27": "4.14",
+            "Q2 FY26": "3.24",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "0.99"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Depreciation",
+            "Q2 FY27": "2.56",
+            "Q2 FY26": "2.57",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "2.54"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Interest / Finance Cost",
+            "Q2 FY27": "2.11",
+            "Q2 FY26": "2.76",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "2.98"
+          },
+          {
+            "Particulars (Rs.Cr.)": "ShareofP/L of Associates & JV",
+            "Q2 FY27": "3.17",
+            "Q2 FY26": "1.74",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "2.59"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Impact of Labour Cost",
+            "Q2 FY27": "0.00",
+            "Q2 FY26": "0.00",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "0.00"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Profit on Sale of Shares",
+            "Q2 FY27": "0.00",
+            "Q2 FY26": "0.00",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "92.95"
+          },
+          {
+            "Particulars (Rs.Cr.)": "PBT",
+            "Q2 FY27": "8.22",
+            "Q2 FY26": "(3.45)",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "38.60"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Tax",
+            "Q2 FY27": "1.16",
+            "Q2 FY26": "0.16",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "13.99"
+          },
+          {
+            "Particulars (Rs.Cr.)": "PAT",
+            "Q2 FY27": "7.06",
+            "Q2 FY26": "(3.62)",
+            "Y-o-Y (%)": "295.0%",
+            "Q1 FY27": "24.61"
+          },
+          {
+            "Particulars (Rs.Cr.)": "PAT Margin%",
+            "Q2 FY27": "7.86%",
+            "Q2 FY26": "(4.64%)",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "28.30%"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Basic EPSin Rs.",
+            "Q2 FY27": "0.77",
+            "Q2 FY26": "(0.39)",
+            "Y-o-Y (%)": "297.4%",
+            "Q1 FY27": "2.67"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Particulars (Rs.Cr.)": "Net Revenue",
+            "H1 FY27": "176.70",
+            "H1 FY26": "175.57",
+            "Y-o-Y (%)": "0.6%"
+          },
+          {
+            "Particulars (Rs.Cr.)": "Costof MaterialConsumed",
+            "H1 FY27": "35.79",
+            "H1 FY26": "28.54",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "PurchaseofSIT",
+            "H1 FY27": "71.97",
+            "H1 FY26": "39.90",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Changes inInventory",
+            "H1 FY27": "(13.75)",
+            "H1 FY26": "8.10",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Employee Expenses",
+            "H1 FY27": "43.07",
+            "H1 FY26": "49.78",
+            "Y-o-Y (%)": "(13.5%)"
+          },
+          {
+            "Particulars (Rs.Cr.)": "OtherExpenses",
+            "H1 FY27": "86.46",
+            "H1 FY26": "62.42",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "TotalExpenditure",
+            "H1 FY27": "223.54",
+            "H1 FY26": "188.74",
+            "Y-o-Y (%)": "18.4%"
+          },
+          {
+            "Particulars (Rs.Cr.)": "EBITDA",
+            "H1 FY27": "(46.84)",
+            "H1 FY26": "(13.17)",
+            "Y-o-Y (%)": "(255.7%)"
+          },
+          {
+            "Particulars (Rs.Cr.)": "EBITDA Margin",
+            "H1 FY27": "(26.51%)",
+            "H1 FY26": "(7.50%)",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "OtherIncome",
+            "H1 FY27": "5.13",
+            "H1 FY26": "4.41",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Depreciation",
+            "H1 FY27": "5.10",
+            "H1 FY26": "5.13",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Interest / Finance Cost",
+            "H1 FY27": "5.08",
+            "H1 FY26": "5.24",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "ShareofP/L of Associates & JV",
+            "H1 FY27": "5.76",
+            "H1 FY26": "1.60",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Impact of Labour Cost",
+            "H1 FY27": "0.00",
+            "H1 FY26": "0.00",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Profit on Sale of Shares",
+            "H1 FY27": "92.95",
+            "H1 FY26": "0.00",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "PBT",
+            "H1 FY27": "46.81",
+            "H1 FY26": "(17.52)",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Tax",
+            "H1 FY27": "15.14",
+            "H1 FY26": "0.32",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "PAT",
+            "H1 FY27": "31.67",
+            "H1 FY26": "(17.84)",
+            "Y-o-Y (%)": "277.5%"
+          },
+          {
+            "Particulars (Rs.Cr.)": "PAT Margin%",
+            "H1 FY27": "17.92%",
+            "H1 FY26": "(10.16%)",
+            "Y-o-Y (%)": ""
+          },
+          {
+            "Particulars (Rs.Cr.)": "Basic EPSin Rs.",
+            "H1 FY27": "3.44",
+            "H1 FY26": "(1.94)",
+            "Y-o-Y (%)": "277.3%"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Equity & Liabilities": "Shareholders Funds",
+            "As on 30th Sep'26": "425.28",
+            "As on 31st Mar’26": "398.58"
+          },
+          {
+            "Equity & Liabilities": "Share Capital",
+            "As on 30th Sep'26": "9.21",
+            "As on 31st Mar’26": "9.21"
+          },
+          {
+            "Equity & Liabilities": "Other Equity",
+            "As on 30th Sep'26": "416.07",
+            "As on 31st Mar’26": "389.37"
+          },
+          {
+            "Equity & Liabilities": "Non Controlling interest",
+            "As on 30th Sep'26": "0.00",
+            "As on 31st Mar’26": "0.00"
+          },
+          {
+            "Equity & Liabilities": "Non Current Liabilities",
+            "As on 30th Sep'26": "38.22",
+            "As on 31st Mar’26": "33.17"
+          },
+          {
+            "Equity & Liabilities": "Long Term Borrowing",
+            "As on 30th Sep'26": "21.44",
+            "As on 31st Mar’26": "21.86"
+          },
+          {
+            "Equity & Liabilities": "Lease Liabilities",
+            "As on 30th Sep'26": "0.00",
+            "As on 31st Mar’26": "0.00"
+          },
+          {
+            "Equity & Liabilities": "LT Provisions",
+            "As on 30th Sep'26": "1.94",
+            "As on 31st Mar’26": "1.94"
+          },
+          {
+            "Equity & Liabilities": "Deferred Tax Liability(net)",
+            "As on 30th Sep'26": "14.84",
+            "As on 31st Mar’26": "9.37"
+          },
+          {
+            "Equity & Liabilities": "Current Liabilities",
+            "As on 30th Sep'26": "148.90",
+            "As on 31st Mar’26": "166.16"
+          },
+          {
+            "Equity & Liabilities": "Short term Borrowings",
+            "As on 30th Sep'26": "56.19",
+            "As on 31st Mar’26": "78.23"
+          },
+          {
+            "Equity & Liabilities": "Lease Liabilities",
+            "As on 30th Sep'26": "0.00",
+            "As on 31st Mar’26": "0.00"
+          },
+          {
+            "Equity & Liabilities": "Trade Payables",
+            "As on 30th Sep'26": "",
+            "As on 31st Mar’26": ""
+          },
+          {
+            "Equity & Liabilities": "Total outstanding dues of micro and small enterprises",
+            "As on 30th Sep'26": "3.86",
+            "As on 31st Mar’26": "2.85"
+          },
+          {
+            "Equity & Liabilities": "Total outstanding dues of creditors other than micro and small enterprises",
+            "As on 30th Sep'26": "43.58",
+            "As on 31st Mar’26": "47.98"
+          },
+          {
+            "Equity & Liabilities": "Other Financial Liabilities",
+            "As on 30th Sep'26": "36.18",
+            "As on 31st Mar’26": "32.99"
+          },
+          {
+            "Equity & Liabilities": "Other Current Liabilities",
+            "As on 30th Sep'26": "1.23",
+            "As on 31st Mar’26": "0.74"
+          },
+          {
+            "Equity & Liabilities": "Short term Provisions",
+            "As on 30th Sep'26": "4.58",
+            "As on 31st Mar’26": "3.37"
+          },
+          {
+            "Equity & Liabilities": "Current Tax Liabilities (Net)",
+            "As on 30th Sep'26": "3.28",
+            "As on 31st Mar’26": "0.00"
+          },
+          {
+            "Equity & Liabilities": "Total Equity & Liabilities",
+            "As on 30th Sep'26": "612.39",
+            "As on 31st Mar’26": "597.91"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 2,
+        "row_count": 20,
+        "rows": [
+          {
+            "Assets": "Non Current Assets",
+            "As on 30th Sep'26": "296.68",
+            "As on 31st Mar’26": "292.93"
+          },
+          {
+            "Assets": "Plant, Property & Equipment",
+            "As on 30th Sep'26": "163.33",
+            "As on 31st Mar’26": "166.40"
+          },
+          {
+            "Assets": "Capital Work In Progress",
+            "As on 30th Sep'26": "2.49",
+            "As on 31st Mar’26": "2.47"
+          },
+          {
+            "Assets": "Right-of-use Assets",
+            "As on 30th Sep'26": "0.00",
+            "As on 31st Mar’26": "0.00"
+          },
+          {
+            "Assets": "Intangible Assets",
+            "As on 30th Sep'26": "0.06",
+            "As on 31st Mar’26": "0.12"
+          },
+          {
+            "Assets": "Investments",
+            "As on 30th Sep'26": "107.21",
+            "As on 31st Mar’26": "108.50"
+          },
+          {
+            "Assets": "Financial Assets",
+            "As on 30th Sep'26": "",
+            "As on 31st Mar’26": ""
+          },
+          {
+            "Assets": "Investments",
+            "As on 30th Sep'26": "0.32",
+            "As on 31st Mar’26": "0.34"
+          },
+          {
+            "Assets": "Other Financial Assets",
+            "As on 30th Sep'26": "8.81",
+            "As on 31st Mar’26": "1.21"
+          },
+          {
+            "Assets": "Deferred tax Assets (Net)",
+            "As on 30th Sep'26": "0.00",
+            "As on 31st Mar’26": "0.00"
+          },
+          {
+            "Assets": "Other Non-Current Assets",
+            "As on 30th Sep'26": "14.46",
+            "As on 31st Mar’26": "13.90"
+          },
+          {
+            "Assets": "Current Assets",
+            "As on 30th Sep'26": "315.71",
+            "As on 31st Mar’26": "304.98"
+          },
+          {
+            "Assets": "Inventories",
+            "As on 30th Sep'26": "102.92",
+            "As on 31st Mar’26": "81.09"
+          },
+          {
+            "Assets": "Financial Assets",
+            "As on 30th Sep'26": "",
+            "As on 31st Mar’26": ""
+          },
+          {
+            "Assets": "Trade Receivables",
+            "As on 30th Sep'26": "154.95",
+            "As on 31st Mar’26": "178.12"
+          },
+          {
+            "Assets": "Cash & Cash Equivalents",
+            "As on 30th Sep'26": "15.94",
+            "As on 31st Mar’26": "4.54"
+          },
+          {
+            "Assets": "Bank balance other than above",
+            "As on 30th Sep'26": "4.61",
+            "As on 31st Mar’26": "4.61"
+          },
+          {
+            "Assets": "Other Financial Assets",
+            "As on 30th Sep'26": "6.47",
+            "As on 31st Mar’26": "6.41"
+          },
+          {
+            "Assets": "Other Current Assets",
+            "As on 30th Sep'26": "30.83",
+            "As on 31st Mar’26": "30.21"
+          },
+          {
+            "Assets": "Total Assets",
+            "As on 30th Sep'26": "612.39",
+            "As on 31st Mar’26": "597.91"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "0afafcac-6bfd-4618-9a78-9abdf2432da4",
+    "SCRIP_CD": 524654,
+    "XML_NAME": "ANN_524654_0AFAFCAC-6BFD-4618-9A78-9ABDF2432DA4",
+    "NEWSSUB": "Natural Capsules Ltd - 524654 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T19:15:50.647",
+    "NEWS_DT": "2026-11-15T19:15:50.647",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8a03b602-33cf-478e-9fb7-f511e00bc8fc.pdf",
+    "MORE": "",
+    "HEADLINE": "Unaudited Financial Results for Quarter and Half Yearly ended September 20, 2026, has been published in Business Line (English Newspaper) and Sanjevani (Kannada Newspaper).",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/natural-capsules-ltd/natcapsuq/524654/",
+    "SLONGNAME": "Natural Capsules Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:15:50",
+    "DissemDT": "2026-11-15T19:15:50.647",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2431133,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "24.60",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f9c4a78c-06b4-4fd3-beb6-7b059f7f73b7",
+    "SCRIP_CD": 544202,
+    "XML_NAME": "ANN_544202_F9C4A78C-06B4-4FD3-BEB6-7B059F7F73B7",
+    "NEWSSUB": "Stanley Lifestyles Ltd - 544202 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-15T19:13:02.7",
+    "NEWS_DT": "2026-11-15T19:13:02.7",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c5930d4a-38b1-425a-8dd7-309151b9ce99.pdf",
+    "MORE": "",
+    "HEADLINE": "Earnings call press release for the quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
+    "SLONGNAME": "Stanley Lifestyles Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:13:02",
+    "DissemDT": "2026-11-15T19:13:02.7",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 862647,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "329",
+      "operating_profit": "1989",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Rs. Lakhs": "Revenuefrom Operations",
+            "Q2 FY27": "10,706",
+            "Q2 FY26": "10,542",
+            "Y-o-Y (%)": "1.6%",
+            "Q1 FY27": "9,935",
+            "Q-o-Q (%)": "7.8%",
+            "H1 FY27": "20,641",
+            "H1 FY26": "21,409",
+            "Y-o-Y (%)_1": "(3.6%)"
+          },
+          {
+            "Rs. Lakhs": "EBITDA",
+            "Q2 FY27": "1,989",
+            "Q2 FY26": "2,482",
+            "Y-o-Y (%)": "(19.9%)",
+            "Q1 FY27": "1,722",
+            "Q-o-Q (%)": "15.5%",
+            "H1 FY27": "3,711",
+            "H1 FY26": "4,728",
+            "Y-o-Y (%)_1": "(21.5%)"
+          },
+          {
+            "Rs. Lakhs": "Margin%",
+            "Q2 FY27": "18.6%",
+            "Q2 FY26": "23.5%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "17.3%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "18.0%",
+            "H1 FY26": "22.1%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Adjusted PBT",
+            "Q2 FY27": "406",
+            "Q2 FY26": "810",
+            "Y-o-Y (%)": "(49.9%)",
+            "Q1 FY27": "248",
+            "Q-o-Q (%)": "63.7%",
+            "H1 FY27": "645",
+            "H1 FY26": "1,849",
+            "Y-o-Y (%)_1": "(64.4%)"
+          },
+          {
+            "Rs. Lakhs": "Margin%",
+            "Q2 FY27": "3.8%",
+            "Q2 FY26": "7.7%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "2.5%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "3.2%",
+            "H1 FY26": "8.6%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Adjusted PAT",
+            "Q2 FY27": "329",
+            "Q2 FY26": "604",
+            "Y-o-Y (%)": "(45.5%)",
+            "Q1 FY27": "115",
+            "Q-o-Q (%)": "185.7%",
+            "H1 FY27": "444",
+            "H1 FY26": "1,382",
+            "Y-o-Y (%)_1": "(67.9%)"
+          },
+          {
+            "Rs. Lakhs": "Margin%",
+            "Q2 FY27": "3.1%",
+            "Q2 FY26": "5.7%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "1.2%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "2.2%",
+            "H1 FY26": "6.5%",
+            "Y-o-Y (%)_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "bb88eb1d-3277-4fc5-923e-0053ab1ea7ea",
+    "SCRIP_CD": 541276,
+    "XML_NAME": "ANN_541276_BB88EB1D-3277-4FC5-923E-0053AB1EA7EA",
+    "NEWSSUB": "Hardwyn India Ltd - 541276 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T19:12:11.347",
+    "NEWS_DT": "2026-11-15T19:12:11.347",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b0bc2ae8-fb67-415f-931c-c98258186eca.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication of the Un-audited Financial Results for the quarter ended 30th September 2026 approved by the Board of Directors at their board meeting held on 13th November 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hardwyn-india-ltd/hardwyn/541276/",
+    "SLONGNAME": "Hardwyn India Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:12:11",
+    "DissemDT": "2026-11-15T19:12:11.347",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2362136,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1a6f1e49-d2d1-4ecd-9af1-dc2e6aa00ed5",
+    "SCRIP_CD": 533164,
+    "XML_NAME": "ANN_533164_1A6F1E49-D2D1-4ECD-9AF1-DC2E6AA00ED5",
+    "NEWSSUB": "Texmo Pipes and Products Ltd - 533164 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T19:10:48.643",
+    "NEWS_DT": "2026-11-15T19:10:48.643",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1db8a84b-88d0-4f7d-be92-517204d91ccd.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached newspaper publication of financial results for the period ended 30.09.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/texmo-pipes-and-products-ltd/texmopipes/533164/",
+    "SLONGNAME": "Texmo Pipes and Products Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:10:48",
+    "DissemDT": "2026-11-15T19:10:48.643",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4027547,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e435df1f-ad61-41ab-8da3-7afbae947805",
+    "SCRIP_CD": 544202,
+    "XML_NAME": "ANN_544202_E435DF1F-AD61-41AB-8DA3-7AFBAE947805",
+    "NEWSSUB": "Stanley Lifestyles Ltd - 544202 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-15T19:08:32.357",
+    "NEWS_DT": "2026-11-15T19:08:32.357",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6e123392-42f6-4f54-9cf9-18e24d6a7a65.pdf",
+    "MORE": "",
+    "HEADLINE": "Earnings Call Press Release for the Q2 FY 2026-27",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/stanley-lifestyles-ltd/stanley/544202/",
+    "SLONGNAME": "Stanley Lifestyles Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:08:32",
+    "DissemDT": "2026-11-15T19:08:32.357",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 862647,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "329",
+      "operating_profit": "1989",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Rs. Lakhs": "Revenuefrom Operations",
+            "Q2 FY27": "10,706",
+            "Q2 FY26": "10,542",
+            "Y-o-Y (%)": "1.6%",
+            "Q1 FY27": "9,935",
+            "Q-o-Q (%)": "7.8%",
+            "H1 FY27": "20,641",
+            "H1 FY26": "21,409",
+            "Y-o-Y (%)_1": "(3.6%)"
+          },
+          {
+            "Rs. Lakhs": "EBITDA",
+            "Q2 FY27": "1,989",
+            "Q2 FY26": "2,482",
+            "Y-o-Y (%)": "(19.9%)",
+            "Q1 FY27": "1,722",
+            "Q-o-Q (%)": "15.5%",
+            "H1 FY27": "3,711",
+            "H1 FY26": "4,728",
+            "Y-o-Y (%)_1": "(21.5%)"
+          },
+          {
+            "Rs. Lakhs": "Margin%",
+            "Q2 FY27": "18.6%",
+            "Q2 FY26": "23.5%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "17.3%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "18.0%",
+            "H1 FY26": "22.1%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Adjusted PBT",
+            "Q2 FY27": "406",
+            "Q2 FY26": "810",
+            "Y-o-Y (%)": "(49.9%)",
+            "Q1 FY27": "248",
+            "Q-o-Q (%)": "63.7%",
+            "H1 FY27": "645",
+            "H1 FY26": "1,849",
+            "Y-o-Y (%)_1": "(64.4%)"
+          },
+          {
+            "Rs. Lakhs": "Margin%",
+            "Q2 FY27": "3.8%",
+            "Q2 FY26": "7.7%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "2.5%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "3.2%",
+            "H1 FY26": "8.6%",
+            "Y-o-Y (%)_1": ""
+          },
+          {
+            "Rs. Lakhs": "Adjusted PAT",
+            "Q2 FY27": "329",
+            "Q2 FY26": "604",
+            "Y-o-Y (%)": "(45.5%)",
+            "Q1 FY27": "115",
+            "Q-o-Q (%)": "185.7%",
+            "H1 FY27": "444",
+            "H1 FY26": "1,382",
+            "Y-o-Y (%)_1": "(67.9%)"
+          },
+          {
+            "Rs. Lakhs": "Margin%",
+            "Q2 FY27": "3.1%",
+            "Q2 FY26": "5.7%",
+            "Y-o-Y (%)": "",
+            "Q1 FY27": "1.2%",
+            "Q-o-Q (%)": "",
+            "H1 FY27": "2.2%",
+            "H1 FY26": "6.5%",
+            "Y-o-Y (%)_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "89cbe6cb-32ed-4746-be1e-0477f9ec6e66",
+    "SCRIP_CD": 539402,
+    "XML_NAME": "ANN_539402_89CBE6CB-32ED-4746-BE1E-0477F9EC6E66",
+    "NEWSSUB": "Naksh Precious Metals Ltd - 539402 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-15T19:07:32.427",
+    "NEWS_DT": "2026-11-15T19:07:32.427",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ffa38955-15a7-4e24-9ae8-227ae4dc7293.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Clippings Un - audited Financials Results For the Quarter Ended & Half Year ended September 30 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/naksh-precious-metals-ltd/naksh/539402/",
+    "SLONGNAME": "Naksh Precious Metals Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-15T19:07:32",
+    "DissemDT": "2026-11-15T19:07:32.427",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7414380,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "2947",
+      "eps": "5",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "290d908d-4e94-480e-aad5-1c705ee38791",
     "SCRIP_CD": 512245,
     "XML_NAME": "ANN_512245_290D908D-4E94-480E-AAD5-1C705EE38791",
@@ -6128,937 +7642,6 @@
       "revenue": "4",
       "currency_unit": "₹ in Lakhs"
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "59838321-290c-418d-b6a4-4abe8d9de800",
-    "SCRIP_CD": 532138,
-    "XML_NAME": "ANN_532138_59838321-290C-418D-B6A4-4ABE8D9DE800",
-    "NEWSSUB": "SMC Credits Ltd - 532138 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T12:27:58.013",
-    "NEWS_DT": "2026-11-15T12:27:58.013",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "675413c8-58ed-4075-8797-7d92b34dc5c7.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication regarding Un-audited finacial results for the quarter and half year ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/smc-credits-ltd/smcredt/532138/",
-    "SLONGNAME": "SMC Credits Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T12:27:58",
-    "DissemDT": "2026-11-15T12:27:58.013",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1336687,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Announcement date & purpose:** On 15 Nov 2026, SMC Credits Ltd submitted newspaper advertisements to publish its **unaudited standalone financial results for the quarter and half‑year ended 30 Sept 2026**, complying with SEBI Regulation 47/33 (LODR).  \n\n- **Financial details:** The notice does **not contain any specific monetary figures, earnings numbers, or other financial metrics**—it only confirms that the results will be disclosed via newspaper ads.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1a6ef986-a9df-4ffd-92e5-f027b8dcb3a6",
-    "SCRIP_CD": 544490,
-    "XML_NAME": "ANN_544490_1A6EF986-A9DF-4FFD-92E5-F027B8DCB3A6",
-    "NEWSSUB": "Shreeji Shipping Global Ltd - 544490 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T12:23:09.98",
-    "NEWS_DT": "2026-11-15T12:23:09.98",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f038459a-713f-4d83-9c50-da69196615a0.pdf",
-    "MORE": "Please find enclosed herewith the copy of Newspaper Advertisement published in Financial Express - (in English) and Phulchhab - (in Gujarati) on November 15, 2026 with respect to Publication of Unaudited Financial Results of the Company for the quarter and half year ended September 30, 2026 which were considered, approved and taken on record by the Board of Directors at their meeting held on November 14, 2026",
-    "HEADLINE": "Please find enclosed herewith the copy of Newspaper Advertisement published in Financial Express - (in English) and Phulchhab - (in Gujarati) on November 15, 2026 with respect to Publication ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/shreeji-shipping-global-ltd/shreejispg/544490/",
-    "SLONGNAME": "Shreeji Shipping Global Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T12:23:09",
-    "DissemDT": "2026-11-15T12:23:09.98",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1655454,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval & reporting period** – The Board of Directors approved Shreeji Shipping Global Ltd’s unaudited financial results for the quarter and half‑year ended 30 September 2026 in a meeting held on **14 November 2026**.  \n\n- **Public disclosure** – The company placed newspaper advertisements announcing these unaudited results on **15 November 2026** (Financial Express in English and Phulchhab in Gujarati) and uploaded the results, together with the limited review report, on its website and the BSE/NSE portals.  \n\n*No specific financial figures (e",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d0567a65-2a52-47d7-b73b-87e1c65f99c3",
-    "SCRIP_CD": 535789,
-    "XML_NAME": "ANN_535789_D0567A65-2A52-47D7-B73B-87E1C65F99C3",
-    "NEWSSUB": "Sammaan Capital Ltd - 535789 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-15T12:20:54.82",
-    "NEWS_DT": "2026-11-15T12:20:54.82",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c618de34-27a9-4d07-be16-30d7ef42eb25.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed disclosure under Regulation 30 of SEBI LODR Regulations, w.r.t. Audio recording of conference call - financial results for the quarter and half-year ended September 30, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sammaan-capital-ltd/sammaancap/535789/",
-    "SLONGNAME": "Sammaan Capital Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T12:20:54",
-    "DissemDT": "2026-11-15T12:20:54.82",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 589406,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "d0567a65-2a52-47d7-b73b-87e1c65f99c3",
-    "INVESTOR_PRESENTATION": "4916461a-3220-4002-bf03-027b0639076a.mp4",
-    "RECORDID": 14890167,
-    "DataInsDate": "2026-11-15T12:20:54.783",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/4916461a-3220-4002-bf03-027b0639076a.mp4",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5fc9a2d8-96f8-4931-b51f-c46669af9fb9",
-    "SCRIP_CD": 531609,
-    "XML_NAME": "ANN_531609_5FC9A2D8-96F8-4931-B51F-C46669AF9FB9",
-    "NEWSSUB": "KG Petrochem Ltd - 531609 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T12:20:45.073",
-    "NEWS_DT": "2026-11-15T12:20:45.073",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bd9922eb-4575-44e0-99ba-1276f25cf3ed.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed herewith intimation of Newspaper publication",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kg-petrochem-ltd/kgpetro/531609/",
-    "SLONGNAME": "KG Petrochem Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T12:20:45",
-    "DissemDT": "2026-11-15T12:20:45.073",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2429780,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 2,
-        "row_count": 11,
-        "rows": [
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "S. No.",
-            "col_2": "Particulars",
-            "col_3": "Quarter ended 30/09/2026 Unaudited",
-            "col_4": "Quarter ended 30/06/2026 Unaudited",
-            "col_5": "Quarter ended 30/09/2025 Unaudited",
-            "col_6": "Half Year ended 30/09/2026 Unaudited",
-            "col_7": "Half Year ended 30/09/2025 Unaudited",
-            "col_8": "Year ended 31/03/2026 Audited"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "1",
-            "col_2": "Total Income from Operations",
-            "col_3": "354.30",
-            "col_4": "342.62",
-            "col_5": "774.14",
-            "col_6": "696.92",
-            "col_7": "1487.99",
-            "col_8": "2574.34"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "2",
-            "col_2": "Net Profit / (Loss) for the period (before Tax, Exceptional and/or extraordinary items)",
-            "col_3": "15.32",
-            "col_4": "16.04",
-            "col_5": "38.19",
-            "col_6": "31.36",
-            "col_7": "73.52",
-            "col_8": "126.68"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "3",
-            "col_2": "Net Profit / (Loss) for the period before tax (after Exceptional and/or extraordinary items)",
-            "col_3": "15.32",
-            "col_4": "16.04",
-            "col_5": "38.19",
-            "col_6": "31.36",
-            "col_7": "73.52",
-            "col_8": "126.68"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "4",
-            "col_2": "Net Profit / (Loss) for the period after tax (after Exceptional and/or extraordinary items)",
-            "col_3": "11.50",
-            "col_4": "11.97",
-            "col_5": "28.59",
-            "col_6": "23.47",
-            "col_7": "54.39",
-            "col_8": "90.15"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "5",
-            "col_2": "Total Comprehensive Income for the period [Comprising Profit / (Loss) for the period (after tax) and Other Comprehensive Income (after tax)]",
-            "col_3": "5.34",
-            "col_4": "24.79",
-            "col_5": "28.08",
-            "col_6": "30.11",
-            "col_7": "53.43",
-            "col_8": "58.36"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "6",
-            "col_2": "Equity Share Capital",
-            "col_3": "1335.33",
-            "col_4": "1335.33",
-            "col_5": "1335.33",
-            "col_6": "1335.33",
-            "col_7": "1335.33",
-            "col_8": "1335.33"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "7",
-            "col_2": "Reserves (excluding Revaluation Reserve) as shown in the Audited Balance Sheet of the previous year",
-            "col_3": "--",
-            "col_4": "--",
-            "col_5": "--",
-            "col_6": "--",
-            "col_7": "--",
-            "col_8": "5909.21"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "8",
-            "col_2": "Earnings Per Share (of Rs. 10/- each) (for continuing and discontinued operations) - Basic:",
-            "col_3": "0.10",
-            "col_4": "0.09",
-            "col_5": "0.22",
-            "col_6": "0.18",
-            "col_7": "0.41",
-            "col_8": "0.68"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "",
-            "col_2": "Diluted:",
-            "col_3": "0.10",
-            "col_4": "0.09",
-            "col_5": "0.22",
-            "col_6": "0.18",
-            "col_7": "0.41",
-            "col_8": "0.68"
-          },
-          {
-            "PRITI INTERNATIONAL LIMITED CIN: L36994RJ2017PLC058454 PLOT NO.F-43, BASNI IST PHASE, JODHPUR, RAJASTHAN-342001 INDIA PHONE: 91-291-2435699 Mobile: 91-9314225699 E-MAIL: g.d.lohiya@gmail.com, Website: https://www.pritihome.com Extract of Standalone Financial Results for the quarter and half year ended on 30th September 2026 (Rs. In Lakhs)": "Notes: 1. The above is an extract of the detailed format of Quarterly and Half Yearly Standalone Financial Results filed with the Stock Exchanges under Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. The full format of the Quarterly and Half Yearly Standalone Financial Results are available on the websites of the Stock Exchange at (www.nseindia.com) and website of Priti International Limited at (www.pritihome.com). 2. The unaudited results have been reviewed by the Audit Committee of the Board at their meeting held on November 14, 2026, and approved by the Board of Directors of the Company at their meeting held on November 14, 2026. For PRITI INTERNATIONAL LIMITED Sd/- RITESH LOHIYA Place: JODHPUR Chairman and Managing Director Date: 14th November 2026 DIN: 07787331",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b3525620-a0ea-40c5-8ee7-9b38240a9d20",
-    "SCRIP_CD": 500189,
-    "XML_NAME": "ANN_500189_B3525620-A0EA-40C5-8EE7-9B38240A9D20",
-    "NEWSSUB": "NDL Ventures Ltd - 500189 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T12:11:28.02",
-    "NEWS_DT": "2026-11-15T12:11:28.02",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8db1b119-c744-402c-8f24-5f75195c9cea.pdf",
-    "MORE": "Please find the enclosed Newspaper Cuttings dated November 15,2026 wherein Extracts of Standalone and Consolidated Un-Audited Financial Results of the Company had been published in compliance with Regulation 47 of SEBI LODR Regulations,2015",
-    "HEADLINE": "Please find the enclosed Newspaper Cuttings dated November 15,2026 wherein Extracts of Standalone and Consolidated Un-Audited Financial Results of the Company had been published in compliance ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ndl-ventures-ltd/ndlventure/500189/",
-    "SLONGNAME": "NDL Ventures Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T12:11:28",
-    "DissemDT": "2026-11-15T12:11:28.02",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 9847368,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a189b616-625d-4e51-9b2d-1a18d6791ad0",
-    "SCRIP_CD": 511654,
-    "XML_NAME": "ANN_511654_A189B616-625D-4E51-9B2D-1A18D6791AD0",
-    "NEWSSUB": "Sugal Earthen Spaces Ventures Ltd - 511654 - Newspaper Publication - Un-Audited Financial Results For The Quarter And Half Year Ended 30Th September 2026",
-    "DT_TM": "2026-11-15T11:58:27.197",
-    "NEWS_DT": "2026-11-15T11:58:27.197",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "05f0e3b6-8348-436b-b808-085288af7331.pdf",
-    "MORE": "Pursuant to Regulation 47 of the SEBI(LODR) Regulations, 2025 as amended please find enclosed e-copies of the Newspaper advertisement pertaining to Unaudited Consolidated and Standalone Finanacial Results of the Company for the Quarter Ended 30th September, 2026.",
-    "HEADLINE": "Pursuant to Regulation 47 of the SEBI(LODR) Regulations, 2025 as amended please find enclosed e-copies of the Newspaper advertisement pertaining to Unaudited Consolidated and Standalone ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sugal-earthen-spaces-ventures-ltd/sugalesl/511654/",
-    "SLONGNAME": "Sugal Earthen Spaces Ventures Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T11:58:27",
-    "DissemDT": "2026-11-15T11:58:27.197",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5574011,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The provided text contains no readable financial figures, dates (other than the reporting period ending 30 September 2026), or specific corporate decisions.  \n\n- Consequently, there are no verifiable key numbers or financial details to summarize from this announcement.",
-    "key_metrics": {
-      "total_equity": "2276.11",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 10,
-        "rows": [
-          {
-            "Particulars": "",
-            "Quarter (3 Months) Ended": "30.09.2026",
-            "col_3": "30.06.2026",
-            "col_4": "30.09.2025",
-            "Year to date figures for current quarter ended": "30.09.2026",
-            "Year to date figures for previous year's quarter ended": "30.09.2025",
-            "Year to date figures for previous financial year ended": "31.03.2026"
-          },
-          {
-            "Particulars": "",
-            "Quarter (3 Months) Ended": "(Unaudited)",
-            "col_3": "(Unaudited)",
-            "col_4": "(Unaudited)",
-            "Year to date figures for current quarter ended": "(Unaudited)",
-            "Year to date figures for previous year's quarter ended": "(Unaudited)",
-            "Year to date figures for previous financial year ended": "(Audited)"
-          },
-          {
-            "Particulars": "Total Income from Operations (Net)",
-            "Quarter (3 Months) Ended": "2322.10",
-            "col_3": "1229.90",
-            "col_4": "6030.80",
-            "Year to date figures for current quarter ended": "3552.00",
-            "Year to date figures for previous year's quarter ended": "7955.20",
-            "Year to date figures for previous financial year ended": "15607.50"
-          },
-          {
-            "Particulars": "Net Profit / (Loss) for the period (before Tax, Exceptional and / or Extraordinary Items)",
-            "Quarter (3 Months) Ended": "13.40",
-            "col_3": "2.00",
-            "col_4": "10.80",
-            "Year to date figures for current quarter ended": "15.40",
-            "Year to date figures for previous year's quarter ended": "18.40",
-            "Year to date figures for previous financial year ended": "44.33"
-          },
-          {
-            "Particulars": "Net Profit / (Loss) for the period (before Tax and after Exceptional and / or Extraordinary Items)",
-            "Quarter (3 Months) Ended": "13.40",
-            "col_3": "2.00",
-            "col_4": "10.80",
-            "Year to date figures for current quarter ended": "15.40",
-            "Year to date figures for previous year's quarter ended": "18.40",
-            "Year to date figures for previous financial year ended": "44.33"
-          },
-          {
-            "Particulars": "Net Profit / (Loss) for the period (after Tax and after Exceptional and / or Extraordinary Items)",
-            "Quarter (3 Months) Ended": "13.40",
-            "col_3": "2.00",
-            "col_4": "10.80",
-            "Year to date figures for current quarter ended": "15.40",
-            "Year to date figures for previous year's quarter ended": "18.40",
-            "Year to date figures for previous financial year ended": "42.33"
-          },
-          {
-            "Particulars": "Total Comprehensive Income for the period [Comprising Profit / (Loss) for the period (after tax) and Other Comprehensive Income (after tax)]",
-            "Quarter (3 Months) Ended": "13.40",
-            "col_3": "2.00",
-            "col_4": "10.80",
-            "Year to date figures for current quarter ended": "15.40",
-            "Year to date figures for previous year's quarter ended": "18.40",
-            "Year to date figures for previous financial year ended": "42.33"
-          },
-          {
-            "Particulars": "Equity Share Capital",
-            "Quarter (3 Months) Ended": "340.00",
-            "col_3": "340.00",
-            "col_4": "340.00",
-            "Year to date figures for current quarter ended": "340.00",
-            "Year to date figures for previous year's quarter ended": "340.00",
-            "Year to date figures for previous financial year ended": "340.00"
-          },
-          {
-            "Particulars": "Earnings per Share (before extraordinary items (of Rs.10/- each) for continued and discontinued operations",
-            "Quarter (3 Months) Ended": "",
-            "col_3": "",
-            "col_4": "",
-            "Year to date figures for current quarter ended": "",
-            "Year to date figures for previous year's quarter ended": "",
-            "Year to date figures for previous financial year ended": ""
-          },
-          {
-            "Particulars": "Basic and Diluted",
-            "Quarter (3 Months) Ended": "0.40",
-            "col_3": "0.10",
-            "col_4": "0.30",
-            "Year to date figures for current quarter ended": "0.50",
-            "Year to date figures for previous year's quarter ended": "0.50",
-            "Year to date figures for previous financial year ended": "1.20"
-          }
-        ]
-      },
-      {
-        "page": 2,
-        "table_index": 1,
-        "row_count": 12,
-        "rows": [
-          {
-            "SI. No": "",
-            "Particulars": "",
-            "Consolidated": "Current Quarter Ended",
-            "col_4": "Half Year Ended",
-            "col_5": "Corresponding Quarter Ended",
-            "Standalone": "Current Quarter Ended",
-            "col_7": "Half Year Ended",
-            "col_8": "Corresponding Quarter Ended"
-          },
-          {
-            "SI. No": "",
-            "Particulars": "",
-            "Consolidated": "30.09.2026",
-            "col_4": "30.09.2026",
-            "col_5": "30.09.2025",
-            "Standalone": "30.09.2026",
-            "col_7": "30.09.2026",
-            "col_8": "30.09.2025"
-          },
-          {
-            "SI. No": "1",
-            "Particulars": "Total Income from operations (net)",
-            "Consolidated": "617.93",
-            "col_4": "800.92",
-            "col_5": "617.15",
-            "Standalone": "617.93",
-            "col_7": "800.92",
-            "col_8": "617.15"
-          },
-          {
-            "SI. No": "2",
-            "Particulars": "Net Profit for the period (before tax and Exceptional items)",
-            "Consolidated": "65.40",
-            "col_4": "93.39",
-            "col_5": "172.34",
-            "Standalone": "65.40",
-            "col_7": "93.39",
-            "col_8": "172.34"
-          },
-          {
-            "SI. No": "3",
-            "Particulars": "Net Profit for the period before tax (after Exceptional items)",
-            "Consolidated": "65.40",
-            "col_4": "93.39",
-            "col_5": "172.34",
-            "Standalone": "65.40",
-            "col_7": "93.39",
-            "col_8": "172.34"
-          },
-          {
-            "SI. No": "4",
-            "Particulars": "Net Profit for the period after tax( after Exceptional items)",
-            "Consolidated": "48.40",
-            "col_4": "67.39",
-            "col_5": "131.34",
-            "Standalone": "48.40",
-            "col_7": "67.39",
-            "col_8": "131.34"
-          },
-          {
-            "SI. No": "5",
-            "Particulars": "Total Comprehensive Income for the Period (comprising profit for the period (after tax) and other comprehensive Income (after tax)",
-            "Consolidated": "45.86",
-            "col_4": "133.64",
-            "col_5": "119.22",
-            "Standalone": "45.86",
-            "col_7": "133.64",
-            "col_8": "119.22"
-          },
-          {
-            "SI. No": "6",
-            "Particulars": "Paid-up equity share capital (Face Value Rs. 10/- Each)",
-            "Consolidated": "625.00",
-            "col_4": "625.00",
-            "col_5": "625.00",
-            "Standalone": "625.00",
-            "col_7": "625.00",
-            "col_8": "625.00"
-          },
-          {
-            "SI. No": "7",
-            "Particulars": "Other Equity (as per audited Balance Sheet as at 31st March)",
-            "Consolidated": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Standalone": "-",
-            "col_7": "-",
-            "col_8": "-"
-          },
-          {
-            "SI. No": "8",
-            "Particulars": "Earnings per share (of Rs.10/- each) (for continuing and discontinued operations) (Not Annualised) (Rs.)",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "Standalone": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "SI. No": "",
-            "Particulars": "a) Basic",
-            "Consolidated": "0.77",
-            "col_4": "1.08",
-            "col_5": "2.10",
-            "Standalone": "0.77",
-            "col_7": "1.08",
-            "col_8": "2.10"
-          },
-          {
-            "SI. No": "",
-            "Particulars": "b) Diluted",
-            "Consolidated": "0.77",
-            "col_4": "1.08",
-            "col_5": "2.10",
-            "Standalone": "0.77",
-            "col_7": "1.08",
-            "col_8": "2.10"
-          }
-        ]
-      },
-      {
-        "page": 2,
-        "table_index": 3,
-        "row_count": 21,
-        "rows": [
-          {
-            "Sl. No.": "",
-            "Particulars": "",
-            "Half Year ended": "30.09.2026",
-            "col_4": "31.03.2026",
-            "col_5": "30.09.2025",
-            "Previous Year Ended": "31.03.2026"
-          },
-          {
-            "Sl. No.": "",
-            "Particulars": "",
-            "Half Year ended": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "Previous Year Ended": "Audited"
-          },
-          {
-            "Sl. No.": "1",
-            "Particulars": "Total Income from Operations",
-            "Half Year ended": "38.96",
-            "col_4": "1,490.10",
-            "col_5": "17.73",
-            "Previous Year Ended": "1,507.84"
-          },
-          {
-            "Sl. No.": "2",
-            "Particulars": "Net Profit / (Loss) for the period (before Tax, Exceptional and/or Extraordinary items)",
-            "Half Year ended": "-270.93",
-            "col_4": "1,405.83",
-            "col_5": "-22.78",
-            "Previous Year Ended": "1,383.05"
-          },
-          {
-            "Sl. No.": "3",
-            "Particulars": "Net Profit / (Loss) for the period before tax (after Exceptional and/or Extraordinary items)",
-            "Half Year ended": "-270.93",
-            "col_4": "1,405.83",
-            "col_5": "-22.78",
-            "Previous Year Ended": "1,383.05"
-          },
-          {
-            "Sl. No.": "4",
-            "Particulars": "Net Profit / (Loss) for the period after tax (after Exceptional and/or Extraordinary items)",
-            "Half Year ended": "-215.32",
-            "col_4": "1,146.00",
-            "col_5": "-22.78",
-            "Previous Year Ended": "1,123.22"
-          },
-          {
-            "Sl. No.": "5",
-            "Particulars": "Total Comprehensive Income for the period [Comprising Profit / (Loss) for the period (after tax) and Other Comprehensive Income (after tax)]",
-            "Half Year ended": "-215.32",
-            "col_4": "1,146.00",
-            "col_5": "-22.78",
-            "Previous Year Ended": "1,123.22"
-          },
-          {
-            "Sl. No.": "6",
-            "Particulars": "Equity Share Capital",
-            "Half Year ended": "1,231.00",
-            "col_4": "1,231.00",
-            "col_5": "1,231.00",
-            "Previous Year Ended": "1,231.00"
-          },
-          {
-            "Sl. No.": "7",
-            "Particulars": "Reserves (excluding Revaluation Reserve) as shown in the Audited Balance Sheet",
-            "Half Year ended": "1,045.11",
-            "col_4": "1,260.47",
-            "col_5": "114.47",
-            "Previous Year Ended": "1,260.47"
-          },
-          {
-            "Sl. No.": "8",
-            "Particulars": "Securities Premium Account",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": ""
-          },
-          {
-            "Sl. No.": "9",
-            "Particulars": "Net worth",
-            "Half Year ended": "2,276.11",
-            "col_4": "2,491.47",
-            "col_5": "1,345.47",
-            "Previous Year Ended": "2,491.47"
-          },
-          {
-            "Sl. No.": "10",
-            "Particulars": "Paid up Debt Capital/ Outstanding Debt",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          },
-          {
-            "Sl. No.": "11",
-            "Particulars": "Outstanding Redeemable Preference Shares",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          },
-          {
-            "Sl. No.": "12",
-            "Particulars": "Debt Equity Ratio",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          },
-          {
-            "Sl. No.": "13",
-            "Particulars": "Earnings Per Share (of Rs. 10/- each) (for continuing and discontinued operations)",
-            "Half Year ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Previous Year Ended": ""
-          },
-          {
-            "Sl. No.": "",
-            "Particulars": "1. Basic:",
-            "Half Year ended": "-1.75",
-            "col_4": "9.31",
-            "col_5": "-0.19",
-            "Previous Year Ended": "9.12"
-          },
-          {
-            "Sl. No.": "",
-            "Particulars": "2. Diluted:",
-            "Half Year ended": "-1.75",
-            "col_4": "9.31",
-            "col_5": "-0.19",
-            "Previous Year Ended": "9.12"
-          },
-          {
-            "Sl. No.": "14",
-            "Particulars": "Capital Redemption Reserve",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          },
-          {
-            "Sl. No.": "15",
-            "Particulars": "Debenture Redemption Reserve",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          },
-          {
-            "Sl. No.": "16",
-            "Particulars": "Debt Service Coverage Ratio",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          },
-          {
-            "Sl. No.": "17",
-            "Particulars": "Interest Service Coverage Ratio",
-            "Half Year ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Previous Year Ended": "-"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "3e940909-3209-4090-a8fa-8e85f863e193",
-    "SCRIP_CD": 531825,
-    "XML_NAME": "ANN_531825_3E940909-3209-4090-A8FA-8E85F863E193",
-    "NEWSSUB": "RCC Cements Ltd - 531825 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T11:55:10.76",
-    "NEWS_DT": "2026-11-15T11:55:10.76",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a1d7e326-0203-4456-a95e-0ba44b2d4ae7.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Newspaper Publication w.r.t Standalone Un-Audited Financial Results for the Quarter and half year ended on September 30, 2026 is enclosed.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rcc-cements-ltd/rccemen/531825/",
-    "SLONGNAME": "RCC Cements Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T11:55:10",
-    "DissemDT": "2026-11-15T11:55:10.76",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4033932,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- RCC Cements Ltd submitted a newspaper publication of its **un‑audited standalone financial results for the quarter and half‑year ended 30 September 2026**, as required under SEBI Regulation 47/33.  \n- The results were published on **15 November 2026** in the English daily *Financial Express* (All‑India edition) and the Hindi daily *Jansatta* (Delhi edition).  \n\n*No specific financial figures or quantitative details were disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9220149a-7d30-4fce-bdd9-9da0f4adb818",
-    "SCRIP_CD": 524500,
-    "XML_NAME": "ANN_524500_9220149A-7D30-4FCE-BDD9-9DA0F4ADB818",
-    "NEWSSUB": "Kilitch Drugs India Ltd - 524500 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T11:53:10.283",
-    "NEWS_DT": "2026-11-15T11:53:10.283",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "3f88198c-8898-458b-866e-a7d0084ce9b2.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication of Corrigendum to EGM Notice",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kilitch-drugs-india-ltd/kilitch/524500/",
-    "SLONGNAME": "Kilitch Drugs India Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T11:53:10",
-    "DissemDT": "2026-11-15T11:53:10.283",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 8162472,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Kilitch Drugs India Ltd. submitted a newspaper notice (a corrigendum to its Extraordinary General Meeting notice) that was published on Saturday, 14 November 2026 in the *Free Press Journal* (English) and *Nava Shakti* (Marathi).  \n- The filing is made under SEBI Listing Regulations 30 and 47; no monetary amounts, financial ratios, or other financial decisions are disclosed in the announcement.",
-    "key_metrics": {
-      "revenue": "1966",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 5,
-        "row_count": 5,
-        "rows": [
-          {
-            "col_1": "Exceptional items and/ or Extraordinary items#). Net Profit / (Loss) for the period before Tax (after Exceptional items and/ or Extraordinary items#).",
-            "Un-Audited 2,193.04": "371.86 371.86",
-            "Un-Audited 4,098.60": "791.48 791.48",
-            "Un-Audited 1,819.94": "(1,509.50) (1,509.50)",
-            "Audited 4,330.13": "(6,578.86) 14,041.96"
-          },
-          {
-            "col_1": "Net Profit / (Loss) for the period after Tax (after Exceptional items and/ or Extraordinary items#). Total Comprehensive Income for the period (Comprising Profit / (Loss) for the period (after tax) and other comprehensive income (after tax)",
-            "Un-Audited 2,193.04": "355.42 356.35",
-            "Un-Audited 4,098.60": "719.15 721.02",
-            "Un-Audited 1,819.94": "(1,613.94) (1,618.06)",
-            "Audited 4,330.13": "10,054.10 10,068.23"
-          },
-          {
-            "col_1": "Equity Share Capital Reserves (excluding Revaluation Reserve) as shown in the Balance Sheet of the previous year. Earning Per Share (of Rs. 1/- each) for continuing and discontinued operations) -",
-            "Un-Audited 2,193.04": "4,868.29",
-            "Un-Audited 4,098.60": "4,868.29",
-            "Un-Audited 1,819.94": "4,595.79",
-            "Audited 4,330.13": "4,868.29 63,451.67"
-          },
-          {
-            "col_1": "1. Basic:",
-            "Un-Audited 2,193.04": "0.07",
-            "Un-Audited 4,098.60": "0.14",
-            "Un-Audited 1,819.94": "(0.38)",
-            "Audited 4,330.13": "2.27"
-          },
-          {
-            "col_1": "2. Diluted:",
-            "Un-Audited 2,193.04": "0.07",
-            "Un-Audited 4,098.60": "0.14",
-            "Un-Audited 1,819.94": "(0.38)",
-            "Audited 4,330.13": "2.26"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "3f8efcea-8524-4e13-bf43-3c064805e862",
-    "SCRIP_CD": 526654,
-    "XML_NAME": "ANN_526654_3F8EFCEA-8524-4E13-BF43-3C064805E862",
-    "NEWSSUB": "Thakkers Developers Ltd - 526654 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T11:52:17.61",
-    "NEWS_DT": "2026-11-15T11:52:17.61",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7d64f3e3-3312-48dc-955b-83e759c88f26.pdf",
-    "MORE": "Please find enclosed copies of newspaper publication published in newspaper in The Free Press Journal (English) and in Navshakti (vernacular - Marathi) dated November 15, 2026 in connection with Unaudited Financial Results of Company for the quarter and half year ended on 30th September 2026. \r\n\r\nPlease take the same on your record",
-    "HEADLINE": "Please find enclosed copies of newspaper publication published in newspaper in The Free Press Journal (English) and in Navshakti (vernacular - Marathi) dated November 15, 2026 in connection ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/thakkers-developers-ltd/thakdev/526654/",
-    "SLONGNAME": "Thakkers Developers Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T11:52:17",
-    "DissemDT": "2026-11-15T11:52:17.61",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 8662563,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The announcement informs that Thakkers Developers Ltd has published its unaudited financial results for the quarter and half‑year ended 30 September 2026 in **The Free Press Journal** (English) and **Navshakti** (Marathi) on **15 November 2026**.  \n- No specific financial figures, dates beyond the publication date, or decisions (e.g., dividends, share issues) are disclosed in the text.  \n\n*The announcement contains no quantitative financial details.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9a27ef50-d87a-4db9-8727-1d7997cf982d",
-    "SCRIP_CD": 512608,
-    "XML_NAME": "ANN_512608_9A27EF50-D87A-4DB9-8727-1D7997CF982D",
-    "NEWSSUB": "Bhandari Hosiery Exports Ltd - 512608 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T11:51:48.437",
-    "NEWS_DT": "2026-11-15T11:51:48.437",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7f315d36-fb05-4e8a-8059-a18711e6c587.pdf",
-    "MORE": "",
-    "HEADLINE": "Copy of Newspaper Publication of Un-audited Financial Results for the quarter and half year ended September 30, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bhandari-hosiery-exports-ltd/bhandari/512608/",
-    "SLONGNAME": "Bhandari Hosiery Exports Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-15T11:51:48",
-    "DissemDT": "2026-11-15T11:51:48.437",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2303231,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company disclosed that its un‑audited financial results for the quarter and half‑year ended 30 September 2026 were published in the *Financial Express* (English) and *Nawan Zamana* (Punjabi) on **15 November 2026**.  \n- These results were reviewed by the Audit Committee and formally approved by the Board of Directors on **14 November 2026**.  \n\n*No specific financial figures (e.g., revenue, profit, earnings per share) are provided in the announcement.*",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
