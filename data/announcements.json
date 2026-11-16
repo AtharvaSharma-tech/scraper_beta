@@ -1,5 +1,1327 @@
 [
   {
+    "NEWSID": "21d940ca-d346-4768-8c9f-2b387e33c0c9",
+    "SCRIP_CD": 509874,
+    "XML_NAME": "ANN_509874_21D940CA-D346-4768-8C9F-2B387E33C0C9",
+    "NEWSSUB": "Shalimar Paints Ltd-$ - 509874 - Board Meeting Outcome for Outcome Of Board Meeting Held On November 16, 2026",
+    "DT_TM": "2026-11-16T21:58:26",
+    "NEWS_DT": "2026-11-16T21:58:26",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "29a8b694-7bed-4688-b879-b0287a0677e8.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA Outcome of Board Meeting held on November 16, 2026",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shalimar-paints-ltd/shalpaints/509874/",
+    "SLONGNAME": "Shalimar Paints Ltd-$",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:58:24",
+    "DissemDT": "2026-11-16T21:58:26",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 388534,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "10000",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 2,
+        "rows": [
+          {
+            "Name of the entity": "Hella Infra Market Limited (“HIML” or “Transferor Company”)",
+            "Turnover (Standalone for quarter ended 30th September 2026)": "1,82,474.40",
+            "Net worth (Standalone as on 30th September 2026)": "8,24,526.30"
+          },
+          {
+            "Name of the entity": "Shalimar Paints Limited (“SPL” or “Transferee Company”)",
+            "Turnover (Standalone for quarter ended 30th September 2026)": "11,452.00",
+            "Net worth (Standalone as on 30th September 2026)": "7,445.00"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 2,
+        "row_count": 2,
+        "rows": [
+          {
+            "Name of the entity": "Hella Infra Market Limited (“HIML” or “Transferor Company”)",
+            "Turnover (Consolidated for quarter ended 30th September 2026)": "5,12,394.30",
+            "Net worth (Consolidated as on 30th September 2026)": "8,15,655.90"
+          },
+          {
+            "Name of the entity": "Shalimar Paints Limited (“SPL” or “Transferee Company”)",
+            "Turnover (Consolidated for quarter ended 30th September 2026)": "11,567.00",
+            "Net worth (Consolidated as on 30th September 2026)": "8,661.00"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 1,
+        "row_count": 2,
+        "rows": [
+          {
+            "Name of the entity": "Hella Infra Market Limited (“HIML” or “Transferor Company”)",
+            "Turnover (Consolidated for year ended 31st March 2026)": "19,83,899.00",
+            "Net worth (Consolidated as on 31st March 2026)": "7,00,413.60"
+          },
+          {
+            "Name of the entity": "Shalimar Paints Limited (“SPL” or “Transferee Company”)",
+            "Turnover (Consolidated for year ended 31st March 2026)": "57,563.00",
+            "Net worth (Consolidated as on 31st March 2026)": "13,921.00"
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "table_index": 1,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "",
+            "Pre-Scheme": "No. of Shares",
+            "col_3": "%",
+            "Post Scheme": "No. of Shares",
+            "col_5": "%"
+          },
+          {
+            "Particulars": "Equity Shares",
+            "Pre-Scheme": "",
+            "col_3": "",
+            "Post Scheme": "",
+            "col_5": ""
+          },
+          {
+            "Particulars": "Promoter and Promoter Group",
+            "Pre-Scheme": "24,99,12,000",
+            "col_3": "88.05%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Public",
+            "Pre-Scheme": "3,39,28,706",
+            "col_3": "11.95%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Total",
+            "Pre-Scheme": "28,38,40,706",
+            "col_3": "100.00%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Fully paid up compulsorily convertible preference shares of INR 10/- each",
+            "Pre-Scheme": "",
+            "col_3": "",
+            "Post Scheme": "",
+            "col_5": ""
+          },
+          {
+            "Particulars": "Promoter and Promoter Group",
+            "Pre-Scheme": "0",
+            "col_3": "0.00%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Public",
+            "Pre-Scheme": "1,12,623",
+            "col_3": "100.00%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Total",
+            "Pre-Scheme": "1,12,623",
+            "col_3": "100.00%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Fully paid up compulsorily convertible preference shares of INR 30/- each",
+            "Pre-Scheme": "",
+            "col_3": "",
+            "Post Scheme": "",
+            "col_5": ""
+          },
+          {
+            "Particulars": "Promoter and Promoter Group",
+            "Pre-Scheme": "23,938",
+            "col_3": "3.74%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          },
+          {
+            "Particulars": "Public",
+            "Pre-Scheme": "6,15,290",
+            "col_3": "96.26%",
+            "Post Scheme": "NA",
+            "col_5": "NA"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 2,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "",
+            "Pre-Scheme": "No. of Shares",
+            "col_3": "%",
+            "Post Scheme": "No. of Shares",
+            "col_5": "%"
+          },
+          {
+            "Particulars": "Promoter and Promoter Group",
+            "Pre-Scheme": "6,27,49,651",
+            "col_3": "74.96%",
+            "Post Scheme": "86,27,83,890",
+            "col_5": "30.58%"
+          },
+          {
+            "Particulars": "Public",
+            "Pre-Scheme": "2,09,61,527",
+            "col_3": "25.04%",
+            "Post Scheme": "1,95,90,14,066",
+            "col_5": "69.42%"
+          },
+          {
+            "Particulars": "Total",
+            "Pre-Scheme": "8,37,11,178",
+            "col_3": "100.00%",
+            "Post Scheme": "2,82,17,97,956",
+            "col_5": "100.00%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "97fa9106-d021-40ae-ac65-06ddb2307ad3",
+    "SCRIP_CD": 544924,
+    "XML_NAME": "ANN_544924_97FA9106-D021-40AE-AC65-06DDB2307AD3",
+    "NEWSSUB": "Raksan Transformers Ltd - 544924 - Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015 - Appointment Of Investor Relations Services.",
+    "DT_TM": "2026-11-16T21:56:17.55",
+    "NEWS_DT": "2026-11-16T21:56:17.55",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2fb11a73-8b72-4748-ae0c-3ae73704fc7e.pdf",
+    "MORE": "",
+    "HEADLINE": "The Company has appointed Stellar IR Advisors Private Limited for Investor Relations.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/raksan-transformers-ltd/raksan/544924/",
+    "SLONGNAME": "Raksan Transformers Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:56:17",
+    "DissemDT": "2026-11-16T21:56:17.55",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 198149,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Raksan Transformers Ltd appointed Stellar IR Advisors Private Limited as its Investor Relations firm, effective 13 November 2026, and disclosed this appointment to BSE under Regulation 30 of the SEBI (LODR) Regulations, 2015 (BSE Scrip Code 544924).  \n- The notice was filed on 16 November 2026 (Ref. RTL/BSE/26‑27/16) and posted on the company’s website; the announcement contains no financial figures or monetary decisions.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "cdb21983-343c-4ef9-9dd4-bc49719ead32",
+    "SCRIP_CD": 539096,
+    "XML_NAME": "ANN_539096_CDB21983-343C-4EF9-9DD4-BC49719EAD32",
+    "NEWSSUB": "Aananda Lakshmi Spinning Mills Ltd - 539096 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-16T21:55:12.45",
+    "NEWS_DT": "2026-11-16T21:55:12.45",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b69a6495-5141-4d33-81f6-e918e7aeabb5.pdf",
+    "MORE": "",
+    "HEADLINE": "Results advertisement-30.09.2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aananda-lakshmi-spinning-mills-ltd/aanandalak/539096/",
+    "SLONGNAME": "Aananda Lakshmi Spinning Mills Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:55:12",
+    "DissemDT": "2026-11-16T21:55:12.45",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 11755881,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "4473.12",
+      "net_profit": "156.32",
+      "total_equity": "37011.12",
+      "eps": "0.57"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f346ff88-b620-4fc0-b999-1e67df930f06",
+    "SCRIP_CD": 505192,
+    "XML_NAME": "ANN_505192_F346FF88-B620-4FC0-B999-1E67DF930F06",
+    "NEWSSUB": "SML Mahindra Ltd - 505192 - Announcement under Regulation 30 (LODR)-Meeting Updates",
+    "DT_TM": "2026-11-16T21:53:28.443",
+    "NEWS_DT": "2026-11-16T21:53:28.443",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f1e919d4-ec86-4133-94ec-576afc703b28.pdf",
+    "MORE": "Outcome of the Board Meeting held on 16th November, 2026 : Intimation under Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations') - Appointment of Senior Management Personnel of the Company",
+    "HEADLINE": "Outcome of the Board Meeting held on 16th November, 2026 : Intimation under Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sml-mahindra-ltd/smlmah/505192/",
+    "SLONGNAME": "SML Mahindra Ltd",
+    "AGENDA_ID": 133,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:53:28",
+    "DissemDT": "2026-11-16T21:53:28.443",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 587029,
+    "SUBCATNAME": "Meeting Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "30af88b0-8754-4834-b41f-e5210eb60ccf",
+    "SCRIP_CD": 544936,
+    "XML_NAME": "ANN_544936_30AF88B0-8754-4834-B41F-E5210EB60CCF",
+    "NEWSSUB": "Hero Motors Ltd - 544936 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-11-16T21:49:36.847",
+    "NEWS_DT": "2026-11-16T21:49:36.847",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "174e81f0-13e8-4177-bc46-dc5e463bea7e.pdf",
+    "MORE": "",
+    "HEADLINE": "Audio Recording of Conference call with respect to Financial Results for the quarter and half year ended September 30 , 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hero-motors-ltd/heromotors/544936/",
+    "SLONGNAME": "Hero Motors Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:49:36",
+    "DissemDT": "2026-11-16T21:49:36.847",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 230695,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "30af88b0-8754-4834-b41f-e5210eb60ccf",
+    "INVESTOR_PRESENTATION": "eecfd645-0193-43d5-b4db-c5ec2ca884b5.zip",
+    "RECORDID": 14901274,
+    "DataInsDate": "2026-11-16T21:49:36.81",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/eecfd645-0193-43d5-b4db-c5ec2ca884b5.zip",
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ff4d1d81-7db2-44b9-aa1e-2c9dc39c2b1d",
+    "SCRIP_CD": 500147,
+    "XML_NAME": "ANN_500147_FF4D1D81-7DB2-44B9-AA1E-2C9DC39C2B1D",
+    "NEWSSUB": "John Cockerill India Ltd-$ - 500147 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-16T21:44:07.17",
+    "NEWS_DT": "2026-11-16T21:44:07.17",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0b9e1526-03af-4f91-9a80-de2fba298989.pdf",
+    "MORE": "",
+    "HEADLINE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, please find attached investor presentation for the quarter ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/john-cockerill-india-ltd/cockerill/500147/",
+    "SLONGNAME": "John Cockerill India Ltd-$",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:44:07",
+    "DissemDT": "2026-11-16T21:44:07.17",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1424509,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1744.2",
+      "net_profit": "321.6",
+      "operating_profit": "119.7",
+      "total_assets": "6853.3",
+      "total_equity": "6853.3",
+      "eps": "20.9",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 7,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Revenue from Operations",
+            "Q3 CY26": "1,744.2",
+            "Q3 CY25": "969.8",
+            "Y-o-Y": "79.9%",
+            "9M CY26": "5,236.4",
+            "9M CY25": "2,555.3",
+            "Y-o-Y_1": "104.9%"
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Raw Material Cost",
+            "Q3 CY26": "1,210.1",
+            "Q3 CY25": "463.9",
+            "Y-o-Y": "",
+            "9M CY26": "3,144.1",
+            "9M CY25": "1,279.2",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Material Margin",
+            "Q3 CY26": "534.1",
+            "Q3 CY25": "505.9",
+            "Y-o-Y": "5.6%",
+            "9M CY26": "2,092.3",
+            "9M CY25": "1,276.1",
+            "Y-o-Y_1": "64.0%"
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Material Margin (%)",
+            "Q3 CY26": "30.6%",
+            "Q3 CY25": "52.2%",
+            "Y-o-Y": "-2150 bps",
+            "9M CY26": "40.0%",
+            "9M CY25": "49.9%",
+            "Y-o-Y_1": "-1000 bps"
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Employee Cost",
+            "Q3 CY26": "215.7",
+            "Q3 CY25": "122.9",
+            "Y-o-Y": "",
+            "9M CY26": "686.8",
+            "9M CY25": "497.2",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Other Expenses",
+            "Q3 CY26": "438.1",
+            "Q3 CY25": "269.9",
+            "Y-o-Y": "",
+            "9M CY26": "1,445.0",
+            "9M CY25": "650.8",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "EBITDA",
+            "Q3 CY26": "-119.7",
+            "Q3 CY25": "113.1",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-39.5",
+            "9M CY25": "128.1",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "EBITDA Margin (%)",
+            "Q3 CY26": "-6.9%",
+            "Q3 CY25": "11.7%",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-0.8%",
+            "9M CY25": "5.0%",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Depreciation",
+            "Q3 CY26": "19.3",
+            "Q3 CY25": "15.5",
+            "Y-o-Y": "",
+            "9M CY26": "51.7",
+            "9M CY25": "45.9",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Other Income",
+            "Q3 CY26": "17.0",
+            "Q3 CY25": "24.4",
+            "Y-o-Y": "",
+            "9M CY26": "65.6",
+            "9M CY25": "63.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "EBIT",
+            "Q3 CY26": "-122.0",
+            "Q3 CY25": "122.0",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-25.6",
+            "9M CY25": "145.8",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Finance Cost",
+            "Q3 CY26": "41.4",
+            "Q3 CY25": "2.9",
+            "Y-o-Y": "",
+            "9M CY26": "133.5",
+            "9M CY25": "13.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Exceptional Income / (Expense) *",
+            "Q3 CY26": "535.8",
+            "Q3 CY25": "0.0",
+            "Y-o-Y": "",
+            "9M CY26": "559.7",
+            "9M CY25": "0.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Profit before Tax",
+            "Q3 CY26": "372.4",
+            "Q3 CY25": "119.1",
+            "Y-o-Y": "212.7%",
+            "9M CY26": "400.6",
+            "9M CY25": "132.2",
+            "Y-o-Y_1": "203.0%"
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Tax",
+            "Q3 CY26": "50.8",
+            "Q3 CY25": "30.0",
+            "Y-o-Y": "",
+            "9M CY26": "54.5",
+            "9M CY25": "33.2",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Profit after Tax",
+            "Q3 CY26": "321.6",
+            "Q3 CY25": "89.1",
+            "Y-o-Y": "260.9%",
+            "9M CY26": "346.1",
+            "9M CY25": "99.0",
+            "Y-o-Y_1": "249.6%"
+          },
+          {
+            "Standalone Profit and Loss Statement (₹ mn)": "Adjusted Profit after Tax #",
+            "Q3 CY26": "-149.1",
+            "Q3 CY25": "89.1",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-124.6",
+            "9M CY25": "99.0",
+            "Y-o-Y_1": "N.M."
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 1,
+        "row_count": 18,
+        "rows": [
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Revenue from Operations",
+            "Q3 CY26": "3,155.8",
+            "Q3 CY25": "2,594.5",
+            "Y-o-Y": "21.6%",
+            "9M CY26": "9,586.6",
+            "9M CY25": "7,336.1",
+            "Y-o-Y_1": "30.7%"
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Raw Material Cost",
+            "Q3 CY26": "2,001.4",
+            "Q3 CY25": "847.8",
+            "Y-o-Y": "",
+            "9M CY26": "5,248.5",
+            "9M CY25": "3,511.9",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Material Margin",
+            "Q3 CY26": "1,154.5",
+            "Q3 CY25": "1,746.7",
+            "Y-o-Y": "-33.9%",
+            "9M CY26": "4,338.1",
+            "9M CY25": "3,824.2",
+            "Y-o-Y_1": "13.4%"
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Material Margin (%)",
+            "Q3 CY26": "36.6%",
+            "Q3 CY25": "67.3%",
+            "Y-o-Y": "-3070 bps",
+            "9M CY26": "45.3%",
+            "9M CY25": "52.1%",
+            "Y-o-Y_1": "-690 bps"
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Employee Cost",
+            "Q3 CY26": "713.9",
+            "Q3 CY25": "569.1",
+            "Y-o-Y": "",
+            "9M CY26": "2,251.6",
+            "9M CY25": "1,817.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Other Expenses",
+            "Q3 CY26": "797.2",
+            "Q3 CY25": "1,095.6",
+            "Y-o-Y": "",
+            "9M CY26": "2,631.6",
+            "9M CY25": "2,196.5",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "EBITDA",
+            "Q3 CY26": "-356.7",
+            "Q3 CY25": "82.0",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-545.1",
+            "9M CY25": "-190.0",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "EBITDA Margin (%)",
+            "Q3 CY26": "-11.3%",
+            "Q3 CY25": "3.2%",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-5.7%",
+            "9M CY25": "-2.6%",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Depreciation",
+            "Q3 CY26": "39.3",
+            "Q3 CY25": "21.6",
+            "Y-o-Y": "",
+            "9M CY26": "108.3",
+            "9M CY25": "75.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Other Income",
+            "Q3 CY26": "32.4",
+            "Q3 CY25": "84.0",
+            "Y-o-Y": "",
+            "9M CY26": "117.6",
+            "9M CY25": "388.6",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "EBIT",
+            "Q3 CY26": "-363.6",
+            "Q3 CY25": "144.4",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-535.8",
+            "9M CY25": "123.6",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Finance Cost",
+            "Q3 CY26": "51.9",
+            "Q3 CY25": "46.7",
+            "Y-o-Y": "",
+            "9M CY26": "172.4",
+            "9M CY25": "149.8",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Share in Profit / (Loss) of Joint Venture",
+            "Q3 CY26": "-2.4",
+            "Q3 CY25": "0.0",
+            "Y-o-Y": "",
+            "9M CY26": "1.7",
+            "9M CY25": "0.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Exceptional Income / (Expense) *",
+            "Q3 CY26": "535.8",
+            "Q3 CY25": "0.0",
+            "Y-o-Y": "",
+            "9M CY26": "559.7",
+            "9M CY25": "0.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Profit before Tax",
+            "Q3 CY26": "117.9",
+            "Q3 CY25": "97.8",
+            "Y-o-Y": "20.5%",
+            "9M CY26": "-146.8",
+            "9M CY25": "-26.2",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Tax",
+            "Q3 CY26": "6.8",
+            "Q3 CY25": "120.9",
+            "Y-o-Y": "",
+            "9M CY26": "-17.8",
+            "9M CY25": "176.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Profit after Tax",
+            "Q3 CY26": "111.1",
+            "Q3 CY25": "-23.1",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-128.9",
+            "9M CY25": "-202.5",
+            "Y-o-Y_1": "N.M."
+          },
+          {
+            "Consolidated Profit and Loss Statement (₹ mn)": "Adjusted Profit after Tax",
+            "Q3 CY26": "-359.6",
+            "Q3 CY25": "-23.1",
+            "Y-o-Y": "N.M.",
+            "9M CY26": "-599.6",
+            "9M CY25": "-202.5",
+            "Y-o-Y_1": "N.M."
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "table_index": 1,
+        "row_count": 20,
+        "rows": [
+          {
+            "Profit and Loss Statement (INR Mn)": "Revenue from Operations",
+            "CY25": "3,575.9",
+            "CY24": "3,887.3",
+            "9M ended Dec-23 *": "6,666.3",
+            "FY23": "4,837.0"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Raw Material Cost",
+            "CY25": "1,617.7",
+            "CY24": "2,446.8",
+            "9M ended Dec-23 *": "4,976.2",
+            "FY23": "3,320.3"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Material Margin",
+            "CY25": "1,958.2",
+            "CY24": "1,440.5",
+            "9M ended Dec-23 *": "1,690.0",
+            "FY23": "1,516.7"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Material Margin (%)",
+            "CY25": "54.8%",
+            "CY24": "37.1%",
+            "9M ended Dec-23 *": "25.4%",
+            "FY23": "31.4%"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Employee Cost",
+            "CY25": "633.5",
+            "CY24": "620.7",
+            "9M ended Dec-23 *": "524.9",
+            "FY23": "565.3"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Other Expenses",
+            "CY25": "1,095.6",
+            "CY24": "857.7",
+            "9M ended Dec-23 *": "904.5",
+            "FY23": "885.0"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "EBITDA",
+            "CY25": "229.1",
+            "CY24": "-37.9",
+            "9M ended Dec-23 *": "260.6",
+            "FY23": "66.5"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "EBITDA Margin (%)",
+            "CY25": "6.4%",
+            "CY24": "-1.0%",
+            "9M ended Dec-23 *": "3.9%",
+            "FY23": "1.4%"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Depreciation",
+            "CY25": "61.5",
+            "CY24": "59.7",
+            "9M ended Dec-23 *": "38.5",
+            "FY23": "51.5"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Other Income",
+            "CY25": "90.3",
+            "CY24": "48.8",
+            "9M ended Dec-23 *": "61.9",
+            "FY23": "166.1"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "EBIT",
+            "CY25": "258.0",
+            "CY24": "-48.8",
+            "9M ended Dec-23 *": "284.0",
+            "FY23": "181.1"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "EBIT Margin (%)",
+            "CY25": "7.2%",
+            "CY24": "-1.3%",
+            "9M ended Dec-23 *": "4.3%",
+            "FY23": "3.7%"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Finance Cost",
+            "CY25": "30.3",
+            "CY24": "22.8",
+            "9M ended Dec-23 *": "23.3",
+            "FY23": "19.3"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Exceptional Income / (Expense) (1)",
+            "CY25": "-114.1",
+            "CY24": "0.0",
+            "9M ended Dec-23 *": "0.0",
+            "FY23": "0.0"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Profit before Tax",
+            "CY25": "113.5",
+            "CY24": "-71.7",
+            "9M ended Dec-23 *": "260.7",
+            "FY23": "161.8"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "PBT Margin (%)",
+            "CY25": "3.2%",
+            "CY24": "-1.8%",
+            "9M ended Dec-23 *": "3.9%",
+            "FY23": "3.3%"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Tax",
+            "CY25": "10.4",
+            "CY24": "-17.8",
+            "9M ended Dec-23 *": "44.3",
+            "FY23": "32.9"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "Profit after Tax",
+            "CY25": "103.1",
+            "CY24": "-53.8",
+            "9M ended Dec-23 *": "216.4",
+            "FY23": "128.9"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "PAT Margin (%)",
+            "CY25": "2.9%",
+            "CY24": "-1.4%",
+            "9M ended Dec-23 *": "3.2%",
+            "FY23": "2.7%"
+          },
+          {
+            "Profit and Loss Statement (INR Mn)": "EPS (INR)",
+            "CY25": "20.9",
+            "CY24": "-10.9",
+            "9M ended Dec-23 *": "43.8",
+            "FY23": "26.1"
+          }
+        ]
+      },
+      {
+        "page": 23,
+        "table_index": 1,
+        "row_count": 21,
+        "rows": [
+          {
+            "ASSETS (INR Mn)": "Non-Current Assets",
+            "Dec-25": "",
+            "Dec-24": "",
+            "Dec-23": "",
+            "Mar-23": ""
+          },
+          {
+            "ASSETS (INR Mn)": "Property, Plant and Equipment",
+            "Dec-25": "506.0",
+            "Dec-24": "474.0",
+            "Dec-23": "489.1",
+            "Mar-23": "469.2"
+          },
+          {
+            "ASSETS (INR Mn)": "Capital WIP",
+            "Dec-25": "11.4",
+            "Dec-24": "47.9",
+            "Dec-23": "7.2",
+            "Mar-23": "15.5"
+          },
+          {
+            "ASSETS (INR Mn)": "Investment Properties",
+            "Dec-25": "0.0",
+            "Dec-24": "44.9",
+            "Dec-23": "0.0",
+            "Mar-23": "0.0"
+          },
+          {
+            "ASSETS (INR Mn)": "Right of Use Assets",
+            "Dec-25": "59.3",
+            "Dec-24": "52.6",
+            "Dec-23": "40.4",
+            "Mar-23": "29.0"
+          },
+          {
+            "ASSETS (INR Mn)": "Intangible Assets",
+            "Dec-25": "2.5",
+            "Dec-24": "1.5",
+            "Dec-23": "0.4",
+            "Mar-23": "0.6"
+          },
+          {
+            "ASSETS (INR Mn)": "Trade Receivables",
+            "Dec-25": "5.5",
+            "Dec-24": "624.0",
+            "Dec-23": "911.0",
+            "Mar-23": "117.8"
+          },
+          {
+            "ASSETS (INR Mn)": "Other Non-Current Financial Assets",
+            "Dec-25": "110.7",
+            "Dec-24": "134.9",
+            "Dec-23": "223.7",
+            "Mar-23": "175.1"
+          },
+          {
+            "ASSETS (INR Mn)": "Deferred Tax Assets (Net)",
+            "Dec-25": "42.1",
+            "Dec-24": "34.5",
+            "Dec-23": "0.0",
+            "Mar-23": "0.0"
+          },
+          {
+            "ASSETS (INR Mn)": "Non-Current Tax Assets",
+            "Dec-25": "69.9",
+            "Dec-24": "40.6",
+            "Dec-23": "55.9",
+            "Mar-23": "56.5"
+          },
+          {
+            "ASSETS (INR Mn)": "Other Non-Current Assets",
+            "Dec-25": "43.7",
+            "Dec-24": "49.3",
+            "Dec-23": "44.3",
+            "Mar-23": "48.2"
+          },
+          {
+            "ASSETS (INR Mn)": "Total Non-Current Assets",
+            "Dec-25": "851.1",
+            "Dec-24": "1,504.0",
+            "Dec-23": "1,772.1",
+            "Mar-23": "911.9"
+          },
+          {
+            "ASSETS (INR Mn)": "Current Assets",
+            "Dec-25": "",
+            "Dec-24": "",
+            "Dec-23": "",
+            "Mar-23": ""
+          },
+          {
+            "ASSETS (INR Mn)": "Inventories",
+            "Dec-25": "161.7",
+            "Dec-24": "205.9",
+            "Dec-23": "186.6",
+            "Mar-23": "232.3"
+          },
+          {
+            "ASSETS (INR Mn)": "Contract Assets",
+            "Dec-25": "1,068.2",
+            "Dec-24": "1,106.3",
+            "Dec-23": "2,198.4",
+            "Mar-23": "3,491.2"
+          },
+          {
+            "ASSETS (INR Mn)": "Trade Receivables",
+            "Dec-25": "2,212.6",
+            "Dec-24": "1,958.8",
+            "Dec-23": "2,096.4",
+            "Mar-23": "1,335.0"
+          },
+          {
+            "ASSETS (INR Mn)": "Cash & Cash Equivalents",
+            "Dec-25": "2,265.0",
+            "Dec-24": "625.3",
+            "Dec-23": "1,304.6",
+            "Mar-23": "1,185.1"
+          },
+          {
+            "ASSETS (INR Mn)": "Other Current Assets",
+            "Dec-25": "250.9",
+            "Dec-24": "380.0",
+            "Dec-23": "718.6",
+            "Mar-23": "1,352.0"
+          },
+          {
+            "ASSETS (INR Mn)": "Total Current Assets",
+            "Dec-25": "5,958.4",
+            "Dec-24": "4,276.3",
+            "Dec-23": "6,504.7",
+            "Mar-23": "7,595.4"
+          },
+          {
+            "ASSETS (INR Mn)": "Assets Held for Sale (Net of Liabilities)",
+            "Dec-25": "43.9",
+            "Dec-24": "0.4",
+            "Dec-23": "-",
+            "Mar-23": "-"
+          },
+          {
+            "ASSETS (INR Mn)": "Total ASSETS",
+            "Dec-25": "6,853.3",
+            "Dec-24": "5,780.7",
+            "Dec-23": "8,276.8",
+            "Mar-23": "8,507.4"
+          }
+        ]
+      },
+      {
+        "page": 23,
+        "table_index": 2,
+        "row_count": 20,
+        "rows": [
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Shareholders' Funds",
+            "Dec-25": "",
+            "Dec-24": "",
+            "Dec-23": "",
+            "Mar-23": ""
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Share Capital",
+            "Dec-25": "49.4",
+            "Dec-24": "49.4",
+            "Dec-23": "49.4",
+            "Mar-23": "49.4"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Reserves & Surplus",
+            "Dec-25": "2,052.1",
+            "Dec-24": "1,962.1",
+            "Dec-23": "2,064.5",
+            "Mar-23": "1,874.1"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Total Shareholders' Funds",
+            "Dec-25": "2,101.4",
+            "Dec-24": "2,011.5",
+            "Dec-23": "2,113.9",
+            "Mar-23": "1,923.5"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Non-Current Liabilities",
+            "Dec-25": "",
+            "Dec-24": "",
+            "Dec-23": "",
+            "Mar-23": ""
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Lease Liabilities",
+            "Dec-25": "37.4",
+            "Dec-24": "36.6",
+            "Dec-23": "7.0",
+            "Mar-23": "1.5"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Trade Payables",
+            "Dec-25": "73.2",
+            "Dec-24": "183.6",
+            "Dec-23": "228.8",
+            "Mar-23": "36.2"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Other Non-Current Financial Liabilities",
+            "Dec-25": "0.0",
+            "Dec-24": "8.7",
+            "Dec-23": "8.7",
+            "Mar-23": "8.7"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Long-Term Provisions",
+            "Dec-25": "114.0",
+            "Dec-24": "122.5",
+            "Dec-23": "149.8",
+            "Mar-23": "82.8"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Deferred Tax Liabilities (Net)",
+            "Dec-25": "0.0",
+            "Dec-24": "0.0",
+            "Dec-23": "8.9",
+            "Mar-23": "27.5"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Total Non-Current Liabilities",
+            "Dec-25": "224.6",
+            "Dec-24": "351.4",
+            "Dec-23": "403.1",
+            "Mar-23": "156.8"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Current Liabilities",
+            "Dec-25": "",
+            "Dec-24": "",
+            "Dec-23": "",
+            "Mar-23": ""
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Contract Liabilities",
+            "Dec-25": "2,507.7",
+            "Dec-24": "1,701.9",
+            "Dec-23": "2,381.6",
+            "Mar-23": "3,560.3"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Lease Liabilities",
+            "Dec-25": "15.7",
+            "Dec-24": "9.3",
+            "Dec-23": "7.3",
+            "Mar-23": "0.6"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Trade Payables",
+            "Dec-25": "1,454.1",
+            "Dec-24": "1,445.3",
+            "Dec-23": "3,111.6",
+            "Mar-23": "2,776.5"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Short-Term Provisions",
+            "Dec-25": "410.3",
+            "Dec-24": "138.6",
+            "Dec-23": "47.1",
+            "Mar-23": "43.1"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Current Tax Liabilities (Net)",
+            "Dec-25": "5.5",
+            "Dec-24": "5.5",
+            "Dec-23": "29.6",
+            "Mar-23": "4.6"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Other Current Liabilities",
+            "Dec-25": "134.0",
+            "Dec-24": "117.1",
+            "Dec-23": "182.5",
+            "Mar-23": "41.9"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Total Current Liabilities",
+            "Dec-25": "4,527.3",
+            "Dec-24": "3,417.7",
+            "Dec-23": "5,759.7",
+            "Mar-23": "6,427.0"
+          },
+          {
+            "EQUITY AND LIABILITIES (INR Mn)": "Total EQUITY AND LIABILITIES",
+            "Dec-25": "6,853.3",
+            "Dec-24": "5,780.7",
+            "Dec-23": "8,276.8",
+            "Mar-23": "8,507.4"
+          }
+        ]
+      },
+      {
+        "page": 24,
+        "table_index": 1,
+        "row_count": 13,
+        "rows": [
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Profit/(Loss) Before Tax",
+            "CY25": "113.5",
+            "CY24": "-71.7",
+            "9M ended Dec-23*": "260.7",
+            "FY23": "161.8"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Adjustments for Non-Cash and Non-Operational Expenses / (Incomes)",
+            "CY25": "215.7",
+            "CY24": "49.4",
+            "9M ended Dec-23*": "16.0",
+            "FY23": "-59.5"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Operating Profit / (Loss) Before Working Capital Changes",
+            "CY25": "329.3",
+            "CY24": "-22.3",
+            "9M ended Dec-23*": "276.7",
+            "FY23": "102.3"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Changes in Working Capital",
+            "CY25": "1,299.0",
+            "CY24": "-608.8",
+            "9M ended Dec-23*": "-69.3",
+            "FY23": "635.1"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Cash from Operations",
+            "CY25": "1,628.2",
+            "CY24": "-631.1",
+            "9M ended Dec-23*": "207.4",
+            "FY23": "737.4"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Income Tax (Paid) / Refunded",
+            "CY25": "-42.9",
+            "CY24": "-29.7",
+            "9M ended Dec-23*": "-36.9",
+            "FY23": "-29.3"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Net Cash Flow from Operating Activities (A)",
+            "CY25": "1,585.4",
+            "CY24": "-660.8",
+            "9M ended Dec-23*": "170.6",
+            "FY23": "708.1"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Net Cash Flow from Investing Activities (B)",
+            "CY25": "-814.3",
+            "CY24": "16.8",
+            "9M ended Dec-23*": "95.9",
+            "FY23": "-74.4"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Net Cash Flow from Financing Activities (C)",
+            "CY25": "-21.0",
+            "CY24": "-46.0",
+            "9M ended Dec-23*": "-26.5",
+            "FY23": "-10.2"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Net Change in Cash & Cash Equivalents during the Year (A+B+C)",
+            "CY25": "750.0",
+            "CY24": "-690.0",
+            "9M ended Dec-23*": "240.0",
+            "FY23": "623.5"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Cash & Cash Equivalents at the Beginning of the Period",
+            "CY25": "465.1",
+            "CY24": "1,155.0",
+            "9M ended Dec-23*": "915.0",
+            "FY23": "290.8"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Effect of Exchange Difference",
+            "CY25": "0.1",
+            "CY24": "0.1",
+            "9M ended Dec-23*": "0.0",
+            "FY23": "0.7"
+          },
+          {
+            "Abridged Cash Flow Statement (INR Mn)": "Cash & Cash Equivalents at the End of the Period",
+            "CY25": "1,215.3",
+            "CY24": "465.1",
+            "9M ended Dec-23*": "1,155.0",
+            "FY23": "915.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "0bee120a-e76c-4a8d-9ee0-43c37de70051",
+    "SCRIP_CD": 540293,
+    "XML_NAME": "ANN_540293_0BEE120A-E76C-4A8D-9EE0-43C37DE70051",
+    "NEWSSUB": "Pricol Ltd - 540293 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-16T21:38:28.47",
+    "NEWS_DT": "2026-11-16T21:38:28.47",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e1ba7676-70a9-4b0b-8bb9-4807d9de3dae.pdf",
+    "MORE": "",
+    "HEADLINE": "Pricol Limited informed the investor conference call",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/pricol-ltd/pricolltd/540293/",
+    "SLONGNAME": "Pricol Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 21,
+    "News_submission_dt": "2026-11-16T21:38:28",
+    "DissemDT": "2026-11-16T21:38:28.47",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 544560,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "0bee120a-e76c-4a8d-9ee0-43c37de70051",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14901272,
+    "DataInsDate": "2026-11-16T21:38:28.417",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "0148a814-8eb9-4836-8033-d685af18efba",
     "SCRIP_CD": 532513,
     "XML_NAME": "ANN_532513_0148A814-8EB9-4836-8033-D685AF18EFBA",
@@ -7199,262 +8521,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "dbe74af0-79f1-435c-bedf-a619888da3ef",
-    "SCRIP_CD": 522285,
-    "XML_NAME": "ANN_522285_DBE74AF0-79F1-435C-BEDF-A619888DA3EF",
-    "NEWSSUB": "Jayaswal Neco Industries Ltd - 522285 - Announcement Under Regulation 30 Of LODR",
-    "DT_TM": "2026-11-16T18:30:19.49",
-    "NEWS_DT": "2026-11-16T18:30:19.49",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "88331810-ca58-4e46-b9b3-528756d2f66b.pdf",
-    "MORE": "",
-    "HEADLINE": "Announcement under regulation 30 of LODR",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jayaswal-neco-industries-ltd/jaynecoind/522285/",
-    "SLONGNAME": "Jayaswal Neco Industries Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:30:19",
-    "DissemDT": "2026-11-16T18:30:19.49",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 728550,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Fine payment:** On 5 September 2026, Jayaswal Neco Industries Ltd paid a fine of **₹75,59,384 (inclusive of GST)** to BSE Limited for the alleged delayed submission of the shareholding pattern for the quarter ended 30 June 2015 (paid under protest).  \n- **Waiver request:** On 16 November 2026, the company filed an application with BSE seeking a **waiver of the aforementioned fine**, reiterating its objections and requesting relief.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c31964d5-d79d-4bb8-934f-cdaecc010a9c",
-    "SCRIP_CD": 544027,
-    "XML_NAME": "ANN_544027_C31964D5-D79D-4BB8-934F-CDAECC010A9C",
-    "NEWSSUB": "Fedbank Financial Services Ltd - 544027 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-16T18:29:22.79",
-    "NEWS_DT": "2026-11-16T18:29:22.79",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1da53471-51e0-43a6-9b69-2a7e0224963a.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Conference Meeting held on November 16, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/fedbank-financial-services-ltd/fedfina/544027/",
-    "SLONGNAME": "Fedbank Financial Services Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:29:22",
-    "DissemDT": "2026-11-16T18:29:22.79",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 791351,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "c31964d5-d79d-4bb8-934f-cdaecc010a9c",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14899554,
-    "DataInsDate": "2026-11-16T18:29:22.633",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Investor/Analyst Meet held on 16 Nov 2026** – The company’s officials participated in a meeting in Mumbai from 1:00 PM to 3:55 PM; the participant list (including Dymon Asia, LIC MF, Flowering Tree Group, Motilal Oswal AMC, JM Financial Products, TCG AMC, Chrys Capital, Sundaram Alternatives Group, Vasuki India Fund, Renaissance Investments, Guardian Capital) is attached as Annexure‑1 and posted on the company website.  \n\n- **No price‑sensitive information disclosed** – The company confirmed that no unpublished price‑sensitive data was shared during the session.  \n\n*The announcement contains no financial figures, dates of transactions, or other monetary decisions.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "15f360ca-1fed-4704-9dcd-f08eaef6473e",
-    "SCRIP_CD": 532827,
-    "XML_NAME": "ANN_532827_15F360CA-1FED-4704-9DCD-F08EAEF6473E",
-    "NEWSSUB": "Page Industries Ltd - 532827 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-16T18:29:13.05",
-    "NEWS_DT": "2026-11-16T18:29:13.05",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b241ffdf-a0fa-4843-8874-ca7e9122bd16.pdf",
-    "MORE": "",
-    "HEADLINE": "Schedule of Analyst/Institutional Investor meet on 23 Nov 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/page-industries-ltd/pageind/532827/",
-    "SLONGNAME": "Page Industries Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:29:13",
-    "DissemDT": "2026-11-16T18:29:13.05",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 256415,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "15f360ca-1fed-4704-9dcd-f08eaef6473e",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14899553,
-    "DataInsDate": "2026-11-16T18:29:13.01",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0a6532e2-3877-48ca-ada7-74abe3144d70",
-    "SCRIP_CD": 543428,
-    "XML_NAME": "ANN_543428_0A6532E2-3877-48CA-ADA7-74ABE3144D70",
-    "NEWSSUB": "Data Patterns (India) Ltd - 543428 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-16T18:28:37.327",
-    "NEWS_DT": "2026-11-16T18:28:37.327",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "94946030-3dff-474f-b95f-f5ac76c714ee.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed the transcript of the Earnings Conference Call on the financial results for the quarter and half-year ended September 30, 2026 held on Monday, November 09, 2026 at 11.00 AM IST.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/data-patterns-(india)-ltd/datapattns/543428/",
-    "SLONGNAME": "Data Patterns (India) Ltd",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:28:37",
-    "DissemDT": "2026-11-16T18:28:37.327",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 916731,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c549c126-4f9c-49b1-8e21-1cc9b64df546",
-    "SCRIP_CD": 526807,
-    "XML_NAME": "ANN_526807_C549C126-4F9C-49B1-8E21-1CC9B64DF546",
-    "NEWSSUB": "Seamec Ltd - 526807 - Announcement under Regulation 30 (LODR) - Awarding of order(s) or contract(s)",
-    "DT_TM": "2026-11-16T18:28:30.673",
-    "NEWS_DT": "2026-11-16T18:28:30.673",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a50c3a74-c30e-4f30-ac1e-6bf5447cb20b.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find as attached",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
-    "SLONGNAME": "Seamec Ltd",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:28:30",
-    "DissemDT": "2026-11-16T18:28:30.673",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2322868,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "72ee3c5f-87e4-41fa-a738-5bbce76e10e6",
-    "SCRIP_CD": 511196,
-    "XML_NAME": "ANN_511196_72EE3C5F-87E4-41FA-A738-5BBCE76E10E6",
-    "NEWSSUB": "Can Fin Homes Ltd - 511196 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-16T18:28:23.39",
-    "NEWS_DT": "2026-11-16T18:28:23.39",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1c5fd024-4629-405c-a8f8-528f2bbf413b.pdf",
-    "MORE": "We wish to inform you that the Top Management of the Company will be participating in the Investor/Analyst Meet to be held on November 19, 2026 & November 20, 2026. For details please refer to the attachment.",
-    "HEADLINE": "We wish to inform you that the Top Management of the Company will be participating in the Investor/Analyst Meet to be held on November 19, 2026 & November 20, 2026. For details please refer ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/can-fin-homes-ltd/canfinhome/511196/",
-    "SLONGNAME": "Can Fin Homes Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:28:23",
-    "DissemDT": "2026-11-16T18:28:23.39",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 196333,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "72ee3c5f-87e4-41fa-a738-5bbce76e10e6",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14899550,
-    "DataInsDate": "2026-11-16T18:28:23.357",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3659c859-6ac5-47cf-b781-1b8c11304075",
-    "SCRIP_CD": 534623,
-    "XML_NAME": "ANN_534623_3659C859-6AC5-47CF-B781-1B8C11304075",
-    "NEWSSUB": "Jupiter Infomedia Ltd - 534623 - Board Meeting Outcome for Intimation For Change Of Registered Office",
-    "DT_TM": "2026-11-16T18:28:09.087",
-    "NEWS_DT": "2026-11-16T18:28:09.087",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "2ccbf1b4-fb7b-482f-8749-e003218b5af0.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation for Change of Registered Office of the Company w.e.f. November 16, 2026",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jupiter-infomedia-ltd/jupiterin/534623/",
-    "SLONGNAME": "Jupiter Infomedia Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 18,
-    "News_submission_dt": "2026-11-16T18:28:08",
-    "DissemDT": "2026-11-16T18:28:09.09",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 257634,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
   }
 ]
