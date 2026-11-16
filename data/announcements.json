@@ -1,5 +1,984 @@
 [
   {
+    "NEWSID": "1a17be74-a96e-44ef-8e0d-c425d6e9d91f",
+    "SCRIP_CD": 532859,
+    "XML_NAME": "ANN_532859_1A17BE74-A96E-44EF-8E0D-C425D6E9D91F",
+    "NEWSSUB": "Hinduja Global Solutions Ltd - 532859 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-16T09:30:33.103",
+    "NEWS_DT": "2026-11-16T09:30:33.103",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "47a7f579-f596-4b0d-812f-9a53b9a1abd3.pdf",
+    "MORE": "",
+    "HEADLINE": "Press release attached.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/hinduja-global-solutions-ltd/hgs/532859/",
+    "SLONGNAME": "Hinduja Global Solutions Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-16T09:30:33",
+    "DissemDT": "2026-11-16T09:30:33.103",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 695390,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement & partnership details (Nov 16 2026):** HGS entered a **three‑year strategic collaboration** with Rackspace Technology, combining HGS’s engineering, site‑reliability, cloud, data and security expertise with Rackspace’s cloud and AI capabilities",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fc0872c3-a99f-4142-ab11-268f17f1a873",
+    "SCRIP_CD": 526775,
+    "XML_NAME": "ANN_526775_FC0872C3-A99F-4142-AB11-268F17F1A873",
+    "NEWSSUB": "Valiant Communications Ltd-$ - 526775 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-16T09:30:12.773",
+    "NEWS_DT": "2026-11-16T09:30:12.773",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e1c7ddd6-dbdd-45df-9fa3-b5cf9ae0fe73.pdf",
+    "MORE": "",
+    "HEADLINE": "As attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/valiant-communications-ltd/valiant/526775/",
+    "SLONGNAME": "Valiant Communications Ltd-$",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-16T09:30:12",
+    "DissemDT": "2026-11-16T09:30:12.773",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1913836,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Valiant Communications Ltd. announced, pursuant to SEBI Regulation 30, that a newspaper advertisement regarding the loss of share certificates was published on **15 November 2026** in the *Financial Express* (English) and *Jansatta* (Hindi).  \n- The notice contains no monetary figures, financial results, or other financial decisions—only the procedural information about the lost share certificates.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8219db33-9744-478e-a726-042dc4d87ad0",
+    "SCRIP_CD": 531171,
+    "XML_NAME": "ANN_531171_8219DB33-9744-478E-A726-042DC4D87AD0",
+    "NEWSSUB": "Dharti Proteins Ltd - 531171 - Board Meeting Outcome for Meeting Of Board Of Directors Held On Monday, November 16, 2026",
+    "DT_TM": "2026-11-16T09:27:10.893",
+    "NEWS_DT": "2026-11-16T09:27:10.893",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a1f0b8a5-8338-4fbe-a762-073e8a398eee.pdf",
+    "MORE": "",
+    "HEADLINE": "The Outcome of Meeting of Board of directors held on Monday, November 16, 2026 for the purpose of Allotment of Bonus Shares has been attached herewith.",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dharti-proteins-ltd/dharti/531171/",
+    "SLONGNAME": "Dharti Proteins Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-16T09:27:09",
+    "DissemDT": "2026-11-16T09:27:10.893",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 775426,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 16 Nov 2026, Dharti Proteins Ltd’s board approved the issuance of **75,000 fully‑paid bonus equity shares (₹10 each)** on a 1:1 basis to all shareholders (excluding promoters) whose names were on the register as of **13 Nov 2026**.  \n- The bonus issue raises the company’s paid‑up equity share capital from **₹5,000,000 (500,000 shares)** to **₹5,750,000 (575,000 shares)**; the board meeting ran from **09:00 AM to 09:15 AM**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e71ef455-b863-445b-8441-8873c25980b0",
+    "SCRIP_CD": 538891,
+    "XML_NAME": "ANN_538891_E71EF455-B863-445B-8441-8873C25980B0",
+    "NEWSSUB": "Magellanic Cloud Ltd - 538891 - Investor Presentation On The Unaudited Financial Results For The Quarter And Half Year Ended September 30, 2026",
+    "DT_TM": "2026-11-16T09:16:39.82",
+    "NEWS_DT": "2026-11-16T09:16:39.82",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1656cd90-8880-4b68-b839-bdda2756e39b.pdf",
+    "MORE": "",
+    "HEADLINE": "Attached herewith the Investor Presentation on the Unaudited Financial Result for the quarter and half year ended September 30,2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/magellanic-cloud-ltd/mcloud/538891/",
+    "SLONGNAME": "Magellanic Cloud Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-16T09:16:39",
+    "DissemDT": "2026-11-16T09:16:39.82",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8674908,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement informs that Magellanic Cloud Ltd. has submitted its Investor Presentation covering the unaudited financial results for Q2 and the half‑year ended 30 September 2026; the presentation was reviewed by the Audit Committee and approved by the Board on 13 November 2026 and is also posted on the company’s website.  \n\n- No specific financial figures, revenue numbers, profit margins, or other quantitative details are included in the text.",
+    "key_metrics": {
+      "revenue": "79.3",
+      "net_profit": "21452.45",
+      "total_assets": "30",
+      "total_equity": "30",
+      "total_debt": "14418.70",
+      "eps": "5632.65",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 22,
+        "rows": [
+          {
+            "col_1": "",
+            "21,292.36": "160.09",
+            "18,027.63 16,444.24": "177.48 138.56",
+            "col_4": "",
+            "39,319.99": "337.57",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Total revenue",
+            "21,292.36": "21,452.45",
+            "18,027.63 16,444.24": "18,205.11",
+            "col_4": "16,582.80",
+            "39,319.99": "39,657.56",
+            "col_6": "33,016.78",
+            "col_7": "70,631.90"
+          },
+          {
+            "col_1": "",
+            "21,292.36": "2,876.04",
+            "18,027.63 16,444.24": "714.61 519.60",
+            "col_4": "",
+            "39,319.99": "3,590.65",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "3,049.03",
+            "18,027.63 16,444.24": "2,721.70 1,801.19",
+            "col_4": "",
+            "39,319.99": "5,770.74",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "7,663.23",
+            "18,027.63 16,444.24": "7,572.21 7,078.43",
+            "col_4": "",
+            "39,319.99": "15,235.44",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "701.42",
+            "18,027.63 16,444.24": "666.96 565.19",
+            "col_4": "",
+            "39,319.99": "1,368.38",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "1,432.89",
+            "18,027.63 16,444.24": "1,465.20 1,202.50",
+            "col_4": "",
+            "39,319.99": "2,898.09",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "2,124.18",
+            "18,027.63 16,444.24": "1,947.72 1,657.06",
+            "col_4": "",
+            "39,319.99": "4,071.89",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Total expenses",
+            "21,292.36": "17,846.79",
+            "18,027.63 16,444.24": "15,088.40",
+            "col_4": "12,823.98",
+            "39,319.99": "32,935.19",
+            "col_6": "25,250.11",
+            "col_7": "55,853.49"
+          },
+          {
+            "col_1": "",
+            "21,292.36": "3,605.66",
+            "18,027.63 16,444.24": "3,116.71 3,758.82",
+            "col_4": "",
+            "39,319.99": "6,722.37",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "(14.66)",
+            "18,027.63 16,444.24": "– –",
+            "col_4": "",
+            "39,319.99": "(14.66)",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "–",
+            "18,027.63 16,444.24": "– –",
+            "col_4": "",
+            "39,319.99": "–",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Profit before tax",
+            "21,292.36": "3,591.00",
+            "18,027.63 16,444.24": "3,116.71",
+            "col_4": "3,758.82",
+            "39,319.99": "6,707.71",
+            "col_6": "7,766.67",
+            "col_7": "14,614.23"
+          },
+          {
+            "col_1": "",
+            "21,292.36": "979.52",
+            "18,027.63 16,444.24": "792.02 1,108.06",
+            "col_4": "",
+            "39,319.99": "1,771.54",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "1.04",
+            "18,027.63 16,444.24": "(4.21) –",
+            "col_4": "",
+            "39,319.99": "(3.17)",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "(49.50)",
+            "18,027.63 16,444.24": "(41.44) (110.99)",
+            "col_4": "",
+            "39,319.99": "(90.94)",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Profit after tax",
+            "21,292.36": "2,659.93",
+            "18,027.63 16,444.24": "2,370.34",
+            "col_4": "2,761.75",
+            "39,319.99": "5,030.27",
+            "col_6": "5,538.74",
+            "col_7": "11,428.68"
+          },
+          {
+            "col_1": "",
+            "21,292.36": "(13.27)",
+            "18,027.63 16,444.24": "(0.50) (20.79)",
+            "col_4": "",
+            "39,319.99": "(13.77)",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "2,673.20",
+            "18,027.63 16,444.24": "2,370.84 2,782.54",
+            "col_4": "",
+            "39,319.99": "5,044.04",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "21,292.36": "304.72",
+            "18,027.63 16,444.24": "(31.33) 561.27",
+            "col_4": "",
+            "39,319.99": "273.38",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Total comprehensive income",
+            "21,292.36": "2,964.65",
+            "18,027.63 16,444.24": "2,339.00",
+            "col_4": "3,323.02",
+            "39,319.99": "5,303.65",
+            "col_6": "6,086.71",
+            "col_7": "13,633.90"
+          },
+          {
+            "col_1": "",
+            "21,292.36": "0.45",
+            "18,027.63 16,444.24": "0.40 0.48",
+            "col_4": "",
+            "39,319.99": "0.86",
+            "col_6": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "col_1": "",
+            "11,781.34": "62,092.02",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "col_1": "",
+            "11,781.34": "73,873.36",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "col_1": "Total equity",
+            "11,781.34": "73,871.97",
+            "col_3": "68,678.78",
+            "col_4": "+7.6%"
+          },
+          {
+            "col_1": "",
+            "11,781.34": "62,741.33",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "col_1": "",
+            "11,781.34": "71,061.64",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "col_1": "Total assets",
+            "11,781.34": "1,33,802.97",
+            "col_3": "1,15,319.00",
+            "col_4": "+16.0%"
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "col_1": "",
+            "5,632.65": "15,618.02",
+            "4,253.89 3,142.31": "13,645.40 13,320.42",
+            "col_4": "",
+            "9,886.54": "29,263.42",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "5,632.65": "41.68",
+            "4,253.89 3,142.31": "128.34 21.16",
+            "col_4": "",
+            "9,886.54": "170.02",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Revenue from operations",
+            "5,632.65": "21,292.36",
+            "4,253.89 3,142.31": "18,027.63",
+            "col_4": "16,483.89",
+            "9,886.54": "39,319.99",
+            "col_6": "32,879.52",
+            "col_7": "69,787.64"
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "table_index": 1,
+        "row_count": 9,
+        "rows": [
+          {
+            "col_1": "",
+            "1,911.49": "3,799.70",
+            "1,780.13 1,407.21": "3,246.63 4,036.55",
+            "col_4": "",
+            "3,691.62": "7,046.33",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "1,911.49": "(145.96)",
+            "1,780.13 1,407.21": "44.62 (55.80)",
+            "col_4": "",
+            "3,691.62": "(101.34)",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Segment results",
+            "1,911.49": "5,565.23",
+            "1,780.13 1,407.21": "5,071.38",
+            "col_4": "5,387.96",
+            "3,691.62": "10,636.61",
+            "col_6": "11,069.56",
+            "col_7": "21,421.21"
+          },
+          {
+            "col_1": "",
+            "1,911.49": "701.42",
+            "1,780.13 1,407.21": "666.96 565.19",
+            "col_4": "",
+            "3,691.62": "1,368.38",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "1,911.49": "1,432.89",
+            "1,780.13 1,407.21": "1,465.20 1,202.50",
+            "col_4": "",
+            "3,691.62": "2,898.09",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "1,911.49": "160.09",
+            "1,780.13 1,407.21": "177.48 138.56",
+            "col_4": "",
+            "3,691.62": "337.57",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Profit before tax",
+            "1,911.49": "3,591.01",
+            "1,780.13 1,407.21": "3,116.70",
+            "col_4": "3,758.83",
+            "3,691.62": "6,707.71",
+            "col_6": "7,766.67",
+            "col_7": "14,614.23"
+          },
+          {
+            "col_1": "",
+            "1,911.49": "931.07",
+            "1,780.13 1,407.21": "746.37 997.07",
+            "col_4": "",
+            "3,691.62": "1,677.44",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Profit after tax",
+            "1,911.49": "2,659.93",
+            "1,780.13 1,407.21": "2,370.33",
+            "col_4": "2,761.76",
+            "3,691.62": "5,030.27",
+            "col_6": "5,538.74",
+            "col_7": "11,428.68"
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "table_index": 2,
+        "row_count": 3,
+        "rows": [
+          {
+            "col_1": "",
+            "55,252.22": "70,273.81",
+            "48,783.21 38,895.71": "62,833.29 57,605.02",
+            "col_4": "",
+            "55,252.22_1": "70,273.81",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "55,252.22": "8,276.95",
+            "48,783.21 38,895.71": "7,899.77 6,657.36",
+            "col_4": "",
+            "55,252.22_1": "8,276.95",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Total assets",
+            "55,252.22": "1,33,802.98",
+            "48,783.21 38,895.71": "1,19,516.26",
+            "col_4": "1,03,158.09",
+            "55,252.22_1": "1,33,802.97",
+            "col_6": "1,03,158.10",
+            "col_7": "1,15,260.84"
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "table_index": 3,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "",
+            "29,135.46": "28,327.91",
+            "24,145.24 15,525.26": "22,476.05 28,987.90",
+            "col_4": "",
+            "29,135.46_1": "28,327.91",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "29,135.46": "2,467.64",
+            "24,145.24 15,525.26": "1,986.42 816.18",
+            "col_4": "",
+            "29,135.46_1": "2,467.64",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "Total liabilities",
+            "29,135.46": "59,931.01",
+            "24,145.24 15,525.26": "48,607.72",
+            "col_4": "45,329.33",
+            "29,135.46_1": "59,931.01",
+            "col_6": "45,329.33",
+            "col_7": "46,582.05"
+          },
+          {
+            "col_1": "Capital employed",
+            "29,135.46": "73,871.97",
+            "24,145.24 15,525.26": "70,908.54",
+            "col_4": "57,828.75",
+            "29,135.46_1": "73,871.97",
+            "col_6": "57,828.76",
+            "col_7": "68,678.78"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "col_1": "",
+            "10,325.50": "674.37",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "387.56",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "25,555.21",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "12,888.81",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "6,046.59",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "4,800.63",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "45.34",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "1,723.58",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "222.79",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "10,325.50": "70.95",
+            "col_3": ""
+          },
+          {
+            "col_1": "Total non-current assets",
+            "10,325.50": "62,741.33",
+            "col_3": "59,659.21"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "",
+            "11,781.34": "62,092.02",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "11,781.34": "73,873.36",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "11,781.34": "(1.39)",
+            "col_3": ""
+          },
+          {
+            "col_1": "Total equity",
+            "11,781.34": "73,871.97",
+            "col_3": "68,678.78"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 2,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "",
+            "14,418.70": "426.33",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "14,418.70": "616.21",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "14,418.70": "1,413.64",
+            "col_3": ""
+          },
+          {
+            "col_1": "Total non-current liabilities",
+            "14,418.70": "16,874.88",
+            "col_3": "18,992.76"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 3,
+        "row_count": 10,
+        "rows": [
+          {
+            "col_1": "",
+            "22,407.13": "419.52",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "22,407.13": "4,366.83",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "22,407.13": "5,469.73",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "22,407.13": "2,260.80",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "22,407.13": "2,031.39",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "22,407.13": "139.29",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "22,407.13": "5,961.44",
+            "col_3": ""
+          },
+          {
+            "col_1": "Total current liabilities",
+            "22,407.13": "43,056.12",
+            "col_3": "27,647.47"
+          },
+          {
+            "col_1": "",
+            "22,407.13": "59,931.01",
+            "col_3": ""
+          },
+          {
+            "col_1": "Total equity and liabilities",
+            "22,407.13": "1,33,802.97",
+            "col_3": "1,15,319.00"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 4,
+        "row_count": 9,
+        "rows": [
+          {
+            "col_1": "",
+            "2,503.06": "1,885.00",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,503.06": "37,450.70",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,503.06": "2,755.33",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,503.06": "1,888.60",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,503.06": "1,062.20",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,503.06": "14,706.38",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,503.06": "8,810.36",
+            "col_3": ""
+          },
+          {
+            "col_1": "Total current assets",
+            "2,503.06": "71,061.64",
+            "col_3": "55,659.79"
+          },
+          {
+            "col_1": "Total assets",
+            "2,503.06": "1,33,802.97",
+            "col_3": "1,15,319.00"
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "table_index": 1,
+        "row_count": 12,
+        "rows": [
+          {
+            "col_1": "",
+            "2,428.69": "469.41",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "(136.09)",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "(1.14)",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "75.44",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "(25.32)",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "76.52",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "452.85",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "(4.24)",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "(0.03)",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "16.92",
+            "col_3": ""
+          },
+          {
+            "col_1": "",
+            "2,428.69": "1,291.85",
+            "col_3": ""
+          },
+          {
+            "col_1": "Operating profit before working capital changes",
+            "2,428.69": "11,367.22",
+            "col_3": "11,214.00"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "",
+            "3,591.01": "701.42",
+            "3,116.70 3,758.83": "666.96 565.19",
+            "col_4": "",
+            "6,707.71": "1,368.38",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "3,591.01": "1,432.89",
+            "3,116.70 3,758.83": "1,465.20 1,202.50",
+            "col_4": "",
+            "6,707.71": "2,898.09",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "",
+            "3,591.01": "160.09",
+            "3,116.70 3,758.83": "177.48 138.56",
+            "col_4": "",
+            "6,707.71": "337.57",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "col_1": "EBITDA (total segment results)",
+            "3,591.01": "5,565.23",
+            "3,116.70 3,758.83": "5,071.38",
+            "col_4": "5,387.96",
+            "6,707.71": "10,636.61",
+            "col_6": "11,069.56",
+            "col_7": "21,421.21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "6b28afa1-da25-40ba-9c99-016a37556845",
+    "SCRIP_CD": 538668,
+    "XML_NAME": "ANN_538668_6B28AFA1-DA25-40BA-9C99-016A37556845",
+    "NEWSSUB": "Meghna Infracon Infrastructure Ltd - 538668 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-16T09:09:13.757",
+    "NEWS_DT": "2026-11-16T09:09:13.757",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "69440ffe-0e9c-49ac-9d91-6fb07ec7664a.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed press release.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/meghna-infracon-infrastructure-ltd/miil/538668/",
+    "SLONGNAME": "Meghna Infracon Infrastructure Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-16T09:09:13",
+    "DissemDT": "2026-11-16T09:09:13.757",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1503213,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the corporate announcement:\n\n* **Financial Performance (Q2 & H1 FY27):** For the quarter ended September 30, 2026 (Q2 FY27), the company reported revenue from operations of Rs. 153.12 million, EBITDA of Rs. 8.15 million (5.29% margin), PAT of Rs. 7.02 million (4.56% margin), pre-sales of Rs. 420 million, and an EPS of Rs. 0.18; total H1 FY27 revenue stood at Rs. 238.24 million with a PAT of Rs. 12.69 million.\n* **Project Pipeline & Growth Targets:** The company highlights a total development pipeline of Rs. 11,230 million, supported by ongoing projects with an estimated Gross Development Value (GDV) of Rs. 2,830 million and planned project launches through December 2026 representing an additional GDV of over Rs. 8,400 million.",
+    "key_metrics": {
+      "revenue": "153.12",
+      "net_profit": "7.02",
+      "operating_profit": "8.15",
+      "eps": "0.18",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "9e35a1ca-4cb5-45a0-8b78-36040fb24dbb",
     "SCRIP_CD": 509631,
     "XML_NAME": "ANN_509631_9E35A1CA-4CB5-45A0-8B78-36040FB24DBB",
@@ -10894,455 +11873,6 @@
     "key_metrics": {
       "revenue": " cr",
       "eps": "17.78",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "29e7a27c-6777-4243-9ae6-a06fff6b8f82",
-    "SCRIP_CD": 506109,
-    "XML_NAME": "ANN_506109_29E7A27C-6777-4243-9AE6-A06FFF6B8F82",
-    "NEWSSUB": "Genesys International Corporation Ltd - 506109 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T17:42:17.887",
-    "NEWS_DT": "2026-11-15T17:42:17.887",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7c53fa98-72a4-4818-8e02-cda025abebf9.pdf",
-    "MORE": "",
-    "HEADLINE": "Genesys International Corporation Limited has informed the exchanges regarding the Newspaper Publication.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/genesys-international-corporation-ltd/genesys/506109/",
-    "SLONGNAME": "Genesys International Corporation Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-15T17:42:17",
-    "DissemDT": "2026-11-15T17:42:17.887",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6620492,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "936.84",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d1546741-877e-4a9e-b7a6-c8c04fcc3314",
-    "SCRIP_CD": 531147,
-    "XML_NAME": "ANN_531147_D1546741-877E-4A9E-B7A6-C8C04FCC3314",
-    "NEWSSUB": "Alicon Castalloy Ltd - 531147 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-15T17:38:11.793",
-    "NEWS_DT": "2026-11-15T17:38:11.793",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d78a8df5-cc02-42a5-9c34-20d74ee53461.pdf",
-    "MORE": "",
-    "HEADLINE": "Earnings Presenation.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/alicon-castalloy-ltd/alicon/531147/",
-    "SLONGNAME": "Alicon Castalloy Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-15T17:38:11",
-    "DissemDT": "2026-11-15T17:38:11.793",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2159523,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company issued an earnings presentation for Q1 FY 2026‑27 (quarter ended 30 September 2026) and a separate Q2 & H1 FY 27 results presentation dated 14 November 2026.  \n- No specific financial figures, revenue, profit, or other quantitative details are disclosed in the announcement.",
-    "key_metrics": {
-      "revenue": "2",
-      "net_profit": "3.2",
-      "operating_profit": "2",
-      "total_debt": "90.13",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 18,
-        "table_index": 1,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars (Rs. crore)": "Net Revenue from Operations",
-            "Q2 FY27": "649.84",
-            "Q2 FY26": "429.92",
-            "Y-o-Y Shift": "51%",
-            "H1 FY27": "1,227.85",
-            "H1 FY26": "849.03",
-            "Y-o-Y Shift_1": "45%"
-          },
-          {
-            "Particulars (Rs. crore)": "Other Income",
-            "Q2 FY27": "2.14",
-            "Q2 FY26": "3.69",
-            "Y-o-Y Shift": "-42%",
-            "H1 FY27": "3.20",
-            "H1 FY26": "5.78",
-            "Y-o-Y Shift_1": "-45%"
-          },
-          {
-            "Particulars (Rs. crore)": "Total Income",
-            "Q2 FY27": "651.98",
-            "Q2 FY26": "433.61",
-            "Y-o-Y Shift": "50%",
-            "H1 FY27": "1,231.05",
-            "H1 FY26": "854.80",
-            "Y-o-Y Shift_1": "44%"
-          },
-          {
-            "Particulars (Rs. crore)": "Total Expenditure",
-            "Q2 FY27": "586.68",
-            "Q2 FY26": "376.39",
-            "Y-o-Y Shift": "56%",
-            "H1 FY27": "1,110.45",
-            "H1 FY26": "746.57",
-            "Y-o-Y Shift_1": "49%"
-          },
-          {
-            "Particulars (Rs. crore)": "Raw Material expenses",
-            "Q2 FY27": "393.69",
-            "Q2 FY26": "221.88",
-            "Y-o-Y Shift": "77%",
-            "H1 FY27": "744.92",
-            "H1 FY26": "449.42",
-            "Y-o-Y Shift_1": "66%"
-          },
-          {
-            "Particulars (Rs. crore)": "Employee benefits expense",
-            "Q2 FY27": "60.69",
-            "Q2 FY26": "53.86",
-            "Y-o-Y Shift": "13%",
-            "H1 FY27": "115.26",
-            "H1 FY26": "104.22",
-            "Y-o-Y Shift_1": "11%"
-          },
-          {
-            "Particulars (Rs. crore)": "Other expenses",
-            "Q2 FY27": "132.30",
-            "Q2 FY26": "100.65",
-            "Y-o-Y Shift": "31%",
-            "H1 FY27": "250.27",
-            "H1 FY26": "192.92",
-            "Y-o-Y Shift_1": "30%"
-          },
-          {
-            "Particulars (Rs. crore)": "EBITDA",
-            "Q2 FY27": "65.31",
-            "Q2 FY26": "57.22",
-            "Y-o-Y Shift": "14%",
-            "H1 FY27": "120.60",
-            "H1 FY26": "108.24",
-            "Y-o-Y Shift_1": "11%"
-          },
-          {
-            "Particulars (Rs. crore)": "EBITDA margin (%)",
-            "Q2 FY27": "10.0%",
-            "Q2 FY26": "13.2%",
-            "Y-o-Y Shift": "-318 Bps",
-            "H1 FY27": "9.8%",
-            "H1 FY26": "12.7%",
-            "Y-o-Y Shift_1": "-287 Bps"
-          },
-          {
-            "Particulars (Rs. crore)": "Finance Costs",
-            "Q2 FY27": "11.33",
-            "Q2 FY26": "11.56",
-            "Y-o-Y Shift": "-2%",
-            "H1 FY27": "21.53",
-            "H1 FY26": "22.54",
-            "Y-o-Y Shift_1": "-4%"
-          },
-          {
-            "Particulars (Rs. crore)": "Depreciation and Amortization",
-            "Q2 FY27": "30.10",
-            "Q2 FY26": "26.64",
-            "Y-o-Y Shift": "13%",
-            "H1 FY27": "56.94",
-            "H1 FY26": "51.52",
-            "Y-o-Y Shift_1": "11%"
-          },
-          {
-            "Particulars (Rs. crore)": "Profit before tax & Exceptional Item",
-            "Q2 FY27": "23.87",
-            "Q2 FY26": "19.02",
-            "Y-o-Y Shift": "26%",
-            "H1 FY27": "42.13",
-            "H1 FY26": "34.18",
-            "Y-o-Y Shift_1": "23%"
-          },
-          {
-            "Particulars (Rs. crore)": "Exceptional Item",
-            "Q2 FY27": "0.00",
-            "Q2 FY26": "0.00",
-            "Y-o-Y Shift": "NA",
-            "H1 FY27": "0.00",
-            "H1 FY26": "-2.57",
-            "Y-o-Y Shift_1": "NA"
-          },
-          {
-            "Particulars (Rs. crore)": "PBT",
-            "Q2 FY27": "23.87",
-            "Q2 FY26": "19.02",
-            "Y-o-Y Shift": "26%",
-            "H1 FY27": "42.13",
-            "H1 FY26": "31.61",
-            "Y-o-Y Shift_1": "33%"
-          },
-          {
-            "Particulars (Rs. crore)": "Tax Expenses",
-            "Q2 FY27": "6.27",
-            "Q2 FY26": "5.13",
-            "Y-o-Y Shift": "22%",
-            "H1 FY27": "13.09",
-            "H1 FY26": "8.41",
-            "Y-o-Y Shift_1": "56%"
-          },
-          {
-            "Particulars (Rs. crore)": "PAT",
-            "Q2 FY27": "17.60",
-            "Q2 FY26": "13.89",
-            "Y-o-Y Shift": "27%",
-            "H1 FY27": "29.05",
-            "H1 FY26": "23.20",
-            "Y-o-Y Shift_1": "25%"
-          },
-          {
-            "Particulars (Rs. crore)": "PAT Margin (%)",
-            "Q2 FY27": "2.7%",
-            "Q2 FY26": "3.2%",
-            "Y-o-Y Shift": "-50 Bps",
-            "H1 FY27": "2.4%",
-            "H1 FY26": "2.7%",
-            "Y-o-Y Shift_1": "-35 Bps"
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 1,
-        "row_count": 9,
-        "rows": [
-          {
-            "Liabilities (Rs. crore)": "Shareholders’ Funds",
-            "As on Sept. 30, 2026": "641.95",
-            "As on Mar. 31, 2026": "628.30"
-          },
-          {
-            "Liabilities (Rs. crore)": "Non-Current Liabilities (NCL)",
-            "As on Sept. 30, 2026": "148.11",
-            "As on Mar. 31, 2026": "137.79"
-          },
-          {
-            "Liabilities (Rs. crore)": "Long –term Borrowings",
-            "As on Sept. 30, 2026": "90.13",
-            "As on Mar. 31, 2026": "102.26"
-          },
-          {
-            "Liabilities (Rs. crore)": "Other NCL",
-            "As on Sept. 30, 2026": "57.98",
-            "As on Mar. 31, 2026": "35.53"
-          },
-          {
-            "Liabilities (Rs. crore)": "Current Liabilities (CL)",
-            "As on Sept. 30, 2026": "819.96",
-            "As on Mar. 31, 2026": "675.50"
-          },
-          {
-            "Liabilities (Rs. crore)": "Short –term Borrowings",
-            "As on Sept. 30, 2026": "256.81",
-            "As on Mar. 31, 2026": "222.78"
-          },
-          {
-            "Liabilities (Rs. crore)": "Trade Payables",
-            "As on Sept. 30, 2026": "432.13",
-            "As on Mar. 31, 2026": "350.46"
-          },
-          {
-            "Liabilities (Rs. crore)": "Other CL",
-            "As on Sept. 30, 2026": "131.01",
-            "As on Mar. 31, 2026": "102.26"
-          },
-          {
-            "Liabilities (Rs. crore)": "Total",
-            "As on Sept. 30, 2026": "1,610.02",
-            "As on Mar. 31, 2026": "1,441.59"
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 2,
-        "row_count": 7,
-        "rows": [
-          {
-            "Assets (Rs. crore)": "Non-Current Assets",
-            "As on Sept. 30, 2026": "710.54",
-            "As on Mar. 31, 2026": "690.11"
-          },
-          {
-            "Assets (Rs. crore)": "Current Assets (CL)",
-            "As on Sept. 30, 2026": "899.48",
-            "As on Mar. 31, 2026": "751.47"
-          },
-          {
-            "Assets (Rs. crore)": "Inventories",
-            "As on Sept. 30, 2026": "191.95",
-            "As on Mar. 31, 2026": "160.94"
-          },
-          {
-            "Assets (Rs. crore)": "Trade Receivables",
-            "As on Sept. 30, 2026": "629.72",
-            "As on Mar. 31, 2026": "534.68"
-          },
-          {
-            "Assets (Rs. crore)": "Cash & Bank Balance",
-            "As on Sept. 30, 2026": "25.15",
-            "As on Mar. 31, 2026": "19.80"
-          },
-          {
-            "Assets (Rs. crore)": "Others",
-            "As on Sept. 30, 2026": "52.66",
-            "As on Mar. 31, 2026": "36.06"
-          },
-          {
-            "Assets (Rs. crore)": "Total",
-            "As on Sept. 30, 2026": "1,610.02",
-            "As on Mar. 31, 2026": "1,441.59"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "b109e5ee-6ac4-4536-8391-270bfef419bb",
-    "SCRIP_CD": 517449,
-    "XML_NAME": "ANN_517449_B109E5EE-6AC4-4536-8391-270BFEF419BB",
-    "NEWSSUB": "Magna Electro Castings Ltd-$ - 517449 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T17:29:40.947",
-    "NEWS_DT": "2026-11-15T17:29:40.947",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d3e3921b-db04-4ce4-924e-22dfe6956b01.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Newspaper publication regarding opening of special window for transfer and demat of securities.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/magna-electro-castings-ltd/magnaelq/517449/",
-    "SLONGNAME": "Magna Electro Castings Ltd-$",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-15T17:29:40",
-    "DissemDT": "2026-11-15T17:29:40.947",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4124572,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Magna Electro Castings Ltd. announced, via newspaper advertisements in the *Financial Express* (English) and *Maalai Malar* (Tamil) on **15 Nov 2026**, the opening of a **Special Window for Transfer and Dematerialisation of Physical Securities** as required by SEBI’s Regulation 47 (circular dated **30 Jan 2026**).  \n\n- The notice contains no monetary figures, earnings data, or other financial decisions; it solely informs shareholders of the dematerialisation process and directs them to the company website for further details.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "8f5e528e-583d-4d6f-a672-cfcbbc55e807",
-    "SCRIP_CD": 517449,
-    "XML_NAME": "ANN_517449_8F5E528E-583D-4D6F-A672-CFCBBC55E807",
-    "NEWSSUB": "Magna Electro Castings Ltd-$ - 517449 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-15T17:27:28.23",
-    "NEWS_DT": "2026-11-15T17:27:28.23",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c145f274-edd6-4345-a1e6-d88977e4d82a.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed newspaper intimation regarding Postal Ballot notice dated 11th November, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/magna-electro-castings-ltd/magnaelq/517449/",
-    "SLONGNAME": "Magna Electro Castings Ltd-$",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-15T17:27:28",
-    "DissemDT": "2026-11-15T17:27:28.23",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4119284,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Magna Electro Castings Ltd. announced that newspaper advertisements (Financial Express – English and Maalai Malar – Tamil) were published on **15 Nov 2026** regarding the dispatch of a **postal‑ballot notice dated 11 Nov 2026**, which will be sent to shareholders on **14 Nov 2026** and also posted on the company’s website (www.magnacast.com).  \n\n- The announcement contains **no financial figures, amounts, or monetary decisions**—it solely informs about the timing and publication of the postal‑ballot notice.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9c0c2734-4f32-42f3-b153-0729fd484f45",
-    "SCRIP_CD": 544978,
-    "XML_NAME": "ANN_544978_9C0C2734-4F32-42F3-B153-0729FD484F45",
-    "NEWSSUB": "Shree TNB Polymers Ltd - 544978 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-15T17:17:58.903",
-    "NEWS_DT": "2026-11-15T17:17:58.903",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7b776516-8fc3-44fb-88d5-fe927f183ef7.pdf",
-    "MORE": "",
-    "HEADLINE": "Result Release to Unaudited Financial Result for half year ended 30th September, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/shree-tnb-polymers-ltd/shreetnb/544978/",
-    "SLONGNAME": "Shree TNB Polymers Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-15T17:17:58",
-    "DissemDT": "2026-11-15T17:17:58.903",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 566765,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "135",
-      "net_profit": "2.58 crore",
-      "eps": "3.37",
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
