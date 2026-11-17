@@ -1,5 +1,725 @@
 [
   {
+    "NEWSID": "b31f5ec5-c4a4-4fb6-8a26-fdb54e1c78fd",
+    "SCRIP_CD": 540774,
+    "XML_NAME": "ANN_540774_B31F5EC5-C4A4-4FB6-8A26-FDB54E1C78FD",
+    "NEWSSUB": "IFGL Refractories Ltd - 540774 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-17T07:47:01.92",
+    "NEWS_DT": "2026-11-17T07:47:01.92",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "eed1efea-fe9c-4de7-b6d9-89daf8fb76b9.pdf",
+    "MORE": "In compliance of above, please find enclosed herewith copy of an Investors Presentation on Q2 & H1FY27 Unaudited Financial Results. Copy of this is being hosted on Company's Website: https://ifglgroup.com/ and shall be available at link https://ifglgroup.com/investor/investor-presentation/",
+    "HEADLINE": "In compliance of above, please find enclosed herewith copy of an Investors Presentation on Q2 & H1FY27 Unaudited Financial Results. Copy of this is being hosted on Company's Website: https://ifglgroup.com/ ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ifgl-refractories-ltd/ifglexpor/540774/",
+    "SLONGNAME": "IFGL Refractories Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-17T07:47:01",
+    "DissemDT": "2026-11-17T07:47:01.92",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4121736,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Date & filing:** On 17 November 2026, IFGL Refractories Ltd filed a Regulation 30 disclosure with NSE/BSE, announcing the release of its Q2 & H1 FY 27 unaudited financial results.  \n- **Content & availability:** The company provided an investor‑presentation slide deck (hosted at https://ifglgroup.com/investor/investor‑presentation/)",
+    "key_metrics": {
+      "revenue": "75.4",
+      "net_profit": "18.3",
+      "operating_profit": "6",
+      "total_assets": "1073.4",
+      "total_equity": "1073.4",
+      "total_debt": "13.9",
+      "eps": "2.5",
+      "dividend": "70.0 %",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 8,
+        "table_index": 0,
+        "row_count": 15,
+        "rows": [
+          {
+            "Profit & Loss [Rs. Crs.]": "Total Income",
+            "Q2FY27": "325.3",
+            "Q2FY26": "288.4",
+            "Y-o-Y": "12.8%",
+            "H1FY27": "624.1",
+            "H1FY26": "566.6",
+            "Y-o-Y_1": "10.1%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Raw Material",
+            "Q2FY27": "182.6",
+            "Q2FY26": "158.0",
+            "Y-o-Y": "",
+            "H1FY27": "352.9",
+            "H1FY26": "306.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Gross Profit",
+            "Q2FY27": "142.8",
+            "Q2FY26": "130.3",
+            "Y-o-Y": "9.5%",
+            "H1FY27": "271.2",
+            "H1FY26": "260.2",
+            "Y-o-Y_1": "4.2%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Gross Profit %",
+            "Q2FY27": "43.9%",
+            "Q2FY26": "45.2%",
+            "Y-o-Y": "",
+            "H1FY27": "43.5%",
+            "H1FY26": "45.9%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Employee Expenses",
+            "Q2FY27": "29.7",
+            "Q2FY26": "28.2",
+            "Y-o-Y": "",
+            "H1FY27": "58.4",
+            "H1FY26": "56.3",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Other Expenses",
+            "Q2FY27": "78.1",
+            "Q2FY26": "64.7",
+            "Y-o-Y": "",
+            "H1FY27": "146.4",
+            "H1FY26": "128.9",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "EBITDA",
+            "Q2FY27": "35.1",
+            "Q2FY26": "37.4",
+            "Y-o-Y": "-6.2%",
+            "H1FY27": "66.4",
+            "H1FY26": "75.1",
+            "Y-o-Y_1": "-11.5%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "EBITDA %",
+            "Q2FY27": "10.8%",
+            "Q2FY26": "13.0%",
+            "Y-o-Y": "",
+            "H1FY27": "10.6%",
+            "H1FY26": "13.2%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Depreciation",
+            "Q2FY27": "8.2",
+            "Q2FY26": "14.6",
+            "Y-o-Y": "",
+            "H1FY27": "16.3",
+            "H1FY26": "28.8",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Finance Cost",
+            "Q2FY27": "2.4",
+            "Q2FY26": "2.9",
+            "Y-o-Y": "",
+            "H1FY27": "4.6",
+            "H1FY26": "6.8",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Profit before Tax",
+            "Q2FY27": "24.5",
+            "Q2FY26": "20.0",
+            "Y-o-Y": "22.6%",
+            "H1FY27": "45.5",
+            "H1FY26": "39.5",
+            "Y-o-Y_1": "15.2%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Tax",
+            "Q2FY27": "6.2",
+            "Q2FY26": "5.1",
+            "Y-o-Y": "",
+            "H1FY27": "11.4",
+            "H1FY26": "9.9",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Profit after Tax",
+            "Q2FY27": "18.3",
+            "Q2FY26": "14.9",
+            "Y-o-Y": "23.3%",
+            "H1FY27": "34.1",
+            "H1FY26": "29.6",
+            "Y-o-Y_1": "15.2%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Profit after Tax %",
+            "Q2FY27": "5.6%",
+            "Q2FY26": "5.2%",
+            "Y-o-Y": "",
+            "H1FY27": "5.5%",
+            "H1FY26": "5.2%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "EPS (Rs.)",
+            "Q2FY27": "2.5",
+            "Q2FY26": "2.1",
+            "Y-o-Y": "",
+            "H1FY27": "4.7",
+            "H1FY26": "4.1",
+            "Y-o-Y_1": ""
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Assets (in Rs. Crs.)": "Non-Current Assets",
+            "Sep-26": "380.2",
+            "Mar-26": "394.3",
+            "Equity & Liabilities (in Rs. Crs.)": "Equity",
+            "Sep-26_1": "726.8",
+            "Mar-26_1": "708.0"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Fixed Assets Property Plant & Equipment Capital WIP Goodwill Other Intangible Assets Right of Use Asset Financial Assets Investments Others Income Tax Assets (net) Other Non current Assets",
+            "Sep-26": "254.1 9.8 5.1 30.4 58.0 3.5 10.9 8.1",
+            "Mar-26": "262.1 11.9 6.5 30.9 59.7 4.0 10.9 8.2",
+            "Equity & Liabilities (in Rs. Crs.)": "Equity Share Capital Other Equity",
+            "Sep-26_1": "72.1 654.7",
+            "Mar-26_1": "72.1 635.9"
+          },
+          {
+            "Assets (in Rs. Crs.)": "",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Equity & Liabilities (in Rs. Crs.)": "Non-Current Liabilities",
+            "Sep-26_1": "35.1",
+            "Mar-26_1": "41.3"
+          },
+          {
+            "Assets (in Rs. Crs.)": "",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Equity & Liabilities (in Rs. Crs.)": "Financial Liabilities Borrowings Lease Liabilities Deferred Tax Liabilities (net)",
+            "Sep-26_1": "13.9 10.9 10.4",
+            "Mar-26_1": "20.2 11.0 10.2"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Current Assets",
+            "Sep-26": "693.18",
+            "Mar-26": "618.12",
+            "Equity & Liabilities (in Rs. Crs.)": "Current Liabilities",
+            "Sep-26_1": "311.4",
+            "Mar-26_1": "263.1"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Inventories Financial Assets Investments Trade Receivables Cash & cash equivalents Bank Balances Other Financial Assets Other Current Assets Loans",
+            "Sep-26": "270.5 90.4 300.8 4.1 1.5 1.5 23.7 0.4",
+            "Mar-26": "259.0 66.7 266.6 0.5 1.5 1.5 21.8 0.4",
+            "Equity & Liabilities (in Rs. Crs.)": "Financial Liabilities Borrowings Lease Liabilities Trade Payables -MSME Trade Payables -Others Other Financial Liabilities Other Current Liabilities Provisions Income Tax Liabilities (net)",
+            "Sep-26_1": "115.2 1.3 17.8 150.3 15.7 9.8 0.9 0.4",
+            "Mar-26_1": "107.9 1.3 10.5 119.1 9.8 9.8 4.2 0.4"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Total Assets",
+            "Sep-26": "1,073.4",
+            "Mar-26": "1,012.5",
+            "Equity & Liabilities (in Rs. Crs.)": "Total Equity & Liabilities",
+            "Sep-26_1": "1,073.4",
+            "Mar-26_1": "1,012.5"
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "table_index": 0,
+        "row_count": 15,
+        "rows": [
+          {
+            "Profit & Loss [Rs. Crs.]": "Total Income",
+            "Q2FY27": "555.4",
+            "Q2FY26": "490.6",
+            "Y-o-Y": "13.2%",
+            "H1FY27": "1,070.5",
+            "H1FY26": "947.7",
+            "Y-o-Y_1": "13.0%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Raw Material",
+            "Q2FY27": "283.7",
+            "Q2FY26": "252.0",
+            "Y-o-Y": "",
+            "H1FY27": "553.8",
+            "H1FY26": "489.5",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Gross Profit",
+            "Q2FY27": "271.8",
+            "Q2FY26": "238.6",
+            "Y-o-Y": "13.9%",
+            "H1FY27": "516.7",
+            "H1FY26": "458.2",
+            "Y-o-Y_1": "12.8%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Gross Profit %",
+            "Q2FY27": "48.9%",
+            "Q2FY26": "48.6%",
+            "Y-o-Y": "",
+            "H1FY27": "48.3%",
+            "H1FY26": "48.4%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Employee Expenses",
+            "Q2FY27": "87.9",
+            "Q2FY26": "83.3",
+            "Y-o-Y": "",
+            "H1FY27": "172.4",
+            "H1FY26": "159.8",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Other Expenses",
+            "Q2FY27": "132.7",
+            "Q2FY26": "115.3",
+            "Y-o-Y": "",
+            "H1FY27": "253.4",
+            "H1FY26": "219.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "EBITDA",
+            "Q2FY27": "51.2",
+            "Q2FY26": "40.0",
+            "Y-o-Y": "27.9%",
+            "H1FY27": "90.9",
+            "H1FY26": "79.0",
+            "Y-o-Y_1": "15.0%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "EBITDA %",
+            "Q2FY27": "9.2%",
+            "Q2FY26": "8.2%",
+            "Y-o-Y": "",
+            "H1FY27": "8.5%",
+            "H1FY26": "8.3%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Depreciation",
+            "Q2FY27": "13.9",
+            "Q2FY26": "19.8",
+            "Y-o-Y": "",
+            "H1FY27": "27.5",
+            "H1FY26": "39.0",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Finance Cost",
+            "Q2FY27": "3.2",
+            "Q2FY26": "3.6",
+            "Y-o-Y": "",
+            "H1FY27": "6.2",
+            "H1FY26": "8.2",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Profit before Tax",
+            "Q2FY27": "34.0",
+            "Q2FY26": "16.7",
+            "Y-o-Y": "103.8%",
+            "H1FY27": "57.2",
+            "H1FY26": "31.9",
+            "Y-o-Y_1": "79.4%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Tax",
+            "Q2FY27": "8.3",
+            "Q2FY26": "4.0",
+            "Y-o-Y": "",
+            "H1FY27": "14.4",
+            "H1FY26": "8.4",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Profit after Tax",
+            "Q2FY27": "25.7",
+            "Q2FY26": "12.7",
+            "Y-o-Y": "102.7%",
+            "H1FY27": "42.8",
+            "H1FY26": "23.5",
+            "Y-o-Y_1": "82.0%"
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "Profit after Tax %",
+            "Q2FY27": "4.6%",
+            "Q2FY26": "2.6%",
+            "Y-o-Y": "",
+            "H1FY27": "4.0%",
+            "H1FY26": "2.5%",
+            "Y-o-Y_1": ""
+          },
+          {
+            "Profit & Loss [Rs. Crs.]": "EPS (Rs.)",
+            "Q2FY27": "3.6",
+            "Q2FY26": "1.8",
+            "Y-o-Y": "",
+            "H1FY27": "5.9",
+            "H1FY26": "3.3",
+            "Y-o-Y_1": ""
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Assets (in Rs. Crs.)": "Non-Current Assets",
+            "Sep-26": "673.8",
+            "Mar-26": "684.27",
+            "Equity & Liabilities (in Rs. Crs.)": "Equity",
+            "Sep-26_1": "1214.1",
+            "Mar-26_1": "1174.9"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Fixed Assets Property Plant & Equipment Capital WIP Goodwill Other Intangible Assets Right of Use Asset Financial Assets Investments Others Income Tax Assets (net) Other Non current Assets Deferred Tax Assets (net)",
+            "Sep-26": "408.6 39 145.7 12.6 33.06 0.9 3.5 13.6 9.09 7.6",
+            "Mar-26": "417.7 40.8 142.2 16.0 33.8 0.9 4.02 14.3 8.8 5.5",
+            "Equity & Liabilities (in Rs. Crs.)": "Equity Share Capital Other Equity Non-Controlling Interest",
+            "Sep-26_1": "72.1 1142.1 0",
+            "Mar-26_1": "72.1 1102.8 0"
+          },
+          {
+            "Assets (in Rs. Crs.)": "",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Equity & Liabilities (in Rs. Crs.)": "Non-Current Liabilities",
+            "Sep-26_1": "67.7",
+            "Mar-26_1": "75.3"
+          },
+          {
+            "Assets (in Rs. Crs.)": "",
+            "Sep-26": "",
+            "Mar-26": "",
+            "Equity & Liabilities (in Rs. Crs.)": "Financial Liabilities Borrowings Lease Liabilities Deferred Tax Liabilities (net)",
+            "Sep-26_1": "25.1 10.9 31.7",
+            "Mar-26_1": "32.6 11.3 31.4"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Current Assets",
+            "Sep-26": "1103.4",
+            "Mar-26": "988.7",
+            "Equity & Liabilities (in Rs. Crs.)": "Current Liabilities",
+            "Sep-26_1": "495.3",
+            "Mar-26_1": "422.7"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Inventories Financial Assets Investments Trade Receivables Cash & cash equivalents Bank Balances Other Financial Assets Other Current Assets Loans",
+            "Sep-26": "438.6 90.4 463.8 71.8 1.5 2.7 34.0 0.3",
+            "Mar-26": "411.3 66.7 425.1 52.7 1.5 2.5 28.3 0.3",
+            "Equity & Liabilities (in Rs. Crs.)": "Financial Liabilities Borrowings Lease Liabilities Trade Payables -MSME Trade Payables -Others Other Financial Liabilities Other Current Liabilities Provisions Income Tax Liabilities (net)",
+            "Sep-26_1": "171.8 1.7 17.8 274.9 15.7 9.8 0.9 2.6",
+            "Mar-26_1": "163.0 1.7 10.5 221.5 9.8 9.9 4.2 2.11"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Total Assets",
+            "Sep-26": "1,777.2",
+            "Mar-26": "1,672.9",
+            "Equity & Liabilities (in Rs. Crs.)": "Total Equity & Liabilities",
+            "Sep-26_1": "1,777.2",
+            "Mar-26_1": "1,672.9"
+          }
+        ]
+      },
+      {
+        "page": 33,
+        "table_index": 0,
+        "row_count": 15,
+        "rows": [
+          {
+            "Particulars[Rs. Crs.]": "Total Income",
+            "FY26": "1,904.0",
+            "FY25": "1,670.4",
+            "FY24": "1,658.3",
+            "FY23": "1,399.7",
+            "FY22": "1,275.4"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Materials consumed",
+            "FY26": "989.1",
+            "FY25": "827.1",
+            "FY24": "831.5",
+            "FY23": "722.8",
+            "FY22": "614.6"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Employee Expenses",
+            "FY26": "324.6",
+            "FY25": "281.2",
+            "FY24": "250.3",
+            "FY23": "194.8",
+            "FY22": "173.9"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Other Expenses",
+            "FY26": "444.6",
+            "FY25": "416.2",
+            "FY24": "363.7",
+            "FY23": "316.0",
+            "FY22": "328.4"
+          },
+          {
+            "Particulars[Rs. Crs.]": "EBITDA before Exceptional Item",
+            "FY26": "145.8",
+            "FY25": "146.0",
+            "FY24": "212.8",
+            "FY23": "166.1",
+            "FY22": "158.5"
+          },
+          {
+            "Particulars[Rs. Crs.]": "EBITDA Margins (%) before Exceptional Item",
+            "FY26": "7.7%",
+            "FY25": "8.7%",
+            "FY24": "12.8%",
+            "FY23": "11.9%",
+            "FY22": "12.4%"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Exceptional Item (Provision for Doubtful Debt)",
+            "FY26": "-",
+            "FY25": "-",
+            "FY24": "39.6",
+            "FY23": "-",
+            "FY22": "-"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Reported EBITDA",
+            "FY26": "145.8",
+            "FY25": "146.0",
+            "FY24": "173.1",
+            "FY23": "166.1",
+            "FY22": "158.5"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Depreciation & Amortization",
+            "FY26": "52.8",
+            "FY25": "45.9",
+            "FY24": "37.5",
+            "FY23": "28.8",
+            "FY22": "24.3"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Goodwill amortized*",
+            "FY26": "26.7",
+            "FY25": "26.7",
+            "FY24": "26.7",
+            "FY23": "26.7",
+            "FY22": "26.7"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Finance Cost",
+            "FY26": "15.8",
+            "FY25": "13.8",
+            "FY24": "11.0",
+            "FY23": "4.8",
+            "FY22": "3.4"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Exceptional Item –on Account of New Labour Code",
+            "FY26": "-5.2",
+            "FY25": "",
+            "FY24": "",
+            "FY23": "",
+            "FY22": ""
+          },
+          {
+            "Particulars[Rs. Crs.]": "Profitbefore Tax",
+            "FY26": "45.1",
+            "FY25": "59.5",
+            "FY24": "97.8",
+            "FY23": "105.7",
+            "FY22": "103.9"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Tax",
+            "FY26": "10.4",
+            "FY25": "16.6",
+            "FY24": "16.2",
+            "FY23": "26.5",
+            "FY22": "26.5"
+          },
+          {
+            "Particulars[Rs. Crs.]": "Profitafter Tax",
+            "FY26": "34.7",
+            "FY25": "43.0",
+            "FY24": "81.7",
+            "FY23": "79.2",
+            "FY22": "77.5"
+          }
+        ]
+      },
+      {
+        "page": 34,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Assets (in Rs. Crs.)": "Non-Current Assets",
+            "Mar-26": "684.3",
+            "Mar-25": "667.4",
+            "Mar-24": "652.2",
+            "Mar-23": "589.8",
+            "Mar-22": "480.9",
+            "Equity & Liabilities (in Rs. Crs.)": "Equity",
+            "Mar-26_1": "1,174.9",
+            "Mar-25_1": "1,107.0",
+            "Mar-24_1": "1,072.1",
+            "Mar-23_1": "1005.0",
+            "Mar-22_1": "934.0"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Fixed Assets Property Plant & Equipment Right to Use Asset Capital WIP Goodwill (on Consolidation) Goodwill (Other) Intangible assets Financial Assets Investments Loans & Deposits Others Deferred Tax Assets (net) Income Tax Assets (net) Other Non-current Assets",
+            "Mar-26": "417.7 33.8 40.8 142.2 16.1 0.9 4.0 5.5 14.3 8.8",
+            "Mar-25": "404.0 20.5 27.3 153.3 - 15.3 11.3 - 3.7 - 12.7 19.3",
+            "Mar-24": "304.1 21.7 104.1 173.8 - 17.1 11.3 - 3.2 - 10.1 6.8",
+            "Mar-23": "258.9 23.1 45.6 113.0 84.7 20.3 19.4 - 6.4 - 10.5 7.8",
+            "Mar-22": "180.4 21.7 25.0 110.5 106.8 2.5 19.4 - 2.3 - 4.8 7.6",
+            "Equity & Liabilities (in Rs. Crs.)": "Share Capital Other Equity",
+            "Mar-26_1": "72.1 1,102.8",
+            "Mar-25_1": "36.0 1,071.0",
+            "Mar-24_1": "36.0 1,036.0",
+            "Mar-23_1": "36.0 969.0",
+            "Mar-22_1": "36.0 898.0"
+          },
+          {
+            "Assets (in Rs. Crs.)": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": "",
+            "Equity & Liabilities (in Rs. Crs.)": "Non-Current Liabilities",
+            "Mar-26_1": "75.3",
+            "Mar-25_1": "95.1",
+            "Mar-24_1": "105.3",
+            "Mar-23_1": "111.9",
+            "Mar-22_1": "66.6"
+          },
+          {
+            "Assets (in Rs. Crs.)": "",
+            "Mar-26": "",
+            "Mar-25": "",
+            "Mar-24": "",
+            "Mar-23": "",
+            "Mar-22": "",
+            "Equity & Liabilities (in Rs. Crs.)": "Financial Liabilities Borrowings Lease Liabilities Deferred Tax Liabilities (net)",
+            "Mar-26_1": "32.6 11.3 31.4",
+            "Mar-25_1": "46.9 9.6 38.6",
+            "Mar-24_1": "58.7 9.8 36.8",
+            "Mar-23_1": "49.6 10.4 51.8",
+            "Mar-22_1": "8.7 10.1 47.8"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Current Assets",
+            "Mar-26": "988.7",
+            "Mar-25": "951.1",
+            "Mar-24": "838.2",
+            "Mar-23": "836.1",
+            "Mar-22": "805.2",
+            "Equity & Liabilities (in Rs. Crs.)": "Current Liabilities",
+            "Mar-26_1": "422.7",
+            "Mar-25_1": "416.4",
+            "Mar-24_1": "313.0",
+            "Mar-23_1": "309.0",
+            "Mar-22_1": "285.4"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Inventories Financial Assets Investments Loans & Deposits Trade Receivables Cash & cash equivalents Bank Balances Other Financial Assets Other Current Assets",
+            "Mar-26": "411.4 66.7 0.4 425.1 52.7 1.5 2.6 28.3",
+            "Mar-25": "404.7 94.0 0.0 359.4 60.5 3.6 2.2 26.7",
+            "Mar-24": "300.7 115.2 0.1 325.0 69.7 2.0 6.2 19.4",
+            "Mar-23": "302.0 113.0 - 349.8 56.8 1.2 1.5 11.8",
+            "Mar-22": "259.4 115.5 - 272.0 119.0 8.8 9.0 21.4",
+            "Equity & Liabilities (in Rs. Crs.)": "Financial Liabilities Borrowings Lease Liabilities Trade Payables Other Financial Labilities Income Tax Liabilities Other Current Liabilities Provisions",
+            "Mar-26_1": "163.0 1.8 232.0 9.8 2.1 9.8 4.2",
+            "Mar-25_1": "155.4 1.4 235.8 12.9 1.7 8.2 1.0",
+            "Mar-24_1": "104.3 1.3 179.3 10.9 10.0 6.3 0.9",
+            "Mar-23_1": "98.9 1.2 186.2 11.5 1.6 9.2 0.4",
+            "Mar-22_1": "78.4 1.8 187.2 9.1 1.8 6.8 0.3"
+          },
+          {
+            "Assets (in Rs. Crs.)": "Total Assets",
+            "Mar-26": "1,673.0",
+            "Mar-25": "1,618.5",
+            "Mar-24": "1,490.4",
+            "Mar-23": "1,425.9",
+            "Mar-22": "1,286.1",
+            "Equity & Liabilities (in Rs. Crs.)": "Total Equity & Liabilities",
+            "Mar-26_1": "1,673.0",
+            "Mar-25_1": "1,618.5",
+            "Mar-24_1": "1,490.4",
+            "Mar-23_1": "1,425.9",
+            "Mar-22_1": "1,286.1"
+          }
+        ]
+      },
+      {
+        "page": 37,
+        "table_index": 1,
+        "row_count": 3,
+        "rows": [
+          {
+            "Particulars (Rs.)": "ConsolidatedBook Value Per Share",
+            "FY22": "259.2",
+            "FY23": "278.9",
+            "FY24": "297.5",
+            "FY25": "307.2",
+            "FY26*": "163.0"
+          },
+          {
+            "Particulars (Rs.)": "Consolidated Earning Per Share",
+            "FY22": "21.5",
+            "FY23": "21.9",
+            "FY24": "22.66",
+            "FY25": "11.93",
+            "FY26*": "4.81"
+          },
+          {
+            "Particulars (Rs.)": "Dividend Per Share",
+            "FY22": "7.0",
+            "FY23": "7.0",
+            "FY24": "7.0",
+            "FY25": "7.0",
+            "FY26*": "2.15"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "7e32cca5-9a3d-4897-935c-81972c890624",
     "SCRIP_CD": 532408,
     "XML_NAME": "ANN_532408_7E32CCA5-9A3D-4897-935C-81972C890624",
@@ -10190,42 +10910,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "* **Resignation of Company Secretary:** Ms. Sridevi Dasari resigned from the position of Company Secretary and Compliance Officer (Key Managerial Personnel) effective at the closing business hours of November 14, 2026 (accepted by the Board of Directors on October 15, 2026).\n* **Appointment of New Company Secretary (No Financial Details):** Mr. Kallepally Bharath Kumar took charge as the new Company Secretary and Compliance Officer (Key Managerial Personnel) effective November 15, 2026 (appointed by the Board on October 15, 2026); this announcement contains no financial details or financial decisions.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9aa04fa4-3cef-45f2-a0cb-eada00e89f93",
-    "SCRIP_CD": 533259,
-    "XML_NAME": "ANN_533259_9AA04FA4-3CEF-45F2-A0CB-EADA00E89F93",
-    "NEWSSUB": "Health X Platform Ltd - 533259 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-16T19:29:30.347",
-    "NEWS_DT": "2026-11-16T19:29:30.347",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "96c09258-3fd1-49d3-a65f-f639495f5616.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Listing Regulations - Submission of Audio recording of the Earnings Conference call for Q2 FY27",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/health-x-platform-ltd/healthx/533259/",
-    "SLONGNAME": "Health X Platform Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 20,
-    "News_submission_dt": "2026-11-16T19:29:30",
-    "DissemDT": "2026-11-16T19:29:30.347",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1074097,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company held its Q2 FY 2026‑27 earnings conference call on **16 Nov 2026 at 4:00 PM IST**, covering performance for the quarter and half‑year ended 30 Sept 2026.  \n- An audio recording of the call has been posted on the company website at **https://healthxplatform.com/Audio/HXPL_Q2_FY27_Conference_Call.mp3**; the announcement contains no specific financial figures or decisions.",
     "key_metrics": {},
     "financial_tables": []
   }
