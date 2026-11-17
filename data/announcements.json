@@ -1,5 +1,803 @@
 [
   {
+    "NEWSID": "0712df92-f85b-4079-a713-53ee7e7639af",
+    "SCRIP_CD": 531237,
+    "XML_NAME": "ANN_531237_0712DF92-F85B-4079-A713-53EE7E7639AF",
+    "NEWSSUB": "Dhruva Capital Services Ltd - 531237 - Board Meeting Outcome for Outcome Of Board Meeting",
+    "DT_TM": "2026-11-17T21:00:21.653",
+    "NEWS_DT": "2026-11-17T21:00:21.653",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4d2d3d16-06d4-46f4-8c8f-7e6f65f68037.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Board Meeting",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dhruva-capital-services-ltd/dhruvca/531237/",
+    "SLONGNAME": "Dhruva Capital Services Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T21:00:20",
+    "DissemDT": "2026-11-17T21:00:21.653",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 486929,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board approval (Nov 17 2026):** The Board closed the qualified‑institution placement of 1,96,62,100 fully paid‑up equity shares at an issue price of **₹81 per share** (including a **₹71 premium**), raising **₹1,59,26,30,100**—above the SEBI floor price of **₹78.02** per share.  \n\n- **Timeline:** The issue was opened on **Nov 12 2026** and was officially closed on **Nov 17 2026** by the Board’s resolution, with allocation notices to be sent to the qualified institutional buyers.",
+    "key_metrics": {
+      "face_value": "10"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1d44cba6-9a49-48b0-a26e-efa5ef461b17",
+    "SCRIP_CD": 530001,
+    "XML_NAME": "ANN_530001_1D44CBA6-9A49-48B0-A26E-EFA5EF461B17",
+    "NEWSSUB": "Gujarat Alkalies and Chemicals Ltd - 530001 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-17T20:50:32.023",
+    "NEWS_DT": "2026-11-17T20:50:32.023",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2b2f2352-1339-4c74-a560-cdb1ff73659f.pdf",
+    "MORE": "",
+    "HEADLINE": "Transcript for the Conference Call conducted on Thursday, 12th November, 2026 at 12:30 P.M (IST). For more details kindly refer attached file",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gujarat-alkalies-and-chemicals-ltd/gujalkali/530001/",
+    "SLONGNAME": "Gujarat Alkalies and Chemicals Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:50:32",
+    "DissemDT": "2026-11-17T20:50:32.023",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 727382,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1334.79 crore",
+      "operating_profit": "450 crore",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "264d2589-51ab-48b5-894b-dfc0d90a8209",
+    "SCRIP_CD": 530839,
+    "XML_NAME": "ANN_530839_264D2589-51AB-48B5-894B-DFC0D90A8209",
+    "NEWSSUB": "Clio Infotech Ltd - 530839 - Announcement Towards Shifting Of Registered Office Of The Company Within Local Limits Of The City",
+    "DT_TM": "2026-11-17T20:49:36.677",
+    "NEWS_DT": "2026-11-17T20:49:36.677",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "19b02632-d0eb-4c9a-8cc8-0c1989546995.pdf",
+    "MORE": "",
+    "HEADLINE": "Announcement towards shifting of registered office of the company within local limits of the city",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/clio-infotech-ltd/clioinfo/530839/",
+    "SLONGNAME": "Clio Infotech Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:49:36",
+    "DissemDT": "2026-11-17T20:49:36.677",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2185977,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "db704010-4347-4035-aea4-7708ea565f18",
+    "SCRIP_CD": 530839,
+    "XML_NAME": "ANN_530839_DB704010-4347-4035-AEA4-7708EA565F18",
+    "NEWSSUB": "Clio Infotech Ltd - 530839 - Board Meeting Outcome for Please Find Enclosed Outcome Of Meeting Of Board Of Directors Of The Company Held Today On 17Th November, 2026",
+    "DT_TM": "2026-11-17T20:47:07.233",
+    "NEWS_DT": "2026-11-17T20:47:07.233",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "2e49166f-9d68-46dd-9fa2-aa22c3c16810.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed outcome of meeting of board of directors of the company held today on 17th November, 2026",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/clio-infotech-ltd/clioinfo/530839/",
+    "SLONGNAME": "Clio Infotech Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:47:05",
+    "DissemDT": "2026-11-17T20:47:07.233",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 2185977,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "893f2c23-25cd-42f7-b454-ed5b4a48fb8b",
+    "SCRIP_CD": 532748,
+    "XML_NAME": "ANN_532748_893F2C23-25CD-42F7-B454-ED5B4A48FB8B",
+    "NEWSSUB": "Prime Focus Ltd - 532748 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-17T20:46:43.333",
+    "NEWS_DT": "2026-11-17T20:46:43.333",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e54cb006-acca-4e74-a699-8a7b70028823.pdf",
+    "MORE": "",
+    "HEADLINE": "Prime Focus company DNEG Announces Technology Partnership With Meta To Deliver 3D Movie Titles for Meta VR Glasses",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/prime-focus-ltd/pfocus/532748/",
+    "SLONGNAME": "Prime Focus Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:46:43",
+    "DissemDT": "2026-11-17T20:46:43.337",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 688968,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "84b1ca47-760c-4624-ab4c-bec8ee3ed6dd",
+    "SCRIP_CD": 544283,
+    "XML_NAME": "ANN_544283_84B1CA47-760C-4624-AB4C-BEC8EE3ED6DD",
+    "NEWSSUB": "ACME Solar Holdings Ltd - 544283 - Update On Commissioning Of Battery Energy Storage System (BESS) Project",
+    "DT_TM": "2026-11-17T20:46:25.14",
+    "NEWS_DT": "2026-11-17T20:46:25.14",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "718f6a5d-97e6-40fd-93d7-f33438adc830.pdf",
+    "MORE": "",
+    "HEADLINE": "Update on commissioning of Battery Energy Storage System (BESS) Project",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/acme-solar-holdings-ltd/acmesolar/544283/",
+    "SLONGNAME": "ACME Solar Holdings Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:46:25",
+    "DissemDT": "2026-11-17T20:46:25.14",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 205458,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3ae6ec35-be35-4561-a2fa-4507869d2f33",
+    "SCRIP_CD": 544345,
+    "XML_NAME": "ANN_544345_3AE6EC35-BE35-4561-A2FA-4507869D2F33",
+    "NEWSSUB": "Denta Water and Infra Solutions Ltd - 544345 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-17T20:41:59.197",
+    "NEWS_DT": "2026-11-17T20:41:59.197",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "776dc6ef-eb78-4756-911d-bf52b10a0046.pdf",
+    "MORE": "",
+    "HEADLINE": "Transcript of the Q2 and H1 - FY27 Result Earnings Con Call",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/denta-water-and-infra-solutions-ltd/denta/544345/",
+    "SLONGNAME": "Denta Water and Infra Solutions Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:41:59",
+    "DissemDT": "2026-11-17T20:41:59.197",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1237054,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "d170e5ec-071c-4932-bb66-6293d34ef38c",
+    "SCRIP_CD": 543439,
+    "XML_NAME": "ANN_543439_D170E5EC-071C-4932-BB66-6293D34EF38C",
+    "NEWSSUB": "Brandbucket Media & Technology Ltd - 543439 - Results-Delay in Financial Results",
+    "DT_TM": "2026-11-17T20:32:30.557",
+    "NEWS_DT": "2026-11-17T20:32:30.557",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a238ac02-f079-4914-848a-3bce2ae6ec6e.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of unaudited standalone and consolidated result for sep 26",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/brandbucket-media--technology-ltd/brandbuckt/543439/",
+    "SLONGNAME": "Brandbucket Media & Technology Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 15,
+    "News_submission_dt": "2026-11-17T20:32:30",
+    "DissemDT": "2026-11-17T20:32:30.557",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 809779,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1",
+      "net_profit": "4",
+      "total_assets": "7982.60",
+      "total_equity": "7982.60",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 40,
+        "rows": [
+          {
+            "Sr. No.": "The",
+            "Particulars": "",
+            "As at 30th September 2026": "Unaudited",
+            "As at 31st March 2026": "Audited"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "ASSETS",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "1)",
+            "Particulars": "Non Current Assets",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Tangible assets",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Intangible assets",
+            "As at 30th September 2026": "229.97",
+            "As at 31st March 2026": "252.78"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Deferred Tax Asset",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Good will",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Non-current investments",
+            "As at 30th September 2026": "4,625.25",
+            "As at 31st March 2026": "4,625.25"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Long-term loans and advances",
+            "As at 30th September 2026": "193.24",
+            "As at 31st March 2026": "193.24"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Non Current Assets",
+            "As at 30th September 2026": "5,048.46",
+            "As at 31st March 2026": "5,071.27"
+          },
+          {
+            "Sr. No.": "2)",
+            "Particulars": "Current Assets",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Financial Assets",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Investment",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Trade receivable",
+            "As at 30th September 2026": "162.12",
+            "As at 31st March 2026": "162.12"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Cash and Cash Equivalents",
+            "As at 30th September 2026": "18.62",
+            "As at 31st March 2026": "19.31"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Short-term loans and advances",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Other current assets",
+            "As at 30th September 2026": "2,753.40",
+            "As at 31st March 2026": "2,753.40"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Current Assets",
+            "As at 30th September 2026": "2,934.15",
+            "As at 31st March 2026": "2,934.83"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Assets",
+            "As at 30th September 2026": "7,982.60",
+            "As at 31st March 2026": "8,006.11"
+          },
+          {
+            "Sr. No.": "1)",
+            "Particulars": "EQUITY AND LIABILITIES",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Shareholders' Funds",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Equity Share Capital",
+            "As at 30th September 2026": "2,324.12",
+            "As at 31st March 2026": "2,324.12"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Reserves and surplus",
+            "As at 30th September 2026": "587.57",
+            "As at 31st March 2026": "5,539.63"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Minority interest",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Shareholders' Funds",
+            "As at 30th September 2026": "2,911.70",
+            "As at 31st March 2026": "7,863.76"
+          },
+          {
+            "Sr. No.": "2)",
+            "Particulars": "Non-current liabilities",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Long-term borrowings",
+            "As at 30th September 2026": "-",
+            "As at 31st March 2026": "-"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Deferred tax liabilities (Net)",
+            "As at 30th September 2026": "31.83",
+            "As at 31st March 2026": "34.96"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Other long-term liabilities",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Long-term Provisions",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Non-current liabilities",
+            "As at 30th September 2026": "31.83",
+            "As at 31st March 2026": "34.96"
+          },
+          {
+            "Sr. No.": "3)",
+            "Particulars": "Current Liabilities",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Financial Liabilities",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Borrowings",
+            "As at 30th September 2026": "",
+            "As at 31st March 2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Trade Payable",
+            "As at 30th September 2026": "312.79",
+            "As at 31st March 2026": "310.81"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Other current liabilities",
+            "As at 30th September 2026": "4,732.28",
+            "As at 31st March 2026": "-198.94"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Short-term provisions",
+            "As at 30th September 2026": "-5.99",
+            "As at 31st March 2026": "-4.49"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Current Liabilities",
+            "As at 30th September 2026": "5,039.08",
+            "As at 31st March 2026": "107.38"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Equity & Liabilities",
+            "As at 30th September 2026": "7,982.60",
+            "As at 31st March 2026": "8,006.11"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "",
+            "As at 30th September 2026": "-0.00",
+            "As at 31st March 2026": "-0.00"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 40,
+        "rows": [
+          {
+            "Sr. No.": "The",
+            "Particulars": "",
+            "30.09.2026": "unAudited (CONSOLIDATED)",
+            "31.03.2026": "Audited (CONSOLIDATED)"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "ASSETS",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "1)",
+            "Particulars": "Non Current Assets",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Tangible assets",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Intangible assets",
+            "30.09.2026": "290.92",
+            "31.03.2026": "419.12"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Deferred Tax Asset",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Good will",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Non-current investments",
+            "30.09.2026": "337.45",
+            "31.03.2026": "337.45"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Long-term loans and advances",
+            "30.09.2026": "285.59",
+            "31.03.2026": "280.87"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Non Current Assets",
+            "30.09.2026": "913.96",
+            "31.03.2026": "1,037.44"
+          },
+          {
+            "Sr. No.": "2)",
+            "Particulars": "Current Assets",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Financial Assets",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Investment",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Trade receivable",
+            "30.09.2026": "450.90",
+            "31.03.2026": "460.90"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Cash and Cash Equivalents",
+            "30.09.2026": "21.41",
+            "31.03.2026": "21.28"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Short-term loans and advances",
+            "30.09.2026": "125.00",
+            "31.03.2026": "125.00"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Other current assets",
+            "30.09.2026": "3,005.88",
+            "31.03.2026": "2,899.08"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Current Assets",
+            "30.09.2026": "3,603.19",
+            "31.03.2026": "3,506.26"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Assets",
+            "30.09.2026": "4,517.15",
+            "31.03.2026": "4,543.71"
+          },
+          {
+            "Sr. No.": "1)",
+            "Particulars": "EQUITY AND LIABILITIES",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Shareholders' Funds",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Equity Share Capital",
+            "30.09.2026": "2,324.12",
+            "31.03.2026": "2,324.12"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Reserves and surplus",
+            "30.09.2026": "-2,945.62",
+            "31.03.2026": "2,008.07"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Minority interest",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Shareholders' Funds",
+            "30.09.2026": "-621.49",
+            "31.03.2026": "4,332.19"
+          },
+          {
+            "Sr. No.": "2)",
+            "Particulars": "Non-current liabilities",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Long-term borrowings",
+            "30.09.2026": "-",
+            "31.03.2026": "-"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Deferred tax liabilities (Net)",
+            "30.09.2026": "48.43",
+            "31.03.2026": "52.12"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Other long-term liabilities",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Long-term Provisions",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Non-current liabilities",
+            "30.09.2026": "48.43",
+            "31.03.2026": "52.12"
+          },
+          {
+            "Sr. No.": "3)",
+            "Particulars": "Current Liabilities",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Financial Liabilities",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Borrowings",
+            "30.09.2026": "",
+            "31.03.2026": ""
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Trade Payable",
+            "30.09.2026": "335.25",
+            "31.03.2026": "335.15"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Other current liabilities",
+            "30.09.2026": "4,760.95",
+            "31.03.2026": "-171.27"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Short-term provisions",
+            "30.09.2026": "-5.99",
+            "31.03.2026": "-4.49"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Current Liabilities",
+            "30.09.2026": "5,090.21",
+            "31.03.2026": "159.40"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "Total Equity & Liabilities",
+            "30.09.2026": "4,517.15",
+            "31.03.2026": "4,543.71"
+          },
+          {
+            "Sr. No.": "",
+            "Particulars": "",
+            "30.09.2026": "0.00",
+            "31.03.2026": "-0.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "4256951b-56ed-4405-bd35-8ef9e661216f",
     "SCRIP_CD": 533150,
     "XML_NAME": "ANN_533150_4256951B-56ED-4405-BD35-8EF9E661216F",
@@ -9966,305 +10764,6 @@
     "RECORDID": null,
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "398e236d-2fbf-4472-8432-0b7655598138",
-    "SCRIP_CD": 544747,
-    "XML_NAME": "ANN_544747_398E236D-2FBF-4472-8432-0B7655598138",
-    "NEWSSUB": "Emiac Technologies Ltd - 544747 - Notice Of Extra-Ordinary General Meeting To Be Held On Wednesday, 9Th December 2026 At 04.00 P.M.",
-    "DT_TM": "2026-11-17T18:49:22.007",
-    "NEWS_DT": "2026-11-17T18:49:22.007",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a181bdba-afcc-4fcb-a84e-7271ae43cc99.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of Extra-Ordinary General Meeting to be held on Wednesday, 9th December 2026 at 04.00 P.M.",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/emiac-technologies-ltd/emiac/544747/",
-    "SLONGNAME": "Emiac Technologies Ltd",
-    "AGENDA_ID": 28,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:49:22",
-    "DissemDT": "2026-11-17T18:49:22.007",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 814020,
-    "SUBCATNAME": "EGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6a2fdc22-7e55-476e-8537-89054e29b592",
-    "SCRIP_CD": 526935,
-    "XML_NAME": "ANN_526935_6A2FDC22-7E55-476E-8537-89054E29B592",
-    "NEWSSUB": "Kalind Ltd - 526935 - Announcement under Regulation 30 (LODR)-Resignation of Statutory Auditors",
-    "DT_TM": "2026-11-17T18:48:14.84",
-    "NEWS_DT": "2026-11-17T18:48:14.84",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "54ed3117-4fa0-4902-831e-838ef91dac97.pdf",
-    "MORE": "",
-    "HEADLINE": "Resignation of Statutory Auditor - M/s. PHHAD & Co LLP (formerly D G K T & Co LLP) as Statutory Auditor of the Company w.e.f. 17 November, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kalind-ltd/kalind/526935/",
-    "SLONGNAME": "Kalind Ltd",
-    "AGENDA_ID": 108,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:48:14",
-    "DissemDT": "2026-11-17T18:48:14.84",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 836323,
-    "SUBCATNAME": "Resignation of Statutory Auditors",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b54fbe94-8426-4a03-ac6a-d70d095dcb03",
-    "SCRIP_CD": 540222,
-    "XML_NAME": "ANN_540222_B54FBE94-8426-4A03-AC6A-D70D095DCB03",
-    "NEWSSUB": "Laurus Labs Ltd - 540222 - Clarification On Sale Of Equity Shares By Promoters Of The Company",
-    "DT_TM": "2026-11-17T18:46:35.727",
-    "NEWS_DT": "2026-11-17T18:46:35.727",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "56ad5919-8514-4490-9a89-4ae5e4185d33.pdf",
-    "MORE": "",
-    "HEADLINE": "Please see annexed enclosure.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/laurus-labs-ltd/lauruslabs/540222/",
-    "SLONGNAME": "Laurus Labs Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:46:35",
-    "DissemDT": "2026-11-17T18:46:35.727",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 580879,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Equity share sales by promoters:**  \n  - Dr. Satyanarayana Chava sold a total of **1,570,000 shares** (1,485,445 on 11‑Nov‑2026 and 84,555 on 12‑Nov‑2026).  \n  - Mr. V V Ravi Kumar sold a total of **500,000 shares** (478,836 on 11‑Nov‑2026 and 21",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b83733e8-76b5-4a47-a614-b9bc27ff0755",
-    "SCRIP_CD": 535789,
-    "XML_NAME": "ANN_535789_B83733E8-76B5-4A47-A614-B9BC27FF0755",
-    "NEWSSUB": "Sammaan Capital Ltd - 535789 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-17T18:44:55.723",
-    "NEWS_DT": "2026-11-17T18:44:55.723",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "60700304-8c83-443f-a6f6-1c163ea54fda.pdf",
-    "MORE": "Pursuant to the provisions of SEBI (Listing Obligations and Disclosure Requirement) Regulations, 2015, as amended, please find enclosed the transcript of earnings conference call hosted by the Company on November 14, 2026.",
-    "HEADLINE": "Pursuant to the provisions of SEBI (Listing Obligations and Disclosure Requirement) Regulations, 2015, as amended, please find enclosed the transcript of earnings conference call hosted ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sammaan-capital-ltd/sammaancap/535789/",
-    "SLONGNAME": "Sammaan Capital Ltd",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:44:55",
-    "DissemDT": "2026-11-17T18:44:55.723",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 513932,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ed80e94a-5ad8-443f-a6e1-249ab794f55b",
-    "SCRIP_CD": 532538,
-    "XML_NAME": "ANN_532538_ED80E94A-5AD8-443F-A6E1-249AB794F55B",
-    "NEWSSUB": "UltraTech Cement Ltd - 532538 - Announcement under Regulation 30 (LODR)-Credit Rating",
-    "DT_TM": "2026-11-17T18:43:15.747",
-    "NEWS_DT": "2026-11-17T18:43:15.747",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "60d02c86-8fd7-4759-a415-fbb4881bd813.pdf",
-    "MORE": "",
-    "HEADLINE": "Credit rating by Fitch Ratings",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ultratech-cement-ltd/ultracemco/532538/",
-    "SLONGNAME": "UltraTech Cement Ltd",
-    "AGENDA_ID": 46,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:43:15",
-    "DissemDT": "2026-11-17T18:43:15.747",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 377098,
-    "SUBCATNAME": "Credit Rating",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "dividend": "70",
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d0305176-14a2-4e84-8fcd-a50685a38402",
-    "SCRIP_CD": 536565,
-    "XML_NAME": "ANN_536565_D0305176-14A2-4E84-8FCD-A50685A38402",
-    "NEWSSUB": "Novelix Pharmaceuticals Ltd - 536565 - Announcement Under Regulation 30 (LODR)- Opening Of Corporate Office.\r\n",
-    "DT_TM": "2026-11-17T18:42:35.557",
-    "NEWS_DT": "2026-11-17T18:42:35.557",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "05b05c02-9557-4d8f-841b-cd5ff7b8a3ed.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Intimation of Corporate office opening.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/novelix-pharmaceuticals-ltd/novelix/536565/",
-    "SLONGNAME": "Novelix Pharmaceuticals Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:42:35",
-    "DissemDT": "2026-11-17T18:42:35.557",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 170302,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c81439db-2f4f-4adb-84fe-b151d3fbb88b",
-    "SCRIP_CD": 533274,
-    "XML_NAME": "ANN_533274_C81439DB-2F4F-4ADB-84FE-B151D3FBB88B",
-    "NEWSSUB": "Prestige Estates Projects Ltd - 533274 - Announcement under Regulation 30 (LODR)-Acquisition",
-    "DT_TM": "2026-11-17T18:41:51.14",
-    "NEWS_DT": "2026-11-17T18:41:51.14",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0874e47f-7e8a-4178-8be8-d8cacc3bad7e.pdf",
-    "MORE": "",
-    "HEADLINE": "Acquisition of 50% stake in Advent Convention and Hotels International Private Limited",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/prestige-estates-projects-ltd/prestige/533274/",
-    "SLONGNAME": "Prestige Estates Projects Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:41:51",
-    "DissemDT": "2026-11-17T18:41:51.14",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 184019,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "518b75d6-649f-4089-ad1b-add45cc1e544",
-    "SCRIP_CD": 533282,
-    "XML_NAME": "ANN_533282_518B75D6-649F-4089-AD1B-ADD45CC1E544",
-    "NEWSSUB": "Gravita India Ltd - 533282 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-17T18:41:41.377",
-    "NEWS_DT": "2026-11-17T18:41:41.377",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c68ffd40-bdc6-4a12-b2c8-bb9da4fb205b.pdf",
-    "MORE": "This is further to the disclosure dated 05th November, 2026 made by the Company. We wish to inform you that the Company's executives participated in the Institutional Investor's Meeting (Various Investors) dated 17th November, 2026.",
-    "HEADLINE": "This is further to the disclosure dated 05th November, 2026 made by the Company. We wish to inform you that the Company's executives participated in the Institutional Investor's Meeting ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gravita-india-ltd/gravita/533282/",
-    "SLONGNAME": "Gravita India Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-17T18:41:41",
-    "DissemDT": "2026-11-17T18:41:41.377",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 384584,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "518b75d6-649f-4089-ad1b-add45cc1e544",
-    "INVESTOR_PRESENTATION": "143d34ea-97cc-4ce4-b265-50a4d5800ed9.pdf",
-    "RECORDID": 14911998,
-    "DataInsDate": "2026-11-17T18:41:41.34",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=143d34ea-97cc-4ce4-b265-50a4d5800ed9.pdf",
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
