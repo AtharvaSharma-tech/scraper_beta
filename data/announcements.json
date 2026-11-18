@@ -1,5 +1,79 @@
 [
   {
+    "NEWSID": "dbb5ee9e-468b-4e45-bdc6-c8d74b3b4891",
+    "SCRIP_CD": 522101,
+    "XML_NAME": "ANN_522101_DBB5EE9E-468B-4E45-BDC6-C8D74B3B4891",
+    "NEWSSUB": "Kilburn Engineering Ltd - 522101 - Open Market Purchase Of Equity Shares Of The Company By Promoter",
+    "DT_TM": "2026-11-18T09:46:27.24",
+    "NEWS_DT": "2026-11-18T09:46:27.24",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c1614a08-3098-4f62-8bad-6c4eeb07fad3.pdf",
+    "MORE": "",
+    "HEADLINE": "We have received disclosure from Promoter regarding open market purchase of 50,000 Equity shares as per attached details.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kilburn-engineering-ltd/klbreng-b/522101/",
+    "SLONGNAME": "Kilburn Engineering Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-18T09:46:27",
+    "DissemDT": "2026-11-18T09:46:27.24",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1007175,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fd09e728-6f32-48b6-9cc0-a4319f5b93fd",
+    "SCRIP_CD": 531209,
+    "XML_NAME": "ANN_531209_FD09E728-6F32-48B6-9CC0-A4319F5B93FD",
+    "NEWSSUB": "Nucleus Software Exports Ltd - 531209 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-18T09:37:26.18",
+    "NEWS_DT": "2026-11-18T09:37:26.18",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7fa399e8-a95e-4fe8-b408-ba048821c1e5.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith the Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nucleus-software-exports-ltd/nucleus/531209/",
+    "SLONGNAME": "Nucleus Software Exports Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-18T09:37:26",
+    "DissemDT": "2026-11-18T09:37:26.18",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 403087,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "c916196a-4475-4a7c-9999-afdbeb56b657",
     "SCRIP_CD": 519602,
     "XML_NAME": "ANN_519602_C916196A-4475-4A7C-9999-AFDBEB56B657",
@@ -14318,429 +14392,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "238cb718-a157-4ac5-b407-1dc00d29ba38",
-    "SCRIP_CD": 532172,
-    "XML_NAME": "ANN_532172_238CB718-A157-4AC5-B407-1DC00D29BA38",
-    "NEWSSUB": "Adroit Infotech Ltd - 532172 - Board Meeting Outcome for Outcome Of Board Meeting Held On November 17, 2026 - Preferential Issue, Overseas Acquisition, Change Of Name, Increase In Authorised Capital And Fixation Of EGM Date & Book Closure.",
-    "DT_TM": "2026-11-17T19:33:16.613",
-    "NEWS_DT": "2026-11-17T19:33:16.613",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f2f5bfe3-9fa1-45d7-933f-c44db7845e14.pdf",
-    "MORE": "Outcome of the Board Meeting held on November 17, 2026 - \r\nApproval of Preferential Issue of Warrants, \r\nProposed Acquisition of 60% Shareholding in Verso Altima d.o.o., \r\nChange of Company Name, \r\nIncrease in Authorised Share Capital and \r\nFixation of Date, Time and Other Matters relating to the EGM, including Book Closure\r\nApproval for Appointment Scrutinizer for EGM (Extra-Ordinary General Meeting) \r\nThe meeting commenced at 04:00 PM and concluded at 07:30 PM",
-    "HEADLINE": "Outcome of the Board Meeting held on November 17, 2026 - \r\nApproval of Preferential Issue of Warrants, \r\nProposed Acquisition of 60% Shareholding in Verso Altima d.o.o., \r\nChange of Company ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/adroit-infotech-ltd/adroitinfo/532172/",
-    "SLONGNAME": "Adroit Infotech Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-11-17T19:33:13",
-    "DissemDT": "2026-11-17T19:33:16.613",
-    "TimeDiff": "00:00:03",
-    "Fld_Attachsize": 1013797,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "260634e0-2f10-4fbe-b3b4-4389534017ef",
-    "SCRIP_CD": 530267,
-    "XML_NAME": "ANN_530267_260634E0-2F10-4FBE-B3B4-4389534017EF",
-    "NEWSSUB": "Arigato Universe Ltd - 530267 - Board Meeting Outcome for Outcome Of Board Meeting Held Today, I.E., 17Th November,2026",
-    "DT_TM": "2026-11-17T19:33:06.06",
-    "NEWS_DT": "2026-11-17T19:33:06.06",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5d0b1da7-c737-4302-9525-5a30c547c5c7.pdf",
-    "MORE": "We wish to inform you that in compliance with the provisions of Regulation 33 read with Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 the Board of Directors at their meeting held today, i.e., 17th November,2026 have inter alia approved the following: 1. The Standalone Unaudited Financial Results set out in compliance with applicable Accounting Standards for the Quarter and Half Year Ended 30th September 2026 together with Statement of Assets and Liabilities. The Board Meeting commenced at 06:00 P.M. and concluded at 6.30 P.M.",
-    "HEADLINE": "We wish to inform you that in compliance with the provisions of Regulation 33 read with Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015 the Board ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/arigato-universe-ltd/arigato/530267/",
-    "SLONGNAME": "Arigato Universe Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 14,
-    "News_submission_dt": "2026-11-17T19:33:02",
-    "DissemDT": "2026-11-17T19:33:06.06",
-    "TimeDiff": "00:00:04",
-    "Fld_Attachsize": 3463682,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "1",
-      "total_assets": "3458.50",
-      "total_debt": "116.65",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 44,
-        "rows": [
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "Standalone Statement of Assets and Libilities",
-            "col_2": "",
-            "col_3": "As at",
-            "col_4": "As at"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "Particulars",
-            "col_2": "",
-            "col_3": "Sept 30, 2026",
-            "col_4": "31-Mar-26"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "",
-            "col_3": "(UNAUDITED)",
-            "col_4": "(AUDITED)"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "A",
-            "col_2": "ASSETS",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "1",
-            "col_2": "Non-Current Assets",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Property Plant and Equipment",
-            "col_3": "79.20",
-            "col_4": "25.66"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Capital Work in Progress",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Intangible Assets",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Financial Assests",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Investments",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Loans",
-            "col_3": "283.78",
-            "col_4": "394.28"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Other Financial Assets",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Deferred Tax Assets (Net)",
-            "col_3": "-",
-            "col_4": "43.38"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Other non - Current Assets",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Total - Non-Current Assets",
-            "col_3": "362.98",
-            "col_4": "463.31"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "2",
-            "col_2": "Current Assets",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Inventories",
-            "col_3": "2,524.35",
-            "col_4": "1,881.71"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Financial Assets",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Trade receivables",
-            "col_3": "426.56",
-            "col_4": "479.71"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Cash and cash equivalents",
-            "col_3": "14.54",
-            "col_4": "4 .27"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Loans and Advances",
-            "col_3": "15.07",
-            "col_4": "15.07"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Current Tax Assets",
-            "col_3": "55.29",
-            "col_4": "97.68"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Other Current Assets",
-            "col_3": "59.71",
-            "col_4": "99.69"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Total - Current Assets",
-            "col_3": "3,095.52",
-            "col_4": "2,578.13"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "TOTAL ASSETS",
-            "col_3": "3,458.50",
-            "col_4": "3,041.44"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "B",
-            "col_2": "EQUITY AND LIABILITIES",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "1",
-            "col_2": "Equity",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Equity Share Capital",
-            "col_3": "609.62",
-            "col_4": "609.62"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Other Equity",
-            "col_3": "460.23",
-            "col_4": "344.25"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Total - Equity",
-            "col_3": "1,069.85",
-            "col_4": "953.87"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "2",
-            "col_2": "Non-current liabilities",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Financial Liabilities",
-            "col_3": "876.99",
-            "col_4": "993.64"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Provisions",
-            "col_3": "22.63",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Deferred Tax Liabilities (Net)",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Other Non-current Liability",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Total - Non-current Liabilities",
-            "col_3": "899.62",
-            "col_4": "993.64"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "3",
-            "col_2": "Current liabilities",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Financial Liabilities",
-            "col_3": "451.23",
-            "col_4": "55.02"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Provisions",
-            "col_3": "-",
-            "col_4": "-"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Current Tax Liability",
-            "col_3": "-",
-            "col_4": ""
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Other current liabilities",
-            "col_3": "1,037.81",
-            "col_4": "1,038.91"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "Total - Current Liabilities",
-            "col_3": "1,489.04",
-            "col_4": "1,093.93"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "",
-            "col_2": "TOTAL - EQUITY AND LIABILITIES",
-            "col_3": "3,458.50",
-            "col_4": "3,041.44"
-          },
-          {
-            "ARIGATO UNIVERSE LIMITED (Formerly known as SABOO BROTHERS LIMITED) CIN: L42101MH1979PLC440026 Reg. Off.: Flat 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 (M.S.) STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER ENDED SEPTEMBER 30, 2026 (Rs. In Lakhs)": "Plac Date",
-            "col_2": "e : Nagpur For and on behalf of the Board of Directors ARIGATO UNIVERSE LIMITED : Nov 17, 2026 (Formerly Saboo Borthers Limited) Rajan Shah Managing Director DIN - 00932062",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "PARTICULARS",
-            "col_2": "Six Month Ended Sep 30, 2026",
-            "col_3": "Year Ended March 31, 2026"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "I. Cash flow from operating activities Profit before tax and after exceptional item Adjustment for non-cash/non-operating item to reconcile profit before tax to net Depreciation and amortization expenses Exceptional Items Loss/(profit) on sale of fixed assets Sundry credit balances written back Effect of unrealised foreign exchange (gain)/loss Deffered Tax Interest Income Operating profit before working capital changes Movements in working capital : Decrease/(increase) in inventories Increase/(decrease) in trade and other payables Decrease/(increase) in trade receivables Decrease/(increase) in Other Current Assets Increase/(decrease) in liabilities Cash generated from / (used in) operations Direct taxes paid (net of refunds) Net Cash flow from / (used in) operating activities (A) Cash flow from investing activities Purchase of fixed assets, including intangible assets, CWIP Proceeds from sale of fixed assets Proceeds from sale/ purchase of current investments (Net) Decrease/(increase) in long-term loans and capital advances Decrease/(increase) in Deposits Interest received Net Cash flow from / (used in) investing activities (B) Cash flow from financing activities Proceeds from long-term borrowings (net of repayment, including interest funded into Term Loans) Proceeds from short-term borrowings (net of repayment) Net Cash flow from / (used in) financing activities (C) Net increase/(decrease) in cash and cash equivalents (A+B+C) Cash and cash equivalents at the beginning of the year Cash and cash equivalents at the end of the year",
-            "col_2": "116.14 2.70 - - -16.27 - - -16.22 86.35 -642.64 -19.04 69.25 107.38 125.61",
-            "col_3": "1 61.37 3 .87 - - -40.60 - - 5 2.49 1 77.13 - 1,637.23 1 13.18 4 18.10 -39.93 3 79.73"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "-273.09 11.20",
-            "col_3": "- 589.03 -54.63"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "-284.29",
-            "col_3": "-643.66"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "-56.23 - - - - 16.22",
-            "col_3": "-14.39 - - 1 02.85 - -"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "-40.01",
-            "col_3": "88.46"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "-116.65 - 451.23",
-            "col_3": "576.73 - -52.49"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "334.57",
-            "col_3": "524.24"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "10.27 4.27",
-            "col_3": "-30.94 3 5.22"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "14.54",
-            "col_3": "4.27"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "Cash and cash equivalents consists of the following for the purpose of the Cash Flow Statement: Total cash and cash equivalents",
-            "col_2": "14.54",
-            "col_3": "4.27"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "",
-            "col_2": "14.54",
-            "col_3": "4.27"
-          },
-          {
-            "M/S ARIGATO UNIVERSE LIMITED (Formerly Saboo Brothers Ltd) CIN: L42101MH1979PLC440026 Registered Office : Flat No. 802, Impressa Rise Apartments, Shivaji Nagar, North Ambazari Road, Nagpur - 440010 MS CASH FLOW STATEMENT FOR THE PERIOD ENDED 30TH SEP 2026 (Amount in lacs)": "For ARIGATO UNIVERSE LIMITED (Formerly Saboo Borthers Limited) Managing Director RAJAN SHAH (DIN: 00932062) Place: Nagpur Date: 17-11-2026",
-            "col_2": "",
-            "col_3": ""
-          }
-        ]
-      }
-    ]
   }
 ]
