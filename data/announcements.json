@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "6f228eed-34c2-4ee5-a4b8-ce3c3a1e4cc8",
+    "SCRIP_CD": 540755,
+    "XML_NAME": "ANN_540755_6F228EED-34C2-4EE5-A4B8-CE3C3A1E4CC8",
+    "NEWSSUB": "General Insurance Corporation of India - 540755 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+    "DT_TM": "2026-11-20T01:03:33.913",
+    "NEWS_DT": "2026-11-20T01:03:33.913",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "68d6aedb-1725-4ed6-afe0-41a2690252f5.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation is enclosed.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/general-insurance-corporation-of-india/gicre/540755/",
+    "SLONGNAME": "General Insurance Corporation of India",
+    "AGENDA_ID": 15,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-20T01:03:33",
+    "DissemDT": "2026-11-20T01:03:33.913",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 482736,
+    "SUBCATNAME": "Change in Directorate",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board appointments:** On 19 Nov 2026, GIC Re (BSE 540755 / NSE GICRE) announced the appointment of two new non‑executive directors:  \n  1. Shri S K Majumdar (DIN 08223415), Executive Director of Canara Bank, appointed with immediate effect and will serve until his tenure as ED of Canara Bank ends or further orders.  \n  2. Shri Pramod Kumar Dwibedi (DIN 09653610), Executive Director of Bank of India, appointed with immediate effect and will serve until his tenure as ED of Bank of India ends or further orders.  \n\n- **Financial details:** The announcement contains no monetary",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "9b273190-ed08-4e39-8eae-8606f19aa896",
     "SCRIP_CD": 543280,
     "XML_NAME": "ANN_543280_9B273190-ED08-4E39-8EAE-8606F19AA896",
@@ -9335,86 +9371,5 @@
     "summary": "* **Dismissal of Insolvency Application:** On 19th November 2026, the company announced that the National Company Law Tribunal (NCLT), Mumbai Bench (hearing dated 6th November 2026), dismissed and disposed of the Section 9 insolvency application filed by Ketav Consultant against Concord's wholly owned subsidiary, Rochem Separation Systems (India) Private Limited.\n* **Financial Claim Amount:** The dismissed application had been filed over an alleged outstanding amount of INR 1,75,61,525.00 pertaining to unpaid invoices for the supply of evaporator plant parts and related products, which was recorded as \"Disputed\" in the NeSL report.",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "c3893b46-4217-469e-99ad-230a8c2fd167",
-    "SCRIP_CD": 532424,
-    "XML_NAME": "ANN_532424_C3893B46-4217-469E-99AD-230A8C2FD167",
-    "NEWSSUB": "Godrej Consumer Products Ltd - 532424 - Submission Of Notice To Equity Shareholders Of The Company Regarding Transfer Of Equity Shares To Investor Education And Protection Fund (IEPF) Account",
-    "DT_TM": "2026-11-19T18:59:29.753",
-    "NEWS_DT": "2026-11-19T18:59:29.753",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "09aa89da-34c1-4845-a0c8-4ed9072f4bda.pdf",
-    "MORE": "",
-    "HEADLINE": "The attached file is self explanatory",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/godrej-consumer-products-ltd/godrejcp/532424/",
-    "SLONGNAME": "Godrej Consumer Products Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-19T18:59:29",
-    "DissemDT": "2026-11-19T18:59:29.753",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 666884,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "dividend": ""
-    },
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "PAN",
-            "Please furnish details in": "Form No. ISR-1"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Address",
-            "Please furnish details in": "Form No. ISR-1"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Email Address",
-            "Please furnish details in": "Form No. ISR-1"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Mobile Number",
-            "Please furnish details in": "Form No. ISR-1"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Specimen Signature(s)",
-            "Please furnish details in": "Form No. ISR - 1 / Form No. ISR - 2 (In case of mismatch)"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Bank Account Details",
-            "Please furnish details in": "Form No. ISR-1"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Nomination Details",
-            "Please furnish details in": "Form No. SH-13/ SH-14 / ISR-3"
-          }
-        ]
-      }
-    ]
   }
 ]
