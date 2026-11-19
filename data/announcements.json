@@ -1,5 +1,738 @@
 [
   {
+    "NEWSID": "1ec9a87b-677b-4325-8ae5-15194662708b",
+    "SCRIP_CD": 544633,
+    "XML_NAME": "ANN_544633_1EC9A87B-677B-4325-8AE5-15194662708B",
+    "NEWSSUB": "Vidya Wires Ltd - 544633 - Disclosures under Reg. 29(1) & 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-19T09:30:05.103",
+    "NEWS_DT": "2026-11-19T09:30:05.103",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1EC9A87B_677B_4325_8AE5_15194662708B_092959.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(1) & 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Shyamsundar Rathi HUF",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vidya-wires-ltd/vidyawires/544633/",
+    "SLONGNAME": "Vidya Wires Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-19T09:30:05.103",
+    "TimeDiff": null,
+    "Fld_Attachsize": 2524424,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "825fae04-70e9-4549-88e1-2b4d346b6c4f",
+    "SCRIP_CD": 532726,
+    "XML_NAME": "ANN_532726_825FAE04-70E9-4549-88E1-2B4D346B6C4F",
+    "NEWSSUB": "Gallantt Ispat Ltd - 532726 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-19T09:28:07.573",
+    "NEWS_DT": "2026-11-19T09:28:07.573",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "825FAE04_70E9_4549_88E1_2B4D346B6C4F_092800.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Dinesh R Agarwal & PACs",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gallantt-ispat-ltd/gallantt/532726/",
+    "SLONGNAME": "Gallantt Ispat Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-19T09:28:07.573",
+    "TimeDiff": null,
+    "Fld_Attachsize": 749815,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b32a8407-b69a-4ef8-8dd9-1211679eebf1",
+    "SCRIP_CD": 544597,
+    "XML_NAME": "ANN_544597_B32A8407-B69A-4EF8-8DD9-1211679EEBF1",
+    "NEWSSUB": "Piramal Finance Ltd - 544597 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-19T09:27:20.05",
+    "NEWS_DT": "2026-11-19T09:27:20.05",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "067d4e8d-1a9a-4a5b-9bbd-874350b96f80.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation to be made at Piramal.ai 2026 - Investor Day (19th November 2026) and Investor & Analyst Day (20th November 2026)",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/piramal-finance-ltd/piramalfin/544597/",
+    "SLONGNAME": "Piramal Finance Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-19T09:27:20",
+    "DissemDT": "2026-11-19T09:27:20.05",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 24521493,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Piramal Finance Ltd announced that its investor presentation will be delivered at **Piramal.ai 2026 – Investor Day on 19 Nov 2026** and at **Piramal.ai 2026 – Investor & Analyst Day on 20 Nov 2026**; the presentation is also posted on the company’s website (www.piramalfinance.com).  \n- The notice contains **no specific financial figures, amounts, or decisions**—it solely informs about the timing and availability of the investor presentation.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "adfea36d-dbdb-4004-8e40-c9bcff89b7dd",
+    "SCRIP_CD": 544633,
+    "XML_NAME": "ANN_544633_ADFEA36D-DBDB-4004-8E40-C9BCFF89B7DD",
+    "NEWSSUB": "Vidya Wires Ltd - 544633 - Disclosures under Reg. 29(1) & 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-19T09:25:47.5",
+    "NEWS_DT": "2026-11-19T09:25:47.5",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ADFEA36D_DBDB_4004_8E40_C9BCFF89B7DD_092542.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(1) & 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Brijlata Rathi",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vidya-wires-ltd/vidyawires/544633/",
+    "SLONGNAME": "Vidya Wires Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-19T09:25:47.5",
+    "TimeDiff": null,
+    "Fld_Attachsize": 2471381,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ba923e4d-bf96-4e0b-89d2-a30181eee31d",
+    "SCRIP_CD": 532726,
+    "XML_NAME": "ANN_532726_BA923E4D-BF96-4E0B-89D2-A30181EEE31D",
+    "NEWSSUB": "Gallantt Ispat Ltd - 532726 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-19T09:22:37.73",
+    "NEWS_DT": "2026-11-19T09:22:37.73",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "BA923E4D_BF96_4E0B_89D2_A30181EEE31D_092229.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Dinesh R Agarwal & PACs",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gallantt-ispat-ltd/gallantt/532726/",
+    "SLONGNAME": "Gallantt Ispat Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-19T09:22:37.73",
+    "TimeDiff": null,
+    "Fld_Attachsize": 744070,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "493fedc2-aa90-45f8-8de7-eba9d82c6925",
+    "SCRIP_CD": 503806,
+    "XML_NAME": "ANN_503806_493FEDC2-AA90-45F8-8DE7-EBA9D82C6925",
+    "NEWSSUB": "SRF Ltd - 503806 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-19T09:20:24.413",
+    "NEWS_DT": "2026-11-19T09:20:24.413",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "493FEDC2_AA90_45F8_8DE7_EBA9D82C6925_092020.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for KAMA Realty (Delhi) Ltd",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/srf-ltd/srf/503806/",
+    "SLONGNAME": "SRF Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 1,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-19T09:20:24.413",
+    "TimeDiff": null,
+    "Fld_Attachsize": 781156,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement contains only the registered office address and contact information for KAMA Realty (Delhi) Limited; it does not provide any financial figures, dates, or decisions.  \n\n- Consequently, there are no monetary or corporate‑action details to summarize.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "6c816b59-df02-482c-941c-c6c5413a8d2a",
+    "SCRIP_CD": 533263,
+    "XML_NAME": "ANN_533263_6C816B59-DF02-482C-941C-C6C5413A8D2A",
+    "NEWSSUB": "Orient Green Power Company Ltd - 533263 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-19T09:18:58.553",
+    "NEWS_DT": "2026-11-19T09:18:58.553",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "503851fb-7d28-4134-8c6a-2ed32e614b69.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Press Release under Regulation 30 of SEBI LODR Regulations 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orient-green-power-company-ltd/greenpower/533263/",
+    "SLONGNAME": "Orient Green Power Company Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-19T09:18:58",
+    "DissemDT": "2026-11-19T09:18:58.553",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 280193,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **APTEL ruling (Nov 17 2026)**: The Appellate Tribunal for Electricity set aside the APERC order and directed Southern Power Distribution Company of Andhra Pradesh to release the withheld wind‑power payments to Beta Wind Farm Private Limited, including accrued interest, amounting to **≈ ₹12.98 crore** (₹5.93 crore principal + ₹3.09 crore",
+    "key_metrics": {
+      "revenue": "315.57 crore",
+      "net_profit": "71.57 crore",
+      "operating_profit": "205.45 crore",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ec20f50f-bb58-4a56-8ae1-94b6ce897244",
+    "SCRIP_CD": 533263,
+    "XML_NAME": "ANN_533263_EC20F50F-BB58-4A56-8AE1-94B6CE897244",
+    "NEWSSUB": "Orient Green Power Company Ltd - 533263 - Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Order Passed By The Appellate Tribunal For Electricity, New Delhi In The Matter Relating To Beta Wind Farm Private Limited, A Material Subsidiary Of The Company",
+    "DT_TM": "2026-11-19T09:11:48.47",
+    "NEWS_DT": "2026-11-19T09:11:48.47",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "62be51ca-5fc8-4353-8a48-712996bdf829.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation under Regulation 30 of SEBI (LODR) Regulations 2015 as enclosed",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/orient-green-power-company-ltd/greenpower/533263/",
+    "SLONGNAME": "Orient Green Power Company Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-19T09:11:48",
+    "DissemDT": "2026-11-19T09:11:48.47",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 205083,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Order & Payment Details (Nov 17 2026):** The Appellate Tribunal for Electricity ruled in favor of Beta Wind Farm Private Limited (a material subsidiary), directing Southern Power Distribution Company of Andhra Pradesh Ltd to release the **₹5.93 crore** withheld under the Power Purchase Agreement, plus **₹7.05 crore** interest (calculated up to 31 Oct 2026), for a total expected receipt of **₹12.98 crore**.  \n\n- **Litigation Context:** The appeal challenged an Andhra Pradesh Electricity Regulatory Commission order that limited payment for wind energy supplied beyond the normative Capacity Utilisation Factor (CUF). The tribunal’s decision overturns that restriction, allowing Beta to claim the full amount and interest as per the PPA.",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "S.No": "1",
+            "Particulars": "Name of the Opposing party",
+            "Details": "Southern Power Distribution Company of Andhra Pradesh Limited (APSPDCL)"
+          },
+          {
+            "S.No": "2",
+            "Particulars": "Court / Tribunal / Agency",
+            "Details": "Appellate Tribunal for Electricity (APTEL)"
+          },
+          {
+            "S.No": "3",
+            "Particulars": "Brief details of litigation",
+            "Details": "The appeal was filed by Beta Wind Farm Private Limited, a material subsidiary of the Company(Beta), challenging the order passed by the Andhra Pradesh Electricity Regulatory Commission (APERC) concerning the restriction of payment for wind energy supplied beyond the normative Capacity Utilisation Factor (CUF). Beta prayed for release of Rs. 5.93 crore withheld by APSPCDL along with interest as per the Power Purchase Agreement(PPA)."
+          },
+          {
+            "S.No": "4",
+            "Particulars": "Expected financial implications, if any",
+            "Details": "Beta is expected to receive about Rs. 12.98 crore which include Rs. 5.93 crore of amounts withheld and Rs. 7.05 crore of interest calculated till October 31, 2026."
+          },
+          {
+            "S.No": "5",
+            "Particulars": "Quantum of claims, if any",
+            "Details": "Rs. 5.93 Crores withheld by APSPCDL along with interest as per the power purchase agreement till the date of payment."
+          },
+          {
+            "S.No": "6",
+            "Particulars": "In the event of settlement of the proceedings, details of such settlement including - terms of the settlement, compensation/penalty paid (if any) and impact of such settlement on the financial position of the listed entity.",
+            "Details": "APTEL after hearings passed an order on November 17, 2026, setting aside the impugned order of APERC and directed APSPDCL to release the withheld amount along with interest as per the terms of PPA."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "2590931e-9ed0-4de0-aebb-3f1619694d1a",
+    "SCRIP_CD": 500042,
+    "XML_NAME": "ANN_500042_2590931E-9ED0-4DE0-AEBB-3F1619694D1A",
+    "NEWSSUB": "BASF India Ltd - 500042 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-19T09:03:01.57",
+    "NEWS_DT": "2026-11-19T09:03:01.57",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "281ba312-14c0-4d98-9cac-99ac9e8b3e6c.pdf",
+    "MORE": "Notice of the Postal Ballot for seeking shareholders'' approval for revised/updated limits of Material Related Party Transactions for FY 2026-2027 and FY 2027-2028 i.e. upto the date of AGM to be held in the calendar year 2027.",
+    "HEADLINE": "Notice of the Postal Ballot for seeking shareholders'' approval for revised/updated limits of Material Related Party Transactions for FY 2026-2027 and FY 2027-2028 i.e. upto the date of ....",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/basf-india-ltd/basf/500042/",
+    "SLONGNAME": "BASF India Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-19T09:03:01",
+    "DissemDT": "2026-11-19T09:03:01.57",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 515509,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Postal ballot timeline:** e‑voting will run from **Monday 23 Nov 2026 (9 a.m.) to Tuesday 22 Dec 2026 (5 p.m.)**, with the results to be announced by **Thursday 24 Dec 2026**.  \n\n- **Purpose of the ballot:** To obtain shareholder approval for **revised/updated limits on material related‑party transactions** for FY 2026‑27 and FY 2027‑28 (up to the date of the AGM in 2027). No specific monetary limits or other financial figures are disclosed in the notice.",
+    "key_metrics": {
+      "revenue": "2025",
+      "net_profit": "3",
+      "total_equity": "51",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 15,
+        "table_index": 0,
+        "row_count": 14,
+        "rows": [
+          {
+            "Sr. no.": "A(3)",
+            "Particulars of the information": "Details of previous transactions with the related party",
+            "Details": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "1",
+            "Particulars of the information": "Total amount of all the transactions undertaken by the listed entity or subsidiary with the related party during the last financial year 2025-26.",
+            "Details": "Nature of transaction",
+            "col_4": "Amount (Rs. In Crores)",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "",
+            "col_4": "BPC",
+            "col_5": "BASF Company",
+            "col_6": "BSEA"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Purchase of goods",
+            "col_4": "931.9",
+            "col_5": "1286.5",
+            "col_6": "1,442.5"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Availing or rendering of services.",
+            "col_4": "—",
+            "col_5": "0.4",
+            "col_6": "8.6"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Total",
+            "col_4": "931.9",
+            "col_5": "1286.9",
+            "col_6": "1451.1"
+          },
+          {
+            "Sr. no.": "2",
+            "Particulars of the information": "Total amount of all the transactions undertaken by the listed entity or subsidiary with the related party in the current financial year for the period April 26 – September 2026, immediately preceding the quarter in which the approval is sought.",
+            "Details": "",
+            "col_4": "828.5",
+            "col_5": "1079.2",
+            "col_6": "1231.9"
+          },
+          {
+            "Sr. no.": "3",
+            "Particulars of the information": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last three financial years.",
+            "Details": "",
+            "col_4": "NIL",
+            "col_5": "NIL",
+            "col_6": "NIL"
+          },
+          {
+            "Sr. no.": "A(4)",
+            "Particulars of the information": "Amount of the proposed transactions",
+            "Details": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "1",
+            "Particulars of the information": "Amount of the proposed transactions being placed for approval in the meeting of the Audit Committee/ Members.",
+            "Details": "BPC: Rs. 2,500 crore BASF Company: Rs. 3,200 crore BSEA: Rs. 3,200 crore (Existing limit is Rs. 2600 crore)",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "2",
+            "Particulars of the information": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
+            "Details": "The transactions for which approval is sought is for the financial year 2026-27 and 2027-2028 i.e., upto the date of the AGM to be held in the calendar year 2027, hence, this clause is not applicable",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "3",
+            "Particulars of the information": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year (i.e FY 2025-26)",
+            "Details": "BPC: 17% BASF Company: 22% BSEA: 22%",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "4",
+            "Particulars of the information": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary, and where the listed entity is not a party to the transaction)",
+            "Details": "Not Applicable",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          },
+          {
+            "Sr. no.": "5",
+            "Particulars of the information": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
+            "Details": "BPC: 42% BASF Company: 21% BSEA: 33%",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. no.": "6 (a)",
+            "Particulars of the information": "Financial performance of the related party for the immediately preceding financial year i.e., FY 2025 (January to December 2025), being the reporting year of the related party. As per RBI, exchange rate considered is Rs. 87.166098.",
+            "Details for BPC": "Particulars",
+            "col_4": "in USD Crore",
+            "col_5": "in INR Crore"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BPC": "Standalone Turnover",
+            "col_4": "69",
+            "col_5": "6008"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BPC": "Standalone Net Worth",
+            "col_4": "51",
+            "col_5": "4413"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BPC": "Standalone Net Profits",
+            "col_4": "3",
+            "col_5": "283"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. no.": "6 (b)",
+            "Particulars of the information": "Financial performance of the related party for the immediately preceding financial year i.e., FY 2025 (January to December 2025), being the reporting year of the related party. As per RBI, exchange rate considered is Rs. 87.166098.",
+            "Details for BASF Company": "Particulars",
+            "col_4": "in USD Crore",
+            "col_5": "in INR Crore"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BASF Company": "Standalone Turnover",
+            "col_4": "178",
+            "col_5": "15,514"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BASF Company": "Standalone Net Worth",
+            "col_4": "60",
+            "col_5": "5196"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BASF Company": "Standalone Net Profits",
+            "col_4": "3",
+            "col_5": "300"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 2,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. no.": "6 (c)",
+            "Particulars of the information": "Financial performance of the related party for the immediately preceding financial year i.e., FY 2025 (January to December 2025), being the reporting year of the related party. As per RBI, exchange rate considered is Rs. 87.166098.",
+            "Details for BSEA": "Particulars",
+            "col_4": "in USD Crore",
+            "col_5": "in INR Crore"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BSEA": "Standalone Turnover",
+            "col_4": "111",
+            "col_5": "9,666"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BSEA": "Standalone Net Worth",
+            "col_4": "20",
+            "col_5": "1,700"
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details for BSEA": "Standalone Net Profits",
+            "col_4": "1",
+            "col_5": "87"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 3,
+        "row_count": 7,
+        "rows": [
+          {
+            "Sr. no.": "A(5)",
+            "Particulars of the information": "Basic details of the proposed transaction",
+            "Details": "",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "1",
+            "Particulars of the information": "Specific type of the proposed transaction (e.g. sale of goods/services, purchase of goods/ services, giving loan, borrowing etc.)",
+            "Details": "Purchase of Goods and / or availing / rendering of services",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "2",
+            "Particulars of the information": "Details of the proposed transaction",
+            "Details": "The related party transactions are in the ordinary course of the business and on arms’ length basis. Further the same would be compliant with the Inter-Company Transfer Pricing (ICTP) Guidelines, as follows: -",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Sale and/ or purchase of chemicals/ materials",
+            "col_4": "Transactional Net Margin Method (TNMM) along with appropriate benchmarking analysis."
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Availing or rendering of services.",
+            "col_4": "For the services availed / provided, all group entities pay cost plus mark-up as per the Inter Company Transfer Pricing Policy. This is also in accordance with proposed OECD guidelines in case of low value adding intra-group services."
+          },
+          {
+            "Sr. no.": "3",
+            "Particulars of the information": "Tenure of the proposed transaction (tenure in number of years or months to be specified)",
+            "Details": "FY 2026-27 and FY 2027-28 i.e., upto the AGM to be held during the calendar year in 2027 (not exceeding 15 months)",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "4",
+            "Particulars of the information": "Whether omnibus approval is being sought?",
+            "Details": "Yes",
+            "col_4": ""
+          }
+        ]
+      },
+      {
+        "page": 17,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "Sr. no.": "5",
+            "Particulars of the information": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
+            "Details": "Enabling / Proposed Limits are as under: - BPC: Rs. 2,500 crore BASF Company: Rs. 3,200 crore BSEA: Rs. 3,200 crore (Existing limit is Rs. 2600 crore)",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "6",
+            "Particulars of the information": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
+            "Details": "All the aforesaid transactions are in furtherance of the business activities therefore, in the interest of the Company.",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "7",
+            "Particulars of the information": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly.",
+            "Details": "None of the Directors, Key Managerial Personnel (KMP) of the Company, are in any way concerned or interested in the proposed transaction, except to the extent of their respective shareholding, if any, in the Company.",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "8",
+            "Particulars of the information": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
+            "Details": "NA",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "9",
+            "Particulars of the information": "Other information relevant for decision making.",
+            "Details": "All important information forms part of the statement setting out material facts of the proposed RPTs.",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "B",
+            "Particulars of the information": "Details for specific transactions",
+            "Details": "",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "B(1)",
+            "Particulars of the information": "Sale, purchase or supply of goods or services or any other similar business transactions and trade advances",
+            "Details": "",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "1",
+            "Particulars of the information": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
+            "Details": "No bidding or other processes are applied to choose a party. Please refer to the justifications mentioned in point A (6).",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "2",
+            "Particulars of the information": "Basis of determination of price.",
+            "Details": "The related party transactions are in the ordinary course of the business and on arms’ length basis. Further the same would be compliant with the Inter-Company Transfer Pricing (ICTP) Guidelines, as follows:-",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Sale and/ or purchase of chemicals/ materials",
+            "col_4": "Transactional Net Margin Method (TNMM) along with appropriate benchmarking analysis."
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "",
+            "Details": "Availing or rendering of services.",
+            "col_4": "For the services availed / provided, all group entities pay cost plus mark-up as per the Inter Company Transfer Pricing Policy. This is also in accordance with proposed OECD guidelines in case of low value adding intra- group services."
+          },
+          {
+            "Sr. no.": "3",
+            "Particulars of the information": "In case of Trade advance (of upto 365 days or such period for which such advances are extended as per normal trade practice), if any, proposed to be extended to the related party in relation to the transaction, specify the following:",
+            "Details": "In relation to the proposed transactions, no trade advances are currently envisaged to be extended to the related party. Accordingly, the details are presently not applicable.",
+            "col_4": ""
+          },
+          {
+            "Sr. no.": "",
+            "Particulars of the information": "a. Amount of Trade advance b. Tenure c. Whether same is self-liquidating?",
+            "Details": "— — —",
+            "col_4": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "d4c5ec1f-f3c2-4592-97e7-e8788e05aa3e",
     "SCRIP_CD": 544740,
     "XML_NAME": "ANN_544740_D4C5EC1F-F3C2-4592-97E7-E8788E05AA3E",
@@ -4951,4220 +5684,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b3fcde11-0b00-4bcf-808c-231a6b01ba12",
-    "SCRIP_CD": 531512,
-    "XML_NAME": "ANN_531512_B3FCDE11-0B00-4BCF-808C-231A6B01BA12",
-    "NEWSSUB": "Orient Tradelink Ltd - 531512 - Financial Results For The Quarter & Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-18T19:30:54.07",
-    "NEWS_DT": "2026-11-18T19:30:54.07",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ed2490e3-aead-4b69-98c5-b86be17a7dcc.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find attached herewith the Financial results for the quarter & half year ended September 30, 2026",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/orient-tradelink-ltd/orienttr/531512/",
-    "SLONGNAME": "Orient Tradelink Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:30:54",
-    "DissemDT": "2026-11-18T19:30:54.07",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 17808941,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "209.04",
-      "total_assets": "8085.54",
-      "total_equity": "6271.25",
-      "total_debt": "400.38",
-      "eps": "18",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particular": "",
-            "Quarter Ended": "30-09-2026 Unaudited",
-            "col_4": "30-06-2026 Unaudited",
-            "col_5": "30-09-2025 Unaudited",
-            "Half Year Ended": "30-09-2026 Unaudited",
-            "col_7": "30-09-2025 Unaudited",
-            "Year ended": "31-03-2026 Audited"
-          },
-          {
-            "Sr. No.": "1 2",
-            "Particular": "Revenue from Operations Other Income",
-            "Quarter Ended": "209.04 3.34",
-            "col_4": "325.26 2.04",
-            "col_5": "295.16 138.41",
-            "Half Year Ended": "534.30 5.38",
-            "col_7": "773.76 140.529",
-            "Year ended": "1,463.47 287.81"
-          },
-          {
-            "Sr. No.": "3 4",
-            "Particular": "Total Revenue (1+2) Expenses (a) Cost of Materials consumed (b) Purchase of Stock-in-Trade (c) Changes in inventories of finished goods, work-in- progress and stock-in-trade (d) Employee benefits expense (e) Finance Cost (f) Depreciation and amortisation expense (g) Other expenses",
-            "Quarter Ended": "212.38 96.66 64.00 27.40 - 20.66 31.66",
-            "col_4": "327.30 257.65 (9.02) 24.55 20.66 22.87",
-            "col_5": "433.57 - 365 -121.62 23.13 - 17.98 96.94",
-            "Half Year Ended": "539.68 354.31 54.98 51.95 - 41.32 54.53",
-            "col_7": "914.29 448.37 128.50 46.88 - 35.96 140.62",
-            "Year ended": "1,751.28 986.53 146.69 106.51 74.25 258.51"
-          },
-          {
-            "Sr. No.": "",
-            "Particular": "Total Expenses",
-            "Quarter Ended": "240.38",
-            "col_4": "316.71",
-            "col_5": "381.43",
-            "Half Year Ended": "557.09",
-            "col_7": "800.33",
-            "Year ended": "1,572.49"
-          },
-          {
-            "Sr. No.": "5",
-            "Particular": "Profit / (Loss) before exceptional items and Tax (3-4)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "10.59",
-            "col_5": "52.14",
-            "Half Year Ended": "(17.41)",
-            "col_7": "113.96",
-            "Year ended": "178.79"
-          },
-          {
-            "Sr. No.": "6",
-            "Particular": "Exceptional items",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr. No.": "7",
-            "Particular": "Profit / (Loss) before Tax (5 - 6)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "10.59",
-            "col_5": "52.14",
-            "Half Year Ended": "(17.41)",
-            "col_7": "113.96",
-            "Year ended": "178.79"
-          },
-          {
-            "Sr. No.": "8",
-            "Particular": "Tax Expense: a) Current Tax b) Deffered Tax",
-            "Quarter Ended": "-",
-            "col_4": "2.67 -",
-            "col_5": "13.12 -",
-            "Half Year Ended": "-",
-            "col_7": "28.68",
-            "Year ended": "45.00 (1.85)"
-          },
-          {
-            "Sr. No.": "9",
-            "Particular": "Profit/ (Loss) for the period from Continuing operations (7-8)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "7.92",
-            "col_5": "39.02",
-            "Half Year Ended": "(17.41)",
-            "col_7": "85.27",
-            "Year ended": "135.64"
-          },
-          {
-            "Sr. No.": "10 11 12",
-            "Particular": "Profit/ (Loss) for the period from Discontinued operations Tax Expense of Discontinued operations Profit/ (Loss) for the period from Discontinued operations (After Tax)",
-            "Quarter Ended": "- - -",
-            "col_4": "- - -",
-            "col_5": "- - -",
-            "Half Year Ended": "- - -",
-            "col_7": "- - -",
-            "Year ended": "- - -"
-          },
-          {
-            "Sr. No.": "13",
-            "Particular": "Profit/ (Loss) for the period (After Tax)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "7.92",
-            "col_5": "39.02",
-            "Half Year Ended": "(17.41)",
-            "col_7": "85.27",
-            "Year ended": "135.64"
-          },
-          {
-            "Sr. No.": "14",
-            "Particular": "Other Comprehensive Income A) (i) Items that will not be reclassified to profit or loss (ii) Income Tax relating to item that will not be re- classified to profit or loss B) A) (i) Items that will be reclassified to profit or loss (ii) Income Tax relating to item that will be re-classified to profit or loss",
-            "Quarter Ended": "",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year ended": "-"
-          },
-          {
-            "Sr. No.": "15",
-            "Particular": "Total Comprehensive income for the period (13+14)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "7.92",
-            "col_5": "39.02",
-            "Half Year Ended": "(17.41)",
-            "col_7": "85.27",
-            "Year ended": "135.64"
-          },
-          {
-            "Sr. No.": "16",
-            "Particular": "Paid-up Equity Share Captial (Face value of Rs.10/- each)",
-            "Quarter Ended": "3,868.56",
-            "col_4": "3,868.56",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year ended": "3,868.56"
-          },
-          {
-            "Sr. No.": "16 17 18",
-            "Particular": "Earnings Per Share (EPS) (For continuing operations) (a) Basic (b) Diluted Earnings Per Share (EPS) (For Discontinuing operations) (a) Basic (b) Diluted Earnings Per Share (EPS) (For Discontinuing & Continuing operations) (a) Basic (b) Diluted",
-            "Quarter Ended": "(0.07) (0.07) - - (0.07) (0.07)",
-            "col_4": "0.02 0.02 - - 0.02 0.02",
-            "col_5": "0.26 0.26 - - 0.26 0.26",
-            "Half Year Ended": "(0.05) (0.05) - - (0.05) (0.05)",
-            "col_7": "0.57 0.57 - - 0.57 0.57",
-            "Year ended": "0.62 0.62 - - 0 .62 0 .62"
-          },
-          {
-            "Sr. No.": "Note: 1. The above Standalone Financial Results were reviewed by the Audit Committee and were thereafter approved by the Board of Directors at their meeting held on 18/11/2026. 2. The above results for the quarter and half year ended on 30th September, 2026 have been prepared in accordance with the recognition and measurement principles laid down in the Indian Accounting Standard (Ind AS 34), prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting principles generally accepted in India. 3. The figures for the previous period have been regrouped / rearranged / reclassified wherever necessary. 4. These Results are also updated on the company’s website URL: URL: https://www.orienttradelink.in",
-            "Particular": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year ended": ""
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Particulars",
-            "col_3": "As at 30.09.2026",
-            "col_4": "As at 31.03.2026"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Audited"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "A.",
-            "col_2": "ASSETS",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "1 2",
-            "col_2": "Non-current assets (a) Property, Plant and Equipment (b) Capital work-in-progress (c) Investment Property (d) Goodwill (e) Other Intangible Assets (f) Intangible Assets under development (g) Biological Assets other than bearer plants (h) Investments accounted for using equity method (i) Financial Assets (i) Investments (ii) Trade Receivables (iii) Loans (iii) Others (j) Deffered tax assets (Net) (k) Other non-current Assets",
-            "col_3": "23.55 710.93 2 ,051.79",
-            "col_4": "2 5.00 7 48.76 2 ,051.79"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Non-Current Assets",
-            "col_3": "2,786.27",
-            "col_4": "2 ,825.55"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Current assets (a) Inventories (b) Financial Assets (i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank Balances other then (iii) above (v) Loans (vi) Others (c) Current Tax Assets (Net) (d) Other current assets",
-            "col_3": "161.57 20.95 2329.24 100.56 2685.53 1.42",
-            "col_4": "2 16.56 6 .50 1 ,937.21 1 27.95 2 ,690.39 3 0.38"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Current Assets",
-            "col_3": "5,299.27",
-            "col_4": "5 ,008.98"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "TOTAL ASSETS",
-            "col_3": "8,085.54",
-            "col_4": "7 ,834.53"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "B. EQUITY AND LIABILITIES 1 Equity (a) Equity Share capital (b) Other Equity (Reserves & Surplus) (c) Share Application Money (d) Money Received against Share Warrants Total Equity Liabilities 2 Non-current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities (other than those specified in item (b), to be (b) Provisions (c) Deferred tax liabilities (Net) (d) Other non-current liabilities Total Non-current liabilities 3 Current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities [other than those specified in item (c)] (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net) Total Current liabilities",
-            "col_2": "",
-            "col_3": "3868.56 2 ,028.78 12.11 361.8",
-            "col_4": "3 ,868.56 2 ,046.19 1 2.10 3 61.80"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Equity",
-            "col_3": "6,271.25",
-            "col_4": "6 ,288.65"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Liabilities Non-current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities (other than those specified in item (b), to be (b) Provisions (c) Deferred tax liabilities (Net) (d) Other non-current liabilities",
-            "col_3": "400.38 115.27 0",
-            "col_4": "4 64.83 1 15.27"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Non-current liabilities",
-            "col_3": "515.65",
-            "col_4": "5 80.10"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities [other than those specified in item (c)] (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net)",
-            "col_3": "1011.98 113.08 173.58 -",
-            "col_4": "7 06.81 8 5.39 1 28.58 4 5.00"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Current liabilities",
-            "col_3": "1,298.64",
-            "col_4": "9 65.78"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "TOTAL EQUITY AND LIABILITIES",
-            "col_3": "8,085.54",
-            "col_4": "7,834.53"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "4e62148f-0809-46f2-8efb-45eaa358640f",
-    "SCRIP_CD": 544351,
-    "XML_NAME": "ANN_544351_4E62148F-0809-46F2-8EFB-45EAA358640F",
-    "NEWSSUB": "Malpani Pipes And Fittings Ltd - 544351 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-18T19:29:59.52",
-    "NEWS_DT": "2026-11-18T19:29:59.52",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "79f974ac-db89-412e-aa51-9972e0ae578f.pdf",
-    "MORE": "",
-    "HEADLINE": "Appointment of CA Aditya Parwal as an internal auditor of the company for the financial year 2026-27.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/malpani-pipes-and-fittings-ltd/malpani/544351/",
-    "SLONGNAME": "Malpani Pipes And Fittings Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:29:59",
-    "DissemDT": "2026-11-18T19:29:59.52",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6374068,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval of unaudited half‑year results (ended 30 Sept 2026)** – In the meeting held on 18 Nov 2026, the Board adopted the standalone and consolidated financials, which reported **Revenue from Operations of ₹8,016.68 lakh**, **Profit before tax",
-    "key_metrics": {
-      "revenue": "8016.68",
-      "total_assets": "15068.74",
-      "total_equity": "15068.74",
-      "total_debt": "1383.05",
-      "eps": "4.16",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 26,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Half Year Ended": "30-Sep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "col_6": "31-Mar-26"
-          },
-          {
-            "Particulars": "A",
-            "col_2": "Date of Start of Reporting Period",
-            "Half Year Ended": "01-Apr-26",
-            "col_4": "01-0ct-25",
-            "col_5": "01-Apr-25",
-            "col_6": "01-Apr-25"
-          },
-          {
-            "Particulars": "B C",
-            "col_2": "Date of End of Reporting Period",
-            "Half Year Ended": "30-Sep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "col_6": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "col_6": "Audited"
-          },
-          {
-            "Particulars": "D",
-            "col_2": "Nature of Report",
-            "Half Year Ended": "Standalone",
-            "col_4": "Standalone",
-            "col_5": "Standalone",
-            "col_6": "Standalone"
-          },
-          {
-            "Particulars": "I",
-            "col_2": "Revenue from Operations",
-            "Half Year Ended": "8,016.68",
-            "col_4": "9,347.18",
-            "col_5": "6,956.14 62.42",
-            "col_6": "16,303.32"
-          },
-          {
-            "Particulars": "II",
-            "col_2": "Other Income",
-            "Half Year Ended": "23.88",
-            "col_4": "19.32",
-            "col_5": "",
-            "col_6": "81.74"
-          },
-          {
-            "Particulars": "III",
-            "col_2": "Total Income",
-            "Half Year Ended": "8,040.55",
-            "col_4": "9,366.50",
-            "col_5": "7,018.57",
-            "col_6": "16,385.06"
-          },
-          {
-            "Particulars": "IV",
-            "col_2": "Expenses",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "11,599.18"
-          },
-          {
-            "Particulars": "(a)",
-            "col_2": "Cost of Material Consumed",
-            "Half Year Ended": "6,034.84",
-            "col_4": "5,941.88",
-            "col_5": "5,657.30",
-            "col_6": ""
-          },
-          {
-            "Particulars": "(b)",
-            "col_2": "Purchases of Stock in Trade",
-            "Half Year Ended": "1,219.07",
-            "col_4": "718.80",
-            "col_5": "687.98",
-            "col_6": "1,406.78"
-          },
-          {
-            "Particulars": "(c)",
-            "col_2": "Change in Inventories of work in progress and finished goods",
-            "Half Year Ended": "(882.54)",
-            "col_4": "948.56",
-            "col_5": "(774.20)",
-            "col_6": "174.36"
-          },
-          {
-            "Particulars": "(d)",
-            "col_2": "Employee Benefit Expenses",
-            "Half Year Ended": "149.89",
-            "col_4": "149.92",
-            "col_5": "151.95",
-            "col_6": "301.87"
-          },
-          {
-            "Particulars": "(e)",
-            "col_2": "Finance Costs",
-            "Half Year Ended": "157.01",
-            "col_4": "200.08",
-            "col_5": "151.68",
-            "col_6": "351.76"
-          },
-          {
-            "Particulars": "(f)",
-            "col_2": "Depreciation and Amortization Expenses",
-            "Half Year Ended": "118.75",
-            "col_4": "80.24",
-            "col_5": "82.89",
-            "col_6": "163.13"
-          },
-          {
-            "Particulars": "(g)",
-            "col_2": "Other Expenses",
-            "Half Year Ended": "640.53",
-            "col_4": "630.33",
-            "col_5": "541.04",
-            "col_6": "1,171.37"
-          },
-          {
-            "Particulars": "IV",
-            "col_2": "Total expenses",
-            "Half Year Ended": "7,437.56",
-            "col_4": "8,669.81",
-            "col_5": "6,498.64",
-            "col_6": "15,168.45"
-          },
-          {
-            "Particulars": "V",
-            "col_2": "Profitl(Loss) before Exceptional and Extraordinary Item and Tax (III-IV)",
-            "Half Year Ended": "602.99",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars": "VI",
-            "col_2": "Exceptional Item",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars": "VII",
-            "col_2": "Profitl(Loss) before Extraordinary Item and Tax (V-VI)",
-            "Half Year Ended": "602.99",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars": "VIII",
-            "col_2": "Extraordinary Item",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars": "IX",
-            "col_2": "Profitl(Loss) before Tax (VII-VIII)",
-            "Half Year Ended": "602.99",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars": "X",
-            "col_2": "Tax Expenses",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars": "(a)",
-            "col_2": "- Current Tax",
-            "Half Year Ended": "143.47",
-            "col_4": "161.06",
-            "col_5": "132.03",
-            "col_6": "293.09"
-          },
-          {
-            "Particulars": "(b)",
-            "col_2": "- Deferred Tax",
-            "Half Year Ended": "11.60",
-            "col_4": "20.70",
-            "col_5": "(0.09)",
-            "col_6": "20.61"
-          },
-          {
-            "Particulars": "XI",
-            "col_2": "Profitl(Loss) for the period from continuing operation (IX-X)",
-            "Half Year Ended": "447.92",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "col_6": "902.91"
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Half Year Ended": "30-Sep-26 01-Apr-26 30-Sep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "A",
-            "col_2": "Date of Start of Reporting Period",
-            "Half Year Ended": "",
-            "col_4": "01-0ct-25",
-            "col_5": "01-Apr-25",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "B",
-            "col_2": "Date of End of Reporting Period",
-            "Half Year Ended": "",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "C",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "D",
-            "col_2": "Nature of Report",
-            "Half Year Ended": "Standalone",
-            "col_4": "Standalone",
-            "col_5": "Standalone",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars": "XII",
-            "col_2": "Profitl(Loss) for the period from discontinuing operation",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "Particulars": "XIII",
-            "col_2": "Tax expenses of discontinued operations",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "- -",
-            "Year Ended": "-"
-          },
-          {
-            "Particulars": "XIV",
-            "col_2": "ProfitJ(Loss) for the period from discontinuing operation (after Tax) (XII-XIII)",
-            "Half Year Ended": "- .",
-            "col_4": "-",
-            "col_5": "",
-            "Year Ended": "- 902.91"
-          },
-          {
-            "Particulars": "XV",
-            "col_2": "ProfitJ(Loss) for the period (XI+XIV)",
-            "Half Year Ended": "447.92",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "XVI",
-            "col_2": "Paid Up Equity Share Capital of Rs. 101-each",
-            "Half Year Ended": "1,077.75",
-            "col_4": "1,077.75",
-            "col_5": "1,077.75",
-            "Year Ended": "1,077.75"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Reserves Excluding Revaluation Reserves",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "4,490.61"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Face Value of Equity Shares",
-            "Half Year Ended": "f 101-",
-            "col_4": "f 101-",
-            "col_5": "f 101-",
-            "Year Ended": "f 101-"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Earnings Per Share (Not Annualised for half yearl period ended)",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "-Bas..!S.ln Rs)",
-            "Half Year Ended": "4.16",
-            "col_4": "4.78 4.78",
-            "col_5": "3.60 3.60",
-            "Year Ended": "8.38"
-          },
-          {
-            "Particulars": "",
-            "col_2": "-Diluted EPS (In Rs)",
-            "Half Year Ended": "4.16",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": "8.38"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 39,
-        "rows": [
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Nature of Report I. EQUITY AND LIABILITIES",
-            "Half Year Ended": "Standalone",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(1) Shareholders' funds (a) Share Capital (b) Reserves and Surplus",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "1077.75 4,938.53",
-            "Year Ended": "1077.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "",
-            "Year Ended": "4490.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "6,016.28",
-            "Year Ended": "5568.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(2) Non-current liabilities",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Long-tenn Borrowings",
-            "Half Year Ended": "1,383.05 61.41 27.77 1,472.23",
-            "Year Ended": "951.17"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) Deferred Tax Liabilities (net)",
-            "Half Year Ended": "",
-            "Year Ended": "49.82"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Long-tenn Provisions",
-            "Half Year Ended": "",
-            "Year Ended": "25.23"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "",
-            "Year Ended": "1,026.21"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(3) Current liabilities",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Short-tenn Borrowings",
-            "Half Year Ended": "3,000.06",
-            "Year Ended": "1,267.28"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) Trade Payables",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "-Due to Micro and Small Enterprises",
-            "Half Year Ended": "41.95",
-            "Year Ended": "53.74 3,712.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "- Due to Others",
-            "Half Year Ended": "3,794.87",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Other Current Liabilities",
-            "Half Year Ended": "251.89",
-            "Year Ended": "182.48"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(d) Short-tenn Provisions",
-            "Half Year Ended": "491.45",
-            "Year Ended": "362.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "7,580.22",
-            "Year Ended": "5,578.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total Equity and Liabilities",
-            "Half Year Ended": "15,068.74",
-            "Year Ended": "12,173.18"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "II. ASSETS",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(1) Non-current assets",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Property, Plant and Equipment and Intangible Assets",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(i) Property, Plant and Equipment",
-            "Half Year Ended": "2,151.89",
-            "Year Ended": "1,897.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(ii) Capital Wor1< In Progress",
-            "Half Year Ended": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) (b) Non-current Investment",
-            "Half Year Ended": "405.70",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Other Non-current Assets",
-            "Half Year Ended": "729.28",
-            "Year Ended": "414.37"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "3,286.87",
-            "Year Ended": "2,311.98"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(2) Current assets",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Inventories",
-            "Half Year Ended": "5,782.62",
-            "Year Ended": "4,673.81"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) Trade Receivables",
-            "Half Year Ended": "5,320.50",
-            "Year Ended": "4,444.41"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Cash and cash equivalents",
-            "Half Year Ended": "6.64",
-            "Year Ended": "20.15"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(d) Short-tenn Loans and Advances",
-            "Half Year Ended": "230.95",
-            "Year Ended": "429.19"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(e) Other Current Assets",
-            "Half Year Ended": "441.14",
-            "Year Ended": "293.63"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "- Total",
-            "Half Year Ended": "11,781.87",
-            "Year Ended": "9,861.20"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total Assets",
-            "Half Year Ended": "15,068.74",
-            "Year Ended": "12,173.18"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 36,
-        "rows": [
-          {
-            "Particulars": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Date of Start of Reporting Period",
-            "Half Year Ended 30-Sep-26": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "Date of End of Reporting Period",
-            "Half Year Ended 30-Sep-26": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended 30-Sep-26": "Unaudited Standalone",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "Nature of Report",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars": "CASH FLOW FROM OPERATING ACTIVITIES",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Net Profit before tax",
-            "Half Year Ended 30-Sep-26": "602.99",
-            "Year Ended": "1216.61"
-          },
-          {
-            "Particulars": "Depreciation and Amortisation Expense",
-            "Half Year Ended 30-Sep-26": "118.75",
-            "Year Ended": "163.13"
-          },
-          {
-            "Particulars": "Bad debt, provision for doubtful debts",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Provision for Gratuity",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Gain on Sale of Assets",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Interest Income",
-            "Half Year Ended 30-Sep-26": "-10.29",
-            "Year Ended": "-21.02"
-          },
-          {
-            "Particulars": "Finance Costs",
-            "Half Year Ended 30-Sep-26": "157.01 868.47",
-            "Year Ended": "351.76"
-          },
-          {
-            "Particulars": "Operating Profit before working capital changes",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "1710.47"
-          },
-          {
-            "Particulars": "Adjustment for:",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "-1058.57 546.67"
-          },
-          {
-            "Particulars": "Inventories",
-            "Half Year Ended 30-Sep-26": "-1,108.81",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Trade Receivables",
-            "Half Year Ended 30-Sep-26": "-876.09",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Other Current Asset",
-            "Half Year Ended 30-Sep-26": "-147.51",
-            "Year Ended": "-13.73"
-          },
-          {
-            "Particulars": "Other Non-Current Asset",
-            "Half Year Ended 30-Sep-26": "-314.92",
-            "Year Ended": "147.50"
-          },
-          {
-            "Particulars": "Other Non-Current Liability",
-            "Half Year Ended 30-Sep-26": "2.54",
-            "Year Ended": "4.66"
-          },
-          {
-            "Particulars": "Loans and Advances",
-            "Half Year Ended 30-Sep-26": "198.24",
-            "Year Ended": "-267.65"
-          },
-          {
-            "Particulars": "Trade Payables",
-            "Half Year Ended 30-Sep-26": "70.72",
-            "Year Ended": "800.90"
-          },
-          {
-            "Particulars": "Other Current liability",
-            "Half Year Ended 30-Sep-26": "69.41",
-            "Year Ended": "-10.69"
-          },
-          {
-            "Particulars": "Short-term and long-term Provisions",
-            "Half Year Ended 30-Sep-26": "128.71",
-            "Year Ended": "9.19"
-          },
-          {
-            "Particulars": "Adjustment in reserve",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Cash (Used in)/Generated from Operations",
-            "Half Year Ended 30-Sep-26": "-1,109.25",
-            "Year Ended": "1868.75"
-          },
-          {
-            "Particulars": "Tax paid (Net)",
-            "Half Year Ended 30-Sep-26": "-143.47",
-            "Year Ended": "293.09"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Operating Activities",
-            "Half Year Ended 30-Sep-26": "-1,252.72",
-            "Year Ended": "1575.66"
-          },
-          {
-            "Particulars": "CASH FLOW FROM INVESTING ACTIVITIES",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Purchase of Property, Plant and Equipment",
-            "Half Year Ended 30-Sep-26": "-373.03",
-            "Year Ended": "-507.70"
-          },
-          {
-            "Particulars": "Subsidy in relation to fixed asset",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Sale of Property, Plant and Equipment",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Purchase of investments",
-            "Half Year Ended 30-Sep-26": "-405.70",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Investment in Term Deposits",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Interest received",
-            "Half Year Ended 30-Sep-26": "10.29",
-            "Year Ended": "21.02"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Investing Activities",
-            "Half Year Ended 30-Sep-26": "-768.44",
-            "Year Ended": "-486.68"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Date of End of Reporting Period Whether the Results are Audited or Unaudited",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Nature of Report",
-            "Half Year Ended": "Standalone",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "CASH FLOW FROM FINANCING ACTIVITIES",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Proceeds from Issue of Share Capital",
-            "Half Year Ended": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Increase! (Decrease) In Long-Term Borrowings",
-            "Half Year Ended": "431.88",
-            "Year Ended": "-105.95"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Increase! (Decrease) In Short-Term Borrowings",
-            "Half Year Ended": "1,732.78",
-            "Year Ended": "-654.64"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Interest Paid",
-            "Half Year Ended": "-157.01",
-            "Year Ended": "-351.76"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Net Cash (Used in)!Generated from Financing Activities",
-            "Half Year Ended": "2,007.65",
-            "Year Ended": "-1112.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Net Increase/(Decrease) in Cash and Cash Equivalents",
-            "Half Year Ended": "-13.51",
-            "Year Ended": "-23.38"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Opening Balance of Cash and Cash Equivalents",
-            "Half Year Ended": "20.15",
-            "Year Ended": "43.52"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Exchange difference of Foreign Currency Cash and Cash equivalents",
-            "Half Year Ended": "0.00",
-            "Year Ended": "0.00 20.15"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Closing Balance of Cash and Cash Equivalents",
-            "Half Year Ended": "6.64",
-            "Year Ended": ""
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 26,
-        "rows": [
-          {
-            "Particulars A Date of Start of Reporting Period": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25 01-Apr-25",
-            "col_6": "31-Mar-26 01-Apr-25"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "",
-            "col_2": "Date of Start of Reporting Period",
-            "col_3": "01-Apr-26",
-            "col_4": "01-0ct-25 31-Mar-26",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "B",
-            "col_2": "Date of End of Reporting Period",
-            "col_3": "30-Sep-26",
-            "col_4": "",
-            "col_5": "30-Sep-25 Unaudited",
-            "col_6": "31-Mar-26 Audited"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "C",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "col_3": "Unaudited Consolidated 8,866.00 23.88",
-            "col_4": "Audited",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "D",
-            "col_2": "Nature of Report",
-            "col_3": "",
-            "col_4": "Standalone",
-            "col_5": "Standalone 6,956.14",
-            "col_6": "Standalone 16,303.32"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "I",
-            "col_2": "Revenue from Operations",
-            "col_3": "",
-            "col_4": "9,347.18",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "II",
-            "col_2": "Other Income",
-            "col_3": "",
-            "col_4": "19.32",
-            "col_5": "62.42",
-            "col_6": "81.74"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "III",
-            "col_2": "Total Income",
-            "col_3": "8,889.88",
-            "col_4": "9,366.50",
-            "col_5": "7,018.57",
-            "col_6": "16,385.06"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "",
-            "col_2": "Expenses",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(a)",
-            "col_2": "Cost of Material Consumed",
-            "col_3": "6,034.84",
-            "col_4": "5,941.88",
-            "col_5": "5,657.30",
-            "col_6": "11,599.18"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(b)",
-            "col_2": "Purchases of Stock in Trade",
-            "col_3": "2,060.48",
-            "col_4": "718.80 948.56",
-            "col_5": "687.98",
-            "col_6": "1,406.78"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(c)",
-            "col_2": "Change in Inventories of work in progress and finished goods",
-            "col_3": "(882.54)",
-            "col_4": "",
-            "col_5": "(774.20) 151.95",
-            "col_6": "174.36"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(d)",
-            "col_2": "Employee Benefit Expenses",
-            "col_3": "149.89",
-            "col_4": "149.92",
-            "col_5": "",
-            "col_6": "301.87"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(e)",
-            "col_2": "Finance Costs",
-            "col_3": "157.01",
-            "col_4": "200.08",
-            "col_5": "151.68",
-            "col_6": "351.76 163.13"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(f)",
-            "col_2": "Depreciation and Amortization Expenses",
-            "col_3": "118.75",
-            "col_4": "80.24",
-            "col_5": "82.89",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(g)",
-            "col_2": "Other Expenses",
-            "col_3": "645.27",
-            "col_4": "630.33",
-            "col_5": "541.04",
-            "col_6": "1,171.37"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "IV",
-            "col_2": "Total expenses",
-            "col_3": "8,283.79",
-            "col_4": "8,669.81",
-            "col_5": "6,498.64",
-            "col_6": "15,168.45"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "V",
-            "col_2": "Profitl(Loss) before Exceptional and Extraordinary Item and Tax (III-IV)",
-            "col_3": "606.09",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "VI",
-            "col_2": "Exceptional Item",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "VII",
-            "col_2": "Profitl(Loss) before Extraordinary Item and Tax (V-VI)",
-            "col_3": "606.09",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "VIII",
-            "col_2": "Extraordinary Item",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "IX",
-            "col_2": "Profitl(Loss) before Tax (VII-VIII)",
-            "col_3": "606.09",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "X",
-            "col_2": "Tax Expenses",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(a)",
-            "col_2": "-Current Tax",
-            "col_3": "144.23",
-            "col_4": "161.06",
-            "col_5": "132.03",
-            "col_6": "293.09"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(b)",
-            "col_2": "- Deferred Tax",
-            "col_3": "11.62",
-            "col_4": "20.70",
-            "col_5": "(0.09)",
-            "col_6": "20.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "XI",
-            "col_2": "Profitl(Loss) for the period from continuing operation (IX-X)",
-            "col_3": "450.24",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "col_6": "902.91"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "31-Mar-26",
-            "col_5": "30-5ep-25 01-Apr-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "01-0ct-25",
-            "col_5": "",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "col_1": "B Date of End of Reporting Period",
-            "col_2": "",
-            "col_3": "30-5ep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-5ep-25",
-            "Year Ended": "31-Mar-26 Audited"
-          },
-          {
-            "col_1": "C",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "Year Ended": ""
-          },
-          {
-            "col_1": "D",
-            "col_2": "Nature of Report",
-            "col_3": "Consolidated",
-            "col_4": "Standalone -",
-            "col_5": "Standalone",
-            "Year Ended": "Standalone -"
-          },
-          {
-            "col_1": "XII",
-            "col_2": "Profit/(Loss) for the period from discontinuing operation",
-            "col_3": "-",
-            "col_4": "",
-            "col_5": "-",
-            "Year Ended": ""
-          },
-          {
-            "col_1": "XIII",
-            "col_2": "Tax expenses of discontinued operations",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "XIV",
-            "col_2": "Profitl(Loss) for the period from discontinuing operation (after Tax) (XII-XIII)",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "XV",
-            "col_2": "Profitl(Loss) for the period (XI+XIV)",
-            "col_3": "450.24",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "Year Ended": "902.91"
-          },
-          {
-            "col_1": "XVI",
-            "col_2": "Paid Up Equity Share Capital of Rs. 101-each",
-            "col_3": "1,077.75",
-            "col_4": "1,077.75",
-            "col_5": "1,077.75",
-            "Year Ended": "1,077.75"
-          },
-          {
-            "col_1": "",
-            "col_2": "Reserves Excluding Revaluation Reserves",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "4,490.61"
-          },
-          {
-            "col_1": "",
-            "col_2": "Face Value of Equity Shares",
-            "col_3": "f 101-",
-            "col_4": "f 101-",
-            "col_5": "f 10/-",
-            "Year Ended": "f 101-"
-          },
-          {
-            "col_1": "",
-            "col_2": "Earnings Per Share (Not Annualised for half yearl period ended)",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "-Basic (In Rs)",
-            "col_3": "4.18",
-            "col_4": "4.78",
-            "col_5": "3.60",
-            "Year Ended": "8.38"
-          },
-          {
-            "col_1": "",
-            "col_2": "-Diluted EPS Qn Rs)",
-            "col_3": "4.18",
-            "col_4": "4.78",
-            "col_5": "3.60",
-            "Year Ended": "8.38"
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 40,
-        "rows": [
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Date of End of Reporting Period",
-            "Half Year Ended 30-Sep-26": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended 30-Sep-26": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Nature of Report",
-            "Half Year Ended 30-Sep-26": "Consolidated",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "I. EQUITY AND LIABILITIES",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(1) Shareholders' funds (a) Share Capital (b) Reserves and Surplus Total (2) Non~urrent liabilities (a) Long-term Borrowings (b) Deferred Tax Liabilities (net)",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "1077.75",
-            "Year Ended": "1077.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "4,942.89 6,020.64",
-            "Year Ended": "4490.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "5568.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "1,383.05",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "951.17"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "61.85 27.77 1,472.67",
-            "Year Ended": "49.82 25.23 1,026.21"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Long-term Provisions",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total (3) Current liabilities",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "3,000.06",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(a) Short-term Borrowings (b) Trade Payables",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "1,267.28"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "53.74"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "-Due to Micro and Small Enterprises",
-            "Half Year Ended 30-Sep-26": "41.96",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "-Due to Others",
-            "Half Year Ended 30-Sep-26": "3,794.87",
-            "Year Ended": "3,712.36 182.48"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Other Current Liabilities",
-            "Half Year Ended 30-Sep-26": "252.37",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(d) Short-term Provisions",
-            "Half Year Ended 30-Sep-26": "494.89",
-            "Year Ended": "362.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total",
-            "Half Year Ended 30-Sep-26": "7,584.14",
-            "Year Ended": "5,578.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total Equity and Liabilities",
-            "Half Year Ended 30-Sep-26": "15,077.45",
-            "Year Ended": "12,173.18"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "II. ASSETS",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(1) Non~urrent assets",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(a) Property, Plant and Equipment and Intangible Assets",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(i) Property, Plant and Equipment",
-            "Half Year Ended 30-Sep-26": "2,205.33",
-            "Year Ended": "1,897.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(ii) Capital Work In Progress",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(b) (b) Non-current Investment",
-            "Half Year Ended 30-Sep-26": "10.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Other Non-current Assets",
-            "Half Year Ended 30-Sep-26": "732.23",
-            "Year Ended": "414.37"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total",
-            "Half Year Ended 30-Sep-26": "2,947.56",
-            "Year Ended": "2,311.98"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(2) Current assets",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(a) Inventories",
-            "Half Year Ended 30-Sep-26": "5,782.62",
-            "Year Ended": "4,673.81"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(b) Trade Receivables",
-            "Half Year Ended 30-Sep-26": "5,326.56",
-            "Year Ended": "4,444.41"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Cash and cash equivalents",
-            "Half Year Ended 30-Sep-26": "76.86",
-            "Year Ended": "20.15"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(d) Short-term Loans and Advances",
-            "Half Year Ended 30-Sep-26": "501.09",
-            "Year Ended": "429.19"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(e) Other Current Assets",
-            "Half Year Ended 30-Sep-26": "442.75",
-            "Year Ended": "293.63"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total --_.---:::;.-",
-            "Half Year Ended 30-Sep-26": "12,129.89",
-            "Year Ended": "9,861.20"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total Assets",
-            "Half Year Ended 30-Sep-26": "15,077.45",
-            "Year Ended": "12,173.18"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 37,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Date of Start of Reporting Period",
-            "col_2": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "Date of End of Reporting Period",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Whether the Results are Audited or Unaudited",
-            "col_2": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "Nature of Report",
-            "col_2": "Consolidated",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars": "CASH FLOW FROM OPERATING ACTIVITIES",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Net Profit before tax",
-            "col_2": "606.09",
-            "Year Ended": "1,216.61"
-          },
-          {
-            "Particulars": "Depreciation and Amortisation Expense",
-            "col_2": "118.83",
-            "Year Ended": "163.13"
-          },
-          {
-            "Particulars": "Bad debt, provision for doubtful debts",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Provision for Gratuity",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Gain on Sale of Assets",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Interest Income",
-            "col_2": "-10.29",
-            "Year Ended": "-21.02"
-          },
-          {
-            "Particulars": "Finance Costs",
-            "col_2": "157.01",
-            "Year Ended": "351.76"
-          },
-          {
-            "Particulars": "Operating Profit before working capital changes",
-            "col_2": "871.64",
-            "Year Ended": "1,710.47"
-          },
-          {
-            "Particulars": "Adjustment for:",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Inventories",
-            "col_2": "-1,108.81",
-            "Year Ended": "-1,058.57"
-          },
-          {
-            "Particulars": "Trade Receivables",
-            "col_2": "-761.48",
-            "Year Ended": "546.67 -13.73 147.50"
-          },
-          {
-            "Particulars": "Other Current Asset",
-            "col_2": "51.64",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Other Non-Current Asset",
-            "col_2": "-312.69",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Other Non-Current Liability",
-            "col_2": "2.54",
-            "Year Ended": "4.66"
-          },
-          {
-            "Particulars": "Loans and Advances",
-            "col_2": "-70.35",
-            "Year Ended": "-267.65"
-          },
-          {
-            "Particulars": "Trade Payables",
-            "col_2": "70.21",
-            "Year Ended": "800.90"
-          },
-          {
-            "Particulars": "Other Current liability",
-            "col_2": "69.89",
-            "Year Ended": "-10.69"
-          },
-          {
-            "Particulars": "Short-term and long-term Provisions",
-            "col_2": "124.57",
-            "Year Ended": "9.19"
-          },
-          {
-            "Particulars": "Adjustment in reserve",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Cash (Used in)/Generated from Operations",
-            "col_2": "-1,062.85",
-            "Year Ended": "1,868.75"
-          },
-          {
-            "Particulars": "Tax paid (Net)",
-            "col_2": "-144.23",
-            "Year Ended": "293.09"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Operating Activities",
-            "col_2": "-1,207.09",
-            "Year Ended": "1,575.67"
-          },
-          {
-            "Particulars": "CASH FLOW FROM INVESTING ACTIVITIES",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Purchase of Property, Plant and Equipment",
-            "col_2": "-373.03",
-            "Year Ended": "-507.70"
-          },
-          {
-            "Particulars": "Subsidy in relation to fixed asset",
-            "col_2": "0.00 0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Sale of Property, Plant and Equipment",
-            "col_2": "",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Purchase of investments",
-            "col_2": "-10.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Net cash outflow on acquisition",
-            "col_2": "-371.10",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Investment in Term Deposits Interest received",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "",
-            "col_2": "10.29",
-            "Year Ended": "21.02"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Investing Activities",
-            "col_2": "-743.84",
-            "Year Ended": "-486.68"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Date of Start of Reporting Period",
-            "col_2": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "Date of End of Reporting Period",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Whether the Results are Audited or Unaudited",
-            "col_2": "Unaudited",
-            "Year Ended": "Audited Standalone"
-          },
-          {
-            "Particulars": "Nature of Report",
-            "col_2": "Consolidated",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "CASH FLOW FROM FINANCING ACTIVITIES",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Proceeds from Issue of Share Capital",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Increasel (Decrease) In Long-Term Borrowings",
-            "col_2": "431.88",
-            "Year Ended": "-105.95"
-          },
-          {
-            "Particulars": "Increasel (Decrease) In Short-Term Borrowings",
-            "col_2": "1,732.78",
-            "Year Ended": "-654.64"
-          },
-          {
-            "Particulars": "Interest Paid",
-            "col_2": "-157.01",
-            "Year Ended": "-351.76"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Financing Activities",
-            "col_2": "2,007.65",
-            "Year Ended": "-1112.36"
-          },
-          {
-            "Particulars": "Net Increase/(Decrease) in Cash and Cash Equivalents",
-            "col_2": "56.70",
-            "Year Ended": "-23.37"
-          },
-          {
-            "Particulars": "Opening Balance of Cash and Castl Equivalents",
-            "col_2": "20.15",
-            "Year Ended": "43.52"
-          },
-          {
-            "Particulars": "Exchange difference of Foreign Currency Cash and Cash equivalents",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Closing Balance of Cash and Cash Equivalents",
-            "col_2": "76.85",
-            "Year Ended": "20.15"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "dd04af07-abc5-45c4-a130-865d1465e919",
-    "SCRIP_CD": 512461,
-    "XML_NAME": "ANN_512461_DD04AF07-ABC5-45C4-A130-865D1465E919",
-    "NEWSSUB": "Punctual Trading Ltd - 512461 - Notice Of An Extra Ordinary General Meeting.",
-    "DT_TM": "2026-11-18T19:27:41.97",
-    "NEWS_DT": "2026-11-18T19:27:41.97",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "23f4e90e-dd10-4d31-9850-6e1f4041c40f.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of an Extra Ordinary General Meeting",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/punctual-trading-ltd/punctrd/512461/",
-    "SLONGNAME": "Punctual Trading Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:27:41",
-    "DissemDT": "2026-11-18T19:27:41.97",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1184335,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Reason for change viz. appointment, reappointment, resignation, removal, death or otherwise.",
-            "Details": "M/s Shah & Mantri, Chartered Accountants, (ICAI Firm Registration No. 137146W) have been appointed as Statutory Auditors subject to approval of the Members of the Company and other statutory requirements (including auditor independence requirement for the Company)."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Date of appointment/reappointment/ cessation (as applicable) and term of appointment/re-appointment.",
-            "Details": "Based on the recommendation of the Audit Committee, the Board of Directors at its meeting held on November 14, 2026 approved the appointment of M/s Shah & Mantri, Chartered Accountants, (ICAI Firm Registration No. 137146W), as the Statutory Auditors of the Company, subject to approval of the Members of the Company and other statutory requirements (including auditor independence requirement for the Company)."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Brief Profile (in case of appointment).",
-            "Details": "M/s Shah & Mantri, Chartered Accountants, (ICAI Firm Registration No. 137146W) is a professionally managed Chartered Accountancy firm providing a wide range of professional services. The firm holds a valid Peer Review Certificate issued by ICAI."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Disclosure of relationships between Directors (in case of appointment of a director).",
-            "Details": "Not Applicable"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "ef53ac39-1ce0-4af6-9a70-6276f5a7ae5b",
-    "SCRIP_CD": 544351,
-    "XML_NAME": "ANN_544351_EF53AC39-1CE0-4AF6-9A70-6276F5A7AE5B",
-    "NEWSSUB": "Malpani Pipes And Fittings Ltd - 544351 - Unaudited Standalone And Consolidated Financial Results For The Half Year Ended On September 30, 2026",
-    "DT_TM": "2026-11-18T19:27:05.497",
-    "NEWS_DT": "2026-11-18T19:27:05.497",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "668f28f4-f222-4073-9a68-52a58b8bf11c.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited standalone and consolidated financial results for the half year ended on September 30, 2026.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/malpani-pipes-and-fittings-ltd/malpani/544351/",
-    "SLONGNAME": "Malpani Pipes And Fittings Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:27:05",
-    "DissemDT": "2026-11-18T19:27:05.497",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 6374068,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "8016.68",
-      "total_assets": "15068.74",
-      "total_equity": "15068.74",
-      "total_debt": "1383.05",
-      "eps": "4.16",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 26,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Half Year Ended": "30-Sep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "col_6": "31-Mar-26"
-          },
-          {
-            "Particulars": "A",
-            "col_2": "Date of Start of Reporting Period",
-            "Half Year Ended": "01-Apr-26",
-            "col_4": "01-0ct-25",
-            "col_5": "01-Apr-25",
-            "col_6": "01-Apr-25"
-          },
-          {
-            "Particulars": "B C",
-            "col_2": "Date of End of Reporting Period",
-            "Half Year Ended": "30-Sep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "col_6": "31-Mar-26"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "col_6": "Audited"
-          },
-          {
-            "Particulars": "D",
-            "col_2": "Nature of Report",
-            "Half Year Ended": "Standalone",
-            "col_4": "Standalone",
-            "col_5": "Standalone",
-            "col_6": "Standalone"
-          },
-          {
-            "Particulars": "I",
-            "col_2": "Revenue from Operations",
-            "Half Year Ended": "8,016.68",
-            "col_4": "9,347.18",
-            "col_5": "6,956.14 62.42",
-            "col_6": "16,303.32"
-          },
-          {
-            "Particulars": "II",
-            "col_2": "Other Income",
-            "Half Year Ended": "23.88",
-            "col_4": "19.32",
-            "col_5": "",
-            "col_6": "81.74"
-          },
-          {
-            "Particulars": "III",
-            "col_2": "Total Income",
-            "Half Year Ended": "8,040.55",
-            "col_4": "9,366.50",
-            "col_5": "7,018.57",
-            "col_6": "16,385.06"
-          },
-          {
-            "Particulars": "IV",
-            "col_2": "Expenses",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "11,599.18"
-          },
-          {
-            "Particulars": "(a)",
-            "col_2": "Cost of Material Consumed",
-            "Half Year Ended": "6,034.84",
-            "col_4": "5,941.88",
-            "col_5": "5,657.30",
-            "col_6": ""
-          },
-          {
-            "Particulars": "(b)",
-            "col_2": "Purchases of Stock in Trade",
-            "Half Year Ended": "1,219.07",
-            "col_4": "718.80",
-            "col_5": "687.98",
-            "col_6": "1,406.78"
-          },
-          {
-            "Particulars": "(c)",
-            "col_2": "Change in Inventories of work in progress and finished goods",
-            "Half Year Ended": "(882.54)",
-            "col_4": "948.56",
-            "col_5": "(774.20)",
-            "col_6": "174.36"
-          },
-          {
-            "Particulars": "(d)",
-            "col_2": "Employee Benefit Expenses",
-            "Half Year Ended": "149.89",
-            "col_4": "149.92",
-            "col_5": "151.95",
-            "col_6": "301.87"
-          },
-          {
-            "Particulars": "(e)",
-            "col_2": "Finance Costs",
-            "Half Year Ended": "157.01",
-            "col_4": "200.08",
-            "col_5": "151.68",
-            "col_6": "351.76"
-          },
-          {
-            "Particulars": "(f)",
-            "col_2": "Depreciation and Amortization Expenses",
-            "Half Year Ended": "118.75",
-            "col_4": "80.24",
-            "col_5": "82.89",
-            "col_6": "163.13"
-          },
-          {
-            "Particulars": "(g)",
-            "col_2": "Other Expenses",
-            "Half Year Ended": "640.53",
-            "col_4": "630.33",
-            "col_5": "541.04",
-            "col_6": "1,171.37"
-          },
-          {
-            "Particulars": "IV",
-            "col_2": "Total expenses",
-            "Half Year Ended": "7,437.56",
-            "col_4": "8,669.81",
-            "col_5": "6,498.64",
-            "col_6": "15,168.45"
-          },
-          {
-            "Particulars": "V",
-            "col_2": "Profitl(Loss) before Exceptional and Extraordinary Item and Tax (III-IV)",
-            "Half Year Ended": "602.99",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars": "VI",
-            "col_2": "Exceptional Item",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars": "VII",
-            "col_2": "Profitl(Loss) before Extraordinary Item and Tax (V-VI)",
-            "Half Year Ended": "602.99",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars": "VIII",
-            "col_2": "Extraordinary Item",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars": "IX",
-            "col_2": "Profitl(Loss) before Tax (VII-VIII)",
-            "Half Year Ended": "602.99",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars": "X",
-            "col_2": "Tax Expenses",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars": "(a)",
-            "col_2": "- Current Tax",
-            "Half Year Ended": "143.47",
-            "col_4": "161.06",
-            "col_5": "132.03",
-            "col_6": "293.09"
-          },
-          {
-            "Particulars": "(b)",
-            "col_2": "- Deferred Tax",
-            "Half Year Ended": "11.60",
-            "col_4": "20.70",
-            "col_5": "(0.09)",
-            "col_6": "20.61"
-          },
-          {
-            "Particulars": "XI",
-            "col_2": "Profitl(Loss) for the period from continuing operation (IX-X)",
-            "Half Year Ended": "447.92",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "col_6": "902.91"
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "",
-            "Half Year Ended": "30-Sep-26 01-Apr-26 30-Sep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "A",
-            "col_2": "Date of Start of Reporting Period",
-            "Half Year Ended": "",
-            "col_4": "01-0ct-25",
-            "col_5": "01-Apr-25",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "B",
-            "col_2": "Date of End of Reporting Period",
-            "Half Year Ended": "",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "C",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "D",
-            "col_2": "Nature of Report",
-            "Half Year Ended": "Standalone",
-            "col_4": "Standalone",
-            "col_5": "Standalone",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars": "XII",
-            "col_2": "Profitl(Loss) for the period from discontinuing operation",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "Particulars": "XIII",
-            "col_2": "Tax expenses of discontinued operations",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "- -",
-            "Year Ended": "-"
-          },
-          {
-            "Particulars": "XIV",
-            "col_2": "ProfitJ(Loss) for the period from discontinuing operation (after Tax) (XII-XIII)",
-            "Half Year Ended": "- .",
-            "col_4": "-",
-            "col_5": "",
-            "Year Ended": "- 902.91"
-          },
-          {
-            "Particulars": "XV",
-            "col_2": "ProfitJ(Loss) for the period (XI+XIV)",
-            "Half Year Ended": "447.92",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "XVI",
-            "col_2": "Paid Up Equity Share Capital of Rs. 101-each",
-            "Half Year Ended": "1,077.75",
-            "col_4": "1,077.75",
-            "col_5": "1,077.75",
-            "Year Ended": "1,077.75"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Reserves Excluding Revaluation Reserves",
-            "Half Year Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "4,490.61"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Face Value of Equity Shares",
-            "Half Year Ended": "f 101-",
-            "col_4": "f 101-",
-            "col_5": "f 101-",
-            "Year Ended": "f 101-"
-          },
-          {
-            "Particulars": "",
-            "col_2": "Earnings Per Share (Not Annualised for half yearl period ended)",
-            "Half Year Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "",
-            "col_2": "-Bas..!S.ln Rs)",
-            "Half Year Ended": "4.16",
-            "col_4": "4.78 4.78",
-            "col_5": "3.60 3.60",
-            "Year Ended": "8.38"
-          },
-          {
-            "Particulars": "",
-            "col_2": "-Diluted EPS (In Rs)",
-            "Half Year Ended": "4.16",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": "8.38"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 39,
-        "rows": [
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Nature of Report I. EQUITY AND LIABILITIES",
-            "Half Year Ended": "Standalone",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(1) Shareholders' funds (a) Share Capital (b) Reserves and Surplus",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "1077.75 4,938.53",
-            "Year Ended": "1077.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "",
-            "Half Year Ended": "",
-            "Year Ended": "4490.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "6,016.28",
-            "Year Ended": "5568.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(2) Non-current liabilities",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Long-tenn Borrowings",
-            "Half Year Ended": "1,383.05 61.41 27.77 1,472.23",
-            "Year Ended": "951.17"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) Deferred Tax Liabilities (net)",
-            "Half Year Ended": "",
-            "Year Ended": "49.82"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Long-tenn Provisions",
-            "Half Year Ended": "",
-            "Year Ended": "25.23"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "",
-            "Year Ended": "1,026.21"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(3) Current liabilities",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Short-tenn Borrowings",
-            "Half Year Ended": "3,000.06",
-            "Year Ended": "1,267.28"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) Trade Payables",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "-Due to Micro and Small Enterprises",
-            "Half Year Ended": "41.95",
-            "Year Ended": "53.74 3,712.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "- Due to Others",
-            "Half Year Ended": "3,794.87",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Other Current Liabilities",
-            "Half Year Ended": "251.89",
-            "Year Ended": "182.48"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(d) Short-tenn Provisions",
-            "Half Year Ended": "491.45",
-            "Year Ended": "362.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "7,580.22",
-            "Year Ended": "5,578.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total Equity and Liabilities",
-            "Half Year Ended": "15,068.74",
-            "Year Ended": "12,173.18"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "II. ASSETS",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(1) Non-current assets",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Property, Plant and Equipment and Intangible Assets",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(i) Property, Plant and Equipment",
-            "Half Year Ended": "2,151.89",
-            "Year Ended": "1,897.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(ii) Capital Wor1< In Progress",
-            "Half Year Ended": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) (b) Non-current Investment",
-            "Half Year Ended": "405.70",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Other Non-current Assets",
-            "Half Year Ended": "729.28",
-            "Year Ended": "414.37"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total",
-            "Half Year Ended": "3,286.87",
-            "Year Ended": "2,311.98"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(2) Current assets",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(a) Inventories",
-            "Half Year Ended": "5,782.62",
-            "Year Ended": "4,673.81"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(b) Trade Receivables",
-            "Half Year Ended": "5,320.50",
-            "Year Ended": "4,444.41"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(c) Cash and cash equivalents",
-            "Half Year Ended": "6.64",
-            "Year Ended": "20.15"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(d) Short-tenn Loans and Advances",
-            "Half Year Ended": "230.95",
-            "Year Ended": "429.19"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "(e) Other Current Assets",
-            "Half Year Ended": "441.14",
-            "Year Ended": "293.63"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "- Total",
-            "Half Year Ended": "11,781.87",
-            "Year Ended": "9,861.20"
-          },
-          {
-            "Particulars Date of Start of Reporting Period Date of End of Reporting Period Whether the Results are Audited or Unaudited": "Total Assets",
-            "Half Year Ended": "15,068.74",
-            "Year Ended": "12,173.18"
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 36,
-        "rows": [
-          {
-            "Particulars": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Date of Start of Reporting Period",
-            "Half Year Ended 30-Sep-26": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "Date of End of Reporting Period",
-            "Half Year Ended 30-Sep-26": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended 30-Sep-26": "Unaudited Standalone",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "Nature of Report",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars": "CASH FLOW FROM OPERATING ACTIVITIES",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Net Profit before tax",
-            "Half Year Ended 30-Sep-26": "602.99",
-            "Year Ended": "1216.61"
-          },
-          {
-            "Particulars": "Depreciation and Amortisation Expense",
-            "Half Year Ended 30-Sep-26": "118.75",
-            "Year Ended": "163.13"
-          },
-          {
-            "Particulars": "Bad debt, provision for doubtful debts",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Provision for Gratuity",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Gain on Sale of Assets",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Interest Income",
-            "Half Year Ended 30-Sep-26": "-10.29",
-            "Year Ended": "-21.02"
-          },
-          {
-            "Particulars": "Finance Costs",
-            "Half Year Ended 30-Sep-26": "157.01 868.47",
-            "Year Ended": "351.76"
-          },
-          {
-            "Particulars": "Operating Profit before working capital changes",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "1710.47"
-          },
-          {
-            "Particulars": "Adjustment for:",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "-1058.57 546.67"
-          },
-          {
-            "Particulars": "Inventories",
-            "Half Year Ended 30-Sep-26": "-1,108.81",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Trade Receivables",
-            "Half Year Ended 30-Sep-26": "-876.09",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Other Current Asset",
-            "Half Year Ended 30-Sep-26": "-147.51",
-            "Year Ended": "-13.73"
-          },
-          {
-            "Particulars": "Other Non-Current Asset",
-            "Half Year Ended 30-Sep-26": "-314.92",
-            "Year Ended": "147.50"
-          },
-          {
-            "Particulars": "Other Non-Current Liability",
-            "Half Year Ended 30-Sep-26": "2.54",
-            "Year Ended": "4.66"
-          },
-          {
-            "Particulars": "Loans and Advances",
-            "Half Year Ended 30-Sep-26": "198.24",
-            "Year Ended": "-267.65"
-          },
-          {
-            "Particulars": "Trade Payables",
-            "Half Year Ended 30-Sep-26": "70.72",
-            "Year Ended": "800.90"
-          },
-          {
-            "Particulars": "Other Current liability",
-            "Half Year Ended 30-Sep-26": "69.41",
-            "Year Ended": "-10.69"
-          },
-          {
-            "Particulars": "Short-term and long-term Provisions",
-            "Half Year Ended 30-Sep-26": "128.71",
-            "Year Ended": "9.19"
-          },
-          {
-            "Particulars": "Adjustment in reserve",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Cash (Used in)/Generated from Operations",
-            "Half Year Ended 30-Sep-26": "-1,109.25",
-            "Year Ended": "1868.75"
-          },
-          {
-            "Particulars": "Tax paid (Net)",
-            "Half Year Ended 30-Sep-26": "-143.47",
-            "Year Ended": "293.09"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Operating Activities",
-            "Half Year Ended 30-Sep-26": "-1,252.72",
-            "Year Ended": "1575.66"
-          },
-          {
-            "Particulars": "CASH FLOW FROM INVESTING ACTIVITIES",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Purchase of Property, Plant and Equipment",
-            "Half Year Ended 30-Sep-26": "-373.03",
-            "Year Ended": "-507.70"
-          },
-          {
-            "Particulars": "Subsidy in relation to fixed asset",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Sale of Property, Plant and Equipment",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Purchase of investments",
-            "Half Year Ended 30-Sep-26": "-405.70",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Investment in Term Deposits",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Interest received",
-            "Half Year Ended 30-Sep-26": "10.29",
-            "Year Ended": "21.02"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Investing Activities",
-            "Half Year Ended 30-Sep-26": "-768.44",
-            "Year Ended": "-486.68"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Date of End of Reporting Period Whether the Results are Audited or Unaudited",
-            "Half Year Ended": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Nature of Report",
-            "Half Year Ended": "Standalone",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "CASH FLOW FROM FINANCING ACTIVITIES",
-            "Half Year Ended": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Proceeds from Issue of Share Capital",
-            "Half Year Ended": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Increase! (Decrease) In Long-Term Borrowings",
-            "Half Year Ended": "431.88",
-            "Year Ended": "-105.95"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Increase! (Decrease) In Short-Term Borrowings",
-            "Half Year Ended": "1,732.78",
-            "Year Ended": "-654.64"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Interest Paid",
-            "Half Year Ended": "-157.01",
-            "Year Ended": "-351.76"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Net Cash (Used in)!Generated from Financing Activities",
-            "Half Year Ended": "2,007.65",
-            "Year Ended": "-1112.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Net Increase/(Decrease) in Cash and Cash Equivalents",
-            "Half Year Ended": "-13.51",
-            "Year Ended": "-23.38"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Opening Balance of Cash and Cash Equivalents",
-            "Half Year Ended": "20.15",
-            "Year Ended": "43.52"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Exchange difference of Foreign Currency Cash and Cash equivalents",
-            "Half Year Ended": "0.00",
-            "Year Ended": "0.00 20.15"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Closing Balance of Cash and Cash Equivalents",
-            "Half Year Ended": "6.64",
-            "Year Ended": ""
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 26,
-        "rows": [
-          {
-            "Particulars A Date of Start of Reporting Period": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "31-Mar-26",
-            "col_5": "30-Sep-25 01-Apr-25",
-            "col_6": "31-Mar-26 01-Apr-25"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "",
-            "col_2": "Date of Start of Reporting Period",
-            "col_3": "01-Apr-26",
-            "col_4": "01-0ct-25 31-Mar-26",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "B",
-            "col_2": "Date of End of Reporting Period",
-            "col_3": "30-Sep-26",
-            "col_4": "",
-            "col_5": "30-Sep-25 Unaudited",
-            "col_6": "31-Mar-26 Audited"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "C",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "col_3": "Unaudited Consolidated 8,866.00 23.88",
-            "col_4": "Audited",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "D",
-            "col_2": "Nature of Report",
-            "col_3": "",
-            "col_4": "Standalone",
-            "col_5": "Standalone 6,956.14",
-            "col_6": "Standalone 16,303.32"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "I",
-            "col_2": "Revenue from Operations",
-            "col_3": "",
-            "col_4": "9,347.18",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "II",
-            "col_2": "Other Income",
-            "col_3": "",
-            "col_4": "19.32",
-            "col_5": "62.42",
-            "col_6": "81.74"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "III",
-            "col_2": "Total Income",
-            "col_3": "8,889.88",
-            "col_4": "9,366.50",
-            "col_5": "7,018.57",
-            "col_6": "16,385.06"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "",
-            "col_2": "Expenses",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(a)",
-            "col_2": "Cost of Material Consumed",
-            "col_3": "6,034.84",
-            "col_4": "5,941.88",
-            "col_5": "5,657.30",
-            "col_6": "11,599.18"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(b)",
-            "col_2": "Purchases of Stock in Trade",
-            "col_3": "2,060.48",
-            "col_4": "718.80 948.56",
-            "col_5": "687.98",
-            "col_6": "1,406.78"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(c)",
-            "col_2": "Change in Inventories of work in progress and finished goods",
-            "col_3": "(882.54)",
-            "col_4": "",
-            "col_5": "(774.20) 151.95",
-            "col_6": "174.36"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(d)",
-            "col_2": "Employee Benefit Expenses",
-            "col_3": "149.89",
-            "col_4": "149.92",
-            "col_5": "",
-            "col_6": "301.87"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(e)",
-            "col_2": "Finance Costs",
-            "col_3": "157.01",
-            "col_4": "200.08",
-            "col_5": "151.68",
-            "col_6": "351.76 163.13"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(f)",
-            "col_2": "Depreciation and Amortization Expenses",
-            "col_3": "118.75",
-            "col_4": "80.24",
-            "col_5": "82.89",
-            "col_6": ""
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(g)",
-            "col_2": "Other Expenses",
-            "col_3": "645.27",
-            "col_4": "630.33",
-            "col_5": "541.04",
-            "col_6": "1,171.37"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "IV",
-            "col_2": "Total expenses",
-            "col_3": "8,283.79",
-            "col_4": "8,669.81",
-            "col_5": "6,498.64",
-            "col_6": "15,168.45"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "V",
-            "col_2": "Profitl(Loss) before Exceptional and Extraordinary Item and Tax (III-IV)",
-            "col_3": "606.09",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "VI",
-            "col_2": "Exceptional Item",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "VII",
-            "col_2": "Profitl(Loss) before Extraordinary Item and Tax (V-VI)",
-            "col_3": "606.09",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "VIII",
-            "col_2": "Extraordinary Item",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "IX",
-            "col_2": "Profitl(Loss) before Tax (VII-VIII)",
-            "col_3": "606.09",
-            "col_4": "696.69",
-            "col_5": "519.93",
-            "col_6": "1,216.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "X",
-            "col_2": "Tax Expenses",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "-",
-            "col_6": "-"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(a)",
-            "col_2": "-Current Tax",
-            "col_3": "144.23",
-            "col_4": "161.06",
-            "col_5": "132.03",
-            "col_6": "293.09"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "(b)",
-            "col_2": "- Deferred Tax",
-            "col_3": "11.62",
-            "col_4": "20.70",
-            "col_5": "(0.09)",
-            "col_6": "20.61"
-          },
-          {
-            "Particulars A Date of Start of Reporting Period": "XI",
-            "col_2": "Profitl(Loss) for the period from continuing operation (IX-X)",
-            "col_3": "450.24",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "col_6": "902.91"
-          }
-        ]
-      },
-      {
-        "page": 11,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "31-Mar-26",
-            "col_5": "30-5ep-25 01-Apr-25",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "01-0ct-25",
-            "col_5": "",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "col_1": "B Date of End of Reporting Period",
-            "col_2": "",
-            "col_3": "30-5ep-26",
-            "col_4": "31-Mar-26",
-            "col_5": "30-5ep-25",
-            "Year Ended": "31-Mar-26 Audited"
-          },
-          {
-            "col_1": "C",
-            "col_2": "Whether the Results are Audited or Unaudited",
-            "col_3": "Unaudited",
-            "col_4": "Audited",
-            "col_5": "Unaudited",
-            "Year Ended": ""
-          },
-          {
-            "col_1": "D",
-            "col_2": "Nature of Report",
-            "col_3": "Consolidated",
-            "col_4": "Standalone -",
-            "col_5": "Standalone",
-            "Year Ended": "Standalone -"
-          },
-          {
-            "col_1": "XII",
-            "col_2": "Profit/(Loss) for the period from discontinuing operation",
-            "col_3": "-",
-            "col_4": "",
-            "col_5": "-",
-            "Year Ended": ""
-          },
-          {
-            "col_1": "XIII",
-            "col_2": "Tax expenses of discontinued operations",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "XIV",
-            "col_2": "Profitl(Loss) for the period from discontinuing operation (after Tax) (XII-XIII)",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "-"
-          },
-          {
-            "col_1": "XV",
-            "col_2": "Profitl(Loss) for the period (XI+XIV)",
-            "col_3": "450.24",
-            "col_4": "514.93",
-            "col_5": "387.99",
-            "Year Ended": "902.91"
-          },
-          {
-            "col_1": "XVI",
-            "col_2": "Paid Up Equity Share Capital of Rs. 101-each",
-            "col_3": "1,077.75",
-            "col_4": "1,077.75",
-            "col_5": "1,077.75",
-            "Year Ended": "1,077.75"
-          },
-          {
-            "col_1": "",
-            "col_2": "Reserves Excluding Revaluation Reserves",
-            "col_3": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Year Ended": "4,490.61"
-          },
-          {
-            "col_1": "",
-            "col_2": "Face Value of Equity Shares",
-            "col_3": "f 101-",
-            "col_4": "f 101-",
-            "col_5": "f 10/-",
-            "Year Ended": "f 101-"
-          },
-          {
-            "col_1": "",
-            "col_2": "Earnings Per Share (Not Annualised for half yearl period ended)",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "Year Ended": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "-Basic (In Rs)",
-            "col_3": "4.18",
-            "col_4": "4.78",
-            "col_5": "3.60",
-            "Year Ended": "8.38"
-          },
-          {
-            "col_1": "",
-            "col_2": "-Diluted EPS Qn Rs)",
-            "col_3": "4.18",
-            "col_4": "4.78",
-            "col_5": "3.60",
-            "Year Ended": "8.38"
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 40,
-        "rows": [
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Date of End of Reporting Period",
-            "Half Year Ended 30-Sep-26": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Whether the Results are Audited or Unaudited",
-            "Half Year Ended 30-Sep-26": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Nature of Report",
-            "Half Year Ended 30-Sep-26": "Consolidated",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "I. EQUITY AND LIABILITIES",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(1) Shareholders' funds (a) Share Capital (b) Reserves and Surplus Total (2) Non~urrent liabilities (a) Long-term Borrowings (b) Deferred Tax Liabilities (net)",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "1077.75",
-            "Year Ended": "1077.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "4,942.89 6,020.64",
-            "Year Ended": "4490.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "5568.36"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "1,383.05",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "951.17"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "61.85 27.77 1,472.67",
-            "Year Ended": "49.82 25.23 1,026.21"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Long-term Provisions",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total (3) Current liabilities",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "3,000.06",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(a) Short-term Borrowings (b) Trade Payables",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "1,267.28"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": "53.74"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "-Due to Micro and Small Enterprises",
-            "Half Year Ended 30-Sep-26": "41.96",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "-Due to Others",
-            "Half Year Ended 30-Sep-26": "3,794.87",
-            "Year Ended": "3,712.36 182.48"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Other Current Liabilities",
-            "Half Year Ended 30-Sep-26": "252.37",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(d) Short-term Provisions",
-            "Half Year Ended 30-Sep-26": "494.89",
-            "Year Ended": "362.75"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total",
-            "Half Year Ended 30-Sep-26": "7,584.14",
-            "Year Ended": "5,578.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total Equity and Liabilities",
-            "Half Year Ended 30-Sep-26": "15,077.45",
-            "Year Ended": "12,173.18"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "II. ASSETS",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(1) Non~urrent assets",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(a) Property, Plant and Equipment and Intangible Assets",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(i) Property, Plant and Equipment",
-            "Half Year Ended 30-Sep-26": "2,205.33",
-            "Year Ended": "1,897.61"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(ii) Capital Work In Progress",
-            "Half Year Ended 30-Sep-26": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(b) (b) Non-current Investment",
-            "Half Year Ended 30-Sep-26": "10.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Other Non-current Assets",
-            "Half Year Ended 30-Sep-26": "732.23",
-            "Year Ended": "414.37"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total",
-            "Half Year Ended 30-Sep-26": "2,947.56",
-            "Year Ended": "2,311.98"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(2) Current assets",
-            "Half Year Ended 30-Sep-26": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(a) Inventories",
-            "Half Year Ended 30-Sep-26": "5,782.62",
-            "Year Ended": "4,673.81"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(b) Trade Receivables",
-            "Half Year Ended 30-Sep-26": "5,326.56",
-            "Year Ended": "4,444.41"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(c) Cash and cash equivalents",
-            "Half Year Ended 30-Sep-26": "76.86",
-            "Year Ended": "20.15"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(d) Short-term Loans and Advances",
-            "Half Year Ended 30-Sep-26": "501.09",
-            "Year Ended": "429.19"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "(e) Other Current Assets",
-            "Half Year Ended 30-Sep-26": "442.75",
-            "Year Ended": "293.63"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total --_.---:::;.-",
-            "Half Year Ended 30-Sep-26": "12,129.89",
-            "Year Ended": "9,861.20"
-          },
-          {
-            "Particulars Date of Start of Reporting Period": "Total Assets",
-            "Half Year Ended 30-Sep-26": "15,077.45",
-            "Year Ended": "12,173.18"
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 37,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Date of Start of Reporting Period",
-            "col_2": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "Date of End of Reporting Period",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Whether the Results are Audited or Unaudited",
-            "col_2": "Unaudited",
-            "Year Ended": "Audited"
-          },
-          {
-            "Particulars": "Nature of Report",
-            "col_2": "Consolidated",
-            "Year Ended": "Standalone"
-          },
-          {
-            "Particulars": "CASH FLOW FROM OPERATING ACTIVITIES",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Net Profit before tax",
-            "col_2": "606.09",
-            "Year Ended": "1,216.61"
-          },
-          {
-            "Particulars": "Depreciation and Amortisation Expense",
-            "col_2": "118.83",
-            "Year Ended": "163.13"
-          },
-          {
-            "Particulars": "Bad debt, provision for doubtful debts",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Provision for Gratuity",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Gain on Sale of Assets",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Interest Income",
-            "col_2": "-10.29",
-            "Year Ended": "-21.02"
-          },
-          {
-            "Particulars": "Finance Costs",
-            "col_2": "157.01",
-            "Year Ended": "351.76"
-          },
-          {
-            "Particulars": "Operating Profit before working capital changes",
-            "col_2": "871.64",
-            "Year Ended": "1,710.47"
-          },
-          {
-            "Particulars": "Adjustment for:",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Inventories",
-            "col_2": "-1,108.81",
-            "Year Ended": "-1,058.57"
-          },
-          {
-            "Particulars": "Trade Receivables",
-            "col_2": "-761.48",
-            "Year Ended": "546.67 -13.73 147.50"
-          },
-          {
-            "Particulars": "Other Current Asset",
-            "col_2": "51.64",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Other Non-Current Asset",
-            "col_2": "-312.69",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Other Non-Current Liability",
-            "col_2": "2.54",
-            "Year Ended": "4.66"
-          },
-          {
-            "Particulars": "Loans and Advances",
-            "col_2": "-70.35",
-            "Year Ended": "-267.65"
-          },
-          {
-            "Particulars": "Trade Payables",
-            "col_2": "70.21",
-            "Year Ended": "800.90"
-          },
-          {
-            "Particulars": "Other Current liability",
-            "col_2": "69.89",
-            "Year Ended": "-10.69"
-          },
-          {
-            "Particulars": "Short-term and long-term Provisions",
-            "col_2": "124.57",
-            "Year Ended": "9.19"
-          },
-          {
-            "Particulars": "Adjustment in reserve",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Cash (Used in)/Generated from Operations",
-            "col_2": "-1,062.85",
-            "Year Ended": "1,868.75"
-          },
-          {
-            "Particulars": "Tax paid (Net)",
-            "col_2": "-144.23",
-            "Year Ended": "293.09"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Operating Activities",
-            "col_2": "-1,207.09",
-            "Year Ended": "1,575.67"
-          },
-          {
-            "Particulars": "CASH FLOW FROM INVESTING ACTIVITIES",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Purchase of Property, Plant and Equipment",
-            "col_2": "-373.03",
-            "Year Ended": "-507.70"
-          },
-          {
-            "Particulars": "Subsidy in relation to fixed asset",
-            "col_2": "0.00 0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Sale of Property, Plant and Equipment",
-            "col_2": "",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Purchase of investments",
-            "col_2": "-10.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Net cash outflow on acquisition",
-            "col_2": "-371.10",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Investment in Term Deposits Interest received",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "",
-            "col_2": "10.29",
-            "Year Ended": "21.02"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Investing Activities",
-            "col_2": "-743.84",
-            "Year Ended": "-486.68"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars": "",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Date of Start of Reporting Period",
-            "col_2": "01-Apr-26",
-            "Year Ended": "01-Apr-25"
-          },
-          {
-            "Particulars": "Date of End of Reporting Period",
-            "col_2": "30-Sep-26",
-            "Year Ended": "31-Mar-26"
-          },
-          {
-            "Particulars": "Whether the Results are Audited or Unaudited",
-            "col_2": "Unaudited",
-            "Year Ended": "Audited Standalone"
-          },
-          {
-            "Particulars": "Nature of Report",
-            "col_2": "Consolidated",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "CASH FLOW FROM FINANCING ACTIVITIES",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Proceeds from Issue of Share Capital",
-            "col_2": "0.00",
-            "Year Ended": "0.00"
-          },
-          {
-            "Particulars": "Increasel (Decrease) In Long-Term Borrowings",
-            "col_2": "431.88",
-            "Year Ended": "-105.95"
-          },
-          {
-            "Particulars": "Increasel (Decrease) In Short-Term Borrowings",
-            "col_2": "1,732.78",
-            "Year Ended": "-654.64"
-          },
-          {
-            "Particulars": "Interest Paid",
-            "col_2": "-157.01",
-            "Year Ended": "-351.76"
-          },
-          {
-            "Particulars": "Net Cash (Used in)/Generated from Financing Activities",
-            "col_2": "2,007.65",
-            "Year Ended": "-1112.36"
-          },
-          {
-            "Particulars": "Net Increase/(Decrease) in Cash and Cash Equivalents",
-            "col_2": "56.70",
-            "Year Ended": "-23.37"
-          },
-          {
-            "Particulars": "Opening Balance of Cash and Castl Equivalents",
-            "col_2": "20.15",
-            "Year Ended": "43.52"
-          },
-          {
-            "Particulars": "Exchange difference of Foreign Currency Cash and Cash equivalents",
-            "col_2": "",
-            "Year Ended": ""
-          },
-          {
-            "Particulars": "Closing Balance of Cash and Cash Equivalents",
-            "col_2": "76.85",
-            "Year Ended": "20.15"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "6ebea1a2-0435-4da2-aeb4-942065b7b1a0",
-    "SCRIP_CD": 543366,
-    "XML_NAME": "ANN_543366_6EBEA1A2-0435-4DA2-AEB4-942065B7B1A0",
-    "NEWSSUB": "SBL Infratech Ltd - 543366 - Intimation Of Postponement Of The Board Meeting For Standalone Un-Audited Financial Results Of The Company For The Quarter And Half-Year Ended 30Th September 2026",
-    "DT_TM": "2026-11-18T19:26:54.84",
-    "NEWS_DT": "2026-11-18T19:26:54.84",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "47669456-f95e-42b2-8ed3-13e20460ea4a.pdf",
-    "MORE": "We wish to inform you that the said Meeting of the Board of Directors has been postponed due to unavoidable circumstances. The revised date and time of the Board Meeting shall be intimated to the Stock Exchange in due course.year ended 30th September 2026",
-    "HEADLINE": "We wish to inform you that the said Meeting of the Board of Directors has been postponed due to unavoidable circumstances. The revised date and time of the Board Meeting shall be intimated ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sbl-infratech-ltd/sbli/543366/",
-    "SLONGNAME": "SBL Infratech Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:26:54",
-    "DissemDT": "2026-11-18T19:26:54.84",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 520074,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The Board meeting originally scheduled for **18 Nov 2026** to consider and approve the standalone unaudited financial results for the quarter and half‑year ended **30 Sep 2026** has been **postponed**; a new date and time will be communicated later.  \n\n- The **trading window** for the company’s securities remains **closed** and will reopen only **48 hours after** the unaudited results for the quarter/half‑year ending 30 Sep 2026 are officially declared.  \n\n*No specific financial figures or results were disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "96fc7edc-2067-4758-a2be-597c677058c3",
-    "SCRIP_CD": 531512,
-    "XML_NAME": "ANN_531512_96FC7EDC-2067-4758-A2BE-597C677058C3",
-    "NEWSSUB": "Orient Tradelink Ltd - 531512 - Board Meeting Outcome for The Meeting Held On 18.11.2026",
-    "DT_TM": "2026-11-18T19:26:48.343",
-    "NEWS_DT": "2026-11-18T19:26:48.343",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "579d2e37-d50e-45b1-b239-c907aaccd70f.pdf",
-    "MORE": "In Pursuant to Regulation 30 and 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, this is to inform you that the Board of Directors of Orient Tradelink Limited ('the Company') at their meeting held on Wednesday, November 18, 2026 at the Corporate Office of the Company situated at 141-A Ground Floor, Shahpur Jat Village, New Delhi-110049 has inter-alia considered and approved the Unaudited (Standalone) Financial Results of the Company for the Quarter and Half Year ended 30th September 2026 along with Limited Review Report thereon.",
-    "HEADLINE": "In Pursuant to Regulation 30 and 33 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, this is to inform you that the Board of Directors of Orient ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/orient-tradelink-ltd/orienttr/531512/",
-    "SLONGNAME": "Orient Tradelink Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:26:42",
-    "DissemDT": "2026-11-18T19:26:48.343",
-    "TimeDiff": "00:00:06",
-    "Fld_Attachsize": 17808941,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "209.04",
-      "total_assets": "8085.54",
-      "total_equity": "6271.25",
-      "total_debt": "400.38",
-      "eps": "18",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particular": "",
-            "Quarter Ended": "30-09-2026 Unaudited",
-            "col_4": "30-06-2026 Unaudited",
-            "col_5": "30-09-2025 Unaudited",
-            "Half Year Ended": "30-09-2026 Unaudited",
-            "col_7": "30-09-2025 Unaudited",
-            "Year ended": "31-03-2026 Audited"
-          },
-          {
-            "Sr. No.": "1 2",
-            "Particular": "Revenue from Operations Other Income",
-            "Quarter Ended": "209.04 3.34",
-            "col_4": "325.26 2.04",
-            "col_5": "295.16 138.41",
-            "Half Year Ended": "534.30 5.38",
-            "col_7": "773.76 140.529",
-            "Year ended": "1,463.47 287.81"
-          },
-          {
-            "Sr. No.": "3 4",
-            "Particular": "Total Revenue (1+2) Expenses (a) Cost of Materials consumed (b) Purchase of Stock-in-Trade (c) Changes in inventories of finished goods, work-in- progress and stock-in-trade (d) Employee benefits expense (e) Finance Cost (f) Depreciation and amortisation expense (g) Other expenses",
-            "Quarter Ended": "212.38 96.66 64.00 27.40 - 20.66 31.66",
-            "col_4": "327.30 257.65 (9.02) 24.55 20.66 22.87",
-            "col_5": "433.57 - 365 -121.62 23.13 - 17.98 96.94",
-            "Half Year Ended": "539.68 354.31 54.98 51.95 - 41.32 54.53",
-            "col_7": "914.29 448.37 128.50 46.88 - 35.96 140.62",
-            "Year ended": "1,751.28 986.53 146.69 106.51 74.25 258.51"
-          },
-          {
-            "Sr. No.": "",
-            "Particular": "Total Expenses",
-            "Quarter Ended": "240.38",
-            "col_4": "316.71",
-            "col_5": "381.43",
-            "Half Year Ended": "557.09",
-            "col_7": "800.33",
-            "Year ended": "1,572.49"
-          },
-          {
-            "Sr. No.": "5",
-            "Particular": "Profit / (Loss) before exceptional items and Tax (3-4)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "10.59",
-            "col_5": "52.14",
-            "Half Year Ended": "(17.41)",
-            "col_7": "113.96",
-            "Year ended": "178.79"
-          },
-          {
-            "Sr. No.": "6",
-            "Particular": "Exceptional items",
-            "Quarter Ended": "-",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "-",
-            "col_7": "-",
-            "Year ended": "-"
-          },
-          {
-            "Sr. No.": "7",
-            "Particular": "Profit / (Loss) before Tax (5 - 6)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "10.59",
-            "col_5": "52.14",
-            "Half Year Ended": "(17.41)",
-            "col_7": "113.96",
-            "Year ended": "178.79"
-          },
-          {
-            "Sr. No.": "8",
-            "Particular": "Tax Expense: a) Current Tax b) Deffered Tax",
-            "Quarter Ended": "-",
-            "col_4": "2.67 -",
-            "col_5": "13.12 -",
-            "Half Year Ended": "-",
-            "col_7": "28.68",
-            "Year ended": "45.00 (1.85)"
-          },
-          {
-            "Sr. No.": "9",
-            "Particular": "Profit/ (Loss) for the period from Continuing operations (7-8)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "7.92",
-            "col_5": "39.02",
-            "Half Year Ended": "(17.41)",
-            "col_7": "85.27",
-            "Year ended": "135.64"
-          },
-          {
-            "Sr. No.": "10 11 12",
-            "Particular": "Profit/ (Loss) for the period from Discontinued operations Tax Expense of Discontinued operations Profit/ (Loss) for the period from Discontinued operations (After Tax)",
-            "Quarter Ended": "- - -",
-            "col_4": "- - -",
-            "col_5": "- - -",
-            "Half Year Ended": "- - -",
-            "col_7": "- - -",
-            "Year ended": "- - -"
-          },
-          {
-            "Sr. No.": "13",
-            "Particular": "Profit/ (Loss) for the period (After Tax)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "7.92",
-            "col_5": "39.02",
-            "Half Year Ended": "(17.41)",
-            "col_7": "85.27",
-            "Year ended": "135.64"
-          },
-          {
-            "Sr. No.": "14",
-            "Particular": "Other Comprehensive Income A) (i) Items that will not be reclassified to profit or loss (ii) Income Tax relating to item that will not be re- classified to profit or loss B) A) (i) Items that will be reclassified to profit or loss (ii) Income Tax relating to item that will be re-classified to profit or loss",
-            "Quarter Ended": "",
-            "col_4": "-",
-            "col_5": "-",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year ended": "-"
-          },
-          {
-            "Sr. No.": "15",
-            "Particular": "Total Comprehensive income for the period (13+14)",
-            "Quarter Ended": "(28.00)",
-            "col_4": "7.92",
-            "col_5": "39.02",
-            "Half Year Ended": "(17.41)",
-            "col_7": "85.27",
-            "Year ended": "135.64"
-          },
-          {
-            "Sr. No.": "16",
-            "Particular": "Paid-up Equity Share Captial (Face value of Rs.10/- each)",
-            "Quarter Ended": "3,868.56",
-            "col_4": "3,868.56",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year ended": "3,868.56"
-          },
-          {
-            "Sr. No.": "16 17 18",
-            "Particular": "Earnings Per Share (EPS) (For continuing operations) (a) Basic (b) Diluted Earnings Per Share (EPS) (For Discontinuing operations) (a) Basic (b) Diluted Earnings Per Share (EPS) (For Discontinuing & Continuing operations) (a) Basic (b) Diluted",
-            "Quarter Ended": "(0.07) (0.07) - - (0.07) (0.07)",
-            "col_4": "0.02 0.02 - - 0.02 0.02",
-            "col_5": "0.26 0.26 - - 0.26 0.26",
-            "Half Year Ended": "(0.05) (0.05) - - (0.05) (0.05)",
-            "col_7": "0.57 0.57 - - 0.57 0.57",
-            "Year ended": "0.62 0.62 - - 0 .62 0 .62"
-          },
-          {
-            "Sr. No.": "Note: 1. The above Standalone Financial Results were reviewed by the Audit Committee and were thereafter approved by the Board of Directors at their meeting held on 18/11/2026. 2. The above results for the quarter and half year ended on 30th September, 2026 have been prepared in accordance with the recognition and measurement principles laid down in the Indian Accounting Standard (Ind AS 34), prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting principles generally accepted in India. 3. The figures for the previous period have been regrouped / rearranged / reclassified wherever necessary. 4. These Results are also updated on the company’s website URL: URL: https://www.orienttradelink.in",
-            "Particular": "",
-            "Quarter Ended": "",
-            "col_4": "",
-            "col_5": "",
-            "Half Year Ended": "",
-            "col_7": "",
-            "Year ended": ""
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Particulars",
-            "col_3": "As at 30.09.2026",
-            "col_4": "As at 31.03.2026"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "",
-            "col_3": "Unaudited",
-            "col_4": "Audited"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "A.",
-            "col_2": "ASSETS",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "1 2",
-            "col_2": "Non-current assets (a) Property, Plant and Equipment (b) Capital work-in-progress (c) Investment Property (d) Goodwill (e) Other Intangible Assets (f) Intangible Assets under development (g) Biological Assets other than bearer plants (h) Investments accounted for using equity method (i) Financial Assets (i) Investments (ii) Trade Receivables (iii) Loans (iii) Others (j) Deffered tax assets (Net) (k) Other non-current Assets",
-            "col_3": "23.55 710.93 2 ,051.79",
-            "col_4": "2 5.00 7 48.76 2 ,051.79"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Non-Current Assets",
-            "col_3": "2,786.27",
-            "col_4": "2 ,825.55"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Current assets (a) Inventories (b) Financial Assets (i) Investments (ii) Trade receivables (iii) Cash and cash equivalents (iv) Bank Balances other then (iii) above (v) Loans (vi) Others (c) Current Tax Assets (Net) (d) Other current assets",
-            "col_3": "161.57 20.95 2329.24 100.56 2685.53 1.42",
-            "col_4": "2 16.56 6 .50 1 ,937.21 1 27.95 2 ,690.39 3 0.38"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Current Assets",
-            "col_3": "5,299.27",
-            "col_4": "5 ,008.98"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "TOTAL ASSETS",
-            "col_3": "8,085.54",
-            "col_4": "7 ,834.53"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "B. EQUITY AND LIABILITIES 1 Equity (a) Equity Share capital (b) Other Equity (Reserves & Surplus) (c) Share Application Money (d) Money Received against Share Warrants Total Equity Liabilities 2 Non-current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities (other than those specified in item (b), to be (b) Provisions (c) Deferred tax liabilities (Net) (d) Other non-current liabilities Total Non-current liabilities 3 Current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities [other than those specified in item (c)] (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net) Total Current liabilities",
-            "col_2": "",
-            "col_3": "3868.56 2 ,028.78 12.11 361.8",
-            "col_4": "3 ,868.56 2 ,046.19 1 2.10 3 61.80"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Equity",
-            "col_3": "6,271.25",
-            "col_4": "6 ,288.65"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Liabilities Non-current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities (other than those specified in item (b), to be (b) Provisions (c) Deferred tax liabilities (Net) (d) Other non-current liabilities",
-            "col_3": "400.38 115.27 0",
-            "col_4": "4 64.83 1 15.27"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Non-current liabilities",
-            "col_3": "515.65",
-            "col_4": "5 80.10"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Current liabilities (a) Financial Liabilities (i) Borrowings (ii) Trade Payables (iii) Other financial liabilities [other than those specified in item (c)] (b) Other current liabilities (c) Provisions (d) Current Tax Liabilities (Net)",
-            "col_3": "1011.98 113.08 173.58 -",
-            "col_4": "7 06.81 8 5.39 1 28.58 4 5.00"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "Total Current liabilities",
-            "col_3": "1,298.64",
-            "col_4": "9 65.78"
-          },
-          {
-            "Standalone Statement of Assets and Liabilities": "",
-            "col_2": "TOTAL EQUITY AND LIABILITIES",
-            "col_3": "8,085.54",
-            "col_4": "7,834.53"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "70c71a09-8934-4ecf-a52c-349904fd326b",
-    "SCRIP_CD": 532218,
-    "XML_NAME": "ANN_532218_70C71A09-8934-4ECF-A52C-349904FD326B",
-    "NEWSSUB": "South Indian Bank Ltd - 532218 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-18T19:25:39.253",
-    "NEWS_DT": "2026-11-18T19:25:39.253",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "52c3409c-5ef1-4a7e-8a06-bfa2219f3310.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Participation in the Investor Conference held on November 18, 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/south-indian-bank-ltd/southbank/532218/",
-    "SLONGNAME": "South Indian Bank Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:25:39",
-    "DissemDT": "2026-11-18T19:25:39.253",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 341159,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "70c71a09-8934-4ecf-a52c-349904fd326b",
-    "INVESTOR_PRESENTATION": "63154b03-4bbb-4392-88c8-8a1b5736324c.pdf",
-    "RECORDID": 14925216,
-    "DataInsDate": "2026-11-18T19:25:39.173",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63154b03-4bbb-4392-88c8-8a1b5736324c.pdf",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ca67dc2a-7547-45d0-8f1a-165a56ae0970",
-    "SCRIP_CD": 512461,
-    "XML_NAME": "ANN_512461_CA67DC2A-7547-45D0-8F1A-165A56AE0970",
-    "NEWSSUB": "Punctual Trading Ltd - 512461 - Notice Of An Extra Ordinary General Meeting.",
-    "DT_TM": "2026-11-18T19:25:16.253",
-    "NEWS_DT": "2026-11-18T19:25:16.253",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ce1a5aef-1b07-4bc8-9398-5187abae6c7f.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of an Extra Ordinary General Meeting",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/punctual-trading-ltd/punctrd/512461/",
-    "SLONGNAME": "Punctual Trading Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:25:16",
-    "DissemDT": "2026-11-18T19:25:16.253",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1184335,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Reason for change viz. appointment, reappointment, resignation, removal, death or otherwise.",
-            "Details": "M/s Shah & Mantri, Chartered Accountants, (ICAI Firm Registration No. 137146W) have been appointed as Statutory Auditors subject to approval of the Members of the Company and other statutory requirements (including auditor independence requirement for the Company)."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Date of appointment/reappointment/ cessation (as applicable) and term of appointment/re-appointment.",
-            "Details": "Based on the recommendation of the Audit Committee, the Board of Directors at its meeting held on November 14, 2026 approved the appointment of M/s Shah & Mantri, Chartered Accountants, (ICAI Firm Registration No. 137146W), as the Statutory Auditors of the Company, subject to approval of the Members of the Company and other statutory requirements (including auditor independence requirement for the Company)."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Brief Profile (in case of appointment).",
-            "Details": "M/s Shah & Mantri, Chartered Accountants, (ICAI Firm Registration No. 137146W) is a professionally managed Chartered Accountancy firm providing a wide range of professional services. The firm holds a valid Peer Review Certificate issued by ICAI."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Disclosure of relationships between Directors (in case of appointment of a director).",
-            "Details": "Not Applicable"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "df45e3ed-cf6e-440e-882f-f531d722ab23",
-    "SCRIP_CD": 531637,
-    "XML_NAME": "ANN_531637_DF45E3ED-CF6E-440E-882F-F531D722AB23",
-    "NEWSSUB": "Praveg Ltd - 531637 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Imposition Of Fine Or Penalty/Receipt Of Order From GST",
-    "DT_TM": "2026-11-18T19:23:45.75",
-    "NEWS_DT": "2026-11-18T19:23:45.75",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9c0d12ee-12a7-46fd-86f8-a7e8030e6c14.pdf",
-    "MORE": "In continuation with our earlier intimation dated April 07,2026 and Pursuant to Regulation 30 read with Para A(20) of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations'), read with SEBI Master Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 dated January 30, 2026, we hereby inform you that the Company has received an order dated November 18, 2026, from the Goods and Services Tax ('GST') Authorities under provisions of Section 20 of the IGST Act, 2017, Section 74(9) read with Section 74(1) of the CGST Act, 2017, read with the corresponding provisions of the Gujarat Goods and Services Tax Act, 2017 and Demand of Interest under Section 50 of the CGST Act, 2017 read with Section 50 of the Gujarat GST Act, 2017.",
-    "HEADLINE": "In continuation with our earlier intimation dated April 07,2026 and Pursuant to Regulation 30 read with Para A(20) of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/",
-    "SLONGNAME": "Praveg Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:23:45",
-    "DissemDT": "2026-11-18T19:23:45.75",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 768442,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
     "financial_tables": []
   }
 ]
