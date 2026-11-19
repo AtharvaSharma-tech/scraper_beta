@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "9b273190-ed08-4e39-8eae-8606f19aa896",
+    "SCRIP_CD": 543280,
+    "XML_NAME": "ANN_543280_9B273190-ED08-4E39-8EAE-8606F19AA896",
+    "NEWSSUB": "Nazara Technologies Ltd - 543280 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-20T00:32:53.483",
+    "NEWS_DT": "2026-11-20T00:32:53.483",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a6cb5cbc-faa6-4ac1-b81f-be37a7af30ed.pdf",
+    "MORE": "",
+    "HEADLINE": "Nazara Technologies Limited informs the Exchange about Schedule and Cancellation of Analyst / Investor meet.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/nazara-technologies-ltd/nazara/543280/",
+    "SLONGNAME": "Nazara Technologies Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-20T00:32:53",
+    "DissemDT": "2026-11-20T00:32:53.483",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 569029,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "9b273190-ed08-4e39-8eae-8606f19aa896",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14942775,
+    "DataInsDate": "2026-11-20T00:32:53.267",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Nazara Technologies Ltd will hold a one‑on‑one investor meeting with SBI Mutual Fund on **Friday, 20 Nov 2026 at 04:00 p.m. (IST)** in Mumbai (physical venue).  \n- The previously announced one‑on‑one meeting with Bajaj Finserv Asset Management, also set for **20 Nov 2026 at 04:15 p.m.**, has been **cancelled**; any discussions will rely on publicly available information.  \n\n*No specific financial figures or decisions are disclosed in this announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "e101866d-b059-4d60-9294-e96e05648c18",
     "SCRIP_CD": 543910,
     "XML_NAME": "ANN_543910_E101866D-B059-4D60-9294-E96E05648C18",
@@ -9376,92 +9412,6 @@
             "Sr. No.": "7",
             "Particulars": "Nomination Details",
             "Please furnish details in": "Form No. SH-13/ SH-14 / ISR-3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "2ede159c-58a4-4730-b1a8-16fa16477f20",
-    "SCRIP_CD": 544793,
-    "XML_NAME": "ANN_544793_2EDE159C-58A4-4730-B1A8-16FA16477F20",
-    "NEWSSUB": "Susan Electricals India Ltd - 544793 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Business Update On Order Inflow, Order Book And Order Pipeline",
-    "DT_TM": "2026-11-19T18:59:22.077",
-    "NEWS_DT": "2026-11-19T18:59:22.077",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c21ed408-bf84-4cd1-949c-5e4f3fdfdaab.pdf",
-    "MORE": "",
-    "HEADLINE": "Business Update on Order Inflow, Order Book and Order Pipeline",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/susan-electricals-india-ltd/susan/544793/",
-    "SLONGNAME": "Susan Electricals India Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-19T18:59:22",
-    "DissemDT": "2026-11-19T18:59:22.077",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 499336,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Order inflow (1 Oct 2026 – 18 Nov 2026):** New orders total **₹148.90 cr**, of which **₹85 cr** are for HT Cables and MVCC (Medium Voltage Covered Conductors).  \n\n- **Order book & pipeline (as on 18 Nov 2026):** Confirmed order book **₹203 cr**; additional orders under finalisation **₹250 cr**, giving a combined order visibility of **≈₹453 cr**.",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 1,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "col_1": "A. New orders received (1 October 2026 – 18 November 2026)",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "148.90",
-            "Amount (Rs in Crore)": "",
-            "col_6": ""
-          },
-          {
-            "col_1": "Includes HT Cables and MVCC (Medium Voltage Covered Conductors)",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "85.00",
-            "Amount (Rs in Crore)": "",
-            "col_6": ""
-          },
-          {
-            "col_1": "B. Consolidated order book (as on 18 November 2026)",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "203.00",
-            "Amount (Rs in Crore)": "",
-            "col_6": ""
-          },
-          {
-            "col_1": "C. Order pipeline (orders under various stages of finalization)",
-            "Particulars": "",
-            "col_3": "",
-            "col_4": "250.00",
-            "Amount (Rs in Crore)": "",
-            "col_6": ""
-          },
-          {
-            "col_1": "",
-            "Particulars": "Total order visibility (B + C)",
-            "col_3": "",
-            "col_4": "",
-            "Amount (Rs in Crore)": "453.00",
-            "col_6": ""
           }
         ]
       }
