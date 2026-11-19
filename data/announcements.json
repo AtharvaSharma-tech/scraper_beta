@@ -1,5 +1,134 @@
 [
   {
+    "NEWSID": "0aaf33c3-0900-441b-b5f9-e2172d3ae3a7",
+    "SCRIP_CD": 532175,
+    "XML_NAME": "ANN_532175_0AAF33C3-0900-441B-B5F9-E2172D3AE3A7",
+    "NEWSSUB": "Cyient Ltd - 532175 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-19T08:25:26.613",
+    "NEWS_DT": "2026-11-19T08:25:26.613",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a6fffe8f-cc67-4521-96c6-b220719a80e3.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/cyient-ltd/cyient/532175/",
+    "SLONGNAME": "Cyient Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-19T08:25:26",
+    "DissemDT": "2026-11-19T08:25:26.613",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 296976,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Strategic equity investment:** On 19 Nov 2026, Cyient Semiconductors approved a USD 10 million equity investment from GlobalFoundries, based on a pre‑money valuation of USD 490 million and resulting in a post‑money valuation of USD 510 million.  \n\n- **Growth intent:** The funding will be used to expand Cyient Semiconductors’ custom ASIC capabilities, accelerate silicon development, and strengthen wafer‑supply and supply‑chain resilience for its automotive, industrial, AI, communications and data‑center customers.",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a1125291-23b3-476a-b0b6-9b0133da16b9",
+    "SCRIP_CD": 532175,
+    "XML_NAME": "ANN_532175_A1125291-23B3-476A-B0B6-9B0133DA16B9",
+    "NEWSSUB": "Cyient Ltd - 532175 - Update",
+    "DT_TM": "2026-11-19T08:17:08.28",
+    "NEWS_DT": "2026-11-19T08:17:08.28",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d99797fc-8572-4bbd-b7e7-5476ffd8955a.pdf",
+    "MORE": "",
+    "HEADLINE": "Investment by GlobalFoundries U.S. Inc in Cyient Semiconductors Private Limited, a subsidiary of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/cyient-ltd/cyient/532175/",
+    "SLONGNAME": "Cyient Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-19T08:17:08",
+    "DissemDT": "2026-11-19T08:17:08.28",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 280364,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **18 Nov 2026 – Board approval:** Cyient Ltd’s board approved a Share Subscription Agreement under which GlobalFoundries U.S",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Sr.": "",
+            "col_2": "Particulars",
+            "col_3": "Description"
+          },
+          {
+            "Sr.": "No.",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Sr.": "1",
+            "col_2": "Name(s) of parties with whom the agreement is entered",
+            "col_3": "(a) SSA: Cyient Semiconductors, Cyient Limited and GFI. (b) SHA: Cyient Semiconductors, Cyient Limited, EAAA and GFI."
+          },
+          {
+            "Sr.": "2",
+            "col_2": "Purpose of entering into the agreement",
+            "col_3": "Investment by GFI in Cyient Semiconductors, a subsidiary of the Company, through subscription to the CCPS; and to record the inter se rights and obligations of the shareholders of Cyient Semiconductors."
+          },
+          {
+            "Sr.": "3",
+            "col_2": "Size of agreement / investment",
+            "col_3": "GFI will invest an amount of INR equivalent of USD 10,000,000 (United States Dollars Ten Million) in Cyient Semiconductors through subscription to CCPS."
+          },
+          {
+            "Sr.": "4",
+            "col_2": "Shareholding, if any, in the entity with whom the agreement is executed",
+            "col_3": "Cyient Semiconductors is, and post completion will continue to be, a subsidiary of the Company. The Company does not hold any shares in GlobalFoundries U.S. Inc. or EAAA."
+          },
+          {
+            "Sr.": "5",
+            "col_2": "Significant terms of the agreement (in brief) including any rights like right to appoint directors, first right to share subscription, right to restrict any change in capital structure, etc.",
+            "col_3": "The SHA of Cyient Semiconductors provides for customary governance, information and investor protection rights in Cyient Semiconductors, including, inter alia, (i) board observer rights for the investors (without voting rights); (ii) investor consent rights on specified reserved matters; (iii) information and inspection rights; (iv) pre-emptive rights and anti-dilution protection; (v) transfer restrictions; (vi) liquidation preference; and (vii) exit rights."
+          },
+          {
+            "Sr.": "6",
+            "col_2": "Whether the said parties are related to promoter/promoter group/group companies in any manner and, if yes, nature of relationship",
+            "col_3": "GFI and EAAA are not related to the promoter/promoter group/group companies of the Company."
+          },
+          {
+            "Sr.": "7",
+            "col_2": "Whether the transaction would fall within related party transactions and, if yes, whether the same is done at arm's length",
+            "col_3": "The transaction does not constitute a related party transaction of the Company."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "7285ba94-1d42-4465-a3ee-2ba86cf72e4b",
     "SCRIP_CD": 544632,
     "XML_NAME": "ANN_544632_7285BA94-1D42-4465-A3EE-2BA86CF72E4B",
@@ -10613,80 +10742,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "d0d82d59-4a77-470c-8af0-375c6929c002",
-    "SCRIP_CD": 532637,
-    "XML_NAME": "ANN_532637_D0D82D59-4A77-470C-8AF0-375C6929C002",
-    "NEWSSUB": "Mangalam Drugs & Organics Ltd - 532637 - Announcement Under Regulation 30 LODR, 2015 - Updates",
-    "DT_TM": "2026-11-18T19:20:16.35",
-    "NEWS_DT": "2026-11-18T19:20:16.35",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "560391d1-140a-4a1e-86a1-b4a2931f7b3a.pdf",
-    "MORE": "Disclosure pursuant to Regulation 30 LODR, 2025 for approval and consideration by Board of Directors at Meeting held on 18.11.2026 of the Company for undertaking of Financial Restructuring and exploring of various strategic options and convening of EGM to seek members approval to take fesiable action in the aforesaid matter.",
-    "HEADLINE": "Disclosure pursuant to Regulation 30 LODR, 2025 for approval and consideration by Board of Directors at Meeting held on 18.11.2026 of the Company for undertaking of Financial Restructuring ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mangalam-drugs--organics-ltd/mangalam/532637/",
-    "SLONGNAME": "Mangalam Drugs & Organics Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:20:16",
-    "DissemDT": "2026-11-18T19:20:16.35",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4163737,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "74.46 cr",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6fbeeada-684d-434c-aed0-d9b21bdbd564",
-    "SCRIP_CD": 590057,
-    "XML_NAME": "ANN_590057_6FBEEADA-684D-434C-AED0-D9B21BDBD564",
-    "NEWSSUB": "Equippp Social Impact Technologies Ltd - 590057 - Announcement under Regulation 30 (LODR)-Memorandum of Understanding /Agreements",
-    "DT_TM": "2026-11-18T19:19:29.14",
-    "NEWS_DT": "2026-11-18T19:19:29.14",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5a33a1ff-b492-49f3-8634-2dfae1aae1c5.pdf",
-    "MORE": "",
-    "HEADLINE": "Equippp Social Impact Technologies Limited has informed the exchange about execution of Memorandum of Understanding(MOU) with Oremus Corporate Services Private Limited",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/equippp-social-impact-technologies-ltd/equippp/590057/",
-    "SLONGNAME": "Equippp Social Impact Technologies Ltd",
-    "AGENDA_ID": 134,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-18T19:19:29",
-    "DissemDT": "2026-11-18T19:19:29.14",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 824864,
-    "SUBCATNAME": "Memorandum of Understanding /Agreements",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
   }
 ]
