@@ -1,5 +1,303 @@
 [
   {
+    "NEWSID": "1497c6b9-7fa0-4bfa-b7c3-512afdfd0756",
+    "SCRIP_CD": 539287,
+    "XML_NAME": "ANN_539287_1497C6B9-7FA0-4BFA-B7C3-512AFDFD0756",
+    "NEWSSUB": "Ortin Global Ltd - 539287 - Board Meeting Intimation for Meeting To Be Held On 28.11.2026",
+    "DT_TM": "2026-11-20T23:00:02.217",
+    "NEWS_DT": "2026-11-20T23:00:02.217",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8c618f11-6572-44f3-8579-151beee3efc7.pdf",
+    "MORE": "Ortin Global Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/11/2026 ,inter alia, to consider and approve 1. The approval of increase in authorised share capital of the company subject to the approval of the members.\r\n2. To consider the proposal to raise funds by the issue of equity shares on a preferential basis to the promoter, subject to the approval of the members.\r\n3. Approval of Shifting of the registered office of the Company from the State of Telangana to the Union Territory of Chandigarh, subject to the approval of the members and the Regional Director.\r\n4. Approval to Incorporate a wholly owned subsidiary in Dubai, United Arab Emirates.\r\n5. Approval of the Postal Ballot Notice along with calendar of events for seeking approval of shareholders for the aforesaid matters.",
+    "HEADLINE": "Ortin Global Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/11/2026 ,inter alia, to consider and approve 1. The approval of increase in ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ortin-global-ltd/ortinglobe/539287/",
+    "SLONGNAME": "Ortin Global Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T23:00:00",
+    "DissemDT": "2026-11-20T23:00:02.217",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 568925,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting scheduled for 28 Nov 2026** at Ortin Global Ltd’s registered office to seek shareholder approval for (i) increasing the company’s authorised share capital and (ii) raising funds through a preferential issue of equity shares to the promoter.  \n\n- The same meeting will also consider (i) moving the registered office from Telangana to Chandigarh, (ii) setting up a wholly‑owned",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3c525740-f01d-4bf5-bb68-20b532625e2a",
+    "SCRIP_CD": 545000,
+    "XML_NAME": "ANN_545000_3C525740-F01D-4BF5-BB68-20B532625E2A",
+    "NEWSSUB": "Zetwerk Manufacturing Businesses Ltd - 545000 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-20T22:41:13.6",
+    "NEWS_DT": "2026-11-20T22:41:13.6",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "29d6aeb8-f98b-4a9c-b343-ae100d82b060.pdf",
+    "MORE": "",
+    "HEADLINE": "Postal Ballot Notice.",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/zetwerk-manufacturing-businesses-ltd/zetwerk/545000/",
+    "SLONGNAME": "Zetwerk Manufacturing Businesses Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T22:41:13",
+    "DissemDT": "2026-11-20T22:41:13.6",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1067706,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Zetwerk Manufacturing Businesses Ltd is calling a postal ballot (e‑voting only) to amend and ratify its 2018 and 2024 Employee Stock Option Plans (including extending the plans to subsidiary/associate employees) and to alter its Articles of Association.  \n\n- The e‑voting period runs from 9:00 AM IST on 21 Nov 2026 to 5:00 PM IST on 20 Dec 2026, with results to be announced on or before 22",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 17,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "col_1": "Total number of options under ESOP 2018, as adjusted (net of equity shares allotted on exercise of options) (A)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "8,50,38,651",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Options granted till RHP (B)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "6,69,06,970",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Options exercised till RHP (C)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "37,50,981",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Options lapsed / forfeited till November 13, 2026 (D)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "94,98,680",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Total allocated options till RHP (E=B-C-D)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "5,36,57,309",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Options available for fresh grant (A-E)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "3,13,81,342",
+            "Number of options": "",
+            "col_6": ""
+          }
+        ]
+      },
+      {
+        "page": 17,
+        "table_index": 2,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Total ESOP 2018 Plan Pool (A)",
+            "No. of Options": "8,50,38,651"
+          },
+          {
+            "Particulars": "Options Granted till RHP (B)",
+            "No. of Options": "6,69,06,970"
+          },
+          {
+            "Particulars": "Less: Options exercised and listed with IPO (C)",
+            "No. of Options": "37,50,981"
+          },
+          {
+            "Particulars": "Less: Options Lapsed till November 13, 2026 (D)",
+            "No. of Options": "94,98,680"
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "Options exercised till RHP (C)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "19,258",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Options lapsed / forfeited till November 13, 2026 (D)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "13,01,939",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Total Allocated Grants till RHP (E=B-C-D)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "39,95,807",
+            "Number of options": "",
+            "col_6": ""
+          },
+          {
+            "col_1": "Options available for fresh grant (A – E)",
+            "Particulars": "",
+            "col_3": "",
+            "col_4": "31,26,189",
+            "Number of options": "",
+            "col_6": ""
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "table_index": 2,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "Total ESOP 2018 Plan Pool (A)",
+            "No. of Options": "71,41,254"
+          },
+          {
+            "Particulars": "Options Granted till RHP (B)",
+            "No. of Options": "53,17,004"
+          },
+          {
+            "Particulars": "Less: Options exercised and listed with IPO (C)",
+            "No. of Options": "19,258"
+          },
+          {
+            "Particulars": "Less: Options Lapsed till November 13, 2026 (D)",
+            "No. of Options": "13,01,939"
+          },
+          {
+            "Particulars": "Outstanding options E = (B-C-D)",
+            "No. of Options": "39,95,807"
+          },
+          {
+            "Particulars": "Total Ungranted options till November 13, 2026 (A-C-E)",
+            "No. of Options": "31,26,189"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "8ed2fdd0-0f79-479a-9a09-3fe7f6865a67",
+    "SCRIP_CD": 532187,
+    "XML_NAME": "ANN_532187_8ED2FDD0-0F79-479A-9A09-3FE7F6865A67",
+    "NEWSSUB": "Indusind Bank Ltd - 532187 - Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-20T22:38:23.57",
+    "NEWS_DT": "2026-11-20T22:38:23.57",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c2eb047f-cd12-4cde-8739-b44e6dd46198.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached herewith the captioned intimation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/indusind-bank-ltd/indusindbk/532187/",
+    "SLONGNAME": "Indusind Bank Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T22:38:23",
+    "DissemDT": "2026-11-20T22:38:23.57",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 253318,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On November 20 2026, IndusInd Bank’s Board terminated the employment of former MD & CEO Mr. Sumant Kathpalia, effective immediately, and invoked the bank’s malus and claw‑back provisions dating back to his appointment on March 24 2020.  \n- The termination follows his resignation (April 29 2025), suspension (June 18 2025), and the submission of an Enquiry Report by a former Bombay High Court judge on November 18 2026.  \n\n*No specific financial figures or monetary amounts are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "b6dbd3ec-fe63-4314-bdff-f392f6c5d6e6",
+    "SCRIP_CD": 509874,
+    "XML_NAME": "ANN_509874_B6DBD3EC-FE63-4314-BDFF-F392F6C5D6E6",
+    "NEWSSUB": "Shalimar Paints Ltd-$ - 509874 - Board Meeting Outcome for Outcome Of QIP Committee Meeting Held On November 20, 2026 - Closure Of QIP",
+    "DT_TM": "2026-11-20T22:38:20.79",
+    "NEWS_DT": "2026-11-20T22:38:20.79",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9d75c80b-cd0a-49b0-b38b-8330ef56f5e5.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA Outcome of QIP Committee Meeting held on November 20, 2026, towards Closure of QIP.",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shalimar-paints-ltd/shalpaints/509874/",
+    "SLONGNAME": "Shalimar Paints Ltd-$",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T22:38:19",
+    "DissemDT": "2026-11-20T22:38:20.79",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 276544,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "2",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "9c94b053-6b93-4180-8fdb-af652e6649ef",
     "SCRIP_CD": 542907,
     "XML_NAME": "ANN_542907_9C94B053-6B93-4180-8FDB-AF652E6649EF",
@@ -10770,179 +11068,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "543d3b3f-1c2a-4058-aab6-7245a261164b",
-    "SCRIP_CD": 544802,
-    "XML_NAME": "ANN_544802_543D3B3F-1C2A-4058-AAB6-7245A261164B",
-    "NEWSSUB": "Waterways Leisure Tourism Ltd - 544802 - Announcement under Regulation 30 (LODR)-Change in Directorate",
-    "DT_TM": "2026-11-20T18:46:04.963",
-    "NEWS_DT": "2026-11-20T18:46:04.963",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "70b8b4f3-69a2-4742-adda-5af500265ce4.pdf",
-    "MORE": "",
-    "HEADLINE": "Change in Board of Directors",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/waterways-leisure-tourism-ltd/cordelia/544802/",
-    "SLONGNAME": "Waterways Leisure Tourism Ltd",
-    "AGENDA_ID": 15,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:46:04",
-    "DissemDT": "2026-11-20T18:46:04.963",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1227956,
-    "SUBCATNAME": "Change in Directorate",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "dedd74c2-63c9-4f67-8d62-7c6ae5097f91",
-    "SCRIP_CD": 543593,
-    "XML_NAME": "ANN_543593_DEDD74C2-63C9-4F67-8D62-7C6AE5097F91",
-    "NEWSSUB": "Dhampur Bio Organics Ltd - 543593 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-20T18:46:00.49",
-    "NEWS_DT": "2026-11-20T18:46:00.49",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f551bb22-1bdd-4766-a03e-4b9c9990be56.pdf",
-    "MORE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, you are requested to note that Mr. Palakdhari Singh Pankaj, Vice President - Materials and Purchase of the Company, vide letter dated November 13, 2026, tendered his resignation.",
-    "HEADLINE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, you are requested to note that Mr. Palakdhari Singh Pankaj, Vice President - Materials and Purchase of the Company, vide letter ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dhampur-bio-organics-ltd/dbol/543593/",
-    "SLONGNAME": "Dhampur Bio Organics Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:46:00",
-    "DissemDT": "2026-11-20T18:46:00.49",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 749221,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Reason for change viz. appointment, re- appointment, resignation, removal, death or otherwise",
-            "Details": "Resignation"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Date of appointment/ re-appointment/ cessation (as applicable) & term of appointment/ re-appointment",
-            "Details": "w.e.f. to the close of business hours of November 20, 2026"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Brief Profile (in case of appointment)",
-            "Details": "Not Applicable"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Disclosure of relationship between Directors (in case of appointment of a Director)",
-            "Details": "Not Applicable"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "5c5af845-43e6-49e9-ba77-7226ddb106d8",
-    "SCRIP_CD": 544198,
-    "XML_NAME": "ANN_544198_5C5AF845-43E6-49E9-BA77-7226DDB106D8",
-    "NEWSSUB": "Dee Development Engineers Ltd - 544198 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-20T18:43:47.743",
-    "NEWS_DT": "2026-11-20T18:43:47.743",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ebc8b542-5af6-4d8e-9fa1-bd3da0838f2b.pdf",
-    "MORE": "",
-    "HEADLINE": "Transcript of Earning Call for quater & half year ended 30th september 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
-    "SLONGNAME": "Dee Development Engineers Ltd",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:43:47",
-    "DissemDT": "2026-11-20T18:43:47.743",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 389486,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6fccdc57-fa97-4c58-b97c-669bdc39f928",
-    "SCRIP_CD": 544802,
-    "XML_NAME": "ANN_544802_6FCCDC57-FA97-4C58-B97C-669BDC39F928",
-    "NEWSSUB": "Waterways Leisure Tourism Ltd - 544802 - Board Meeting Outcome for Outcome Of The Board Meeting Held On November 20, 2026 - Appointment And Cessation Of Directors.",
-    "DT_TM": "2026-11-20T18:43:32.817",
-    "NEWS_DT": "2026-11-20T18:43:32.817",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a994b614-b69f-44de-a1dd-7bec2aa730ce.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board Meeting held on November 20, 2026 - Appointment and Cessation of Director.",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/waterways-leisure-tourism-ltd/cordelia/544802/",
-    "SLONGNAME": "Waterways Leisure Tourism Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:43:30",
-    "DissemDT": "2026-11-20T18:43:32.817",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 1227956,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
   }
 ]
