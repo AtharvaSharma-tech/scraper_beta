@@ -1,5 +1,301 @@
 [
   {
+    "NEWSID": "314c039a-46ef-496c-be5b-eab9435c40e5",
+    "SCRIP_CD": 509874,
+    "XML_NAME": "ANN_509874_314C039A-46EF-496C-BE5B-EAB9435C40E5",
+    "NEWSSUB": "Shalimar Paints Ltd-$ - 509874 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-11-20T23:16:06.21",
+    "NEWS_DT": "2026-11-20T23:16:06.21",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1293be4b-db88-4854-b258-bbd4284ede4a.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA Outcome of QIP Committee Meeting held on November 20, 2026, towards Allotment of Equity Shares.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shalimar-paints-ltd/shalpaints/509874/",
+    "SLONGNAME": "Shalimar Paints Ltd-$",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T23:16:06",
+    "DissemDT": "2026-11-20T23:16:06.21",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 308211,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "2",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 8,
+        "rows": [
+          {
+            "Sr. No.": "1.",
+            "Name of Allottee": "VENUS INVESTMENTS VCC - VENUS STELLAR FUND",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "90,90,910",
+            "% of Issue Size": "17.50",
+            "% of post-issue equity capital": "6.70"
+          },
+          {
+            "Sr. No.": "2.",
+            "Name of Allottee": "ALTITUDE INVESTMENT FUND PCC - CELL 1",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "71,42,857",
+            "% of Issue Size": "13.75",
+            "% of post-issue equity capital": "5.27"
+          },
+          {
+            "Sr. No.": "3.",
+            "Name of Allottee": "RIGEL GLOBAL FUND",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "64,93,500",
+            "% of Issue Size": "12.50",
+            "% of post-issue equity capital": "4.79"
+          },
+          {
+            "Sr. No.": "4.",
+            "Name of Allottee": "MINERVA VENTURES FUND",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "51,94,805",
+            "% of Issue Size": "10.00",
+            "% of post-issue equity capital": "3.83"
+          },
+          {
+            "Sr. No.": "5.",
+            "Name of Allottee": "MAESTRO EMERGING FUND PCC - ASSET INVESTING",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "45,45,455",
+            "% of Issue Size": "8.75",
+            "% of post-issue equity capital": "3.35"
+          },
+          {
+            "Sr. No.": "6.",
+            "Name of Allottee": "NECTA BLOOM VCC - NECTA BLOOM ONE",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "38,96,107",
+            "% of Issue Size": "7.50",
+            "% of post-issue equity capital": "2.87"
+          },
+          {
+            "Sr. No.": "7.",
+            "Name of Allottee": "AL MAHA INVESTMENT FUND PCC - ONYX STRATEGY",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "25,97,402",
+            "% of Issue Size": "5.00",
+            "% of post-issue equity capital": "1.91"
+          },
+          {
+            "Sr. No.": "Total",
+            "Name of Allottee": "",
+            "Category": "",
+            "No. of Equity Shares allotted": "3,89,61,036",
+            "% of Issue Size": "75.00",
+            "% of post-issue equity capital": "28.72"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "cf2654fd-6850-466e-97e6-bbbcf1c5dc65",
+    "SCRIP_CD": 512591,
+    "XML_NAME": "ANN_512591_CF2654FD-6850-466E-97E6-BBBCF1C5DC65",
+    "NEWSSUB": "Pulsar International Ltd - 512591 - Board Meeting Intimation for Revised Board Meeting Date And Trading Window Closure In Compliance With SEBI Regulations",
+    "DT_TM": "2026-11-20T23:13:54.18",
+    "NEWS_DT": "2026-11-20T23:13:54.18",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6fe5b778-c95d-4004-9418-1ca984d7e5ac.pdf",
+    "MORE": "Pulsar International Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/11/2026 ,inter alia, to consider and approve and take on record the Un-audited Standalone Financial Results of the Company for the second quarter and half year ended 30th September, 2026 and other ancillary matters. Enclosed hereith the revised intimation of Board Meeting rescheduling.",
+    "HEADLINE": "Pulsar International Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 25/11/2026 ,inter alia, to consider and approve and take on record the ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/pulsar-international-ltd/pulsrin/512591/",
+    "SLONGNAME": "Pulsar International Ltd",
+    "AGENDA_ID": 101,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T23:13:53",
+    "DissemDT": "2026-11-20T23:13:54.18",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 212180,
+    "SUBCATNAME": "Board Meeting Rescheduled",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board meeting originally slated for 20 Nov 2026 to approve the unaudited standalone Q2 and half‑year results (ended 30 Sep 2026) has been postponed and will now take place on 25 Nov 2026.  \n- The associated trading window will remain closed until 48 hours after the results are announced, now extending to 27 Nov 2026.  \n\n*(No specific financial figures or monetary decisions are disclosed in the announcement.)*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2746a8fe-a073-4855-b440-c0c3f4591bc0",
+    "SCRIP_CD": 509874,
+    "XML_NAME": "ANN_509874_2746A8FE-A073-4855-B440-C0C3F4591BC0",
+    "NEWSSUB": "Shalimar Paints Ltd-$ - 509874 - Outcome Of QIP Committee Meeting Held On November 20, 2026 - Allotment Of Equity Shares",
+    "DT_TM": "2026-11-20T23:13:16.69",
+    "NEWS_DT": "2026-11-20T23:13:16.69",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ea778e85-143a-4216-9fdd-a7ef47215477.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA Outcome of QIP Committee Meeting held on November 20, 2026, towards Allotment of Equity Shares.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shalimar-paints-ltd/shalpaints/509874/",
+    "SLONGNAME": "Shalimar Paints Ltd-$",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T23:13:16",
+    "DissemDT": "2026-11-20T23:13:16.69",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 308211,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Qualified Institutional Placement (QIP) details:** On Nov 13 2026 the company opened a QIP and, on Nov",
+    "key_metrics": {
+      "face_value": "2",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 1,
+        "row_count": 8,
+        "rows": [
+          {
+            "Sr. No.": "1.",
+            "Name of Allottee": "VENUS INVESTMENTS VCC - VENUS STELLAR FUND",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "90,90,910",
+            "% of Issue Size": "17.50",
+            "% of post-issue equity capital": "6.70"
+          },
+          {
+            "Sr. No.": "2.",
+            "Name of Allottee": "ALTITUDE INVESTMENT FUND PCC - CELL 1",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "71,42,857",
+            "% of Issue Size": "13.75",
+            "% of post-issue equity capital": "5.27"
+          },
+          {
+            "Sr. No.": "3.",
+            "Name of Allottee": "RIGEL GLOBAL FUND",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "64,93,500",
+            "% of Issue Size": "12.50",
+            "% of post-issue equity capital": "4.79"
+          },
+          {
+            "Sr. No.": "4.",
+            "Name of Allottee": "MINERVA VENTURES FUND",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "51,94,805",
+            "% of Issue Size": "10.00",
+            "% of post-issue equity capital": "3.83"
+          },
+          {
+            "Sr. No.": "5.",
+            "Name of Allottee": "MAESTRO EMERGING FUND PCC - ASSET INVESTING",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "45,45,455",
+            "% of Issue Size": "8.75",
+            "% of post-issue equity capital": "3.35"
+          },
+          {
+            "Sr. No.": "6.",
+            "Name of Allottee": "NECTA BLOOM VCC - NECTA BLOOM ONE",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "38,96,107",
+            "% of Issue Size": "7.50",
+            "% of post-issue equity capital": "2.87"
+          },
+          {
+            "Sr. No.": "7.",
+            "Name of Allottee": "AL MAHA INVESTMENT FUND PCC - ONYX STRATEGY",
+            "Category": "FPI",
+            "No. of Equity Shares allotted": "25,97,402",
+            "% of Issue Size": "5.00",
+            "% of post-issue equity capital": "1.91"
+          },
+          {
+            "Sr. No.": "Total",
+            "Name of Allottee": "",
+            "Category": "",
+            "No. of Equity Shares allotted": "3,89,61,036",
+            "% of Issue Size": "75.00",
+            "% of post-issue equity capital": "28.72"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "be1f2c18-64ee-47ac-a4cf-e2ff4407ccbe",
+    "SCRIP_CD": 503806,
+    "XML_NAME": "ANN_503806_BE1F2C18-64EE-47AC-A4CF-E2FF4407CCBE",
+    "NEWSSUB": "SRF Ltd - 503806 - Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-20T23:06:33.94",
+    "NEWS_DT": "2026-11-20T23:06:33.94",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "101fd5b4-e62f-4e1b-9679-0c24c72aa73d.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/srf-ltd/srf/503806/",
+    "SLONGNAME": "SRF Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 13,
+    "News_submission_dt": "2026-11-20T23:06:33",
+    "DissemDT": "2026-11-20T23:06:33.94",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 232390,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 20 Nov 2026, SRF Ltd received an Order‑in‑Original from the Office of the Commissioner of Customs, Nhava Sheva, imposing a redemption fine of **₹15 lakh** (Section 125, Customs Act) and a penalty of **₹7 lakh** (Section 114(iii), Customs Act), and rejecting its RoDTEP benefit claim of **₹17,01,701** for certain exports.  \n\n- The company states that the order has **no material impact** on its operations or financials and will **contest the order** before the appropriate appellate/legal forum.",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "1497c6b9-7fa0-4bfa-b7c3-512afdfd0756",
     "SCRIP_CD": 539287,
     "XML_NAME": "ANN_539287_1497C6B9-7FA0-4BFA-B7C3-512AFDFD0756",
@@ -9467,1606 +9763,5 @@
       "currency_unit": "in Millions"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "642859b4-6dd9-4af8-baf5-60f49557cf9d",
-    "SCRIP_CD": 531637,
-    "XML_NAME": "ANN_531637_642859B4-6DD9-4AF8-BAF5-60F49557CF9D",
-    "NEWSSUB": "Praveg Ltd - 531637 - Intimation Under Regulation 30 Of Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015 -  Execution Of Term Sheet",
-    "DT_TM": "2026-11-20T18:50:09.123",
-    "NEWS_DT": "2026-11-20T18:50:09.123",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f35f78d7-eef9-460c-9cc1-25753a56b44e.pdf",
-    "MORE": "Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Praveg Limited (\"the Company\") has entered into a Term Sheet dated November 20, 2026, with HNI Group in the ordinary course of business for exploring and undertaking business opportunities in the hospitality, resort development, operations and management, event management and exhibition management sectors through a proposed Special Purpose Vehicle (\"SPV\").",
-    "HEADLINE": "Pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that Praveg Limited (\"the Company\") ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/praveg-ltd/praveg/531637/",
-    "SLONGNAME": "Praveg Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:50:09",
-    "DissemDT": "2026-11-20T18:50:09.123",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 253383,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "03b890b5-21a3-41d4-8651-888c570e3950",
-    "SCRIP_CD": 531013,
-    "XML_NAME": "ANN_531013_03B890B5-21A3-41D4-8651-888C570E3950",
-    "NEWSSUB": "Sun Granite Export Ltd - 531013 - Corporate Insolvency Resolution Process (CIRP)-Intimation of meeting of Committee of Creditors",
-    "DT_TM": "2026-11-20T18:49:31.253",
-    "NEWS_DT": "2026-11-20T18:49:31.253",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f2d34a8d-8dee-4adb-b2e1-74bd338c12c4.pdf",
-    "MORE": "",
-    "HEADLINE": "Prior Intimation of 3rd Meeting of CoC to be held on 24th November, 2026 at 4 pm",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sun-granite-export-ltd/sungran/531013/",
-    "SLONGNAME": "Sun Granite Export Ltd",
-    "AGENDA_ID": 166,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:49:31",
-    "DissemDT": "2026-11-20T18:49:31.253",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 952355,
-    "SUBCATNAME": "Intimation of meeting of Committee of Creditors",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9ed7b133-ecb4-4f49-b663-ea917bdfeee3",
-    "SCRIP_CD": 532553,
-    "XML_NAME": "ANN_532553_9ED7B133-ECB4-4F49-B663-EA917BDFEEE3",
-    "NEWSSUB": "Welspun Enterprises Ltd - 532553 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-20T18:49:25.29",
-    "NEWS_DT": "2026-11-20T18:49:25.29",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e25dc189-0141-4da3-a0c2-f9c64960d43f.pdf",
-    "MORE": "",
-    "HEADLINE": "Welspun Enterprises Limited has informed the exchange about Change in Management",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/welspun-enterprises-ltd/welent/532553/",
-    "SLONGNAME": "Welspun Enterprises Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:49:25",
-    "DissemDT": "2026-11-20T18:49:25.29",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 773905,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d2cc7df7-feb9-4023-add6-c6a5468ec2a5",
-    "SCRIP_CD": 532389,
-    "XML_NAME": "ANN_532389_D2CC7DF7-FEB9-4023-ADD6-C6A5468EC2A5",
-    "NEWSSUB": "Valecha Engineering Ltd-$ - 532389 - Board Meeting Outcome for Board Meeting Outcome For Unaudited Standalone And Consolidated Financial Results For The Quarter And Half Year Ended September 30, 2026",
-    "DT_TM": "2026-11-20T18:49:20.29",
-    "NEWS_DT": "2026-11-20T18:49:20.29",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dd1cd42e-4e40-447c-bddd-ca547bb79c56.pdf",
-    "MORE": "",
-    "HEADLINE": "Unaudited Standalone and Consolidated Financial Results For The Quarter and Half Year Ended September 30, 2026",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/valecha-engineering-ltd/valechaeng/532389/",
-    "SLONGNAME": "Valecha Engineering Ltd-$",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-20T18:49:10",
-    "DissemDT": "2026-11-20T18:49:20.29",
-    "TimeDiff": "00:00:10",
-    "Fld_Attachsize": 15454362,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2.87",
-      "total_assets": "544.52",
-      "total_equity": "473.41",
-      "total_debt": "1.75",
-      "dividend": "0.00",
-      "face_value": "10",
-      "book_value": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 42,
-        "rows": [
-          {
-            "Sr, N": "",
-            "col_2": "o, PARTICULARS",
-            "STANDALONE": "For the quarter ended on 30.09.2026 30.06.2026 30.09.2025 (Unaudited) (UnauditedJ. (Unaudited)",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "For half year ended on",
-            "col_7": "",
-            "col_8": "For the year ended on"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "col_6": "30.09.2026",
-            "col_7": "30.09.2025",
-            "col_8": "31.03.2026"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "(UnauditedJ",
-            "col_5": ". (Unaudited)",
-            "col_6": "_ (Unaudited)",
-            "col_7": "(Unaudited) l.Auditedl",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "1",
-            "col_2": "Income (a) Revenue from Operations (b) Other Income Total Income",
-            "STANDALONE": "2.87 0.83 3.70",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "2.80",
-            "col_5": "8.94",
-            "col_6": "5.67",
-            "col_7": "16.30",
-            "col_8": "26.93 .'"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "0.68",
-            "col_5": "6.62",
-            "col_6": "1.51",
-            "col_7": "7.17",
-            "col_8": "2.50"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "3.48",
-            "col_5": "15.56",
-            "col_6": "7,18",
-            "col_7": "23.47",
-            "col_8": "29.43"
-          },
-          {
-            "Sr, N": "2",
-            "col_2": "Expenses . a. Construction Expenses b. Changes in inventories c. Employees Benefits Expense d. Finance costs e. DepreCiation and amortization Expenses f. Other Expenses . Total Expenses",
-            "STANDALONE": "1.15 0.63 0.02 0.26 0.46 2.52",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "1.85",
-            "col_5": "3.59",
-            "col_6": "3.00 .",
-            "col_7": "9.70",
-            "col_8": "17.98"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "0.61",
-            "col_5": "0.55",
-            "col_6": "1.24",
-            "col_7": "1.16",
-            "col_8": "2.37"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "0.02",
-            "col_5": "0.03",
-            "col_6": "0.04",
-            "col_7": "0.07",
-            "col_8": "0.12"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "0.26",
-            "col_5": "0.28",
-            "col_6": "0.52",
-            "col_7": "0.57",
-            "col_8": "1.14"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "0.60",
-            "col_5": "0.56",
-            "col_6": "1.06",
-            "col_7": "1.03",
-            "col_8": "2.15"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "3.34",
-            "col_5": "5.01",
-            "col_6": "5.86",
-            "col_7": "12.53",
-            "col_8": "23.76"
-          },
-          {
-            "Sr, N": "3",
-            "col_2": "Profit / (Loss) before share of net profit/(Ioss) of an associateLa joint venture and Exceptional Items (1-2)",
-            "STANDALONE": "1.18",
-            "col_4": "0.14",
-            "col_5": "10.55",
-            "col_6": "1,32",
-            "col_7": "10.94",
-            "col_8": "5.67"
-          },
-          {
-            "Sr, N": "4",
-            "col_2": "Share of net profit/(Ioss) of an associate/ a joint venture",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "5",
-            "col_2": "Profit / (Loss) before Exceptional Items and tax (3+4)",
-            "STANDALONE": "1,18",
-            "col_4": "0.14",
-            "col_5": "10,55",
-            "col_6": "1.32",
-            "col_7": "10.94",
-            "col_8": "5.67"
-          },
-          {
-            "Sr, N": "6",
-            "col_2": "Exceptional Items (Net) [gain/(Ioss)]",
-            "STANDALONE": "",
-            "col_4": "0.04",
-            "col_5": "",
-            "col_6": "0.04",
-            "col_7": "",
-            "col_8": "(3.91)"
-          },
-          {
-            "Sr, N": "7",
-            "col_2": "Profit / (Loss) before tax (5+6)",
-            "STANDALONE": "1.18",
-            "col_4": "0.18",
-            "col_5": "10,55",
-            "col_6": "1.36",
-            "col_7": "10.94",
-            "col_8": "1.76"
-          },
-          {
-            "Sr, N": "8",
-            "col_2": "Tax Expense",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "(a) Current Tax (Including earlier year taxation)",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "(b) Deferred tax",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "9",
-            "col_2": "Profit / (Loss) forthe Period (7-8)",
-            "STANDALONE": "1.18",
-            "col_4": "0.18",
-            "col_5": "10.55",
-            "col_6": "1.36",
-            "col_7": "10.94",
-            "col_8": "1.76"
-          },
-          {
-            "Sr, N": "10",
-            "col_2": "Other Comprehensive Income (OCI)",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "(a) i. Items that will not be reclassified to profit or loss ii. Income tax relating to items that will not be reclassified to profit or loss (b) i. Item that will be reclassified to profit or loss ii. Income tax relating to items that will be reclassified to profit or loss",
-            "STANDALONE": "0.03 -",
-            "col_4": "0.02",
-            "col_5": "",
-            "col_6": "0.05",
-            "col_7": "",
-            "col_8": "0.09"
-          },
-          {
-            "Sr, N": "",
-            "col_2": "Total Other Comprehensive Income",
-            "STANDALONE": "0,03",
-            "col_4": "0.02",
-            "col_5": "",
-            "col_6": "0.05",
-            "col_7": "",
-            "col_8": "O~09"
-          },
-          {
-            "Sr, N": "11",
-            "col_2": "Total Comprehensive Income for the period (9+10)",
-            "STANDALONE": "1.21",
-            "col_4": "0.20",
-            "col_5": "10.55",
-            "col_6": "1.41",
-            "col_7": "10.94",
-            "col_8": "1.85"
-          },
-          {
-            "Sr, N": "12",
-            "col_2": "Net Profit/CLoss) attributable to:",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "Shareholders of the Company",
-            "col_2": "",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "Non-Controlling interest",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "13",
-            "col_2": "Other Comprehensive Income attributable to :",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "Shareholders of the Company",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "Non-Controlling interest",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "14",
-            "col_2": "Total Comprehensive Income attributable to :",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "Shareholders of the Company",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "",
-            "col_2": "Non-Controlling interest",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "15",
-            "col_2": "Paid-up Equity Share Capital (Face Value '{ 10/-)",
-            "STANDALONE": "22.53",
-            "col_4": "22.53",
-            "col_5": "22.53",
-            "col_6": "22.53",
-            "col_7": "22.53",
-            "col_8": "22.53"
-          },
-          {
-            "Sr, N": "16",
-            "col_2": "Other Equity Excluding Revaluation Reserves",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "426.21"
-          },
-          {
-            "Sr, N": "17",
-            "col_2": "Earning Per Share (on 10/-each) (not annualised):",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "Sr, N": "(",
-            "col_2": "i) Basic earnings (loss) per share",
-            "STANDALONE": "0.52",
-            "col_4": "0.08",
-            "col_5": "4.68",
-            "col_6": "0.60",
-            "col_7": "4.86",
-            "col_8": "0.78"
-          },
-          {
-            "Sr, N": "(",
-            "col_2": "ii) Diluted earnings (loss) per share",
-            "STANDALONE": "0.52",
-            "col_4": "0.08",
-            "col_5": "4.68",
-            "col_6": "0.60",
-            "col_7": "4.86",
-            "col_8": "0.78"
-          },
-          {
-            "Sr, N": "S",
-            "col_2": "ee accompanying note to the Financial Results",
-            "STANDALONE": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 50,
-        "rows": [
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "",
-            "col_2": "STANDALONE",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Particulars",
-            "col_2": "As at 30th September, 2026",
-            "col_3": "As at 31st March, 2026"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "",
-            "col_2": "(Unaudited)",
-            "col_3": "(Audited)"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "ASSETS",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Non Current Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(a) Property, Plant & Equipment",
-            "col_2": "2.11",
-            "col_3": "1.75"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(b) Right of use assets",
-            "col_2": "0.43",
-            "col_3": "0.85"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(c) Investment Property",
-            "col_2": "1.47",
-            "col_3": "1.49"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(d) Financial Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(il Investments",
-            "col_2": "40.20",
-            "col_3": "40.20"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(ii) Other Financial Assets",
-            "col_2": "44.75",
-            "col_3": "44.63"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "e) Other Non-Current Assets",
-            "col_2": "4.10",
-            "col_3": "4.01"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Total Non Current Assets",
-            "col_2": "93.06",
-            "col_3": "92.93"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Current Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(a) Financial Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(i) Trade Receivables",
-            "col_2": "153.47",
-            "col_3": "157.66"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(ii) Cash & Cash Equivalents",
-            "col_2": "24.86",
-            "col_3": "22.38"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(iii) Bank Balances other than (ii) above",
-            "col_2": "5.87",
-            "col_3": "5.83"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(iv) Loans",
-            "col_2": "256.93",
-            "col_3": "256.93"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(v) Other Financial Assets",
-            "col_2": "8.61",
-            "col_3": "7.59"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "b) Other Current Assets",
-            "col_2": "1.72",
-            "col_3": "1.98"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Total Current Assets",
-            "col_2": "451.46",
-            "col_3": "452.37"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Total Assets",
-            "col_2": "544.52",
-            "col_3": "545.30"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "EQUITY AND LIABILITIES",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Equity",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(a) Equity Share Capital",
-            "col_2": "22.53",
-            "col_3": "22.53"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(b) Instruments entirely equity in nature",
-            "col_2": "23.25",
-            "col_3": "25.00"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "c) Other Equity",
-            "col_2": "427.63",
-            "col_3": "426.21"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Equity Attributable to Shareholders of the Company",
-            "col_2": "473.41",
-            "col_3": "473.74"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Non-Controlling Interest",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Total Equity",
-            "col_2": "473.41",
-            "col_3": "473.74"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Non Current Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "a) Financial Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(i) Borrowings",
-            "col_2": "1.75",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(ii) Other Financial Liabilities",
-            "col_2": "48.48",
-            "col_3": "48.13"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "b) Provisions",
-            "col_2": "0.05",
-            "col_3": "0.07"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "c) Other Non-Current Liabilities",
-            "col_2": "0.11",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "otal Non Current Liabilities",
-            "col_2": "50.39",
-            "col_3": "48.20"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "urrent Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "a) Financial Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(i) Borrowings",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(ii) Trade Payables",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "-Total outstanding dues of micro enterprises and small nterprises; and 0.10",
-            "col_2": "",
-            "col_3": "0.06"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "Total outstanding dues of creditors othere than micro nterprises and small enterprises",
-            "col_2": "4.18",
-            "col_3": "6.41"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "(iii) Other Financial Liabilities",
-            "col_2": "15.87",
-            "col_3": "16.32"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "b) Other Current Liabilities",
-            "col_2": "0.07",
-            "col_3": "0.07"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": ") Provisions",
-            "col_2": "0.50",
-            "col_3": "0.50"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "otal Current Liabilities",
-            "col_2": "20.72",
-            "col_3": "23.36"
-          },
-          {
-            "STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES": "otal Equity & Liabilities",
-            "col_2": "544.52",
-            "col_3": "545.30"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Particulars": "Trade Receivables",
-            "Amount (Rs. Crores)": "136.18",
-            "Remarks": "Carried at book value, pending further assessment of recoverability."
-          },
-          {
-            "Particulars": "Other Non-Current Financial Assets (including retention)",
-            "Amount (Rs. Crores)": "5.00",
-            "Remarks": "Stated at book value; expected credit loss and recoverability will be assessed in accordance with Ind AS 109."
-          },
-          {
-            "Particulars": "Loans to other parties",
-            "Amount (Rs. Crores)": "156.76",
-            "Remarks": "Stated at book value. Recoverability will be assessed and expected credit loss recognized as required under Ind AS 109."
-          },
-          {
-            "Particulars": "Advances to suppliers",
-            "Amount (Rs. Crores)": "21.37",
-            "Remarks": "Carried at book value. Classification as current or non- current will be as per the expected settlement period, with recoverability assessment performed."
-          }
-        ]
-      },
-      {
-        "page": 13,
-        "table_index": 0,
-        "row_count": 42,
-        "rows": [
-          {
-            "col_1": "",
-            "col_2": "o. PARTICULARS",
-            "Consolidated": "For the quarter ended on 30.09.2026 30.06.2026 30.09.2025 (Unaudited) (Unaudited) (Unaudited)",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "For half year ended on",
-            "col_7": "",
-            "col_8": "For the year ended on"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "",
-            "col_4": "30.06.2026",
-            "col_5": "30.09.2025",
-            "col_6": "30.09.2026",
-            "col_7": "30.09.2025",
-            "col_8": "31.03.2026"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "",
-            "col_4": "(Unaudited) (Unaudited)",
-            "col_5": "",
-            "col_6": "(Unaudited)",
-            "col_7": "(Unaudited)",
-            "col_8": "(Audited)"
-          },
-          {
-            "col_1": "1",
-            "col_2": "Income (a) Revenue from Operations (b) Other Income Total Income",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "8.20",
-            "col_4": "2.81",
-            "col_5": "10.14",
-            "col_6": "11.01",
-            "col_7": "18.30",
-            "col_8": "32.97"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "0.85",
-            "col_4": "0.69",
-            "col_5": "6.64",
-            "col_6": "1.54",
-            "col_7": "7.21",
-            "col_8": "2.58"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "9.05",
-            "col_4": "3.50",
-            "col_5": "16.78",
-            "col_6": "12.55",
-            "col_7": "25.51",
-            "col_8": "35.55"
-          },
-          {
-            "col_1": "2",
-            "col_2": "Expenses a. Construction Expenses b. Changes in inventories c. Employees Benefits Expense . d. Finance costs e. Depreciation and amortization Expenses f. Other Expenses Total Expenses",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "6.50",
-            "col_4": "1.84",
-            "col_5": "4.08",
-            "col_6": "8.34",
-            "col_7": "10.26",
-            "col_8": "19.16"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "0.63",
-            "col_4": "0.61",
-            "col_5": "0.73",
-            "col_6": "1.24",
-            "col_7": "1.52",
-            "col_8": "3.04"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "52.70",
-            "col_4": "50.58",
-            "col_5": "46.03",
-            "col_6": "103.28",
-            "col_7": "93.47",
-            "col_8": "190.18"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "0.26",
-            "col_4": "0.26",
-            "col_5": "2.03",
-            "col_6": "0.52",
-            "col_7": "4.06",
-            "col_8": "8.13"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "0.46",
-            "col_4": "0.62",
-            "col_5": "1.20",
-            "col_6": "1.08",
-            "col_7": "3.25",
-            "col_8": "40.20"
-          },
-          {
-            "col_1": "",
-            "col_2": "",
-            "Consolidated": "60.55",
-            "col_4": "53.91",
-            "col_5": "54.07",
-            "col_6": "114.46",
-            "col_7": "112.56",
-            "col_8": "260.71"
-          },
-          {
-            "col_1": "3",
-            "col_2": "Profit / (Loss) before share afnet profit/(Ioss) of an associate/ a 'oint venture and Exceptional Items (1-2)",
-            "Consolidated": "(51.50)",
-            "col_4": "(50.41)",
-            "col_5": "(37.29)",
-            "col_6": "(101.91)",
-            "col_7": "(87.05)",
-            "col_8": "(225.16)"
-          },
-          {
-            "col_1": "4",
-            "col_2": "Share of net profit/(Ioss) of an associate/ a joint venture",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "5",
-            "col_2": "Profit / (Loss) before Exceptional Items and tax (3+4)",
-            "Consolidated": "(51.50)",
-            "col_4": "(50.41)",
-            "col_5": "(37.29)",
-            "col_6": "(101.91)",
-            "col_7": "(87.05)",
-            "col_8": "(225.16)"
-          },
-          {
-            "col_1": "6",
-            "col_2": "Exceptional Items Net [gain/(loss)]",
-            "Consolidated": "323.48",
-            "col_4": "0.04",
-            "col_5": "",
-            "col_6": "323.52",
-            "col_7": "",
-            "col_8": "(3.82)"
-          },
-          {
-            "col_1": "7",
-            "col_2": "Profit / (Loss) before tax (5+6)",
-            "Consolidated": "271.98",
-            "col_4": "(50.37)",
-            "col_5": "(37.29)",
-            "col_6": "221.61",
-            "col_7": "(87.05)",
-            "col_8": "(228.98)"
-          },
-          {
-            "col_1": "8",
-            "col_2": "Tax Expense",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "(a) Current Tax (Including earlier year taxation)",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "(b) Deferred tax",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "9 .",
-            "col_2": "Profit/ (Loss) for the Period (7-8)",
-            "Consolidated": "271.98",
-            "col_4": "(50.37)",
-            "col_5": "(37.29)",
-            "col_6": "221.61",
-            "col_7": "(87.05)",
-            "col_8": "(228.98)"
-          },
-          {
-            "col_1": "10",
-            "col_2": "Other Comprehensive Income (OCI)",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "(a) i. Items that will not be reclassified to profit or loss ii. Income tax relating to items that will not be reclassified to profit or loss (b) i. Item that will be reclassified to profit or loss ii. Income tax relating to items that will be reclassified to Iprofit or loss",
-            "Consolidated": "0.02",
-            "col_4": "0.02",
-            "col_5": "",
-            "col_6": "0.04",
-            "col_7": "",
-            "col_8": "0.09"
-          },
-          {
-            "col_1": "",
-            "col_2": "Total Other Comprehensive Income",
-            "Consolidated": "0.02",
-            "col_4": "0.02",
-            "col_5": "",
-            "col_6": "0.04",
-            "col_7": "",
-            "col_8": "0.09"
-          },
-          {
-            "col_1": "11",
-            "col_2": "Total Comprehensive Income for the period (9+10)",
-            "Consolidated": "272.00",
-            "col_4": "(50.35)",
-            "col_5": "(37.29)",
-            "col_6": "221.65",
-            "col_7": "(87.05)",
-            "col_8": "(228.89)"
-          },
-          {
-            "col_1": "12",
-            "col_2": "Net Profit/CLoss) attributable to :",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "Shareholders of the Company",
-            "Consolidated": "286.94",
-            "col_4": "(29.14)",
-            "col_5": "(17.69)",
-            "col_6": "257.80",
-            "col_7": "(47.05)",
-            "col_8": "(148.33)"
-          },
-          {
-            "col_1": "",
-            "col_2": "Non-Controlling interest",
-            "Consolidated": "(14.96)",
-            "col_4": "(21.23)",
-            "col_5": "(19.60)",
-            "col_6": "(36.19)",
-            "col_7": "(40.00)",
-            "col_8": "(80.65)"
-          },
-          {
-            "col_1": "13",
-            "col_2": "Other Comprehensive Income attributable to :",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "Shareholders of the Company",
-            "Consolidated": "0.02",
-            "col_4": "0.02",
-            "col_5": "",
-            "col_6": "0.04",
-            "col_7": "",
-            "col_8": "0.09"
-          },
-          {
-            "col_1": "",
-            "col_2": "Non-Controlling interest",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "14",
-            "col_2": "Total Comprehensive Income attributable ta :",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "",
-            "col_2": "Shareholders of the Company",
-            "Consolidated": "286.96",
-            "col_4": "(29.12)",
-            "col_5": "(17.69)",
-            "col_6": "257.84",
-            "col_7": "(47.05)",
-            "col_8": "(148.24)"
-          },
-          {
-            "col_1": "",
-            "col_2": "Non-Controlling interest",
-            "Consolidated": "(14.96)",
-            "col_4": "(21.23)",
-            "col_5": "(19.60)",
-            "col_6": "(36.19)",
-            "col_7": "(40.00)",
-            "col_8": "(80.65)"
-          },
-          {
-            "col_1": "15",
-            "col_2": "Paid-up Equity Share Capital (Face Valud 10/-)",
-            "Consolidated": "22.53 22.53",
-            "col_4": "",
-            "col_5": "22.53",
-            "col_6": "22.53",
-            "col_7": "22.53",
-            "col_8": "22.53"
-          },
-          {
-            "col_1": "16",
-            "col_2": "Other Equity Excluding Revaluation Reserves",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "(1,718.43)"
-          },
-          {
-            "col_1": "17",
-            "col_2": "Earning Per Share (of~ 10/-each) (notannualised):",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          },
-          {
-            "col_1": "(",
-            "col_2": "i) Basic earnings (loss) per share",
-            "Consolidated": "120.72",
-            "col_4": "(22.36)",
-            "col_5": "(16.55)",
-            "col_6": "98.36",
-            "col_7": "(38.64)",
-            "col_8": "(101.63)"
-          },
-          {
-            "col_1": "(",
-            "col_2": "ii) Diluted earnings (loss) per share",
-            "Consolidated": "120.72",
-            "col_4": "(22.36)",
-            "col_5": "(16.55)",
-            "col_6": "98.36",
-            "col_7": "(38.64)",
-            "col_8": "(101.63)"
-          },
-          {
-            "col_1": "S",
-            "col_2": "ee accompanying note to the Financial Results",
-            "Consolidated": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": ""
-          }
-        ]
-      },
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 55,
-        "rows": [
-          {
-            "( 't in Crores )": "",
-            "col_2": "",
-            "col_3": "CONSOLIDATED"
-          },
-          {
-            "( 't in Crores )": "Particulars",
-            "col_2": "As at 30th As at 31st March September 2026 2026",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "",
-            "col_2": "(Unaudited)",
-            "col_3": "(Audited)"
-          },
-          {
-            "( 't in Crores )": "ASSETS",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "Non Current Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "(a) Property, Plant & Equipment",
-            "col_2": "2.11",
-            "col_3": "1.82"
-          },
-          {
-            "( 't in Crores )": "(b) Righ t of use assets",
-            "col_2": "0.43",
-            "col_3": "0.85"
-          },
-          {
-            "( 't in Crores )": "(c) Investment Property",
-            "col_2": "1.47",
-            "col_3": "1.49"
-          },
-          {
-            "( 't in Crores )": "(d) Goodwill on Consolidation",
-            "col_2": "-",
-            "col_3": "-"
-          },
-          {
-            "( 't in Crores )": "(e)Other Intangible Assets",
-            "col_2": "0.00",
-            "col_3": "3.45"
-          },
-          {
-            "( 't in Crores )": "(f) Investments accounted for using the equity method",
-            "col_2": "",
-            "col_3": "-"
-          },
-          {
-            "( 't in Crores )": "(g) Financial Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "(i) Investments",
-            "col_2": "0.05",
-            "col_3": "0.05"
-          },
-          {
-            "( 't in Crores )": "(ii) Other Financial Assets",
-            "col_2": "49.89",
-            "col_3": "50.67"
-          },
-          {
-            "( 't in Crores )": "(h) Other Non-Current Assets",
-            "col_2": "5.28",
-            "col_3": "5.58"
-          },
-          {
-            "( 't in Crores )": "Total Non Current Assets",
-            "col_2": "59.23",
-            "col_3": "63.91"
-          },
-          {
-            "( 't in Crores )": "Current Assets",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "(a) Inventories",
-            "col_2": "0.01",
-            "col_3": "0.01"
-          },
-          {
-            "( 't in Crores )": "(b) Financial Assets",
-            "col_2": "-",
-            "col_3": "-"
-          },
-          {
-            "( 't in Crores )": "(i) Trade Receivables",
-            "col_2": "154.45",
-            "col_3": "158.46"
-          },
-          {
-            "( 't in Crores )": "(ii) Cash & Cash Equivalents",
-            "col_2": "26.60",
-            "col_3": "24.28"
-          },
-          {
-            "( 't in Crores )": "(iii) Bank Balances other than (ii) above",
-            "col_2": "6.87",
-            "col_3": "6.83"
-          },
-          {
-            "( 't in Crores )": "(iv) Loans",
-            "col_2": "180.76",
-            "col_3": "35.30"
-          },
-          {
-            "( 't in Crores )": "(v) Other Financial Assets",
-            "col_2": "9.06",
-            "col_3": "8.04"
-          },
-          {
-            "( 't in Crores )": "(c) Other Current Assets",
-            "col_2": "2.38",
-            "col_3": "3.25"
-          },
-          {
-            "( 't in Crores )": "Total Current Assets",
-            "col_2": "380.13",
-            "col_3": "236.17"
-          },
-          {
-            "( 't in Crores )": "Total Assets",
-            "col_2": "439.36.",
-            "col_3": "300.08"
-          },
-          {
-            "( 't in Crores )": "EQUiTY AND LIABILITIES",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "Equity",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "(a) Equity Share Capital",
-            "col_2": "22.53",
-            "col_3": "22.53"
-          },
-          {
-            "( 't in Crores )": "(b) Instruments entirely equity in nature",
-            "col_2": "23.25",
-            "col_3": "25.00"
-          },
-          {
-            "( 't in Crores )": "(c) Other Equity",
-            "col_2": "(688.83)",
-            "col_3": "(935.29)"
-          },
-          {
-            "( 't in Crores )": "Equity Attributable to Shareholders of the Company",
-            "col_2": "(643.05)",
-            "col_3": "(887.76)"
-          },
-          {
-            "( 't in Crores )": "Non-Controlling Interest",
-            "col_2": "(812.76)",
-            "col_3": "(783.14)"
-          },
-          {
-            "( 't in Crores )": "Total Equity",
-            "col_2": "(1,455.81)",
-            "col_3": "(1,670.90)"
-          },
-          {
-            "( 't in Crores )": "Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "Non Current Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "a) Financial Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "(i) Borrowings",
-            "col_2": "1.75",
-            "col_3": "-"
-          },
-          {
-            "( 't in Crores )": "(ii) Other Financial Liabilities",
-            "col_2": "7.43",
-            "col_3": "7.08"
-          },
-          {
-            "( 't in Crores )": "b) Provisions",
-            "col_2": "0.06",
-            "col_3": "0.07"
-          },
-          {
-            "( 't in Crores )": "c) Deffered Tax Liabilities (Net)",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "d) Other Non-Current Liabilities",
-            "col_2": "31.86",
-            "col_3": "31.76"
-          },
-          {
-            "( 't in Crores )": "otal Non Current Liabilities",
-            "col_2": "41.10",
-            "col_3": "38.91"
-          },
-          {
-            "( 't in Crores )": "urrent Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "a) Financial Liabilities",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "(i) Borrowings",
-            "col_2": "433.70",
-            "col_3": "536.75"
-          },
-          {
-            "( 't in Crores )": "(ii) Trade Payables",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "( 't in Crores )": "-Total outstanding dues of micro enterprises and small enterprises; and",
-            "col_2": "0.10",
-            "col_3": "0.06"
-          },
-          {
-            "( 't in Crores )": "Total outstanding dues of creditors othere than micro enterprises and small nterprises",
-            "col_2": "17.47",
-            "col_3": "20.40"
-          },
-          {
-            "( 't in Crores )": "(iii) Other Financial Liabilities",
-            "col_2": "1,401.54",
-            "col_3": "1,373.58"
-          },
-          {
-            "( 't in Crores )": "b) Other Current Liabilities",
-            "col_2": "0.76",
-            "col_3": "0.78"
-          },
-          {
-            "( 't in Crores )": ") Provisions",
-            "col_2": "0.50",
-            "col_3": "0.50"
-          },
-          {
-            "( 't in Crores )": "otal Current Liabilities",
-            "col_2": "1,854.07",
-            "col_3": "1,932.07"
-          },
-          {
-            "( 't in Crores )": "otal Equity & Liabilities",
-            "col_2": "439.36",
-            "col_3": "300.08"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Gain on account of loss of control in two subsidiaries and one step-down subsidiary as explained in note 3 a) iii.",
-            "Gain / (loss) Rs. in Crore": "320.02"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Reversal of Minority interest on derecognition of VBSTL",
-            "Gain / (loss) Rs. in Crore": "(0.26)"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Adjustment in \"Other Equity\" on account of derecognition of Subsidiary, Step-down subsidiary including erstwhile step-down subsidiary",
-            "Gain / (loss) Rs. in Crore": "3.72"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "Total",
-            "Gain / (loss) Rs. in Crore": "323.48"
-          }
-        ]
-      }
-    ]
   }
 ]
