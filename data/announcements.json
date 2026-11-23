@@ -1,5 +1,770 @@
 [
   {
+    "NEWSID": "e2b40614-15f7-409f-b0f9-6e2baa7c37ab",
+    "SCRIP_CD": 544853,
+    "XML_NAME": "ANN_544853_E2B40614-15F7-409F-B0F9-6E2BAA7C37AB",
+    "NEWSSUB": "Juniper Green Energy Ltd - 544853 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-23T21:54:07.607",
+    "NEWS_DT": "2026-11-23T21:54:07.607",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5257a271-659d-4db4-8fd9-5a3f5c230420.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation under Regulation 30 of SEBI (LODR) - Update on Credit Rating",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/juniper-green-energy-ltd/jnpr/544853/",
+    "SLONGNAME": "Juniper Green Energy Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T21:54:07",
+    "DissemDT": "2026-11-23T21:54:07.607",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 458297,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "As on/for the period ended March 31": "Revenue from Operations",
+            "col_2": "Rs crore",
+            "2026": "719",
+            "2025": "509"
+          },
+          {
+            "As on/for the period ended March 31": "Profit after tax (PAT)",
+            "col_2": "Rs crore",
+            "2026": "40",
+            "2025": "36"
+          },
+          {
+            "As on/for the period ended March 31": "PAT margin",
+            "col_2": "%",
+            "2026": "5.6",
+            "2025": "7.1"
+          },
+          {
+            "As on/for the period ended March 31": "Adjusted debt/adjusted net-worth",
+            "col_2": "Times",
+            "2026": "3.8",
+            "2025": "1.6"
+          },
+          {
+            "As on/for the period ended March 31": "Adjusted Interest coverage",
+            "col_2": "Times",
+            "2026": "1.8",
+            "2025": "1.9"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 3,
+        "row_count": 18,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed bonds/debentures/preference share (all securities)",
+            "Regulator of the instruments": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instruments": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI)*$",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI)*",
+            "Regulator of the instruments": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI)*",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/FIs ^",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFC's, HFCs, Fis",
+            "Regulator of the instruments": "RBI"
+          },
+          {
+            "Sr. No.": "11b",
+            "Instrument / activity Name": "Fixed Deposits raised by Banks",
+            "Regulator of the instruments": "+"
+          },
+          {
+            "Sr. No.": "12",
+            "Instrument / activity Name": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "Regulator of the instruments": "MCA"
+          },
+          {
+            "Sr. No.": "13",
+            "Instrument / activity Name": "Inter Corporate Deposits/Loans extended by Corporates",
+            "Regulator of the instruments": "MCA"
+          },
+          {
+            "Sr. No.": "14",
+            "Instrument / activity Name": "Borrowing programme ~",
+            "Regulator of the instruments": "-"
+          },
+          {
+            "Sr. No.": "15",
+            "Instrument / activity Name": "Issuer Ratings #",
+            "Regulator of the instruments": "-"
+          },
+          {
+            "Sr. No.": "16",
+            "Instrument / activity Name": "Credit Ratings for Capital Protection Oriented Schemes (by Mutual Funds and AIFs)",
+            "Regulator of the instruments": "SEBI"
+          },
+          {
+            "Sr. No.": "",
+            "Instrument / activity Name": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
+            "Regulator of the instruments": ""
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "18": "19",
+            "Listed Security Receipts$": "Unlisted Security Receipts",
+            "RBI": "RBI"
+          },
+          {
+            "18": "20",
+            "Listed Security Receipts$": "Independent Credit Evaluation (ICE)",
+            "RBI": "RBI"
+          },
+          {
+            "18": "21",
+            "Listed Security Receipts$": "Expected Loss Ratings (for Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/Fis)",
+            "RBI": "+"
+          },
+          {
+            "18": "22",
+            "Listed Security Receipts$": "Expected Loss Ratings (Listed/Proposed to be listed bonds/debentures/preference share (all securities))",
+            "RBI": "SEBI"
+          },
+          {
+            "18": "23",
+            "Listed Security Receipts$": "Expected Loss Ratings (Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities))",
+            "RBI": "MCA"
+          },
+          {
+            "18": "24",
+            "Listed Security Receipts$": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) *",
+            "RBI": "Investor-side regulator such as IRDAI, PFRDA @"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "ff26d33c-dae7-43b7-86cb-a1f86e5c8251",
+    "SCRIP_CD": 543234,
+    "XML_NAME": "ANN_543234_FF26D33C-DAE7-43B7-86CB-A1F86E5C8251",
+    "NEWSSUB": "SecMark Consultancy Ltd - 543234 - Announcement under Regulation 30 (LODR)-Updates on Acquisition",
+    "DT_TM": "2026-11-23T21:53:19.843",
+    "NEWS_DT": "2026-11-23T21:53:19.843",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "51c4cb07-541a-4899-8546-122535b2328e.pdf",
+    "MORE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, in continuation of the communication dated November 05, 2026, wherein the Company had informed that the Board of Directors approved the incorporation of the Wholly Owned Subsidiary of the Company. We wish to inform you that the Wholly Owned Subsidiary has been incorporated under the name SecMark Mineral Exchange Private Limited as the Wholly Owned Subsidiary of SecMark Consultancy Limited.",
+    "HEADLINE": "Pursuant to Regulation 30 of SEBI (LODR) Regulations, 2015, in continuation of the communication dated November 05, 2026, wherein the Company had informed that the Board of Directors approved ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/secmark-consultancy-ltd/secmark/543234/",
+    "SLONGNAME": "SecMark Consultancy Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T21:53:19",
+    "DissemDT": "2026-11-23T21:53:19.843",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 515701,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Incorporation date & ownership:** On 23 Nov 2026, SecMark Consultancy Ltd created a wholly‑owned subsidiary in India named **SecMark Mineral Exchange Private Limited**, with the listed company holding **100 % of the shares**.  \n\n- **Initial paid‑up capital:** The subsidiary’s capital consists of **10,000 equity shares at ₹10 each**, amounting to a total subscription of **₹1,00,000 (₹1 lakh)**.",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2c31e5c2-d2f0-4890-b034-998178adbd63",
+    "SCRIP_CD": 531213,
+    "XML_NAME": "ANN_531213_2C31E5C2-D2F0-4890-B034-998178ADBD63",
+    "NEWSSUB": "Manappuram Finance Ltd - 531213 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-23T21:46:03.96",
+    "NEWS_DT": "2026-11-23T21:46:03.96",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e5bc5ab9-553e-4fb1-a28e-f009995b1225.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/manappuram-finance-ltd/manappuram/531213/",
+    "SLONGNAME": "Manappuram Finance Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T21:46:03",
+    "DissemDT": "2026-11-23T21:46:03.96",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 188970,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "2c31e5c2-d2f0-4890-b034-998178adbd63",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14968484,
+    "DataInsDate": "2026-11-23T21:46:03.927",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Manappuram Finance Ltd will hold an in‑person, one‑to‑one investors’ meeting on **Thursday, 26 November 2026 at 09:00 IST**, with a list of 20 institutional investors (e.g., ASK Investment Managers, Four Lion Capital, IndusInd Nippon Life Insurance, etc.). The agenda will be limited to publicly available information; no unpublished price‑sensitive data will be shared.\n\n- The company has already filed its **Investor Presentation for the quarter ended 30 September 2026** (reference SEC/SE/165/2026‑27, dated 12 Nov 2026) on its website. **No specific financial figures or decisions are disclosed in this announcement.**",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "0c95365e-f093-4d3f-ae55-dbe6013269f5",
+    "SCRIP_CD": 545015,
+    "XML_NAME": "ANN_545015_0C95365E-F093-4D3F-AE55-DBE6013269F5",
+    "NEWSSUB": "Carver Roboweld Ltd - 545015 - Revised Financial Results For The Half Year Ended September 30, 2026.",
+    "DT_TM": "2026-11-23T21:37:45.727",
+    "NEWS_DT": "2026-11-23T21:37:45.727",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c225c758-e981-458f-a8e2-533225e09d5b.pdf",
+    "MORE": "",
+    "HEADLINE": "We have attached herewith revised Unaudited Standalone and Consolidated Financial Results for the Half Year ended September 30, 2026.\r\n\r\nKindly take the same on your record.\r\n\r\nThank you.",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/carver-roboweld-ltd/crl/545015/",
+    "SLONGNAME": "Carver Roboweld Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T21:37:45",
+    "DissemDT": "2026-11-23T21:37:45.727",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 10042243,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "total_debt": "17852.14"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "213b3410-741f-4b7b-b00d-94a5e865041f",
+    "SCRIP_CD": 544091,
+    "XML_NAME": "ANN_544091_213B3410-741F-4B7B-B00D-94A5E865041F",
+    "NEWSSUB": "Qualitek Labs Ltd - 544091 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-23T21:36:50.737",
+    "NEWS_DT": "2026-11-23T21:36:50.737",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1329332a-e9e6-442e-9a64-00e4a6164bd4.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation H1 FY 2027",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/qualitek-labs-ltd/qll/544091/",
+    "SLONGNAME": "Qualitek Labs Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T21:36:50",
+    "DissemDT": "2026-11-23T21:36:50.737",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 11696725,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "net_profit": "22",
+      "operating_profit": "72.3 cr",
+      "total_assets": "157.92",
+      "total_equity": "92.78",
+      "total_debt": "30.86",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 12,
+        "table_index": 0,
+        "row_count": 17,
+        "rows": [
+          {
+            "col_1": "Particulars (INR Crore)",
+            "col_2": "H1-27",
+            "col_3": "H1-26",
+            "YoY": "Y",
+            "col_5": "",
+            "H2-26": "",
+            "HoH": ""
+          },
+          {
+            "col_1": "Revenue from operations",
+            "col_2": "72.3",
+            "col_3": "54.2",
+            "YoY": "3",
+            "col_5": "3%",
+            "H2-26": "70.3",
+            "HoH": "3%"
+          },
+          {
+            "col_1": "Direct Expenses",
+            "col_2": "8.3",
+            "col_3": "8",
+            "YoY": "",
+            "col_5": "4%",
+            "H2-26": "8.6",
+            "HoH": "-3%"
+          },
+          {
+            "col_1": "Gross Profit",
+            "col_2": "64",
+            "col_3": "46.2",
+            "YoY": "3",
+            "col_5": "8%",
+            "H2-26": "61.7",
+            "HoH": "4%"
+          },
+          {
+            "col_1": "Gross Margin",
+            "col_2": "88%",
+            "col_3": "85%",
+            "YoY": "",
+            "col_5": "–",
+            "H2-26": "88%",
+            "HoH": "–"
+          },
+          {
+            "col_1": "Employee benefit expenses",
+            "col_2": "27.2",
+            "col_3": "20.2",
+            "YoY": "3",
+            "col_5": "4%",
+            "H2-26": "24.5",
+            "HoH": "11%"
+          },
+          {
+            "col_1": "Other expenses",
+            "col_2": "21.2",
+            "col_3": "14.8",
+            "YoY": "4",
+            "col_5": "3%",
+            "H2-26": "19.1",
+            "HoH": "11%"
+          },
+          {
+            "col_1": "EBITDA",
+            "col_2": "15.6",
+            "col_3": "11.2",
+            "YoY": "3",
+            "col_5": "9%",
+            "H2-26": "18.1",
+            "HoH": "-14%"
+          },
+          {
+            "col_1": "EBITDA Margin",
+            "col_2": "22%",
+            "col_3": "21%",
+            "YoY": "",
+            "col_5": "–",
+            "H2-26": "26%",
+            "HoH": "–"
+          },
+          {
+            "col_1": "Depreciation and amortization",
+            "col_2": "4",
+            "col_3": "3",
+            "YoY": "3",
+            "col_5": "5%",
+            "H2-26": "3.7",
+            "HoH": "6%"
+          },
+          {
+            "col_1": "EBIT",
+            "col_2": "11.6",
+            "col_3": "8.3",
+            "YoY": "4",
+            "col_5": "1%",
+            "H2-26": "14.3",
+            "HoH": "-19%"
+          },
+          {
+            "col_1": "Finance cost",
+            "col_2": "3.9",
+            "col_3": "1.9",
+            "YoY": "10",
+            "col_5": "2%",
+            "H2-26": "2.9",
+            "HoH": "34%"
+          },
+          {
+            "col_1": "Other income",
+            "col_2": "0.8",
+            "col_3": "0.1",
+            "YoY": "91",
+            "col_5": "3%",
+            "H2-26": "0.4",
+            "HoH": "84%"
+          },
+          {
+            "col_1": "Profit before tax",
+            "col_2": "8.6",
+            "col_3": "6.4",
+            "YoY": "3",
+            "col_5": "3%",
+            "H2-26": "11.9",
+            "HoH": "-28%"
+          },
+          {
+            "col_1": "Tax expense",
+            "col_2": "2",
+            "col_3": "1.7",
+            "YoY": "1",
+            "col_5": "7%",
+            "H2-26": "2.1",
+            "HoH": "-5%"
+          },
+          {
+            "col_1": "Profit after tax",
+            "col_2": "6.6",
+            "col_3": "4.8",
+            "YoY": "3",
+            "col_5": "9%",
+            "H2-26": "9.8",
+            "HoH": "-33%"
+          },
+          {
+            "col_1": "PAT Margin",
+            "col_2": "9.10%",
+            "col_3": "8.80%",
+            "YoY": "",
+            "col_5": "–",
+            "H2-26": "14.00%",
+            "HoH": "–"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "Non-current assets",
+            "Mar 2025": "",
+            "Mar 2026": "",
+            "col_4": "",
+            "Sep 26": ""
+          },
+          {
+            "Particulars": "PPE & intangible assets",
+            "Mar 2025": "74.95",
+            "Mar 2026": "119.47",
+            "col_4": "",
+            "Sep 26": "151.28"
+          },
+          {
+            "Particulars": "Goodwill",
+            "Mar 2025": "33.04",
+            "Mar 2026": "78.12",
+            "col_4": "",
+            "Sep 26": "78.12"
+          },
+          {
+            "Particulars": "Other non-current assets",
+            "Mar 2025": "7.32",
+            "Mar 2026": "14.6",
+            "col_4": "",
+            "Sep 26": "16.38"
+          },
+          {
+            "Particulars": "Total non-current assets",
+            "Mar 2025": "115.31",
+            "Mar 2026": "212.19",
+            "col_4": "",
+            "Sep 26": "245.78"
+          },
+          {
+            "Particulars": "Current assets",
+            "Mar 2025": "",
+            "Mar 2026": "",
+            "col_4": "",
+            "Sep 26": ""
+          },
+          {
+            "Particulars": "Inventories",
+            "Mar 2025": "2.65",
+            "Mar 2026": "3.18",
+            "col_4": "",
+            "Sep 26": "4.39"
+          },
+          {
+            "Particulars": "Trade receivables",
+            "Mar 2025": "28.86",
+            "Mar 2026": "42.14",
+            "col_4": "",
+            "Sep 26": "49.72"
+          },
+          {
+            "Particulars": "Cash and bank balances",
+            "Mar 2025": "5.17",
+            "Mar 2026": "6.05",
+            "col_4": "",
+            "Sep 26": "2.35"
+          },
+          {
+            "Particulars": "Other current assets",
+            "Mar 2025": "5.93",
+            "Mar 2026": "7.38",
+            "col_4": "",
+            "Sep 26": "9.31"
+          },
+          {
+            "Particulars": "Total current assets",
+            "Mar 2025": "42.61",
+            "Mar 2026": "58.75",
+            "col_4": "",
+            "Sep 26": "65.77"
+          },
+          {
+            "Particulars": "Total assets",
+            "Mar 2025": "157.92",
+            "Mar 2026": "270.94",
+            "col_4": "",
+            "Sep 26": "311.55"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Particulars": "Equity",
+            "Mar 2025": "",
+            "Mar 2026": "",
+            "Sep 26": ""
+          },
+          {
+            "Particulars": "Equity share capital",
+            "Mar 2025": "9.98",
+            "Mar 2026": "11.65",
+            "Sep 26": "11.65"
+          },
+          {
+            "Particulars": "Reserves & surplus",
+            "Mar 2025": "76.83",
+            "Mar 2026": "140.77",
+            "Sep 26": "147.37"
+          },
+          {
+            "Particulars": "Minority Interest",
+            "Mar 2025": "5.97",
+            "Mar 2026": "0",
+            "Sep 26": "0"
+          },
+          {
+            "Particulars": "Total equity",
+            "Mar 2025": "92.78",
+            "Mar 2026": "152.42",
+            "Sep 26": "159.02"
+          },
+          {
+            "Particulars": "Non-current liabilities",
+            "Mar 2025": "",
+            "Mar 2026": "",
+            "Sep 26": ""
+          },
+          {
+            "Particulars": "Long term borrowings",
+            "Mar 2025": "30.86",
+            "Mar 2026": "60.12",
+            "Sep 26": "66.13"
+          },
+          {
+            "Particulars": "Deferred tax liabilities",
+            "Mar 2025": "0.74",
+            "Mar 2026": "0.6",
+            "Sep 26": "0.69"
+          },
+          {
+            "Particulars": "Long term provisions",
+            "Mar 2025": "0.96",
+            "Mar 2026": "1.55",
+            "Sep 26": "1.65"
+          },
+          {
+            "Particulars": "Total non-current liabilities",
+            "Mar 2025": "32.56",
+            "Mar 2026": "62.27",
+            "Sep 26": "68.47"
+          },
+          {
+            "Particulars": "Current liabilities",
+            "Mar 2025": "",
+            "Mar 2026": "",
+            "Sep 26": ""
+          },
+          {
+            "Particulars": "Short term borrowings",
+            "Mar 2025": "19.12",
+            "Mar 2026": "32.86",
+            "Sep 26": "48.54"
+          },
+          {
+            "Particulars": "Trade payables",
+            "Mar 2025": "7.28",
+            "Mar 2026": "9.39",
+            "Sep 26": "11.2"
+          },
+          {
+            "Particulars": "Short term Provisions",
+            "Mar 2025": "0.59",
+            "Mar 2026": "0.92",
+            "Sep 26": "1.02"
+          },
+          {
+            "Particulars": "Other current liabilities",
+            "Mar 2025": "5.59",
+            "Mar 2026": "13.08",
+            "Sep 26": "23.3"
+          },
+          {
+            "Particulars": "Total current liabilities",
+            "Mar 2025": "32.58",
+            "Mar 2026": "56.25",
+            "Sep 26": "84.06"
+          },
+          {
+            "Particulars": "Total equity and liabilities",
+            "Mar 2025": "157.92",
+            "Mar 2026": "270.94",
+            "Sep 26": "311.55"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "d123046a-0556-4f4f-87e7-88629f296e28",
+    "SCRIP_CD": 500257,
+    "XML_NAME": "ANN_500257_D123046A-0556-4F4F-87E7-88629F296E28",
+    "NEWSSUB": "Lupin Ltd - 500257 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-23T21:34:03.787",
+    "NEWS_DT": "2026-11-23T21:34:03.787",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3bfcb3dc-6695-4c49-989f-a7aff4ccbab9.pdf",
+    "MORE": "",
+    "HEADLINE": "Lupin Receives Approval from U.S. FDA For Ferric Citrate Tablets.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/lupin-ltd/lupin/500257/",
+    "SLONGNAME": "Lupin Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T21:34:03",
+    "DissemDT": "2026-11-23T21:34:03.787",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1590672,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "a60872ca-a042-4f95-8ced-3db3a63a3f30",
     "SCRIP_CD": 538351,
     "XML_NAME": "ANN_538351_A60872CA-A042-4F95-8CED-3DB3A63A3F30",
@@ -23168,225 +23933,6 @@
       "eps": "6.26",
       "currency_unit": "₹ in Crores"
     },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "72eaadb7-edc2-467c-b293-3763504b0601",
-    "SCRIP_CD": 532648,
-    "XML_NAME": "ANN_532648_72EAADB7-EDC2-467C-B293-3763504B0601",
-    "NEWSSUB": "Yes Bank Ltd - 532648 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-23T18:35:04.16",
-    "NEWS_DT": "2026-11-23T18:35:04.16",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "926ebb2c-a67f-41d5-9b81-0595ff4f270c.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements Regulations, 2015 - Update regarding Senior Management Personnel",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/yes-bank-ltd/yesbank/532648/",
-    "SLONGNAME": "Yes Bank Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-23T18:35:04",
-    "DissemDT": "2026-11-23T18:35:04.16",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 243194,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6c78312e-c3c7-46d4-b067-a9d5690deb45",
-    "SCRIP_CD": 532548,
-    "XML_NAME": "ANN_532548_6C78312E-C3C7-46D4-B067-A9D5690DEB45",
-    "NEWSSUB": "Century Plyboards (India) Ltd-$ - 532548 - Announcement under Regulation 30 (LODR)-Credit Rating",
-    "DT_TM": "2026-11-23T18:29:25.023",
-    "NEWS_DT": "2026-11-23T18:29:25.023",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d78ec866-4817-4157-8345-3aea89d0a177.pdf",
-    "MORE": "",
-    "HEADLINE": "Credit Ratings received from ICRA Limited",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/century-plyboards-(india)-ltd/centuryply/532548/",
-    "SLONGNAME": "Century Plyboards (India) Ltd-$",
-    "AGENDA_ID": 46,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:29:25",
-    "DissemDT": "2026-11-23T18:29:25.023",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1116829,
-    "SUBCATNAME": "Credit Rating",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "net_profit": "186.1",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f6e743e4-dbe4-4a52-81a4-2de5c03a095e",
-    "SCRIP_CD": 544181,
-    "XML_NAME": "ANN_544181_F6E743E4-DBE4-4A52-81A4-2DE5C03A095E",
-    "NEWSSUB": "Awfis Space Solutions Ltd - 544181 - Intimation Of Postponement Of Analyst / Institutional Investor Meeting.",
-    "DT_TM": "2026-11-23T18:28:37.89",
-    "NEWS_DT": "2026-11-23T18:28:37.89",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6a9a3b8f-bd46-4dd4-a80f-eed596f3551a.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation is attached herewith.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/awfis-space-solutions-ltd/awfis/544181/",
-    "SLONGNAME": "Awfis Space Solutions Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:28:37",
-    "DissemDT": "2026-11-23T18:28:37.89",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 200798,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company’s “Capital Markets Day 2026” for analysts and institutional investors, originally scheduled for **30 November 2026**, has been **postponed**; a new date will be announced later.  \n- The notice cites SEBI Regulation 30 (Listing Obligations & Disclosure Requirements) and references the earlier intimation dated **17 November 2026**—no financial figures or decisions are disclosed in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "757f7838-bf3d-4618-aa0d-4ea227ee52f4",
-    "SCRIP_CD": 532749,
-    "XML_NAME": "ANN_532749_757F7838-BF3D-4618-AA0D-4EA227EE52F4",
-    "NEWSSUB": "Allcargo Logistics Ltd - 532749 -  Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
-    "DT_TM": "2026-11-23T18:27:51.34",
-    "NEWS_DT": "2026-11-23T18:27:51.34",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "23616a62-1d8d-463f-bffb-90751f02c617.pdf",
-    "MORE": "",
-    "HEADLINE": "Scrutinizer Report",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/allcargo-logistics-ltd/allcargo/532749/",
-    "SLONGNAME": "Allcargo Logistics Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:27:51",
-    "DissemDT": "2026-11-23T18:27:51.34",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3703181,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9d4837fc-0a3a-48de-bef2-7d13e4a76988",
-    "SCRIP_CD": 533023,
-    "XML_NAME": "ANN_533023_9D4837FC-0A3A-48DE-BEF2-7D13E4A76988",
-    "NEWSSUB": "ZF Commercial Vehicle Control Systems India Ltd - 533023 - Intimation Pursuant To Regulation 8(2) Of The SEBI (Prohibition Of Insider Trading) Regulations, 2015",
-    "DT_TM": "2026-11-23T18:27:28.333",
-    "NEWS_DT": "2026-11-23T18:27:28.333",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c0c6977f-543a-48ed-a5d1-ba9416e61174.pdf",
-    "MORE": "",
-    "HEADLINE": "Amendments to Code of Practices and Procedure for Fair Disclosure of Unpublished Price Sensitive Information",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/zf-commercial-vehicle-control-systems-india-ltd/zfcvindia/533023/",
-    "SLONGNAME": "ZF Commercial Vehicle Control Systems India Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:27:28",
-    "DissemDT": "2026-11-23T18:27:28.333",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 387329,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1156c154-84d0-4ed3-912d-988e53488f96",
-    "SCRIP_CD": 540952,
-    "XML_NAME": "ANN_540952_1156C154-84D0-4ED3-912D-988E53488F96",
-    "NEWSSUB": "Lorenzini Apparels Ltd - 540952 - Announcement under Regulation 30 (LODR)-Change of Company Name",
-    "DT_TM": "2026-11-23T18:27:08.107",
-    "NEWS_DT": "2026-11-23T18:27:08.107",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a90cd43b-5f53-4912-8ac0-5a7cafa0b4c4.pdf",
-    "MORE": "",
-    "HEADLINE": "Receipt of final order of BSE for Change of Name",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lorenzini-apparels-ltd/lal/540952/",
-    "SLONGNAME": "Lorenzini Apparels Ltd",
-    "AGENDA_ID": 47,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:27:08",
-    "DissemDT": "2026-11-23T18:27:08.107",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 694035,
-    "SUBCATNAME": "Change of Name",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
     "financial_tables": []
   }
 ]
