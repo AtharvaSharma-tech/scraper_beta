@@ -1,5 +1,5685 @@
 [
   {
+    "NEWSID": "05e08e9b-94fa-4ad5-8ec9-1a76c1de9fe0",
+    "SCRIP_CD": 526225,
+    "XML_NAME": "ANN_526225_05E08E9B-94FA-4AD5-8EC9-1A76C1DE9FE0",
+    "NEWSSUB": "Bloom Dekor Ltd-$ - 526225 - Reg. 34 (1) Annual Report.",
+    "DT_TM": "2026-11-23T20:36:18.82",
+    "NEWS_DT": "2026-11-23T20:36:18.82",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "821fa9c5-5936-46fc-83af-01246f3a058f.pdf",
+    "MORE": "",
+    "HEADLINE": "Submission of Annual Report for the FY 2025-26",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bloom-dekor-ltd/bloom/526225/",
+    "SLONGNAME": "Bloom Dekor Ltd-$",
+    "AGENDA_ID": 176,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T20:36:18",
+    "DissemDT": "2026-11-23T20:36:18.82",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 7717952,
+    "SUBCATNAME": "Reg. 34 (1) Annual Report",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "515.77",
+      "total_assets": "1596.48",
+      "total_equity": "1596.48",
+      "total_debt": "13",
+      "dividend": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 43,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Name of Director": "",
+            "Category Cum Designation": "",
+            "Date of Appointmen t at current Term": "",
+            "Total Directorship ~": "",
+            "No. of Committee^ in which in which Director is Director is Chairperso Member n": "in which Director is Member",
+            "col_6": "in which Director is Chairperso n",
+            "No. of Shares held as on March 31, 2026": ""
+          },
+          {
+            "Name of Director": "Dr. Sunil Gupta",
+            "Category Cum Designation": "Managing Director (Promoter)",
+            "Date of Appointmen t at current Term": "August 10, 2018",
+            "Total Directorship ~": "1",
+            "No. of Committee^ in which in which Director is Director is Chairperso Member n": "2",
+            "col_6": "-",
+            "No. of Shares held as on March 31, 2026": "2189480 Equity Shares"
+          },
+          {
+            "Name of Director": "Mrs. Rupal Gupta",
+            "Category Cum Designation": "Non-Executive Director (Promoter)",
+            "Date of Appointmen t at current Term": "June 30, 2020",
+            "Total Directorship ~": "1",
+            "No. of Committee^ in which in which Director is Director is Chairperso Member n": "2",
+            "col_6": "2",
+            "No. of Shares held as on March 31, 2026": "542959 Equity Shares"
+          },
+          {
+            "Name of Director": "Mrs. Falguni Rajanbhai Shah",
+            "Category Cum Designation": "Additional Executive Director (Non- Promoter)",
+            "Date of Appointmen t at current Term": "March 21, 2026",
+            "Total Directorship ~": "1",
+            "No. of Committee^ in which in which Director is Director is Chairperso Member n": "-",
+            "col_6": "-",
+            "No. of Shares held as on March 31, 2026": "-"
+          }
+        ]
+      },
+      {
+        "page": 77,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Name of the statue": "Income tax act 1961",
+            "Nature of Dues": "Income tax",
+            "Financial year to which it relates": "2016-17",
+            "Forum where the dispute is pending": "Commissioner of Income Tax (Appeals)",
+            "Amount in lakhs": "NIL (*)"
+          },
+          {
+            "Sr. No": "2",
+            "Name of the statue": "Income Tax act 1961",
+            "Nature of Dues": "Income Tax",
+            "Financial year to which it relates": "2017-18",
+            "Forum where the dispute is pending": "Commissioner of Income Tax (Appeals)",
+            "Amount in lakhs": "9.40"
+          },
+          {
+            "Sr. No": "3",
+            "Name of the statue": "Central Excise",
+            "Nature of Dues": "Excise Duty",
+            "Financial year to which it relates": "2009-10 to 2012-13",
+            "Forum where the dispute is pending": "ASSISTANT COMMISSIONER CGST",
+            "Amount in lakhs": "46.38"
+          },
+          {
+            "Sr. No": "4",
+            "Name of the statue": "Central Excise",
+            "Nature of Dues": "Excise Duty",
+            "Financial year to which it relates": "F.Y.2016-17",
+            "Forum where the dispute is pending": "ASSISTANT COMMISSIONER CGST",
+            "Amount in lakhs": "36.36"
+          }
+        ]
+      },
+      {
+        "page": 82,
+        "table_index": 0,
+        "row_count": 62,
+        "rows": [
+          {
+            "Particulars": "ASSETS",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Non-Current Assets",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Property, Plant and Equipment",
+            "Note No.": "2",
+            "As at March 31, 2026": "152.24",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "181.19"
+          },
+          {
+            "Particulars": "Capital work-in-progress",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Investment Property",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Goodwill",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Other Intangible Assets",
+            "Note No.": "2",
+            "As at March 31, 2026": "0.44",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "0.44"
+          },
+          {
+            "Particulars": "Intangible assets under development",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Biological Assets other than bearer plants",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Right-of-Use Asset",
+            "Note No.": "2",
+            "As at March 31, 2026": "9.10",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "18.29"
+          },
+          {
+            "Particulars": "Financial Assets",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "(i) Investments",
+            "Note No.": "3",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "(ii) Trade Receivables",
+            "Note No.": "3A",
+            "As at March 31, 2026": "389.60",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "381.90"
+          },
+          {
+            "Particulars": "(iii) Other Financial Assets",
+            "Note No.": "4",
+            "As at March 31, 2026": "1.64",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "1.71"
+          },
+          {
+            "Particulars": "Deferred Tax Assets (Net)",
+            "Note No.": "16",
+            "As at March 31, 2026": "606.27",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "576.41"
+          },
+          {
+            "Particulars": "Other Non-Current Assets",
+            "Note No.": "5",
+            "As at March 31, 2026": "63.27",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "59.59"
+          },
+          {
+            "Particulars": "Total Non- Current Assets",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "1,222.57",
+            "col_5": "",
+            "As at March 31, 2025": "1,219.53"
+          },
+          {
+            "Particulars": "Current Assets",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Inventories",
+            "Note No.": "6",
+            "As at March 31, 2026": "179.42",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "235.38"
+          },
+          {
+            "Particulars": "Financial Assets",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "(i) Investments",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "(ii) Trade Receivables",
+            "Note No.": "7",
+            "As at March 31, 2026": "90.81",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "19.68"
+          },
+          {
+            "Particulars": "(iii) Cash and Cash Equivalents",
+            "Note No.": "8",
+            "As at March 31, 2026": "88.47",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "151.16"
+          },
+          {
+            "Particulars": "(iv) Bank balances other than(iii) above",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "(v) Loans",
+            "Note No.": "9",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "0.12"
+          },
+          {
+            "Particulars": "(vi) Others (to be specified)",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Current Tax Assets (Net)",
+            "Note No.": "9a",
+            "As at March 31, 2026": "4.80",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Other Current Assets",
+            "Note No.": "10",
+            "As at March 31, 2026": "10.42",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "10.99"
+          },
+          {
+            "Particulars": "Non-Current Assets Held for Sale",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Total Current Assets",
+            "Note No.": "",
+            "As at March 31, 2026": "373.91",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "417.34"
+          },
+          {
+            "Particulars": "TOTAL ASSETS",
+            "Note No.": "",
+            "As at March 31, 2026": "1,596.48",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "1,636.87"
+          },
+          {
+            "Particulars": "EQUITY AND LIABILITIES",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "EQUITY",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "(a) Equity Share Capital",
+            "Note No.": "11",
+            "As at March 31, 2026": "685.00",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "685.00"
+          },
+          {
+            "Particulars": "(b) Other Equity",
+            "Note No.": "12",
+            "As at March 31, 2026": "(1,429.73)",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "(1,342.56)"
+          },
+          {
+            "Particulars": "Total Equity",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "(744.73)",
+            "col_5": "",
+            "As at March 31, 2025": "(657.56)"
+          },
+          {
+            "Particulars": "LIABILITIES",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Non-Current Liabilities",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Financial Liabilities",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "(i) Borrowings",
+            "Note No.": "13",
+            "As at March 31, 2026": "1,213.78",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "1,213.78"
+          },
+          {
+            "Particulars": "(ii) Lease Liabilities",
+            "Note No.": "13a",
+            "As at March 31, 2026": "3.63",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "14.66"
+          },
+          {
+            "Particulars": "(iii) Trade payables",
+            "Note No.": "13b",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Total outstanding dues of micro enterprises and small enterprises",
+            "Note No.": "",
+            "As at March 31, 2026": "249.74",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "254.69"
+          },
+          {
+            "Particulars": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+            "Note No.": "",
+            "As at March 31, 2026": "429.15",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "422.41"
+          },
+          {
+            "Particulars": "(iii) Other financial liabilities",
+            "Note No.": "14",
+            "As at March 31, 2026": "1.84",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "1.84"
+          },
+          {
+            "Particulars": "Provisions",
+            "Note No.": "15",
+            "As at March 31, 2026": "23.80",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "20.55"
+          },
+          {
+            "Particulars": "Deferred tax liabilities (Net)",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Other non-current liabilities",
+            "Note No.": "16",
+            "As at March 31, 2026": "35.94",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "35.17"
+          },
+          {
+            "Particulars": "Total Non-current Liabilities",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "1,957.88",
+            "col_5": "",
+            "As at March 31, 2025": "1,963.09"
+          },
+          {
+            "Particulars": "Current Liabilities",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Financial Liabilities",
+            "Note No.": "",
+            "As at March 31, 2026": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "(i) Borrowings",
+            "Note No.": "17",
+            "As at March 31, 2026": "52.75",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "26.69"
+          },
+          {
+            "Particulars": "(ii) Lease Liabilities",
+            "Note No.": "13a",
+            "As at March 31, 2026": "9.69",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "9.00"
+          },
+          {
+            "Particulars": "(iii) Trade Payables",
+            "Note No.": "18",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Total outstanding dues of micro enterprises and small enterprises",
+            "Note No.": "",
+            "As at March 31, 2026": "79.02",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "43.97"
+          },
+          {
+            "Particulars": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+            "Note No.": "",
+            "As at March 31, 2026": "132.96",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "86.92"
+          },
+          {
+            "Particulars": "Other financial liabilities",
+            "Note No.": "18a",
+            "As at March 31, 2026": "75.00",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "135.00"
+          },
+          {
+            "Particulars": "Other Current Liabilities",
+            "Note No.": "19",
+            "As at March 31, 2026": "29.80",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "26.14"
+          },
+          {
+            "Particulars": "Provisions",
+            "Note No.": "20",
+            "As at March 31, 2026": "4.12",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "3.62"
+          },
+          {
+            "Particulars": "Current Tax Liabilities (Net)",
+            "Note No.": "",
+            "As at March 31, 2026": "-",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Total Current Liabilities",
+            "Note No.": "",
+            "As at March 31, 2026": "383.34",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "331.34"
+          },
+          {
+            "Particulars": "TOTAL EQUITY AND LIABILITIES",
+            "Note No.": "",
+            "As at March 31, 2026": "1,596.48",
+            "col_4": "",
+            "col_5": "",
+            "As at March 31, 2025": "1,636.87"
+          }
+        ]
+      },
+      {
+        "page": 83,
+        "table_index": 0,
+        "row_count": 31,
+        "rows": [
+          {
+            "Particulars": "",
+            "Note No.": "",
+            "col_3": "",
+            "For the year ended": "March 31, 2026",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Revenue from operations (gross)",
+            "Note No.": "21",
+            "col_3": "515.77",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "451.78",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Other incomes",
+            "Note No.": "21(a)",
+            "col_3": "7.01",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "4.36",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Total Revenue (1+2)",
+            "Note No.": "",
+            "col_3": "522.78",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "456.14",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Expenses",
+            "Note No.": "",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(a) Cost of materials consumed",
+            "Note No.": "22(a)",
+            "col_3": "201.40",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "172.80",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(b) Purchases of stock-in-trade",
+            "Note No.": "22(b)",
+            "col_3": "65.80",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "103.07",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(c) Changes in inventories of finished goods, work-in- progress and stock-in-trade",
+            "Note No.": "22(c)",
+            "col_3": "45.46",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(23.98)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(d) Employee benefits expenses",
+            "Note No.": "23",
+            "col_3": "132.92",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "121.99",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(e) Finance costs",
+            "Note No.": "24",
+            "col_3": "4.94",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "2.80",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(f) Depreciation and amortization expense",
+            "Note No.": "2",
+            "col_3": "38.31",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "41.40",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(g) Other expenses",
+            "Note No.": "25",
+            "col_3": "151.56",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "176.49",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Total expenses",
+            "Note No.": "",
+            "col_3": "640.38",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "594.58",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Profit / (Loss) before exceptional items and tax",
+            "Note No.": "",
+            "col_3": "(117.60)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(138.44)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Exceptional Items",
+            "Note No.": "",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Profit / (Loss) before tax",
+            "Note No.": "",
+            "col_3": "(117.60)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(138.44)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Tax expense:",
+            "Note No.": "",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(a) Short /(Excess) Provision of Earlier years",
+            "Note No.": "",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(b) Deferred Tax",
+            "Note No.": "",
+            "col_3": "(30.03)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(34.99)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Net Current Tax Expense",
+            "Note No.": "",
+            "col_3": "(30.03)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(34.99)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Profit / (Loss) for the year",
+            "Note No.": "",
+            "col_3": "(87.58)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(103.45)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Other Comprehensive Income",
+            "Note No.": "",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "A (i) Items that will not be reclassified to profit or loss",
+            "Note No.": "",
+            "col_3": "(0.54)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(0.12)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(ii) Income tax relating to items that will not be reclassified to profit or loss",
+            "Note No.": "",
+            "col_3": "0.13",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "0.03",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "B (i) Items that will be reclassified to profit or loss",
+            "Note No.": "",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(ii) Income tax relating to items that will be reclassified to profit or loss",
+            "Note No.": "",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Total Other Comprehensive Income (VIII)",
+            "Note No.": "",
+            "col_3": "(0.40)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(0.09)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Total Comprehensive Income for the period (VII + VIII) (Comprising Profit and Other Comprehensive Income for the period)",
+            "Note No.": "",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(103.36)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Earnings Per Share",
+            "Note No.": "",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(a) Basic",
+            "Note No.": "26",
+            "col_3": "(1.28)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(1.51)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(b) Diluted",
+            "Note No.": "26",
+            "col_3": "(1.28)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(1.51)",
+            "For the year ended_1": "",
+            "col_8": ""
+          }
+        ]
+      },
+      {
+        "page": 84,
+        "table_index": 0,
+        "row_count": 42,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "col_3": "",
+            "For the year ended": "March 31, 2026",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_8": ""
+          },
+          {
+            "Particulars": "A.",
+            "col_2": "CASH FLOW FROM OPERATING ACTIVITIES",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Net Profit as per P & L Account before Income Tax",
+            "col_3": "(117.60)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(138.44)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "ADD/(LESS): - Adjustment for:",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Depreciation",
+            "col_3": "38.31",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "41.40",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Finance Cost",
+            "col_3": "4.94",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "2.80",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Interest on Lease liability",
+            "col_3": "1.79",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "2.57",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Interest Income",
+            "col_3": "(7.01)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(4.36)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Operating Profit before changes in working capital",
+            "col_3": "(79.57)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(96.02)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "(Increase) / Decrease in Current Assets & Non-Current assets",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Inventories",
+            "col_3": "55.97",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(28.30)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Trade Receivables",
+            "col_3": "(78.83)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "81.31",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Other Financial assets",
+            "col_3": "(0.0)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(0.14)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Other non-current assets",
+            "col_3": "(3.68)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(1.78)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Current Tax Assets (Net)",
+            "col_3": "(4.80)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Other current assets",
+            "col_3": "0.57",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "2.36",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Operating Profit After changes in Current Assets & Non-current assets",
+            "col_3": "(110.35)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(42.57)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Increase /(Decrease) in Current Liabilities & Non-current liabilities",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Trade Payables (including other financial liabilities and OCL)",
+            "col_3": "84.79",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "57.49",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Provisions",
+            "col_3": "3.96",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "1.41",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Direct Taxes Paid (Net of Refunds)",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Other non-current liabilities",
+            "col_3": "0.77",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "2.96",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Other Financial liabilities",
+            "col_3": "(60.00)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(47.21)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Other current liabilities",
+            "col_3": "3.66",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "0.35",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "NET CASH FLOW FROM OPERATING ACTIVITIES",
+            "col_3": "(77.17)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(27.58)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "B.",
+            "col_2": "CASH FLOW FROM INVESTMENT ACTIVITIES",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Purchase of Property,Plant & Equipment",
+            "col_3": "(1.52)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(2.14)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Sales of Fixed Assets",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Changes in Investments",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "NET CASH FROM INVESTMENT ACTIVITIES",
+            "col_3": "",
+            "For the year ended": "(1.52)",
+            "col_5": "",
+            "col_6": "(2.14)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "C.",
+            "col_2": "CASH FLOW FROM FINANCING ACTIVITIES",
+            "col_3": "",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Changes in long term borrowings",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Changes in short term borrowings",
+            "col_3": "26.07",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(2.04)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Changes in Long term provisions",
+            "col_3": "-",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "-",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Changes in Lease Liability",
+            "col_3": "(10.35)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(7.32)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Interest Income",
+            "col_3": "7.01",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "4.36",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Interest on Lease liability",
+            "col_3": "(1.79)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(2.57)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Finance Cost",
+            "col_3": "(4.94)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(2.80)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "NET CASH FROM FINANCING ACTIVITIES",
+            "col_3": "16.00",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(10.37)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "NET CHANGE IN CASH AND CASH EQUIVALENTS [A+B+C]",
+            "col_3": "(62.69)",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "(40.08)",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Opening Cash & Cash Equivalents",
+            "col_3": "151.16",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "191.25",
+            "For the year ended_1": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "",
+            "col_2": "Closing Cash and Cash Equivalents",
+            "col_3": "88.47",
+            "For the year ended": "",
+            "col_5": "",
+            "col_6": "151.16",
+            "For the year ended_1": "",
+            "col_8": ""
+          }
+        ]
+      },
+      {
+        "page": 84,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Balances with banks",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(i) In current accounts",
+            "col_2": "18.61",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "11.09",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(ii) Debit Balance in Over Draft Account",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(iii) In Fixed Deposits Account",
+            "col_2": "69.56",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "139.37",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Cash on hand",
+            "col_2": "0.29",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.71",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "88.47",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "151.16",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 86,
+        "table_index": 1,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "Securities": "Premium",
+            "col_4": "",
+            "col_5": "",
+            "General": "Reserve",
+            "col_7": "",
+            "col_8": "",
+            "Capital": "Reserve",
+            "col_10": "",
+            "col_11": "",
+            "Retained": "Earnings",
+            "col_13": "",
+            "col_14": "",
+            "Equity Instrument": "through OCI",
+            "col_16": "",
+            "Total": "",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Balance at April 1, 2024",
+            "col_2": "246.17",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "66.79",
+            "General": "",
+            "col_7": "",
+            "col_8": "117.29",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "(1,600.44)",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "16.23",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "(1,239.20)",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Profit / (Loss) for the year",
+            "col_2": "-",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "-",
+            "General": "",
+            "col_7": "",
+            "col_8": "-",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "(103.45)",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "-",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "(103.45)",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Remeasurement of defined benefit plans (net of tax)",
+            "col_2": "-",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "-",
+            "General": "",
+            "col_7": "",
+            "col_8": "-",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "-",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "0.09",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "0.09",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Adjustments made during the year",
+            "col_2": "-",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "-",
+            "General": "",
+            "col_7": "",
+            "col_8": "-",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "-",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "-",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "",
+            "col_18": "-",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Balance at March 31, 2025",
+            "col_2": "246.17",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "66.79",
+            "General": "",
+            "col_7": "",
+            "col_8": "117.29",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "(1,789.12)",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "16.32",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "(1,342.56)",
+            "col_18": "",
+            "col_19": ""
+          }
+        ]
+      },
+      {
+        "page": 86,
+        "table_index": 2,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "Securities": "Premium",
+            "col_4": "",
+            "col_5": "",
+            "General": "Reserve",
+            "col_7": "",
+            "col_8": "",
+            "Capital": "Reserve",
+            "col_10": "",
+            "col_11": "",
+            "Retained": "Earnings",
+            "col_13": "",
+            "col_14": "",
+            "Equity Instrument": "through OCI",
+            "col_16": "",
+            "Total": "",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Balance at April 1, 2025",
+            "col_2": "246.17",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "66.79",
+            "General": "",
+            "col_7": "",
+            "col_8": "117.29",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "(1,789.12)",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "16.32",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "(1,342.56)",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Profit / (Loss) for the year",
+            "col_2": "-",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "-",
+            "General": "",
+            "col_7": "",
+            "col_8": "-",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "(87.58)",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "-",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "(87.58)",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Remeasurement of defined benefit plans (net of tax)",
+            "col_2": "-",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "-",
+            "General": "",
+            "col_7": "",
+            "col_8": "-",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "-",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "0.40",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "0.40",
+            "col_18": "",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Adjustments made during the year",
+            "col_2": "-",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "-",
+            "General": "",
+            "col_7": "",
+            "col_8": "-",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "-",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "-",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "",
+            "col_18": "-",
+            "col_19": ""
+          },
+          {
+            "Particulars": "Balance at March 31, 2026",
+            "col_2": "246.17",
+            "Securities": "",
+            "col_4": "",
+            "col_5": "66.79",
+            "General": "",
+            "col_7": "",
+            "col_8": "117.29",
+            "Capital": "",
+            "col_10": "",
+            "col_11": "(1,876.70)",
+            "Retained": "",
+            "col_13": "",
+            "col_14": "16.72",
+            "Equity Instrument": "",
+            "col_16": "",
+            "Total": "(1,429.73)",
+            "col_18": "",
+            "col_19": ""
+          }
+        ]
+      },
+      {
+        "page": 101,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "Trade receivables",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good",
+            "As at March 31, 2026": "429.20",
+            "As at March 31, 2025": "421.74"
+          },
+          {
+            "Particulars": "- Unsecured, considered doubtful",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "- Less: Provision for Expected Credit Loss",
+            "As at March 31, 2026": "(39.60)",
+            "As at March 31, 2025": "(39.84)"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "389.60",
+            "As at March 31, 2025": "381.90"
+          }
+        ]
+      },
+      {
+        "page": 101,
+        "table_index": 2,
+        "row_count": 19,
+        "rows": [
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "of payment",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "6",
+            "utstanding for following periods from due dat": "Less",
+            "col_5": "s",
+            "col_6": "O",
+            "col_7": "6",
+            "col_8": "- r",
+            "col_9": "1-2 Years",
+            "col_10": "2-3 Years",
+            "col_11": "",
+            "col_12": "More",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "Than",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "Months",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "Than",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "Month",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "ne Yea",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "3 Years",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "i. Undisputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivable Considered Good",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "7.56",
+            "col_10": "25.73",
+            "col_11": "395.91",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "429.20",
+            "col_16": ""
+          },
+          {
+            "Particulars": "ii. Undisputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables which have significant increase in credit risk",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "-",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "iii. Undisputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables Credit impaired",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "-",
+            "col_16": ""
+          },
+          {
+            "Particulars": "iv. Disputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables Considered Good",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "-",
+            "col_16": ""
+          },
+          {
+            "Particulars": "v. Disputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables which have significant increase in credit risk",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "-",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "vi. Disputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables Credit impaired",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "-",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "7.56",
+            "col_10": "25.73",
+            "col_11": "395.91",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "429.20",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Less: Allowance for doubtful Trade Receivable Billed",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "39.60",
+            "col_12": "",
+            "e": "",
+            "Total": "39.60",
+            "col_15": "39.60",
+            "col_16": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "7.56",
+            "col_10": "25.73",
+            "col_11": "356.31",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "389.60",
+            "col_16": ""
+          }
+        ]
+      },
+      {
+        "page": 102,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "of payment",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "6",
+            "utstanding for following periods from due dat": "Less",
+            "col_5": "s",
+            "col_6": "O",
+            "col_7": "6",
+            "col_8": "- r",
+            "col_9": "1-2 Years",
+            "col_10": "2-3 Years",
+            "col_11": "",
+            "col_12": "More",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "Than",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "Months",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "Than",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "Month",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "ne Yea",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "3 Years",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "i. Undisputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivable Considered Good",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "26.26",
+            "col_10": "7.37",
+            "col_11": "388.11",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "421.74",
+            "col_16": ""
+          },
+          {
+            "Particulars": "ii. Undisputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables which have significant increase in credit risk",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "-",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "iii. Undisputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables Credit impaired",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "-",
+            "col_16": ""
+          },
+          {
+            "Particulars": "iv. Disputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables Considered Good",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "-",
+            "col_16": ""
+          },
+          {
+            "Particulars": "v. Disputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables which have significant increase in credit risk",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "-",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "vi. Disputed",
+            "Not Due": "",
+            "O": "",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "col_11": "",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Trade Receivables Credit impaired",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "-",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "-",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "26.26",
+            "col_10": "7.37",
+            "col_11": "388.11",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "421.74",
+            "col_16": ""
+          },
+          {
+            "Particulars": "Less: Allowance for doubtful Trade Receivable Billed",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "-",
+            "col_10": "-",
+            "col_11": "39.84",
+            "col_12": "",
+            "e": "",
+            "Total": "39.84",
+            "col_15": "39.84",
+            "col_16": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "Not Due": "-",
+            "O": "-",
+            "utstanding for following periods from due dat": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "26.26",
+            "col_10": "7.37",
+            "col_11": "348.27",
+            "col_12": "",
+            "e": "",
+            "Total": "",
+            "col_15": "381.90",
+            "col_16": ""
+          }
+        ]
+      },
+      {
+        "page": 103,
+        "table_index": 6,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Security deposits",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Unsecured, considered good*",
+            "As at March 31, 2026": "1.64",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "1.71"
+          },
+          {
+            "Particulars": "Less: Provision for doubtful loans and advances",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "",
+            "col_3": "1.64",
+            "col_4": "",
+            "As at March 31, 2025": "1.71"
+          }
+        ]
+      },
+      {
+        "page": 103,
+        "table_index": 7,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "(a) Advance income tax",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good (Net of Provisions)",
+            "As at March 31, 2026": "50.21",
+            "As at March 31, 2025": "46.53"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "50.21",
+            "As at March 31, 2025": "46.53"
+          },
+          {
+            "Particulars": "(c) Balances with Government Authorities",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good",
+            "As at March 31, 2026": "13.07",
+            "As at March 31, 2025": "13.07"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "13.07",
+            "As at March 31, 2025": "13.07"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "63.27",
+            "As at March 31, 2025": "59.59"
+          }
+        ]
+      },
+      {
+        "page": 104,
+        "table_index": 0,
+        "row_count": 17,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at March": "31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "As at March_1": "31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(a) Raw materials (Note : Includes stock lying with Third party of Rs. 55.58 lakhs (PY 29.89 lakhs)",
+            "col_2": "129.09",
+            "As at March": "129.09",
+            "col_4": "",
+            "col_5": "139.97",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "129.09",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "139.97",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(b) Stock under Work-in-progress",
+            "col_2": "12.03",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "12.58",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "12.03",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "12.58",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(c) Finished goods",
+            "col_2": "30.64",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "75.55",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "30.64",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "75.55",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(d) Stock-in-trade",
+            "col_2": "-",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "-",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "-",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "-",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(e) Stores and spares",
+            "col_2": "",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "- Store",
+            "col_2": "3.10",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "2.90",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "- Packing Materials",
+            "col_2": "2.22",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "2.06",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "5.33",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "4.96",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(f) Others Inventories",
+            "col_2": "",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "- Folder And Advertise articles",
+            "col_2": "2.33",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "2.33",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "",
+            "As at March": "2.33",
+            "col_4": "",
+            "col_5": "2.33",
+            "As at March_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "179.42",
+            "As at March": "",
+            "col_4": "",
+            "col_5": "235.38",
+            "As at March_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 104,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "Trade Receivables",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Unsecured, considered Good",
+            "As at March 31, 2026": "90.81",
+            "As at March 31, 2025": "19.68"
+          },
+          {
+            "Particulars": "Unsecured, considered Doubtful",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "90.81",
+            "As at March 31, 2025": "19.68"
+          },
+          {
+            "Particulars": "Less: Provision for doubtful trade receivables",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "90.81",
+            "As at March 31, 2025": "19.68"
+          }
+        ]
+      },
+      {
+        "page": 104,
+        "table_index": 2,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "(a) Cash on hand",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- In form of Indian Rupees",
+            "As at March 31, 2026": "0.29",
+            "As at March 31, 2025": "0.71"
+          },
+          {
+            "Particulars": "Balances with Bank",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "(b) In current accounts",
+            "As at March 31, 2026": "18.61",
+            "As at March 31, 2025": "11.09"
+          },
+          {
+            "Particulars": "(c) In Fixed Deposit accounts",
+            "As at March 31, 2026": "69.56",
+            "As at March 31, 2025": "139.37"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "88.47",
+            "As at March 31, 2025": "151.16"
+          }
+        ]
+      },
+      {
+        "page": 105,
+        "table_index": 0,
+        "row_count": 18,
+        "rows": [
+          {
+            "Particulars": "(a) Security deposits",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Secured, considered good",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Unsecured, considered good",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "(a) Prepaid expenses",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good",
+            "As at March 31, 2026": "2.18",
+            "As at March 31, 2025": "2.85"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "2.18",
+            "As at March 31, 2025": "2.85"
+          },
+          {
+            "Particulars": "(b) Balances with government authorities",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good",
+            "As at March 31, 2026": "0.27",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "0.27",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "(c) Advance to suppliers",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good",
+            "As at March 31, 2026": "7.97",
+            "As at March 31, 2025": "8.14"
+          },
+          {
+            "Particulars": "- Less: Provision for other doubtful loans and advances",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "7.97",
+            "As at March 31, 2025": "8.14"
+          },
+          {
+            "Particulars": "(d) Other Receivable",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unsecured, considered good",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "10.42",
+            "As at March 31, 2025": "10.99"
+          }
+        ]
+      },
+      {
+        "page": 105,
+        "table_index": 1,
+        "row_count": 9,
+        "rows": [
+          {
+            "Particulars": "",
+            "As at March 31, 2026": "Number of shares",
+            "col_3": "",
+            "col_4": "in lakhs",
+            "As at March 31, 2025": "",
+            "col_6": "Number of",
+            "col_7": "",
+            "col_8": "in lakhs"
+          },
+          {
+            "Particulars": "",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "",
+            "col_6": "shares",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "(a) Authorised",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Equity shares of 10/- each with voting rights",
+            "As at March 31, 2026": "10000000",
+            "col_3": "",
+            "col_4": "1,000.00",
+            "As at March 31, 2025": "10000000",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "1,000.00"
+          },
+          {
+            "Particulars": "(b) Issued",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Equity shares of 10/- each with voting rights",
+            "As at March 31, 2026": "6850000",
+            "col_3": "",
+            "col_4": "685.00",
+            "As at March 31, 2025": "6850000",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "685.00"
+          },
+          {
+            "Particulars": "(c) Subscribed and fully paid up",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Equity shares of 10/- each with voting rights",
+            "As at March 31, 2026": "6850000",
+            "col_3": "",
+            "col_4": "685.00",
+            "As at March 31, 2025": "6850000",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "685.00"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "6850000",
+            "col_3": "",
+            "col_4": "685.00",
+            "As at March 31, 2025": "6850000",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "685.00"
+          }
+        ]
+      },
+      {
+        "page": 105,
+        "table_index": 2,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "",
+            "As at March 31, 2026": "Number of shares",
+            "col_3": "",
+            "col_4": "in lakhs",
+            "As at March 31, 2025": "",
+            "col_6": "Number of",
+            "col_7": "",
+            "col_8": "in lakhs"
+          },
+          {
+            "Particulars": "",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "",
+            "col_6": "shares",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "Equity shares with voting rights",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": ""
+          },
+          {
+            "Particulars": "At the beginning of the year",
+            "As at March 31, 2026": "6850000",
+            "col_3": "",
+            "col_4": "685.00",
+            "As at March 31, 2025": "6850000",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "685.00"
+          },
+          {
+            "Particulars": "Issued During the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "-",
+            "As at March 31, 2025": "-",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "-"
+          },
+          {
+            "Particulars": "Outstanding at the end of the year",
+            "As at March 31, 2026": "6850000",
+            "col_3": "",
+            "col_4": "685.00",
+            "As at March 31, 2025": "6850000",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "685.00"
+          }
+        ]
+      },
+      {
+        "page": 106,
+        "table_index": 3,
+        "row_count": 27,
+        "rows": [
+          {
+            "Particulars": "Capital reserve",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Opening balance",
+            "As at March 31, 2026": "117.29",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "117.29"
+          },
+          {
+            "Particulars": "Add: Additions during the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Less: Utilized / transferred during the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Closing balance",
+            "As at March 31, 2026": "117.29",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "117.29"
+          },
+          {
+            "Particulars": "Securities premium account",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Opening balance",
+            "As at March 31, 2026": "246.17",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "246.17"
+          },
+          {
+            "Particulars": "Add : Premium on shares issued during the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Less : Utilized during the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Closing balance",
+            "As at March 31, 2026": "246.17",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "246.17"
+          },
+          {
+            "Particulars": "General reserve",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Opening balance",
+            "As at March 31, 2026": "66.79",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "66.79"
+          },
+          {
+            "Particulars": "Add: Transferred from surplus in Statement of P & L",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Less: Utilized / transferred during the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Closing balance",
+            "As at March 31, 2026": "66.79",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "66.79"
+          },
+          {
+            "Particulars": "Retained Earnings",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Opening balance",
+            "As at March 31, 2026": "",
+            "col_3": "(1,789.12",
+            "col_4": ")",
+            "As at March 31, 2025": "(1,685.67)"
+          },
+          {
+            "Particulars": "IND AS Adjustment",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Add: Profit / (Loss) for the year",
+            "As at March 31, 2026": "(87.58)",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "(103.45)"
+          },
+          {
+            "Particulars": "Closing balance",
+            "As at March 31, 2026": "(1,876.70)",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "(1,789.12)"
+          },
+          {
+            "Particulars": "Other Comprehensive Income",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Re-measurement of Defined Benefit Plans",
+            "As at March 31, 2026": "",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "Balance as per last Financial year",
+            "As at March 31, 2026": "16.32",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "16.23"
+          },
+          {
+            "Particulars": "Add: Adjustments made during the year",
+            "As at March 31, 2026": "-",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Add: For the Year",
+            "As at March 31, 2026": "0.40",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "0.09"
+          },
+          {
+            "Particulars": "Closing Balance",
+            "As at March 31, 2026": "16.72",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "16.32"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "(1,429.73)",
+            "col_3": "",
+            "col_4": "",
+            "As at March 31, 2025": "(1,342.56)"
+          }
+        ]
+      },
+      {
+        "page": 107,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Unsecured loans",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- From Financial Institutions",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "- From Directors",
+            "As at March 31, 2026": "1,213.78",
+            "As at March 31, 2025": "1,213.78"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "1,213.78",
+            "As at March 31, 2025": "1,213.78"
+          }
+        ]
+      },
+      {
+        "page": 107,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "Balance at the beginning",
+            "As at March 31, 2026": "23.67",
+            "As at March 31, 2025": "30.99"
+          },
+          {
+            "Particulars": "Additions",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Finance Cost",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Deletions/Modifications",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Payment of Lease",
+            "As at March 31, 2026": "10.35",
+            "As at March 31, 2025": "7.32"
+          },
+          {
+            "Particulars": "Translation Difference",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Balance at the end",
+            "As at March 31, 2026": "13.32",
+            "As at March 31, 2025": "23.67"
+          }
+        ]
+      },
+      {
+        "page": 107,
+        "table_index": 2,
+        "row_count": 3,
+        "rows": [
+          {
+            "Particulars": "Current Maturities",
+            "As at March 31, 2026": "9.69",
+            "As at March 31, 2025": "9.00"
+          },
+          {
+            "Particulars": "Non-current",
+            "As at March 31, 2026": "3.63",
+            "As at March 31, 2025": "14.66"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "13.32",
+            "As at March 31, 2025": "23.67"
+          }
+        ]
+      },
+      {
+        "page": 107,
+        "table_index": 3,
+        "row_count": 3,
+        "rows": [
+          {
+            "Particulars": "Depreciation and Amortization expenses",
+            "As at March 31, 2026": "7.84",
+            "As at March 31, 2025": "7.84"
+          },
+          {
+            "Particulars": "Interest expenses on lease liabilities",
+            "As at March 31, 2026": "1.93",
+            "As at March 31, 2025": "2.76"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "9.77",
+            "As at March 31, 2025": "10.60"
+          }
+        ]
+      },
+      {
+        "page": 108,
+        "table_index": 0,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "Total cash outflow for the year",
+            "As at March 31, 2026": "10.35",
+            "As at March 31, 2025": "7.32"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "10.35",
+            "As at March 31, 2025": "7.32"
+          }
+        ]
+      },
+      {
+        "page": 108,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "Trade payables:",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Total outstanding dues of micro and small enterprises",
+            "As at March 31, 2026": "249.74",
+            "As at March 31, 2025": "254.69"
+          },
+          {
+            "Particulars": "- Total outstanding dues of creditors other than micro enterprises and small enterprises.",
+            "As at March 31, 2026": "429.15",
+            "As at March 31, 2025": "422.41"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "678.89",
+            "As at March 31, 2025": "677.10"
+          },
+          {
+            "Particulars": "Trade Payables - Total outstanding dues of Micro & Small Enterprises",
+            "As at March 31, 2026": "249.74",
+            "As at March 31, 2025": "254.69"
+          },
+          {
+            "Particulars": "a) The Principal amount and Interest due there on remaining unpaid as at year end: Principal",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "b) Interest paid by the company in terms of section 16 of Micro, Small and Medium Enterprises Development Act, 2006 along with the amount of the payment made to the supplier beyond the appointed day during the year.",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "c) Interest due and payable for the period of delay in making payment (which have been paid but beyond the appointed day during the year) but without adding the interest specified under Micro, Small and Medium Enterprises Development Act, 2006",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "d) Interest accrued and remain unpaid as at year end",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "e) Further Interest remaining due and payable even in the succeeding year until such date when the interest dues as above are actually paid to the small enterprises",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": "-"
+          }
+        ]
+      },
+      {
+        "page": 108,
+        "table_index": 2,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of payment": "Less Tha",
+            "col_5": "n r",
+            "col_6": "1 - 2 Years",
+            "col_7": "2 - 3 Years",
+            "col_8": "",
+            "col_9": "More Than 3 Years",
+            "Total": "",
+            "col_11": "",
+            "col_12": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of payment": "One Yea",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "Total": "",
+            "col_11": "",
+            "col_12": ""
+          },
+          {
+            "Particulars": "i. MSME",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "3.08",
+            "col_8": "246.66",
+            "col_9": "",
+            "Total": "",
+            "col_11": "249.74",
+            "col_12": ""
+          },
+          {
+            "Particulars": "ii. Others",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "7.65",
+            "col_7": "0.01",
+            "col_8": "421.49",
+            "col_9": "",
+            "Total": "",
+            "col_11": "429.15",
+            "col_12": ""
+          },
+          {
+            "Particulars": "iii. Disputed Dues MSME",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "Total": "",
+            "col_11": "-",
+            "col_12": ""
+          },
+          {
+            "Particulars": "iv. Disputed Dues Others",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "Total": "",
+            "col_11": "-",
+            "col_12": ""
+          }
+        ]
+      },
+      {
+        "page": 109,
+        "table_index": 1,
+        "row_count": 8,
+        "rows": [
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of": "payment",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "",
+            "col_13": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of": "Less Than",
+            "col_5": "",
+            "col_6": "1 - 2 Years",
+            "col_7": "2 - 3 Years",
+            "col_8": "",
+            "col_9": "More Than",
+            "col_10": "",
+            "Total": "",
+            "col_12": "",
+            "col_13": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of": "One Year",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "3 Years",
+            "col_10": "",
+            "Total": "",
+            "col_12": "",
+            "col_13": ""
+          },
+          {
+            "Particulars": "i. MSME",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "52.37",
+            "col_7": "3.66",
+            "col_8": "198.65",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "254.69",
+            "col_13": ""
+          },
+          {
+            "Particulars": "ii. Others",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "17.07",
+            "col_7": "15.58",
+            "col_8": "389.76",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "422.41",
+            "col_13": ""
+          },
+          {
+            "Particulars": "iii. Disputed Dues MSME",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "-",
+            "col_13": ""
+          },
+          {
+            "Particulars": "iv. Disputed Dues Others",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "-",
+            "col_13": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "69.44",
+            "col_7": "19.24",
+            "col_8": "588.41",
+            "col_9": "",
+            "col_10": "",
+            "Total": "677.10",
+            "col_12": "",
+            "col_13": ""
+          }
+        ]
+      },
+      {
+        "page": 109,
+        "table_index": 2,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "Trade / security deposits received",
+            "As at March 31, 2026": "1.84",
+            "As at March 31, 2025": "1.84"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "1.84",
+            "As at March 31, 2025": "1.84"
+          }
+        ]
+      },
+      {
+        "page": 109,
+        "table_index": 3,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "Provision for employee benefits",
+            "As at March 31, 2026": "23.80",
+            "As at March 31, 2025": "20.55"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "23.80",
+            "As at March 31, 2025": "20.55"
+          }
+        ]
+      },
+      {
+        "page": 109,
+        "table_index": 4,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "(a) Differed Tax Liability",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Timing diff. between book and tax depreciation",
+            "As at March 31, 2026": "6.96",
+            "As at March 31, 2025": "9.76"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "6.96",
+            "As at March 31, 2025": "9.76"
+          },
+          {
+            "Particulars": "(b) Differed Tax (Assets)",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Unabsorbed Depreciation & Business Loss and 43b disallowances & Lease Liability",
+            "As at March 31, 2026": "(613.23)",
+            "As at March 31, 2025": "(586.17)"
+          },
+          {
+            "Particulars": "Sub Total",
+            "As at March 31, 2026": "(613.23)",
+            "As at March 31, 2025": "(586.17)"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "(606.27)",
+            "As at March 31, 2025": "(576.41)"
+          }
+        ]
+      },
+      {
+        "page": 109,
+        "table_index": 5,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "Advance from customers",
+            "As at March 31, 2026": "35.94",
+            "As at March 31, 2025": "35.17"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "35.94",
+            "As at March 31, 2025": "35.17"
+          }
+        ]
+      },
+      {
+        "page": 110,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "Secured Borrowings",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- From banks",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "Unsecured Borrowings",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- From Non-Banking Financial Company",
+            "As at March 31, 2026": "52.75",
+            "As at March 31, 2025": "26.69"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "52.75",
+            "As at March 31, 2025": "26.69"
+          }
+        ]
+      },
+      {
+        "page": 110,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "Trade payables:",
+            "As at March 31, 2026": "",
+            "As at March 31, 2025": ""
+          },
+          {
+            "Particulars": "- Total outstanding dues of micro and small enterprises",
+            "As at March 31, 2026": "79.02",
+            "As at March 31, 2025": "43.97"
+          },
+          {
+            "Particulars": "- Total outstanding dues of creditors other than micro enterprises and small enterprises.",
+            "As at March 31, 2026": "132.96",
+            "As at March 31, 2025": "86.92"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "211.98",
+            "As at March 31, 2025": "130.89"
+          },
+          {
+            "Particulars": "Trade Payables - Total outstanding dues of Micro & Small Enterprises",
+            "As at March 31, 2026": "79.02",
+            "As at March 31, 2025": "43.97"
+          },
+          {
+            "Particulars": "a) The Principal amount and Interest due there on remaining unpaid as at year end: Principal",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "b) Interest paid by the company in terms of section 16 of Micro, Small and Medium Enterprises Development Act, 2006 along with the amount of the payment made to the supplier beyond the appointed day during the year.",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "c) Interest due and payable for the period of delay in making payment (which have been paid but beyond the appointed day during the year) but without adding the interest specified under Micro, Small and Medium Enterprises Development Act, 2006",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "d) Interest accrued and remain unpaid as at year end",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          },
+          {
+            "Particulars": "e) Further Interest remaining due and payable even in the succeeding year until such date when the interest dues as above are actually paid to the small enterprises",
+            "As at March 31, 2026": "-",
+            "As at March 31, 2025": "-"
+          }
+        ]
+      },
+      {
+        "page": 110,
+        "table_index": 2,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of payment": "Less Than",
+            "col_5": "",
+            "col_6": "1 - 2 Years",
+            "col_7": "2 - 3 Years",
+            "col_8": "More Than 3 Years",
+            "Total": "",
+            "col_10": "",
+            "col_11": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of payment": "One Year",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "Total": "",
+            "col_10": "",
+            "col_11": ""
+          },
+          {
+            "Particulars": "i. MSME",
+            "Not Due": "1.47",
+            "col_3": "77.55",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "Total": "",
+            "col_10": "79.02",
+            "col_11": ""
+          },
+          {
+            "Particulars": "ii. Others",
+            "Not Due": "85.25",
+            "col_3": "47.72",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "Total": "",
+            "col_10": "132.96",
+            "col_11": ""
+          },
+          {
+            "Particulars": "iii. Disputed Dues MSME",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "Total": "",
+            "col_10": "-",
+            "col_11": ""
+          },
+          {
+            "Particulars": "iv. Disputed Dues Others",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of payment": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "Total": "",
+            "col_10": "-",
+            "col_11": ""
+          }
+        ]
+      },
+      {
+        "page": 111,
+        "table_index": 1,
+        "row_count": 8,
+        "rows": [
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of": "payment",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "",
+            "col_13": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of": "Less Than",
+            "col_5": "",
+            "col_6": "1 - 2 Years",
+            "col_7": "2 - 3 Years",
+            "col_8": "",
+            "col_9": "More Than",
+            "col_10": "",
+            "Total": "",
+            "col_12": "",
+            "col_13": ""
+          },
+          {
+            "Particulars": "",
+            "Not Due": "",
+            "col_3": "",
+            "Outstanding for following periods from due date of": "One Year",
+            "col_5": "",
+            "col_6": "",
+            "col_7": "",
+            "col_8": "",
+            "col_9": "3 Years",
+            "col_10": "",
+            "Total": "",
+            "col_12": "",
+            "col_13": ""
+          },
+          {
+            "Particulars": "i. MSME",
+            "Not Due": "11.88",
+            "col_3": "32.10",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "43.97",
+            "col_13": ""
+          },
+          {
+            "Particulars": "ii. Others",
+            "Not Due": "60.79",
+            "col_3": "26.13",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "86.92",
+            "col_13": ""
+          },
+          {
+            "Particulars": "iii. Disputed Dues MSME",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "-",
+            "col_13": ""
+          },
+          {
+            "Particulars": "iv. Disputed Dues Others",
+            "Not Due": "-",
+            "col_3": "-",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "",
+            "col_12": "-",
+            "col_13": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "Not Due": "72.67",
+            "col_3": "58.23",
+            "Outstanding for following periods from due date of": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-",
+            "col_8": "-",
+            "col_9": "",
+            "col_10": "",
+            "Total": "130.89",
+            "col_12": "",
+            "col_13": ""
+          }
+        ]
+      },
+      {
+        "page": 111,
+        "table_index": 2,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "Security Deposits",
+            "As at March 31, 2026": "75.00",
+            "As at March 31, 2025": "135.00"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "75.00",
+            "As at March 31, 2025": "135.00"
+          }
+        ]
+      },
+      {
+        "page": 111,
+        "table_index": 3,
+        "row_count": 3,
+        "rows": [
+          {
+            "Particulars": "(a) Statutory Liabilities",
+            "As at March 31, 2026": "10.59",
+            "As at March 31, 2025": "1.04"
+          },
+          {
+            "Particulars": "(b) Advance from Customers",
+            "As at March 31, 2026": "19.21",
+            "As at March 31, 2025": "25.10"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "29.80",
+            "As at March 31, 2025": "26.14"
+          }
+        ]
+      },
+      {
+        "page": 111,
+        "table_index": 4,
+        "row_count": 2,
+        "rows": [
+          {
+            "Particulars": "Provision for Employee Benefits",
+            "As at March 31, 2026": "4.12",
+            "As at March 31, 2025": "3.62"
+          },
+          {
+            "Particulars": "TOTAL",
+            "As at March 31, 2026": "4.12",
+            "As at March 31, 2025": "3.62"
+          }
+        ]
+      },
+      {
+        "page": 111,
+        "table_index": 5,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(a) Sale of Products",
+            "col_2": "456.85",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "421.46",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(b) Sale of Services",
+            "col_2": "56.49",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "26.12",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(c) Other Operating Revenues (Note i)",
+            "col_2": "2.43",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "4.20",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "515.77",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "451.78",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 112,
+        "table_index": 1,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(i) Reconcilliation of revenue from operation with the contracted price:",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Contracted Price:",
+            "col_2": "457.37",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "421.61",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Adjustment:",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Discounts/Rate difference",
+            "col_2": "0.52",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.24",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(ii) Sales of Products",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Other Operating revenue (including sale of services)",
+            "col_2": "58.92",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "30.41",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Revenue from operations",
+            "col_2": "515.77",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "451.78",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(iii) Revenue Disagreegation by Geography",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "India",
+            "col_2": "479.67",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "423.47",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Outside India",
+            "col_2": "33.68",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "24.12",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "513.34",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "447.59",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 112,
+        "table_index": 2,
+        "row_count": 8,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(a) Interest income Includes 0.11 lakhs measured at Amortized Cost",
+            "col_2": "7.01",
+            "For the year ended": "7.01",
+            "col_4": "",
+            "col_5": "4.36",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "7.01",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "4.36",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(b) Commission income",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(c) Other Non-Operating Income",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "- Profit on sale of Assets",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "7.01",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "4.36",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 112,
+        "table_index": 3,
+        "row_count": 8,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Opening stock",
+            "col_2": "139.97",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "136.39",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Add: Purchases",
+            "col_2": "189.89",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "175.80",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "329.86",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "312.19",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Less: Closing Stock",
+            "col_2": "129.09",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "139.97",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "200.77",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "172.22",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Less: Sale of Raw Materials",
+            "col_2": "(0.63)",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "(0.59)",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Cost of Materials consumed",
+            "col_2": "201.40",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "172.80",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 113,
+        "table_index": 1,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Inventories at the end of the year:",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Finished goods",
+            "col_2": "30.64",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "75.55",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Work-in-progress",
+            "col_2": "12.03",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "12.58",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "42.67",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "88.12",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Inventories at the beginning of the year:",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Finished goods",
+            "col_2": "75.55",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "63.27",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Work-in-progress",
+            "col_2": "12.58",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.87",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sub Total",
+            "col_2": "88.12",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "64.14",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "NET INCREASE / (DECREASE)",
+            "col_2": "(45.46)",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "23.98",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 113,
+        "table_index": 2,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Salaries and wages",
+            "col_2": "124.96",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "116.69",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Contributions to provident and other funds",
+            "col_2": "6.09",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "3.56",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Staff welfare expenses",
+            "col_2": "1.87",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.73",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "132.92",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "121.99",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 113,
+        "table_index": 3,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(a) Interest expense on:",
+            "col_2": "",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(i) Borrowings",
+            "col_2": "4.94",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.80",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(ii) Others",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(b) Other borrowing costs",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "4.94",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.80",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 113,
+        "table_index": 4,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Consumption of stores and spare parts",
+            "col_2": "6.97",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "5.31",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Consumption of Folder & Pub.",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.13",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Consumption of packing materials",
+            "col_2": "1.03",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.44",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Power and fuel",
+            "col_2": "5.38",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "7.82",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Rent including lease rentals",
+            "col_2": "18.94",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "19.80",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Repairs and maintenance - Building",
+            "col_2": "0.86",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.84",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Repairs and maintenance - Factory Building",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.03",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Repairs and maintenance - Machinery",
+            "col_2": "1.30",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.21",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Repairs and maintenance - Others",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 114,
+        "table_index": 0,
+        "row_count": 25,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Insurance",
+            "col_2": "3.18",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.77",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Rates and taxes",
+            "col_2": "1.43",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.34",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Communication",
+            "col_2": "2.06",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.66",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Travelling and conveyance",
+            "col_2": "2.77",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "4.76",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Printing and stationery",
+            "col_2": "0.01",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Freight and Forwarding expenses",
+            "col_2": "11.84",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "9.25",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Sales commission",
+            "col_2": "1.96",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Business promotion",
+            "col_2": "0.11",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.70",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Legal and professional expenses",
+            "col_2": "35.38",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "37.22",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Payments to auditors",
+            "col_2": "2.00",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.00",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Provision for ECL",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "39.95",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Balance Written off (net)",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Loss / (Profit) on disposal of fixed assets",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Paper and Printing expenses",
+            "col_2": "0.09",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.19",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Export Clearing and Forwarding Expenses",
+            "col_2": "0.56",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "ISO/ISI Certification expenses",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.32",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Electricity expenses",
+            "col_2": "1.91",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "1.83",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Discount and Claims",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Office Expenses",
+            "col_2": "1.13",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.07",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Advertisement Expenses",
+            "col_2": "0.37",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.47",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "License Fees",
+            "col_2": "0.09",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "0.05",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "labor Charges",
+            "col_2": "35.92",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "30.24",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Others Miscellaneous expenses",
+            "col_2": "16.62",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "4.07",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "151.91",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "136.54",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 114,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "As auditors - statutory audit & tax audit",
+            "col_2": "2.00",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.00",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "For taxation matters",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Review Report",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Certification Fees",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "For other services",
+            "col_2": "-",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "-",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "TOTAL",
+            "col_2": "2.00",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "2.00",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 114,
+        "table_index": 2,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "For the year ended": "March 31, 2026",
+            "col_4": "",
+            "col_5": "",
+            "For the year ended_1": "March 31, 2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Face Value per Share (in )",
+            "col_2": "10.00",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "10.00",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Net Profit after Tax ( in lakhs)",
+            "col_2": "(87.58)",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "(103.45)",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Weighted Average Number of Shares (in Lakhs)",
+            "col_2": "6,850,000",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "6,850,000",
+            "For the year ended_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Basic and Diluted Earnings Per Share",
+            "col_2": "(1.28)",
+            "For the year ended": "",
+            "col_4": "",
+            "col_5": "(1.51)",
+            "For the year ended_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 115,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "a) Claims against Company not acknowledged as Debt",
+            "As at 31st March, 2026": "",
+            "As at 31st March, 2025": ""
+          },
+          {
+            "Particulars": "i) Disputed Income Tax demand",
+            "As at 31st March, 2026": "9.40",
+            "As at 31st March, 2025": "9.40"
+          },
+          {
+            "Particulars": "ii) Disputed Tax Demand under Central Sales Tax/ Goods & Service Tax",
+            "As at 31st March, 2026": "82.74",
+            "As at 31st March, 2025": "82.74"
+          },
+          {
+            "Particulars": "b) Guarantees excluding financial guarantees",
+            "As at 31st March, 2026": "NIL",
+            "As at 31st March, 2025": "NIL"
+          }
+        ]
+      },
+      {
+        "page": 116,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "Particulars": "",
+            "col_2": "",
+            "As at 31st March,": "2026",
+            "col_4": "",
+            "col_5": "",
+            "As at 31st March,_1": "2025",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Financial Assets",
+            "col_2": "",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Measured at Amortized Cost",
+            "col_2": "",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(i) Trade and Other Receivables",
+            "col_2": "480.41",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "401.58",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(ii) Cash and Cash Equivalents",
+            "col_2": "88.47",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "151.16",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(iii) Loans",
+            "col_2": "0.00",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "0.12",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(v) Bank balances other than (ii) above",
+            "col_2": "0.00",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "0.00",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Financial Liabilities",
+            "col_2": "",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "Measured at Amortized Cost",
+            "col_2": "",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(i) Borrowings",
+            "col_2": "1266.53",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "1240.46",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(ii) Trade Payables",
+            "col_2": "890.87",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "807.98",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          },
+          {
+            "Particulars": "(iii) Other Financial Liabilities",
+            "col_2": "1.84",
+            "As at 31st March,": "",
+            "col_4": "",
+            "col_5": "1.84",
+            "As at 31st March,_1": "",
+            "col_7": ""
+          }
+        ]
+      },
+      {
+        "page": 117,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "Particulars": "As at 31st March, 2026",
+            "Due in 1 Year": "",
+            "1 Year - 3 Years": "",
+            "More than 3 Years": "",
+            "Total": ""
+          },
+          {
+            "Particulars": "Borrowings",
+            "Due in 1 Year": "52.75",
+            "1 Year - 3 Years": "--",
+            "More than 3 Years": "1213.78",
+            "Total": "1266.53"
+          },
+          {
+            "Particulars": "Trade Payables",
+            "Due in 1 Year": "211.98",
+            "1 Year - 3 Years": "10.74",
+            "More than 3 Years": "668.15",
+            "Total": "890.87"
+          },
+          {
+            "Particulars": "Other Financial Liabilities",
+            "Due in 1 Year": "75.00",
+            "1 Year - 3 Years": "--",
+            "More than 3 Years": "1.84",
+            "Total": "76.84"
+          },
+          {
+            "Particulars": "Lease Liability",
+            "Due in 1 Year": "9.69",
+            "1 Year - 3 Years": "3.63",
+            "More than 3 Years": "--",
+            "Total": "13.32"
+          },
+          {
+            "Particulars": "As at 31st March, 2025",
+            "Due in 1 Year": "",
+            "1 Year - 3 Years": "",
+            "More than 3 Years": "",
+            "Total": ""
+          },
+          {
+            "Particulars": "Borrowings",
+            "Due in 1 Year": "26.69",
+            "1 Year - 3 Years": "--",
+            "More than 3 Years": "1213.78",
+            "Total": "1240.46"
+          },
+          {
+            "Particulars": "Trade Payables",
+            "Due in 1 Year": "130.88",
+            "1 Year - 3 Years": "88.69",
+            "More than 3 Years": "588.41",
+            "Total": "807.98"
+          },
+          {
+            "Particulars": "Other Financial Liabilities",
+            "Due in 1 Year": "135.00",
+            "1 Year - 3 Years": "--",
+            "More than 3 Years": "1.84",
+            "Total": "136.84"
+          },
+          {
+            "Particulars": "Lease Liability",
+            "Due in 1 Year": "8.32",
+            "1 Year - 3 Years": "15.35",
+            "More than 3 Years": "--",
+            "Total": "23.67"
+          }
+        ]
+      },
+      {
+        "page": 118,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "Balance at beginning of the year",
+            "March 31, 2026": "39.85",
+            "March 31,2025": "---"
+          },
+          {
+            "Particulars": "Add: Provided during the year",
+            "March 31, 2026": "---",
+            "March 31,2025": "39.85"
+          },
+          {
+            "Particulars": "Less: Reversals of provision",
+            "March 31, 2026": "(0.25)",
+            "March 31,2025": "---"
+          },
+          {
+            "Particulars": "Less: Amounts written back",
+            "March 31, 2026": "---",
+            "March 31,2025": "---"
+          },
+          {
+            "Particulars": "Balance at the end of the year",
+            "March 31, 2026": "39.60",
+            "March 31,2025": "39.85"
+          }
+        ]
+      },
+      {
+        "page": 118,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "",
+            "Up to 1 Year": "",
+            "col_3": "",
+            "1 Year - 3": "Years",
+            "col_5": "",
+            "col_6": "",
+            "More Than 3": "Years",
+            "col_8": "",
+            "Total": ""
+          },
+          {
+            "Particulars": "As at 31st March, 2026",
+            "Up to 1 Year": "",
+            "col_3": "",
+            "1 Year - 3": "",
+            "col_5": "",
+            "col_6": "",
+            "More Than 3": "",
+            "col_8": "",
+            "Total": ""
+          },
+          {
+            "Particulars": "Loans to Employees",
+            "Up to 1 Year": "--",
+            "col_3": "--",
+            "1 Year - 3": "",
+            "col_5": "",
+            "col_6": "--",
+            "More Than 3": "",
+            "col_8": "",
+            "Total": "--"
+          },
+          {
+            "Particulars": "Trade Receivables",
+            "Up to 1 Year": "90.81",
+            "col_3": "33.29",
+            "1 Year - 3": "",
+            "col_5": "",
+            "col_6": "356.32",
+            "More Than 3": "",
+            "col_8": "",
+            "Total": "480.42"
+          },
+          {
+            "Particulars": "As at 31st March, 2025",
+            "Up to 1 Year": "",
+            "col_3": "",
+            "1 Year - 3": "",
+            "col_5": "",
+            "col_6": "",
+            "More Than 3": "",
+            "col_8": "",
+            "Total": ""
+          },
+          {
+            "Particulars": "Loans to Employees",
+            "Up to 1 Year": "0.12",
+            "col_3": "--",
+            "1 Year - 3": "",
+            "col_5": "",
+            "col_6": "--",
+            "More Than 3": "",
+            "col_8": "",
+            "Total": "0.12"
+          },
+          {
+            "Particulars": "Trade Receivables",
+            "Up to 1 Year": "19.68",
+            "col_3": "33.63",
+            "1 Year - 3": "",
+            "col_5": "",
+            "col_6": "348.27",
+            "More Than 3": "",
+            "col_8": "",
+            "Total": "401.58"
+          }
+        ]
+      },
+      {
+        "page": 120,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "",
+            "For the Year ended 31st March 2026": "(Rs in lakhs)",
+            "For the Year ended 31st March 2025": "(Rs in lakhs)"
+          },
+          {
+            "Particulars": "Current Service Cost",
+            "For the Year ended 31st March 2026": "0.96",
+            "For the Year ended 31st March 2025": "0.81"
+          },
+          {
+            "Particulars": "Net Interest Cost",
+            "For the Year ended 31st March 2026": "0.62",
+            "For the Year ended 31st March 2025": "0.53"
+          },
+          {
+            "Particulars": "Past Service Cost",
+            "For the Year ended 31st March 2026": "1.20",
+            "For the Year ended 31st March 2025": "--"
+          },
+          {
+            "Particulars": "Defined Benefit Cost included in Profit and Loss",
+            "For the Year ended 31st March 2026": "2.78",
+            "For the Year ended 31st March 2025": "1.34"
+          },
+          {
+            "Particulars": "Defined Benefit Cost included in Other Comprehensive Income",
+            "For the Year ended 31st March 2026": "(0.54)",
+            "For the Year ended 31st March 2025": "(0.12)"
+          },
+          {
+            "Particulars": "Total Defined Benefit Cost in Profit and Loss and OCI",
+            "For the Year ended 31st March 2026": "2.24",
+            "For the Year ended 31st March 2025": "1.22"
+          }
+        ]
+      },
+      {
+        "page": 120,
+        "table_index": 1,
+        "row_count": 8,
+        "rows": [
+          {
+            "Particulars": "",
+            "For the Year ended 31st MARCH 2026": "(Rs in lakhs)",
+            "For the Year ended 31st MARCH 2025": "(Rs in lakhs)"
+          },
+          {
+            "Particulars": "Opening Defined Benefit Obligation",
+            "For the Year ended 31st MARCH 2026": "21.40",
+            "For the Year ended 31st MARCH 2025": "20.19"
+          },
+          {
+            "Particulars": "Interest Expense on Defined Benefit Obligation (DBO)",
+            "For the Year ended 31st MARCH 2026": "",
+            "For the Year ended 31st MARCH 2025": ""
+          },
+          {
+            "Particulars": "Current Service Cost",
+            "For the Year ended 31st MARCH 2026": "2.78",
+            "For the Year ended 31st MARCH 2025": "1.34"
+          },
+          {
+            "Particulars": "Total Re-measurements included in OCI",
+            "For the Year ended 31st MARCH 2026": "(0.54)",
+            "For the Year ended 31st MARCH 2025": "(0.12)"
+          },
+          {
+            "Particulars": "Less: Benefits paid",
+            "For the Year ended 31st MARCH 2026": "--",
+            "For the Year ended 31st MARCH 2025": "--"
+          },
+          {
+            "Particulars": "Less: Contributions to plan assets",
+            "For the Year ended 31st MARCH 2026": "(0.17)",
+            "For the Year ended 31st MARCH 2025": "--"
+          },
+          {
+            "Particulars": "Closing benefit obligation",
+            "For the Year ended 31st MARCH 2026": "23.47",
+            "For the Year ended 31st MARCH 2025": "21.40"
+          }
+        ]
+      },
+      {
+        "page": 121,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "Particulars": "",
+            "For the Year ended 31st MARCH 2026": "(Rs in lakhs)",
+            "For the Year ended 31st MARCH 2025": "(Rs in lakhs)"
+          },
+          {
+            "Particulars": "Projected Benefit Obligation on Current Assumptions",
+            "For the Year ended 31st MARCH 2026": "24.53",
+            "For the Year ended 31st MARCH 2025": "22.22"
+          },
+          {
+            "Particulars": "Delta Effect of +1% Change in Rate of Discounting",
+            "For the Year ended 31st MARCH 2026": "(0.84)",
+            "For the Year ended 31st MARCH 2025": "(0.70)"
+          },
+          {
+            "Particulars": "Delta Effect of -1% Change in Rate of Discounting",
+            "For the Year ended 31st MARCH 2026": "0.96",
+            "For the Year ended 31st MARCH 2025": "0.80"
+          },
+          {
+            "Particulars": "Delta Effect of +1% Change in Rate of Salary Increase",
+            "For the Year ended 31st MARCH 2026": "0.95",
+            "For the Year ended 31st MARCH 2025": "0.79"
+          },
+          {
+            "Particulars": "Delta Effect of -1% Change in Rate of Salary Increase",
+            "For the Year ended 31st MARCH 2026": "(0.85)",
+            "For the Year ended 31st MARCH 2025": "(0.70)"
+          },
+          {
+            "Particulars": "Delta Effect of +1% Change in Rate of Employee Turnover",
+            "For the Year ended 31st MARCH 2026": "(0.01)",
+            "For the Year ended 31st MARCH 2025": "(0.04)"
+          },
+          {
+            "Particulars": "Delta Effect of -1% Change in Rate of Employee Turnover",
+            "For the Year ended 31st MARCH 2026": "0.01",
+            "For the Year ended 31st MARCH 2025": "0.04"
+          }
+        ]
+      },
+      {
+        "page": 121,
+        "table_index": 1,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "Expected Return on Plan Assets",
+            "For the Year ended 31st MARCH 2026": "7.27%",
+            "For the Year ended 31st March 2025": "6.73%"
+          },
+          {
+            "Particulars": "Rate of Discounting",
+            "For the Year ended 31st MARCH 2026": "7.27%",
+            "For the Year ended 31st March 2025": "6.73%"
+          },
+          {
+            "Particulars": "Rate of Salary Increase",
+            "For the Year ended 31st MARCH 2026": "7.00%",
+            "For the Year ended 31st March 2025": "7.00%"
+          },
+          {
+            "Particulars": "Rate of Employee Turnover",
+            "For the Year ended 31st MARCH 2026": "6.00%",
+            "For the Year ended 31st March 2025": "6.00%"
+          },
+          {
+            "Particulars": "Mortality Rate During Employment",
+            "For the Year ended 31st MARCH 2026": "Indian Assured Lives Mortality (2012-14) (Urban)",
+            "For the Year ended 31st March 2025": "Indian Assured Lives Mortality (2012-14) (Urban)"
+          },
+          {
+            "Particulars": "Mortality Rate After Employment",
+            "For the Year ended 31st MARCH 2026": "N.A.",
+            "For the Year ended 31st March 2025": "N.A."
+          }
+        ]
+      },
+      {
+        "page": 122,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "2": "3",
+            "Mr. Karan S. Gupta": "Mrs. Rupal Gupta",
+            "Close Member of KMP": "Non-Executive Director"
+          },
+          {
+            "2": "4",
+            "Mr. Karan S. Gupta": "Falguni Shah",
+            "Close Member of KMP": "Chief Financial Officer"
+          },
+          {
+            "2": "5",
+            "Mr. Karan S. Gupta": "Mr. Krumil Dilipbhai Patel",
+            "Close Member of KMP": "Compnay Secretary (DOJ 26/12/2025)"
+          }
+        ]
+      },
+      {
+        "page": 130,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "(a) Deferred tax liabilities Difference between book and tax depreciation (b) Deferred tax assets Unabsorbed Depreciation & Business Loss and 43b diallowances & Lease Liability",
+            "For Year ended 31 March, 2026": "6.96",
+            "For Year ended 31 March, 2025": "9.76"
+          },
+          {
+            "Particulars": "",
+            "For Year ended 31 March, 2026": "6.96",
+            "For Year ended 31 March, 2025": "9.76"
+          },
+          {
+            "Particulars": "",
+            "For Year ended 31 March, 2026": "(613.23)",
+            "For Year ended 31 March, 2025": "(586.17)"
+          },
+          {
+            "Particulars": "",
+            "For Year ended 31 March, 2026": "(613.23)",
+            "For Year ended 31 March, 2025": "(586.17)"
+          },
+          {
+            "Particulars": "Deferred Tax Liabilities (Net)",
+            "For Year ended 31 March, 2026": "(606.27)",
+            "For Year ended 31 March, 2025": "(576.41)"
+          }
+        ]
+      },
+      {
+        "page": 131,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Contract Assets",
+            "For Year ended 31 March, 2026": "480.41",
+            "For Year ended 31 March, 2025": "401.58"
+          },
+          {
+            "Particulars": "Total Contract Assets",
+            "For Year ended 31 March, 2026": "480.41",
+            "For Year ended 31 March, 2025": "401.58"
+          },
+          {
+            "Particulars": "Contract Liabilities",
+            "For Year ended 31 March, 2026": "55.15",
+            "For Year ended 31 March, 2025": "60.27"
+          },
+          {
+            "Particulars": "Total Contract Liabilities",
+            "For Year ended 31 March, 2026": "55.15",
+            "For Year ended 31 March, 2025": "60.27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "4fd407d2-9ee2-4f92-bbb6-3099de69eb30",
+    "SCRIP_CD": 524715,
+    "XML_NAME": "ANN_524715_4FD407D2-9EE2-4F92-BBB6-3099DE69EB30",
+    "NEWSSUB": "Sun Pharmaceutical Industries Ltd - 524715 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-23T20:35:26.933",
+    "NEWS_DT": "2026-11-23T20:35:26.933",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "56eb8f42-7196-433c-af67-ea52b2a7bd97.pdf",
+    "MORE": "",
+    "HEADLINE": "International Credit Ratings",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sun-pharmaceutical-industries-ltd/sunpharma/524715/",
+    "SLONGNAME": "Sun Pharmaceutical Industries Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 12,
+    "News_submission_dt": "2026-11-23T20:35:26",
+    "DissemDT": "2026-11-23T20:35:26.933",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 402847,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "operating_profit": "1.8"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "db180aee-18a5-47c2-93e0-8e6471276a77",
     "SCRIP_CD": 544419,
     "XML_NAME": "ANN_544419_DB180AEE-18A5-47C2-93E0-8E6471276A77",
@@ -14218,343 +19898,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "58a9b919-4487-4e91-9a12-9aad557e9bc7",
-    "SCRIP_CD": 543420,
-    "XML_NAME": "ANN_543420_58A9B919-4487-4E91-9A12-9AAD557E9BC7",
-    "NEWSSUB": "Jet Freight Logistics Ltd - 543420 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-23T18:16:30.96",
-    "NEWS_DT": "2026-11-23T18:16:30.96",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "43aaf4bb-a090-4125-ba88-166480eeabf8.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed, the intimation under Regulation 30 of the SEBI Listing Regulation with respect to resignation of Senior Management Personnel of the Company.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jet-freight-logistics-ltd/jetfreight/543420/",
-    "SLONGNAME": "Jet Freight Logistics Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:16:30",
-    "DissemDT": "2026-11-23T18:16:30.96",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 444504,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3f824654-1134-4d1f-9aed-cd57204abd66",
-    "SCRIP_CD": 544223,
-    "XML_NAME": "ANN_544223_3F824654-1134-4D1F-9AED-CD57204ABD66",
-    "NEWSSUB": "Ceigall India Ltd - 544223 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
-    "DT_TM": "2026-11-23T18:16:02.827",
-    "NEWS_DT": "2026-11-23T18:16:02.827",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bb894608-6384-4677-a323-f597ae1c3a6f.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of Postal Ballot",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ceigall-india-ltd/ceigall/544223/",
-    "SLONGNAME": "Ceigall India Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-23T18:16:02",
-    "DissemDT": "2026-11-23T18:16:02.827",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1278319,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "total_debt": "",
-      "eps": "17.62",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 30,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Name of Shareholder": "Ceigall India Limited",
-            "Equity Shares @10/- each (%)": "4,20,450 (1%)",
-            "Pledge (30%)": "1,26,135",
-            "Non-Disposal Undertaking (21%)": "88,295",
-            "Balance": "2,06,021"
-          },
-          {
-            "Name of Shareholder": "Ceigall Infra Projects Pvt Ltd",
-            "Equity Shares @10/- each (%)": "2,10,22,499 (50%)",
-            "Pledge (30%)": "63,06,750",
-            "Non-Disposal Undertaking (21%)": "44,14,725",
-            "Balance": "1,03,01,025"
-          },
-          {
-            "Name of Shareholder": "Mr. Ramneek Sehgal",
-            "Equity Shares @10/- each (%)": "2,06,02,051 (49%)",
-            "Pledge (30%)": "61,80,615",
-            "Non-Disposal Undertaking (21%)": "43,26,431",
-            "Balance": "1,00,95,005"
-          },
-          {
-            "Name of Shareholder": "Total",
-            "Equity Shares @10/- each (%)": "4,20,45,000",
-            "Pledge (30%)": "1,26,13,500",
-            "Non-Disposal Undertaking (21%)": "88,29,450",
-            "Balance": "2,06,02,050"
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "Basic Salary",
-            "Amount (Rs.) per month": "1,37,500"
-          },
-          {
-            "Particulars": "House Rent Allowance (HRA)",
-            "Amount (Rs.) per month": "68,750"
-          },
-          {
-            "Particulars": "Other Allowances",
-            "Amount (Rs.) per month": "68,750"
-          },
-          {
-            "Particulars": "Variable pay (subject to the achievement of such performance parameters as may be determined by Managing Director)",
-            "Amount (Rs.) per month": "1,37,500"
-          },
-          {
-            "Particulars": "Total Monthly Remuneration",
-            "Amount (Rs.) per month": "4,12,500"
-          }
-        ]
-      },
-      {
-        "page": 34,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "S. No .": "1",
-            "Particulars": "Name, Designation and DIN",
-            "Details": "Mr. Chandan Singh, Whole-Time Director designated as Director (Strategy & Corporate Affairs) (DIN: 10901481)"
-          },
-          {
-            "S. No .": "2",
-            "Particulars": "Date of Birth and Age",
-            "Details": "February 25, 1984 Aged about 42 years"
-          },
-          {
-            "S. No .": "3",
-            "Particulars": "Qualification",
-            "Details": "Mr. Singh holds a bachelor’s degree in Mechanical Engineering from Uttar Pradesh Technical University, Lucknow."
-          },
-          {
-            "S. No .": "4",
-            "Particulars": "Date of first appointment on the Board",
-            "Details": "November 05, 2026"
-          },
-          {
-            "S. No .": "5",
-            "Particulars": "Profile, Experience and Expertise in specific functional areas",
-            "Details": "As mentioned in the explanatory statement"
-          },
-          {
-            "S. No .": "6",
-            "Particulars": "Terms and conditions of appointment",
-            "Details": "Appointed as a Whole Time Director for 3 years commencing from November 05, 2026 upto November 04, 2029, liable to retire by rotation."
-          },
-          {
-            "S. No .": "7",
-            "Particulars": "Details of remuneration last drawn",
-            "Details": "First time appointment as Director in the Company"
-          },
-          {
-            "S. No .": "8",
-            "Particulars": "Details of remuneration sought to be paid",
-            "Details": "As mentioned in the explanatory statement"
-          },
-          {
-            "S. No .": "9",
-            "Particulars": "Directorships in Listed Companies and other Directorships (Excluding Foreign Companies and Section 8 Companies and this Company)",
-            "Details": "Listed: Nil Others: Jam Khambhaliya Jamnagar Power Transmission Limited, Ceigall Transmission and Distribution Limited, Velgaon Power Transmission Limited, Ceigall Green Energy MH1 Limited, Ceigall Green Energy MH2 Limited, Ceigall Southern Ludhiana Bypass Private Limited, Ceigall Jalbehra Shahbad Greenfield Highway Private Limited, Ceigall Integrated Energy Limited, Ceigall Ludhiana Rupnagar Greenfield Highway Private Limited and SY Jeevan Services Private Limited."
-          },
-          {
-            "S. No .": "10",
-            "Particulars": "Membership/ Chairpersonship of Committees in other companies (excluding foreign companies)",
-            "Details": "Nil"
-          },
-          {
-            "S. No .": "11",
-            "Particulars": "Listed entities from which the Director has resigned from directorship in last three (3) years",
-            "Details": "Resigned from C & C Constructions Limited as Director/ Whole time Director"
-          },
-          {
-            "S. No .": "12",
-            "Particulars": "No. of Board Meetings attended during FY 2026-27 (upto 05.11.2026)",
-            "Details": "1"
-          },
-          {
-            "S. No .": "13",
-            "Particulars": "Inter-se relationship with other Directors and Key Managerial Personnel",
-            "Details": "None"
-          },
-          {
-            "S. No .": "14",
-            "Particulars": "No. of shares held",
-            "Details": "30 Equity Shares"
-          }
-        ]
-      },
-      {
-        "page": 35,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Particulars": "Nature of industry",
-            "Details": "Ceigall India Limited operates in the infrastructure construction and EPC industry, primarily focused on highways, expressways, bridges, rail infrastructure, tunnels, and runways. The company is also diversifying into renewable energy infrastructure, including utility-scale solar power and Battery Energy Storage System (BESS) projects.",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "S. No.": "2",
-            "Particulars": "Date or expected date of commencement of Commercial production",
-            "Details": "July 08, 2002",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "S. No.": "3",
-            "Particulars": "In case of new companies, expected date of commencement of activities as per project approved by financial institutions appearing in the prospectus",
-            "Details": "Not Applicable",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "S. No.": "4",
-            "Particulars": "Financial performance based on given indicators (Standalone)",
-            "Details": "(Amounts in Million)",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "S. No.": "",
-            "Particulars": "",
-            "Details": "Particulars",
-            "col_4": "2023-24 Audited",
-            "col_5": "2024-25 Audited",
-            "col_6": "2025-26 Audited"
-          },
-          {
-            "S. No.": "",
-            "Particulars": "",
-            "Details": "Gross Revenue",
-            "col_4": "29,917.96",
-            "col_5": "34,379.59",
-            "col_6": "39,247.45"
-          },
-          {
-            "S. No.": "",
-            "Particulars": "",
-            "Details": "Profit (loss) after Tax",
-            "col_4": "2,769.32",
-            "col_5": "2,702.48",
-            "col_6": "3,051.83"
-          },
-          {
-            "S. No.": "",
-            "Particulars": "",
-            "Details": "EPS",
-            "col_4": "17.62",
-            "col_5": "16.07",
-            "col_6": "17.52"
-          },
-          {
-            "S. No.": "5",
-            "Particulars": "Foreign investments or collaborations, if any",
-            "Details": "Nil",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          }
-        ]
-      },
-      {
-        "page": 35,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Particulars": "Background details",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": "As mentioned in the explanatory statement"
-          },
-          {
-            "S. No.": "2",
-            "Particulars": "Past Remuneration",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": "First time appointment as Director in the Company"
-          },
-          {
-            "S. No.": "3",
-            "Particulars": "Recognition or awards",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": "As mentioned in the explanatory statement"
-          },
-          {
-            "S. No.": "4",
-            "Particulars": "Job profile and his suitability",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": ""
-          },
-          {
-            "S. No.": "5",
-            "Particulars": "Remuneration proposed",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": ""
-          },
-          {
-            "S. No.": "6",
-            "Particulars": "Comparative remuneration profile with respect to industry, size of the company, profile of the position and person (in case of expatriates the relevant details would be with respect to the country of his origin)",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": "Taking into consideration the qualification, knowledge, experience and the responsibilities shouldered by said Directors, remuneration paid to him is commensurate with remuneration of similar senior levels in similar sized domestic Companies."
-          },
-          {
-            "S. No.": "7",
-            "Particulars": "Pecuniary relationship directly or indirectly with the company, or relationship with the managerial personnel, if any",
-            "Mr. Chandan Singh, Whole-Time Director (DIN: 10901481)": "Nil"
-          }
-        ]
-      }
-    ]
   }
 ]
