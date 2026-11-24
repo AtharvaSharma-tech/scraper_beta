@@ -1,5 +1,859 @@
 [
   {
+    "NEWSID": "eb6eed87-3a29-4d15-b639-202a1e26f729",
+    "SCRIP_CD": 514211,
+    "XML_NAME": "ANN_514211_EB6EED87-3A29-4D15-B639-202A1E26F729",
+    "NEWSSUB": "Sumeet Industries Ltd-$ - 514211 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-24T13:48:05.363",
+    "NEWS_DT": "2026-11-24T13:48:05.363",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "318f864e-f8d5-4636-8cbe-b92f31a33ee8.pdf",
+    "MORE": "",
+    "HEADLINE": "Earning Call Script for conference held on 20.11.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/sumeet-industries-ltd/sumeetinds/514211/",
+    "SLONGNAME": "Sumeet Industries Ltd-$",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-24T13:48:05",
+    "DissemDT": "2026-11-24T13:48:05.363",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 499242,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "70 crore",
+      "net_profit": "",
+      "total_debt": "137 crore",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7b985f04-28c3-4777-b3a3-1adfac7f50cc",
+    "SCRIP_CD": 540005,
+    "XML_NAME": "ANN_540005_7B985F04-28C3-4777-B3A3-1ADFAC7F50CC",
+    "NEWSSUB": "LTM Ltd - 540005 - Schedule Of Analyst/ Institutional Investor Call",
+    "DT_TM": "2026-11-24T13:39:37.103",
+    "NEWS_DT": "2026-11-24T13:39:37.103",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "840079c4-7fbb-45ba-879d-e3490bd7ac5c.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ltm-ltd/ltm/540005/",
+    "SLONGNAME": "LTM Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-24T13:39:37",
+    "DissemDT": "2026-11-24T13:39:37.103",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 765030,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- LTM Ltd will hold its Analyst/Institutional Investor meetings (including group and one‑on‑one sessions) on **30 November – 1 December 2026** at the **NDR in Mumbai**.  \n- The notice is issued under **Regulation 30 of the SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015**; the announcement contains **no financial figures or decisions**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3dc296c3-03e4-4f6b-bc0e-bd1e179c3c02",
+    "SCRIP_CD": 523289,
+    "XML_NAME": "ANN_523289_3DC296C3-03E4-4F6B-BC0E-BD1E179C3C02",
+    "NEWSSUB": "Rama Vision Ltd - 523289 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-24T13:35:46.74",
+    "NEWS_DT": "2026-11-24T13:35:46.74",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bb58fa10-ff73-413e-941b-23aaaa66f1aa.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation regarding Publication of Newspaper Advertisement - Proposed Transfer of Securities",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/rama-vision-ltd/ramavision/523289/",
+    "SLONGNAME": "Rama Vision Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-24T13:35:46",
+    "DissemDT": "2026-11-24T13:35:46.74",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 10622826,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Announcement date & purpose:** On 24 November 2026, Rama Vision Ltd. published a newspaper advertisement (in *The Pioneer* – English, *Garvi Gujarat* – Gujarati, and *Amrit Vichar* – Hindi) to comply with SEBI Regulation 30, notifying the market of a **proposed transfer of securities** held by existing registered security holders to a new transferee. The advertisement references SEBI Circular HO/38/13/11(2)‑2026 dated 30 January 2026.\n\n- **Disclosure channels:** The same information has been posted on the company’s website (https://www.ramavisionltd.com/) for public access. No monetary amounts, share counts, or other financial figures are disclosed in the announcement.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3f8c5d16-1193-4556-93b1-372907e23403",
+    "SCRIP_CD": 532134,
+    "XML_NAME": "ANN_532134_3F8C5D16-1193-4556-93B1-372907E23403",
+    "NEWSSUB": "Bank of Baroda - 532134 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-24T13:33:08.997",
+    "NEWS_DT": "2026-11-24T13:33:08.997",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "52974e54-8d56-451c-91df-1225d487a4c2.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Publication - EGM",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bank-of-baroda/bankbaroda/532134/",
+    "SLONGNAME": "Bank of Baroda",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-24T13:33:09",
+    "DissemDT": "2026-11-24T13:33:08.997",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1933148,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Bank of Baroda issued a notice of an Extraordinary General Meeting (EGM) that was published in Business Standard, Financial Express (English, Hindi and Gujarati editions) on 24 Nov 2026, following a prior letter dated 14 Nov 2026.  \n- The company asked the stock exchanges to upload this information on their websites in compliance with SEBI’s LODR Regulations, 2015.  \n\n*No specific financial figures or decisions are disclosed in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e1d2ba6c-8c1e-4569-a495-a6933a4e262b",
+    "SCRIP_CD": 506373,
+    "XML_NAME": "ANN_506373_E1D2BA6C-8C1E-4569-A495-A6933A4E262B",
+    "NEWSSUB": "Citurgia Biochemicals Ltd - 506373 - Results-Delay in Financial Results",
+    "DT_TM": "2026-11-24T13:31:54.073",
+    "NEWS_DT": "2026-11-24T13:31:54.073",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "54847877-fcd2-4c2a-aca8-95238196a22b.pdf",
+    "MORE": "",
+    "HEADLINE": "UNAUDITED FINANCE RESULT FOR THE QUARTER AND HALF YEAR ENDED 30.09.2026\r\n",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/citurgia-biochemicals-ltd/citurgia/506373/",
+    "SLONGNAME": "Citurgia Biochemicals Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-24T13:31:54",
+    "DissemDT": "2026-11-24T13:31:54.073",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1312094,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board approval & filing date:** The unaudited financial results for the quarter and half‑year ended 30 September 2026 were approved by the Board of Directors on **14 November 2026** and submitted to BSE on **24 November 2026**.  \n\n- **Key financial figures (in Lakhs):**  \n  - **Profit/(Loss) before tax:** ‑ 24.32 (quarter) and ‑ 32.52 (half‑year).  \n  - **Total expenses:** 24.32 (quarter) and 32.52 (half‑year).  \n  - **Earnings per share (basic & diluted, continuing operations):** 0.001 (quarter) and",
+    "key_metrics": {
+      "total_assets": "1027.31",
+      "total_equity": "806.04",
+      "total_debt": "688.86",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "col_1": "XVII",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "Total Comprehensive Income for the period (XV+XVI) (Comprising Profit (Loss) and Other Comprehensive Income for the period)",
+            "-": "(24.32)",
+            "-_1": "(8.20)",
+            "-_2": "(11.20)",
+            "-_3": "(32.52)",
+            "-_4": "(19.59)",
+            "-_5": "(74.25)"
+          },
+          {
+            "col_1": "XVIII",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "Earnings per equity share (for continuing operation):",
+            "-": "",
+            "-_1": "",
+            "-_2": "",
+            "-_3": "",
+            "-_4": "",
+            "-_5": ""
+          },
+          {
+            "col_1": "",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "(1) Basic",
+            "-": "0.001",
+            "-_1": "(0.006)",
+            "-_2": "0.0000",
+            "-_3": "0.000",
+            "-_4": "0.001",
+            "-_5": "(0.021)"
+          },
+          {
+            "col_1": "",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "(2) Diluted",
+            "-": "0.001",
+            "-_1": "(0.006)",
+            "-_2": "0.0000",
+            "-_3": "0.000",
+            "-_4": "0.001",
+            "-_5": "(0.021)"
+          },
+          {
+            "col_1": "XIX",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "Earnings per equity share (for discontinued operation):",
+            "-": "",
+            "-_1": "",
+            "-_2": "",
+            "-_3": "",
+            "-_4": "",
+            "-_5": ""
+          },
+          {
+            "col_1": "",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "(1) Basic",
+            "-": "0.001",
+            "-_1": "(0.006)",
+            "-_2": "0.0000",
+            "-_3": "0.000",
+            "-_4": "0.001",
+            "-_5": "(0.021)"
+          },
+          {
+            "col_1": "",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "(2) Diluted",
+            "-": "0.001",
+            "-_1": "(0.006)",
+            "-_2": "0.0000",
+            "-_3": "0.000",
+            "-_4": "0.001",
+            "-_5": "(0.021)"
+          },
+          {
+            "col_1": "XX",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "Earning Per Share (for discontinued & continuing operations)",
+            "-": "",
+            "-_1": "",
+            "-_2": "",
+            "-_3": "",
+            "-_4": "",
+            "-_5": ""
+          },
+          {
+            "col_1": "",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "a) Basic",
+            "-": "0.001",
+            "-_1": "(0.006)",
+            "-_2": "0.0000",
+            "-_3": "0.000",
+            "-_4": "0.001",
+            "-_5": "(0.021)"
+          },
+          {
+            "col_1": "",
+            "(ii) Income tax relating to items that will be reclassified to profit or loss": "b) Diluted",
+            "-": "0.001",
+            "-_1": "(0.006)",
+            "-_2": "0.0000",
+            "-_3": "0.000",
+            "-_4": "0.001",
+            "-_5": "(0.021)"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 37,
+        "rows": [
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "",
+            "col_3": "Amount in Lakhs",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "S. No.",
+            "col_2": "Particulars",
+            "col_3": "As at 30.09.2026",
+            "col_4": "As at 31.03.2026"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "",
+            "col_3": "Unaudited",
+            "col_4": "Audited"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "A",
+            "col_2": "ASSETS",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "1",
+            "col_2": "Non- Current Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(a) Property, Plant and Equipment",
+            "col_3": "28.45",
+            "col_4": "39.55"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(b) Capital Work-in-Progress",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(c) Other Intangible Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(d) Financial Assets",
+            "col_3": "",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(i) Investments",
+            "col_3": "0.02",
+            "col_4": "0.02"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(ii) Loan & Advances",
+            "col_3": "173.55",
+            "col_4": "175.05"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(iii) Other financial assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(e) Deferred tax assets (net)",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(f) Other Non-Current Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "Total Non-Current Assets",
+            "col_3": "202.02",
+            "col_4": "214.62"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "2",
+            "col_2": "Current Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(a) Inventories",
+            "col_3": "806.63",
+            "col_4": "806.63"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(b) Financial Assets",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(i) Trade Receivables",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(ii) Cash and Bank equivalents",
+            "col_3": "5.56",
+            "col_4": "12.69"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(iii) Bank balances other than (ii) above",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(iv) Loan & Advances",
+            "col_3": "3.02",
+            "col_4": "3.02"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(v) Investment",
+            "col_3": "-",
+            "col_4": "-"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(c) Other Current Assets",
+            "col_3": "10.08",
+            "col_4": "10.08"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "Total Current Assets",
+            "col_3": "825.29",
+            "col_4": "832.43"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "TOTAL ASSETS",
+            "col_3": "1,027.31",
+            "col_4": "1,047.04"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "Equity",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(a) Equity Share Capital",
+            "col_3": "2,641.91",
+            "col_4": "2,641.91"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(b) Other Equity",
+            "col_3": "-3,697.94",
+            "col_4": "-3,665.32"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(c) Money received against share warrants",
+            "col_3": "250.00",
+            "col_4": "250.00"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "Total Equity",
+            "col_3": "-806.04",
+            "col_4": "-773.41"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "B",
+            "col_2": "Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "1",
+            "col_2": "Non-Current Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(a) Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(i) Borrowings",
+            "col_3": "688.86",
+            "col_4": "686.26"
+          },
+          {
+            "STATEMENT OF ASSETS AND LIABILITIES AS AT 30.09.2026": "",
+            "col_2": "(b) Deferred Tax Liabilities (Net)",
+            "col_3": "171.06",
+            "col_4": "171.06"
+          }
+        ]
+      },
+      {
+        "page": 5,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "Total Non-Current Liabilities",
+            "11.73": "871.65",
+            "11.73_1": "869.05"
+          },
+          {
+            "col_1": "2",
+            "(c) Other Non-Current Liabilities": "Current Liabilities",
+            "11.73": "",
+            "11.73_1": ""
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "(a) Financial Liabilities",
+            "11.73": "",
+            "11.73_1": ""
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "(i) Borrowings",
+            "11.73": "3.40",
+            "11.73_1": "3.40"
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "(ii) Trade Payables",
+            "11.73": "363.12",
+            "11.73_1": "363.12"
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "(iii) Other Financial Liabilities",
+            "11.73": "-",
+            "11.73_1": "-"
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "(b) Other Current Liabilities",
+            "11.73": "544.17",
+            "11.73_1": "533.87"
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "(c) Provisions",
+            "11.73": "51.01",
+            "11.73_1": "51.01"
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "Total Current Liabilities",
+            "11.73": "961.70",
+            "11.73_1": "951.41"
+          },
+          {
+            "col_1": "",
+            "(c) Other Non-Current Liabilities": "TOTAL EQUITY AND LIABILITIES",
+            "11.73": "1,027.31",
+            "11.73_1": "1,047.04"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 35,
+        "rows": [
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "",
+            "col_2": "Amounts in Lakhs",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Particulars",
+            "col_2": "As at 30.09.2026",
+            "col_3": "As at 31.03.2026"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "(A)CASH FLOW FROM OPERATING ACTIVITIES:-",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "1.Net profit before tax",
+            "col_2": "-32.52",
+            "col_3": "-74.25"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "2.Adjustment for:",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Add: Depreciation & Amortization Expenses",
+            "col_2": "11.10",
+            "col_3": "22.56"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Add: Amortization Expenses / Written off",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Less: Other Income",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Operating Profit before Working capital changes",
+            "col_2": "-21.42",
+            "col_3": "-51.69"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "3.Working Capital Changes:",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Decrease (Increase) in Trade & Other Receivables",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Decrease (Increase) in Inventories",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Decrease (Increase) in Other Current Assets",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Decrease (Increase) in Other Non-Current Assets",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Increase (Decrease) in Trade & Other Payables",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Increase (Decrease) in Current Liabilities & Provisions",
+            "col_2": "10.29",
+            "col_3": "38.60"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Increase (Decrease) in Other Current Liabilities",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Net Changes in Working Capital",
+            "col_2": "10.29",
+            "col_3": "38.60"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Cash Generated from Operations",
+            "col_2": "-11.13",
+            "col_3": "-13.09"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Adjustment of Taxes",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Net Cash Flow from Operating Activities (A)",
+            "col_2": "-11.13",
+            "col_3": "-13.09"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "(B.) CASH FLOW FROM INVESTING ACTIVITIES :",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Purchase of Property, Plant & Equipment",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Non-Current Financial Assets",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "(Increase) Decrease in Loans & Advances",
+            "col_2": "1.50",
+            "col_3": "7.60"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Current Financial Assets",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "(Increase) Decrease in Loans & Advances",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Other Income",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "(Increase) Decrease in Current Investments",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Net Cash Flow from Investing Activities (B)",
+            "col_2": "1.50",
+            "col_3": "7.60"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "(C.) CASH FLOW FROM FINANCING ACTIVITIES :",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Issue of share capital and Proceeds from Share Application Money",
+            "col_2": "-",
+            "col_3": "-"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Non-Current Financial Assets",
+            "col_2": "",
+            "col_3": ""
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Increase / (Decrease) in Borrowings",
+            "col_2": "2.60",
+            "col_3": "6.30"
+          },
+          {
+            "Cash Flow Statement for the year ended 30.09.2026": "Current Financial Assets",
+            "col_2": "",
+            "col_3": ""
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Increase / (Decrease) in Borrowings": "Increase in Preliminary Expenses",
+            "-": "-",
+            "-_1": "-"
+          },
+          {
+            "Increase / (Decrease) in Borrowings": "Net Cash Flow from Financing Activities (C)",
+            "-": "2.60",
+            "-_1": "6.30"
+          },
+          {
+            "Increase / (Decrease) in Borrowings": "Net Increase / (Decrease) in Cash & Cash Equivalents ( A-B+C )",
+            "-": "-7.03",
+            "-_1": "0.81"
+          },
+          {
+            "Increase / (Decrease) in Borrowings": "Cash and cash equivalents at the beginning of the year / Period",
+            "-": "12.69",
+            "-_1": "11.88"
+          },
+          {
+            "Increase / (Decrease) in Borrowings": "Cash and cash equivalents at the end of the year/ Period",
+            "-": "5.56",
+            "-_1": "12.69"
+          },
+          {
+            "Increase / (Decrease) in Borrowings": "* Note: The above Cash Flow Statement has been prepared under \"Indirect Method\" as set out in the Accounting Standard",
+            "-": "",
+            "-_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "0100e8ed-a21f-45e8-b009-7830fc21aed1",
+    "SCRIP_CD": 500147,
+    "XML_NAME": "ANN_500147_0100E8ED-A21F-45E8-B009-7830FC21AED1",
+    "NEWSSUB": "John Cockerill India Ltd-$ - 500147 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-24T13:31:05.207",
+    "NEWS_DT": "2026-11-24T13:31:05.207",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7074f5dc-84e5-405e-9e3a-844d137df15f.pdf",
+    "MORE": "Pursuant to Regs 30 and 46(2) of SEBI (LODR) Regulations 2015, please find attached Earnings Call Transcript of audio call held on November 17, 2026, for the quarter and nine months ended September 30, 2026.",
+    "HEADLINE": "Pursuant to Regs 30 and 46(2) of SEBI (LODR) Regulations 2015, please find attached Earnings Call Transcript of audio call held on November 17, 2026, for the quarter and nine months ended ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/john-cockerill-india-ltd/cockerill/500147/",
+    "SLONGNAME": "John Cockerill India Ltd-$",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-24T13:31:05",
+    "DissemDT": "2026-11-24T13:31:05.207",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 634606,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement provides only the **transcript of the Q3 FY 2026 earnings conference call held on 17 Nov 2026** (covering the quarter and nine‑months ended 30 Sept 2026); it does not disclose any revenue, profit, earnings per share, dividend, share‑buyback, or other quantitative financial results.  \n\n- Apart from a qualitative update on the company’s integration of its Chinese, German and Belgian operations and a market outlook (e.g., ≈ 8 % steel‑demand growth projected for 2026‑27), **no specific financial numbers, dates of transactions, or monetary decisions are mentioned** in the text.",
+    "key_metrics": {
+      "revenue": "2030",
+      "net_profit": "32.2 crore",
+      "operating_profit": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "4a5a7709-1709-43b5-be9d-176e71b38eb6",
     "SCRIP_CD": 540590,
     "XML_NAME": "ANN_540590_4A5A7709-1709-43B5-BE9D-176E71B38EB6",
@@ -4320,226 +5174,6 @@
     "DataInsDate": "2026-11-23T22:17:39",
     "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/37bca6c7-e30e-46aa-b617-c0d44c7b73bc.mp3",
     "summary": "- An investor‑conference call was held on **23 Nov 2026 at 6:30 PM IST**, and the audio recording is available at: https://media.aplapollo.com/files/Investor_Conference_Call.mp3  \n- The announcement contains **no financial figures, dates of transactions, or decisions** – it only provides the call details and recording link.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "73e86ee5-61fd-4c2b-8e69-d0f688660cb4",
-    "SCRIP_CD": 541337,
-    "XML_NAME": "ANN_541337_73E86EE5-61FD-4C2B-8E69-D0F688660CB4",
-    "NEWSSUB": "Milestone Furniture Ltd - 541337 - Notice Of Continuing Session Of The Adjourned 12Th Annual General Meeting",
-    "DT_TM": "2026-11-23T22:16:47.51",
-    "NEWS_DT": "2026-11-23T22:16:47.51",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e778b4a0-a427-4c38-a53a-40da9c3695fc.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of the continuing session of the Adjourned 12th Annual general Meeting / BSE Scrip Code 541337.",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/milestone-furniture-ltd/milefur/541337/",
-    "SLONGNAME": "Milestone Furniture Ltd",
-    "AGENDA_ID": 3,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-23T22:16:47",
-    "DissemDT": "2026-11-23T22:16:47.51",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1305252,
-    "SUBCATNAME": "AGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3c1b9320-c635-488e-82bc-46105ef25a8c",
-    "SCRIP_CD": 532218,
-    "XML_NAME": "ANN_532218_3C1B9320-C635-488E-82BC-46105EF25A8C",
-    "NEWSSUB": "South Indian Bank Ltd - 532218 - Approval Granted By The Reserve Bank Of India (RBI) To SBI Mutual Fund For Acquiring Aggregate Holding Of Up To 9.99% Of The Paid-Up Share Capital Or Voting Rights In The Bank",
-    "DT_TM": "2026-11-23T22:16:27.19",
-    "NEWS_DT": "2026-11-23T22:16:27.19",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "02634d80-09e6-4b36-8740-2cabb15e844a.pdf",
-    "MORE": "",
-    "HEADLINE": "Approval granted by the RBI to SBI Mutual fund for acquiring aggregate holding of upto 9.99% of the paid up share capital or voting rights in the Bank",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/south-indian-bank-ltd/southbank/532218/",
-    "SLONGNAME": "South Indian Bank Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-23T22:16:27",
-    "DissemDT": "2026-11-23T22:16:27.19",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 535563,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6d797629-d051-4f52-adc5-69e7394e9d17",
-    "SCRIP_CD": 544987,
-    "XML_NAME": "ANN_544987_6D797629-D051-4F52-ADC5-69E7394E9D17",
-    "NEWSSUB": "Tembo Global Industries Ltd - 544987 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-23T22:14:13.513",
-    "NEWS_DT": "2026-11-23T22:14:13.513",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fde0456d-8b7b-437e-b99e-1e0b876e3a5c.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Earnings Call for investors / analysts",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/tembo-global-industries-ltd/tembo/544987/",
-    "SLONGNAME": "Tembo Global Industries Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-23T22:14:13",
-    "DissemDT": "2026-11-23T22:14:13.513",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 377506,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "6d797629-d051-4f52-adc5-69e7394e9d17",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14968550,
-    "DataInsDate": "2026-11-23T22:14:13.413",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2d0ff9d8-92ba-47fb-b953-206edbb61fc8",
-    "SCRIP_CD": 513683,
-    "XML_NAME": "ANN_513683_2D0FF9D8-92BA-47FB-B953-206EDBB61FC8",
-    "NEWSSUB": "NLC India Ltd - 513683 - Incorporation Of NLC NALCO Power Private Limited",
-    "DT_TM": "2026-11-23T22:09:46.15",
-    "NEWS_DT": "2026-11-23T22:09:46.15",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ac997ccc-180d-4cbf-b203-e464a83d4965.pdf",
-    "MORE": "",
-    "HEADLINE": "Please refer the attachment.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/nlc-india-ltd/nlcindia/513683/",
-    "SLONGNAME": "NLC India Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-23T22:09:46",
-    "DissemDT": "2026-11-23T22:09:46.15",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3448044,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": ""
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7072c0aa-b0fd-4255-9a50-b61537be4f9d",
-    "SCRIP_CD": 512599,
-    "XML_NAME": "ANN_512599_7072C0AA-B0FD-4255-9A50-B61537BE4F9D",
-    "NEWSSUB": "Adani Enterprises Ltd - 512599 - Announcement under Regulation 30 (LODR)-Acquisition",
-    "DT_TM": "2026-11-23T22:07:33.253",
-    "NEWS_DT": "2026-11-23T22:07:33.253",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e1abed3d-9957-4ec1-9f2c-36cc8e5c9cde.pdf",
-    "MORE": "",
-    "HEADLINE": "Incorporation of Wholly Owned Subsidiary namely Nashik Phata Road Limited",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/adani-enterprises-ltd/adanient/512599/",
-    "SLONGNAME": "Adani Enterprises Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-23T22:07:33",
-    "DissemDT": "2026-11-23T22:07:33.253",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 122421,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7517f198-384d-4f06-a3dc-47a413a45611",
-    "SCRIP_CD": 500040,
-    "XML_NAME": "ANN_500040_7517F198-384D-4F06-A3DC-47A413A45611",
-    "NEWSSUB": "Aditya Birla Real Estate Ltd - 500040 -  Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
-    "DT_TM": "2026-11-23T22:04:56.99",
-    "NEWS_DT": "2026-11-23T22:04:56.99",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d62937ea-5536-494d-aa35-d3a7029a5eeb.pdf",
-    "MORE": "",
-    "HEADLINE": "Scrutinizer''s Report of Postal Ballot Notice dated 19th October, 2026 of Aditya Birla Real Estate Limited",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aditya-birla-real-estate-ltd/abrel/500040/",
-    "SLONGNAME": "Aditya Birla Real Estate Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 13,
-    "News_submission_dt": "2026-11-23T22:04:56",
-    "DissemDT": "2026-11-23T22:04:56.99",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4227519,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
