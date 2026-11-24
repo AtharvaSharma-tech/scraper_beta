@@ -1,5 +1,103 @@
 [
   {
+    "NEWSID": "152a2259-3b07-4325-b373-748d24e6bbbb",
+    "SCRIP_CD": 545017,
+    "XML_NAME": "ANN_545017_152A2259-3B07-4325-B373-748D24E6BBBB",
+    "NEWSSUB": "M. K. Sons Fine Jewels Ltd - 545017 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-25T01:50:30.36",
+    "NEWS_DT": "2026-11-25T01:50:30.36",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3731ee67-0faa-435e-a98d-aed814bbd97c.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/m-k-sons-fine-jewels-ltd/mkjewels/545017/",
+    "SLONGNAME": "M. K. Sons Fine Jewels Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-25T01:50:30",
+    "DissemDT": "2026-11-25T01:50:30.36",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 257529,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Unaudited financial results (Half‑year FY 27 ended 30 Sept 2026):**  \n  - Total income rose to **₹ 2,634.16 million** (up 44.72% YoY from ₹ 1,820.15 million).  \n  - PAT increased to **₹ 307.78 million** (up 84.98% YoY from ₹ 166.38 million).  \n  - In Q2 FY 27, total income was **₹ 1,619.67 million** (↑ 49.11% YoY",
+    "key_metrics": {
+      "revenue": "1619.67",
+      "net_profit": "157.62",
+      "operating_profit": "239.35",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 1,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "Particulars": "",
+            "Quarter ended": "30th September 2026",
+            "col_3": "30th September 2025",
+            "Half year ended": "30th September 2026",
+            "col_5": "30th September 2025"
+          },
+          {
+            "Particulars": "",
+            "Quarter ended": "(Unaudited)",
+            "col_3": "(Unaudited)",
+            "Half year ended": "(Unaudited)",
+            "col_5": "(Unaudited)"
+          },
+          {
+            "Particulars": "Total Income",
+            "Quarter ended": "1,619.67",
+            "col_3": "1,086.20",
+            "Half year ended": "2,634.16",
+            "col_5": "1,820.15"
+          },
+          {
+            "Particulars": "EBITDA",
+            "Quarter ended": "239.35",
+            "col_3": "145.97",
+            "Half year ended": "473.63",
+            "col_5": "265.51"
+          },
+          {
+            "Particulars": "EBITDA Margin",
+            "Quarter ended": "14.78%",
+            "col_3": "13.44%",
+            "Half year ended": "17.98%",
+            "col_5": "14.59%"
+          },
+          {
+            "Particulars": "PAT",
+            "Quarter ended": "157.62",
+            "col_3": "91.35",
+            "Half year ended": "307.78",
+            "col_5": "166.37"
+          },
+          {
+            "Particulars": "PAT Margin",
+            "Quarter ended": "9.73%",
+            "col_3": "8.41%",
+            "Half year ended": "11.69%",
+            "col_5": "9.14%"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "e6bd6fa8-fce5-47cd-9636-761be7079ceb",
     "SCRIP_CD": 506480,
     "XML_NAME": "ANN_506480_E6BD6FA8-FCE5-47CD-9636-761BE7079CEB",
@@ -9410,47 +9508,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "45833b0f-135b-4482-93ad-b5f58b645bb3",
-    "SCRIP_CD": 530343,
-    "XML_NAME": "ANN_530343_45833B0F-135B-4482-93AD-B5F58B645BB3",
-    "NEWSSUB": "Genus Power Infrastructures Ltd-$ - 530343 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-24T18:00:47.137",
-    "NEWS_DT": "2026-11-24T18:00:47.137",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "47a9d6e8-a5b3-4ac1-99dc-9f4704df5184.pdf",
-    "MORE": "",
-    "HEADLINE": "Transcript of Earnings call held on November 19, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/genus-power-infrastructures-ltd/genuspower/530343/",
-    "SLONGNAME": "Genus Power Infrastructures Ltd-$",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 6,
-    "News_submission_dt": "2026-11-24T18:00:47",
-    "DissemDT": "2026-11-24T18:00:47.137",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 960512,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "2",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
     "financial_tables": []
   }
 ]
