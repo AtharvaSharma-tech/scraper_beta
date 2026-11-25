@@ -1,5 +1,1436 @@
 [
   {
+    "NEWSID": "e496e5e9-2909-48f6-a62c-44406ab07414",
+    "SCRIP_CD": 539659,
+    "XML_NAME": "ANN_539659_E496E5E9-2909-48F6-A62C-44406AB07414",
+    "NEWSSUB": "Vikram Kamats Hospitality Ltd - 539659 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-25T13:28:53.693",
+    "NEWS_DT": "2026-11-25T13:28:53.693",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "58dcfad5-fa34-4633-849e-76d93c2b3035.pdf",
+    "MORE": "",
+    "HEADLINE": "Investor Presentation",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vikram-kamats-hospitality-ltd/kamats/539659/",
+    "SLONGNAME": "Vikram Kamats Hospitality Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:28:53",
+    "DissemDT": "2026-11-25T13:28:53.693",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 27341081,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The announcement merely informs BSE that Vikram Kamats Hospitality Ltd has submitted its Investor Presentation (dated November 2026) for record‑keeping; it contains no specific financial figures, dates of transactions, or decisions.  \n\n- Consequently, there are no key numbers, financial commitments, or actionable financial information disclosed in the text.",
+    "key_metrics": {
+      "revenue": "1369.19",
+      "dividend": "5 %",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 20,
+        "table_index": 1,
+        "row_count": 7,
+        "rows": [
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "Particulars",
+            "col_2": "Half Year ended 30th Sept 2026",
+            "col_3": "Half Year ended 30th Sept 2025",
+            "col_4": "Growth / (Decline)"
+          },
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "Total revenue",
+            "col_2": "1,369.19",
+            "col_3": "1,441.64",
+            "col_4": "-5.03%"
+          },
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "EBIDTA",
+            "col_2": "122.21",
+            "col_3": "319.73",
+            "col_4": "-61.78%"
+          },
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "Finance Cost",
+            "col_2": "84.44",
+            "col_3": "54.04",
+            "col_4": "56.25%"
+          },
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "Depreciation",
+            "col_2": "183.55",
+            "col_3": "121 .55",
+            "col_4": "51.01%"
+          },
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "PBT",
+            "col_2": "-39.78",
+            "col_3": "144.14",
+            "col_4": "-127.60%"
+          },
+          {
+            "VIKRAM KAMATS HOSPITALITY LTD (STANDALONE) (Rs. In Lakhs)": "TCI",
+            "col_2": "-22.64",
+            "col_3": "102.71",
+            "col_4": "-122.05%"
+          }
+        ]
+      },
+      {
+        "page": 20,
+        "table_index": 2,
+        "row_count": 7,
+        "rows": [
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "Particulars",
+            "col_2": "Half Year ended 30th Sept 2026",
+            "col_3": "Half Year ended 30th Sept 2025",
+            "col_4": "Growth / (Decline)"
+          },
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "Total revenue",
+            "col_2": "1 ,371.39",
+            "col_3": "1 ,245.98",
+            "col_4": "10.07%"
+          },
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "EBIDTA",
+            "col_2": "276.56",
+            "col_3": "389.76",
+            "col_4": "-29.04%"
+          },
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "Finance Cost",
+            "col_2": "94.12",
+            "col_3": "104.9",
+            "col_4": "-10.28%"
+          },
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "Depreciation",
+            "col_2": "245.54",
+            "col_3": "264.52",
+            "col_4": "-7.18%"
+          },
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "PBT",
+            "col_2": "-26.29",
+            "col_3": "20.34",
+            "col_4": "-229.25%"
+          },
+          {
+            "VITIZEN HOTELS LIMITED (Rs. In Lakhs)": "TCI",
+            "col_2": "-19.51",
+            "col_3": "18.09",
+            "col_4": "-207.85%"
+          }
+        ]
+      },
+      {
+        "page": 20,
+        "table_index": 3,
+        "row_count": 7,
+        "rows": [
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "Particulars",
+            "col_2": "Half Year ended 30th Sept 2026",
+            "col_3": "Half Year ended 30th Sept 2025",
+            "col_4": "Growth / (Decline)"
+          },
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "Total revenue",
+            "col_2": "2,582.23",
+            "col_3": "2,562.34",
+            "col_4": "0.78%"
+          },
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "EBIDTA",
+            "col_2": "276.38",
+            "col_3": "602.5",
+            "col_4": "-54.13%"
+          },
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "Finance Cost",
+            "col_2": "150.59",
+            "col_3": "158.94",
+            "col_4": "-5.25%"
+          },
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "Depreciation",
+            "col_2": "429.09",
+            "col_3": "386.07",
+            "col_4": "11.14%"
+          },
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "PBT",
+            "col_2": "-160.49",
+            "col_3": "57.49",
+            "col_4": "-379.16%"
+          },
+          {
+            "CONSOLIDATED RESULTS (Rs. In Lakhs)": "TCI",
+            "col_2": "-136.58",
+            "col_3": "13.81",
+            "col_4": "-1,089.00%"
+          }
+        ]
+      },
+      {
+        "page": 21,
+        "table_index": 1,
+        "row_count": 6,
+        "rows": [
+          {
+            "Revenue Breakup VKHL (Kamats)": "COCO & Leased",
+            "Amount (in million)": "124.98"
+          },
+          {
+            "Revenue Breakup VKHL (Kamats)": "Franchised",
+            "Amount (in million)": "20.65"
+          },
+          {
+            "Revenue Breakup VKHL (Kamats)": "Franchised - Corporate",
+            "Amount (in million)": "1.75"
+          },
+          {
+            "Revenue Breakup VKHL (Kamats)": "Trading",
+            "Amount (in million)": "40.35"
+          },
+          {
+            "Revenue Breakup VKHL (Kamats)": "Other Operational",
+            "Amount (in million)": "31.42"
+          },
+          {
+            "Revenue Breakup VKHL (Kamats)": "Total",
+            "Amount (in million)": "219.18"
+          }
+        ]
+      },
+      {
+        "page": 21,
+        "table_index": 4,
+        "row_count": 6,
+        "rows": [
+          {
+            "Revenue Breakup - VITS": "Managed & Franchised",
+            "Amount (in million)": "212.47"
+          },
+          {
+            "Revenue Breakup - VITS": "Royalties",
+            "Amount (in million)": "116.87"
+          },
+          {
+            "Revenue Breakup - VITS": "Other Operational",
+            "Amount (in million)": "9.00"
+          },
+          {
+            "Revenue Breakup - VITS": "Other Income",
+            "Amount (in million)": "5.21"
+          },
+          {
+            "Revenue Breakup - VITS": "Leased",
+            "Amount (in million)": "6.05"
+          },
+          {
+            "Revenue Breakup - VITS": "Total",
+            "Amount (in million)": "349.60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "82ada119-606a-4e55-b128-e10901c2fd8a",
+    "SCRIP_CD": 540700,
+    "XML_NAME": "ANN_540700_82ADA119-606A-4E55-B128-E10901C2FD8A",
+    "NEWSSUB": "Bharat Road Network Ltd - 540700 - Announcement under Regulation 30 (LODR)-Resignation of Chief Executive Officer (CEO)",
+    "DT_TM": "2026-11-25T13:26:43.653",
+    "NEWS_DT": "2026-11-25T13:26:43.653",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c8e88bf6-a53c-4f6a-a355-f4f0cf8b4a3d.pdf",
+    "MORE": "",
+    "HEADLINE": "Resignation of Mr. Amitabh Kumar Jha - Group Chief Executive Officer of the Company",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bharat-road-network-ltd/brnl/540700/",
+    "SLONGNAME": "Bharat Road Network Ltd",
+    "AGENDA_ID": 105,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:26:43",
+    "DissemDT": "2026-11-25T13:26:43.653",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 367579,
+    "SUBCATNAME": "Resignation of Chief Executive Officer (CEO)",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Mr. Amitabh Kumar Jha resigned as Group Chief Executive Officer of Bharat Road Network Ltd, effective at the close of business on 24 November 2026, citing personal reasons.  \n- The announcement contains no financial figures, transactions, or other monetary decisions; it solely reports the CEO’s resignation.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7313fa5e-e403-4f04-931c-f5417943cf15",
+    "SCRIP_CD": 540726,
+    "XML_NAME": "ANN_540726_7313FA5E-E403-4F04-931C-F5417943CF15",
+    "NEWSSUB": "Trident Texofab Ltd - 540726 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-25T13:24:18.487",
+    "NEWS_DT": "2026-11-25T13:24:18.487",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7313FA5E_E403_4F04_931C_F5417943CF15_132412.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Hardik Desai Family Trust",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/trident-texofab-ltd/ttfl/540726/",
+    "SLONGNAME": "Trident Texofab Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 4,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-25T13:24:18.487",
+    "TimeDiff": null,
+    "Fld_Attachsize": 1148060,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "310d64df-424d-49cc-a68f-6e196990c388",
+    "SCRIP_CD": 538546,
+    "XML_NAME": "ANN_538546_310D64DF-424D-49CC-A68F-6E196990C388",
+    "NEWSSUB": "Bansal Roofing Products Ltd - 538546 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-25T13:22:36.307",
+    "NEWS_DT": "2026-11-25T13:22:36.307",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "148b75dc-5da5-458b-969c-ddb775c1051d.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation for Earning Call Transcript held on November 19, 2026  for the quarter and half year ended September 30, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bansal-roofing-products-ltd/brpl/538546/",
+    "SLONGNAME": "Bansal Roofing Products Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:22:36",
+    "DissemDT": "2026-11-25T13:22:36.307",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 645136,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the financial summary based on the provided earnings call transcript:\n\n* **Q2 FY2027 Performance:** Revenue from operations increased by 45.77% year-on-year to Rs. 4,968.76 lakhs (up from Rs. 3,408.56 lakhs), EBITDA grew 64.95% to Rs. 422.78 lakhs (with margin expanding to 8.47%), profit after tax (PAT) rose to Rs. 261.82 lakhs (up from Rs. 146.11 lakhs), and diluted EPS increased to Rs. 1.99 per share.\n* **H1 FY2027 Performance:** For the first half of the financial year (discussed in the call held on November 19, 2026), revenue reached Rs. 9,557.8 lakhs (Rs. 95.57 Crores)—a 35.99% increase year-on-year—while EBITDA grew 48.67% to Rs. 835.21 lakhs (margin of 8.74%) and profit before tax grew by 52.68%.",
+    "key_metrics": {
+      "revenue": "",
+      "operating_profit": "",
+      "total_equity": "",
+      "eps": "1.99",
+      "roce": "31",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8b66460f-2cde-4904-8631-10ed008801f3",
+    "SCRIP_CD": 543299,
+    "XML_NAME": "ANN_543299_8B66460F-2CDE-4904-8631-10ED008801F3",
+    "NEWSSUB": "Shyam Metalics and Energy Ltd - 543299 - ESOP Exercise Of Options By The Eligible Employee Of The Company",
+    "DT_TM": "2026-11-25T13:17:30.973",
+    "NEWS_DT": "2026-11-25T13:17:30.973",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "607f9736-baab-496e-8c68-721ed5a1c257.pdf",
+    "MORE": "",
+    "HEADLINE": "ESOP Exercise of Options by the Eligible Employee of the Company",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shyam-metalics-and-energy-ltd/shyammetl/543299/",
+    "SLONGNAME": "Shyam Metalics and Energy Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:17:30",
+    "DissemDT": "2026-11-25T13:17:30.973",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 592215,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "10",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "col_1": "7",
+            "col_2": "Options Vested",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "Options Vested with effect from 29th August, 2026."
+          },
+          {
+            "col_1": "8",
+            "col_2": "Options Exercised",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "3000 Options were exercised by 1 Eligible Employee"
+          },
+          {
+            "col_1": "9",
+            "col_2": "Money realized by exercise of Options",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "₹ 20,38,290 (Rupees Twenty Lakh Thirty Eight Thousand Two Hundred and Ninety Only)."
+          },
+          {
+            "col_1": "10",
+            "col_2": "The Total number of shares arising as a result of exercise of Option",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "3000 Shares are Arising as a result of exercise of Options i.e. 1 Option is equal to 1 Share."
+          },
+          {
+            "col_1": "11",
+            "col_2": "Options Lapsed",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "Nil"
+          },
+          {
+            "col_1": "12",
+            "col_2": "Variation in Terms of Options",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "No Variation"
+          },
+          {
+            "col_1": "13",
+            "col_2": "Subsequent changes or cancellation or exercise of such options",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "Not Applicable"
+          },
+          {
+            "col_1": "14",
+            "col_2": "Diluted earnings per share pursuant to issue of equity shares on exercise of Options",
+            "payment of exercise price and applicable taxes in accordance with terms and conditions of the Scheme.  The equity shares allotted, pursuant to the exercise of the Stock Options, would not be subject to lock-in. Options shall vest in the following manner: Date of Vesting Vesting Percentage On first anniversary of 20% of the total Eligible the grant date Options shall vest On second anniversary 23% of the total Eligible of the grant date Options shall vest On third anniversary of 23% of the total Eligible the grant date Options shall vest On fourth anniversary 34% of the total Eligible of the grant date Options shall vest": "Not Applicable"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "95a9379d-1c9f-40e9-b9b6-3e68629536f1",
+    "SCRIP_CD": 512296,
+    "XML_NAME": "ANN_512296_95A9379D-1C9F-40E9-B9B6-3E68629536F1",
+    "NEWSSUB": "Bhagyanagar India Ltd - 512296 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+    "DT_TM": "2026-11-25T13:16:56.58",
+    "NEWS_DT": "2026-11-25T13:16:56.58",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "204f5ec0-8062-40c8-9838-f80fc6cc0845.pdf",
+    "MORE": "",
+    "HEADLINE": "Transcripts of Earnings Conference Call of Tieramet Limited for the quarter and half year ended 30.09.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bhagyanagar-india-ltd/bhagyangr/512296/",
+    "SLONGNAME": "Bhagyanagar India Ltd",
+    "AGENDA_ID": 157,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:16:56",
+    "DissemDT": "2026-11-25T13:16:56.58",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1715052,
+    "SUBCATNAME": "Earnings Call Transcript",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1000 crore",
+      "net_profit": "30.5 crore",
+      "operating_profit": "52 crore",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "57412f8c-6299-43dc-9260-6ad7184b0d38",
+    "SCRIP_CD": 504397,
+    "XML_NAME": "ANN_504397_57412F8C-6299-43DC-9260-6AD7184B0D38",
+    "NEWSSUB": "Ganesh Holdings Ltd - 504397 - Board Meeting Intimation for Board Meeting To Be Held On 01-12-2026 At The Registered Office Of The Company",
+    "DT_TM": "2026-11-25T13:15:51.877",
+    "NEWS_DT": "2026-11-25T13:15:51.877",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a5e442c2-21b4-4773-b22a-cada273669b2.pdf",
+    "MORE": "Ganesh Holdings Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 01/12/2026 ,inter alia, to consider and approve discuss and decide various matters in connection with the Rights Issue, including the specific terms of the Rights Issue, such as the determination of the Rights Issue price and related payment mechanism, rights entitlement ratio, the record date and timing of the Rights Issue. This intimation is issued in terms of Regulation 29 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.",
+    "HEADLINE": "Ganesh Holdings Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 01/12/2026 ,inter alia, to consider and approve discuss and decide various ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ganesh-holdings-ltd/ganhold/504397/",
+    "SLONGNAME": "Ganesh Holdings Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:15:51",
+    "DissemDT": "2026-11-25T13:15:51.877",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 546255,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "10",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "09fd6919-567d-493f-9c99-85e177ef66e2",
+    "SCRIP_CD": 544751,
+    "XML_NAME": "ANN_544751_09FD6919-567D-493F-9C99-85E177EF66E2",
+    "NEWSSUB": "Mehul Telecom Ltd - 544751 - Announcement Regarding Newly Opened Franchise Retal Store By Mehul Telecom Limited",
+    "DT_TM": "2026-11-25T13:15:34.343",
+    "NEWS_DT": "2026-11-25T13:15:34.343",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7b1db1e9-a490-4894-bbd5-3e20539f74d7.pdf",
+    "MORE": "",
+    "HEADLINE": "Announcement Regarding Newly Opened Franchise Retail Store",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mehul-telecom-ltd/mtl/544751/",
+    "SLONGNAME": "Mehul Telecom Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:15:34",
+    "DissemDT": "2026-11-25T13:15:34.343",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 478323,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4ab0820d-c095-4941-8e23-b17348db66d5",
+    "SCRIP_CD": 532057,
+    "XML_NAME": "ANN_532057_4AB0820D-C095-4941-8E23-B17348DB66D5",
+    "NEWSSUB": "Abhinav Capital Services Ltd - 532057 - Board Meeting Intimation for Approve Change Of Name Of The Company & Consequently Alteration Of Memorandum & Article Of Association.",
+    "DT_TM": "2026-11-25T13:15:12.583",
+    "NEWS_DT": "2026-11-25T13:15:12.583",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f0b6b932-bf4c-4be9-ba30-4188c83f2769.pdf",
+    "MORE": "Abhinav Capital Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/11/2026 ,inter alia, to consider and approve 1) To grant Leave of absence if any.\r\n2) To approve the Minutes of the Last Board Meeting.\r\n3) To Approve Change of Name of the Company & Consequently Alteration of Memorandum & Article of Association. \r\n4) To approve Notice of Postal Ballot/ E-voting to seek Change of Name of the Company & Consequently Alteration of Memorandum & Article of Association.\r\n5)  Any other matters with the permission of Chair. \r\n",
+    "HEADLINE": "Abhinav Capital Services Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/11/2026 ,inter alia, to consider and approve 1) To grant Leave ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/abhinav-capital-services-ltd/abhicap/532057/",
+    "SLONGNAME": "Abhinav Capital Services Ltd",
+    "AGENDA_ID": 9,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:15:11",
+    "DissemDT": "2026-11-25T13:15:12.583",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 371374,
+    "SUBCATNAME": "Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Board Meeting Date & Agenda:** A meeting of the Board of Directors is scheduled for Monday, 30th November 2026 at 04:00 P.M. to consider and approve the change of the company's name, the consequential alteration of the Memorandum & Articles of Association, and the notice for postal ballot/e-voting.\n* **Financial Details:** The announcement contains no financial details or financial figures.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "2b62461c-0334-41e9-b4be-7a46eab8416d",
+    "SCRIP_CD": 543622,
+    "XML_NAME": "ANN_543622_2B62461C-0334-41E9-B4BE-7A46EAB8416D",
+    "NEWSSUB": "Steelman Telecom Ltd - 543622 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-11-25T13:14:26.93",
+    "NEWS_DT": "2026-11-25T13:14:26.93",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "56a6f342-8a95-48a9-888d-94c8ba132e03.pdf",
+    "MORE": "",
+    "HEADLINE": "As disclosed in the attachment",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/steelman-telecom-ltd/stml/543622/",
+    "SLONGNAME": "Steelman Telecom Ltd",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:14:26",
+    "DissemDT": "2026-11-25T13:14:26.93",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 818082,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* **Warrant Allotment and Upfront Consideration:** On November 25, 2026, the Board of Directors approved the preferential allotment of 7,86,900 fully convertible warrants following receipt of the initial 25% upfront payment of Rs. 17.5 per warrant.\n* **Conversion Terms and Allottees:** Each warrant is convertible on a 1:1 basis into equity shares within 18 months upon payment of the remaining 75% consideration (Rs. 52.5 per warrant), with the allotment split equally between promoters Mahendra Bindal (3,93,450 warrants) and Mayank Bindal (3,93,450 warrants).",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "733d77d2-8c7e-4d4d-88e4-4864e6503171",
+    "SCRIP_CD": 543290,
+    "XML_NAME": "ANN_543290_733D77D2-8C7E-4D4D-88E4-4864E6503171",
+    "NEWSSUB": "POWERGRID Infrastructure Investment Trust - 543290 - Reg 23(5)(i): Disclosure of material issue",
+    "DT_TM": "2026-11-25T13:13:44.19",
+    "NEWS_DT": "2026-11-25T13:13:44.19",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bfa24768-f3e6-4130-a4a1-dc27f0fe6090.pdf",
+    "MORE": "",
+    "HEADLINE": "POWERGRID Infrastructure Investment Trust has informed the Exchange regarding Disclosure of material issue",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/powergrid-infrastructure-investment-trust/pginvit/543290/",
+    "SLONGNAME": "POWERGRID Infrastructure Investment Trust",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:13:44",
+    "DissemDT": "2026-11-25T13:13:44.19",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1781726,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1054",
+      "total_debt": "10599 mn",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "6bf3e98e-5997-41e0-9f9e-9883738c1159",
+    "SCRIP_CD": 543622,
+    "XML_NAME": "ANN_543622_6BF3E98E-5997-41E0-9F9E-9883738C1159",
+    "NEWSSUB": "Steelman Telecom Ltd - 543622 - Board Meeting Outcome for Outcome Of Board Meeting For Allotment Of Warrants As On Dated Wednesday, 25Th November, 2026",
+    "DT_TM": "2026-11-25T13:10:46.82",
+    "NEWS_DT": "2026-11-25T13:10:46.82",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f4092bdc-77fd-4c85-b4c9-6e9c1b6255e1.pdf",
+    "MORE": "",
+    "HEADLINE": "As disclosed in Attachment",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/steelman-telecom-ltd/stml/543622/",
+    "SLONGNAME": "Steelman Telecom Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:10:45",
+    "DissemDT": "2026-11-25T13:10:46.82",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 818082,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Warrant issuance approved:** On 25 Nov 2026 the board authorized the allotment of **786,900 fully‑convertible warrants** at **Rs 17.5 per warrant** (",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "801ac94b-e032-472e-b8d6-15f4ca37e8db",
+    "SCRIP_CD": 543952,
+    "XML_NAME": "ANN_543952_801AC94B-E032-472E-B8D6-15F4CA37E8DB",
+    "NEWSSUB": "NIIT Learning Systems Ltd - 543952 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-25T13:09:34.68",
+    "NEWS_DT": "2026-11-25T13:09:34.68",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e506ec58-f168-407f-80a1-8f1d78391732.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find Press Release dated November 25, 2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/niit-learning-systems-ltd/niitmts/543952/",
+    "SLONGNAME": "NIIT Learning Systems Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:09:34",
+    "DissemDT": "2026-11-25T13:09:34.68",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 347234,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the corporate announcement:\n\n* **Awards and Key Dates:** On November 25, 2026, NIIT Learning Systems announced that its collaborative five-day program with Kyndryl, \"ENGAGE: Consultative Selling with AI,\" won four honors (two Gold, one Silver, and one Bronze) at the Learning Technologies Awards ceremony held on November 11, 2026.\n* **Financial Details and Business Metrics:** The announcement contains no corporate financial results or financial decisions for NIIT Learning Systems; however, it notes program performance metrics indicating that total signings across the assessed seller cohort more than doubled and revenue won per seller nearly tripled following the initiative.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "3be14f39-7fc9-43f9-8107-32fde0e90f5b",
+    "SCRIP_CD": 532349,
+    "XML_NAME": "ANN_532349_3BE14F39-7FC9-43F9-8107-32FDE0E90F5B",
+    "NEWSSUB": "Transport Corporation of India Ltd - 532349 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-25T13:07:59.96",
+    "NEWS_DT": "2026-11-25T13:07:59.96",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1580829b-c6cc-4c7a-aec1-765ed4b9f463.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Postal Ballot Notice of the Company",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/transport-corporation-of-india-ltd/tci/532349/",
+    "SLONGNAME": "Transport Corporation of India Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:07:59",
+    "DissemDT": "2026-11-25T13:07:59.96",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1034105,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "a49d227e-bd8c-47fb-87a0-9fb691013617",
+    "SCRIP_CD": 544718,
+    "XML_NAME": "ANN_544718_A49D227E-BD8C-47FB-87A0-9FB691013617",
+    "NEWSSUB": "PNGS Reva Diamond Jewellery Ltd - 544718 - Navratri And Diwali Sales Update For FY 2026-27",
+    "DT_TM": "2026-11-25T13:06:24.207",
+    "NEWS_DT": "2026-11-25T13:06:24.207",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6938f829-1c55-4bd9-a8f4-1e69346c7cb5.pdf",
+    "MORE": "",
+    "HEADLINE": "Navratri and Diwali sales update for FY 2026-27 along with stores count as on date is enclosed herewith.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/pngs-reva-diamond-jewellery-ltd/pngsreva/544718/",
+    "SLONGNAME": "PNGS Reva Diamond Jewellery Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:06:24",
+    "DissemDT": "2026-11-25T13:06:24.207",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 596521,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "141.08 million",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fe0a4947-b9e0-4dba-904c-ce3f302b83c8",
+    "SCRIP_CD": 508918,
+    "XML_NAME": "ANN_508918_FE0A4947-B9E0-4DBA-904C-CE3F302B83C8",
+    "NEWSSUB": "Ironwood Education Ltd - 508918 - Intimation Regarding The Application Submitted By The Specific Investors Under The Rights Issue Of Fully Paid-Up Equity Shares Of Ironwood Education Limited (The \"Company\") (\"Rights Issue\").",
+    "DT_TM": "2026-11-25T13:06:20.473",
+    "NEWS_DT": "2026-11-25T13:06:20.473",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "22db7350-8cb6-4c6b-93ae-1b203fa710d5.pdf",
+    "MORE": "With reference to the captioned subject and in continuation to the newspaper publication dated November 21, 2026 published and disclosed in the announcement dated November 21, 2026 ('Pre-Issue Advertisement'), wherein the details of Specific Investors were disclosed in accordance with Regulation 84(1)(f) of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended ('SEBI ICDR Regulations'), based on the confirmations received by the Bank of the identified Specific Investors and/or their respective custodians, we hereby confirm that the applications in the Rights Issue have been submitted by the  identified Specific Investors, on Issue Opening Date, i.e. Wednesday, November 25, 2026, in compliance with Regulation 77B(2) of the SEBI ICDR Regulations.",
+    "HEADLINE": "With reference to the captioned subject and in continuation to the newspaper publication dated November 21, 2026 published and disclosed in the announcement dated November 21, 2026 ('Pre-Issue ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ironwood-education-ltd/ironwood/508918/",
+    "SLONGNAME": "Ironwood Education Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:06:20",
+    "DissemDT": "2026-11-25T13:06:20.473",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 722276,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "57f7a539-4e98-43af-86a8-1355854956c7",
+    "SCRIP_CD": 544244,
+    "XML_NAME": "ANN_544244_57F7A539-4E98-43AF-86A8-1355854956C7",
+    "NEWSSUB": "Gala Precision Engineering Ltd - 544244 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-25T13:03:25.753",
+    "NEWS_DT": "2026-11-25T13:03:25.753",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d92c080c-4baf-42e8-945f-0dce97e868f9.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find investor Presentation of November 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gala-precision-engineering-ltd/galaprec/544244/",
+    "SLONGNAME": "Gala Precision Engineering Ltd",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T13:03:25",
+    "DissemDT": "2026-11-25T13:03:25.753",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4126812,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "22",
+      "net_profit": "22",
+      "operating_profit": "22",
+      "total_assets": "1887",
+      "total_equity": "1045",
+      "total_debt": "92",
+      "eps": "21.77",
+      "face_value": "10.00",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 29,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Particulars (INR Mn)": "Revenue from Operations",
+            "FY24": "2,025",
+            "FY25": "2,378",
+            "FY26": "3,143",
+            "H1-FY27": "1,691"
+          },
+          {
+            "Particulars (INR Mn)": "Total Expenses",
+            "FY24": "1,637",
+            "FY25": "1,970",
+            "FY26": "2,624",
+            "H1-FY27": "1,411"
+          },
+          {
+            "Particulars (INR Mn)": "EBITDA",
+            "FY24": "388",
+            "FY25": "408",
+            "FY26": "519",
+            "H1-FY27": "280"
+          },
+          {
+            "Particulars (INR Mn)": "EBITDA Margin (%)",
+            "FY24": "19.16%",
+            "FY25": "17.16%",
+            "FY26": "16.51%",
+            "H1-FY27": "16.56%"
+          },
+          {
+            "Particulars (INR Mn)": "Other Income",
+            "FY24": "18",
+            "FY25": "44",
+            "FY26": "56",
+            "H1-FY27": "24"
+          },
+          {
+            "Particulars (INR Mn)": "Depreciation",
+            "FY24": "69",
+            "FY25": "80",
+            "FY26": "102",
+            "H1-FY27": "65"
+          },
+          {
+            "Particulars (INR Mn)": "Finance Cost",
+            "FY24": "61",
+            "FY25": "38",
+            "FY26": "28",
+            "H1-FY27": "10"
+          },
+          {
+            "Particulars (INR Mn)": "Profit before Exceptional Items and Tax",
+            "FY24": "276",
+            "FY25": "334",
+            "FY26": "445",
+            "H1-FY27": "229"
+          },
+          {
+            "Particulars (INR Mn)": "Exceptional Items (Net)",
+            "FY24": "(23)",
+            "FY25": "(3)",
+            "FY26": "(11)",
+            "H1-FY27": "(3)"
+          },
+          {
+            "Particulars (INR Mn)": "PBT",
+            "FY24": "253",
+            "FY25": "331",
+            "FY26": "434",
+            "H1-FY27": "226"
+          },
+          {
+            "Particulars (INR Mn)": "Tax",
+            "FY24": "33",
+            "FY25": "63",
+            "FY26": "79",
+            "H1-FY27": "39"
+          },
+          {
+            "Particulars (INR Mn)": "Non – Controlling Interest",
+            "FY24": "(3)",
+            "FY25": "-",
+            "FY26": "-",
+            "H1-FY27": "-"
+          },
+          {
+            "Particulars (INR Mn)": "PAT before Exceptional Item",
+            "FY24": "246",
+            "FY25": "271",
+            "FY26": "366",
+            "H1-FY27": "190"
+          },
+          {
+            "Particulars (INR Mn)": "PAT Margin before Exceptional Item (%)",
+            "FY24": "12.15%",
+            "FY25": "11.40%",
+            "FY26": "11.64%",
+            "H1-FY27": "11.24%"
+          },
+          {
+            "Particulars (INR Mn)": "PAT after Exceptional Item",
+            "FY24": "223",
+            "FY25": "268",
+            "FY26": "355",
+            "H1-FY27": "187"
+          },
+          {
+            "Particulars (INR Mn)": "PAT Margin after Exceptional Item (%)",
+            "FY24": "11.01%",
+            "FY25": "11.27%",
+            "FY26": "11.29%",
+            "H1-FY27": "11.06%"
+          },
+          {
+            "Particulars (INR Mn)": "Other Comprehensive Income",
+            "FY24": "5",
+            "FY25": "(4)",
+            "FY26": "(1)",
+            "H1-FY27": "(1)"
+          },
+          {
+            "Particulars (INR Mn)": "Total Comprehensive Income",
+            "FY24": "228",
+            "FY25": "264",
+            "FY26": "354",
+            "H1-FY27": "186"
+          },
+          {
+            "Particulars (INR Mn)": "EPS (INR)(not annualised)",
+            "FY24": "21.77",
+            "FY25": "22.56",
+            "FY26": "27.05",
+            "H1-FY27": "14.32"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 0,
+        "row_count": 26,
+        "rows": [
+          {
+            "Particulars (INR Mn)": "EQUITY AND LIABILITIES",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Equity",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Equity Share Capital",
+            "FY24": "101",
+            "FY25": "127",
+            "FY26": "128",
+            "H1-FY27": "128"
+          },
+          {
+            "Particulars (INR Mn)": "Other Equity",
+            "FY24": "947",
+            "FY25": "2,440",
+            "FY26": "2,801",
+            "H1-FY27": "2,989"
+          },
+          {
+            "Particulars (INR Mn)": "Non Controlling Interest",
+            "FY24": "(3)",
+            "FY25": "(4)",
+            "FY26": "(4)",
+            "H1-FY27": "(4)"
+          },
+          {
+            "Particulars (INR Mn)": "Total Equity",
+            "FY24": "1,045",
+            "FY25": "2,563",
+            "FY26": "2,925",
+            "H1-FY27": "3,113"
+          },
+          {
+            "Particulars (INR Mn)": "LIABILITIES",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Non-Current Liabilities",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Financial Liabilities",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "-Borrowings",
+            "FY24": "92",
+            "FY25": "11",
+            "FY26": "16",
+            "H1-FY27": "13"
+          },
+          {
+            "Particulars (INR Mn)": "- Lease liabilities",
+            "FY24": "11",
+            "FY25": "7",
+            "FY26": "8",
+            "H1-FY27": "4"
+          },
+          {
+            "Particulars (INR Mn)": "- Other Financial Liabilities",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Provisions",
+            "FY24": "54",
+            "FY25": "69",
+            "FY26": "77",
+            "H1-FY27": "70"
+          },
+          {
+            "Particulars (INR Mn)": "Deferred Tax Liabilities (Net)",
+            "FY24": "9",
+            "FY25": "5",
+            "FY26": "9",
+            "H1-FY27": "2"
+          },
+          {
+            "Particulars (INR Mn)": "Current Liabilities",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Financial Liabilities",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "- Borrowings",
+            "FY24": "458",
+            "FY25": "220",
+            "FY26": "349",
+            "H1-FY27": "303"
+          },
+          {
+            "Particulars (INR Mn)": "- Lease liabilities",
+            "FY24": "3",
+            "FY25": "4",
+            "FY26": "8",
+            "H1-FY27": "8"
+          },
+          {
+            "Particulars (INR Mn)": "- Trade Payables",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "(A) total outstanding dues of micro & small enterprises",
+            "FY24": "3",
+            "FY25": "8",
+            "FY26": "10",
+            "H1-FY27": "21"
+          },
+          {
+            "Particulars (INR Mn)": "(B) total outstanding dues other than micro & small enterprises",
+            "FY24": "133",
+            "FY25": "175",
+            "FY26": "190",
+            "H1-FY27": "132"
+          },
+          {
+            "Particulars (INR Mn)": "- Other Financial Liabilities",
+            "FY24": "38",
+            "FY25": "70",
+            "FY26": "76",
+            "H1-FY27": "82"
+          },
+          {
+            "Particulars (INR Mn)": "Other Current Liabilities",
+            "FY24": "36",
+            "FY25": "58",
+            "FY26": "66",
+            "H1-FY27": "108"
+          },
+          {
+            "Particulars (INR Mn)": "Provisions",
+            "FY24": "5",
+            "FY25": "7",
+            "FY26": "11",
+            "H1-FY27": "20"
+          },
+          {
+            "Particulars (INR Mn)": "Total Liabilities",
+            "FY24": "842",
+            "FY25": "634",
+            "FY26": "820",
+            "H1-FY27": "763"
+          },
+          {
+            "Particulars (INR Mn)": "Total Equity And Liabilities",
+            "FY24": "1,887",
+            "FY25": "3,197",
+            "FY26": "3,745",
+            "H1-FY27": "3,876"
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "table_index": 1,
+        "row_count": 22,
+        "rows": [
+          {
+            "Particulars (INR Mn)": "ASSETS",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Non-Current Assets",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Property, Plant and Equipment",
+            "FY24": "413",
+            "FY25": "607",
+            "FY26": "844",
+            "H1-FY27": "929"
+          },
+          {
+            "Particulars (INR Mn)": "Right of use assets",
+            "FY24": "45",
+            "FY25": "41",
+            "FY26": "44",
+            "H1-FY27": "41"
+          },
+          {
+            "Particulars (INR Mn)": "Capital Work-in-Progress",
+            "FY24": "32",
+            "FY25": "66",
+            "FY26": "73",
+            "H1-FY27": "93"
+          },
+          {
+            "Particulars (INR Mn)": "Investment Property",
+            "FY24": "-",
+            "FY25": "-",
+            "FY26": "-",
+            "H1-FY27": "-"
+          },
+          {
+            "Particulars (INR Mn)": "Goodwill",
+            "FY24": "-",
+            "FY25": "-",
+            "FY26": "-",
+            "H1-FY27": "-"
+          },
+          {
+            "Particulars (INR Mn)": "Other Intangible Assets",
+            "FY24": "186",
+            "FY25": "189",
+            "FY26": "153",
+            "H1-FY27": "170"
+          },
+          {
+            "Particulars (INR Mn)": "Intangible assets under development",
+            "FY24": "33",
+            "FY25": "39",
+            "FY26": "115",
+            "H1-FY27": "123"
+          },
+          {
+            "Particulars (INR Mn)": "Other Financial Assets",
+            "FY24": "11",
+            "FY25": "57",
+            "FY26": "16",
+            "H1-FY27": "17"
+          },
+          {
+            "Particulars (INR Mn)": "Non-Current Tax assets (net)",
+            "FY24": "7",
+            "FY25": "13",
+            "FY26": "16",
+            "H1-FY27": "8"
+          },
+          {
+            "Particulars (INR Mn)": "Other non-current assets",
+            "FY24": "17",
+            "FY25": "44",
+            "FY26": "44",
+            "H1-FY27": "12"
+          },
+          {
+            "Particulars (INR Mn)": "Current Assets",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "Inventories",
+            "FY24": "577",
+            "FY25": "724",
+            "FY26": "894",
+            "H1-FY27": "945"
+          },
+          {
+            "Particulars (INR Mn)": "Financial Assets",
+            "FY24": "",
+            "FY25": "",
+            "FY26": "",
+            "H1-FY27": ""
+          },
+          {
+            "Particulars (INR Mn)": "- Trade Receivables",
+            "FY24": "470",
+            "FY25": "709",
+            "FY26": "815",
+            "H1-FY27": "919"
+          },
+          {
+            "Particulars (INR Mn)": "- Cash and cash Equivalents",
+            "FY24": "14",
+            "FY25": "15",
+            "FY26": "115",
+            "H1-FY27": "5"
+          },
+          {
+            "Particulars (INR Mn)": "- Bank balances other than cash and cash equivalents",
+            "FY24": "27",
+            "FY25": "579",
+            "FY26": "390",
+            "H1-FY27": "352"
+          },
+          {
+            "Particulars (INR Mn)": "- Loans",
+            "FY24": "1",
+            "FY25": "3",
+            "FY26": "4",
+            "H1-FY27": "8"
+          },
+          {
+            "Particulars (INR Mn)": "- Others financial assets",
+            "FY24": "17",
+            "FY25": "23",
+            "FY26": "25",
+            "H1-FY27": "30"
+          },
+          {
+            "Particulars (INR Mn)": "Other current assets",
+            "FY24": "37",
+            "FY25": "88",
+            "FY26": "197",
+            "H1-FY27": "224"
+          },
+          {
+            "Particulars (INR Mn)": "TOTAL ASSETS",
+            "FY24": "1,887",
+            "FY25": "3,197",
+            "FY26": "3,745",
+            "H1-FY27": "3,876"
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Particulars": "Face Value",
+            "INR": "10.00"
+          },
+          {
+            "Particulars": "CMP",
+            "INR": "1,196.95"
+          },
+          {
+            "Particulars": "52 Week H/L",
+            "INR": "1,259.30 / 648.05"
+          },
+          {
+            "Particulars": "Market Capitalization (Mn)",
+            "INR": "15,340.35"
+          },
+          {
+            "Particulars": "Shares O/S (Mn)",
+            "INR": "12.82"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "f0517a63-92a7-4ef3-bcf5-94919c02aa68",
     "SCRIP_CD": 531375,
     "XML_NAME": "ANN_531375_F0517A63-92A7-4EF3-BCF5-94919C02AA68",
@@ -1438,6 +2869,225 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "1a714d3f-d244-4aff-b695-12c1e70372c6",
+    "SCRIP_CD": 524000,
+    "XML_NAME": "ANN_524000_1A714D3F-D244-4AFF-B695-12C1E70372C6",
+    "NEWSSUB": "Poonawalla Fincorp Ltd - 524000 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-11-25T12:38:13.617",
+    "NEWS_DT": "2026-11-25T12:38:13.617",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "309ec748-d316-4dce-95eb-8d1333a6ae58.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation w.r.t allotment of Non-Convertible Debentures",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/poonawalla-fincorp-ltd/poonawalla/524000/",
+    "SLONGNAME": "Poonawalla Fincorp Ltd",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T12:38:13",
+    "DissemDT": "2026-11-25T12:38:13.617",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 333291,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "100000",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ae68f8f0-f71e-4555-a27f-cc03cb4c7f85",
+    "SCRIP_CD": 543653,
+    "XML_NAME": "ANN_543653_AE68F8F0-F71E-4555-A27F-CC03CB4C7F85",
+    "NEWSSUB": "Bikaji Foods International Ltd - 543653 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-25T12:37:59.337",
+    "NEWS_DT": "2026-11-25T12:37:59.337",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b797b84d-a97e-4eab-9795-9018bb09744f.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release on Launch of Mahe Brand under Bikaji Bakes Private Limited",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bikaji-foods-international-ltd/bikaji/543653/",
+    "SLONGNAME": "Bikaji Foods International Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T12:37:59",
+    "DissemDT": "2026-11-25T12:37:59.337",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 471643,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4e04bb73-bf2c-442f-8f5b-6d43f27052b7",
+    "SCRIP_CD": 532527,
+    "XML_NAME": "ANN_532527_4E04BB73-BF2C-442F-8F5B-6D43F27052B7",
+    "NEWSSUB": "Ramkrishna Forgings Ltd - 532527 - Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-25T12:37:24.477",
+    "NEWS_DT": "2026-11-25T12:37:24.477",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4E04BB73_BF2C_442F_8F5B_6D43F27052B7_123715.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Riddhi Portfolio Pvt Ltd & PACs",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ramkrishna-forgings-ltd/rkforge/532527/",
+    "SLONGNAME": "Ramkrishna Forgings Ltd",
+    "AGENDA_ID": 52,
+    "TotalPageCnt": 4,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-25T12:37:24.477",
+    "TimeDiff": null,
+    "Fld_Attachsize": 966695,
+    "SUBCATNAME": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fd95a0b2-5e76-4d43-9cd5-6f74de115a23",
+    "SCRIP_CD": 530919,
+    "XML_NAME": "ANN_530919_FD95A0B2-5E76-4D43-9CD5-6F74DE115A23",
+    "NEWSSUB": "Remsons Industries Ltd - 530919 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-25T12:33:58.187",
+    "NEWS_DT": "2026-11-25T12:33:58.187",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "FD95A0B2_5E76_4D43_9CD5_6F74DE115A23_123352.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Krishna Kejriwal & Others",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/remsons-industries-ltd/remsonsind/530919/",
+    "SLONGNAME": "Remsons Industries Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 4,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-25T12:33:58.187",
+    "TimeDiff": null,
+    "Fld_Attachsize": 1057780,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "069a03c9-3ce2-4dbe-9aa2-fdcf67c6f129",
+    "SCRIP_CD": 512048,
+    "XML_NAME": "ANN_512048_069A03C9-3CE2-4DBE-9AA2-FDCF67C6F129",
+    "NEWSSUB": "Dhansafal Finserve Ltd - 512048 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-25T12:33:31.55",
+    "NEWS_DT": "2026-11-25T12:33:31.55",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6103d43a-fdf0-434a-903e-a8a40c073d3e.pdf",
+    "MORE": "",
+    "HEADLINE": "Pursuant to Regulation 30 of SEBI Listing Regulations, enclosed herewith Postal Ballot Notice.",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dhansafal-finserve-ltd/dhansafal/512048/",
+    "SLONGNAME": "Dhansafal Finserve Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-25T12:33:31",
+    "DissemDT": "2026-11-25T12:33:31.55",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3776497,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5d568741-20ac-42b0-ac3d-dcec7aef278f",
+    "SCRIP_CD": 517146,
+    "XML_NAME": "ANN_517146_5D568741-20AC-42B0-AC3D-DCEC7AEF278F",
+    "NEWSSUB": "Usha Martin Ltd - 517146 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "DT_TM": "2026-11-25T12:32:01.023",
+    "NEWS_DT": "2026-11-25T12:32:01.023",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "5D568741_20AC_42B0_AC3D_DCEC7AEF278F_123155.pdf",
+    "MORE": "",
+    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Umil Share & Stock Broking Services Ltd",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/usha-martin-ltd/ushamart/517146/",
+    "SLONGNAME": "Usha Martin Ltd",
+    "AGENDA_ID": 57,
+    "TotalPageCnt": 4,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-25T12:32:01.023",
+    "TimeDiff": null,
+    "Fld_Attachsize": 535795,
+    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
     "key_metrics": {},
     "financial_tables": []
   },
@@ -4086,1657 +5736,5 @@
       "currency_unit": "in Millions"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "83f03629-4c25-4a35-b446-1154b079f23f",
-    "SCRIP_CD": 544197,
-    "XML_NAME": "ANN_544197_83F03629-4C25-4A35-B446-1154B079F23F",
-    "NEWSSUB": "JHS Svendgaard Retail Ventures Ltd - 544197 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:17:01.903",
-    "NEWS_DT": "2026-11-25T11:17:01.903",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "83F03629_4C25_4A35_B446_1154B079F23F_111658.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for JHS Svendgaard Laboratories Ltd & Others",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jhs-svendgaard-retail-ventures-ltd/retail/544197/",
-    "SLONGNAME": "JHS Svendgaard Retail Ventures Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:17:01.903",
-    "TimeDiff": null,
-    "Fld_Attachsize": 779186,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "7e1cb714-7628-4522-b85a-d86c5d417df7",
-    "SCRIP_CD": 504398,
-    "XML_NAME": "ANN_504398_7E1CB714-7628-4522-B85A-D86C5D417DF7",
-    "NEWSSUB": "SJ Corporation Ltd - 504398 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:14:23.207",
-    "NEWS_DT": "2026-11-25T11:14:23.207",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7E1CB714_7628_4522_B85A_D86C5D417DF7_111414.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Ushaben Patel",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sj-corporation-ltd/sjcorp/504398/",
-    "SLONGNAME": "SJ Corporation Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:14:23.207",
-    "TimeDiff": null,
-    "Fld_Attachsize": 1032782,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "18c68332-8111-4f3f-86e2-5fd8d142698d",
-    "SCRIP_CD": 509048,
-    "XML_NAME": "ANN_509048_18C68332-8111-4F3F-86E2-5FD8D142698D",
-    "NEWSSUB": "Lancor Holdings Ltd - 509048 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:13:13.673",
-    "NEWS_DT": "2026-11-25T11:13:13.673",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "18C68332_8111_4F3F_86E2_5FD8D142698D_111309.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for R V Shekar",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/",
-    "SLONGNAME": "Lancor Holdings Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:13:13.673",
-    "TimeDiff": null,
-    "Fld_Attachsize": 262508,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "63df2b83-ecc2-45a7-9585-74cf21f71813",
-    "SCRIP_CD": 509048,
-    "XML_NAME": "ANN_509048_63DF2B83-ECC2-45A7-9585-74CF21F71813",
-    "NEWSSUB": "Lancor Holdings Ltd - 509048 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:12:08.867",
-    "NEWS_DT": "2026-11-25T11:12:08.867",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "63DF2B83_ECC2_45A7_9585_74CF21F71813_111204.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Shyamala Shekar",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lancor-holdings-ltd/lancorhol/509048/",
-    "SLONGNAME": "Lancor Holdings Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:12:08.867",
-    "TimeDiff": null,
-    "Fld_Attachsize": 221992,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cf1e161b-3bed-471b-9275-73e09b685da8",
-    "SCRIP_CD": 522029,
-    "XML_NAME": "ANN_522029_CF1E161B-3BED-471B-9275-73E09B685DA8",
-    "NEWSSUB": "Windsor Machines Ltd - 522029 - Clarification On Increase In Volume",
-    "DT_TM": "2026-11-25T11:11:39.683",
-    "NEWS_DT": "2026-11-25T11:11:39.683",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "40839a04-02e6-4f09-9732-130f3ff36dac.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed the Clarification Letter.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/windsor-machines-ltd/windmachin/522029/",
-    "SLONGNAME": "Windsor Machines Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T11:11:39",
-    "DissemDT": "2026-11-25T11:11:39.683",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 238302,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Date & Context:** On 25 November 2026, Windsor Machines Ltd responded to BSE’s “Volume Movement Letter” (ref L/SURV/ONL/PV/SG/2026‑2027/497) seeking clarification on a recent surge in the company’s share trading volume across exchanges.  \n\n- **Company’s Position:** The firm confirmed that it has complied with SEBI Regulation 30 (Listing Obligations & Disclosure Requirements) and disclosed all price‑sensitive information; the rise in volume is described as “purely market‑driven,” with no material or price‑sensitive information withheld.  \n\n*The announcement contains no specific financial figures, amounts, or",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "482ac7c4-1278-438c-89cd-d84840a9fab9",
-    "SCRIP_CD": 532376,
-    "XML_NAME": "ANN_532376_482AC7C4-1278-438C-89CD-D84840A9FAB9",
-    "NEWSSUB": "Umiya Buildcon Ltd - 532376 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:10:36.13",
-    "NEWS_DT": "2026-11-25T11:10:36.13",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "482AC7C4_1278_438C_89CD_D84840A9FAB9_111032.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Umiya Holding Pvt Ltd",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/umiya-buildcon-ltd/umiya-mro/532376/",
-    "SLONGNAME": "Umiya Buildcon Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:10:36.13",
-    "TimeDiff": null,
-    "Fld_Attachsize": 88712,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 3,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "d) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category)": "Total (a+b+c+d)",
-            "col_2": "73,12,617",
-            "col_3": "39.11",
-            "col_4": "39.11"
-          },
-          {
-            "d) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category)": "DETAILS OF ACQUISITION:",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category)": "a) Shares carrying voting rights acquired b) VRs acquired otherwise than by equity shares c) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category) acquired d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)",
-            "col_2": "10,000",
-            "col_3": "0.05",
-            "col_4": "0.05"
-          },
-          {
-            "d) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category)": "Total (a+b+c+d)",
-            "col_2": "10,000",
-            "col_3": "0.05",
-            "col_4": "0.05"
-          },
-          {
-            "d) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category)": "After the acquisition, holding of acquirer along with PACs of:",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category)": "a) Shares carrying voting rights b) VRs otherwise than by equity shares c) Warrants/convertible securities/any other instrument that entitles the acquirer to receive shares carrying voting rights in the TC (specify holding in each category) after acquisition",
-            "col_2": "73,22,617",
-            "col_3": "39.16",
-            "col_4": "39.16"
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Total (a+b+c+d)",
-            "col_2": "73,22,617",
-            "col_3": "39.16",
-            "col_4": "39.16"
-          },
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Mode of acquisition",
-            "col_2": "Open Market",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Salient features of the Securities acquired including time till redemption, ratio at which it can be converted into equity shares, etc.,",
-            "col_2": "N/A",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Date of acquisition of/ date of receipt of intimation of allotment of shares / VR/ warrants/convertible securities/any other instrument that entitles the acquirer to receive shares in the TC.",
-            "col_2": "23-11-2026",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Equity share capital / total voting capital of the TC before the said acquisition",
-            "col_2": "1,86,84,602",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Equity share capital/ total voting capital of the TC after the said acquisition",
-            "col_2": "1,86,84,602",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "d) Shares in the nature of encumbrance (pledge/ lien/ non- disposal undertaking/ others)": "Total diluted share/voting capital of the TC after the said acquisition",
-            "col_2": "1,86,84,602",
-            "col_3": "",
-            "col_4": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "072cd621-90b7-4757-a3ad-a72ba6dae0c3",
-    "SCRIP_CD": 533758,
-    "XML_NAME": "ANN_533758_072CD621-90B7-4757-A3AD-A72BA6DAE0C3",
-    "NEWSSUB": "APL Apollo Tubes Ltd - 533758 - Disclosures under Reg. 18(6) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:07:34.52",
-    "NEWS_DT": "2026-11-25T11:07:34.52",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "072CD621_90B7_4757_A3AD_A72BA6DAE0C3_110726.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 18(6) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Tata Steel Ltd",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/apl-apollo-tubes-ltd/aplapollo/533758/",
-    "SLONGNAME": "APL Apollo Tubes Ltd",
-    "AGENDA_ID": 63,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:07:34.52",
-    "TimeDiff": null,
-    "Fld_Attachsize": 448479,
-    "SUBCATNAME": "Disclosures under Reg. 18(6) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Acquisition details (Nov 23 2026):** Tata Steel Ltd bought **2,77,38,075 equity shares** of APL Apollo Tubes Ltd from S Gupta Holding Pvt Ltd in an on‑market block deal on BSE, at **₹2,100 per share**, raising its holding from 0 to **≈9.99 % of the target’s total equity**.  \n\n- **Post‑deal conditions:** The acquired shares are placed in a **share‑escrow account** under SEBI SAST regulations and will be released to Tata Steel’s demat account (",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "87bb3339-c98f-478e-8ea4-d1f9365deb30",
-    "SCRIP_CD": 533758,
-    "XML_NAME": "ANN_533758_87BB3339-C98F-478E-8EA4-D1F9365DEB30",
-    "NEWSSUB": "APL Apollo Tubes Ltd - 533758 - Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:06:26.41",
-    "NEWS_DT": "2026-11-25T11:06:26.41",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "87BB3339_C98F_478E_8EA4_D1F9365DEB30_110622.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Tata Steel Ltd",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/apl-apollo-tubes-ltd/aplapollo/533758/",
-    "SLONGNAME": "APL Apollo Tubes Ltd",
-    "AGENDA_ID": 52,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:06:26.41",
-    "TimeDiff": null,
-    "Fld_Attachsize": 532495,
-    "SUBCATNAME": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Acquisition details (Nov 23 2026):** The acquirer bought **2,77,38,075 equity shares** of APL Apollo Tubes Ltd, representing **",
-    "key_metrics": {
-      "face_value": "2",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6c1c9f01-a504-4814-8b91-8a67324734f6",
-    "SCRIP_CD": 543597,
-    "XML_NAME": "ANN_543597_6C1C9F01-A504-4814-8B91-8A67324734F6",
-    "NEWSSUB": "Virtuoso Optoelectronics Ltd - 543597 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-25T11:05:32.71",
-    "NEWS_DT": "2026-11-25T11:05:32.71",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fd67a331-eb70-4676-979f-d82370f05644.pdf",
-    "MORE": "",
-    "HEADLINE": "Investor/Analyst Meet \r\nOne to One Meet",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/virtuoso-optoelectronics-ltd/voepl/543597/",
-    "SLONGNAME": "Virtuoso Optoelectronics Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T11:05:32",
-    "DissemDT": "2026-11-25T11:05:32.71",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 641382,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "6c1c9f01-a504-4814-8b91-8a67324734f6",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14979409,
-    "DataInsDate": "2026-11-25T11:05:32.65",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Analyst/Investor Meeting scheduled:** Virtuoso Optoelectronics Ltd will hold a virtual “One‑on‑One” interaction with ICICI PMS on **8 December 2026 at 04:00 PM** (as per Regulation 30 disclosure).  \n- **No financial disclosures:** The company confirms that **no unpublished price‑sensitive information** will be shared during the meeting; discussions will be limited to publicly available data.  \n\n*No specific financial figures or decisions are mentioned in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5f260d3c-b482-465f-bf97-1eca276c4abd",
-    "SCRIP_CD": 531168,
-    "XML_NAME": "ANN_531168_5F260D3C-B482-465F-BF97-1ECA276C4ABD",
-    "NEWSSUB": "Associated Ceramics Ltd - 531168 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T11:02:30.36",
-    "NEWS_DT": "2026-11-25T11:02:30.36",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5F260D3C_B482_465F_BF97_1ECA276C4ABD_110223.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Amar Jyoti Udyog Ltd",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/associated-ceramics-ltd/assocer/531168/",
-    "SLONGNAME": "Associated Ceramics Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T11:02:30.36",
-    "TimeDiff": null,
-    "Fld_Attachsize": 636813,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Share disposal:** On 23 Nov 2026, Amar Jyoti Udyog Ltd disclosed the off‑market sale of **325,700 equity shares of",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ae0f3d36-06b5-417c-ad46-b973b2021e0e",
-    "SCRIP_CD": 531168,
-    "XML_NAME": "ANN_531168_AE0F3D36-06B5-417C-AD46-B973B2021E0E",
-    "NEWSSUB": "Associated Ceramics Ltd - 531168 - Disclosures under Reg. 29(1) & 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T10:58:19.927",
-    "NEWS_DT": "2026-11-25T10:58:19.927",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "AE0F3D36_06B5_417C_AD46_B973B2021E0E_105814.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(1) & 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Arun Agarwal",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/associated-ceramics-ltd/assocer/531168/",
-    "SLONGNAME": "Associated Ceramics Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T10:58:19.927",
-    "TimeDiff": null,
-    "Fld_Attachsize": 995967,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f83f5820-39de-4804-9fa1-0a09ea43484c",
-    "SCRIP_CD": 526861,
-    "XML_NAME": "ANN_526861_F83F5820-39DE-4804-9FA1-0A09EA43484C",
-    "NEWSSUB": "Rishi Laser Ltd - 526861 - Announcement under Regulation 30 (LODR)-Investor Presentation",
-    "DT_TM": "2026-11-25T10:56:19.137",
-    "NEWS_DT": "2026-11-25T10:56:19.137",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "78d037de-97e4-45ad-9c57-4602d786b62f.pdf",
-    "MORE": "",
-    "HEADLINE": "ENCLOSED PPT FOR Q2",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rishi-laser-ltd/rishilase/526861/",
-    "SLONGNAME": "Rishi Laser Ltd",
-    "AGENDA_ID": 120,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:56:19",
-    "DissemDT": "2026-11-25T10:56:19.137",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4150844,
-    "SUBCATNAME": "Investor Presentation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Financial performance (Q2 & H1 FY27):** Q2 FY27 revenue reached **₹54.23 cr** (↑ 26.58% YoY, ↑ 28.3% QoQ), taking H1 FY27 revenue to **₹96.48 cr** (↑ 15.04% YoY). EBITDA was **₹3.97 cr** with a margin of **7.30%** (up from 6.90% in Q1), while PAT stood at **₹1.14 cr** due to higher depreciation, finance costs and ramp‑up expenses.  \n\n- **Strategic outlook & targets:** The Malur facility is expected to generate **≈₹80 cr** of revenue in FY27, contributing to the company’s goal of **₹100 cr** in FY29 and a **20% CAGR** in revenue over the next three",
-    "key_metrics": {
-      "revenue": "96.48 crore",
-      "net_profit": "1.14 crore",
-      "operating_profit": "4.27",
-      "total_assets": "119.97",
-      "total_equity": "71.31",
-      "total_debt": "12.86",
-      "eps": "2.30",
-      "face_value": "10.00",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Location": "Pune, Markal Industrial Area",
-            "Area of Land (Sq. Mtr)": "14,151",
-            "Area of Building (Sq. Mtr)": "5,820",
-            "% of Revenue": "21"
-          },
-          {
-            "Location": "Bangalore, Bommasandra",
-            "Area of Land (Sq. Mtr)": "4,233",
-            "Area of Building (Sq. Mtr)": "2,100",
-            "% of Revenue": "53"
-          },
-          {
-            "Location": "Bangalore, Malur",
-            "Area of Land (Sq. Mtr)": "11,987",
-            "Area of Building (Sq. Mtr)": "7,191",
-            "% of Revenue": ""
-          },
-          {
-            "Location": "Savli, Savli GIDC",
-            "Area of Land (Sq. Mtr)": "10,816",
-            "Area of Building (Sq. Mtr)": "4,139",
-            "% of Revenue": "12"
-          },
-          {
-            "Location": "Chennai, Bangalore Highway",
-            "Area of Land (Sq. Mtr)": "3,000",
-            "Area of Building (Sq. Mtr)": "2,050",
-            "% of Revenue": "8"
-          },
-          {
-            "Location": "Kundli, Sonepat",
-            "Area of Land (Sq. Mtr)": "1,800",
-            "Area of Building (Sq. Mtr)": "1,600",
-            "% of Revenue": "6"
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 0,
-        "row_count": 15,
-        "rows": [
-          {
-            "Particulars (INR Crs.)": "Revenue",
-            "Q2 FY26": "42.84",
-            "Q2 FY27": "54.23",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "Other Income",
-            "Q2 FY26": "0.10",
-            "Q2 FY27": "0.16",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "Total Income",
-            "Q2 FY26": "42.94",
-            "Q2 FY27": "54.38",
-            "Y-o-Y Change (%)": "26.65"
-          },
-          {
-            "Particulars (INR Crs.)": "Raw Material Expense",
-            "Q2 FY26": "21.80",
-            "Q2 FY27": "27.94",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "Employee Benefit Expense",
-            "Q2 FY26": "8.19",
-            "Q2 FY27": "10.73",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "Other Expenses",
-            "Q2 FY26": "8.69",
-            "Q2 FY27": "11.74",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "EBITDA",
-            "Q2 FY26": "4.27",
-            "Q2 FY27": "3.97",
-            "Y-o-Y Change (%)": "(6.90)"
-          },
-          {
-            "Particulars (INR Crs.)": "EBITDA Margin (%)",
-            "Q2 FY26": "9.94",
-            "Q2 FY27": "7.30",
-            "Y-o-Y Change (%)": "(263.23) BPS"
-          },
-          {
-            "Particulars (INR Crs.)": "Finance Costs",
-            "Q2 FY26": "0.76",
-            "Q2 FY27": "1.16",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "Depreciation",
-            "Q2 FY26": "0.77",
-            "Q2 FY27": "1.34",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "PBT",
-            "Q2 FY26": "2.73",
-            "Q2 FY27": "1.48",
-            "Y-o-Y Change (%)": "(45.81)"
-          },
-          {
-            "Particulars (INR Crs.)": "Tax",
-            "Q2 FY26": "0.62",
-            "Q2 FY27": "0.34",
-            "Y-o-Y Change (%)": ""
-          },
-          {
-            "Particulars (INR Crs.)": "PAT",
-            "Q2 FY26": "2.11",
-            "Q2 FY27": "1.14",
-            "Y-o-Y Change (%)": "(45.87)"
-          },
-          {
-            "Particulars (INR Crs.)": "PAT Margin (%)",
-            "Q2 FY26": "4.92",
-            "Q2 FY27": "2.10",
-            "Y-o-Y Change (%)": "(281.72) BPS"
-          },
-          {
-            "Particulars (INR Crs.)": "EPS",
-            "Q2 FY26": "2.30",
-            "Q2 FY27": "1.15",
-            "Y-o-Y Change (%)": ""
-          }
-        ]
-      },
-      {
-        "page": 20,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Particulars (INR Crs.)": "Revenue",
-            "FY24": "140.11",
-            "FY25": "150.72",
-            "FY26": "161.03"
-          },
-          {
-            "Particulars (INR Crs.)": "Other Income",
-            "FY24": "0.91",
-            "FY25": "0.69",
-            "FY26": "1.33"
-          },
-          {
-            "Particulars (INR Crs.)": "Total Income",
-            "FY24": "141.02",
-            "FY25": "151.41",
-            "FY26": "162.35"
-          },
-          {
-            "Particulars (INR Crs.)": "Raw Material Expense",
-            "FY24": "77.68",
-            "FY25": "80.37",
-            "FY26": "82.27"
-          },
-          {
-            "Particulars (INR Crs.)": "Employee Benefit Expense",
-            "FY24": "23.04",
-            "FY25": "26.68",
-            "FY26": "32.83"
-          },
-          {
-            "Particulars (INR Crs.)": "Other Expenses",
-            "FY24": "27.55",
-            "FY25": "30.60",
-            "FY26": "33.14"
-          },
-          {
-            "Particulars (INR Crs.)": "EBITDA",
-            "FY24": "12.75",
-            "FY25": "13.76",
-            "FY26": "14.12"
-          },
-          {
-            "Particulars (INR Crs.)": "EBITDA Margin (%)",
-            "FY24": "9.04",
-            "FY25": "9.09",
-            "FY26": "8.70"
-          },
-          {
-            "Particulars (INR Crs.)": "Finance Costs",
-            "FY24": "2.30",
-            "FY25": "2.55",
-            "FY26": "4.14"
-          },
-          {
-            "Particulars (INR Crs.)": "Depreciation",
-            "FY24": "2.49",
-            "FY25": "2.93",
-            "FY26": "4.49"
-          },
-          {
-            "Particulars (INR Crs.)": "PBT before Exceptional Items",
-            "FY24": "7.97",
-            "FY25": "8.28",
-            "FY26": "5.49"
-          },
-          {
-            "Particulars (INR Crs.)": "Exceptional Items",
-            "FY24": "0.00",
-            "FY25": "0.00",
-            "FY26": "(0.56)"
-          },
-          {
-            "Particulars (INR Crs.)": "PBT after Exceptional Items",
-            "FY24": "7.97",
-            "FY25": "8.28",
-            "FY26": "4.93"
-          },
-          {
-            "Particulars (INR Crs.)": "Tax",
-            "FY24": "(0.76)",
-            "FY25": "0.03",
-            "FY26": "1.26"
-          },
-          {
-            "Particulars (INR Crs.)": "PAT",
-            "FY24": "8.73",
-            "FY25": "8.25",
-            "FY26": "3.67"
-          },
-          {
-            "Particulars (INR Crs.)": "PAT Margin (%)",
-            "FY24": "6.19",
-            "FY25": "5.45",
-            "FY26": "2.26"
-          },
-          {
-            "Particulars (INR Crs.)": "EPS",
-            "FY24": "9.49",
-            "FY25": "8.98",
-            "FY26": "4.60"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Equities & Liabilities (INR Cr)": "Shareholder's Fund",
-            "FY25": "",
-            "FY26": "",
-            "H1 FY27": ""
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Share Capital",
-            "FY25": "9.19",
-            "FY26": "9.19",
-            "H1 FY27": "9.99"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Reserves & Surplus",
-            "FY25": "62.12",
-            "FY26": "65.41",
-            "H1 FY27": "75.49"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Total Equity",
-            "FY25": "71.31",
-            "FY26": "74.60",
-            "H1 FY27": "85.48"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Non-Current Liabilities",
-            "FY25": "",
-            "FY26": "",
-            "H1 FY27": ""
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Long Term Borrowings",
-            "FY25": "12.86",
-            "FY26": "14.68",
-            "H1 FY27": "16.77"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Deferred Tax Liabilities",
-            "FY25": "0.00",
-            "FY26": "0.59",
-            "H1 FY27": "0.58"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Long Term Provision",
-            "FY25": "2.90",
-            "FY26": "3.71",
-            "H1 FY27": "3.71"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Other Non Current Liabilities",
-            "FY25": "2.52",
-            "FY26": "11.22",
-            "H1 FY27": "10.78"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Total Non Current Liabilities",
-            "FY25": "18.29",
-            "FY26": "30.21",
-            "H1 FY27": "31.84"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Current Liabilities",
-            "FY25": "",
-            "FY26": "",
-            "H1 FY27": ""
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Short-Term Borrowings",
-            "FY25": "3.77",
-            "FY26": "7.29",
-            "H1 FY27": "6.63"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Trade Payables",
-            "FY25": "21.95",
-            "FY26": "27.70",
-            "H1 FY27": "44.01"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Other Current Liabilities",
-            "FY25": "4.16",
-            "FY26": "8.07",
-            "H1 FY27": "10.70"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Short Term Provision",
-            "FY25": "0.50",
-            "FY26": "0.86",
-            "H1 FY27": "1.03"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Total Current Liabilities",
-            "FY25": "30.38",
-            "FY26": "43.91",
-            "H1 FY27": "62.36"
-          },
-          {
-            "Equities & Liabilities (INR Cr)": "Total Liabilities",
-            "FY25": "119.97",
-            "FY26": "148.73",
-            "H1 FY27": "179.68"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 1,
-        "row_count": 14,
-        "rows": [
-          {
-            "Assets": "Non-Current Assets",
-            "FY25": "",
-            "FY26": "",
-            "H1 FY27": ""
-          },
-          {
-            "Assets": "PP&E",
-            "FY25": "67.52",
-            "FY26": "90.44",
-            "H1 FY27": "95.22"
-          },
-          {
-            "Assets": "CWIP",
-            "FY25": "5.26",
-            "FY26": "4.23",
-            "H1 FY27": "3.96"
-          },
-          {
-            "Assets": "Non - Current Investment",
-            "FY25": "1.39",
-            "FY26": "1.06",
-            "H1 FY27": "1.40"
-          },
-          {
-            "Assets": "Other Non - Current Assets",
-            "FY25": "5.91",
-            "FY26": "3.49",
-            "H1 FY27": "4.10"
-          },
-          {
-            "Assets": "Total Non Current Assets",
-            "FY25": "80.07",
-            "FY26": "99.22",
-            "H1 FY27": "104.68"
-          },
-          {
-            "Assets": "Current Assets",
-            "FY25": "",
-            "FY26": "",
-            "H1 FY27": ""
-          },
-          {
-            "Assets": "Inventories",
-            "FY25": "11.66",
-            "FY26": "15.00",
-            "H1 FY27": "23.93"
-          },
-          {
-            "Assets": "Trade Receivable",
-            "FY25": "17.94",
-            "FY26": "24.65",
-            "H1 FY27": "27.75"
-          },
-          {
-            "Assets": "Cash & Cash Equivalents",
-            "FY25": "3.38",
-            "FY26": "3.41",
-            "H1 FY27": "7.28"
-          },
-          {
-            "Assets": "Short term loan & advances",
-            "FY25": "0.06",
-            "FY26": "0.02",
-            "H1 FY27": "0.00"
-          },
-          {
-            "Assets": "Other current Assets",
-            "FY25": "6.86",
-            "FY26": "6.43",
-            "H1 FY27": "16.05"
-          },
-          {
-            "Assets": "Total Current Assets",
-            "FY25": "39.90",
-            "FY26": "49.51",
-            "H1 FY27": "75.01"
-          },
-          {
-            "Assets": "Total Assets",
-            "FY25": "119.97",
-            "FY26": "148.73",
-            "H1 FY27": "179.68"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "fbdbdef6-1674-4c48-b167-f3ee85060ca9",
-    "SCRIP_CD": 544140,
-    "XML_NAME": "ANN_544140_FBDBDEF6-1674-4C48-B167-F3EE85060CA9",
-    "NEWSSUB": "Gopal Snacks Ltd - 544140 - Business Update",
-    "DT_TM": "2026-11-25T10:54:37.06",
-    "NEWS_DT": "2026-11-25T10:54:37.06",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "de1456d8-19ce-435c-99ed-192049e2f79d.pdf",
-    "MORE": "",
-    "HEADLINE": "as attached.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gopal-snacks-ltd/gopal/544140/",
-    "SLONGNAME": "Gopal Snacks Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:54:37",
-    "DissemDT": "2026-11-25T10:54:37.06",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 517902,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Date & Strategic Shift (25 Nov 2026):** Gopal Snacks Ltd announced a “next phase of growth,” moving from a traditional mass‑market namkeen brand to a “mass‑premium” positioning through product innovation, new categories (e.g., western wafers, extruded snacks, better‑for‑you items, confectionery) and a refreshed packaging design inspired by Gujarat’s Bandhani motifs.  \n\n- **Financial Details:** The release contains no specific monetary figures, investment amounts, revenue or profit numbers, or other quantitative financial decisions.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "e8859887-9841-490c-be73-a48d7052d67a",
-    "SCRIP_CD": 526861,
-    "XML_NAME": "ANN_526861_E8859887-9841-490C-BE73-A48D7052D67A",
-    "NEWSSUB": "Rishi Laser Ltd - 526861 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-25T10:54:26.49",
-    "NEWS_DT": "2026-11-25T10:54:26.49",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "67ac6e49-56bd-466a-a3f1-ec847e00c69e.pdf",
-    "MORE": "",
-    "HEADLINE": "enclosed UFR",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rishi-laser-ltd/rishilase/526861/",
-    "SLONGNAME": "Rishi Laser Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:54:26",
-    "DissemDT": "2026-11-25T10:54:26.49",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4054269,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Rishi Laser Ltd. announced that unaudited financial results for the quarter and half‑year ended 30 September 2026 have been published in the newspapers “Business Standard” (English) and “Navakal” (Marathi) as required under SEBI Regulation 47.  \n- The notice contains no specific financial figures, dates beyond the reporting period, or details of any financial decisions.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "8e64f4f4-b1f2-434d-b015-987359ce1d57",
-    "SCRIP_CD": 517522,
-    "XML_NAME": "ANN_517522_8E64F4F4-B1F2-434D-B015-987359CE1D57",
-    "NEWSSUB": "Rajratan Global Wire Ltd - 517522 - Board Meeting Outcome for Outcome Of Board Meeting - Intimation Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations') - Proposed Incorporation Of A Wholly Owned Subsidiary ('WOS')",
-    "DT_TM": "2026-11-25T10:53:54.23",
-    "NEWS_DT": "2026-11-25T10:53:54.23",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dfe82d75-a72e-4156-822d-bf3832eef64c.pdf",
-    "MORE": "Outcome of Board Meeting - Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations') - Proposed incorporation of a Wholly Owned Subsidiary ('WOS')",
-    "HEADLINE": "Outcome of Board Meeting - Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations') - Proposed incorporation ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rajratan-global-wire-ltd/rajratan/517522/",
-    "SLONGNAME": "Rajratan Global Wire Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:53:52",
-    "DissemDT": "2026-11-25T10:53:54.23",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 400490,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval on 25 Nov 2026 (meeting concluded at 10:40 am):** The directors approved the creation of a wholly‑owned subsidiary in the Netherlands, to be named “Rajratan Wire Europe” (or a similar approved name).  \n\n- **Financial commitment:** Rajratan Global Wire Ltd will fund the new entity with **€50,000** in cash as the initial paid‑up share capital, giving the listed company **100 % ownership** of the subsidiary.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "43f90d1e-01d2-4fd6-9490-007dafc6e4ff",
-    "SCRIP_CD": 544785,
-    "XML_NAME": "ANN_544785_43F90D1E-01D2-4FD6-9490-007DAFC6E4FF",
-    "NEWSSUB": "Hexagon Nutrition Ltd - 544785 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T10:53:46.24",
-    "NEWS_DT": "2026-11-25T10:53:46.24",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "43F90D1E_01D2_4FD6_9490_007DAFC6E4FF_105341.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Preeti Vikram Kelkar",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/",
-    "SLONGNAME": "Hexagon Nutrition Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T10:53:46.24",
-    "TimeDiff": null,
-    "Fld_Attachsize": 1821960,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0d98843b-a70b-43d2-9988-d5d89c9050bd",
-    "SCRIP_CD": 544785,
-    "XML_NAME": "ANN_544785_0D98843B-A70B-43D2-9988-D5D89C9050BD",
-    "NEWSSUB": "Hexagon Nutrition Ltd - 544785 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T10:52:41.197",
-    "NEWS_DT": "2026-11-25T10:52:41.197",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0D98843B_A70B_43D2_9988_D5D89C9050BD_105236.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Vikram Kelkar",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hexagon-nutrition-ltd/hexagon/544785/",
-    "SLONGNAME": "Hexagon Nutrition Ltd",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T10:52:41.197",
-    "TimeDiff": null,
-    "Fld_Attachsize": 808084,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- On 20 Nov 2026, promoter Mr. Vikram Kelkar acquired 35,000 additional equity shares of Hexagon Nutrition Ltd, raising his voting‑shareholding from 259,71,344 (21.13",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "649a9177-fbfe-46d1-af41-e137169bb62e",
-    "SCRIP_CD": 544755,
-    "XML_NAME": "ANN_544755_649A9177-FBFE-46D1-AF41-E137169BB62E",
-    "NEWSSUB": "Recode Studios Ltd - 544755 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-25T10:52:31.143",
-    "NEWS_DT": "2026-11-25T10:52:31.143",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5699f895-293e-48f4-aef2-5e0bead0e512.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release on opening of New Franchise Store in Jammu",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/recode-studios-ltd/recode/544755/",
-    "SLONGNAME": "Recode Studios Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:52:31",
-    "DissemDT": "2026-11-25T10:52:31.143",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 425414,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Store expansion (25 Nov 2026):** Recode Studios opened a new Franchise‑Owned, Franchise‑Operated (FOFO) store in Jammu, raising its FOFO network from 25 to **26 outlets** and its total exclusive retail touch‑points from **34 to 35**.",
-    "key_metrics": {
-      "revenue": "1"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a256ab42-0f01-46f0-8748-4fdb230b72ea",
-    "SCRIP_CD": 521220,
-    "XML_NAME": "ANN_521220_A256AB42-0F01-46F0-8748-4FDB230B72EA",
-    "NEWSSUB": "Damodar Industries Ltd-$ - 521220 - Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "DT_TM": "2026-11-25T10:51:39.15",
-    "NEWS_DT": "2026-11-25T10:51:39.15",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "A256AB42_0F01_46F0_8748_4FDB230B72EA_105134.pdf",
-    "MORE": "",
-    "HEADLINE": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Arun Kumar Biyani",
-    "CATEGORYNAME": "Insider Trading / SAST",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/damodar-industries-ltd/damodarind/521220/",
-    "SLONGNAME": "Damodar Industries Ltd-$",
-    "AGENDA_ID": 57,
-    "TotalPageCnt": 2,
-    "News_submission_dt": null,
-    "DissemDT": "2026-11-25T10:51:39.15",
-    "TimeDiff": null,
-    "Fld_Attachsize": 1521819,
-    "SUBCATNAME": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Arun Kumar Biyani (acting on behalf of the acquirer) is acquiring **165,000,000 equity shares**, which represents **100 % of the equity/share‑voting capital** of Damodar Industries Ltd. – the same amount and percentage apply both before and after",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ba62cf48-48a6-4ea2-b6e5-a82487ab6b92",
-    "SCRIP_CD": 540212,
-    "XML_NAME": "ANN_540212_BA62CF48-48A6-4EA2-B6E5-A82487AB6B92",
-    "NEWSSUB": "TCI Express Ltd - 540212 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-25T10:51:25.403",
-    "NEWS_DT": "2026-11-25T10:51:25.403",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a954920f-91e3-4ccb-8047-cc8e14e69b60.pdf",
-    "MORE": "",
-    "HEADLINE": "Publication of Postal ballot notice of the company and availability of special window for re-lodgments of transfer request",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/tci-express-ltd/tciexp/540212/",
-    "SLONGNAME": "TCI Express Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:51:25",
-    "DissemDT": "2026-11-25T10:51:25.403",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 10896492,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Date & purpose:** On 25 Nov 2026, TCI Express Ltd. filed a Regulation 30 announcement to inform the market that it has placed newspaper advertisements (in *Financial Express* and *Nav Telangana*) announcing its upcoming postal ballot, remote e‑voting details, and a special window for re‑lodgement of transfer requests and dematerialisation of physical securities.  \n\n- **Financial details:** The notice contains no monetary figures, earnings data, or other financial metrics. It solely communicates procedural information related to the shareholder voting process and securities handling.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fe7ee1a1-b76e-434e-8d85-1a3109686af9",
-    "SCRIP_CD": 500108,
-    "XML_NAME": "ANN_500108_FE7EE1A1-B76E-434E-8D85-1A3109686AF9",
-    "NEWSSUB": "Mahanagar Telephone Nigam Ltd - 500108 - COMPLIANCE OF REGULATION 30 & 51 OF SEBI (LODR) REGULATIONS, 2015 - DISCLOSURE OF EVENTS OR INFORMATION - RATING GIVEN BY M/S CRISIL RATINGS LIMITED TO BONDS ISSUED BY MTNL - SUBMISSION OF RATING RATIONALE",
-    "DT_TM": "2026-11-25T10:50:59.797",
-    "NEWS_DT": "2026-11-25T10:50:59.797",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5049c93b-fbdc-47f1-921b-459022af5c0d.pdf",
-    "MORE": "",
-    "HEADLINE": "LETTER ATTACHED",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mahanagar-telephone-nigam-ltd/mtnl/500108/",
-    "SLONGNAME": "Mahanagar Telephone Nigam Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:50:59",
-    "DissemDT": "2026-11-25T10:50:59.797",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 755271,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "Particulars": "Revenue",
-            "Unit": "Rs crore",
-            "2026": "956",
-            "2025": "698"
-          },
-          {
-            "Particulars": "Profit after tax (PAT)",
-            "Unit": "Rs crore",
-            "2026": "-3107",
-            "2025": "-3328"
-          },
-          {
-            "Particulars": "PAT margin",
-            "Unit": "%",
-            "2026": "NM",
-            "2025": "NM"
-          },
-          {
-            "Particulars": "Adjusted debt / adjusted networth",
-            "Unit": "Times",
-            "2026": "NM",
-            "2025": "NM"
-          },
-          {
-            "Particulars": "Interest coverage",
-            "Unit": "Times",
-            "2026": "NM",
-            "2025": "NM"
-          }
-        ]
-      },
-      {
-        "page": 3,
-        "table_index": 3,
-        "row_count": 25,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Instrument / activity Name": "Listed/Proposed to be listed bonds/debentures/preference share (all securities)",
-            "Regulator of the instruments": "SEBI"
-          },
-          {
-            "Sr. No.": "2",
-            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
-            "Regulator of the instruments": "MCA"
-          },
-          {
-            "Sr. No.": "3",
-            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI)*$",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "4",
-            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI)*",
-            "Regulator of the instruments": "SEBI"
-          },
-          {
-            "Sr. No.": "5",
-            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI)*",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "6",
-            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "7",
-            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "8",
-            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/FIs ^",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "9",
-            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "10",
-            "Instrument / activity Name": "Certificates of Deposit",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "11a",
-            "Instrument / activity Name": "Fixed Deposits raised by NBFC's, HFCs, Fis",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "11b",
-            "Instrument / activity Name": "Fixed Deposits raised by Banks",
-            "Regulator of the instruments": "+"
-          },
-          {
-            "Sr. No.": "12",
-            "Instrument / activity Name": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
-            "Regulator of the instruments": "MCA"
-          },
-          {
-            "Sr. No.": "13",
-            "Instrument / activity Name": "Inter Corporate Deposits/Loans extended by Corporates",
-            "Regulator of the instruments": "MCA"
-          },
-          {
-            "Sr. No.": "14",
-            "Instrument / activity Name": "Borrowing programme ~",
-            "Regulator of the instruments": "-"
-          },
-          {
-            "Sr. No.": "15",
-            "Instrument / activity Name": "Issuer Ratings #",
-            "Regulator of the instruments": "-"
-          },
-          {
-            "Sr. No.": "16",
-            "Instrument / activity Name": "Credit Ratings for Capital Protection Oriented Schemes (by Mutual Funds and AIFs)",
-            "Regulator of the instruments": "SEBI"
-          },
-          {
-            "Sr. No.": "17",
-            "Instrument / activity Name": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
-            "Regulator of the instruments": "SEBI"
-          },
-          {
-            "Sr. No.": "18",
-            "Instrument / activity Name": "Listed Security Receipts$",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "19",
-            "Instrument / activity Name": "Unlisted Security Receipts",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "20",
-            "Instrument / activity Name": "Independent Credit Evaluation (ICE)",
-            "Regulator of the instruments": "RBI"
-          },
-          {
-            "Sr. No.": "21",
-            "Instrument / activity Name": "Expected Loss Ratings (for Loan Facilities (Fund/Non-Fund Based) from Bank/NBFCs/NHB/Fis)",
-            "Regulator of the instruments": "+"
-          },
-          {
-            "Sr. No.": "22",
-            "Instrument / activity Name": "Expected Loss Ratings (Listed/Proposed to be listed bonds/debentures/preference share (all securities))",
-            "Regulator of the instruments": "SEBI"
-          },
-          {
-            "Sr. No.": "23",
-            "Instrument / activity Name": "Expected Loss Ratings (Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities))",
-            "Regulator of the instruments": "MCA"
-          },
-          {
-            "Sr. No.": "24",
-            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) *",
-            "Regulator of the instruments": "Investor-side regulator such as IRDAI, PFRDA @"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "574bd92a-71fa-4d71-9e0f-645d6ad0e74a",
-    "SCRIP_CD": 544124,
-    "XML_NAME": "ANN_544124_574BD92A-71FA-4D71-9E0F-645D6AD0E74A",
-    "NEWSSUB": "Vibhor Steel Tubes Ltd - 544124 - Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-    "DT_TM": "2026-11-25T10:43:46.93",
-    "NEWS_DT": "2026-11-25T10:43:46.93",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0035dab6-49a2-41b7-90cd-bba420d695c1.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/vibhor-steel-tubes-ltd/vstl/544124/",
-    "SLONGNAME": "Vibhor Steel Tubes Ltd",
-    "AGENDA_ID": 157,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:43:46",
-    "DissemDT": "2026-11-25T10:43:46.93",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1082152,
-    "SUBCATNAME": "Earnings Call Transcript",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Financial performance (Q2 & H1 FY 2027, quarter ended 30 Sept 2026)** – In the earnings call held on **23 Nov 2026**, Vibhor Steel Tubes Ltd",
-    "key_metrics": {
-      "revenue": "",
-      "operating_profit": ""
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "836d3358-8de3-453a-9061-a33931b9564e",
-    "SCRIP_CD": 500550,
-    "XML_NAME": "ANN_500550_836D3358-8DE3-453A-9061-A33931B9564E",
-    "NEWSSUB": "Siemens Ltd - 500550 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-25T10:43:25.067",
-    "NEWS_DT": "2026-11-25T10:43:25.067",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fe816bf4-3c81-4216-8b9f-f5d7ca53cfbe.pdf",
-    "MORE": "Pursuant to Regulation 30, 46 and other applicable provisions of the Listing Regulations, please find enclosed the presentation for the Analysts / Institutional Investors call to be held today\r\ni.e. Wednesday, November 25, 2026.",
-    "HEADLINE": "Pursuant to Regulation 30, 46 and other applicable provisions of the Listing Regulations, please find enclosed the presentation for the Analysts / Institutional Investors call to be held ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/siemens-ltd/siemens/500550/",
-    "SLONGNAME": "Siemens Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-25T10:43:24",
-    "DissemDT": "2026-11-25T10:43:25.067",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 1802047,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "836d3358-8de3-453a-9061-a33931b9564e",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14977857,
-    "DataInsDate": "2026-11-25T10:43:24.833",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The analyst/investor call was held on **Wednesday, 25 November 2026**, and the accompanying presentation (covering **Siemens Ltd’s Q2 FY 2027 results for the period 01 July 2026 – 30 September 2026**) was made available on the company’s website.  \n\n- The announcement contains **no specific financial figures, targets or decisions**; it only provides the meeting date, the reporting period covered, and a standard disclaimer about forward‑looking statements.",
-    "key_metrics": {
-      "revenue": "17.0",
-      "operating_profit": "6.3 bn",
-      "currency_unit": "in Billions"
-    },
-    "financial_tables": [
-      {
-        "page": 14,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Siemens Limited (Continuing Operations)": "Order Backlog",
-            "3M Sep 2025": "419.8",
-            "3M Sep 2026": "470.3",
-            "% Change (y-o-y)": "+12.0%"
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "New Orders",
-            "3M Sep 2025": "45.2",
-            "3M Sep 2026": "62.3",
-            "% Change (y-o-y)": "+37.8%"
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "Revenue",
-            "3M Sep 2025": "49.0",
-            "3M Sep 2026": "57.3",
-            "% Change (y-o-y)": "+17.0%"
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "EBITDA",
-            "3M Sep 2025": "+6.3",
-            "3M Sep 2026": "+6.3",
-            "% Change (y-o-y)": ""
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "EBITDA Margin %",
-            "3M Sep 2025": "+12.8%",
-            "3M Sep 2026": "+11.0%",
-            "% Change (y-o-y)": ""
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "Profit Before Tax",
-            "3M Sep 2025": "6.6",
-            "3M Sep 2026": "6.8",
-            "% Change (y-o-y)": ""
-          }
-        ]
-      },
-      {
-        "page": 18,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Siemens Limited (Continuing Operations)": "Order Backlog",
-            "6M Sep 2025": "419.8",
-            "6M Sep 2026": "470.3",
-            "% Change (y-o-y)": "+12.0%"
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "New Orders",
-            "6M Sep 2025": "99.5",
-            "6M Sep 2026": "125.6",
-            "% Change (y-o-y)": "+26.2%"
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "Revenue",
-            "6M Sep 2025": "90.1",
-            "6M Sep 2026": "104.5",
-            "% Change (y-o-y)": "+16.0%"
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "EBITDA",
-            "6M Sep 2025": "+11.5",
-            "6M Sep 2026": "+10.7",
-            "% Change (y-o-y)": ""
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "EBITDA Margin %",
-            "6M Sep 2025": "+12.8%",
-            "6M Sep 2026": "+10.2%",
-            "% Change (y-o-y)": ""
-          },
-          {
-            "Siemens Limited (Continuing Operations)": "Profit Before Tax",
-            "6M Sep 2025": "12.3",
-            "6M Sep 2026": "11.4",
-            "% Change (y-o-y)": ""
-          }
-        ]
-      }
-    ]
   }
 ]
