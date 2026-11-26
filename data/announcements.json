@@ -1,5 +1,378 @@
 [
   {
+    "NEWSID": "90dca157-ba09-4ba2-82ca-a96da165acc5",
+    "SCRIP_CD": 517467,
+    "XML_NAME": "ANN_517467_90DCA157-BA09-4BA2-82CA-A96DA165ACC5",
+    "NEWSSUB": "Marsons Ltd - 517467 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-26T11:26:51.517",
+    "NEWS_DT": "2026-11-26T11:26:51.517",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "062c3a92-1ca8-437c-b2b5-941c6205c3d2.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith the intimation of Credit Rating under SEBI (LODR) Regulations, 2015.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/marsons-ltd/marsons/517467/",
+    "SLONGNAME": "Marsons Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-26T11:26:51",
+    "DissemDT": "2026-11-26T11:26:51.517",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 614100,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Credit rating & loan facility (Nov 25 2026):** India Ratings assigned Marsons Ltd’s bank",
+    "key_metrics": {
+      "revenue": "27",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": [
+      {
+        "page": 4,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "Revenue (INR million)",
+            "1HFY27*": "1,458.16",
+            "FY26": "2,450.61",
+            "FY25": "1,683.62"
+          },
+          {
+            "Particulars": "EBITDAR (INR million)",
+            "1HFY27*": "259.17",
+            "FY26": "423.01",
+            "FY25": "252.23"
+          },
+          {
+            "Particulars": "EBITDAR margin (%)",
+            "1HFY27*": "17.77",
+            "FY26": "17.26",
+            "FY25": "14.98"
+          },
+          {
+            "Particulars": "Gross interest coverage (x)",
+            "1HFY27*": "25.28",
+            "FY26": "31.04",
+            "FY25": "130.69"
+          },
+          {
+            "Particulars": "Net leverage (x)",
+            "1HFY27*": "-",
+            "FY26": "NM",
+            "FY25": "0.05"
+          },
+          {
+            "Particulars": "Source: Marsons ; Ind-Ra *Unaudited NM – not meaningful",
+            "1HFY27*": "",
+            "FY26": "",
+            "FY25": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "250302df-a671-44d0-8f46-1dba8e342efa",
+    "SCRIP_CD": 532313,
+    "XML_NAME": "ANN_532313_250302DF-A671-44D0-8F46-1DBA8E342EFA",
+    "NEWSSUB": "Mahindra Lifespace Developers Ltd - 532313 - Announcement under Regulation 30 (LODR)-Change in Management",
+    "DT_TM": "2026-11-26T11:24:55.733",
+    "NEWS_DT": "2026-11-26T11:24:55.733",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a561282d-4fc4-45df-9b0a-ad3814e0dfd9.pdf",
+    "MORE": "",
+    "HEADLINE": "Appointment of Chief Legal Officer of the Company",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mahindra-lifespace-developers-ltd/mahlife/532313/",
+    "SLONGNAME": "Mahindra Lifespace Developers Ltd",
+    "AGENDA_ID": 124,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-26T11:24:55",
+    "DissemDT": "2026-11-26T11:24:55.733",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 503962,
+    "SUBCATNAME": "Change in Management",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board of Directors approved, on 26 November 2026 (circular resolution at 10:06 am), the appointment of Ms. Rajashree Ansurkar as Chief Legal Officer (senior management) of Mahindra Lifespace Developers Ltd., effective 1 January 2027.  \n- The announcement contains no financial figures, transactions, or monetary decisions.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "981d5854-f9e7-4d17-9a51-35e9caf58873",
+    "SCRIP_CD": 540699,
+    "XML_NAME": "ANN_540699_981D5854-F9E7-4D17-9A51-35E9CAF58873",
+    "NEWSSUB": "Dixon Technologies (India) Ltd - 540699 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-11-26T11:22:42.447",
+    "NEWS_DT": "2026-11-26T11:22:42.447",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf",
+    "MORE": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of Schedule III of the said Regulations, we hereby inform that the Company's Officials had Meeting(s) with the analyst(s)/advisor(s)/investor(s) of various funds as specified herein.",
+    "HEADLINE": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of Schedule III of the said ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dixon-technologies-(india)-ltd/dixon/540699/",
+    "SLONGNAME": "Dixon Technologies (India) Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-26T11:22:42",
+    "DissemDT": "2026-11-26T11:22:42.447",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 632726,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "981d5854-f9e7-4d17-9a51-35e9caf58873",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14990046,
+    "DataInsDate": "2026-11-26T11:22:42.353",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 25 November 2026, Dixon Technologies (India) Ltd held two in‑person, one‑on‑one meetings with institutional investors: Balyasny Asset Management at 11:45 IST and Emkay Global at 12:30 IST.  \n- The company confirmed that no unpublished price‑sensitive information was disclosed and no presentation was made during these meetings.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "bc50c356-2012-4181-a48c-1b89c92cdbc2",
+    "SCRIP_CD": 531859,
+    "XML_NAME": "ANN_531859_BC50C356-2012-4181-A48C-1B89C92CDBC2",
+    "NEWSSUB": "Oriental Rail Infrastructure Ltd - 531859 - Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
+    "DT_TM": "2026-11-26T11:20:19.853",
+    "NEWS_DT": "2026-11-26T11:20:19.853",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b1ed212b-0f20-4703-9482-311073911088.pdf",
+    "MORE": "",
+    "HEADLINE": "Receipt of order from Integral Coach Factory (ICF)",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+    "SLONGNAME": "Oriental Rail Infrastructure Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-26T11:20:19",
+    "DissemDT": "2026-11-26T11:20:19.853",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 800890,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Order secured:** Oriental Rail Infrastructure Ltd received a contract from Integral Coach Factory (ICF), Chennai, valued at **₹4,11,32,558** for the manufacturing, supply and installation of **53 coach‑seat sets**.  \n\n- **Key terms & timeline:** Payment is structured as **80 % on proof of inspection and provisional receipt**, with the remaining **20 % plus installation charges after final acceptance**; the contract must be fulfilled **by 31 December 2027**. (Announcement",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5a4e34ca-98b3-4a60-9f2d-252bd702249f",
+    "SCRIP_CD": 544479,
+    "XML_NAME": "ANN_544479_5A4E34CA-98B3-4A60-9F2D-252BD702249F",
+    "NEWSSUB": "All Time Plastics Ltd - 544479 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-26T11:18:54.28",
+    "NEWS_DT": "2026-11-26T11:18:54.28",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a9da88fb-65c7-4113-8562-b4f024e6ed55.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Schedule of Analyst / Institutional Investor meetings under the SEBI (LODR) Regulations, 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/all-time-plastics-ltd/alltime/544479/",
+    "SLONGNAME": "All Time Plastics Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-26T11:18:54",
+    "DissemDT": "2026-11-26T11:18:54.28",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 401792,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "5a4e34ca-98b3-4a60-9f2d-252bd702249f",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14990042,
+    "DataInsDate": "2026-11-26T11:18:54.243",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- All Time Plastics Ltd will hold an analyst/investor meeting on **4 December 2026 (Friday) at 09:00 am** at its facilities in **Daman, Silvassa and Khatalwada (Gujarat)**; the session will cover only publicly available information and no unpublished price‑sensitive information will be disclosed.  \n\n- The announcement is an **intimation under SEBI Regulation 30(6)** and contains **no financial figures, decisions, or monetary details**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "503617af-265f-4e0e-8071-ff94548861da",
+    "SCRIP_CD": 544198,
+    "XML_NAME": "ANN_544198_503617AF-265F-4E0E-8071-FF94548861DA",
+    "NEWSSUB": "Dee Development Engineers Ltd - 544198 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-26T11:18:38.037",
+    "NEWS_DT": "2026-11-26T11:18:38.037",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0fb4df63-fce7-4d80-9e32-9516c0722d5b.pdf",
+    "MORE": "",
+    "HEADLINE": "The Company has intimated the Stock Exchange about an investor meet on 2nd December 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dee-development-engineers-ltd/deedev/544198/",
+    "SLONGNAME": "Dee Development Engineers Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-26T11:18:37",
+    "DissemDT": "2026-11-26T11:18:38.037",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 342970,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "503617af-265f-4e0e-8071-ff94548861da",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14990041,
+    "DataInsDate": "2026-11-26T11:18:38",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company has scheduled an Analyst/Institutional Investor Meet with Market Marvel in Delhi on **Wednesday, 2 December 2026**, to be held at the **Phillip Capital Business Potential Conference venue**.  \n- The announcement contains **no financial figures, transactions, or other monetary decisions**—it only provides the meeting schedule and a disclaimer that no unpublished price‑sensitive information will be shared.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "ec1c6af1-5400-4b76-b569-c0e28590420e",
+    "SCRIP_CD": 533088,
+    "XML_NAME": "ANN_533088_EC1C6AF1-5400-4B76-B569-C0E28590420E",
+    "NEWSSUB": "Mahindra Holidays & Resorts India Ltd - 533088 - Clarification sought from Mahindra Holidays & Resorts India Ltd",
+    "DT_TM": "2026-11-26T11:16:13.193",
+    "NEWS_DT": "2026-11-26T11:16:13.193",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "",
+    "MORE": "",
+    "HEADLINE": "The Exchange has sought clarification from Mahindra Holidays & Resorts India Ltd on November 26, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mahindra-holidays--resorts-india-ltd/mhril/533088/",
+    "SLONGNAME": "Mahindra Holidays & Resorts India Ltd",
+    "AGENDA_ID": 17,
+    "TotalPageCnt": 2,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-26T11:16:13.193",
+    "TimeDiff": null,
+    "Fld_Attachsize": null,
+    "SUBCATNAME": "Clarification",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4039ee6b-9f13-44d5-b409-0e853eae8376",
+    "SCRIP_CD": 524743,
+    "XML_NAME": "ANN_524743_4039EE6B-9F13-44D5-B409-0E853EAE8376",
+    "NEWSSUB": "Fischer Medical Ventures Ltd - 524743 - Clarification sought from Fischer Medical Ventures Ltd",
+    "DT_TM": "2026-11-26T11:15:41.91",
+    "NEWS_DT": "2026-11-26T11:15:41.91",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "",
+    "MORE": "",
+    "HEADLINE": "The Exchange has sought clarification from Fischer Medical Ventures Ltd on November 26, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/fischer-medical-ventures-ltd/fischer/524743/",
+    "SLONGNAME": "Fischer Medical Ventures Ltd",
+    "AGENDA_ID": 17,
+    "TotalPageCnt": 2,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-26T11:15:41.91",
+    "TimeDiff": null,
+    "Fld_Attachsize": null,
+    "SUBCATNAME": "Clarification",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "fcf142f5-9205-4463-881a-7c1fc2e069dd",
+    "SCRIP_CD": 539872,
+    "XML_NAME": "ANN_539872_FCF142F5-9205-4463-881A-7C1FC2E069DD",
+    "NEWSSUB": "Bajaj Healthcare Ltd - 539872 - Clarification sought from Bajaj Healthcare Ltd",
+    "DT_TM": "2026-11-26T11:15:14.85",
+    "NEWS_DT": "2026-11-26T11:15:14.85",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "",
+    "MORE": "",
+    "HEADLINE": "The Exchange has sought clarification from Bajaj Healthcare Ltd on November 26, 2026, with reference to Movement in Volume.<BR><BR>The reply is awaited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bajaj-healthcare-ltd/bajajhcare/539872/",
+    "SLONGNAME": "Bajaj Healthcare Ltd",
+    "AGENDA_ID": 17,
+    "TotalPageCnt": 2,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-26T11:15:14.85",
+    "TimeDiff": null,
+    "Fld_Attachsize": null,
+    "SUBCATNAME": "Clarification",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Attachment contains no selectable text or is a scanned image.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "75c3469f-b772-4732-9cf3-bf1dfce77d32",
     "SCRIP_CD": 532336,
     "XML_NAME": "ANN_532336_75C3469F-B772-4732-9CF3-BF1DFCE77D32",
@@ -4701,1381 +5074,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "- **Date & filing:** On 25 November 2026, Global Vectra Helicorp Ltd. disclosed that it has filed an appeal before the Customs, Excise, Service Tax Tribunal (Western Zonal Bench, Mumbai) against an Order‑in‑Original issued by the Principal Commissioner of Customs (Import), Mumbai, concerning the conditions for claiming IG ST exemption on imported helicopters and aircraft parts under lease arrangements (Notification No. 50/2017‑Customs).  \n\n- **Financial impact:** The announcement contains no monetary figures, settlement amounts, penalties, or other financial details; it merely informs regulators of the pending customs litigation.",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "79d23066-32ac-4e42-8bd4-3aa96787f4f3",
-    "SCRIP_CD": 544390,
-    "XML_NAME": "ANN_544390_79D23066-32AC-4E42-8BD4-3AA96787F4F3",
-    "NEWSSUB": "Siemens Energy India Ltd - 544390 - Results - Financial Results For The Financial Year Ended September 30, 2026",
-    "DT_TM": "2026-11-25T20:26:00.867",
-    "NEWS_DT": "2026-11-25T20:26:00.867",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "b498aec5-9f3e-4e87-a416-2af9441395df.pdf",
-    "MORE": "",
-    "HEADLINE": "Please refer the attached file.",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/siemens-energy-india-ltd/enrin/544390/",
-    "SLONGNAME": "Siemens Energy India Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:26:00",
-    "DissemDT": "2026-11-25T20:26:00.867",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 647427,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Board approval (Nov 25 2026):** The Board of Directors approved the audited financial results for the fiscal year ended 30 September 2026 and received an unmodified auditor’s opinion from Price Waterhouse Chartered Accountants LLP.  \n\n- **Dividend recommendation:** The Board recommended a cash dividend of **₹12 per equity share (face value ₹2), i.e., 600%**, for FY 2026, to be paid from **10 February 2027** if approved at the upcoming 3rd Annual General Meeting.",
-    "key_metrics": {
-      "revenue": "34526",
-      "net_profit": "81.5",
-      "total_assets": "121998",
-      "total_equity": "59728",
-      "eps": "2",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Statement of Assets and Liabilities (Rs. in million)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Sr. No.",
-            "col_2": "Particulars",
-            "col_3": "As at",
-            "col_4": "As at"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "30 September",
-            "col_4": "30 September"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "2026 (Audited)",
-            "col_4": "2025 (Audited)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "A 1 a) b) c) d) e) f) g) h) 2 a) b) c) d) B 1 a) b) 2 a) b) c) a) b) c) d) e)",
-            "col_2": "ASSETS Non-current assets Property, plant and equipment Right-of-use assets Capital work-in-progress Intangible assets Financial assets (i) Trade receivables (ii) Other financial assets Contract assets Deferred tax assets (net) Other non-current assets Total non-current assets Current assets Inventories Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalents (iv) Loans (v) Other financial assets Contract assets Other current assets Total current assets TOTAL ASSETS EQUITY AND LIABILITIES Equity Equity share capital Other equity Total equity Liabilities Non-current liabilities Financial liabilities (i) Lease liabilities (ii) Trade payables Total outstanding dues of creditors other than micro and small enterprises (iii) Other financial liabilities Contract liabilities Provisions Total non-current liabilities Current liabilities Financial liabilities (i) Lease liabilities (ii) Trade payables Total outstanding dues of micro and small enterprises Total outstanding dues of creditors other than micro and small enterprises (iii) Other financial liabilities Contract liabilities Provisions Current tax liabilities (net) Other current liabilities Total current liabilities Total liabilities TOTAL EQUITY AND LIABILITIES",
-            "col_3": "4,618 2,508 2,486 19 120 337 750 2,023 962",
-            "col_4": "4,044 1,312 759 5 - 185 265 2,104 1,001"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "13,823",
-            "col_4": "9,675"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "11,444 22,503 581 45,040 - 1,728 23,520 3,359",
-            "col_4": "7,603 19,205 1,322 33,298 1 3,818 17,468 3,062"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "108,175",
-            "col_4": "85,777"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "121,998",
-            "col_4": "95,452"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "712 59,016",
-            "col_4": "712 43,101"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "59,728",
-            "col_4": "43,813"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "2,062 * 751 2,887 4,510",
-            "col_4": "994 1 843 1,989 4,221"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "10,210",
-            "col_4": "8,048"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "698 2,801 25,018 6,064 11,528 4,650 195 1,106",
-            "col_4": "482 2,148 21,241 5,021 8,539 4,755 368 1,037"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "52,060",
-            "col_4": "43,591"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "62,270",
-            "col_4": "51,639"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "121,998",
-            "col_4": "95,452"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 18,
-        "rows": [
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Statement of Cash Flows for the year ended 30 September 2026",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "(Rs. in million)",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Particulars",
-            "col_2": "Year ended",
-            "col_3": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "30 September 2026 (Audited)",
-            "col_3": "30 September 2025 (Audited)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Cash flows from operating activities Profit before tax Adjustments for: Finance costs Bad debts Impairment allowance on financial and contract assets, net Capital work-in-progress written off / expensed off Provision for doubtful assets Liabilities written back Depreciation and amortisation expense Loss on sale of property, plant and equipment, net Unrealised exchange loss / (gain), net Share based payments to employees, net Interest income Operating profit before working capital changes Changes in operating assets and liabilities (Increase) / Decrease in inventories (Increase) / Decrease in trade and other receivables Increase in trade payables and other liabilities Increase in provisions Net change in working capital Cash generated from operations Income taxes paid, net Net cash generated from operating activities # Cash flows from investing activities Purchase of property, plant and equipment and intangible assets Deposits (with original maturity of more than 3 months) with banks matured Deposits (with original maturity of more than 3 months) with banks (placed) Proceeds from sale of property, plant and equipment Interest received Net cash used in investing activities Cash flows from financing activities Dividend paid Payment of principal of lease liabilities Payment of interest of lease liabilities Recharge for share-based payments Net cash used in financing activities Net (decrease) / increase in cash and cash equivalents Effect of exchange gain on cash and cash equivalents Cash and cash equivalents at beginning of the year Cash and cash equivalents at the end of the year Cash and cash equivalents at the end of the year includes: Balances with banks - in current accounts - in EEFC accounts Bank deposits with original maturity of less than 3 months Cash on hand Cash and cash equivalents Non cash transaction from investing and financing activities: Acquisition of Right-of-use assets",
-            "col_2": "23,877 321 59 616 187 - (316) 1,488 10 69 103 (2,078)",
-            "col_3": "14,875 282 57 227 32 120 - 1,030 75 (263) 101 (999)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "24,336",
-            "col_3": "15,537"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(3,841) (9,640) 9,092 256",
-            "col_3": "133 11,564 11,381 366"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(4,133) 20,203 (6,001)",
-            "col_3": "23,444 38,981 (2,280)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "14,202",
-            "col_3": "36,701"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(2,698) 89,089 (100,826) - 1,856",
-            "col_3": "(2,160) 55,849 (89,147) * 632"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(12,579)",
-            "col_3": "(34,826)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(1,424) (620) (197) (145)",
-            "col_3": "- (296) (111) (146)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(2,386)",
-            "col_3": "(553)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(763) 22 1,322",
-            "col_3": "1,322 * *"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "581",
-            "col_3": "1,322"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "580 - - 1",
-            "col_3": "782 * 540 *"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "581",
-            "col_3": "1,322"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "2,375",
-            "col_3": "533"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Segment-wise Revenue, Results, Assets & Liabilities for the quarter and year ended 30 September 2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "(Rs. in million)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Particulars",
-            "col_2": "Quarter ended",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Year ended",
-            "col_6": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "30 September",
-            "col_3": "30 June",
-            "col_4": "30 September",
-            "col_5": "30 September",
-            "col_6": "30 September"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "2026 (Unaudited) (Refer note 7)",
-            "col_3": "2026 (Unaudited)",
-            "col_4": "2025 (Unaudited)",
-            "col_5": "2026 (Audited)",
-            "col_6": "2025 (Audited)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "1. Segment Revenue Power Transmission Power Generation Revenue from operations",
-            "col_2": "22,194 12,332",
-            "col_3": "13,863 10,993",
-            "col_4": "13,600 12,857",
-            "col_5": "60,086 42,346",
-            "col_6": "41,896 36,371"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "34,526",
-            "col_3": "24,856",
-            "col_4": "26,457",
-            "col_5": "102,432",
-            "col_6": "78,267"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "2. Segment Results Power Transmission Power Generation Profit from operations Add: a) Other income Less: a) Finance costs Profit before exceptional items and tax Exceptional item (refer note 6) Profit before tax",
-            "col_2": "4,972 2,838",
-            "col_3": "2,998 2,455",
-            "col_4": "2,468 2,011",
-            "col_5": "12,846 9,338",
-            "col_6": "8,046 6,058"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "7,810 1,008 82",
-            "col_3": "5,453 573 92",
-            "col_4": "4,479 368 63",
-            "col_5": "22,184 2,533 321",
-            "col_6": "14,104 1,053 282"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "8,736 -",
-            "col_3": "5,934 -",
-            "col_4": "4,784 -",
-            "col_5": "24,396 519",
-            "col_6": "14,875 -"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "8,736",
-            "col_3": "5,934",
-            "col_4": "4,784",
-            "col_5": "23,877",
-            "col_6": "14,875"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "3. Segment Assets Power Transmission Power Generation Total Segment Assets Unallocated Total Assets",
-            "col_2": "50,002 23,609",
-            "col_3": "43,189 23,615",
-            "col_4": "35,807 20,132",
-            "col_5": "50,002 23,609",
-            "col_6": "35,807 20,132"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "73,611 48,387",
-            "col_3": "66,804 41,737",
-            "col_4": "55,939 39,513",
-            "col_5": "73,611 48,387",
-            "col_6": "55,939 39,513"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "121,998",
-            "col_3": "108,541",
-            "col_4": "95,452",
-            "col_5": "121,998",
-            "col_6": "95,452"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "4. Segment Liabilities Power Transmission Power Generation Total Segment Liabilities Unallocated Total Liabilities",
-            "col_2": "37,855 23,859",
-            "col_3": "31,147 23,792",
-            "col_4": "25,191 25,968",
-            "col_5": "37,855 23,859",
-            "col_6": "25,191 25,968"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "61,714 556",
-            "col_3": "54,939 696",
-            "col_4": "51,159 480",
-            "col_5": "61,714 556",
-            "col_6": "51,159 480"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "62,270",
-            "col_3": "55,635",
-            "col_4": "51,639",
-            "col_5": "62,270",
-            "col_6": "51,639"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "",
-            "Quarter ended": "Sept. '26",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "Sept. '25",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "Change",
-            "col_12": "",
-            "Year ended": "",
-            "col_14": "",
-            "col_15": "Change"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "(%)",
-            "col_12": "",
-            "Year ended": "Sept. '26",
-            "col_14": "Sept. '25",
-            "col_15": "(%)"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "New orders",
-            "col_3": "",
-            "Quarter ended": "4,514",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "2,351",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "92.1",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "14,579",
-            "col_14": "13,112",
-            "col_15": "11.2%"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Order backlog",
-            "col_3": "",
-            "Quarter ended": "20,362",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "16,206",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "25.6",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "20,362",
-            "col_14": "16,206",
-            "col_15": "25.6"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Revenue from operations",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "3,453",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,646",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "30.4",
-            "col_12": "",
-            "Year ended": "10,243",
-            "col_14": "7,827",
-            "col_15": "30.9"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Profit from operations (EBIT)",
-            "col_3": "",
-            "Quarter ended": "781",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "448",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "74.4",
-            "col_12": "",
-            "Year ended": "2,218",
-            "col_14": "1,410",
-            "col_15": "57.3"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Profit from operations (%)",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "22.6",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "16.9",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "21.7",
-            "col_14": "18.0",
-            "col_15": ""
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Profit after tax",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "653",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "360",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "81.5",
-            "col_12": "",
-            "Year ended": "1,781",
-            "col_14": "1,100",
-            "col_15": "61.9"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "EPS (INR per share)",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "18.33",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "10.10",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "50.01",
-            "col_14": "30.89",
-            "col_15": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "5926ba8c-4dfe-4e15-9358-5074b57b6ce7",
-    "SCRIP_CD": 544471,
-    "XML_NAME": "ANN_544471_5926BA8C-4DFE-4E15-9358-5074B57B6CE7",
-    "NEWSSUB": "Takyon Networks Ltd - 544471 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-25T20:19:56.863",
-    "NEWS_DT": "2026-11-25T20:19:56.863",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ccbf5bdb-978f-4fbf-99e4-90a03ad72312.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Transcript of Investors/Analysts Call held on November 19, 2026 under Regulation 30 and Regulation 46 of SEBI (LODR) Regulations, 2015",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/takyon-networks-ltd/takyon/544471/",
-    "SLONGNAME": "Takyon Networks Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:19:56",
-    "DissemDT": "2026-11-25T20:19:56.863",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 433065,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "5926ba8c-4dfe-4e15-9358-5074b57b6ce7",
-    "INVESTOR_PRESENTATION": "adb7225c-27c3-4126-9ec0-5ddded4ea54f.pdf",
-    "RECORDID": 14983439,
-    "DataInsDate": "2026-11-25T20:19:56.83",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=adb7225c-27c3-4126-9ec0-5ddded4ea54f.pdf",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "8.45 crore",
-      "eps": "5.90",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "77d224eb-f548-44cc-b8f2-f06bca03b51a",
-    "SCRIP_CD": 543386,
-    "XML_NAME": "ANN_543386_77D224EB-F548-44CC-B8F2-F06BCA03B51A",
-    "NEWSSUB": "Fino Payments Bank Ltd - 543386 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-25T20:17:00.343",
-    "NEWS_DT": "2026-11-25T20:17:00.343",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c4a87231-1dbf-4bac-9742-91f6e65ea60a.pdf",
-    "MORE": "",
-    "HEADLINE": "Press Release - Appointment of Mr. Pratap Singh as Managing Director & Chief Executive Officer (\"MD & CEO\") of the Bank",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/fino-payments-bank-ltd/finopb/543386/",
-    "SLONGNAME": "Fino Payments Bank Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:17:00",
-    "DissemDT": "2026-11-25T20:17:00.343",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3728947,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "93d7795f-d301-4d6b-b102-7694fe0311b6",
-    "SCRIP_CD": 543971,
-    "XML_NAME": "ANN_543971_93D7795F-D301-4D6B-B102-7694FE0311B6",
-    "NEWSSUB": "Bondada Engineering Ltd - 543971 - Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
-    "DT_TM": "2026-11-25T20:13:45.75",
-    "NEWS_DT": "2026-11-25T20:13:45.75",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "aac48227-6c06-4ba0-b5e0-3699ac4f063c.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Scrutinizers report for EGM held on Tuesday, 24th November, 2026 at 3:00 PM",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bondada-engineering-ltd/bondada/543971/",
-    "SLONGNAME": "Bondada Engineering Ltd",
-    "AGENDA_ID": 28,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:13:45",
-    "DissemDT": "2026-11-25T20:13:45.75",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 13489296,
-    "SUBCATNAME": "EGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "abdc2e3e-9ff7-4ddd-a729-d3db13b7ef2a",
-    "SCRIP_CD": 531358,
-    "XML_NAME": "ANN_531358_ABDC2E3E-9FF7-4DDD-A729-D3DB13B7EF2A",
-    "NEWSSUB": "Choice International Ltd - 531358 - Grant Of Employee Stock Options And Allotment Of Equity Shares Pursuant To Exercise Of Options Under Choice Employee Stock Option Plan 2022 (\"ESOP 2022\")",
-    "DT_TM": "2026-11-25T20:13:45.163",
-    "NEWS_DT": "2026-11-25T20:13:45.163",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a918dcda-4e8c-47af-9c93-43d8f740a507.pdf",
-    "MORE": "",
-    "HEADLINE": "Grant of Employee Stock Options and allotment of Equity Shares pursuant to Exercise of options under Choice Employee Stock Option Plan 2022 (\"ESOP 2022\").",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/choice-international-ltd/choicein/531358/",
-    "SLONGNAME": "Choice International Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:13:45",
-    "DissemDT": "2026-11-25T20:13:45.163",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 552898,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "54be8f6c-83dd-4660-baaf-1320aa57f724",
-    "SCRIP_CD": 544390,
-    "XML_NAME": "ANN_544390_54BE8F6C-83DD-4660-BAAF-1320AA57F724",
-    "NEWSSUB": "Siemens Energy India Ltd - 544390 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-11-25T20:12:28.98",
-    "NEWS_DT": "2026-11-25T20:12:28.98",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c7d3ad32-aeca-46db-94d1-d5e804cc25cb.pdf",
-    "MORE": "",
-    "HEADLINE": "Please refer the attached file.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/siemens-energy-india-ltd/enrin/544390/",
-    "SLONGNAME": "Siemens Energy India Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:12:27",
-    "DissemDT": "2026-11-25T20:12:28.98",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 647427,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "34526",
-      "net_profit": "81.5",
-      "total_assets": "121998",
-      "total_equity": "59728",
-      "eps": "2",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Statement of Assets and Liabilities (Rs. in million)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Sr. No.",
-            "col_2": "Particulars",
-            "col_3": "As at",
-            "col_4": "As at"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "30 September",
-            "col_4": "30 September"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "2026 (Audited)",
-            "col_4": "2025 (Audited)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "A 1 a) b) c) d) e) f) g) h) 2 a) b) c) d) B 1 a) b) 2 a) b) c) a) b) c) d) e)",
-            "col_2": "ASSETS Non-current assets Property, plant and equipment Right-of-use assets Capital work-in-progress Intangible assets Financial assets (i) Trade receivables (ii) Other financial assets Contract assets Deferred tax assets (net) Other non-current assets Total non-current assets Current assets Inventories Financial assets (i) Trade receivables (ii) Cash and cash equivalents (iii) Bank balances other than cash and cash equivalents (iv) Loans (v) Other financial assets Contract assets Other current assets Total current assets TOTAL ASSETS EQUITY AND LIABILITIES Equity Equity share capital Other equity Total equity Liabilities Non-current liabilities Financial liabilities (i) Lease liabilities (ii) Trade payables Total outstanding dues of creditors other than micro and small enterprises (iii) Other financial liabilities Contract liabilities Provisions Total non-current liabilities Current liabilities Financial liabilities (i) Lease liabilities (ii) Trade payables Total outstanding dues of micro and small enterprises Total outstanding dues of creditors other than micro and small enterprises (iii) Other financial liabilities Contract liabilities Provisions Current tax liabilities (net) Other current liabilities Total current liabilities Total liabilities TOTAL EQUITY AND LIABILITIES",
-            "col_3": "4,618 2,508 2,486 19 120 337 750 2,023 962",
-            "col_4": "4,044 1,312 759 5 - 185 265 2,104 1,001"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "13,823",
-            "col_4": "9,675"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "11,444 22,503 581 45,040 - 1,728 23,520 3,359",
-            "col_4": "7,603 19,205 1,322 33,298 1 3,818 17,468 3,062"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "108,175",
-            "col_4": "85,777"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "121,998",
-            "col_4": "95,452"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "712 59,016",
-            "col_4": "712 43,101"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "59,728",
-            "col_4": "43,813"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "2,062 * 751 2,887 4,510",
-            "col_4": "994 1 843 1,989 4,221"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "10,210",
-            "col_4": "8,048"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "698 2,801 25,018 6,064 11,528 4,650 195 1,106",
-            "col_4": "482 2,148 21,241 5,021 8,539 4,755 368 1,037"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "52,060",
-            "col_4": "43,591"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "62,270",
-            "col_4": "51,639"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "",
-            "col_3": "121,998",
-            "col_4": "95,452"
-          }
-        ]
-      },
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 18,
-        "rows": [
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Statement of Cash Flows for the year ended 30 September 2026",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "(Rs. in million)",
-            "col_2": "",
-            "col_3": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Particulars",
-            "col_2": "Year ended",
-            "col_3": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "30 September 2026 (Audited)",
-            "col_3": "30 September 2025 (Audited)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Cash flows from operating activities Profit before tax Adjustments for: Finance costs Bad debts Impairment allowance on financial and contract assets, net Capital work-in-progress written off / expensed off Provision for doubtful assets Liabilities written back Depreciation and amortisation expense Loss on sale of property, plant and equipment, net Unrealised exchange loss / (gain), net Share based payments to employees, net Interest income Operating profit before working capital changes Changes in operating assets and liabilities (Increase) / Decrease in inventories (Increase) / Decrease in trade and other receivables Increase in trade payables and other liabilities Increase in provisions Net change in working capital Cash generated from operations Income taxes paid, net Net cash generated from operating activities # Cash flows from investing activities Purchase of property, plant and equipment and intangible assets Deposits (with original maturity of more than 3 months) with banks matured Deposits (with original maturity of more than 3 months) with banks (placed) Proceeds from sale of property, plant and equipment Interest received Net cash used in investing activities Cash flows from financing activities Dividend paid Payment of principal of lease liabilities Payment of interest of lease liabilities Recharge for share-based payments Net cash used in financing activities Net (decrease) / increase in cash and cash equivalents Effect of exchange gain on cash and cash equivalents Cash and cash equivalents at beginning of the year Cash and cash equivalents at the end of the year Cash and cash equivalents at the end of the year includes: Balances with banks - in current accounts - in EEFC accounts Bank deposits with original maturity of less than 3 months Cash on hand Cash and cash equivalents Non cash transaction from investing and financing activities: Acquisition of Right-of-use assets",
-            "col_2": "23,877 321 59 616 187 - (316) 1,488 10 69 103 (2,078)",
-            "col_3": "14,875 282 57 227 32 120 - 1,030 75 (263) 101 (999)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "24,336",
-            "col_3": "15,537"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(3,841) (9,640) 9,092 256",
-            "col_3": "133 11,564 11,381 366"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(4,133) 20,203 (6,001)",
-            "col_3": "23,444 38,981 (2,280)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "14,202",
-            "col_3": "36,701"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(2,698) 89,089 (100,826) - 1,856",
-            "col_3": "(2,160) 55,849 (89,147) * 632"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(12,579)",
-            "col_3": "(34,826)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(1,424) (620) (197) (145)",
-            "col_3": "- (296) (111) (146)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(2,386)",
-            "col_3": "(553)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "(763) 22 1,322",
-            "col_3": "1,322 * *"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "581",
-            "col_3": "1,322"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "580 - - 1",
-            "col_3": "782 * 540 *"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "581",
-            "col_3": "1,322"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "2,375",
-            "col_3": "533"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 17,
-        "rows": [
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Segment-wise Revenue, Results, Assets & Liabilities for the quarter and year ended 30 September 2026",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "(Rs. in million)",
-            "col_2": "",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "",
-            "col_6": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "Particulars",
-            "col_2": "Quarter ended",
-            "col_3": "",
-            "col_4": "",
-            "col_5": "Year ended",
-            "col_6": ""
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "30 September",
-            "col_3": "30 June",
-            "col_4": "30 September",
-            "col_5": "30 September",
-            "col_6": "30 September"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "2026 (Unaudited) (Refer note 7)",
-            "col_3": "2026 (Unaudited)",
-            "col_4": "2025 (Unaudited)",
-            "col_5": "2026 (Audited)",
-            "col_6": "2025 (Audited)"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "1. Segment Revenue Power Transmission Power Generation Revenue from operations",
-            "col_2": "22,194 12,332",
-            "col_3": "13,863 10,993",
-            "col_4": "13,600 12,857",
-            "col_5": "60,086 42,346",
-            "col_6": "41,896 36,371"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "34,526",
-            "col_3": "24,856",
-            "col_4": "26,457",
-            "col_5": "102,432",
-            "col_6": "78,267"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "2. Segment Results Power Transmission Power Generation Profit from operations Add: a) Other income Less: a) Finance costs Profit before exceptional items and tax Exceptional item (refer note 6) Profit before tax",
-            "col_2": "4,972 2,838",
-            "col_3": "2,998 2,455",
-            "col_4": "2,468 2,011",
-            "col_5": "12,846 9,338",
-            "col_6": "8,046 6,058"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "7,810 1,008 82",
-            "col_3": "5,453 573 92",
-            "col_4": "4,479 368 63",
-            "col_5": "22,184 2,533 321",
-            "col_6": "14,104 1,053 282"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "8,736 -",
-            "col_3": "5,934 -",
-            "col_4": "4,784 -",
-            "col_5": "24,396 519",
-            "col_6": "14,875 -"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "8,736",
-            "col_3": "5,934",
-            "col_4": "4,784",
-            "col_5": "23,877",
-            "col_6": "14,875"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "3. Segment Assets Power Transmission Power Generation Total Segment Assets Unallocated Total Assets",
-            "col_2": "50,002 23,609",
-            "col_3": "43,189 23,615",
-            "col_4": "35,807 20,132",
-            "col_5": "50,002 23,609",
-            "col_6": "35,807 20,132"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "73,611 48,387",
-            "col_3": "66,804 41,737",
-            "col_4": "55,939 39,513",
-            "col_5": "73,611 48,387",
-            "col_6": "55,939 39,513"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "121,998",
-            "col_3": "108,541",
-            "col_4": "95,452",
-            "col_5": "121,998",
-            "col_6": "95,452"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "4. Segment Liabilities Power Transmission Power Generation Total Segment Liabilities Unallocated Total Liabilities",
-            "col_2": "37,855 23,859",
-            "col_3": "31,147 23,792",
-            "col_4": "25,191 25,968",
-            "col_5": "37,855 23,859",
-            "col_6": "25,191 25,968"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "61,714 556",
-            "col_3": "54,939 696",
-            "col_4": "51,159 480",
-            "col_5": "61,714 556",
-            "col_6": "51,159 480"
-          },
-          {
-            "Siemens Energy India Limited CIN : L28110MH2024PLC418770 Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai - 400030 Tel.: +91 22 6251 7000 ; E-mail: contact@siemens-energy-india.com Website: www.siemens-energy-india.com": "",
-            "col_2": "62,270",
-            "col_3": "55,635",
-            "col_4": "51,639",
-            "col_5": "62,270",
-            "col_6": "51,639"
-          }
-        ]
-      },
-      {
-        "page": 10,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "",
-            "Quarter ended": "Sept. '26",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "Sept. '25",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "Change",
-            "col_12": "",
-            "Year ended": "",
-            "col_14": "",
-            "col_15": "Change"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "(%)",
-            "col_12": "",
-            "Year ended": "Sept. '26",
-            "col_14": "Sept. '25",
-            "col_15": "(%)"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "New orders",
-            "col_3": "",
-            "Quarter ended": "4,514",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "2,351",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "92.1",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "14,579",
-            "col_14": "13,112",
-            "col_15": "11.2%"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Order backlog",
-            "col_3": "",
-            "Quarter ended": "20,362",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "16,206",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "25.6",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "20,362",
-            "col_14": "16,206",
-            "col_15": "25.6"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Revenue from operations",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "3,453",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "2,646",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "30.4",
-            "col_12": "",
-            "Year ended": "10,243",
-            "col_14": "7,827",
-            "col_15": "30.9"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Profit from operations (EBIT)",
-            "col_3": "",
-            "Quarter ended": "781",
-            "col_5": "",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "448",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "74.4",
-            "col_12": "",
-            "Year ended": "2,218",
-            "col_14": "1,410",
-            "col_15": "57.3"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Profit from operations (%)",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "22.6",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "16.9",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "21.7",
-            "col_14": "18.0",
-            "col_15": ""
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "Profit after tax",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "653",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "360",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "81.5",
-            "col_12": "",
-            "Year ended": "1,781",
-            "col_14": "1,100",
-            "col_15": "61.9"
-          },
-          {
-            "Particulars (INR crore, unless otherwise stated)": "",
-            "col_2": "EPS (INR per share)",
-            "col_3": "",
-            "Quarter ended": "",
-            "col_5": "18.33",
-            "col_6": "",
-            "col_7": "",
-            "col_8": "10.10",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "Year ended": "50.01",
-            "col_14": "30.89",
-            "col_15": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "c8ebeda2-5cf0-4b5d-aaf3-e0b6a6c9c1ee",
-    "SCRIP_CD": 531358,
-    "XML_NAME": "ANN_531358_C8EBEDA2-5CF0-4B5D-AAF3-E0B6A6C9C1EE",
-    "NEWSSUB": "Choice International Ltd - 531358 - Grant Of Employee Stock Options And Allotment Of Equity Shares Pursuant To Exercise Of Options Under Choice Employee Stock Option Plan 2022 (\"ESOP 2022\").",
-    "DT_TM": "2026-11-25T20:08:00.077",
-    "NEWS_DT": "2026-11-25T20:08:00.077",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "91f654fc-0621-43ac-af53-f4e25d12d38e.pdf",
-    "MORE": "",
-    "HEADLINE": "Grant of Employee Stock Options and allotment of equity shares pursuant to exercise of options under Choice Employee Stock Options Plan 2022 (\"ESOP 2022\").",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/choice-international-ltd/choicein/531358/",
-    "SLONGNAME": "Choice International Ltd",
-    "AGENDA_ID": 115,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:08:00",
-    "DissemDT": "2026-11-25T20:08:00.077",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 552898,
-    "SUBCATNAME": "Allotment of ESOP / ESPS",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f1f01f68-a217-4e57-afcf-7b38d7c1a449",
-    "SCRIP_CD": 544720,
-    "XML_NAME": "ANN_544720_F1F01F68-A217-4E57-AFCF-7B38D7C1A449",
-    "NEWSSUB": "Omnitech Engineering Ltd - 544720 - Intimation For One To One Meetings With Investor Groups",
-    "DT_TM": "2026-11-25T20:05:37.15",
-    "NEWS_DT": "2026-11-25T20:05:37.15",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "faf9f895-0785-40f3-a2a2-b775f410d77d.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation for One to One Meetings with Investor Groups",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/omnitech-engineering-ltd/omni/544720/",
-    "SLONGNAME": "Omnitech Engineering Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:05:37",
-    "DissemDT": "2026-11-25T20:05:37.15",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 368395,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a6d6fd64-c9a9-495e-989c-eca1567014b1",
-    "SCRIP_CD": 523475,
-    "XML_NAME": "ANN_523475_A6D6FD64-C9A9-495E-989C-ECA1567014B1",
-    "NEWSSUB": "Lotus Chocolate Company Ltd - 523475 - Capacity Addition At Unit-1 Of The Company",
-    "DT_TM": "2026-11-25T20:03:32.15",
-    "NEWS_DT": "2026-11-25T20:03:32.15",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "aead7161-e58a-4ab1-bdb8-3ea364c12cf9.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find attached disclosure for proposed capacity addition at Unit-1 of the Company.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/lotus-chocolate-company-ltd/lotuscho/523475/",
-    "SLONGNAME": "Lotus Chocolate Company Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-25T20:03:32",
-    "DissemDT": "2026-11-25T20:03:32.15",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 183013,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
     "financial_tables": []
   }
 ]
