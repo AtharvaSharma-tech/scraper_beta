@@ -1,5 +1,564 @@
 [
   {
+    "NEWSID": "978653da-1f52-4d5e-bc6d-eb9a5ed94f6d",
+    "SCRIP_CD": 540850,
+    "XML_NAME": "ANN_540850_978653DA-1F52-4D5E-BC6D-EB9A5ED94F6D",
+    "NEWSSUB": "Jhandewalas Foods Ltd - 540850 - Closure of Trading Window",
+    "DT_TM": "2026-11-27T14:20:22.593",
+    "NEWS_DT": "2026-11-27T14:20:22.593",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "32bf2c42-45bb-4e64-be7a-13beb06584f8.pdf",
+    "MORE": "The Trading Window for dealing in securities of the company shall remain closed for all directors, designated persons and their immediate relatives with effect from 1st December 2026 until 48 hours after the conclusion of the 20th AGM of the company scheduled to be held on 23rd  December 2026.",
+    "HEADLINE": "The Trading Window for dealing in securities of the company shall remain closed for all directors, designated persons and their immediate relatives with effect from 1st December 2026 until ....",
+    "CATEGORYNAME": "Insider Trading / SAST",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/jhandewalas-foods-ltd/jfl/540850/",
+    "SLONGNAME": "Jhandewalas Foods Ltd",
+    "AGENDA_ID": 66,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:20:22",
+    "DissemDT": "2026-11-27T14:20:22.593",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3368407,
+    "SUBCATNAME": "Closure of Trading Window",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The trading window for directors, designated persons and their immediate relatives will be closed from **1 December 2026** until **48 hours after the 20th Annual General Meeting on 23 December 2026**.  \n- The announcement contains **no financial figures or monetary decisions**; it solely addresses the insider‑trading restriction period.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7396d82b-4bd1-4fe1-8aa9-02145727322d",
+    "SCRIP_CD": 540699,
+    "XML_NAME": "ANN_540699_7396D82B-4BD1-4FE1-8AA9-02145727322D",
+    "NEWSSUB": "Dixon Technologies (India) Ltd - 540699 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-11-27T14:18:10.403",
+    "NEWS_DT": "2026-11-27T14:18:10.403",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "aadf8dbb-e076-4ad2-8073-ac32514666fa.pdf",
+    "MORE": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of schedule III of the said Regulations, we hereby inform that the Company's Officials had a Meeting with the analyst(s)/advisor(s)/investor(s) of BNP Paribas 26th November, 2026.",
+    "HEADLINE": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of schedule III of the said ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dixon-technologies-(india)-ltd/dixon/540699/",
+    "SLONGNAME": "Dixon Technologies (India) Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:18:10",
+    "DissemDT": "2026-11-27T14:18:10.403",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 632689,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company held a one‑on‑one, in‑person meeting with BNP Paribas on **26 Nov 2026 at 3:00 PM IST**; no unpublished price‑sensitive information was shared and no presentation was made.  \n- The announcement contains **no financial figures, decisions, or other monetary details**—it merely records the investor‑meeting compliance filing.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "56887cdb-b55f-4b31-be76-f7e2879c1394",
+    "SCRIP_CD": 544344,
+    "XML_NAME": "ANN_544344_56887CDB-B55F-4B31-BE76-F7E2879C1394",
+    "NEWSSUB": "SPR Auto Technologies Ltd - 544344 - Outcome Of Analysts/Investors Meeting Held On November 27, 2026",
+    "DT_TM": "2026-11-27T14:17:28.093",
+    "NEWS_DT": "2026-11-27T14:17:28.093",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4e12ff4f-a3bc-4643-a7d5-551ff706ad1d.pdf",
+    "MORE": "",
+    "HEADLINE": "Details as per attachment enclosed",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/spr-auto-technologies-ltd/shripiston/544344/",
+    "SLONGNAME": "SPR Auto Technologies Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:17:28",
+    "DissemDT": "2026-11-27T14:17:28.093",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 429429,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Meeting details:** The Key Managerial Personnel of SPR Auto Technologies Ltd (formerly Shriram Pistons & Rings Ltd) participated in an analyst/investor group meeting organized by ICICI Securities on **Friday, 27 November 2026**; the company confirmed that only publicly available information was discussed and no unpublished price‑sensitive data was shared.  \n\n- **Regulatory compliance:** The outcome of the meeting has been disclosed in accordance with SEBI Regulation 30 (Listing Obligations and Disclosure Requirements) and is posted on the company’s website (https://shrirampistons.com/investor‑information/investors‑call‑transcripts‑audio recordings/schedule/).  \n\n*No specific financial figures, decisions, or monetary commitments were mentioned in the announcement.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "078c1997-a8d0-4dba-b279-fea9626ed9db",
+    "SCRIP_CD": 544530,
+    "XML_NAME": "ANN_544530_078C1997-A8D0-4DBA-B279-FEA9626ED9DB",
+    "NEWSSUB": "Anand Rathi Share And Stock Brokers Ltd - 544530 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-11-27T14:16:11.207",
+    "NEWS_DT": "2026-11-27T14:16:11.207",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "815012d1-1f27-44c4-b85e-1c7f214513a0.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation regarding allotment of Non-convertible Debentures.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/anand-rathi-share-and-stock-brokers-ltd/arssbl/544530/",
+    "SLONGNAME": "Anand Rathi Share And Stock Brokers Ltd",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:16:11",
+    "DissemDT": "2026-11-27T14:16:11.207",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 642267,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c6b74359-4d6a-4ef7-a63a-ee4a04a1abaa",
+    "SCRIP_CD": 509874,
+    "XML_NAME": "ANN_509874_C6B74359-4D6A-4EF7-A63A-EE4A04A1ABAA",
+    "NEWSSUB": "Shalimar Paints Ltd-$ - 509874 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-27T14:12:58.097",
+    "NEWS_DT": "2026-11-27T14:12:58.097",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b79cd9d8-a4b9-4506-b2fa-2c771f87d734.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA an update on Company''s Credit Rating released by CARE Ratings Limited.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shalimar-paints-ltd/shalpaints/509874/",
+    "SLONGNAME": "Shalimar Paints Ltd-$",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:12:58",
+    "DissemDT": "2026-11-27T14:12:58.097",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 482088,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "total_debt": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 1,
+        "row_count": 5,
+        "rows": [
+          {
+            "col_1": "",
+            "Brief Financials (₹ crore)": "Total operating income",
+            "col_3": "",
+            "col_4": "",
+            "March 31, 2025 (A)": "599.25",
+            "col_6": "",
+            "col_7": "",
+            "March 31, 2026 (A)": "569.03",
+            "col_9": "",
+            "col_10": "",
+            "H1FY27(UA)": "250.71",
+            "col_12": ""
+          },
+          {
+            "col_1": "",
+            "Brief Financials (₹ crore)": "PBILDT*",
+            "col_3": "",
+            "col_4": "",
+            "March 31, 2025 (A)": "-56.48",
+            "col_6": "",
+            "col_7": "",
+            "March 31, 2026 (A)": "-20.81",
+            "col_9": "",
+            "col_10": "",
+            "H1FY27(UA)": "-34.54",
+            "col_12": ""
+          },
+          {
+            "col_1": "",
+            "Brief Financials (₹ crore)": "Profit after tax (PAT)",
+            "col_3": "",
+            "col_4": "",
+            "March 31, 2025 (A)": "-80.11",
+            "col_6": "",
+            "col_7": "",
+            "March 31, 2026 (A)": "-63.34",
+            "col_9": "",
+            "col_10": "",
+            "H1FY27(UA)": "-52.77",
+            "col_12": ""
+          },
+          {
+            "col_1": "",
+            "Brief Financials (₹ crore)": "Overall gearing (x)",
+            "col_3": "",
+            "col_4": "",
+            "March 31, 2025 (A)": "0.61",
+            "col_6": "",
+            "col_7": "",
+            "March 31, 2026 (A)": "0.70",
+            "col_9": "",
+            "col_10": "",
+            "H1FY27(UA)": "0.87",
+            "col_12": ""
+          },
+          {
+            "col_1": "",
+            "Brief Financials (₹ crore)": "Interest coverage (x)",
+            "col_3": "",
+            "col_4": "",
+            "March 31, 2025 (A)": "-3.22",
+            "col_6": "",
+            "col_7": "",
+            "March 31, 2026 (A)": "-0.82",
+            "col_9": "",
+            "col_10": "",
+            "H1FY27(UA)": "-3.40",
+            "col_12": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "eec6954d-b17c-45b5-af95-f839122aa59b",
+    "SCRIP_CD": 540691,
+    "XML_NAME": "ANN_540691_EEC6954D-B17C-45B5-AF95-F839122AA59B",
+    "NEWSSUB": "Aditya Birla Capital Ltd - 540691 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+    "DT_TM": "2026-11-27T14:12:31.01",
+    "NEWS_DT": "2026-11-27T14:12:31.01",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9e1b077e-e503-49fd-a34c-c4314118a4b4.pdf",
+    "MORE": "",
+    "HEADLINE": "Aditya Birla Capital Limited has informed the exchange regarding allotment of 268368 shares",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/aditya-birla-capital-ltd/abcapital/540691/",
+    "SLONGNAME": "Aditya Birla Capital Ltd",
+    "AGENDA_ID": 115,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:12:31",
+    "DissemDT": "2026-11-27T14:12:31.01",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 267283,
+    "SUBCATNAME": "Allotment of ESOP / ESPS",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Allotment details:** On 27 November 2026, Aditya Birla Capital Ltd approved the issuance of **268,368 equity shares** (face value ₹10 each) under its Employee Stock Option and Performance Stock Unit Scheme 2022.  \n\n- **Impact on share capital:** The paid‑up equity share capital will rise from **₹27,39,06,05,200** (2,73,90,60,520 shares) to **₹27,39,32,88,880** (2,73,93,28,888 shares), reflecting the addition of the newly allotted shares.",
+    "key_metrics": {
+      "face_value": "10"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8bde70fd-bf4c-4bc8-b235-30be4b2583c6",
+    "SCRIP_CD": 500317,
+    "XML_NAME": "ANN_500317_8BDE70FD-BF4C-4BC8-B235-30BE4B2583C6",
+    "NEWSSUB": "Oswal Agro Mills Ltd - 500317 - Announcement under Regulation 30 (LODR)-Acquisition",
+    "DT_TM": "2026-11-27T14:11:04.02",
+    "NEWS_DT": "2026-11-27T14:11:04.02",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d7c15d08-a90b-40bb-afdb-df7bdaf9ec9a.pdf",
+    "MORE": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Proposed Investment in, and Acquisition of, Oswal Greentech Real Estate Development L.L.C, Dubai (UAE), a Foreign Company, to be a Subsidiary of the Company.",
+    "HEADLINE": "Intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Proposed Investment in, and Acquisition of, Oswal Greentech Real Estate ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oswal-agro-mills-ltd/oswalagro/500317/",
+    "SLONGNAME": "Oswal Agro Mills Ltd",
+    "AGENDA_ID": 2,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:11:04",
+    "DissemDT": "2026-11-27T14:11:04.02",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 356774,
+    "SUBCATNAME": "Acquisition",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "63c7d90b-d3ff-4fe6-8c16-ce6d2033d7b9",
+    "SCRIP_CD": 544203,
+    "XML_NAME": "ANN_544203_63C7D90B-D3FF-4FE6-8C16-CE6D2033D7B9",
+    "NEWSSUB": "Allied Blenders and Distillers Ltd - 544203 - Reply To Clarification Sought On Increase In The Volume Of The Company'S Security Across The Stock Exchanges.",
+    "DT_TM": "2026-11-27T14:08:27.21",
+    "NEWS_DT": "2026-11-27T14:08:27.21",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b3a68b2e-e2fe-431c-9284-53482f3b98ed.pdf",
+    "MORE": "",
+    "HEADLINE": "Reply to Clarification sought by BSE",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/allied-blenders-and-distillers-ltd/abdl/544203/",
+    "SLONGNAME": "Allied Blenders and Distillers Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:08:27",
+    "DissemDT": "2026-11-27T14:08:27.21",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 184750,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9662db49-18a1-4e6c-9347-ac3522ed7188",
+    "SCRIP_CD": 517569,
+    "XML_NAME": "ANN_517569_9662DB49-18A1-4E6C-9347-AC3522ED7188",
+    "NEWSSUB": "KEI Industries Ltd - 517569 - Disclosure Pursuant To Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-27T14:07:51.507",
+    "NEWS_DT": "2026-11-27T14:07:51.507",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "53f29fa5-54a8-415b-8260-618e054453b7.pdf",
+    "MORE": "This is to inform you that the Nomination and Remuneration Committee of Board of Directors of the Company at their meeting held on Friday, 27th November 2026, has approved grant of 147750 fresh stock options to the eligible employees of the Company at an exercise price of Rs. 225 under KEI Employee Stock Options Scheme- 2015. This stock options granted to employees will vest over a period of 3 years from the date of grant i.e. 27.11.2026.",
+    "HEADLINE": "This is to inform you that the Nomination and Remuneration Committee of Board of Directors of the Company at their meeting held on Friday, 27th November 2026, has approved grant of 147750 ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kei-industries-ltd/kei/517569/",
+    "SLONGNAME": "KEI Industries Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:07:51",
+    "DissemDT": "2026-11-27T14:07:51.507",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 959358,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "bdd19191-ad7c-480c-bfac-b3368136c14a",
+    "SCRIP_CD": 539399,
+    "XML_NAME": "ANN_539399_BDD19191-AD7C-480C-BFAC-B3368136C14A",
+    "NEWSSUB": "Bella Casa Fashion & Retail Ltd - 539399 - Change In The Corporate Office Address Of The Registrar And Share Transfer Agent W.E.F December 01, 2026",
+    "DT_TM": "2026-11-27T14:07:03.75",
+    "NEWS_DT": "2026-11-27T14:07:03.75",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1d4143aa-df7d-43a5-afc3-20a617aa0195.pdf",
+    "MORE": "",
+    "HEADLINE": "Change in the Corporate office of RTA",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bella-casa-fashion--retail-ltd/bellacasa/539399/",
+    "SLONGNAME": "Bella Casa Fashion & Retail Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:07:03",
+    "DissemDT": "2026-11-27T14:07:03.75",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 318892,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "8f53ed53-cfcb-402e-bd80-c05f31735b0c",
+    "SCRIP_CD": 500317,
+    "XML_NAME": "ANN_500317_8F53ED53-CFCB-402E-BD80-C05F31735B0C",
+    "NEWSSUB": "Oswal Agro Mills Ltd - 500317 - Board Meeting Outcome for Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-27T14:07:02.35",
+    "NEWS_DT": "2026-11-27T14:07:02.35",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "dcb5a041-a304-414a-9a0d-6c762e3535d9.pdf",
+    "MORE": "",
+    "HEADLINE": "Proposed Investment in, and Acquisition of, Oswal Greentech Real Estate Development L.L.C, Dubai (UAE), a Foreign Company, to be a Subsidiary of the Company.",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oswal-agro-mills-ltd/oswalagro/500317/",
+    "SLONGNAME": "Oswal Agro Mills Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:07:00",
+    "DissemDT": "2026-11-27T14:07:02.35",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 356774,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "Here is the summary of the corporate announcement:\n\n* **Acquisition of Majority Stake:** On November 27, 2026, the Board of Directors approved the proposed acquisition of a 57% stake (57,000 equity shares) in Oswal Greentech Real Estate Development L.L.C (Dubai, UAE) for a cash consideration of AED 57,000,000 (AED 57 million), making it a subsidiary.\n* **Investment Limit and Timeline:** The company is seeking shareholder approval for an investment of up to AED 100 million (with shareholding to be revised if investment exceeds AED 57 million), with an indicative completion date of March 31, 2027.",
+    "key_metrics": {
+      "revenue": "",
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "874f9d21-6762-403c-9a94-84548a73f953",
+    "SCRIP_CD": 531301,
+    "XML_NAME": "ANN_531301_874F9D21-6762-403C-9A94-84548A73F953",
+    "NEWSSUB": "Tusaldah Ltd - 531301 - Announcement under Regulation 30 (LODR)-Open Offer - Updates",
+    "DT_TM": "2026-11-27T14:03:06.877",
+    "NEWS_DT": "2026-11-27T14:03:06.877",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "c7dea188-a7bc-426a-ad23-963db9d6d283.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of the meeting of Independent Directors for open offer of Tusaldah Limited",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/tusaldah-ltd/tusaldah/531301/",
+    "SLONGNAME": "Tusaldah Ltd",
+    "AGENDA_ID": 137,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:03:06",
+    "DissemDT": "2026-11-27T14:03:06.877",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 528383,
+    "SUBCATNAME": "Open Offer - Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "aeebd8d8-2951-46c8-9309-3110b8d67974",
+    "SCRIP_CD": 539018,
+    "XML_NAME": "ANN_539018_AEEBD8D8-2951-46C8-9309-3110B8D67974",
+    "NEWSSUB": "Beekay Steel Industries Ltd - 539018 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+    "DT_TM": "2026-11-27T14:00:43.347",
+    "NEWS_DT": "2026-11-27T14:00:43.347",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f1d17e54-dce0-4307-bada-e4650bfa29fa.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Resignation of Mr. Lokanath Sahu from the position of Wholetime Director (Operation) w.e.f. 27.11.2026.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/beekay-steel-industries-ltd/beekay/539018/",
+    "SLONGNAME": "Beekay Steel Industries Ltd",
+    "AGENDA_ID": 15,
+    "TotalPageCnt": 4,
+    "News_submission_dt": "2026-11-27T14:00:43",
+    "DissemDT": "2026-11-27T14:00:43.347",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2089572,
+    "SUBCATNAME": "Change in Directorate",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "dc09128e-e609-4c61-a539-e6fdd6031d09",
     "SCRIP_CD": 532663,
     "XML_NAME": "ANN_532663_DC09128E-E609-4C61-A539-E6FDD6031D09",
@@ -9963,1534 +10522,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "5291e929-240b-469e-b657-aefd43fd1e5d",
-    "SCRIP_CD": 541956,
-    "XML_NAME": "ANN_541956_5291E929-240B-469E-B657-AEFD43FD1E5D",
-    "NEWSSUB": "IRCON International Ltd - 541956 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-27T11:59:21.433",
-    "NEWS_DT": "2026-11-27T11:59:21.433",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7ec05923-74ab-4871-aa98-34bfb3995f80.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Publication-Public Notice to Shareholders regarding special window for transfer and dematerialization of physical securities of Ircon International Limited.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/ircon-international-ltd/ircon/541956/",
-    "SLONGNAME": "IRCON International Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:59:21",
-    "DissemDT": "2026-11-27T11:59:21.433",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2026758,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Announcement date & publication**: A public notice was issued on 27 November 2026 and published in the *Financial Express* (English) and *Jansatta* (Hindi) newspapers, complying with SEBI Regulation 30 (Listing Obligations and Disclosure Requirements).  \n\n- **Key action for shareholders**: The notice informs shareholders of a **special window for the transfer and dematerialisation of IRCON International Ltd.’s physical securities**. No monetary figures, financial results, or other financial details are disclosed in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2a654307-f705-49a7-b9b6-24d7fae0efbc",
-    "SCRIP_CD": 538987,
-    "XML_NAME": "ANN_538987_2A654307-F705-49A7-B9B6-24D7FAE0EFBC",
-    "NEWSSUB": "Talbros Engineering Ltd - 538987 - Announcement under Regulation 30 (LODR)-Preferential Issue",
-    "DT_TM": "2026-11-27T11:59:16.42",
-    "NEWS_DT": "2026-11-27T11:59:16.42",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6f9c37cd-5162-42b2-9dd2-0cda956aefcf.pdf",
-    "MORE": "",
-    "HEADLINE": "Board of Directors in their meeting held on November 27, 2026 considered and approved Preferential Issue of Shares and Warrants and other incidental matters.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/talbros-engineering-ltd/talbroseng/538987/",
-    "SLONGNAME": "Talbros Engineering Ltd",
-    "AGENDA_ID": 140,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:59:16",
-    "DissemDT": "2026-11-27T11:59:16.42",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 824221,
-    "SUBCATNAME": "Preferential Issue",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 1,
-        "table_index": 0,
-        "row_count": 3,
-        "rows": [
-          {
-            "Type of specified securities": "Equity Shares",
-            "No. of Proposed Allottees": "06",
-            "No. of equity shares/ warrants": "5,43,460",
-            "Issue price per share": "Rs. 644.02",
-            "Premium per share": "Rs. 634.02"
-          },
-          {
-            "Type of specified securities": "Warrants",
-            "No. of Proposed Allottees": "03",
-            "No. of equity shares/ warrants": "2,32,911",
-            "Issue price per share": "Rs. 644.02",
-            "Premium per share": "Rs. 634.02"
-          },
-          {
-            "Type of specified securities": "Total",
-            "No. of Proposed Allottees": "09",
-            "No. of equity shares/ warrants": "7,76,371",
-            "Issue price per share": "",
-            "Premium per share": ""
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No": "",
-            "Name of Allottee": "",
-            "Equity Shares / Warrants": "",
-            "Category": "",
-            "Promoter Group / Non Promoters": "",
-            "Current Holding": "Shares",
-            "col_7": "%",
-            "No. of shares / warrants proposed to be allotted": "",
-            "Post proposed issue": "Shares",
-            "col_10": "%"
-          },
-          {
-            "Sr. No": "1",
-            "Name of Allottee": "WHITEOAK CAPITAL EQUITY TRUST - WHITEOAK CAPITAL EQUITY FUND II",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "AIF - Cat III",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "3,10,549",
-            "Post proposed issue": "3,10,549",
-            "col_10": "5.31"
-          },
-          {
-            "Sr. No": "2",
-            "Name of Allottee": "ASHOK KUMAR",
-            "Equity Shares / Warrants": "Warrants",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "1,55,274",
-            "Post proposed issue": "1,55,274",
-            "col_10": "2.65"
-          },
-          {
-            "Sr. No": "3",
-            "Name of Allottee": "WHITEOAK CAPITAL EQUITY FUND",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "AIF Cat III",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "77,637",
-            "Post proposed issue": "77,637",
-            "col_10": "1.33"
-          },
-          {
-            "Sr. No": "4",
-            "Name of Allottee": "PERPETUITY HEALTH TO WEALTH (H2W) RISING FUND",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "AIF - Cat III",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "54,346",
-            "Post proposed issue": "54,346",
-            "col_10": "0.93"
-          },
-          {
-            "Sr. No": "5",
-            "Name of Allottee": "GEOSPHERE INDIA FUND",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "FPI Cat -1",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "54,346",
-            "Post proposed issue": "54,346",
-            "col_10": "0.93"
-          },
-          {
-            "Sr. No": "6",
-            "Name of Allottee": "SHWETA TALWAR",
-            "Equity Shares / Warrants": "Warrants",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Promoter Group",
-            "Current Holding": "3,79,128",
-            "col_7": "7.47",
-            "No. of shares / warrants proposed to be allotted": "50,596",
-            "Post proposed issue": "4,29,724",
-            "col_10": "7.34"
-          },
-          {
-            "Sr. No": "7",
-            "Name of Allottee": "KARAN TALWAR",
-            "Equity Shares / Warrants": "Warrants",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Promoter Group",
-            "Current Holding": "3,94,846",
-            "col_7": "7.78",
-            "No. of shares / warrants proposed to be allotted": "27,041",
-            "Post proposed issue": "4,21,887",
-            "col_10": "7.21"
-          },
-          {
-            "Sr. No": "8",
-            "Name of Allottee": "SNEHAL BHUPENDRA SHAH & SURABHI SNEHAL SHAH",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "23,291",
-            "Post proposed issue": "23,291",
-            "col_10": "0.40"
-          },
-          {
-            "Sr. No": "9",
-            "Name of Allottee": "ANAND DALMIA",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "23,291",
-            "Post proposed issue": "23,291",
-            "col_10": "0.40"
-          },
-          {
-            "Sr. No": "",
-            "Name of Allottee": "TOTAL",
-            "Equity Shares / Warrants": "",
-            "Category": "",
-            "Promoter Group / Non Promoters": "",
-            "Current Holding": "",
-            "col_7": "",
-            "No. of shares / warrants proposed to be allotted": "7,76,371",
-            "Post proposed issue": "",
-            "col_10": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "53fb55ef-f6c6-4086-89b1-c35786800da7",
-    "SCRIP_CD": 543398,
-    "XML_NAME": "ANN_543398_53FB55EF-F6C6-4086-89B1-C35786800DA7",
-    "NEWSSUB": "Latent View Analytics Ltd - 543398 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-27T11:57:30.72",
-    "NEWS_DT": "2026-11-27T11:57:30.72",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dfc6d911-0fff-4833-8f18-1c4787dfab48.pdf",
-    "MORE": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please be informed of the Analyst /Institutional Investor meeting with the Company scheduled today, i.e., on November 27, 2026.",
-    "HEADLINE": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please be informed of the Analyst /Institutional Investor meeting with the Company ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/latent-view-analytics-ltd/latentview/543398/",
-    "SLONGNAME": "Latent View Analytics Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:57:30",
-    "DissemDT": "2026-11-27T11:57:30.72",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 454689,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Latent View Analytics Ltd. announced a voluntary one‑on‑one analyst/institutional investor meeting scheduled for **27 November 2026** (subject to change) with Emkay Global Financial Services; the discussion will be industry/company specific and no unpublished price‑sensitive information will be disclosed.  \n\n- The notice contains **no financial figures, earnings data, or other monetary decisions**—it is solely an informational intimation of the meeting per Regulation 30 of the SEBI LODR.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "614856aa-dc1e-48c0-9189-61566d545bd7",
-    "SCRIP_CD": 507912,
-    "XML_NAME": "ANN_507912_614856AA-DC1E-48C0-9189-61566D545BD7",
-    "NEWSSUB": "Gyftr Ltd - 507912 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
-    "DT_TM": "2026-11-27T11:56:21.737",
-    "NEWS_DT": "2026-11-27T11:56:21.737",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "7fdd6ff4-94a3-4d66-a755-41f6ea5012a7.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Notice of Postal Ballot",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gyftr-ltd/gyftr/507912/",
-    "SLONGNAME": "Gyftr Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:56:21",
-    "DissemDT": "2026-11-27T11:56:21.737",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1145094,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Agenda & Timing:** The company is seeking shareholder approval (via e‑voting) for material related‑party transactions with three entities – Mufin Green Finance Ltd, Hindon Mercantile Ltd, and Mufinpay Payment Solutions Pvt Ltd. The e‑voting window runs from **28 Nov 2026 09:00 IST** to **27 Dec 2026 17:00 IST** (notice dated 27 Nov 2026).  \n\n- **Financial Details:** The announcement does **not disclose",
-    "key_metrics": {
-      "revenue": "21029",
-      "net_profit": "2827",
-      "total_debt": "7.00",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 14,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "(A1)",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Basic Details of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "1",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Name of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "M/s. Mufin Green Finance Limited",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "2",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Country of incorporation of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "India",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "3",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Nature of business of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "The Company is in the business of Non-Banking Financing Activities and is engaged in financing climate- sustainable products. It provides loans for income generation through Electric Vehicles and Electric Charging Infrastructure",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "(A2)",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Relationship and ownership of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "1",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Relationship between the listed entity/subsidiary (in case of transaction involving the subsidiary) and the related party – including nature of its",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "M/s. Mufin Green Finance Limited is a group company of Gyftr Limited. Nature of Concern: Financial",
-            "Details": "",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "2",
-            "concern (financial or otherwise) and the following:": "Shareholding of the listed entity/ subsidiary (in case of transaction involving the subsidiary), whether direct or indirect, in the related party.",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "3",
-            "concern (financial or otherwise) and the following:": "Where the related party is a partnership firm or a sole proprietorship concern or a body corporate without share capital, then capital contribution, if any, made by the listed entity/ subsidiary (in case of transaction involving the subsidiary)",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "4",
-            "concern (financial or otherwise) and the following:": "Shareholding of the related party, whether direct or indirect, in the listed entity/ subsidiary (in case of transaction involving the subsidiary)",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "(A3)",
-            "concern (financial or otherwise) and the following:": "Details of previous transactions with the related party",
-            "col_3": ""
-          },
-          {
-            "col_1": "1",
-            "concern (financial or otherwise) and the following:": "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year",
-            "col_3": "Rs. 380.58 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 368.98 2 Interest Income 4.59 3 Borrowings 7.00"
-          },
-          {
-            "col_1": "2",
-            "concern (financial or otherwise) and the following:": "Total amount of all the transactions undertaken by the listed entity with the related party in the current financial year up to the quarter immediately preceding the quarter in which the approval is sought – (April – September 26)",
-            "col_3": "Rs. 0.12 Crores"
-          },
-          {
-            "col_1": "3",
-            "concern (financial or otherwise) and the following:": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the",
-            "col_3": "Not Applicable"
-          }
-        ]
-      },
-      {
-        "page": 15,
-        "table_index": 2,
-        "row_count": 3,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Nature of Transactions": "Loans and Advances",
-            "FY 2025-26 (In crores)": "368.98"
-          },
-          {
-            "S. No.": "2",
-            "Nature of Transactions": "Interest Income",
-            "FY 2025-26 (In crores)": "4.59"
-          },
-          {
-            "S. No.": "3",
-            "Nature of Transactions": "Borrowings",
-            "FY 2025-26 (In crores)": "7.00"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "(A4)",
-            "last financial year.": "Amount of the proposed transaction(s)",
-            "col_3": ""
-          },
-          {
-            "col_1": "1",
-            "last financial year.": "Amount of the proposed transactions being placed for approval in the meeting of the Audit Committee/shareholders",
-            "col_3": "Not exceeding Rs. 100 Crores (Rupees One Hundred Crores)"
-          },
-          {
-            "col_1": "2",
-            "last financial year.": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "col_3": "Yes"
-          },
-          {
-            "col_1": "3",
-            "last financial year.": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year",
-            "col_3": "25.23%"
-          },
-          {
-            "col_1": "4",
-            "last financial year.": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "5",
-            "last financial year.": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "col_3": "47.55%"
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 1,
-        "row_count": 9,
-        "rows": [
-          {
-            "6": "(A5)",
-            "Financial performance of the related party for the immediately preceding financial year": "Basic details of the proposed transaction",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": ""
-          },
-          {
-            "6": "1",
-            "Financial performance of the related party for the immediately preceding financial year": "Specific type of the proposed transaction (e.g. sale of goods/services, purchase of goods/services, giving loan, borrowing etc.)",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "Purchase and Sale of Securities/Units"
-          },
-          {
-            "6": "2",
-            "Financial performance of the related party for the immediately preceding financial year": "Details of each type of the proposed transaction",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "The Listed Entity proposes to purchase investments from the Related Party in the ordinary course of business."
-          },
-          {
-            "6": "3",
-            "Financial performance of the related party for the immediately preceding financial year": "Tenure of the proposed transaction (tenure in number of years or months to be specified)",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "The tenure for proposed transactions with Mufin Green Finance Limited is financial year 2026-27."
-          },
-          {
-            "6": "4",
-            "Financial performance of the related party for the immediately preceding financial year": "Whether omnibus approval is being sought?",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "Yes"
-          },
-          {
-            "6": "5",
-            "Financial performance of the related party for the immediately preceding financial year": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "The Value of proposed transactions with Mufin Green Finance Limited in the financial year 2026-27 is expected to be upto Rs. 100 Crore."
-          },
-          {
-            "6": "6",
-            "Financial performance of the related party for the immediately preceding financial year": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "The related party transactions entered by the Company with Mufin Green Finance Limited are in the Ordinary course of business and are on an arm’s length basis. It is further ensured that the transactions with Mufin Green Finance Limited are conducted as if it is with an unrelated party, so that there is no conflict of interest."
-          },
-          {
-            "6": "7",
-            "Financial performance of the related party for the immediately preceding financial year": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly:",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": "Not Applicable"
-          },
-          {
-            "6": "",
-            "Financial performance of the related party for the immediately preceding financial year": "(a) Name of the director / KMP",
-            "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 21,029 Profit after Tax 2,827 Net-worth 57,470": ""
-          }
-        ]
-      },
-      {
-        "page": 18,
-        "table_index": 1,
-        "row_count": 9,
-        "rows": [
-          {
-            "col_1": "8",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "9",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Other information relevant for decision making",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "(B1)",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances",
-            "col_3": ""
-          },
-          {
-            "col_1": "1.",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "2.",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Basis of determination of price.",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "3.",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "In case of Trade advance (of upto 365 days or such period for which such advances are extended as per normal trade practice), if any, proposed to be extended to the related party in relation to the transaction, specify the following: a. Amount of Trade advance b. Tenure c. Whether same is self-liquidating?",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "(B3)",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Investment made by the listed entity or its subsidiary",
-            "col_3": ""
-          },
-          {
-            "col_1": "1",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Source of funds in connection with the proposed transaction.",
-            "col_3": "Internal accruals and/or available liquid resources of the Company"
-          },
-          {
-            "col_1": "2",
-            "(b) Shareholding of the director / KMP, whether direct or indirect, in the related party": "Where any financial indebtedness is incurred to make investment, specify the following: a. Nature of indebtedness b. Total cost of borrowing c. Tenure d. Other",
-            "col_3": "No financial indebtedness is to be incurred specifically for the purpose of the proposed investments."
-          }
-        ]
-      },
-      {
-        "page": 19,
-        "table_index": 1,
-        "row_count": 4,
-        "rows": [
-          {
-            "3": "4",
-            "Purpose for which funds shall be utilized by the investee company": "Material terms of the proposed transaction",
-            "The proposed transaction pertains to the Purchase and Sale of Securities/Units from Mufin Green Finance Limited. Accordingly, no funds will be received or utilized by the Investee Company pursuant to the said transaction.": "Acquisition of Securities/Units on such terms and conditions as may be mutually agreed between the parties and as approved by the Audit Committee/Board of the Company."
-          },
-          {
-            "3": "(C2)",
-            "Purpose for which funds shall be utilized by the investee company": "Disclosure only in case of transactions relating to any investment made by the listed entity or its subsidiary",
-            "The proposed transaction pertains to the Purchase and Sale of Securities/Units from Mufin Green Finance Limited. Accordingly, no funds will be received or utilized by the Investee Company pursuant to the said transaction.": ""
-          },
-          {
-            "3": "1",
-            "Purpose for which funds shall be utilized by the investee company": "Latest credit rating of the related party Note: a. Standalone rating to be provided while option to provide structured obligation rating (SO rating) and credit enhancement rating (CE rating), if any. b. This shall be applicable in case of investment in debt securities",
-            "The proposed transaction pertains to the Purchase and Sale of Securities/Units from Mufin Green Finance Limited. Accordingly, no funds will be received or utilized by the Investee Company pursuant to the said transaction.": "Not Applicable, as the proposed transaction does not involve investment in debt securities."
-          },
-          {
-            "3": "2",
-            "Purpose for which funds shall be utilized by the investee company": "Whether any regulatory approval is required. If yes, whether the same has been obtained.",
-            "The proposed transaction pertains to the Purchase and Sale of Securities/Units from Mufin Green Finance Limited. Accordingly, no funds will be received or utilized by the Investee Company pursuant to the said transaction.": "Not Applicable"
-          }
-        ]
-      },
-      {
-        "page": 20,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "(A1)",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Basic Details of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "1",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Name of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "M/s. Hindon Mercantile Limited",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "2",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Country of incorporation of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "India",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "3",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Nature of business of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "The Related Party is engaged in the business of financing commercial and other enterprises, including providing loans, working capital, project finance, guarantees and other financial facilities. Further, the Related Party is engaged in investment and trading in securities and other financial instruments.",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "(A2)",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Relationship and ownership of the related party",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "",
-            "Details": "",
-            "col_9": ""
-          },
-          {
-            "col_1": "1",
-            "S.no.": "",
-            "col_3": "",
-            "col_4": "Relationship between the listed entity/subsidiary (in case of transaction involving the subsidiary) and the related",
-            "Particulars": "",
-            "col_6": "",
-            "col_7": "Relationship: The related party is the Promoter of the Company. Nature of Concern:",
-            "Details": "",
-            "col_9": ""
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "2",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Shareholding of the listed entity/ subsidiary (in case of transaction involving the subsidiary), whether direct or indirect, in the related party.",
-            "Financial": "The Listed entity does not hold any shares in the related party, however Mr. Kapil Garg, promoter of the company holds 38.15% of shares of Hindon Mercantile Limited"
-          },
-          {
-            "col_1": "3",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Where the related party is a partnership firm or a sole proprietorship concern or a body corporate without share capital, then capital contribution, if any, made by the listed entity/ subsidiary (in case of transaction involving the subsidiary)",
-            "Financial": "Not Applicable"
-          },
-          {
-            "col_1": "4",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Shareholding of the related party, whether direct or indirect, in the listed entity/ subsidiary (in case of transaction involving the subsidiary)",
-            "Financial": "Hindon Mercantile Limited holds 49.97% shares of the Company."
-          },
-          {
-            "col_1": "(A3)",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Details of previous transactions with the related party",
-            "Financial": ""
-          },
-          {
-            "col_1": "1",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year",
-            "Financial": "Rs. 133.81 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 78.36 2 Interest Income 1.35 3 Borrowings 34.00 4 Interest and other 0.14 expense 5 Software Purchased 19.95"
-          },
-          {
-            "col_1": "2",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Total amount of all the transactions undertaken by the listed entity with the related party in the current financial year up to the quarter immediately preceding the quarter in which the approval is sought – (April - September 26)",
-            "Financial": "Rs. 5.91 Crores"
-          },
-          {
-            "col_1": "3",
-            "party – including nature of its concern (financial or otherwise) and the following:": "Any default, if any, made by a related party concerning any obligation",
-            "Financial": "Not Applicable"
-          }
-        ]
-      },
-      {
-        "page": 21,
-        "table_index": 2,
-        "row_count": 5,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Nature of Transactions": "Loans and Advances",
-            "FY 2025-26 (In crores)": "78.36"
-          },
-          {
-            "S. No.": "2",
-            "Nature of Transactions": "Interest Income",
-            "FY 2025-26 (In crores)": "1.35"
-          },
-          {
-            "S. No.": "3",
-            "Nature of Transactions": "Borrowings",
-            "FY 2025-26 (In crores)": "34.00"
-          },
-          {
-            "S. No.": "4",
-            "Nature of Transactions": "Interest and other expense",
-            "FY 2025-26 (In crores)": "0.14"
-          },
-          {
-            "S. No.": "5",
-            "Nature of Transactions": "Software Purchased",
-            "FY 2025-26 (In crores)": "19.95"
-          }
-        ]
-      },
-      {
-        "page": 22,
-        "table_index": 1,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "(A4)",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Amount of the proposed transaction(s)",
-            "col_3": ""
-          },
-          {
-            "col_1": "1",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Amount of the proposed transactions being placed for approval in the meeting of the Audit Committee/ shareholders",
-            "col_3": "Not exceeding Rs. 1000 Crores (Rupees One thousand Crores)"
-          },
-          {
-            "col_1": "2",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "col_3": "Yes"
-          },
-          {
-            "col_1": "3",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year",
-            "col_3": "252.30%"
-          },
-          {
-            "col_1": "4",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "5",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "col_3": "35.83%"
-          },
-          {
-            "col_1": "6",
-            "undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.": "Financial performance of the related party for the immediately preceding financial year",
-            "col_3": "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 4,226 Profit after Tax 142 Net-worth 30,616"
-          }
-        ]
-      },
-      {
-        "page": 24,
-        "table_index": 1,
-        "row_count": 13,
-        "rows": [
-          {
-            "9": "(B1)",
-            "Other information relevant for decision making": "Disclosure only in case of transactions relating to sale, purchase or supply of goods or services or any other similar business transaction and trade advances",
-            "Not Applicable": ""
-          },
-          {
-            "9": "1",
-            "Other information relevant for decision making": "Bidding or other process, if any, applied for choosing a party for sale, purchase or supply of goods or services.",
-            "Not Applicable": "NA"
-          },
-          {
-            "9": "2",
-            "Other information relevant for decision making": "Basis of determination of price.",
-            "Not Applicable": ""
-          },
-          {
-            "9": "3",
-            "Other information relevant for decision making": "In case of Trade advance, if any, proposed to be extended to the related party in relation to the transaction, specify the following: (a) Amount of Trade advance (b) Tenure (c) Whether same is self-liquidating?",
-            "Not Applicable": "NA"
-          },
-          {
-            "9": "(B2)",
-            "Other information relevant for decision making": "Disclosure only in case of transactions relating to loans and advances (other than trade advances) or inter-corporate deposits given by the listed entity or its subsidiary",
-            "Not Applicable": ""
-          },
-          {
-            "9": "1",
-            "Other information relevant for decision making": "Source of funds in connection with the proposed transaction",
-            "Not Applicable": "Owned Funds"
-          },
-          {
-            "9": "2",
-            "Other information relevant for decision making": "Where any financial indebtedness is incurred to give loan, inter-corporate deposit or advance, specify the following: (a) Nature of indebtedness (b) Total cost of borrowing (c) Tenure (d) Other details",
-            "Not Applicable": "Not Applicable"
-          },
-          {
-            "9": "3",
-            "Other information relevant for decision making": "Rate of interest at which the listed entity or its subsidiary is borrowing from its bankers/ other lenders",
-            "Not Applicable": "Not Applicable"
-          },
-          {
-            "9": "4",
-            "Other information relevant for decision making": "Proposed interest rate to be charged by listed entity or its subsidiary from the related party.",
-            "Not Applicable": "15%"
-          },
-          {
-            "9": "5",
-            "Other information relevant for decision making": "Maturity / due date",
-            "Not Applicable": "As mutually agreed between the parties"
-          },
-          {
-            "9": "6",
-            "Other information relevant for decision making": "Repayment schedule & terms",
-            "Not Applicable": "As mutually agreed between the parties"
-          },
-          {
-            "9": "7",
-            "Other information relevant for decision making": "Whether secured or unsecured?",
-            "Not Applicable": "Un-secured"
-          },
-          {
-            "9": "8",
-            "Other information relevant for decision making": "If secured, the nature of security &",
-            "Not Applicable": "Not Applicable"
-          }
-        ]
-      },
-      {
-        "page": 25,
-        "table_index": 1,
-        "row_count": 9,
-        "rows": [
-          {
-            "col_1": "9",
-            "security coverage ratio": "The purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the transaction.",
-            "col_3": "To enable provision of working capital for disbursement and augmenting growth in normal course of operations."
-          },
-          {
-            "col_1": "(C1)",
-            "security coverage ratio": "Disclosure only in case of transactions relating to any loans and advances (other than trade advances), inter-corporate deposits given by the listed entity or its subsidiary",
-            "col_3": ""
-          },
-          {
-            "col_1": "1",
-            "security coverage ratio": "Latest credit rating of the related party",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "2",
-            "security coverage ratio": "Default on borrowings, if any, over the last three financial years, by the related party from the listed entity or any other person and value of subsisting default.",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "3",
-            "security coverage ratio": "In addition, state the following:",
-            "col_3": "Not Applicable"
-          },
-          {
-            "col_1": "",
-            "security coverage ratio": "(a) Whether the account of the related party has been classified as a non- performing asset (NPA) by any of its bankers and whether such status is currently subsisting;",
-            "col_3": ""
-          },
-          {
-            "col_1": "",
-            "security coverage ratio": "b) Whether the related party has been declared a “willful defaulter” by any of its bankers and whether such status is currently subsisting;",
-            "col_3": ""
-          },
-          {
-            "col_1": "",
-            "security coverage ratio": "c) Whether the related party is undergoing or facing any application for commencement of an insolvency resolution process or liquidation;",
-            "col_3": ""
-          },
-          {
-            "col_1": "",
-            "security coverage ratio": "d) Whether the related party, not being an MSME, suffers from any of the disqualifications specified under Section 29A of the Insolvency and Bankruptcy Code, 2016.",
-            "col_3": ""
-          }
-        ]
-      },
-      {
-        "page": 28,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "1": "2",
-            "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year": "Total amount of all the transactions undertaken by the listed entity with the related party in the current financial year up to the quarter immediately preceding the quarter in which the approval is sought – (April - September 26)",
-            "Rs. 497.71 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 233.95 2 Interest Income 5.51 3 Investment 260.25": "Rs. 0.51 Crores"
-          },
-          {
-            "1": "3",
-            "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year": "Any default, if any, made by a related party concerning any obligation undertaken by it under a transaction or arrangement entered into with the listed entity or its subsidiary during the last financial year.",
-            "Rs. 497.71 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 233.95 2 Interest Income 5.51 3 Investment 260.25": "Not Applicable"
-          },
-          {
-            "1": "(A4)",
-            "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year": "Amount of the proposed transaction(s)",
-            "Rs. 497.71 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 233.95 2 Interest Income 5.51 3 Investment 260.25": ""
-          },
-          {
-            "1": "1",
-            "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year": "Amount of the proposed transactions being placed for approval in the meeting of the Audit Committee/ shareholders",
-            "Rs. 497.71 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 233.95 2 Interest Income 5.51 3 Investment 260.25": "Not exceeding Rs. 100 Crores (Rupees One Hundred Crores)"
-          },
-          {
-            "1": "2",
-            "Total amount of all the transactions undertaken by the listed entity with the related party during the last financial year": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a",
-            "Rs. 497.71 Crores S. Nature of FY 2025-26 No. Transactions (In crores) 1 Loans and Advances 233.95 2 Interest Income 5.51 3 Investment 260.25": "Yes"
-          }
-        ]
-      },
-      {
-        "page": 28,
-        "table_index": 2,
-        "row_count": 3,
-        "rows": [
-          {
-            "S. No.": "1",
-            "Nature of Transactions": "Loans and Advances",
-            "FY 2025-26 (In crores)": "233.95"
-          },
-          {
-            "S. No.": "2",
-            "Nature of Transactions": "Interest Income",
-            "FY 2025-26 (In crores)": "5.51"
-          },
-          {
-            "S. No.": "3",
-            "Nature of Transactions": "Investment",
-            "FY 2025-26 (In crores)": "260.25"
-          }
-        ]
-      },
-      {
-        "page": 29,
-        "table_index": 1,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "3",
-            "material RPT?": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year",
-            "col_3": "25.23%"
-          },
-          {
-            "col_1": "4",
-            "material RPT?": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "col_3": "NA"
-          },
-          {
-            "col_1": "5",
-            "material RPT?": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "col_3": "3.97%"
-          },
-          {
-            "col_1": "6",
-            "material RPT?": "Financial performance of the related party for the immediately preceding financial year",
-            "col_3": "Particulars FY 2025-26 (Rs. in Lakhs) Turnover 1,659 Profit after Tax 1,246 Net-worth 26,305"
-          },
-          {
-            "col_1": "(A5)",
-            "material RPT?": "Basic details of the proposed transaction",
-            "col_3": ""
-          },
-          {
-            "col_1": "1",
-            "material RPT?": "Specific type of the proposed transaction (e.g. sale of",
-            "col_3": "Sale, purchase or supply of goods or services"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "ae2df896-9b88-4c83-b30c-e391dc34b5ce",
-    "SCRIP_CD": 538987,
-    "XML_NAME": "ANN_538987_AE2DF896-9B88-4C83-B30C-E391DC34B5CE",
-    "NEWSSUB": "Talbros Engineering Ltd - 538987 - Board Meeting Outcome for Outcome Of Board Meeting",
-    "DT_TM": "2026-11-27T11:55:45.82",
-    "NEWS_DT": "2026-11-27T11:55:45.82",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e319e0c4-0aa4-4978-852d-82649582aeb5.pdf",
-    "MORE": "",
-    "HEADLINE": "Board Considered and approved Preferential Issue of Equity shares and Warrants and approved Notice of Extra-Ordinary General Meeting and other incidental matters duly mentioned in the outcome.",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/talbros-engineering-ltd/talbroseng/538987/",
-    "SLONGNAME": "Talbros Engineering Ltd",
-    "AGENDA_ID": 198,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:55:44",
-    "DissemDT": "2026-11-27T11:55:45.82",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 824221,
-    "SUBCATNAME": "Outcome of Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 1,
-        "table_index": 0,
-        "row_count": 3,
-        "rows": [
-          {
-            "Type of specified securities": "Equity Shares",
-            "No. of Proposed Allottees": "06",
-            "No. of equity shares/ warrants": "5,43,460",
-            "Issue price per share": "Rs. 644.02",
-            "Premium per share": "Rs. 634.02"
-          },
-          {
-            "Type of specified securities": "Warrants",
-            "No. of Proposed Allottees": "03",
-            "No. of equity shares/ warrants": "2,32,911",
-            "Issue price per share": "Rs. 644.02",
-            "Premium per share": "Rs. 634.02"
-          },
-          {
-            "Type of specified securities": "Total",
-            "No. of Proposed Allottees": "09",
-            "No. of equity shares/ warrants": "7,76,371",
-            "Issue price per share": "",
-            "Premium per share": ""
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No": "",
-            "Name of Allottee": "",
-            "Equity Shares / Warrants": "",
-            "Category": "",
-            "Promoter Group / Non Promoters": "",
-            "Current Holding": "Shares",
-            "col_7": "%",
-            "No. of shares / warrants proposed to be allotted": "",
-            "Post proposed issue": "Shares",
-            "col_10": "%"
-          },
-          {
-            "Sr. No": "1",
-            "Name of Allottee": "WHITEOAK CAPITAL EQUITY TRUST - WHITEOAK CAPITAL EQUITY FUND II",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "AIF - Cat III",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "3,10,549",
-            "Post proposed issue": "3,10,549",
-            "col_10": "5.31"
-          },
-          {
-            "Sr. No": "2",
-            "Name of Allottee": "ASHOK KUMAR",
-            "Equity Shares / Warrants": "Warrants",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "1,55,274",
-            "Post proposed issue": "1,55,274",
-            "col_10": "2.65"
-          },
-          {
-            "Sr. No": "3",
-            "Name of Allottee": "WHITEOAK CAPITAL EQUITY FUND",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "AIF Cat III",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "77,637",
-            "Post proposed issue": "77,637",
-            "col_10": "1.33"
-          },
-          {
-            "Sr. No": "4",
-            "Name of Allottee": "PERPETUITY HEALTH TO WEALTH (H2W) RISING FUND",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "AIF - Cat III",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "54,346",
-            "Post proposed issue": "54,346",
-            "col_10": "0.93"
-          },
-          {
-            "Sr. No": "5",
-            "Name of Allottee": "GEOSPHERE INDIA FUND",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "FPI Cat -1",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "54,346",
-            "Post proposed issue": "54,346",
-            "col_10": "0.93"
-          },
-          {
-            "Sr. No": "6",
-            "Name of Allottee": "SHWETA TALWAR",
-            "Equity Shares / Warrants": "Warrants",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Promoter Group",
-            "Current Holding": "3,79,128",
-            "col_7": "7.47",
-            "No. of shares / warrants proposed to be allotted": "50,596",
-            "Post proposed issue": "4,29,724",
-            "col_10": "7.34"
-          },
-          {
-            "Sr. No": "7",
-            "Name of Allottee": "KARAN TALWAR",
-            "Equity Shares / Warrants": "Warrants",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Promoter Group",
-            "Current Holding": "3,94,846",
-            "col_7": "7.78",
-            "No. of shares / warrants proposed to be allotted": "27,041",
-            "Post proposed issue": "4,21,887",
-            "col_10": "7.21"
-          },
-          {
-            "Sr. No": "8",
-            "Name of Allottee": "SNEHAL BHUPENDRA SHAH & SURABHI SNEHAL SHAH",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "23,291",
-            "Post proposed issue": "23,291",
-            "col_10": "0.40"
-          },
-          {
-            "Sr. No": "9",
-            "Name of Allottee": "ANAND DALMIA",
-            "Equity Shares / Warrants": "Equity Shares",
-            "Category": "Individual",
-            "Promoter Group / Non Promoters": "Non Promoter",
-            "Current Holding": "-",
-            "col_7": "-",
-            "No. of shares / warrants proposed to be allotted": "23,291",
-            "Post proposed issue": "23,291",
-            "col_10": "0.40"
-          },
-          {
-            "Sr. No": "",
-            "Name of Allottee": "TOTAL",
-            "Equity Shares / Warrants": "",
-            "Category": "",
-            "Promoter Group / Non Promoters": "",
-            "Current Holding": "",
-            "col_7": "",
-            "No. of shares / warrants proposed to be allotted": "7,76,371",
-            "Post proposed issue": "",
-            "col_10": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "6bbb2213-3bd9-4528-9d6e-a9cac7d4a3ab",
-    "SCRIP_CD": 544101,
-    "XML_NAME": "ANN_544101_6BBB2213-3BD9-4528-9D6E-A9CAC7D4A3AB",
-    "NEWSSUB": "Brisk Technovision Ltd - 544101 - Board Meeting Outcome for Outcome Of Board Meeting Held On Friday, November 27, 2026 At 11:00 AM At Its Registered Office, Pursuant To Regulation 30 Of The SEBI LODR Regulations, 2015.",
-    "DT_TM": "2026-11-27T11:55:42.393",
-    "NEWS_DT": "2026-11-27T11:55:42.393",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "874d30a3-393a-436a-a19e-417e6aef7b5a.pdf",
-    "MORE": "The Board of Directors of Brisk Technovision Limited, at its meeting held on November 27, 2026, has considered and approved the following matters:\r\n1. Took note of the resignation of Mr. Sankara Subramaniam Ramnath as Independent Director, effective from the close of business hours on November 27, 2026.\r\n2. Approved the change in designation of Mr. Ganapati Chittaranjan Kenkare from Managing Director to Executive Director & CEO, effective November 27, 2026.\r\n3. Approved the appointment of Mr. Rajesh Arjun Dharira as Managing Director for a period of five years, from November 27, 2026 to November 26, 2031, subject to shareholders'' approval.\r\n4. Approved the appointment of Mr. Vishal Agrawal as Additional Director in the capacity of Non-Executive Independent Director, effective November 27, 2026, subject to shareholders'' approval, wherever applicable.\r\nThe Board Meeting commenced at 11:05 AM (IST) and concluded at 11:40 AM (IST).",
-    "HEADLINE": "The Board of Directors of Brisk Technovision Limited, at its meeting held on November 27, 2026, has considered and approved the following matters:\r\n1. Took note of the resignation of Mr. ....",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/brisk-technovision-ltd/brisk/544101/",
-    "SLONGNAME": "Brisk Technovision Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:55:39",
-    "DissemDT": "2026-11-27T11:55:42.393",
-    "TimeDiff": "00:00:03",
-    "Fld_Attachsize": 6554840,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f1c7e550-54df-4b12-bb7c-4014ea008df2",
-    "SCRIP_CD": 540850,
-    "XML_NAME": "ANN_540850_F1C7E550-54DF-4B12-BB7C-4014EA008DF2",
-    "NEWSSUB": "Jhandewalas Foods Ltd - 540850 - Intimation Of The 20Th Annual General Meeting",
-    "DT_TM": "2026-11-27T11:54:33.487",
-    "NEWS_DT": "2026-11-27T11:54:33.487",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "22f8f35d-af0d-4699-a7ac-7e5372c5eceb.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of the 20th AGM scheduled to be held on Wednesday 23rd December 2026 at 09:15 A.M. through Video Conferencing (VC)/Other Audio Visual Means(OAVM)",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jhandewalas-foods-ltd/jfl/540850/",
-    "SLONGNAME": "Jhandewalas Foods Ltd",
-    "AGENDA_ID": 3,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:54:33",
-    "DissemDT": "2026-11-27T11:54:33.487",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 3376158,
-    "SUBCATNAME": "AGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The 20th Annual General Meeting of Jhandewalas Foods Ltd will be held on **Wednesday, 23 December 2026 at 09:15 A.M. (IST)** via video‑conferencing/other audio‑visual means.  \n- Share‑transfer books will be closed from **Thursday, 17 December 2026 to Wednesday, 23 December 2026 (both days inclusive)**; remote e‑voting runs from **19 December 2026 09:00 A.M. to 22 December 2026 05:00 P.M. (IST)**, with the eligibility cut‑off date on **16 December 2026**.  \n\n**No financial figures, decisions, or monetary details are",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "d6cbcaba-cfa5-42f2-8ea0-00d98e582549",
-    "SCRIP_CD": 531146,
-    "XML_NAME": "ANN_531146_D6CBCABA-CFA5-42F2-8EA0-00D98E582549",
-    "NEWSSUB": "Medicamen Biotech Ltd-$ - 531146 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-27T11:54:27.003",
-    "NEWS_DT": "2026-11-27T11:54:27.003",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5e621a99-6408-41e8-a593-a158929c7259.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Advertisement - Transfer of Unpaid/Unclaimed Dividend and Equity Shares to the Investor education and Protection Fund (IEPF)",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/medicamen-biotech-ltd/medicameq/531146/",
-    "SLONGNAME": "Medicamen Biotech Ltd-$",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:54:27",
-    "DissemDT": "2026-11-27T11:54:27.003",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2242455,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company disclosed that newspaper advertisements (in *Financial Express* – English, and *Jansatta* – Hindi) were published on **27 November 2026** as required under **Regulation 47 of the SEBI Listing Obligations and Disclosure Requirements (LODR) Regulations, 2015**.  \n\n- No financial figures, transactions, or monetary decisions were mentioned in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9d9a076d-d411-4831-99c2-532e01434778",
-    "SCRIP_CD": 544181,
-    "XML_NAME": "ANN_544181_9D9A076D-D411-4831-99C2-532E01434778",
-    "NEWSSUB": "Awfis Space Solutions Ltd - 544181 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-27T11:51:52.18",
-    "NEWS_DT": "2026-11-27T11:51:52.18",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "380fc920-6118-428e-806e-d825d023c9d6.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure under Regulation 30 of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 2015, w.r.t. appointment of Senior Management Personnel is attached herewith.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/awfis-space-solutions-ltd/awfis/544181/",
-    "SLONGNAME": "Awfis Space Solutions Ltd",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:51:52",
-    "DissemDT": "2026-11-27T11:51:52.18",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 255953,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- Awfis Space Solutions Ltd. announced the appointment of Mr. Kumar Alok Gupta as Chief Business Officer (Senior Management Personnel), effective 16 November 2026; he joins as a full‑time employee with over 24 years of experience in commercial real‑estate leasing and risk management.\n\n- The disclosure contains no financial figures, transactions, or monetary decisions.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "4add12f9-5c2b-4d92-a144-3027b1cccdf6",
-    "SCRIP_CD": 500422,
-    "XML_NAME": "ANN_500422_4ADD12F9-5C2B-4D92-A144-3027B1CCCDF6",
-    "NEWSSUB": "Transchem Ltd-$ - 500422 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-27T11:49:59.65",
-    "NEWS_DT": "2026-11-27T11:49:59.65",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bde64fd1-31c2-4f42-ac95-da3fed5a869e.pdf",
-    "MORE": "",
-    "HEADLINE": "Please refer the attached intimation.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/transchem-ltd/transchem/500422/",
-    "SLONGNAME": "Transchem Ltd-$",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:49:59",
-    "DissemDT": "2026-11-27T11:49:59.65",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1297556,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Date & purpose:** On 27 Nov 2026, Transchem Ltd. filed a Regulation 30 (LODR) announcement notifying the BSE that it has placed a **Postal Ballot Notice** in newspapers, as required for shareholder voting.  \n\n- **Publication details:** The notice was run in the **Financial Express (English)** and **Mumbai Lakshadeep (Marathi)** newspapers and is also posted on the company’s website (www.transchem.net).  \n\n*The announcement contains no financial figures or monetary decisions.*",
-    "key_metrics": {
-      "face_value": "10",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "6e5ea174-f869-4471-9cc5-a6df342f39c3",
-    "SCRIP_CD": 504076,
-    "XML_NAME": "ANN_504076_6E5EA174-F869-4471-9CC5-A6DF342F39C3",
-    "NEWSSUB": "Jyoti Ltd-$ - 504076 - Intimation Of Extra Ordinary General Meeting",
-    "DT_TM": "2026-11-27T11:49:18.103",
-    "NEWS_DT": "2026-11-27T11:49:18.103",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c713bd6e-6551-49dc-8175-ad145e21d7aa.pdf",
-    "MORE": "",
-    "HEADLINE": "Notice of Extra Ordinary General Meeting to be held on Tuesday, 22nd December, 2026 at 11.00 AM through VC/OAVM",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jyoti-ltd/jyoti/504076/",
-    "SLONGNAME": "Jyoti Ltd-$",
-    "AGENDA_ID": 28,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:49:18",
-    "DissemDT": "2026-11-27T11:49:18.103",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1339725,
-    "SUBCATNAME": "EGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- The company issued a notice on 4 Nov 2026 for an Extraordinary General Meeting (EGM) to be held on 22 Dec 2026 at 11:00 a.m. (IST) via video‑conferencing/other audio‑visual means.  \n- The sole agenda of the EGM is the appointment of Mr. Minesh Natubhai Patel (DIN 00542144) as an Independent Director for an initial term of five consecutive years, effective 24 Sept 2026 to 23 Sept 2031.  \n\n*No financial figures, monetary amounts, or other financial decisions are disclosed in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "af80b0ee-3be6-40b5-b121-90db322e91ac",
-    "SCRIP_CD": 542812,
-    "XML_NAME": "ANN_542812_AF80B0EE-3BE6-40B5-B121-90DB322E91AC",
-    "NEWSSUB": "Gujarat Fluorochemicals Ltd - 542812 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-27T11:48:05.35",
-    "NEWS_DT": "2026-11-27T11:48:05.35",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "fcbd2ef6-4fee-4ceb-9cdf-0ac453b4c17a.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper advertisement confirming dispatch of Notice of the Extraordinary General Meeting of the Company",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/gujarat-fluorochemicals-ltd/fluorochem/542812/",
-    "SLONGNAME": "Gujarat Fluorochemicals Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:48:05",
-    "DissemDT": "2026-11-27T11:48:05.35",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 4079770,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **27 Nov 2026** – Gujarat Fluorochemicals Ltd. placed a newspaper advertisement (Business Standard (Eng) and Himachal Dastak (Hin)) confirming that the notice for an **Extraordinary General Meeting (EGM)** and related remote e‑voting information had been dispatched, in compliance with SEBI Regulation 30 and the Companies Act 2013.  \n\n- The announcement contains **no financial figures, earnings data, or monetary decisions**; it solely informs about the statutory notice and regulatory compliance for the upcoming EGM.",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "67b5a824-ca58-4ae4-a2bd-5c621658a849",
-    "SCRIP_CD": 540136,
-    "XML_NAME": "ANN_540136_67B5A824-CA58-4AE4-A2BD-5C621658A849",
-    "NEWSSUB": "HPL Electric & Power Ltd - 540136 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-27T11:46:06.157",
-    "NEWS_DT": "2026-11-27T11:46:06.157",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8789fa55-6912-4ae3-ad71-11fd96ee7b49.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper Advertisement",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hpl-electric--power-ltd/hpl/540136/",
-    "SLONGNAME": "HPL Electric & Power Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 2,
-    "News_submission_dt": "2026-11-27T11:46:06",
-    "DissemDT": "2026-11-27T11:46:06.157",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 13337682,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Date & Action:** On 27 November 2026, HPL Electric & Power Ltd. published a newspaper advertisement (Business Standard, English & Hindi) confirming that the Postal Ballot Notice had been dispatched to members *via email only*.\n\n- **Regulatory compliance:** The notice satisfies the requirements of SEBI’s Regulation 30, 47 and related Listing Obligations, and the advertisement is also posted on the company’s website (www.hplindia.com).  \n\n*No specific financial figures or monetary decisions are disclosed in the announcement.*",
     "key_metrics": {},
     "financial_tables": []
   }
