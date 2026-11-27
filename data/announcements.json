@@ -1,5 +1,41 @@
 [
   {
+    "NEWSID": "c97e821a-84ad-41fd-ad83-eb6756df3e8c",
+    "SCRIP_CD": 541956,
+    "XML_NAME": "ANN_541956_C97E821A-84AD-41FD-AD83-EB6756DF3E8C",
+    "NEWSSUB": "IRCON International Ltd - 541956 - Imposition Of Fine By NSE & BSE For The Quarter Ended 30Th September, 2026.",
+    "DT_TM": "2026-11-28T00:24:53.997",
+    "NEWS_DT": "2026-11-28T00:24:53.997",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "71376f90-0e5f-4664-97ee-e7f4974e793f.pdf",
+    "MORE": "",
+    "HEADLINE": "Imposition of Fine by NSE & BSE for the Quarter ended 30th September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ircon-international-ltd/ircon/541956/",
+    "SLONGNAME": "IRCON International Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-28T00:24:53",
+    "DissemDT": "2026-11-28T00:24:53.997",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2138603,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- NSE and BSE each levied a fine of **Rs 7,69,360 (incl. GST)** on IRCON International Ltd for non‑compliance with board‑composition regulations for the quarter ended **30 September 2026**.  \n- A **Woman Independent Director** was appointed and the Audit and Nomination Committees were re‑constituted **effective 17",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
     "NEWSID": "d36018fb-eff9-46b5-a722-4e9d7068bfa2",
     "SCRIP_CD": 541233,
     "XML_NAME": "ANN_541233_D36018FB-EFF9-46B5-A722-4E9D7068BFA2",
@@ -19816,115 +19852,5 @@
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "ae37d708-8d54-4bbe-95a0-ce12e1cb5688",
-    "SCRIP_CD": 533285,
-    "XML_NAME": "ANN_533285_AE37D708-8D54-4BBE-95A0-CE12E1CB5688",
-    "NEWSSUB": "RDB Infrastructure And Power Ltd - 533285 - Announcement under Regulation 30 (LODR)-Acquisition",
-    "DT_TM": "2026-11-27T19:03:27.357",
-    "NEWS_DT": "2026-11-27T19:03:27.357",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "581d0a1e-f7fe-4f3b-ba89-d15c7d873bda.pdf",
-    "MORE": "We wish to inform you that the Board of Directors of the Company at its meeting held today i.e., 27th November 2026 has accorded its approval to acquire 50% of the equity shareholding of Solisgen Energy private Limited in two tranches.",
-    "HEADLINE": "We wish to inform you that the Board of Directors of the Company at its meeting held today i.e., 27th November 2026 has accorded its approval to acquire 50% of the equity shareholding of ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rdb-infrastructure-and-power-ltd/rdbipl/533285/",
-    "SLONGNAME": "RDB Infrastructure And Power Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-27T19:03:27",
-    "DissemDT": "2026-11-27T19:03:27.357",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 377660,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 7,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "col_4": "",
-            "Details of events that need to be": "provided",
-            "col_6": "",
-            "Information of such event(s)": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "col_4": "Name of the target entity, details in brief such as size, turnover etc.;",
-            "Details of events that need to be": "",
-            "col_6": "",
-            "Information of such event(s)": "Name: Solisgen Energy Private Limited (“Target Company”) Authorized Capital: Rs. 1,00,000/- (Rupees One Lakhs only) divided into 10,000 (Ten Thousand) equity shares of Rs. 10/- (Rupees Ten only) each. Paid-up Capital: Rs. 1,00,000/- (Rupees One Lakhs only) divided into 10,000 (Ten Thousand) equity shares of Rs. 10/- (Rupees Ten only) each. Turnover as on 31st March 2026: Nil"
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "col_4": "Whether the acquisition would fall within related party transaction(s) and whether the promoter/ promoter group/ group companies have any interest in the entity being acquired? If yes, nature of interest and details thereof and whether the same is done at “arm’s length”;",
-            "Details of events that need to be": "",
-            "col_6": "",
-            "Information of such event(s)": "The transaction would not fall within related party transactions. Further, the promoters do not have any interest in the entity being acquired."
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "col_4": "Industry to which the entity being acquired belongs;",
-            "Details of events that need to be": "",
-            "col_6": "",
-            "Information of such event(s)": "Electric Power Generation"
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "col_4": "Objects and impact of acquisition (including but not limited to, disclosure of reasons for acquisition of target entity, if its business is outside the main line of business of the listed entity);",
-            "Details of events that need to be": "",
-            "col_6": "",
-            "Information of such event(s)": "The acquisition of Solisgen Energy Private Limited is aimed at business expansion, since it operates in the same line of business. Post-acquisition, it will become an associate of the Company."
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "col_4": "Brief details of any governmental or regulatory approvals required for the acquisition;",
-            "Details of events that need to be": "",
-            "col_6": "",
-            "Information of such event(s)": "Not Applicable"
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "col_4": "Indicative time period for completion of the acquisition;",
-            "Details of events that need to be": "",
-            "col_6": "",
-            "Information of such event(s)": "Subject to fulfilment of the terms and conditions as stipulated in the Share Purchase Agreement dated 27th November 2026: 1. Acquisition of initial 24.5% of the equity share capital of the Target Company within 30 days of the execution of Share Purchase Agreement dated 27th November 2026 or upon satisfaction"
-          }
-        ]
-      }
-    ]
   }
 ]
