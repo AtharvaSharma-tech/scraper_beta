@@ -1,5 +1,153 @@
 [
   {
+    "NEWSID": "fdd66e4f-7936-4ec4-aead-9fcfeca28f01",
+    "SCRIP_CD": 532523,
+    "XML_NAME": "ANN_532523_FDD66E4F-7936-4EC4-AEAD-9FCFECA28F01",
+    "NEWSSUB": "Biocon Ltd - 532523 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+    "DT_TM": "2026-11-27T08:26:12.113",
+    "NEWS_DT": "2026-11-27T08:26:12.113",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "de554134-059b-4e5c-9790-44f8fd012c14.pdf",
+    "MORE": "",
+    "HEADLINE": "Press Release",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/biocon-ltd/biocon/532523/",
+    "SLONGNAME": "Biocon Ltd",
+    "AGENDA_ID": 35,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-27T08:26:12",
+    "DissemDT": "2026-11-27T08:26:12.113",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 441300,
+    "SUBCATNAME": "Press Release / Media Release",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Nov 27 2026 – Regulatory approval:** Biocon’s biosimilar Pertuzumab (branded Hertuzo®) received approval from Brazil’s health regulator ANVISA for HER2‑positive breast cancer, adding to recent U.S. FDA and European Commission authorizations.  \n\n- **Strategic partnership:** The approval supports Biocon’s 10‑year Productive Development Partnership (PDP) with Brazilian biotech Bionovis and public‑sector firm Bahiafarma, enabling local manufacturing and supply of the biosimilar to Brazil’s public healthcare system.  \n\n*The announcement contains no specific financial figures, amounts, or monetary decisions.*",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "03c83bb8-31bb-4c5e-891b-064522ad0311",
+    "SCRIP_CD": 544390,
+    "XML_NAME": "ANN_544390_03C83BB8-31BB-4C5E-891B-064522AD0311",
+    "NEWSSUB": "Siemens Energy India Ltd - 544390 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+    "DT_TM": "2026-11-27T08:16:35.823",
+    "NEWS_DT": "2026-11-27T08:16:35.823",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "64668845-de12-4222-bf5a-18a2aa4145f2.pdf",
+    "MORE": "",
+    "HEADLINE": "Please refer the attached presentation for the Analyst call scheduled to be held today.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/siemens-energy-india-ltd/enrin/544390/",
+    "SLONGNAME": "Siemens Energy India Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-27T08:16:35",
+    "DissemDT": "2026-11-27T08:16:35.823",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3401361,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "03c83bb8-31bb-4c5e-891b-064522ad0311",
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": 14997260,
+    "DataInsDate": "2026-11-27T08:16:35.7",
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- An analyst/investor call was held on **27 November 2026**, with the presentation for the meeting made available on the company’s website (www.siemens-energy-india.com/analyst‑meet.html).  \n- Siemens Energy India Ltd reported that its **FY 2026 annual revenue crossed ₹100 billion**.",
+    "key_metrics": {
+      "revenue": "25",
+      "net_profit": "3.6",
+      "eps": "2026",
+      "currency_unit": "in Billions"
+    },
+    "financial_tables": [
+      {
+        "page": 31,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "col_1": "Particulars",
+            "Q4 FY26": "Q4 FY25",
+            "col_3": "Q4 FY26",
+            "col_4": "YoY",
+            "FY26": "FY25",
+            "col_6": "FY26",
+            "col_7": "YoY"
+          },
+          {
+            "col_1": "Order Backlog",
+            "Q4 FY26": "162.1",
+            "col_3": "203.6",
+            "col_4": "+25.6%",
+            "FY26": "162.1",
+            "col_6": "203.6",
+            "col_7": "+25.6%"
+          },
+          {
+            "col_1": "Order Inflow",
+            "Q4 FY26": "23.5",
+            "col_3": "45.1",
+            "col_4": "+92.1%",
+            "FY26": "131.1",
+            "col_6": "145.8",
+            "col_7": "+11.2%"
+          },
+          {
+            "col_1": "Revenue",
+            "Q4 FY26": "26.5",
+            "col_3": "34.5",
+            "col_4": "+30.4%",
+            "FY26": "78.3",
+            "col_6": "102.4",
+            "col_7": "+30.9%"
+          },
+          {
+            "col_1": "Profit from Operations",
+            "Q4 FY26": "4.5",
+            "col_3": "7.8",
+            "col_4": "+74.4%",
+            "FY26": "14.1",
+            "col_6": "22.2",
+            "col_7": "+57.3%"
+          },
+          {
+            "col_1": "Profit from Operations (% of Revenue)",
+            "Q4 FY26": "16.9%",
+            "col_3": "22.6%",
+            "col_4": "+570 bps",
+            "FY26": "18.0%",
+            "col_6": "21.7%",
+            "col_7": "+370 bps"
+          },
+          {
+            "col_1": "PAT",
+            "Q4 FY26": "3.6",
+            "col_3": "6.5",
+            "col_4": "+81.5%",
+            "FY26": "11.0",
+            "col_6": "17.8",
+            "col_7": "+61.9%"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "958f7bca-f458-49ad-ae51-32aa0c88c3ae",
     "SCRIP_CD": 543945,
     "XML_NAME": "ANN_543945_958F7BCA-F458-49AD-AE51-32AA0C88C3AE",
@@ -7939,327 +8087,5 @@
       "currency_unit": "₹ in Crores"
     },
     "financial_tables": []
-  },
-  {
-    "NEWSID": "2f9db001-5f91-4c9e-b747-b121d09a869c",
-    "SCRIP_CD": 544325,
-    "XML_NAME": "ANN_544325_2F9DB001-5F91-4C9E-B747-B121D09A869C",
-    "NEWSSUB": "ITC Hotels Ltd - 544325 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-    "DT_TM": "2026-11-26T18:56:02.013",
-    "NEWS_DT": "2026-11-26T18:56:02.013",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5593987f-6d14-47d9-8f42-b4e10af0e205.pdf",
-    "MORE": "",
-    "HEADLINE": "Participation in investor conference.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/itc-hotels-ltd/itchotels/544325/",
-    "SLONGNAME": "ITC Hotels Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-26T18:56:01",
-    "DissemDT": "2026-11-26T18:56:02.013",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 285754,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "2f9db001-5f91-4c9e-b747-b121d09a869c",
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": 14992954,
-    "DataInsDate": "2026-11-26T18:56:01.977",
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- ITC Hotels Ltd. will attend an Investor Conference organized by Ambit Capital Group on **2 December 2026** in Mumbai (one‑on‑one/physical meeting).  \n- The announcement is an intimation under **Regulation 30** of the SEBI LODR; **no financial figures, decisions or monetary details are disclosed** in the notice.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "daacac92-ae87-48b0-ad4e-49f9f406a875",
-    "SCRIP_CD": 538539,
-    "XML_NAME": "ANN_538539_DAACAC92-AE87-48B0-AD4E-49F9F406A875",
-    "NEWSSUB": "Annvrridhhi  Ventures Ltd - 538539 - Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-    "DT_TM": "2026-11-26T18:55:37.153",
-    "NEWS_DT": "2026-11-26T18:55:37.153",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4f03a83e-1721-43ad-ab2c-edd75911a6e6.pdf",
-    "MORE": "",
-    "HEADLINE": "Monitoring Agency Report",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/annvrridhhi--ventures-ltd/anvrdhi/538539/",
-    "SLONGNAME": "Annvrridhhi  Ventures Ltd",
-    "AGENDA_ID": 135,
-    "TotalPageCnt": 10,
-    "News_submission_dt": "2026-11-26T18:55:37",
-    "DissemDT": "2026-11-26T18:55:37.153",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1151697,
-    "SUBCATNAME": "Monitoring Agency Report",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 4,
-        "table_index": 1,
-        "row_count": 5,
-        "rows": [
-          {
-            "2": "2.1",
-            "Issue Details": "Issue Period",
-            "col_3": "November 17, 2025 to December 16, 2025"
-          },
-          {
-            "2": "2.2",
-            "Issue Details": "Type of issue",
-            "col_3": "Right Issue"
-          },
-          {
-            "2": "2.3",
-            "Issue Details": "Type of specified securities",
-            "col_3": "Equity Share"
-          },
-          {
-            "2": "2.4",
-            "Issue Details": "IPO Grading, if any",
-            "col_3": "Not Applicable"
-          },
-          {
-            "2": "2.5",
-            "Issue Details": "Issue size",
-            "col_3": "Proposed - INR 37.800 Cr. Actual – INR 29.622 Cr. Status of Partly Paid-up Rights Issue Shares and Call Money Receivables as on 30 September, 2026: No. of Particulars Shares Number of partly paid-up rights equity shares proposed to be issued at a face value of INR 10 3,78,00,000 per share as per the Letter of Offer dated November 1, 2025. 2,96,21,647 Number of shares allotted against receipt of application money of INR 2.50 per share. Number of shares on which the first call money of INR 3.50 per share was received, resulting in 1,27,77,039 conversion from INR 2.50 partly paid shares to INR 6.00 partly paid shares."
-          }
-        ]
-      },
-      {
-        "page": 6,
-        "table_index": 0,
-        "row_count": 11,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Reply from the issuer": "",
-            "col_4": "",
-            "Source of": "information/certifications",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Reply from the issuer": "",
-            "col_4": "",
-            "Source of": "considered by Monitoring",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Reply from the issuer": "",
-            "col_4": "",
-            "Source of": "Agency for preparation of",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars": "",
-            "Reply from the issuer": "",
-            "col_4": "",
-            "Source of": "report",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Particulars": "Whether all utilization is as per the disclosures in the Offer Document?",
-            "Reply from the issuer": "Yes",
-            "col_4": "Documents provided by the issuer, Bank Statement, Invoices and Statutory Auditors Certificate issued by the M/s. VRCA & Associates",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "Utilizations in the respective objects are as per disclosures by the company.",
-            "Comments of the Issuer’s Audit Committee": "The Audit Committee noted that there are no deviations, and the funds which have been utilized till date were utilized for the purpose stated in the Offer Document."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Whether shareholder approval has been obtained in case of material deviations from expenditures disclosed in the Offer Document?",
-            "Reply from the issuer": "Not Applicable",
-            "col_4": "",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "Material deviation is not observed.",
-            "Comments of the Issuer’s Audit Committee": "Not applicable"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Whether the means of finance for the disclosed objects of the issue has changed?",
-            "Reply from the issuer": "No",
-            "col_4": "",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "No change is observed.",
-            "Comments of the Issuer’s Audit Committee": "NIL"
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Is there any major deviation observed over the earlier monitoring agency reports?",
-            "Reply from the issuer": "Not Applicable",
-            "col_4": "",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "No deviation has been reported in any of the MA reports issued for the preceding reporting periods. Further, no other MA has been appointed to monitor the objects of this issue.",
-            "Comments of the Issuer’s Audit Committee": "Not applicable"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Whether all Government/statutory approvals related to the object(s) have been obtained?",
-            "Reply from the issuer": "Yes",
-            "col_4": "",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "Government / Statutory approval is not required for objects.",
-            "Comments of the Issuer’s Audit Committee": "Not applicable"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "Whether all arrangements pertaining to technical assistance/collaboration are in operation?",
-            "Reply from the issuer": "Yes",
-            "col_4": "",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "Arrangement pertaining to technical assistance / collaboration is not required with reference to the objects.",
-            "Comments of the Issuer’s Audit Committee": "Not applicable"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars": "Are there any favorable events improving the viability of these object(s)?",
-            "Reply from the issuer": "No",
-            "col_4": "",
-            "Source of": "",
-            "col_6": "",
-            "Comments of the Monitoring Agency": "No favourable event is observed that may improve the viability of these objects.",
-            "Comments of the Issuer’s Audit Committee": "NIL"
-          }
-        ]
-      },
-      {
-        "page": 8,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/certifications considered by Monitoring Agency for preparation of report": "",
-            "Original cost (as per the Offer Document) (INR Cr.)": "",
-            "Revised Cost (INR Cr.)": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": "",
-            "col_8": "Reason of Cost",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "Proposed financing",
-            "col_12": "",
-            "col_13": "Particulars of firm arrangement"
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "",
-            "Source of information/certifications considered by Monitoring Agency for preparation of report": "",
-            "Original cost (as per the Offer Document) (INR Cr.)": "",
-            "Revised Cost (INR Cr.)": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": "",
-            "col_8": "revision",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "option",
-            "col_12": "",
-            "col_13": ""
-          },
-          {
-            "Sr. No.": "1",
-            "Item Head": "Working Capital Requirement",
-            "Source of information/certifications considered by Monitoring Agency for preparation of report": "Documents provided by the issuer, Bank Statement, Invoices and Statutory Auditors Certificate issued by the M/s. VRCA & Associates.",
-            "Original cost (as per the Offer Document) (INR Cr.)": "32.130",
-            "Revised Cost (INR Cr.)": "-",
-            "Comments of the Monitoring Agency": "No change is observed.",
-            "Comments of the Issuer’s Audit Committee": "NA",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "NA",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "NA"
-          },
-          {
-            "Sr. No.": "2",
-            "Item Head": "General Corporate Purposes",
-            "Source of information/certifications considered by Monitoring Agency for preparation of report": "",
-            "Original cost (as per the Offer Document) (INR Cr.)": "4.790",
-            "Revised Cost (INR Cr.)": "-",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": "NA",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "NA",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "NA"
-          },
-          {
-            "Sr. No.": "3",
-            "Item Head": "Issue Related Expenses",
-            "Source of information/certifications considered by Monitoring Agency for preparation of report": "",
-            "Original cost (as per the Offer Document) (INR Cr.)": "0.880",
-            "Revised Cost (INR Cr.)": "-",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": "NA",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "NA",
-            "col_11": "",
-            "col_12": "",
-            "col_13": "NA"
-          },
-          {
-            "Sr. No.": "",
-            "Item Head": "Total",
-            "Source of information/certifications considered by Monitoring Agency for preparation of report": "",
-            "Original cost (as per the Offer Document) (INR Cr.)": "37.800",
-            "Revised Cost (INR Cr.)": "",
-            "Comments of the Monitoring Agency": "",
-            "Comments of the Issuer’s Audit Committee": "",
-            "col_8": "",
-            "col_9": "",
-            "col_10": "",
-            "col_11": "",
-            "col_12": "",
-            "col_13": ""
-          }
-        ]
-      }
-    ]
   }
 ]
