@@ -1,5 +1,1293 @@
 [
   {
+    "NEWSID": "9d7175c3-5b85-4d7f-a665-1e275250d174",
+    "SCRIP_CD": 544367,
+    "XML_NAME": "ANN_544367_9D7175C3-5B85-4D7F-A665-1E275250D174",
+    "NEWSSUB": "Quality Power Electrical Equipments Ltd - 544367 - Corrigendum To Intimation Dated November 27, 2026 - Qualified Institutions Placement (QIP)",
+    "DT_TM": "2026-11-28T00:43:08.057",
+    "NEWS_DT": "2026-11-28T00:43:08.057",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a55e9494-6f37-499b-91e8-3d29973bc1ab.pdf",
+    "MORE": "",
+    "HEADLINE": "Corrigendum to the Intimation dated November 27, 2026 -Qualified Institutions Placement (QIP) regarding correction in Meeting timings.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/",
+    "SLONGNAME": "Quality Power Electrical Equipments Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-28T00:43:08",
+    "DissemDT": "2026-11-28T00:43:08.057",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 925919,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Fund‑Raising Committee meeting for the Qualified Institutions Placement (QIP) actually started at **11:10 PM IST** and ended at **11:25 PM IST** (correcting the earlier notice that mistakenly listed 07:10 PM–07:25 PM IST).  \n- The QIP involves the **allotment of 3,907,431 equity shares** to eligible Qualified Institutional Buyers, and all other details in the original November 27, 2026 intimation remain unchanged.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "78d023ad-edf0-41c4-835d-94170701d33c",
+    "SCRIP_CD": 542774,
+    "XML_NAME": "ANN_542774_78D023AD-EDF0-41C4-835D-94170701D33C",
+    "NEWSSUB": "Mufin Green Finance Ltd - 542774 - Announcement under Regulation 30 (LODR)-Credit Rating",
+    "DT_TM": "2026-11-28T00:34:39.527",
+    "NEWS_DT": "2026-11-28T00:34:39.527",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "461c2a67-5c0a-43b9-8c8e-a6475faa6dc4.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of Credit Rating",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/mufin-green-finance-ltd/mufin/542774/",
+    "SLONGNAME": "Mufin Green Finance Ltd",
+    "AGENDA_ID": 46,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-28T00:34:39",
+    "DissemDT": "2026-11-28T00:34:39.527",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2474278,
+    "SUBCATNAME": "Credit Rating",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 5,
+        "table_index": 1,
+        "row_count": 12,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed Bonds/Debentures/Preference Shares (all securities)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11b",
+            "Instrument / activity Name": "Fixed Deposits raised by Banks (cid:2205)",
+            "Regulator of the instrument": "+"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "12": "13",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Inter Corporate Deposits/Loans extended by Corporates",
+            "MCA": "MCA"
+          },
+          {
+            "12": "14",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Borrowing Programme (cid:243)",
+            "MCA": "-"
+          },
+          {
+            "12": "15",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Issuer Ratings (cid:4202)",
+            "MCA": "-"
+          },
+          {
+            "12": "16",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)",
+            "MCA": "SEBI"
+          },
+          {
+            "12": "17",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
+            "MCA": "SEBI"
+          },
+          {
+            "12": "18",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Listed Security Receipts (cid:4204)(cid:3)",
+            "MCA": "RBI"
+          },
+          {
+            "12": "19",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Unlisted Security Receipts",
+            "MCA": "RBI"
+          },
+          {
+            "12": "20",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Independent Credit Evaluation (ICE)",
+            "MCA": "RBI"
+          },
+          {
+            "12": "21",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "MCA": "+"
+          },
+          {
+            "12": "22",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "MCA": "SEBI"
+          },
+          {
+            "12": "23",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "MCA": "MCA"
+          },
+          {
+            "12": "24",
+            "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "MCA": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      },
+      {
+        "page": 9,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed Bonds/Debentures/Preference Shares (all securities)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11b",
+            "Instrument / activity Name": "Fixed Deposits raised by Banks (cid:2205)",
+            "Regulator of the instrument": "+"
+          },
+          {
+            "Sr. No.": "12",
+            "Instrument / activity Name": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "13",
+            "Instrument / activity Name": "Inter Corporate Deposits/Loans extended by Corporates",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "14",
+            "Instrument / activity Name": "Borrowing Programme (cid:243)",
+            "Regulator of the instrument": "-"
+          },
+          {
+            "Sr. No.": "15",
+            "Instrument / activity Name": "Issuer Ratings (cid:4202)",
+            "Regulator of the instrument": "-"
+          },
+          {
+            "Sr. No.": "16",
+            "Instrument / activity Name": "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)",
+            "Regulator of the instrument": "SEBI"
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "17": "18",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Listed Security Receipts (cid:4204)(cid:3)",
+            "SEBI": "RBI"
+          },
+          {
+            "17": "19",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Unlisted Security Receipts",
+            "SEBI": "RBI"
+          },
+          {
+            "17": "20",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Independent Credit Evaluation (ICE)",
+            "SEBI": "RBI"
+          },
+          {
+            "17": "21",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "SEBI": "+"
+          },
+          {
+            "17": "22",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "SEBI": "SEBI"
+          },
+          {
+            "17": "23",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "SEBI": "MCA"
+          },
+          {
+            "17": "24",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "SEBI": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "table_index": 1,
+        "row_count": 17,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed Bonds/Debentures/Preference Shares (all securities)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11b",
+            "Instrument / activity Name": "Fixed Deposits raised by Banks (cid:2205)",
+            "Regulator of the instrument": "+"
+          },
+          {
+            "Sr. No.": "12",
+            "Instrument / activity Name": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "13",
+            "Instrument / activity Name": "Inter Corporate Deposits/Loans extended by Corporates",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "14",
+            "Instrument / activity Name": "Borrowing Programme (cid:243)",
+            "Regulator of the instrument": "-"
+          },
+          {
+            "Sr. No.": "15",
+            "Instrument / activity Name": "Issuer Ratings (cid:4202)",
+            "Regulator of the instrument": "-"
+          },
+          {
+            "Sr. No.": "16",
+            "Instrument / activity Name": "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)",
+            "Regulator of the instrument": "SEBI"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 7,
+        "rows": [
+          {
+            "17": "18",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Listed Security Receipts (cid:4204)(cid:3)",
+            "SEBI": "RBI"
+          },
+          {
+            "17": "19",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Unlisted Security Receipts",
+            "SEBI": "RBI"
+          },
+          {
+            "17": "20",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Independent Credit Evaluation (ICE)",
+            "SEBI": "RBI"
+          },
+          {
+            "17": "21",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "SEBI": "+"
+          },
+          {
+            "17": "22",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "SEBI": "SEBI"
+          },
+          {
+            "17": "23",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "SEBI": "MCA"
+          },
+          {
+            "17": "24",
+            "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "SEBI": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "table_index": 1,
+        "row_count": 11,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed Bonds/Debentures/Preference Shares (all securities)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "Regulator of the instrument": "RBI"
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "table_index": 0,
+        "row_count": 13,
+        "rows": [
+          {
+            "11b": "12",
+            "Fixed Deposits raised by Banks (cid:2205)": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "+": "MCA"
+          },
+          {
+            "11b": "13",
+            "Fixed Deposits raised by Banks (cid:2205)": "Inter Corporate Deposits/Loans extended by Corporates",
+            "+": "MCA"
+          },
+          {
+            "11b": "14",
+            "Fixed Deposits raised by Banks (cid:2205)": "Borrowing Programme (cid:243)",
+            "+": "-"
+          },
+          {
+            "11b": "15",
+            "Fixed Deposits raised by Banks (cid:2205)": "Issuer Ratings (cid:4202)",
+            "+": "-"
+          },
+          {
+            "11b": "16",
+            "Fixed Deposits raised by Banks (cid:2205)": "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)",
+            "+": "SEBI"
+          },
+          {
+            "11b": "17",
+            "Fixed Deposits raised by Banks (cid:2205)": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
+            "+": "SEBI"
+          },
+          {
+            "11b": "18",
+            "Fixed Deposits raised by Banks (cid:2205)": "Listed Security Receipts (cid:4204)(cid:3)",
+            "+": "RBI"
+          },
+          {
+            "11b": "19",
+            "Fixed Deposits raised by Banks (cid:2205)": "Unlisted Security Receipts",
+            "+": "RBI"
+          },
+          {
+            "11b": "20",
+            "Fixed Deposits raised by Banks (cid:2205)": "Independent Credit Evaluation (ICE)",
+            "+": "RBI"
+          },
+          {
+            "11b": "21",
+            "Fixed Deposits raised by Banks (cid:2205)": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "+": "+"
+          },
+          {
+            "11b": "22",
+            "Fixed Deposits raised by Banks (cid:2205)": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "+": "SEBI"
+          },
+          {
+            "11b": "23",
+            "Fixed Deposits raised by Banks (cid:2205)": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "+": "MCA"
+          },
+          {
+            "11b": "24",
+            "Fixed Deposits raised by Banks (cid:2205)": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "+": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "table_index": 1,
+        "row_count": 14,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed Bonds/Debentures/Preference Shares (all securities)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11b",
+            "Instrument / activity Name": "Fixed Deposits raised by Banks (cid:2205)",
+            "Regulator of the instrument": "+"
+          },
+          {
+            "Sr. No.": "12",
+            "Instrument / activity Name": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "13",
+            "Instrument / activity Name": "Inter Corporate Deposits/Loans extended by Corporates",
+            "Regulator of the instrument": "MCA"
+          }
+        ]
+      },
+      {
+        "page": 20,
+        "table_index": 0,
+        "row_count": 10,
+        "rows": [
+          {
+            "14": "15",
+            "Borrowing Programme (cid:243)": "Issuer Ratings (cid:4202)",
+            "-": "-"
+          },
+          {
+            "14": "16",
+            "Borrowing Programme (cid:243)": "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)",
+            "-": "SEBI"
+          },
+          {
+            "14": "17",
+            "Borrowing Programme (cid:243)": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
+            "-": "SEBI"
+          },
+          {
+            "14": "18",
+            "Borrowing Programme (cid:243)": "Listed Security Receipts (cid:4204)(cid:3)",
+            "-": "RBI"
+          },
+          {
+            "14": "19",
+            "Borrowing Programme (cid:243)": "Unlisted Security Receipts",
+            "-": "RBI"
+          },
+          {
+            "14": "20",
+            "Borrowing Programme (cid:243)": "Independent Credit Evaluation (ICE)",
+            "-": "RBI"
+          },
+          {
+            "14": "21",
+            "Borrowing Programme (cid:243)": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "-": "+"
+          },
+          {
+            "14": "22",
+            "Borrowing Programme (cid:243)": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "-": "SEBI"
+          },
+          {
+            "14": "23",
+            "Borrowing Programme (cid:243)": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "-": "MCA"
+          },
+          {
+            "14": "24",
+            "Borrowing Programme (cid:243)": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "-": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      },
+      {
+        "page": 24,
+        "table_index": 0,
+        "row_count": 23,
+        "rows": [
+          {
+            "2": "3",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "MCA": "RBI"
+          },
+          {
+            "2": "4",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "MCA": "SEBI"
+          },
+          {
+            "2": "5",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "MCA": "RBI"
+          },
+          {
+            "2": "6",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "MCA": "RBI"
+          },
+          {
+            "2": "7",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "MCA": "RBI"
+          },
+          {
+            "2": "8",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "MCA": "RBI"
+          },
+          {
+            "2": "9",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "External Commercial Borrowings and other similar borrowings",
+            "MCA": "RBI"
+          },
+          {
+            "2": "10",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Certificates of Deposit",
+            "MCA": "RBI"
+          },
+          {
+            "2": "11a",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "MCA": "RBI"
+          },
+          {
+            "2": "11b",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Fixed Deposits raised by Banks (cid:2205)",
+            "MCA": "+"
+          },
+          {
+            "2": "12",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "MCA": "MCA"
+          },
+          {
+            "2": "13",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Inter Corporate Deposits/Loans extended by Corporates",
+            "MCA": "MCA"
+          },
+          {
+            "2": "14",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Borrowing Programme (cid:243)",
+            "MCA": "-"
+          },
+          {
+            "2": "15",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Issuer Ratings (cid:4202)",
+            "MCA": "-"
+          },
+          {
+            "2": "16",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)",
+            "MCA": "SEBI"
+          },
+          {
+            "2": "17",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
+            "MCA": "SEBI"
+          },
+          {
+            "2": "18",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Listed Security Receipts (cid:4204)(cid:3)",
+            "MCA": "RBI"
+          },
+          {
+            "2": "19",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted Security Receipts",
+            "MCA": "RBI"
+          },
+          {
+            "2": "20",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Independent Credit Evaluation (ICE)",
+            "MCA": "RBI"
+          },
+          {
+            "2": "21",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "MCA": "+"
+          },
+          {
+            "2": "22",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "MCA": "SEBI"
+          },
+          {
+            "2": "23",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "MCA": "MCA"
+          },
+          {
+            "2": "24",
+            "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "MCA": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      },
+      {
+        "page": 27,
+        "table_index": 1,
+        "row_count": 16,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Instrument / activity Name": "Listed/Proposed to be listed Bonds/Debentures/Preference Shares (all securities)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "2",
+            "Instrument / activity Name": "Unlisted/Proposed to be unlisted Bonds/Debentures/ Preference share (all securities)",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "3",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)(cid:3)(cid:4204)(cid:3)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "4",
+            "Instrument / activity Name": "Listed PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "SEBI"
+          },
+          {
+            "Sr. No.": "5",
+            "Instrument / activity Name": "Unlisted PTCs / Securitisation Notes (originated by entities regulated by RBI) (cid:241)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "6",
+            "Instrument / activity Name": "Listed Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "7",
+            "Instrument / activity Name": "Unlisted Commercial Paper and NCDs with original maturity less than 1 year",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "8",
+            "Instrument / activity Name": "Loan Facilities (Fund/Non-Fund Based) from Bank / NBFCs/ NHB/ FIs (cid:242)",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "9",
+            "Instrument / activity Name": "External Commercial Borrowings and other similar borrowings",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "10",
+            "Instrument / activity Name": "Certificates of Deposit",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11a",
+            "Instrument / activity Name": "Fixed Deposits raised by NBFCs, HFCs, FIs",
+            "Regulator of the instrument": "RBI"
+          },
+          {
+            "Sr. No.": "11b",
+            "Instrument / activity Name": "Fixed Deposits raised by Banks (cid:2205)",
+            "Regulator of the instrument": "+"
+          },
+          {
+            "Sr. No.": "12",
+            "Instrument / activity Name": "Fixed Deposits raised by corporates other than NBFCs, Banks, HFCs, FIs",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "13",
+            "Instrument / activity Name": "Inter Corporate Deposits/Loans extended by Corporates",
+            "Regulator of the instrument": "MCA"
+          },
+          {
+            "Sr. No.": "14",
+            "Instrument / activity Name": "Borrowing Programme (cid:243)",
+            "Regulator of the instrument": "-"
+          },
+          {
+            "Sr. No.": "15",
+            "Instrument / activity Name": "Issuer Ratings (cid:4202)",
+            "Regulator of the instrument": "-"
+          }
+        ]
+      },
+      {
+        "page": 28,
+        "table_index": 0,
+        "row_count": 8,
+        "rows": [
+          {
+            "16": "17",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Credit quality ratings (CQRs) for Mutual Fund Schemes and Schemes of AIFs",
+            "SEBI": "SEBI"
+          },
+          {
+            "16": "18",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Listed Security Receipts (cid:4204)(cid:3)",
+            "SEBI": "RBI"
+          },
+          {
+            "16": "19",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Unlisted Security Receipts",
+            "SEBI": "RBI"
+          },
+          {
+            "16": "20",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Independent Credit Evaluation (ICE)",
+            "SEBI": "RBI"
+          },
+          {
+            "16": "21",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Expected Loss Ratings (For Loan Facilities (Fund/Non-Fund based) from Bank/NBFCs/NHB/Fis) (cid:2205)",
+            "SEBI": "+"
+          },
+          {
+            "16": "22",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Expected Loss Ratings (Listed / Proposed to be listed Bonds / Debentures / Preference Shares (all securities))",
+            "SEBI": "SEBI"
+          },
+          {
+            "16": "23",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Expected Loss Ratings (Unlisted / Proposed to be unlisted Bonds/ Debentures / Preference Shares (all securities))",
+            "SEBI": "MCA"
+          },
+          {
+            "16": "24",
+            "Credit Ratings for Capital Protection Oriented Schemes (by Mutal Funds and AIFs)": "Unlisted PTCs / Securitisation Notes (originated by entities not regulated by RBI) (cid:239)",
+            "SEBI": "Investor-side Regulator such as IRDAI, PFRDA (cid:4203)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "6b5f5d49-a3db-4541-b9d2-f694ef766e9f",
+    "SCRIP_CD": 532900,
+    "XML_NAME": "ANN_532900_6B5F5D49-A3DB-4541-B9D2-F694EF766E9F",
+    "NEWSSUB": "Paisalo Digital Ltd - 532900 - Announcement under Regulation 30 (LODR)-Meeting Updates",
+    "DT_TM": "2026-11-28T00:31:53.7",
+    "NEWS_DT": "2026-11-28T00:31:53.7",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "7d051db2-1e66-40de-9d00-556eaf164103.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation in relation to public issuance of non-convertible debentures (Tranche II)",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/paisalo-digital-ltd/paisalo/532900/",
+    "SLONGNAME": "Paisalo Digital Ltd",
+    "AGENDA_ID": 133,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-28T00:31:53",
+    "DissemDT": "2026-11-28T00:31:53.7",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1613408,
+    "SUBCATNAME": "Meeting Updates",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "1000",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 12,
+        "rows": [
+          {
+            "col_1": "Frequency of Interest Payment",
+            "Series": "",
+            "col_3": "",
+            "col_4": "Monthly",
+            "I": "",
+            "col_6": "",
+            "col_7": "Monthly",
+            "II": "",
+            "col_9": "",
+            "col_10": "Annual",
+            "III": "",
+            "col_12": "",
+            "col_13": "Monthly",
+            "IV": "",
+            "col_15": "",
+            "col_16": "Annual",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Minimum Application",
+            "Series": "",
+            "col_3": "",
+            "col_4": "₹10,000 (10 NCDs) and in multiple of ₹1,000 (1 NCD) thereafter.",
+            "I": "",
+            "col_6": "",
+            "col_7": "",
+            "II": "",
+            "col_9": "",
+            "col_10": "",
+            "III": "",
+            "col_12": "",
+            "col_13": "",
+            "IV": "",
+            "col_15": "",
+            "col_16": "",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Face Value/ Issue Price of NCDs (₹/ NCD)",
+            "Series": "",
+            "col_3": "",
+            "col_4": "₹ 1,000",
+            "I": "",
+            "col_6": "",
+            "col_7": "",
+            "II": "",
+            "col_9": "",
+            "col_10": "",
+            "III": "",
+            "col_12": "",
+            "col_13": "",
+            "IV": "",
+            "col_15": "",
+            "col_16": "",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "In Multiples of thereafter (₹)",
+            "Series": "",
+            "col_3": "",
+            "col_4": "₹ 1,000 (1 NCD)",
+            "I": "",
+            "col_6": "",
+            "col_7": "",
+            "II": "",
+            "col_9": "",
+            "col_10": "",
+            "III": "",
+            "col_12": "",
+            "col_13": "",
+            "IV": "",
+            "col_15": "",
+            "col_16": "",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Tenor",
+            "Series": "",
+            "col_3": "",
+            "col_4": "30 months",
+            "I": "",
+            "col_6": "",
+            "col_7": "36 months",
+            "II": "",
+            "col_9": "",
+            "col_10": "36 months",
+            "III": "",
+            "col_12": "",
+            "col_13": "60 months",
+            "IV": "",
+            "col_15": "",
+            "col_16": "60 months",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Coupon (% per annum) for NCD Holders in Category I, II, III & IV",
+            "Series": "",
+            "col_3": "",
+            "col_4": "9.25%",
+            "I": "",
+            "col_6": "",
+            "col_7": "9.50%",
+            "II": "",
+            "col_9": "",
+            "col_10": "9.92%",
+            "III": "",
+            "col_12": "",
+            "col_13": "10.00%",
+            "IV": "",
+            "col_15": "",
+            "col_16": "10.47%",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Effective Yield (per annum) for NCD Holders in Category I, II, III & IV",
+            "Series": "",
+            "col_3": "",
+            "col_4": "9.64%",
+            "I": "",
+            "col_6": "",
+            "col_7": "9.92%",
+            "II": "",
+            "col_9": "",
+            "col_10": "9.91%",
+            "III": "",
+            "col_12": "",
+            "col_13": "10.46%",
+            "IV": "",
+            "col_15": "",
+            "col_16": "10.46%",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Mode of Interest Payment",
+            "Series": "",
+            "col_3": "",
+            "col_4": "Through various modes available",
+            "I": "",
+            "col_6": "",
+            "col_7": "",
+            "II": "",
+            "col_9": "",
+            "col_10": "",
+            "III": "",
+            "col_12": "",
+            "col_13": "",
+            "IV": "",
+            "col_15": "",
+            "col_16": "",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Amount (₹ / NCD) on Maturity for NCD Holders in Category I, II, III & IV",
+            "Series": "",
+            "col_3": "",
+            "col_4": "₹ 1,000",
+            "I": "",
+            "col_6": "",
+            "col_7": "₹ 1,000",
+            "II": "",
+            "col_9": "",
+            "col_10": "₹ 1,000",
+            "III": "",
+            "col_12": "",
+            "col_13": "₹ 1,000",
+            "IV": "",
+            "col_15": "",
+            "col_16": "₹ 1,000",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Maturity / Redemption Date (Months from the Deemed Date of Allotment)",
+            "Series": "",
+            "col_3": "",
+            "col_4": "30 months",
+            "I": "",
+            "col_6": "",
+            "col_7": "36 months",
+            "II": "",
+            "col_9": "",
+            "col_10": "36 months",
+            "III": "",
+            "col_12": "",
+            "col_13": "60 months",
+            "IV": "",
+            "col_15": "",
+            "col_16": "60 months",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Put and Call Option",
+            "Series": "",
+            "col_3": "",
+            "col_4": "Not Applicable",
+            "I": "",
+            "col_6": "",
+            "col_7": "",
+            "II": "",
+            "col_9": "",
+            "col_10": "",
+            "III": "",
+            "col_12": "",
+            "col_13": "",
+            "IV": "",
+            "col_15": "",
+            "col_16": "",
+            "V*": "",
+            "col_18": ""
+          },
+          {
+            "col_1": "Nature of indebtedness",
+            "Series": "",
+            "col_3": "",
+            "col_4": "Secured",
+            "I": "",
+            "col_6": "",
+            "col_7": "",
+            "II": "",
+            "col_9": "",
+            "col_10": "",
+            "III": "",
+            "col_12": "",
+            "col_13": "",
+            "IV": "",
+            "col_15": "",
+            "col_16": "",
+            "V*": "",
+            "col_18": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "c97e821a-84ad-41fd-ad83-eb6756df3e8c",
     "SCRIP_CD": 541956,
     "XML_NAME": "ANN_541956_C97E821A-84AD-41FD-AD83-EB6756DF3E8C",
@@ -19740,116 +21028,6 @@
     "DataInsDate": null,
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "35f0bc12-02e3-41e9-92e8-57afe99c082a",
-    "SCRIP_CD": 542216,
-    "XML_NAME": "ANN_542216_35F0BC12-02E3-41E9-92E8-57AFE99C082A",
-    "NEWSSUB": "Dalmia Bharat Ltd - 542216 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('SEBI Listing Regulations')",
-    "DT_TM": "2026-11-27T19:06:41.83",
-    "NEWS_DT": "2026-11-27T19:06:41.83",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "d977a0dd-ae6c-4812-8f66-f3ebd8d14211.pdf",
-    "MORE": "",
-    "HEADLINE": "Company has today i.e November 27, 2026, sent an intimation through electronic mode regarding its buyback offer through open market to its shareholders.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dalmia-bharat-ltd/dalbharat/542216/",
-    "SLONGNAME": "Dalmia Bharat Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-27T19:06:41",
-    "DissemDT": "2026-11-27T19:06:41.83",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 588660,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "caba6429-82b1-4342-8a17-c04a6d54a359",
-    "SCRIP_CD": 531885,
-    "XML_NAME": "ANN_531885_CABA6429-82B1-4342-8A17-C04A6D54A359",
-    "NEWSSUB": "SVA India Ltd - 531885 - Board Meeting Intimation for  Intimation For Postponement And Rescheduling Of Board Meeting On Wednesday, December 02Nd, 2026",
-    "DT_TM": "2026-11-27T19:04:34.183",
-    "NEWS_DT": "2026-11-27T19:04:34.183",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bf7160b9-41ec-4064-9118-b92c29c6ed12.pdf",
-    "MORE": "SVA India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/12/2026 ,inter alia, to consider and approve The Unaudited Financial Results (Standalone and Consolidated) for the Second quarter and half year ended as on 30th September 2026 along with Limited Review Report;",
-    "HEADLINE": "SVA India Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/12/2026 ,inter alia, to consider and approve The Unaudited Financial Results (Standalone ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sva-india-ltd/svaindia/531885/",
-    "SLONGNAME": "SVA India Ltd",
-    "AGENDA_ID": 101,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-27T19:04:32",
-    "DissemDT": "2026-11-27T19:04:34.183",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 718422,
-    "SUBCATNAME": "Board Meeting Rescheduled",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ad33f1ee-7788-441a-9abb-8b97841fb958",
-    "SCRIP_CD": 532705,
-    "XML_NAME": "ANN_532705_AD33F1EE-7788-441A-9ABB-8B97841FB958",
-    "NEWSSUB": "Jagran Prakashan Ltd - 532705 - Announcement Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015.",
-    "DT_TM": "2026-11-27T19:03:53.377",
-    "NEWS_DT": "2026-11-27T19:03:53.377",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "8a483151-8c11-49cd-861a-3a69627a7078.pdf",
-    "MORE": "",
-    "HEADLINE": "Disclosure made by the Company Under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/jagran-prakashan-ltd/jagran/532705/",
-    "SLONGNAME": "Jagran Prakashan Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-27T19:03:53",
-    "DissemDT": "2026-11-27T19:03:53.377",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 617588,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
