@@ -1,5 +1,1925 @@
 [
   {
+    "NEWSID": "75386cc4-5ae4-4b3d-9fdc-15a633d4409c",
+    "SCRIP_CD": 538351,
+    "XML_NAME": "ANN_538351_75386CC4-5AE4-4B3D-9FDC-15A633D4409C",
+    "NEWSSUB": "A.F. Enterprises Ltd - 538351 - Financial Results For The December 2025 Quarter",
+    "DT_TM": "2026-11-28T19:30:09.15",
+    "NEWS_DT": "2026-11-28T19:30:09.15",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "a033f63e-04ab-4f80-9b78-204711698f72.pdf",
+    "MORE": "",
+    "HEADLINE": "Financial Results for December 2025 quarter",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/af-enterprises-ltd/afel/538351/",
+    "SLONGNAME": "A.F. Enterprises Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:30:09",
+    "DissemDT": "2026-11-28T19:30:09.15",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2708247,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "279",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "72449b9e-c5b9-46f6-b6a6-c5e5e299c3d1",
+    "SCRIP_CD": 524622,
+    "XML_NAME": "ANN_524622_72449B9E-C5B9-46F6-B6A6-C5E5E299C3D1",
+    "NEWSSUB": "iStreet Network Ltd - 524622 - Announcement under Regulation 30 (LODR)-Allotment",
+    "DT_TM": "2026-11-28T19:25:26.2",
+    "NEWS_DT": "2026-11-28T19:25:26.2",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ca5e08c0-a2cb-43d8-9be3-a07cbcbb6464.pdf",
+    "MORE": "",
+    "HEADLINE": "Allotment of Equity Shares pursuant to conversion of Warrants.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/istreet-network-ltd/istrnetwk/524622/",
+    "SLONGNAME": "iStreet Network Ltd",
+    "AGENDA_ID": 5,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:25:26",
+    "DissemDT": "2026-11-28T19:25:26.2",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 191883,
+    "SUBCATNAME": "Allotment of Equity Shares",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "dividend": "",
+      "face_value": "4",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 2,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Name of Warrant holder(s)": "Vaibhav Shrivastava",
+            "Category": "Public",
+            "No. of warrants held": "3,33,333",
+            "No. warrants applied for conversion": "3,33,333",
+            "No. of Equity shares allotted": "3,33,333",
+            "Amount Received being 75% of the issue price per warrant (in ₹)": "14,99,998"
+          },
+          {
+            "Sr. No": "Total",
+            "Name of Warrant holder(s)": "",
+            "Category": "",
+            "No. of warrants held": "3,33,333",
+            "No. warrants applied for conversion": "3,33,333",
+            "No. of Equity shares allotted": "3,33,333",
+            "Amount Received being 75% of the issue price per warrant (in ₹)": "14,99,998"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Sr. No": "1",
+            "Particulars": "Type of securities issued",
+            "Description": "Equity Shares pursuant to conversion of warrants."
+          },
+          {
+            "Sr. No": "2",
+            "Particulars": "Type of issuance",
+            "Description": "Preferential allotment, on a private placement basis"
+          },
+          {
+            "Sr. No": "3",
+            "Particulars": "Total number of securities issued or the total amount for which the securities issued (approximately)",
+            "Description": "Issue of 3,33,333 Equity Shares of face value of ₹ 4 each upon conversion of equal number of Warrants at an issue price of ₹ 6 each (Rupees Six only) upon receipt of balance amount at the rate of ₹ 4.5 (Rupees Four and Fifty Paisa Only) per warrant (being 75% of the issue price per warrant) aggregating to ₹ 14,99,998 (Rupees Fourteen Lakhs Ninety Nine Thousand Nine Hundred Ninety Eight Only)"
+          },
+          {
+            "Sr. No": "Additional information in case of preferential issue:",
+            "Particulars": "",
+            "Description": ""
+          },
+          {
+            "Sr. No": "4",
+            "Particulars": "Name of the Allottee",
+            "Description": "As per Annexure A"
+          },
+          {
+            "Sr. No": "5",
+            "Particulars": "Post allotment of securities Outcome of the subscription, Issue price / allotted price (in case of convertibles), Number of investors",
+            "Description": "Post the allotment of afore-mentioned equity shares, the paid-up equity share capital of the Company has increased from ₹ 29,25,33,344 (Twenty-Nine Crore Twenty-Five Lacs Thirty-Three Thousand Three Hundred and Forty-Four Only) to ₹ 29,38,66,676 (Twenty-Nine Crore Thirty-Eight Lakhs Sixty Six Thousand Six Hundred Seventy Six Only) Warrants had been allotted on November 28, 2025 carrying a right to subscribe to 1 Equity Share per warrant on receipt of amount at the rate of ₹ 1.5 per warrant (being 25% of the issue price per warrant). Now, 3,33,333 Equity Shares have been allotted on receipt of balance amount at the rate of ₹ 4.5 per warrant (being 75% of the issue price per warrant) 1 (One)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "a45b11cc-a87f-4d96-b908-6c261810769e",
+    "SCRIP_CD": 538351,
+    "XML_NAME": "ANN_538351_A45B11CC-A87F-4D96-B908-6C261810769E",
+    "NEWSSUB": "A.F. Enterprises Ltd - 538351 - Financila Results For September 2025 Quarter",
+    "DT_TM": "2026-11-28T19:23:34.06",
+    "NEWS_DT": "2026-11-28T19:23:34.06",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "d1bc2b6a-c302-4707-a2e4-8318e6d5dccd.pdf",
+    "MORE": "",
+    "HEADLINE": "Financial Results for September 2025 quarter",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/af-enterprises-ltd/afel/538351/",
+    "SLONGNAME": "A.F. Enterprises Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:23:34",
+    "DissemDT": "2026-11-28T19:23:34.06",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3921505,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "17.06",
+      "total_assets": "10625.20",
+      "total_debt": "326.16",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "66756f9a-2360-4103-a4c2-2f6afd03b488",
+    "SCRIP_CD": 543670,
+    "XML_NAME": "ANN_543670_66756F9A-2360-4103-A4C2-2F6AFD03B488",
+    "NEWSSUB": "Vinny Overseas Ltd - 543670 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements), 2015",
+    "DT_TM": "2026-11-28T19:20:00.55",
+    "NEWS_DT": "2026-11-28T19:20:00.55",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e99bf316-c240-453c-91c0-64bc80b386fa.pdf",
+    "MORE": "",
+    "HEADLINE": "Vinny overseas has made disclosure regarding Reg 30 part A Para A of SEBI (Listing Regulations), 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/vinny-overseas-ltd/vinny/543670/",
+    "SLONGNAME": "Vinny Overseas Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:20:00",
+    "DissemDT": "2026-11-28T19:20:00.55",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 571675,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "c0e08eaf-8a2f-435e-8bb6-2f1ab6d090fa",
+    "SCRIP_CD": 542924,
+    "XML_NAME": "ANN_542924_C0E08EAF-8A2F-435E-8BB6-2F1AB6D090FA",
+    "NEWSSUB": "Janus Corporation Ltd - 542924 - Results- Standalone And Consolidated For Half Year Ended 31-03-2025",
+    "DT_TM": "2026-11-28T19:18:19.303",
+    "NEWS_DT": "2026-11-28T19:18:19.303",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f0c66327-2991-4f32-934f-f5410db10713.pdf",
+    "MORE": "",
+    "HEADLINE": "UnAudited Standalone and Consolidated Result nfor the half year ended 31 March, 2025",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/janus-corporation-ltd/januscorp/542924/",
+    "SLONGNAME": "Janus Corporation Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:18:19",
+    "DissemDT": "2026-11-28T19:18:19.303",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 740623,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "1",
+      "total_assets": "3260.79",
+      "total_equity": "3260.79",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 35,
+        "rows": [
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "",
+            "col_3": "(Rs. In Lakhs)",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "Sr. No.",
+            "col_2": "Particulars",
+            "col_3": "Half Year Ended",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Year Ended",
+            "col_7": "Year Ended"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "",
+            "col_3": "31.03.2025",
+            "col_4": "30.09.2024",
+            "col_5": "31.03.2024",
+            "col_6": "31.03.2025",
+            "col_7": "31.03.2024"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Unaudited",
+            "col_6": "Audited",
+            "col_7": "Audited"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "1",
+            "col_2": "Income from Operations",
+            "col_3": "-",
+            "col_4": "1 ,249.90",
+            "col_5": "2 ,986.06",
+            "col_6": "1 ,249.90",
+            "col_7": "3 ,890.21"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "2",
+            "col_2": "Other income",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "3",
+            "col_2": "Total Revenue",
+            "col_3": "-",
+            "col_4": "1 ,249.90",
+            "col_5": "2 ,986.06",
+            "col_6": "1 ,249.90",
+            "col_7": "3 ,890.21"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Expenditure",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(a) Cost of materials consumed",
+            "col_3": "-",
+            "col_4": "1 ,185.07",
+            "col_5": "2 ,898.20",
+            "col_6": "1 ,185.07",
+            "col_7": "3 ,743.90"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(b) Purchase of Stock in Trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(c) Changes in inventories of Finished goods, Work-in- progress & Stock in Trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(d) Finance cost",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(e) Employee benefit Expenses",
+            "col_3": "2 .91",
+            "col_4": "8 .42",
+            "col_5": "2 1.99",
+            "col_6": "1 1.33",
+            "col_7": "3 4.55"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(f) Depreciation & amortisation Expenses",
+            "col_3": "9 .47",
+            "col_4": "1 0.42",
+            "col_5": "1 1.47",
+            "col_6": "1 9.89",
+            "col_7": "1 5.90"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(g) Bad Debts",
+            "col_3": "",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(h) Provision for bad and doubtful debts",
+            "col_3": "",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(i) Other Expenditure",
+            "col_3": "12.69",
+            "col_4": "16.17",
+            "col_5": "26.94",
+            "col_6": "28.86",
+            "col_7": "43.91"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "4",
+            "col_2": "Total Expenses",
+            "col_3": "25.07",
+            "col_4": "1,220.08",
+            "col_5": "2,958.60",
+            "col_6": "1,245.15",
+            "col_7": "3,838.26"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "5",
+            "col_2": "Profit/(Loss) before Tax and Exceptional items",
+            "col_3": "( 25.07)",
+            "col_4": "2 9.82",
+            "col_5": "2 7.46",
+            "col_6": "4 .75",
+            "col_7": "5 1.95"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "6",
+            "col_2": "Exceptional Items",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "7",
+            "col_2": "Profit/(Loss) from ordinary activities before tax",
+            "col_3": "(25.07)",
+            "col_4": "29.82",
+            "col_5": "27.46",
+            "col_6": "4.75",
+            "col_7": "51.95"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Tax Expenses",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(a) Current Tax",
+            "col_3": "( 3.87)",
+            "col_4": "6 .51",
+            "col_5": "5 .21",
+            "col_6": "2 .63",
+            "col_7": "6 .62"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(b) Income Tax for earlier years",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(c) Deferred Tax",
+            "col_3": "1 1.77",
+            "col_4": "1 .25",
+            "col_5": "1 .93",
+            "col_6": "1 3.02",
+            "col_7": "8 .34"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "8",
+            "col_2": "Net Profit/(Loss) for the period After Tax",
+            "col_3": "(32.97)",
+            "col_4": "22.06",
+            "col_5": "20.32",
+            "col_6": "(10.91)",
+            "col_7": "36.99"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "9",
+            "col_2": "Other Comprehensive Income/(Loss)",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Fair value changes of the equity instruments through OCI",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Income tax relating to items that will not be re-classified to profit or loss",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Items that will be re-classified Profit or loss",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Income tax relating to items that will be re-classified to profit or loss",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "10",
+            "col_2": "Total Comprehensive Income/(Loss)",
+            "col_3": "(32.97)",
+            "col_4": "22.06",
+            "col_5": "20.32",
+            "col_6": "(10.91)",
+            "col_7": "36.99"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "11",
+            "col_2": "Earning Per share (EPS) *Not annualised",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(a) Basic",
+            "col_3": "( 0.13)",
+            "col_4": "0 .16",
+            "col_5": "0 .15",
+            "col_6": "( 0.04)",
+            "col_7": "0 .28"
+          },
+          {
+            "STANDALONE AUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(b) Diluted",
+            "col_3": "(0.13)",
+            "col_4": "0.16",
+            "col_5": "0.15",
+            "col_6": "(0.04)",
+            "col_7": "0.28"
+          }
+        ]
+      },
+      {
+        "page": 7,
+        "table_index": 0,
+        "row_count": 41,
+        "rows": [
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "Sr. No.",
+            "col_2": "Particulars",
+            "col_3": "As at 31st March 2025",
+            "col_4": "As at 31st March 2024"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "The",
+            "col_2": "",
+            "col_3": "Audited",
+            "col_4": "Audited"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "ASSETS",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "1)",
+            "col_2": "Non Current Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Tangible assets",
+            "col_3": "3.40",
+            "col_4": "4.22"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Intangible assets",
+            "col_3": "91.02",
+            "col_4": "110.09"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Deferred Tax Asset",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Good will",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Non-current investments",
+            "col_3": "1,152.00",
+            "col_4": "-"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Long-term loans and advances",
+            "col_3": "143.05",
+            "col_4": "597.22"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Non Current Assets",
+            "col_3": "1,389.47",
+            "col_4": "711.54"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "2)",
+            "col_2": "Current Assets",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Financial Assets",
+            "col_3": "8.46",
+            "col_4": "8.46"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Investment",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Trade receivable",
+            "col_3": "479.34",
+            "col_4": "1,037.04"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Cash and Cash Equivalents",
+            "col_3": "14.22",
+            "col_4": "22.02"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Short-term loans and advances",
+            "col_3": "898.14",
+            "col_4": "212.47"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Other current assets",
+            "col_3": "471.14",
+            "col_4": "74.64"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Current Assets",
+            "col_3": "1,871.32",
+            "col_4": "1,354.63"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Assets",
+            "col_3": "3,260.79",
+            "col_4": "2,066.17"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "1)",
+            "col_2": "EQUITY AND LIABILITIES",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Shareholders' Funds",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Equity Share Capital",
+            "col_3": "2,491.10",
+            "col_4": "1,339.10"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Reserves and surplus",
+            "col_3": "173.83",
+            "col_4": "184.74"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Minority interest",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Shareholders' Funds",
+            "col_3": "2,664.93",
+            "col_4": "1,523.84"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "2)",
+            "col_2": "Non-current liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Long-term borrowings",
+            "col_3": "-",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Deferred tax liabilities (Net)",
+            "col_3": "2 2.81",
+            "col_4": "9.80"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Other long-term liabilities",
+            "col_3": "4 50.40",
+            "col_4": "1.51"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Long-term Provisions",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Non-current liabilities",
+            "col_3": "473.22",
+            "col_4": "11.31"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "3)",
+            "col_2": "Current Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Financial Liabilities",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Borrowings",
+            "col_3": "",
+            "col_4": ""
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Trade Payable",
+            "col_3": "120.00",
+            "col_4": "494.78"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Other current liabilities",
+            "col_3": "-",
+            "col_4": "29.63"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Short-term provisions",
+            "col_3": "2.63",
+            "col_4": "6.62"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Current Liabilities",
+            "col_3": "122.64",
+            "col_4": "531.02"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "Total Equity & Liabilities",
+            "col_3": "3,260.79",
+            "col_4": "2,066.17"
+          },
+          {
+            "Statement of Assests and Liabilities as at 31st March 2025": "",
+            "col_2": "",
+            "col_3": "- 0.00",
+            "col_4": "0.00"
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "table_index": 0,
+        "row_count": 35,
+        "rows": [
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "",
+            "col_3": "(Rs. In Lakhs)",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "Sr. No.",
+            "col_2": "Particulars",
+            "col_3": "Half Year Ended",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "Year Ended",
+            "col_7": "Year Ended"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "",
+            "col_3": "31.03.2025",
+            "col_4": "30.09.2024",
+            "col_5": "31.03.2024",
+            "col_6": "31.03.2025",
+            "col_7": "31.03.2024"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "",
+            "col_3": "Unaudited",
+            "col_4": "Unaudited",
+            "col_5": "Unaudited",
+            "col_6": "Audited",
+            "col_7": "Audited"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "1",
+            "col_2": "Income from Operations",
+            "col_3": "-",
+            "col_4": "1 ,249.90",
+            "col_5": "2 ,986.06",
+            "col_6": "1 ,249.90",
+            "col_7": "3 ,890.21"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "2",
+            "col_2": "Other income",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "3",
+            "col_2": "Total Revenue",
+            "col_3": "-",
+            "col_4": "1 ,249.90",
+            "col_5": "2 ,986.06",
+            "col_6": "1 ,249.90",
+            "col_7": "3 ,890.21"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Expenditure",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(a) Cost of materials consumed",
+            "col_3": "-",
+            "col_4": "1 ,185.07",
+            "col_5": "2 ,898.20",
+            "col_6": "1 ,185.07",
+            "col_7": "3 ,743.90"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(b) Purchase of Stock in Trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(c) Changes in inventories of Finished goods, Work-in- progress & Stock in Trade",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(d) Finance cost",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(e) Employee benefit Expenses",
+            "col_3": "2 .91",
+            "col_4": "8 .42",
+            "col_5": "2 1.99",
+            "col_6": "1 1.33",
+            "col_7": "3 4.55"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(f) Depreciation & amortisation Expenses",
+            "col_3": "9 .47",
+            "col_4": "1 0.42",
+            "col_5": "1 1.47",
+            "col_6": "1 9.89",
+            "col_7": "1 5.90"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(g) Bad Debts",
+            "col_3": "",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(h) Provision for bad and doubtful debts",
+            "col_3": "",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(i) Other Expenditure",
+            "col_3": "12.69",
+            "col_4": "1 6.17",
+            "col_5": "2 6.94",
+            "col_6": "2 8.86",
+            "col_7": "4 3.91"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "4",
+            "col_2": "Total Expenses",
+            "col_3": "25.07",
+            "col_4": "1,220.08",
+            "col_5": "2,958.60",
+            "col_6": "1,245.15",
+            "col_7": "3,838.26"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "5",
+            "col_2": "Profit/(Loss) before Tax and Exceptional items",
+            "col_3": "( 25.07)",
+            "col_4": "2 9.82",
+            "col_5": "2 7.46",
+            "col_6": "4 .75",
+            "col_7": "5 1.95"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "6",
+            "col_2": "Exceptional Items",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": "-"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "7",
+            "col_2": "Profit/(Loss) from ordinary activities before tax",
+            "col_3": "(25.07)",
+            "col_4": "2 9.82",
+            "col_5": "2 7.46",
+            "col_6": "4 .75",
+            "col_7": "5 1.95"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Tax Expenses",
+            "col_3": "-",
+            "col_4": "-",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(a) Current Tax",
+            "col_3": "( 3.87)",
+            "col_4": "6 .51",
+            "col_5": "5 .21",
+            "col_6": "2 .63",
+            "col_7": "6 .62"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(b) Income Tax for earlier years",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "-",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(c) Deferred Tax",
+            "col_3": "1 1.77",
+            "col_4": "1 .25",
+            "col_5": "1 .93",
+            "col_6": "1 3.02",
+            "col_7": "8 .34"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "8",
+            "col_2": "Net Profit/(Loss) for the period After Tax",
+            "col_3": "(32.97)",
+            "col_4": "22.06",
+            "col_5": "20.32",
+            "col_6": "(10.91)",
+            "col_7": "36.99"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "9",
+            "col_2": "Other Comprehensive Income/(Loss)",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Fair value changes of the equity instruments through OCI",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Income tax relating to items that will not be re-classified to profit or loss",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Items that will be re-classified Profit or loss",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "Income tax relating to items that will be re-classified to profit or loss",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "10",
+            "col_2": "Total Comprehensive Income/(Loss)",
+            "col_3": "(32.97)",
+            "col_4": "22.06",
+            "col_5": "2 0.32",
+            "col_6": "(10.91)",
+            "col_7": "36.99"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "11",
+            "col_2": "Earning Per share (EPS) *Not annualised",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "",
+            "col_7": ""
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(a) Basic",
+            "col_3": "(0.13)",
+            "col_4": "0 .16",
+            "col_5": "0 .15",
+            "col_6": "(0.04)",
+            "col_7": "0 .28"
+          },
+          {
+            "STANDALONE UNAUDITED FINANCIAL RESULTS FOR YEAR ENDED 31ST MARCH, 2025": "",
+            "col_2": "(b) Diluted",
+            "col_3": "(0.13)",
+            "col_4": "0.16",
+            "col_5": "0.15",
+            "col_6": "(0.04)",
+            "col_7": "0.28"
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "table_index": 0,
+        "row_count": 43,
+        "rows": [
+          {
+            "7": "",
+            "col_2": "Statement of Assests and Liabilities as at 31st March 2025",
+            "col_3": "",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "Sr. No.",
+            "col_3": "Particulars",
+            "col_4": "As at 31st March 2025",
+            "col_5": "As at 31st March 2024"
+          },
+          {
+            "7": "",
+            "col_2": "The",
+            "col_3": "",
+            "col_4": "Audited",
+            "col_5": "Audited"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "ASSETS",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "1)",
+            "col_3": "Non Current Assets",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Tangible assets",
+            "col_4": "3.40",
+            "col_5": "4.22"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Intangible assets",
+            "col_4": "91.02",
+            "col_5": "110.09"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Deferred Tax Asset",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Good will",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Non-current investments",
+            "col_4": "1,152.00",
+            "col_5": "-"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Long-term loans and advances",
+            "col_4": "143.05",
+            "col_5": "597.22"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Non Current Assets",
+            "col_4": "1,389.47",
+            "col_5": "711.54"
+          },
+          {
+            "7": "",
+            "col_2": "2)",
+            "col_3": "Current Assets",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Financial Assets",
+            "col_4": "8.46",
+            "col_5": "8.46"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Investment",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Trade receivable",
+            "col_4": "479.34",
+            "col_5": "1,037.04"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Cash and Cash Equivalents",
+            "col_4": "14.22",
+            "col_5": "22.02"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Short-term loans and advances",
+            "col_4": "898.14",
+            "col_5": "212.47"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Other current assets",
+            "col_4": "471.14",
+            "col_5": "74.64"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Current Assets",
+            "col_4": "1,871.32",
+            "col_5": "1,354.63"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Assets",
+            "col_4": "3,260.79",
+            "col_5": "2,066.17"
+          },
+          {
+            "7": "",
+            "col_2": "1)",
+            "col_3": "EQUITY AND LIABILITIES",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Shareholders' Funds",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Equity Share Capital",
+            "col_4": "2,491.10",
+            "col_5": "1,339.10"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Reserves and surplus",
+            "col_4": "173.83",
+            "col_5": "184.74"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Minority interest",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Shareholders' Funds",
+            "col_4": "2,664.93",
+            "col_5": "1,523.84"
+          },
+          {
+            "7": "",
+            "col_2": "2)",
+            "col_3": "Non-current liabilities",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Long-term borrowings",
+            "col_4": "-",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Deferred tax liabilities (Net)",
+            "col_4": "22.81",
+            "col_5": "9.80"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Other long-term liabilities",
+            "col_4": "450.40",
+            "col_5": "1.51"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Long-term Provisions",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Non-current liabilities",
+            "col_4": "473.22",
+            "col_5": "11.31"
+          },
+          {
+            "7": "",
+            "col_2": "3)",
+            "col_3": "Current Liabilities",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Financial Liabilities",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Borrowings",
+            "col_4": "",
+            "col_5": ""
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Trade Payable",
+            "col_4": "120.00",
+            "col_5": "494.78"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Other current liabilities",
+            "col_4": "-",
+            "col_5": "29.63"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Short-term provisions",
+            "col_4": "2.63",
+            "col_5": "6.62"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Current Liabilities",
+            "col_4": "122.64",
+            "col_5": "531.02"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "Total Equity & Liabilities",
+            "col_4": "3,260.79",
+            "col_5": "2,066.17"
+          },
+          {
+            "7": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "-0.00",
+            "col_5": "0.00"
+          },
+          {
+            "7": "",
+            "col_2": "For and on behalf of the Board of Directors For M/S. JANUS CORPORATION LIMITED Jitendra Bharat Parmar Mr. Mahesh K Kamble MUMBAI Managing Director Director Date: 27 November 2025 DIN No.10257158 Din 10686834",
+            "col_3": "",
+            "col_4": "",
+            "col_5": ""
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "table_index": 0,
+        "row_count": 17,
+        "rows": [
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "Particulars",
+            "col_2": "",
+            "col_3": "For the year ended March 31, 2025",
+            "col_4": "",
+            "col_5": "F o r t h e year ended March 31, 2024",
+            "col_6": ""
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "₹",
+            "col_4": "₹",
+            "col_5": "₹",
+            "col_6": "₹"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "A B C",
+            "col_2": "CASH FLOW FROM OPERATING ACTIVITIES : 1 Profit/(Loss) Before Tax Add / (Less) : Adjustment for Depreciation and Amortization Expense Finance Cost Interest Income on Deposits 2 Operating Profit/(Loss) before Working Capital Changes Changes in Working Capital : Adjustment for (increase)/decrease in operating assets Trade receivables Long Term Loans and Advances other current assets Short Term Loans and Advances Adjustment for increase/(decrease) in operating Liabilities: Trade Payables Other Long Term Liabilities Other Current Liabilities Short Term Provisions Other Adjustment Net Changes in Working Capital 3 Cashflow from Operations before taxes Net Income Tax Paid Net Cash flow from Operating Activities (A) CASH FLOW FROM INVESTING ACTIVITIES Purchase of Property, Plant & Equipment Purchase of Intangible Asset under Development Good will Non-current investments Interest on Deposits Net Cash flow used in Investing Activities (B) CASH FLOW FROM FINANCING ACTIVITIES Proceeds from issue of equity shares Increase In Share premium Finance Cost Paid Net Cash flow from Financing Activities (C) Net Increase / (Decrease) in Cash and Cash Equivalents (A+B+C) Cash and cash equivalents at the beginning of the period/year Cash and cash equivalents as at the end of the period/year",
+            "col_3": "19.89",
+            "col_4": "4.75 19.89 24.64 ( 29.80)",
+            "col_5": "15.90",
+            "col_6": "51.95 15.90 67.85 2.41"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "557.70 454.17 (396.51) (685.67)",
+            "col_4": "",
+            "col_5": "(583.38) 131.77 (41.82) 172.07",
+            "col_6": ""
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "(70.31) (374.77) 448.89 (29.63) (3.99)",
+            "col_4": "",
+            "col_5": "(321.36) 351.33 (36.61) 26.66 (17.61)",
+            "col_6": ""
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "40.50 - ( 1,152.00) 1,152.00 - -",
+            "col_4": "",
+            "col_5": "323.77 ( 89.35)",
+            "col_6": ""
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "( 5.17) ( 2.63)",
+            "col_5": "",
+            "col_6": "7 0.26 ( 6.62)"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "( 7.80)",
+            "col_5": "",
+            "col_6": "6 3.64"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "- -",
+            "col_5": "",
+            "col_6": "( 89.35) -"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "( 1,152.00)",
+            "col_5": "",
+            "col_6": "( 89.35)"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": "-"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "1,152.00",
+            "col_5": "",
+            "col_6": "-"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "( 7.80)",
+            "col_5": "",
+            "col_6": "( 25.71)"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "22.02",
+            "col_5": "",
+            "col_6": "47.73"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "14.22",
+            "col_5": "",
+            "col_6": "22.02"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "( 7.79)",
+            "col_5": "",
+            "col_6": "( 25.71)"
+          },
+          {
+            "STANDALONE CASH FLOW STATEMENT FOR THE PERIOD ENDED March 31, 2025 (Rs. in Lakhs)": "Note: 0.00 -0.00 The above Cash Flow Statement has been prepared under the \"Indirect Method\" set out in Accounting Standard (AS-3) \"Cash Flow Statements\" notified under the Companies (Accounting Standard) Rules, 2006 For and on behalf of the Board of Directors MUMBAI Jitendra Parmar Mr. Mahesh K Kamble Date: 27 November 2025 Managing Director Director DIN No.10257158 Din 10686834",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "col_6": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "e3e3987a-18a5-49ad-a3fa-af6e13508a42",
+    "SCRIP_CD": 532468,
+    "XML_NAME": "ANN_532468_E3E3987A-18A5-49AD-A3FA-AF6E13508A42",
+    "NEWSSUB": "Kama Holdings Ltd-$ - 532468 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-28T19:16:32.79",
+    "NEWS_DT": "2026-11-28T19:16:32.79",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "3961f204-bbeb-45e6-b25c-d0a065163048.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper publication relating to Postal Ballot Notice",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/kama-holdings-ltd/kamahold/532468/",
+    "SLONGNAME": "Kama Holdings Ltd-$",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:16:32",
+    "DissemDT": "2026-11-28T19:16:32.79",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2551016,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "86f8f51d-07f1-408b-96a4-9e2b42f07491",
+    "SCRIP_CD": 538351,
+    "XML_NAME": "ANN_538351_86F8F51D-07F1-408B-96A4-9E2B42F07491",
+    "NEWSSUB": "A.F. Enterprises Ltd - 538351 - Financial Results For June 2025 Quarter",
+    "DT_TM": "2026-11-28T19:16:08.663",
+    "NEWS_DT": "2026-11-28T19:16:08.663",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "663461fe-dbbd-4938-9b93-a0e21cd095eb.pdf",
+    "MORE": "",
+    "HEADLINE": "Financial Results for june 2025 quarter",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/af-enterprises-ltd/afel/538351/",
+    "SLONGNAME": "A.F. Enterprises Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:16:08",
+    "DissemDT": "2026-11-28T19:16:08.663",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2990982,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "37.35",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "322b8f9e-2b2c-43ac-b735-e5c499b55ef5",
+    "SCRIP_CD": 544365,
+    "XML_NAME": "ANN_544365_322B8F9E-2B2C-43AC-B735-E5C499B55EF5",
+    "NEWSSUB": "Shanmuga Hospital Ltd - 544365 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
+    "DT_TM": "2026-11-28T19:15:28.93",
+    "NEWS_DT": "2026-11-28T19:15:28.93",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "9a7b3b2e-566c-4f59-afd8-5805c0905f6f.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed the Postal Ballot Notice for the re-appointment of Dr Palaniappan Shanmugam Panneerselvam (DIN: 08772887) as Managing Director of the company.",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shanmuga-hospital-ltd/shanmuga/544365/",
+    "SLONGNAME": "Shanmuga Hospital Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:15:28",
+    "DissemDT": "2026-11-28T19:15:28.93",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 992278,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "4806.32",
+      "net_profit": "421.06",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 17,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "Particulars": "Revenue from Operations",
+            "FY 2025-26": "4,743.61",
+            "FY 2024-25": "4,785.33"
+          },
+          {
+            "Particulars": "Other Income",
+            "FY 2025-26": "62.71",
+            "FY 2024-25": "23.35"
+          },
+          {
+            "Particulars": "Total Income",
+            "FY 2025-26": "4,806.32",
+            "FY 2024-25": "4,808.68"
+          },
+          {
+            "Particulars": "Profit Before Tax",
+            "FY 2025-26": "567.02",
+            "FY 2024-25": "568.74"
+          },
+          {
+            "Particulars": "Profit After Tax",
+            "FY 2025-26": "421.06",
+            "FY 2024-25": "420.67"
+          },
+          {
+            "Particulars": "Earnings Per Share (₹)",
+            "FY 2025-26": "3.09",
+            "FY 2024-25": "4.03"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "eecfc839-acdf-4a67-a3ad-faa7e009de83",
+    "SCRIP_CD": 545021,
+    "XML_NAME": "ANN_545021_EECFC839-ACDF-4A67-A3AD-FAA7E009DE83",
+    "NEWSSUB": "Johnsoncab Electricals Ltd - 545021 - Announcement Under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-28T19:12:33.003",
+    "NEWS_DT": "2026-11-28T19:12:33.003",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "193f80d9-d6db-45c7-9398-c48a5026484c.pdf",
+    "MORE": "",
+    "HEADLINE": "Johnsoncab Electricals Limited has informed the exchange regarding Investor Presentation pursuant to announcement of Unaudited Financial Result for the Half year ended on 30th September, 2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/johnsoncab-electricals-ltd/johnsoncab/545021/",
+    "SLONGNAME": "Johnsoncab Electricals Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:12:33",
+    "DissemDT": "2026-11-28T19:12:33.003",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 13933345,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "70.7",
+      "net_profit": "26",
+      "operating_profit": "71.5",
+      "total_assets": "15163.20",
+      "total_equity": "15163.20",
+      "total_debt": "2476.74",
+      "eps": "",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e2fef8ea-4588-46de-a109-cf84474649f2",
+    "SCRIP_CD": 540755,
+    "XML_NAME": "ANN_540755_E2FEF8EA-4588-46DE-A109-CF84474649F2",
+    "NEWSSUB": "General Insurance Corporation of India - 540755 - Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+    "DT_TM": "2026-11-28T19:11:41.06",
+    "NEWS_DT": "2026-11-28T19:11:41.06",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b76237ff-d414-4fa8-a63e-696f54787f91.pdf",
+    "MORE": "",
+    "HEADLINE": "Imposition of fine by BSE & NSE for the Quarter ended 30.09.2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/general-insurance-corporation-of-india/gicre/540755/",
+    "SLONGNAME": "General Insurance Corporation of India",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:11:41",
+    "DissemDT": "2026-11-28T19:11:41.06",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 460483,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 1,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "Sr. No.": "1",
+            "Particulars": "Name of the Authority",
+            "Details": "BSE and NSE"
+          },
+          {
+            "Sr. No.": "2",
+            "Particulars": "Nature and details of the action(s) taken or order(s) passed",
+            "Details": "Imposition of fine Rs. 11,91,800 (Incl. GST) each by BSE and NSE"
+          },
+          {
+            "Sr. No.": "3",
+            "Particulars": "Date of receipt of direction or order, including any ad-interim or interim orders, or any other communication from the authority",
+            "Details": "27th November 2026"
+          },
+          {
+            "Sr. No.": "4",
+            "Particulars": "Details of the violation(s)/contravention(s) committed or alleged to be committed",
+            "Details": "Non-compliance with Regulation 17(1), 17(2A), 18(1), 19(1)/ 19(2), 20(2)/(2A) and 21(2) of the SEBI (LODR) Regulations, 2015"
+          },
+          {
+            "Sr. No.": "5",
+            "Particulars": "Impact on financial, operation or other activities of the listed entity, quantifiable in monetary terms to the extent possible",
+            "Details": "Nil except to the extent of fines imposed, for which waiver requests will be made to the Stock Exchanges."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "725604e8-6f6e-4fcb-aa41-6c588ec1b557",
+    "SCRIP_CD": 538351,
+    "XML_NAME": "ANN_538351_725604E8-6F6E-4FCB-AA41-6C588EC1B557",
+    "NEWSSUB": "A.F. Enterprises Ltd - 538351 - Board Meeting Outcome for OUTCOME OF BOARD MEETING PURSUANT TO REGULATION 30 READ WITH REGULATION 33 OF SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015 HELD ON TODAY I.E., 28TH NOVEMBER, 2026",
+    "DT_TM": "2026-11-28T19:02:42.803",
+    "NEWS_DT": "2026-11-28T19:02:42.803",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f1621ab5-d676-469e-bfff-1c0bba30b99b.pdf",
+    "MORE": "",
+    "HEADLINE": "OUTCOME OF BOARD MEETING PURSUANT TO REGULATION 30 READ WITH REGULATION 33 OF SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015 HELD ON TODAY I.E., 28TH NOVEMBER, 2026",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/af-enterprises-ltd/afel/538351/",
+    "SLONGNAME": "A.F. Enterprises Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:02:37",
+    "DissemDT": "2026-11-28T19:02:42.803",
+    "TimeDiff": "00:00:05",
+    "Fld_Attachsize": 21577820,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "37.35",
+      "total_assets": "10625.20",
+      "total_equity": "4766.22",
+      "total_debt": "326.16",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "73afda19-93c4-40b7-bc08-24473071d404",
     "SCRIP_CD": 530595,
     "XML_NAME": "ANN_530595_73AFDA19-93C4-40B7-BC08-24473071D404",
@@ -3869,418 +5789,6 @@
     "summary": "Here is the summary based strictly on the provided text:\n\n* **Key Dates & Action:** On November 28, 2026, Smartworks Coworking Spaces Limited announced that, pursuant to a National Company Law Tribunal (NCLT) order dated November 23, 2026, it published newspaper notices in *Business Standard* and *Jansatta* regarding a petition hearing scheduled for Tuesday, February 23, 2027.\n* **Financial Decision & Details:** The hearing pertains to a proposed reduction of the company's Securities Premium Account; however, no specific numerical values or financial figures regarding the reduction amount are disclosed in the text.",
     "key_metrics": {
       "face_value": "2",
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f8ac1a1c-67b7-4b16-b9db-aa8d1621c013",
-    "SCRIP_CD": 543936,
-    "XML_NAME": "ANN_543936_F8AC1A1C-67B7-4B16-B9DB-AA8D1621C013",
-    "NEWSSUB": "Senco Gold Ltd - 543936 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-11-28T15:10:31.153",
-    "NEWS_DT": "2026-11-28T15:10:31.153",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cd6ab9ca-cb75-40e9-9ae8-b9d448a9ff2c.pdf",
-    "MORE": "",
-    "HEADLINE": "Payment of compounding fees to Department of Legal Metrology, Karnataka",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/senco-gold-ltd/senco/543936/",
-    "SLONGNAME": "Senco Gold Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:10:31",
-    "DissemDT": "2026-11-28T15:10:31.153",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 872449,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Compounding fee paid:** Senco Gold Ltd paid a one‑time compounding fee of **₹1,00,000** to the Department of Legal Metrology, Karnataka on **27 November 2026** for violations under the Legal Metrology Act, 2009.  \n- **Financial impact:** Apart from the ₹1 lakh fee, the company reported **no other quantifiable impact** on its financial, operational or other activities.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1cab5820-5506-4446-9976-855ecfaf4343",
-    "SCRIP_CD": 531595,
-    "XML_NAME": "ANN_531595_1CAB5820-5506-4446-9976-855ECFAF4343",
-    "NEWSSUB": "Capri Global Capital Ltd - 531595 - Board Meeting Outcome for Outcome Of The Meeting Of Board Of Directors Of The Company Held On November 28, 2026",
-    "DT_TM": "2026-11-28T15:09:50.73",
-    "NEWS_DT": "2026-11-28T15:09:50.73",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "dfb4cbf6-a2ee-4ef2-a361-59c23cdc959e.pdf",
-    "MORE": "Outcome of the meeting of Board of Directors of the Company held on November 28, 2026 - Approved the proposal for making a further investment of Rs. 200 Crore in the equity share capital of CGHFL, WOS, by subscribing to the equity shares offered by CGHFL on a Rights basis",
-    "HEADLINE": "Outcome of the meeting of Board of Directors of the Company held on November 28, 2026 - Approved the proposal for making a further investment of Rs. 200 Crore in the equity share capital ....",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/capri-global-capital-ltd/cgcl/531595/",
-    "SLONGNAME": "Capri Global Capital Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:09:49",
-    "DissemDT": "2026-11-28T15:09:50.73",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 171784,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "123 crore",
-      "total_equity": "1169 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b9512cd4-3c7e-4c37-b613-b979a2afc133",
-    "SCRIP_CD": 509709,
-    "XML_NAME": "ANN_509709_B9512CD4-3C7E-4C37-B613-B979A2AFC133",
-    "NEWSSUB": "International Conveyors Ltd - 509709 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-28T15:04:56.87",
-    "NEWS_DT": "2026-11-28T15:04:56.87",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bb46d2d0-e76c-4a45-a529-6679077b0c60.pdf",
-    "MORE": "",
-    "HEADLINE": "Copy of newspaper publication",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/international-conveyors-ltd/intlconv/509709/",
-    "SLONGNAME": "International Conveyors Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:04:56",
-    "DissemDT": "2026-11-28T15:04:56.87",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1311982,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* **Date and Regulatory Action:** On November 28, 2026, International Conveyors Ltd notified the exchanges that it received an application from a registered equity shareholder for the issuance of duplicate share certificate(s) to replace lost originals, following a public notification published in the *Financial Express* on the same day.\n* **Financial Details:** The announcement contains no financial details, specific share quantities, values, or financial decisions.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b1357e2c-7df4-48cb-8c09-d6001ec7190b",
-    "SCRIP_CD": 532636,
-    "XML_NAME": "ANN_532636_B1357E2C-7DF4-48CB-8C09-D6001EC7190B",
-    "NEWSSUB": "IIFL Finance Ltd - 532636 - Disclosure Under Regulation 30 And Other Applicable Provisions Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations').",
-    "DT_TM": "2026-11-28T15:03:08.14",
-    "NEWS_DT": "2026-11-28T15:03:08.14",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6efa28b7-5e18-4c0f-885b-b86b718e4dff.pdf",
-    "MORE": "IIFL Finance Limited submits to the Stock Exchanges disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 in connection with earlier intimation dated November 10, 2026 and November 12, 2026.",
-    "HEADLINE": "IIFL Finance Limited submits to the Stock Exchanges disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 in connection with earlier ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/iifl-finance-ltd/iifl/532636/",
-    "SLONGNAME": "IIFL Finance Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:03:08",
-    "DissemDT": "2026-11-28T15:03:08.14",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 382245,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "fa66bad0-aace-4ee2-b853-63ed31540ecd",
-    "SCRIP_CD": 500103,
-    "XML_NAME": "ANN_500103_FA66BAD0-AACE-4EE2-B853-63ED31540ECD",
-    "NEWSSUB": "Bharat Heavy Electricals Ltd - 500103 - Disclosure Under Regulation 30 Of SEBI (LODR), Regulations 2015",
-    "DT_TM": "2026-11-28T15:00:28.35",
-    "NEWS_DT": "2026-11-28T15:00:28.35",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "0762d4a7-177c-46a2-aa2c-f34b767a55bd.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation under Regulation 30 of SEBI(LODR) Regulations, 2015-in respect of fine notice from Stock Exchange",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
-    "SLONGNAME": "Bharat Heavy Electricals Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:00:28",
-    "DissemDT": "2026-11-28T15:00:28.35",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1117670,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Fine imposed:** On 27 Nov 2026, BHEL received notices from both BSE and NSE each levying a fine of **₹14,46,680 (incl. GST 18%)** for non‑compliance with SEBI (LODR) regulations for the quarter ended 30 Sep 2026.  \n\n- **Reason & next steps:** The non‑compliance arose because the board had **no Independent Director** during that quarter, breaching composition/quorum requirements. BHEL, a Government of India undertaking, is seeking a waiver of the fines and is actively pursuing the appointment of the required Independent Directors with the Government.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cc7d5495-67c5-4398-a6a2-c458e233a6bc",
-    "SCRIP_CD": 500103,
-    "XML_NAME": "ANN_500103_CC7D5495-67C5-4398-A6A2-C458E233A6BC",
-    "NEWSSUB": "Bharat Heavy Electricals Ltd - 500103 - Disclosure Under Regulation 30 Of SEBI (LODR), Regulations 2015",
-    "DT_TM": "2026-11-28T14:59:40.95",
-    "NEWS_DT": "2026-11-28T14:59:40.95",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "5ff85c37-640d-4598-aa2e-a70bce9b63c7.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation under Regulation 30 of SEBI(LODR) Regulations, 2015-in respect of fine notice from Stock Exchange",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bharat-heavy-electricals-ltd/bhel/500103/",
-    "SLONGNAME": "Bharat Heavy Electricals Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T14:59:40",
-    "DissemDT": "2026-11-28T14:59:40.95",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1117670,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a5ac03f5-aa0e-4118-b504-256b9bb1d247",
-    "SCRIP_CD": 544631,
-    "XML_NAME": "ANN_544631_A5AC03F5-AA0E-4118-B504-256B9BB1D247",
-    "NEWSSUB": "Creative Newtech Ltd - 544631 - Shareholder Meeting / Postal Ballot-Outcome of EGM",
-    "DT_TM": "2026-11-28T14:59:01.86",
-    "NEWS_DT": "2026-11-28T14:59:01.86",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "10ff9323-5ca9-489f-9e01-f1e1d5df5331.pdf",
-    "MORE": "",
-    "HEADLINE": "Proceedings of EGM held on 28th November 2026",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/creative-newtech-ltd/cnl/544631/",
-    "SLONGNAME": "Creative Newtech Ltd",
-    "AGENDA_ID": 28,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T14:59:01",
-    "DissemDT": "2026-11-28T14:59:01.86",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 499373,
-    "SUBCATNAME": "EGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "66f9ddc1-35e9-4c4b-92fb-21d987346765",
-    "SCRIP_CD": 526807,
-    "XML_NAME": "ANN_526807_66F9DDC1-35E9-4C4B-92FB-21D987346765",
-    "NEWSSUB": "Seamec Ltd - 526807 - Announcement under Regulation 30 (LODR) - Awarding of order(s) or contract(s)",
-    "DT_TM": "2026-11-28T14:58:37.53",
-    "NEWS_DT": "2026-11-28T14:58:37.53",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "045c824d-9385-41cf-9d8c-dc7311d076fe.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation on Letter of Award to M/s. Adsun Offshore Diving Contractors Pvt. Limited for providing Diving Services for Pipeline Replacement Project PRP-X",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/seamec-ltd/seamecltd/526807/",
-    "SLONGNAME": "Seamec Ltd",
-    "AGENDA_ID": null,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T14:58:37",
-    "DissemDT": "2026-11-28T14:58:37.53",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 428052,
-    "SUBCATNAME": null,
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "2c3c39e6-44f3-4481-9695-98ac6b0a6e61",
-    "SCRIP_CD": 544424,
-    "XML_NAME": "ANN_544424_2C3C39E6-44F3-4481-9695-98AC6B0A6E61",
-    "NEWSSUB": "Globe Civil Projects Ltd - 544424 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-28T14:56:48.727",
-    "NEWS_DT": "2026-11-28T14:56:48.727",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f9bad487-3b88-4398-8e54-1584ccfea3f3.pdf",
-    "MORE": "",
-    "HEADLINE": "Please find enclosed Transcript of the Investors meet held on November 26, 2026 at 12:00 Noon.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/globe-civil-projects-ltd/globecivil/544424/",
-    "SLONGNAME": "Globe Civil Projects Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T14:56:48",
-    "DissemDT": "2026-11-28T14:56:48.727",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 489912,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": "2c3c39e6-44f3-4481-9695-98ac6b0a6e61",
-    "INVESTOR_PRESENTATION": "1326032c-01a6-4685-9fd5-afdeea4e11ab.zip",
-    "RECORDID": 15006620,
-    "DataInsDate": "2026-11-28T14:56:48.69",
-    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/1326032c-01a6-4685-9fd5-afdeea4e11ab.zip",
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "",
-      "operating_profit": "12 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "9030702b-9d0f-4a76-85de-c1745bf3b74c",
-    "SCRIP_CD": 539195,
-    "XML_NAME": "ANN_539195_9030702B-9D0F-4A76-85DE-C1745BF3B74C",
-    "NEWSSUB": "POCL Enterprises Ltd - 539195 - Voting Results And Scrutinizer'S Report Of The NCLT Convened Meeting Of Unsecured Creditors Of The Company Held On November 27, 2026 At 12:30 P.M.",
-    "DT_TM": "2026-11-28T14:44:14.01",
-    "NEWS_DT": "2026-11-28T14:44:14.01",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "1e919996-0998-4b2a-8c37-258bbd40b472.pdf",
-    "MORE": "The Voting results and the consolidated Scrutinizer''s Report of the NCLT Convened Meeting of the Unsecured Creditors of the Company held on November 27, 2026 at 12:30 P.M. pursuant to the directions of the Hon''ble NCLT, Chennai Bench, in respect of Scheme of Amalgamation of Planetfirst Green Private Limited with and into POCL Enterprises LImited is enclosed herewith.",
-    "HEADLINE": "The Voting results and the consolidated Scrutinizer''s Report of the NCLT Convened Meeting of the Unsecured Creditors of the Company held on November 27, 2026 at 12:30 P.M. pursuant to ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/pocl-enterprises-ltd/poel/539195/",
-    "SLONGNAME": "POCL Enterprises Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T14:44:14",
-    "DissemDT": "2026-11-28T14:44:14.01",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5254545,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "b746c851-abcd-4eee-86fb-45d3fd21566c",
-    "SCRIP_CD": 530075,
-    "XML_NAME": "ANN_530075_B746C851-ABCD-4EEE-86FB-45D3FD21566C",
-    "NEWSSUB": "Antelopus Selan Energy Ltd-$ - 530075 - Disclosure Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 ('Listing Regulations')",
-    "DT_TM": "2026-11-28T14:40:49.69",
-    "NEWS_DT": "2026-11-28T14:40:49.69",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c534bdae-436a-4af8-9537-150a61eb0850.pdf",
-    "MORE": "",
-    "HEADLINE": "The company has received notice from NSE & BSE regarding non compliance with requirement related to the composition of Board under Reg 17(1) of SEBI (LODR) Regulations, 2015",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/antelopus-selan-energy-ltd/antelopus/530075/",
-    "SLONGNAME": "Antelopus Selan Energy Ltd-$",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T14:40:49",
-    "DissemDT": "2026-11-28T14:40:49.69",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 640494,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Fine for board‑composition non‑compliance:** On 27 Nov 2026, BSE Ltd. and NSE Ltd. each issued a notice (ref. SOP‑CReview/Sep‑26 and NSE/LIST‑SOP/COMB/FINES/1304) imposing a penalty of **₹3,00,900** (inclusive of 18 % GST) on Antelopus Selan Energy Ltd., payable within 15 days of the notice.  \n\n- **Remedial action:** The company has begun the process of identifying and appointing a",
-    "key_metrics": {
       "currency_unit": "₹ in Lakhs"
     },
     "financial_tables": []
