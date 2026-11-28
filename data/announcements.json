@@ -1,5 +1,768 @@
 [
   {
+    "NEWSID": "8f5d6305-c12b-4761-b12d-c0b0996dc424",
+    "SCRIP_CD": 540175,
+    "XML_NAME": "ANN_540175_8F5D6305-C12B-4761-B12D-C0B0996DC424",
+    "NEWSSUB": "Regency Fincorp Ltd - 540175 - Announcement under Regulation 30 (LODR)-Issue of Securities",
+    "DT_TM": "2026-11-28T12:30:00.597",
+    "NEWS_DT": "2026-11-28T12:30:00.597",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "652a33cd-c4ba-4a68-ad87-6444494543ea.pdf",
+    "MORE": "",
+    "HEADLINE": "Issuance of 30000 units of Secured, Rated, Listed, Non-Convertible Debentures having face value of Rs. 10000/- on Private Placement basis.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/regency-fincorp-ltd/regency/540175/",
+    "SLONGNAME": "Regency Fincorp Ltd",
+    "AGENDA_ID": 132,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:30:00",
+    "DissemDT": "2026-11-28T12:30:00.597",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 650487,
+    "SUBCATNAME": "Issue of Securities",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "face_value": "10000",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "S. No.": "1",
+            "Particulars": "Type of securities proposed to be issued",
+            "Details": "Secured, Rated, Listed, Non-Convertible Debentures (“NCD”)"
+          },
+          {
+            "S. No.": "2",
+            "Particulars": "Type of issuance",
+            "Details": "Private Placement"
+          },
+          {
+            "S. No.": "3",
+            "Particulars": "Total number of securities proposed to be issued or the total amount for which the securities will be issued",
+            "Details": "Total number of securities to be issued: 30000 (Thirty Thousand) Units of Secured, Rated, Listed, Non-Convertible Debenture (“NCD”) having face value of INR 10,000/- (Indian Rupees Ten Thousand Only) for an amount of aggregating to INR 30,00,00,000/- (Indian Rupees Thirty Crores Only)."
+          },
+          {
+            "S. No.": "Additional Information in case of issuance of Non‐Convertible Securities",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S. No.": "4",
+            "Particulars": "Size of the issue",
+            "Details": "30000 (Thirty Thousand) Units of Secured, Rated, Listed, Non- Convertible Debenture (“NCD”) having face value of INR 10,000/- (Indian Rupees Ten Thousand Only) for an amount of aggregating to INR 30,00,00,000/- (Indian Rupees Thirty Crores Only)"
+          },
+          {
+            "S. No.": "5",
+            "Particulars": "Whether proposed to be listed? If yes, name of the stock exchange(s);",
+            "Details": "Proposed to be listed: Yes Name of Stock Exchange: BSE Limited"
+          },
+          {
+            "S. No.": "6",
+            "Particulars": "Tenure of the Instrument Date of allotment and Date of maturity",
+            "Details": "Tenure: 15 months from the Deemed Date of Allotment Date of allotment: In compliance with Master Circular SEBI/HO/DDHS/DDHS-PoD/P/CIR/2025/0000000137 dated 15th October, 2025, the allotment of NCD’s shall be done after closure of Bidding Time (as the NCD shall be privately placed through Electronic Book Provider (EBP)) i: e, on Settlement date. Date of maturity: 15 Months from Actual date of Allotment"
+          },
+          {
+            "S. No.": "7",
+            "Particulars": "Coupon/interest offered, schedule of payment of coupon /interest and principal",
+            "Details": "Interest offered: 12.00 % per annum payable Monthly Schedule of Interest payment: Monthly Schedule of principal payment: On Maturity"
+          },
+          {
+            "S. No.": "8",
+            "Particulars": "Charge/security, if any, created over the assets;",
+            "Details": "1.25x (One Point Two Five Times) 1.25x of the Outstanding Amounts of the Debentures along with the accrued Coupon thereon, at all times during the tenor. \"Outstanding Amounts\" means the outstanding principal together with any Coupon / interest, additional interest, default interest, costs, fees (including Debenture Trustee"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "9",
+            "col_2": "Special right/interest/privileges attached to the instrument and changes thereof",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "None"
+          },
+          {
+            "col_1": "10",
+            "col_2": "Delay in payment of interest / principal amount for a period of more than three months from the due date or default in payment of interest / principal;",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "2% per annum over and above the Coupon Rate"
+          },
+          {
+            "col_1": "11",
+            "col_2": "Details of any letter or comments regarding payment/non‐ payment of interest, principal on due dates, or any other matter concerning the security and /or the assets along with its comments thereon, if any;",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "NA"
+          },
+          {
+            "col_1": "12",
+            "col_2": "Details of redemption of preference shares indicating the manner of redemption (whether out of profits or out of fresh issue) and debentures;",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "e1227999-2175-48b5-8be8-ec8c1be1c801",
+    "SCRIP_CD": 544271,
+    "XML_NAME": "ANN_544271_E1227999-2175-48B5-8BE8-EC8C1BE1C801",
+    "NEWSSUB": "Garuda Construction and Engineering Ltd - 544271 - Board Meeting Outcome for Outcome Of The Board Meeting Of Garuda Construction And Engineering Limited (''Company'') Held Today I.E. November 28, 2026.",
+    "DT_TM": "2026-11-28T12:27:02.023",
+    "NEWS_DT": "2026-11-28T12:27:02.023",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "4173d4e6-71ed-4170-9465-fcd1d5d4d3c3.pdf",
+    "MORE": "",
+    "HEADLINE": "Garuda Construction and Engineering Limited has informed the Exchange regarding Outcome of Board Meeting held on November 28, 2026.\r\n",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/garuda-construction-and-engineering-ltd/garuda/544271/",
+    "SLONGNAME": "Garuda Construction and Engineering Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:27:01",
+    "DissemDT": "2026-11-28T12:27:02.023",
+    "TimeDiff": "00:00:01",
+    "Fld_Attachsize": 704700,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Fund‑raising approval:** On 28 Nov 2026 the Board approved a fresh Qualified Institutions Placement (QIP) to raise **up to ₹500 crore** by issuing equity shares of **₹5 face value** in one or more tranches, subject to regulatory and shareholder approvals.  \n\n- **Governance actions:** The Board will (i) form a “QIP Committee” to manage the raise, (ii) issue notice of an Extraordinary General Meeting to seek shareholder approval, and (iii) note that the prior shareholder resolution dated 1",
+    "key_metrics": {
+      "face_value": "5",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7f92ea32-6c10-4d5a-98a1-20953bdd3308",
+    "SCRIP_CD": 540175,
+    "XML_NAME": "ANN_540175_7F92EA32-6C10-4D5A-98A1-20953BDD3308",
+    "NEWSSUB": "Regency Fincorp Ltd - 540175 - Board Meeting Outcome for Outcome Of Board Meeting Dated 28Th November, 2026.",
+    "DT_TM": "2026-11-28T12:23:01.407",
+    "NEWS_DT": "2026-11-28T12:23:01.407",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "45e144f3-b0cf-4e08-b58a-70b97e7f3d99.pdf",
+    "MORE": "Submission of Outcome of Board Meeting held on 28th November, 2026 for:\r\n1. Issuance of 30000 units of Secured, Rated, Listed, Non-Convertible Debentures having face value of Rs. 10000/-.\r\n2. Appointment of Debenture Trustee.\r\n3. Appointment of Merchant Banker.",
+    "HEADLINE": "Submission of Outcome of Board Meeting held on 28th November, 2026 for:\r\n1. Issuance of 30000 units of Secured, Rated, Listed, Non-Convertible Debentures having face value of Rs. 10000/-.\r\n2. ....",
+    "CATEGORYNAME": "Board Meeting",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/regency-fincorp-ltd/regency/540175/",
+    "SLONGNAME": "Regency Fincorp Ltd",
+    "AGENDA_ID": 198,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:22:59",
+    "DissemDT": "2026-11-28T12:23:01.407",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 650487,
+    "SUBCATNAME": "Outcome of Board Meeting",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **NCD Issue Approved:** On 28 Nov 2026, the board authorized a private‑placement of 30,000 secured, rated, listed Non‑Convertible Debentures (NCDs) with a face value of ₹10,000 each, raising **₹30 crore** in total. The NCDs will be listed on BSE, carry a **12 % per",
+    "key_metrics": {
+      "face_value": "10000",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 2,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "S. No.": "1",
+            "Particulars": "Type of securities proposed to be issued",
+            "Details": "Secured, Rated, Listed, Non-Convertible Debentures (“NCD”)"
+          },
+          {
+            "S. No.": "2",
+            "Particulars": "Type of issuance",
+            "Details": "Private Placement"
+          },
+          {
+            "S. No.": "3",
+            "Particulars": "Total number of securities proposed to be issued or the total amount for which the securities will be issued",
+            "Details": "Total number of securities to be issued: 30000 (Thirty Thousand) Units of Secured, Rated, Listed, Non-Convertible Debenture (“NCD”) having face value of INR 10,000/- (Indian Rupees Ten Thousand Only) for an amount of aggregating to INR 30,00,00,000/- (Indian Rupees Thirty Crores Only)."
+          },
+          {
+            "S. No.": "Additional Information in case of issuance of Non‐Convertible Securities",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "S. No.": "4",
+            "Particulars": "Size of the issue",
+            "Details": "30000 (Thirty Thousand) Units of Secured, Rated, Listed, Non- Convertible Debenture (“NCD”) having face value of INR 10,000/- (Indian Rupees Ten Thousand Only) for an amount of aggregating to INR 30,00,00,000/- (Indian Rupees Thirty Crores Only)"
+          },
+          {
+            "S. No.": "5",
+            "Particulars": "Whether proposed to be listed? If yes, name of the stock exchange(s);",
+            "Details": "Proposed to be listed: Yes Name of Stock Exchange: BSE Limited"
+          },
+          {
+            "S. No.": "6",
+            "Particulars": "Tenure of the Instrument Date of allotment and Date of maturity",
+            "Details": "Tenure: 15 months from the Deemed Date of Allotment Date of allotment: In compliance with Master Circular SEBI/HO/DDHS/DDHS-PoD/P/CIR/2025/0000000137 dated 15th October, 2025, the allotment of NCD’s shall be done after closure of Bidding Time (as the NCD shall be privately placed through Electronic Book Provider (EBP)) i: e, on Settlement date. Date of maturity: 15 Months from Actual date of Allotment"
+          },
+          {
+            "S. No.": "7",
+            "Particulars": "Coupon/interest offered, schedule of payment of coupon /interest and principal",
+            "Details": "Interest offered: 12.00 % per annum payable Monthly Schedule of Interest payment: Monthly Schedule of principal payment: On Maturity"
+          },
+          {
+            "S. No.": "8",
+            "Particulars": "Charge/security, if any, created over the assets;",
+            "Details": "1.25x (One Point Two Five Times) 1.25x of the Outstanding Amounts of the Debentures along with the accrued Coupon thereon, at all times during the tenor. \"Outstanding Amounts\" means the outstanding principal together with any Coupon / interest, additional interest, default interest, costs, fees (including Debenture Trustee"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 4,
+        "rows": [
+          {
+            "col_1": "9",
+            "col_2": "Special right/interest/privileges attached to the instrument and changes thereof",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "None"
+          },
+          {
+            "col_1": "10",
+            "col_2": "Delay in payment of interest / principal amount for a period of more than three months from the due date or default in payment of interest / principal;",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "2% per annum over and above the Coupon Rate"
+          },
+          {
+            "col_1": "11",
+            "col_2": "Details of any letter or comments regarding payment/non‐ payment of interest, principal on due dates, or any other matter concerning the security and /or the assets along with its comments thereon, if any;",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "NA"
+          },
+          {
+            "col_1": "12",
+            "col_2": "Details of redemption of preference shares indicating the manner of redemption (whether out of profits or out of fresh issue) and debentures;",
+            "remuneration), charges and other amounts payable by the Company in respect of the Debentures": "NA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "f247a920-e0aa-45b0-81fd-922aa488c9b0",
+    "SCRIP_CD": 523367,
+    "XML_NAME": "ANN_523367_F247A920-E0AA-45B0-81FD-922AA488C9B0",
+    "NEWSSUB": "DCM Shriram Ltd - 523367 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-28T12:21:36.527",
+    "NEWS_DT": "2026-11-28T12:21:36.527",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "0a5b89fd-3d01-4f94-a67e-398232f4db6d.pdf",
+    "MORE": "",
+    "HEADLINE": "Announcement under Regulation 30 (LODR) - Newspaper Publication",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dcm-shriram-ltd/dcmshriram/523367/",
+    "SLONGNAME": "DCM Shriram Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:21:36",
+    "DissemDT": "2026-11-28T12:21:36.527",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2219145,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 28 November 2026, DCM Shriram Ltd published newspaper advertisements (Financial Express – English and Jansatta – Hindi) notifying shareholders that unclaimed equity shares will be transferred to the Investor Education and Protection Fund (IEPF) if dividends have not been encashed since the company’s 2nd Interim Dividend for FY 2019‑20.  \n\n- The notice, filed under Regulation 30 (LODR), is recorded on the company’s website and serves as a formal communication to shareholders regarding the IEPF transfer process.",
+    "key_metrics": {
+      "dividend": "2019"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "5503b662-7a02-4ebb-b6a3-0417a6b1078b",
+    "SCRIP_CD": 514142,
+    "XML_NAME": "ANN_514142_5503B662-7A02-4EBB-B6A3-0417A6B1078B",
+    "NEWSSUB": "T T Ltd-$ - 514142 - Disclosure Under Regulation 7(2) Of SEBI (Prohibition Of Insider Trading) Regulations, 2015",
+    "DT_TM": "2026-11-28T12:20:48.543",
+    "NEWS_DT": "2026-11-28T12:20:48.543",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "971a9b14-e154-4826-81ff-32f272db3a5d.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under REgulation 7(2) of SEBI (PIT) Regulation, 2015",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/t-t-ltd/ttl/514142/",
+    "SLONGNAME": "T T Ltd-$",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:20:48",
+    "DissemDT": "2026-11-28T12:20:48.543",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1555474,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 27 November 2026, T T Brands Limited (the promoter group) bought **27,200 equity shares** of T T Limited in the open market, raising its holding from **92,986,538 shares (35.99 %)** to **93,013,738 shares (36.00 %)**.  \n- The purchase was disclosed under SEBI’s Regulation 7(2) of the Prohibition of Insider Trading Regulations, 2015; no transaction value or other financial figures were provided.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "7f76a95d-b875-4a69-aa89-8b4ab8855494",
+    "SCRIP_CD": 532430,
+    "XML_NAME": "ANN_532430_7F76A95D-B875-4A69-AA89-8B4AB8855494",
+    "NEWSSUB": "BF Utilities Ltd-$ - 532430 - Intimation Of Fine",
+    "DT_TM": "2026-11-28T12:20:18",
+    "NEWS_DT": "2026-11-28T12:20:18",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6f273147-2547-4316-a1f6-2766fd450791.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation of fine",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/bf-utilities-ltd/bfutilitie/532430/",
+    "SLONGNAME": "BF Utilities Ltd-$",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:20:18",
+    "DissemDT": "2026-11-28T12:20:18",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 510117,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Regulatory fine:** BF Utilities Ltd was fined **₹4,01,200** each by NSE and BSE for non‑compliance with Regulation 17(1) (failure to appoint an Independent Woman Director). The fines were paid on **28 Nov 2026** (due by 12 Dec 2026).  \n\n- **Board appointment:** The company appointed **Mr. Ajay Charuchandra Kirtane** as a **Non‑Executive Independent Director (not liable to retire by rotation)** for a **5‑year term from 7 Sept 2026 to 6 Sept 2031**, addressing the compliance issue. The announcement notes **no material impact on the company’s financials or operations**.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "0a2fa63f-7eff-4b2a-b079-89987ed2d9b2",
+    "SCRIP_CD": 524046,
+    "XML_NAME": "ANN_524046_0A2FA63F-7EFF-4B2A-B079-89987ED2D9B2",
+    "NEWSSUB": "Pet Plastics Ltd - 524046 - Shareholder Meeting On Wednesday, 23Rd December, 2026",
+    "DT_TM": "2026-11-28T12:20:16.91",
+    "NEWS_DT": "2026-11-28T12:20:16.91",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "48c75b0d-a58d-440c-a83c-d34e20196069.pdf",
+    "MORE": "This is to inform you that the Extra Ordinary General (''EGM'') of the Company will be held on Wednesday, 23 December 2026 at 11:00 AM at Office No 503, Marisoft 1, Survey No. 15, Marigold Premises, Kalyani Nagar, Vadgaon Sheri, Pune - 411014",
+    "HEADLINE": "This is to inform you that the Extra Ordinary General (''EGM'') of the Company will be held on Wednesday, 23 December 2026 at 11:00 AM at Office No 503, Marisoft 1, Survey No. 15, Marigold ....",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/pet-plastics-ltd/petplst/524046/",
+    "SLONGNAME": "Pet Plastics Ltd",
+    "AGENDA_ID": 28,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:20:16",
+    "DissemDT": "2026-11-28T12:20:16.91",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 1021409,
+    "SUBCATNAME": "EGM",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Extra‑Ordinary General Meeting (EGM)** – Scheduled for **Wednesday, 23 December 2026 at 11:00 a.m. (IST)** at the company’s registered office in Pune; remote e‑voting will run from **20 December 2026 09:00 a.m. to 22 December 2026 05:00 p.m. (IST)**, with the cut‑off date for voting eligibility on **16 December 2026**.  \n\n- **Special resolution** – To ratify the chartered‑accountant’s certificate (dated 26 Nov 2026) confirming compliance with SEBI Regulation 45(1) for the **name change from “Pet Plastics Limited” to “Bharatam Ventures Limited.”** No monetary or financial figures are disclosed in the notice.",
+    "key_metrics": {
+      "revenue": "98.81",
+      "currency_unit": "₹ in Lakhs"
+    },
+    "financial_tables": [
+      {
+        "page": 18,
+        "table_index": 0,
+        "row_count": 5,
+        "rows": [
+          {
+            "col_1": "",
+            "Sr.": "No.",
+            "col_3": "",
+            "Particulars": "",
+            "Details": ""
+          },
+          {
+            "col_1": "1",
+            "Sr.": "",
+            "col_3": "",
+            "Particulars": "Name of the first named shareholder (in block letters)",
+            "Details": ""
+          },
+          {
+            "col_1": "2",
+            "Sr.": "",
+            "col_3": "",
+            "Particulars": "Postal address",
+            "Details": ""
+          },
+          {
+            "col_1": "3",
+            "Sr.": "",
+            "col_3": "",
+            "Particulars": "Registered Folio No. / DP ID and Client ID*",
+            "Details": ""
+          },
+          {
+            "col_1": "4",
+            "Sr.": "",
+            "col_3": "",
+            "Particulars": "Class of share",
+            "Details": "Equity shares of ₹10/- each"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "f06da964-b138-47bd-8c8c-f5c7e58030cd",
+    "SCRIP_CD": 590003,
+    "XML_NAME": "ANN_590003_F06DA964-B138-47BD-8C8C-F5C7E58030CD",
+    "NEWSSUB": "Karur Vysya Bank Ltd - 590003 - Schedule of Institutional Investors/Analysts meet",
+    "DT_TM": "2026-11-28T12:15:31.97",
+    "NEWS_DT": "2026-11-28T12:15:31.97",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "F06DA964-B138-47BD-8C8C-F5C7E58030CD-121527.pdf",
+    "MORE": "",
+    "HEADLINE": "Karur Vysya Bank Ltd has informed BSE regarding \"Schedule of Institutional Investors/Analysts meet\".",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/karur-vysya-bank-ltd/karurvysya/590003/",
+    "SLONGNAME": "Karur Vysya Bank Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": null,
+    "DissemDT": "2026-11-28T12:15:31.97",
+    "TimeDiff": null,
+    "Fld_Attachsize": 238813,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Institutional/Analyst Interaction:** Karur Vysya Bank Ltd has scheduled a virtual “Group Investor One‑to‑One” meet with Nirmal Bang Institutional Equities (Group) on **1 December 2026**. The meeting will be conducted online, and the bank confirms that **no UPSI or material information** will be disclosed.\n\n- **Regulatory Note:** The announcement is made under SEBI Regulation 30(6) and states that the schedule may be changed if required, with any revisions to be communicated to the stock exchanges. No specific financial figures or decisions are disclosed in the notice.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "4f5f5a61-59c5-41b6-8e70-8ad66fbf9b83",
+    "SCRIP_CD": 543482,
+    "XML_NAME": "ANN_543482_4F5F5A61-59C5-41B6-8E70-8AD66FBF9B83",
+    "NEWSSUB": "Eureka Forbes Ltd - 543482 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-28T12:10:56.773",
+    "NEWS_DT": "2026-11-28T12:10:56.773",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "931ad478-f5ec-4f04-ab53-65b65b281b4a.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed the Newspaper Advertisement.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/eureka-forbes-ltd/eurekaforb/543482/",
+    "SLONGNAME": "Eureka Forbes Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:10:56",
+    "DissemDT": "2026-11-28T12:10:56.773",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 6572604,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The company announced that, on 28 November 2026, it placed newspaper advertisements (Financial Express – all editions, and Mumbai Lakshdeep – Mumbai edition) confirming the **electronic dispatch of the Postal Ballot notice and remote e‑voting details**, as required under SEBI Regulations 30 and 47 and the Companies Act 2013.  \n\n- This compliance notice, referenced in letters dated 27 November 2026, has also been uploaded to the company’s website (www.eurekaforbes.com) for public record.  \n\n**No financial figures or monetary decisions are disclosed in this announcement.**",
+    "key_metrics": {
+      "currency_unit": "in Millions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "f7ef6e12-b0ec-427c-a464-644b5ba9425c",
+    "SCRIP_CD": 544190,
+    "XML_NAME": "ANN_544190_F7EF6E12-B0EC-427C-A464-644B5BA9425C",
+    "NEWSSUB": "3C IT Solutions and Telecoms (India) Ltd - 544190 - Board Meeting Outcome for Outcome Of Board Meeting Held On 28Th November, 2026 For Alteration Of Memorandum Of Association And Articles Of Association.",
+    "DT_TM": "2026-11-28T12:09:54.517",
+    "NEWS_DT": "2026-11-28T12:09:54.517",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "b4953732-5f31-4183-8b33-23700c414570.pdf",
+    "MORE": "3C IT Solutions & Telecoms (India) Limited hereby informs that the Board of Directors of the Company, at its meeting held today, i.e., 28th November 2026, has passed resolutions for the alteration of the Memorandum of Association and Articles of Association.",
+    "HEADLINE": "3C IT Solutions & Telecoms (India) Limited hereby informs that the Board of Directors of the Company, at its meeting held today, i.e., 28th November 2026, has passed resolutions for the ....",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/3c-it-solutions-and-telecoms-(india)-ltd/3cit/544190/",
+    "SLONGNAME": "3C IT Solutions and Telecoms (India) Ltd",
+    "AGENDA_ID": 223,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:09:52",
+    "DissemDT": "2026-11-28T12:09:54.517",
+    "TimeDiff": "00:00:02",
+    "Fld_Attachsize": 359086,
+    "SUBCATNAME": "Outcome without intimation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Board meeting on 28 Nov 2026** approved (i) an amendment to the Memorandum of Association to add a new ancillary object – “to act as a Consent Manager” under the Digital Personal Data Protection Act, 2023, and (ii) an amendment to the Articles of Association to insert definitions for “Consent Manager” and “Data Fiduciary” and a new Article 167; the meeting also approved the notice for an Extraordinary General Meeting and appointed M/s Kanj & Co. LLP as scrutinizer for the voting process.  \n\n- **Financial information:** The announcement contains no monetary figures, financial results, or other financial decisions.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "98c4fc9c-801f-4fdf-8db2-ef556607f8a8",
+    "SCRIP_CD": 522281,
+    "XML_NAME": "ANN_522281_98C4FC9C-801F-4FDF-8DB2-EF556607F8A8",
+    "NEWSSUB": "Ram Ratna Wires Ltd-$ - 522281 - Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+    "DT_TM": "2026-11-28T12:07:47.54",
+    "NEWS_DT": "2026-11-28T12:07:47.54",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ce23109e-2c0c-4a61-8d63-27b54e9d344c.pdf",
+    "MORE": "",
+    "HEADLINE": "Please find enclosed herewith details of allotment of 76000 equity shares by the Finance and Allotment Committee of the Company under RRWL Employee Stock Option plan-2023",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/ram-ratna-wires-ltd/ramrat/522281/",
+    "SLONGNAME": "Ram Ratna Wires Ltd-$",
+    "AGENDA_ID": 115,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:07:47",
+    "DissemDT": "2026-11-28T12:07:47.54",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 487275,
+    "SUBCATNAME": "Allotment of ESOP / ESPS",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Allotment approval:** On 28 Nov 2026, the Finance & Allotment Committee approved the issuance of **76,000 equity shares (₹5 face value each)** to eligible employees under the RRWL Employee Stock Option Plan 2023.  \n\n- **Impact on share capital:** The allotment raises the paid‑up equity share",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "641f6b88-8dd1-4aaa-b87c-bfd99418147c",
+    "SCRIP_CD": 530965,
+    "XML_NAME": "ANN_530965_641F6B88-8DD1-4AAA-B87C-BFD99418147C",
+    "NEWSSUB": "Indian Oil Corporation Ltd - 530965 - Intimation Regarding Imposition Of Fine By BSE Ltd. & National Stock Exchange Of India Ltd.",
+    "DT_TM": "2026-11-28T12:06:24.51",
+    "NEWS_DT": "2026-11-28T12:06:24.51",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "41459951-05e4-4a9c-89c3-24ed273c1d05.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation regarding imposition of fine by BSE Ltd. & National Stock Exchange of India Ltd.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/indian-oil-corporation-ltd/ioc/530965/",
+    "SLONGNAME": "Indian Oil Corporation Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:06:24",
+    "DissemDT": "2026-11-28T12:06:24.51",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 393437,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- On 27 Nov 2026, BSE Ltd. and NSE Ltd. notified Indian Oil Corporation Ltd. of non‑compliance for the quarter ended 30 Sep 2026 and each imposed a fine of **₹14,46,680 (inclusive of GST)**.  \n\n- In a letter dated 28 Nov 2026, the company explained that the shortfall of",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "e9edf3c9-4220-4e4f-86dd-b0c11ddb7eca",
+    "SCRIP_CD": 543324,
+    "XML_NAME": "ANN_543324_E9EDF3C9-4220-4E4F-86DD-B0C11DDB7ECA",
+    "NEWSSUB": "Gretex Corporate Services Ltd - 543324 - General Updates",
+    "DT_TM": "2026-11-28T12:01:30.27",
+    "NEWS_DT": "2026-11-28T12:01:30.27",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "fb6f9e7d-f015-4fd9-bf6f-e038633f2fd4.pdf",
+    "MORE": "The Company has filed Red Herring Prospectus (RHP) of Shreyas Fabtech Limited with Registrar of Companies (ROC), Mumbai in Connection with its Proposed listing on the Emerge Platform of National Stock Exchange of India Limited (\"NSE or NSE Emerge\").",
+    "HEADLINE": "The Company has filed Red Herring Prospectus (RHP) of Shreyas Fabtech Limited with Registrar of Companies (ROC), Mumbai in Connection with its Proposed listing on the Emerge Platform of ....",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/gretex-corporate-services-ltd/gcsl/543324/",
+    "SLONGNAME": "Gretex Corporate Services Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:01:30",
+    "DissemDT": "2026-11-28T12:01:30.27",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 217691,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Gretex Corporate Services Ltd. has filed the Red Herring Prospectus (RHP) of Shreyas Fabtech Limited with the Registrar of Companies, Mumbai, for a proposed listing on the NSE Emerge platform.  \n- Issue timeline: opening on **Monday, 7 December 2026**, closing on **Wednesday, 9 December 2026**, with the **proposed listing date of 14 December",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "08198f2f-b54b-4ff8-9271-93fda6413c87",
+    "SCRIP_CD": 542011,
+    "XML_NAME": "ANN_542011_08198F2F-B54B-4FF8-9271-93FDA6413C87",
+    "NEWSSUB": "Garden Reach Shipbuilders & Engineers Ltd - 542011 - Disclosure Under Regulation 30 Of SEBI (LODR), Reg 2015 - Imposition Of Fines By NSE And BSE",
+    "DT_TM": "2026-11-28T12:01:25.95",
+    "NEWS_DT": "2026-11-28T12:01:25.95",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "622d9d8b-6ac4-46ad-8bb6-cffefffcca5c.pdf",
+    "MORE": "",
+    "HEADLINE": "Disclosure under Regulation 30 of SEBI (LODR), Reg 2015 - Imposition of Fines by NSE and BSE",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/garden-reach-shipbuilders--engineers-ltd/grse/542011/",
+    "SLONGNAME": "Garden Reach Shipbuilders & Engineers Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T12:01:25",
+    "DissemDT": "2026-11-28T12:01:25.95",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 778233,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The NSE and BSE each imposed a fine of **₹9,77,040 (incl. GST)** on Garden Reach Shipbuilders & Engineers Ltd for non‑compliance with SEBI LODR provisions (missing independent directors, audit committee and nomination & remuneration committee) for the quarter ended **30 Sep 2026**; the notices were dated **27 Nov 2025** and the company’s response was submitted on **28 Nov 2026**.  \n\n- The company has now **appointed two Independent Directors** and **re‑constituted its Audit Committee and HR, Nomination & Remuneration Committee** effective **11 Nov",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "16d50079-47bc-4632-8520-95adeda7ead2",
+    "SCRIP_CD": 531859,
+    "XML_NAME": "ANN_531859_16D50079-47BC-4632-8520-95ADEDA7EAD2",
+    "NEWSSUB": "Oriental Rail Infrastructure Ltd - 531859 - Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
+    "DT_TM": "2026-11-28T11:59:56.667",
+    "NEWS_DT": "2026-11-28T11:59:56.667",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ef9e07ff-1dcd-432c-8ca6-1d8d9a084302.pdf",
+    "MORE": "",
+    "HEADLINE": "Receipt of order from \"Rail Coach Factory, (RCF), Kapurthala, Indian Railways\"",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/oriental-rail-infrastructure-ltd/orirail/531859/",
+    "SLONGNAME": "Oriental Rail Infrastructure Ltd",
+    "AGENDA_ID": null,
+    "TotalPageCnt": 2,
+    "News_submission_dt": "2026-11-28T11:59:56",
+    "DissemDT": "2026-11-28T11:59:56.667",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 801119,
+    "SUBCATNAME": null,
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Oriental Rail Infrastructure Ltd has been awarded a contract by Rail Coach Factory, Kapurthala (Indian Railways) valued at **₹4,25,98,000** (≈ ₹4.26 crore) for the manufacturing, supply and installation of **50 seat‑and‑berth sets for LHB SCN Amrit Bharat 3.0 coaches**.  \n\n- The order must be **executed by 27 August 2027**; payment terms are **95 % payable on issuance of an inspection certificate and proof of dispatch, with the remaining",
+    "key_metrics": {
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "e2fbe3bd-52c4-4c9f-b7ea-538fc86ad0c1",
     "SCRIP_CD": 533519,
     "XML_NAME": "ANN_533519_E2FBE3BD-52C4-4C9F-B7EA-538FC86AD0C1",
@@ -15176,1605 +15939,5 @@
     "summary": "- The Board approved the appointment of **Mr. Navnit Jugalkishore Choudhary (DIN 00613576)** and **Mr. Sudip Rungta (DIN 03146989)** as **Additional Non‑Executive Independent Directors** for a one‑year term **from 27 Nov 2026 to 26 Nov 2027**; both are not liable to retire by rotation and their appointments are subject to shareholder approval.  \n\n- The Board meeting was held on **27 Nov 2026**, convened at **5:41 p.m.** and concluded at **5:49 p.m.**; no financial figures or monetary decisions were disclosed in the announcement.",
     "key_metrics": {},
     "financial_tables": []
-  },
-  {
-    "NEWSID": "b1564ba4-c76d-4c19-b51c-e4f8e80faa9c",
-    "SCRIP_CD": 544735,
-    "XML_NAME": "ANN_544735_B1564BA4-C76D-4C19-B51C-E4F8E80FAA9C",
-    "NEWSSUB": "Novus Loyalty Ltd - 544735 - Announcement under Regulation 30 (LODR)-Acquisition",
-    "DT_TM": "2026-11-27T20:20:43.313",
-    "NEWS_DT": "2026-11-27T20:20:43.313",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "6865bc3d-cc3e-4e70-a971-9f4d2c2b589b.pdf",
-    "MORE": "",
-    "HEADLINE": "Acquisition of 80.87% equity shares of Autopay Payment solutions Limited",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/novus-loyalty-ltd/novus/544735/",
-    "SLONGNAME": "Novus Loyalty Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:20:43",
-    "DissemDT": "2026-11-27T20:20:43.313",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 438860,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "2025",
-      "net_profit": "2025",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Name of Sellers": "",
-            "Number": "of Shares",
-            "% of": "AutoPe",
-            "Number_1": "of shares",
-            "Mode of": "payment",
-            "AutoPe shares": "transferred",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "shares of",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "held in",
-            "% of": "",
-            "Number_1": "being sold",
-            "Mode of": "",
-            "AutoPe shares": "(first closing-",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "the",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "AutoPe",
-            "% of": "",
-            "Number_1": "to Novus",
-            "Mode of": "",
-            "AutoPe shares": "full payment in",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "Company",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "",
-            "% of": "",
-            "Number_1": "Loyalty",
-            "Mode of": "",
-            "AutoPe shares": "cash",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "to be",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "",
-            "% of": "",
-            "Number_1": "Limited",
-            "Mode of": "",
-            "AutoPe shares": "consideration)",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "allotted as",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "",
-            "% of": "",
-            "Number_1": "",
-            "Mode of": "",
-            "AutoPe shares": "",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "swap of",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "",
-            "% of": "",
-            "Number_1": "",
-            "Mode of": "",
-            "AutoPe shares": "",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "shares to",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "",
-            "% of": "",
-            "Number_1": "",
-            "Mode of": "",
-            "AutoPe shares": "",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "AutoPe",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "",
-            "Number": "",
-            "% of": "",
-            "Number_1": "",
-            "Mode of": "",
-            "AutoPe shares": "",
-            "AutoPe shares transferred (second closing- swap of shares)": "",
-            "col_8": "",
-            "Equity": "sellers",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "Mr. Pankaj Gambhir",
-            "Number": "1,27,295",
-            "% of": "6.35%",
-            "Number_1": "73,334",
-            "Mode of": "Cash and Swap of Shares",
-            "AutoPe shares": "33,000",
-            "AutoPe shares transferred (second closing- swap of shares)": "40,334",
-            "col_8": "1,30,815",
-            "Equity": "",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "Ms. Shaloo Gambhir",
-            "Number": "2,48,053",
-            "% of": "12.38%",
-            "Number_1": "2,48,053",
-            "Mode of": "Cash and Swap of shares",
-            "AutoPe shares": "1,13,300",
-            "AutoPe shares transferred (second closing- swap of shares)": "1,34,753",
-            "col_8": "4,37,046",
-            "Equity": "",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "Mr. Naveen Gambhir",
-            "Number": "1,33,950",
-            "% of": "6.68%",
-            "Number_1": "1,26,349",
-            "Mode of": "Cash and swap of shares",
-            "AutoPe shares": "55,181",
-            "AutoPe shares transferred (second closing- swap of shares)": "71,168",
-            "col_8": "2,30,820",
-            "Equity": "",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "Ms. Geeta Gambhir",
-            "Number": "63,650",
-            "% of": "3.18%",
-            "Number_1": "63,650",
-            "Mode of": "Cash and swap of shares",
-            "AutoPe shares": "33,001",
-            "AutoPe shares transferred (second closing- swap of shares)": "30,649",
-            "col_8": "99,405",
-            "Equity": "",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "Ms. Shradha Gambhir",
-            "Number": "31,825",
-            "% of": "1.59%",
-            "Number_1": "4,843",
-            "Mode of": "Swap of shares",
-            "AutoPe shares": "-",
-            "AutoPe shares transferred (second closing- swap of shares)": "4,843",
-            "col_8": "15,707",
-            "Equity": "",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "Ms. Aakriti Gambhir",
-            "Number": "31,820",
-            "% of": "1.59%",
-            "Number_1": "4,843",
-            "Mode of": "Swap of shares",
-            "AutoPe shares": "-",
-            "AutoPe shares transferred (second closing- swap of shares)": "4,843",
-            "col_8": "15,707",
-            "Equity": "",
-            "col_10": ""
-          },
-          {
-            "Name of Sellers": "TOTAL",
-            "Number": "6,36,593",
-            "% of": "31.77%",
-            "Number_1": "5,21,072 (26.00% of stake in AutoPe)",
-            "Mode of": "",
-            "AutoPe shares": "2,34,482",
-            "AutoPe shares transferred (second closing- swap of shares)": "2,86,590",
-            "col_8": "9,29,500",
-            "Equity": "",
-            "col_10": ""
-          }
-        ]
-      },
-      {
-        "page": 4,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "1",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Name of the target entity, and details in brief such as size and turnover",
-            "Details": "AutoPe Payment Solutions Limited (CIN U62090HR2006PLC097425), a public limited company engaged in payment solutions. Paid-up equity share capital: Rs. 20,04,314 (20,04,314 equity shares of Rs. 1 each). Turnover: FY 2025-26 Rs. 102 Cr. PAT: FY 2025-26 Rs. 14 Cr. Net worth as at 31 March 2026: Rs. 70 Cr."
-          },
-          {
-            "col_1": "2",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Whether the acquisition falls within related party transactions, and whether the promoter, promoter group or group companies have any interest in the entity being acquired",
-            "Details": "No. The sellers are not related parties of the Company, and none of its promoters, promoter group or group companies has any interest in AutoPe or the sellers."
-          },
-          {
-            "col_1": "3",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Industry to which the entity belongs",
-            "Details": "Payment solutions / financial technology."
-          },
-          {
-            "col_1": "4",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Objects and effects of the acquisition, including reasons for acquiring the target if its business is outside the Company’s main line of business",
-            "Details": "To enter and expand in the payments business and to combine it with the Company’s loyalty and rewards platform. AutoPe will become a subsidiary of the Company."
-          },
-          {
-            "col_1": "5",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Governmental or regulatory approvals required",
-            "Details": "[Regulatory: none required other than as stated below / specify.] Company: approval of the Board of Directors; shareholders’ approval by special resolution for the preferential issue of equity shares and under Section 186 of the Companies Act, 2013, as applicable; in-principle approval of BSE Limited for the equity shares to be allotted for Swap of Shares."
-          },
-          {
-            "col_1": "6",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Indicative time period for completion",
-            "Details": "For SPA’s entered with Hindustan Media Ventures Limited, Mr. Abhishek Tewari and Mr. Aniruddh Bajpai- First closing by December 31, 2026 and Second closing by June 30, 2027, subject to approvals. For SPA entered with 6 Gambhir members- First closing by December 31, 2026 and Second closing within 120 days of the date of its SPA, subject to approvals."
-          },
-          {
-            "col_1": "7",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Consideration – whether cash or share exchange, and details",
-            "Details": "The entire consideration under Share Purchase Agreements alongwith Amendment Agreement to Share Purchase Agreement entered with Hindustan Media Ventures Limited, Mr. Abhishek Tewari and Mr. Aniruddh Bajpai are payable in cash, in two tranches in two equal instalments as per agreement, linked to transfer of the corresponding tranche of shares. The consideration under Share Purchase Agreement entered with six Gambhir members are payable in Cash consideration"
-          }
-        ]
-      },
-      {
-        "page": 5,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "col_1": "",
-            "Sr.": "No.",
-            "col_3": "",
-            "Particulars": "",
-            "Details": ""
-          },
-          {
-            "col_1": "",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "",
-            "Details": "and Swap consideration, in two tranches, linked to transfer of the corresponding tranche of shares as mentioned in the respective agreement."
-          },
-          {
-            "col_1": "8",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Cost of acquisition or the price at which the shares are acquired",
-            "Details": "Aggregate consideration of Rs. 62.72 Cr., will be paid through cash consideration to Hindustan Media Ventures Limited, Mr. Abhishek Tewari and Mr. Aniruddh Bajpai which will be completed in two tranches in two equal instalments as mentioned in their respective Share Purchase Agreements alongwith Amendment Agreements executed respectively. Aggregate consideration of Rs. 33.80 Cr. out of which Rs. 15.21 Cr. will be paid through cash consideration and Rs. 18.59 Cr. will be paid through swap consideration in two tranches as mentioned in the Share Purchase Agreement entered with six Gambhir members."
-          },
-          {
-            "col_1": "9",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Percentage of shareholding or control acquired, and number of shares acquired",
-            "Details": "16,20,893equity shares, being 80.87% of the paid-up equity share capital of AutoPe. AutoPe will become a subsidiary of the Company after completion of execution of all the tranches."
-          },
-          {
-            "col_1": "10",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Brief background of the entity acquired",
-            "Details": "Incorporated on March 09, 2006 as a private limited company; converted to a public limited company in July 2024."
-          },
-          {
-            "col_1": "11",
-            "Sr.": "",
-            "col_3": "",
-            "Particulars": "Names of the sellers and nature of relationship with the Company",
-            "Details": "Hindustan Media Ventures Limited, Mr. Abhishek Tewari, Mr. Aniruddh Bajpai, Mr. Pankaj Gambhir, Ms. Shaloo Gambhir, Mr. Naveen Gambhir, Ms. Geeta Gambhir, Ms. Shradha Gambhir and Ms. Aakriti Gambhir. None are related party of the Company."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "94616e1e-fb33-4fe7-937c-7f0fd623f155",
-    "SCRIP_CD": 540025,
-    "XML_NAME": "ANN_540025_94616E1E-FB33-4FE7-937C-7F0FD623F155",
-    "NEWSSUB": "Advanced Enzyme Technologies Ltd - 540025 - Announcement under Regulation 30 (LODR)-Updates on Acquisition",
-    "DT_TM": "2026-11-27T20:19:58.727",
-    "NEWS_DT": "2026-11-27T20:19:58.727",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "4e7b03b0-71d7-4540-bbb5-ff2fb45b253a.pdf",
-    "MORE": "Update on acquistion of remaining stake of 1.84% in JC Biotech Private Limited, Subsidiary i.e. increase in Shareholding from 98.16% to 100%. Accordingly JC Biotech Private Limited become a wholly owned subsidiary of the Company effective from November 27, 2026",
-    "HEADLINE": "Update on acquistion of remaining stake of 1.84% in JC Biotech Private Limited, Subsidiary i.e. increase in Shareholding from 98.16% to 100%. Accordingly JC Biotech Private Limited become ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/advanced-enzyme-technologies-ltd/advenzymes/540025/",
-    "SLONGNAME": "Advanced Enzyme Technologies Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:19:58",
-    "DissemDT": "2026-11-27T20:19:58.727",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 211883,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "in Millions"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0d88766c-dd41-4a9c-acf5-e57a01322ed3",
-    "SCRIP_CD": 532313,
-    "XML_NAME": "ANN_532313_0D88766C-DD41-4A9C-ACF5-E57A01322ED3",
-    "NEWSSUB": "Mahindra Lifespace Developers Ltd - 532313 - Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
-    "DT_TM": "2026-11-27T20:18:03.473",
-    "NEWS_DT": "2026-11-27T20:18:03.473",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "50e0c56f-ec9d-4997-8519-3a30a6b89a15.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Notice of Postal Ballot",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mahindra-lifespace-developers-ltd/mahlife/532313/",
-    "SLONGNAME": "Mahindra Lifespace Developers Ltd",
-    "AGENDA_ID": 34,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:18:03",
-    "DissemDT": "2026-11-27T20:18:03.473",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 897655,
-    "SUBCATNAME": "Postal Ballot",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "3035.97 crore",
-      "net_profit": "15638.93 crore",
-      "total_equity": "73994.76 crore",
-      "total_debt": "",
-      "dividend": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": [
-      {
-        "page": 14,
-        "table_index": 2,
-        "row_count": 10,
-        "rows": [
-          {
-            "Nature of Transactions": "Rent Expenses",
-            "Amount in ` crore": "6.54"
-          },
-          {
-            "Nature of Transactions": "Training Cost",
-            "Amount in ` crore": "0.09"
-          },
-          {
-            "Nature of Transactions": "Professional Fees (including Charges towards usage of Trademark)",
-            "Amount in ` crore": "0.01"
-          },
-          {
-            "Nature of Transactions": "Reimbursement",
-            "Amount in ` crore": "13.80"
-          },
-          {
-            "Nature of Transactions": "Interest expense",
-            "Amount in ` crore": "20.34"
-          },
-          {
-            "Nature of Transactions": "Reimbursement from parties",
-            "Amount in ` crore": "0.37"
-          },
-          {
-            "Nature of Transactions": "Inter Corporate Deposit Received",
-            "Amount in ` crore": "585.00"
-          },
-          {
-            "Nature of Transactions": "Inter Corporate Deposit Repaid",
-            "Amount in ` crore": "485.00"
-          },
-          {
-            "Nature of Transactions": "Issue of equity shares",
-            "Amount in ` crore": "834.89"
-          },
-          {
-            "Nature of Transactions": "Total Transaction FY26",
-            "Amount in ` crore": "1946.04"
-          }
-        ]
-      },
-      {
-        "page": 16,
-        "table_index": 0,
-        "row_count": 8,
-        "rows": [
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year",
-            "Details": "256.63% (` 1,178.31 crore turnover as on 31st March, 2026) Note: The percentage has been calculated based on the total amount of ` 3023.92 crore pertaining to the transaction proposed under Item No. 1 of this Notice. The percentage shall be 257.65 % based on ` 3035.97 crore (transactions approved at the 27th AGM and Item no. 1 of this notice)."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "Not Applicable since the Company is a party to the transaction"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "1.53% Note: The percentage has been calculated based on total amount of ` 3035.97 crore and consolidated turnover of M&M as on 31st March, 2026 i.e. `198638.55 crore."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Financial performance of the related party for the preceding financial year:",
-            "Details": "FY 2025-26 (Standalone)"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Turnover: ` 1,47,765.35 crores"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Profit After Tax: ` 15,638.93 crores"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Net worth: ` 73,994.76 crores (as disclosed under Form MGT-7 for the FY 2025-26)."
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Particulars Amount In ` crore Reimbursement# 23.92 *Includes ` 0.01 crore towards payment of trademark license fee. #Sharing or usage of each other’s resources and reimbursement of expenses"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Details of each type of the proposed transaction",
-            "Details": "The proposed transaction is for availing fund based and/or non-fund- based support including equity/debt/Inter-corporate deposits (“ICD”), convertible/ non-convertible instruments/Guarantee etc./ security in connection with loans availed (“borrowings”), not exceeding Rs. 3,000 crore. Repayment of principal and interest/charges thereon is a result of the availing of fund/non-fund-based facility and therefore not included in the aforesaid limit. In the ordinary course of business, the Company may enter into transactions with related parties involving reimbursement of expenses incurred by either party on behalf of the other. Further, corporate actions including, but not limited to, payment of dividend, bonus issue, rights issue, buy-back of securities, and other similar transactions carried out in accordance with applicable law, are excluded from related party transactions."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Tenure of the proposed transaction (tenure in number of years or months to be specified)",
-            "Details": "The term will be as may be decided between the Company and M&M from time to time within the limits as approved by the shareholders through the resolution as mentioned in Item No. 1 of this Notice whose validity shall be from the date of approval of the resolution upto the next Annual General Meeting of the Company."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "The shareholders at the 27th AGM held on 23rd July 2026 approved material related party transaction with M&M as under: Nature of transaction (in brief) Amount in ` crore Availing of fund based and/or non-fund based 1,800 support (borrowings) Payment of professional fees (which includes 0.05 charges towards usage of trademark) Purchase of fixed assets 2.0 Rent expenses 8.0 Training cost 2.0 Reimbursement 18.92 The proposed modification includes as under: Nature of transaction (in brief) Amount in ` crore Availing of fund based and/or non-fund based 3,000 support (borrowings) Reimbursement of expenses 23.92 The borrowings shall be undertaken in one or more tranches for short term or long term and basis mutually agreed terms between the Company and M&M. The validity of the resolution as mentioned in Item No. 1 of this Notice shall be from the date of approval of this Resolution upto the next AGM of the Company."
-          }
-        ]
-      },
-      {
-        "page": 17,
-        "table_index": 2,
-        "row_count": 6,
-        "rows": [
-          {
-            "Nature of transaction (in brief)": "Availing of fund based and/or non-fund based support (borrowings)",
-            "Amount in ` crore": "1,800"
-          },
-          {
-            "Nature of transaction (in brief)": "Payment of professional fees (which includes charges towards usage of trademark)",
-            "Amount in ` crore": "0.05"
-          },
-          {
-            "Nature of transaction (in brief)": "Purchase of fixed assets",
-            "Amount in ` crore": "2.0"
-          },
-          {
-            "Nature of transaction (in brief)": "Rent expenses",
-            "Amount in ` crore": "8.0"
-          },
-          {
-            "Nature of transaction (in brief)": "Training cost",
-            "Amount in ` crore": "2.0"
-          },
-          {
-            "Nature of transaction (in brief)": "Reimbursement",
-            "Amount in ` crore": "18.92"
-          }
-        ]
-      },
-      {
-        "page": 18,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "As mentioned in the explanatory statement."
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars of the information": "Details of the promoter(s)/ director(s) / key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly. Explanation: Indirect interest shall mean interest held through any person over which an individual has control.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Name of the director / KMP",
-            "Details": "Mahindra & Mahindra Limited is the holding promoter company and holding 52.39% of the total equity share capital. Dr. Anish Shah, Managing Director & CEO of Mahindra & Mahindra Limited (M&M), is also a Non-Executive Non-Independent Director of the Company. Ms. Rucha Nanavati is the Chief of Advanced Technologies of M&M and is also a Non-Executive Non-Independent Director of the Company. None of the key managerial personnel or Directors of the Company have any interest in the proposed transactions in terms of section 184 of the Companies Act, 2013."
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars of the information": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "Not Applicable since the proposed transaction is for availing of financial assistance from the holding company and reimbursement transaction(s)."
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars of the information": "Other information relevant for decision making.",
-            "Details": "All details are provided in the explanatory statement."
-          }
-        ]
-      },
-      {
-        "page": 20,
-        "table_index": 0,
-        "row_count": 14,
-        "rows": [
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Interest rate",
-            "Details": "As mentioned above, the loans will be availed at prevailing market rates on an arm’s length basis. The Company benchmarks rates using publicly available data, including rates published by financial institutions/banks. The Company also benchmarks the rates and terms based on criteria such as tenure of the loan, prepayment flexibility, secured or unsecured facility, appropriate available benchmark rate like SBI – MCLR, rates of government bonds and suitable margin and as agreed between the Company and Mahindra & Mahindra Limited, holding and promoter company."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Cost of borrowing",
-            "Details": "No additional associated cost is envisaged."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Maturity / due date",
-            "Details": "The loan shall be availed for short/long term basis and can be availed in tranches, from time to time within the limits as specified under the Listing Regulations and shareholders’ approved limits, from time to time."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Repayment schedule & terms",
-            "Details": "The loan shall be repayable based on the agreed terms and conditions between the Company and Mahindra & Mahindra Limited, holding and promoter company from time to time."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Whether secured or unsecured",
-            "Details": "Unsecured"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars of the information": "If secured, the nature of security & security coverage ratio",
-            "Details": "Not Applicable since the same are unsecured"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars of the information": "The purpose for which the funds will be utilized by the listed entity / subsidiary",
-            "Details": "The funds will be utilised by the Company to meet its capital requirements from time to time for business purposes."
-          },
-          {
-            "Sr. No.": "C (4) : Disclosure only in case of transactions relating to borrowings by the listed entity or its Subsidiary",
-            "Particulars of the information": "",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars of the information": "Debt to Equity Ratio of the listed entity or its subsidiary based on last audited financial statements. Note: This shall not be applicable to listed banks/NBFC/insurance companies/housing finance companies.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Before transaction",
-            "Details": "Debt to equity ratio as on 31st March, 2026 for the Company is 0.20 (standalone)"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. After transaction*",
-            "Details": "1.18"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars of the information": "Debt Service Coverage Ratio of the listed entity or its subsidiary based on last audited financial statements. Note: This shall not be applicable to listed banks/NBFC/insurance companies/ housing finance companies.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Before transaction",
-            "Details": "Debt service coverage ratio as on 31st March, 2026 for the Company is 0.20 (standalone)"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. After transaction*",
-            "Details": "0.04"
-          }
-        ]
-      },
-      {
-        "page": 23,
-        "table_index": 0,
-        "row_count": 9,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars of the information": "Amount of the proposed transactions being placed for approval in the meeting of the Audit Committee/shareholders.",
-            "Details": "The proposed transaction is for availing fund based and/or non-fund- based support including equity/debt/Inter-corporate deposits (“ICD”), convertible/ non-convertible instruments/Guarantee etc./ security in connection with loans availed (“borrowings”), not exceeding ` 250 crore. Repayment of principal and interest/charges thereon is a result of the availing of fund/non-fund-based facility and therefore not included in the aforesaid limit which shall be undertaken as may be mutually agreed. Further, an amount of ` 3 crore has been estimated towards the car leasing arrangement between the Company and MMFSL, extended for the benefit of its employees. This benefit is uniformly available to all employees who opt for the car leasing facility in accordance with the Company’s policy. Further, revenue of approximately ` 2 crore is estimated to be generated in connection with the home loan customer referral arrangement."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Whether the proposed transactions taken together with the transactions undertaken with the related party during the current financial year would render the proposed transaction a material RPT?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year.",
-            "Details": "21.64% (` 1,178.31 crore turnover as on 31st March, 2026) Note: The percentage has been calculated based on the total amount of ` 255 crore pertaining to the material related party transaction proposed under Item No. 2 of this Notice."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year",
-            "Details": "Not Applicable since the Company is a party to the transaction."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": "1.21% (` 21,005.37 crore as on 31st March, 2026)"
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Financial performance of the related party for the immediately preceding financial year:",
-            "Details": "FY 2025-26 (Standalone)"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Turnover: ` 18,445.59 crore"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Profit After Tax: ` 2,782.23 crore"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Net worth: ` 24,758.70 crore (as disclosed under Form MGT-7 for the FY 2025-26)."
-          }
-        ]
-      },
-      {
-        "page": 24,
-        "table_index": 0,
-        "row_count": 12,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars of the information": "Specific type of the proposed transaction (e.g. sale of goods/services, purchase of goods/ services, giving loan, borrowing etc.)",
-            "Details": "The proposed transaction is for availing fund based and/or non-fund- based support including equity/debt/Inter-corporate deposits (“ICD”), convertible/non-convertible instruments/Guarantee etc./security in connection with loans availed (“borrowings”), not exceeding ` 250 crore. Re-payment of principal and interest/charges thereon is a result of the availing of fund/non-fund based facility and therefore not included in the aforesaid limit which shall be undertaken as may be mutually agreed. Further, an amount of ` 3 crore have been estimated towards car leasing arrangement between the Company and MMFSL for the benefit of the employees of the Company. Further, revenue of approximately ` 2 crore is estimated to be generated in connection with the home loan customer referral arrangement."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Details of each type of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Tenure of the proposed transaction (tenure in number of years or months to be specified)",
-            "Details": "Not applicable The tenure will be as may be decided between the Company and MMFSL."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "Not exceeding ` 255 crore."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "As mentioned in the explanatory statement."
-          },
-          {
-            "Sr. No.": "Sr. No.",
-            "Particulars of the information": "Particulars of the information",
-            "Details": "Details"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars of the information": "Details of the promoter(s)/director(s)/key managerial personnel of the listed entity who have interest in the transaction, whether directly or indirectly. Explanation: Indirect interest shall mean interest held through any person over which an individual has control.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Name of the director/KMP",
-            "Details": "Mahindra & Mahindra Limited, is the holding company of the Company and MMFSL. Dr. Anish Shah, Director of MMFSL is also a Non-Executive Non-Independent Director of the Company. None of the key managerial personnel or Directors of the Company have any interest in the proposed transactions in terms of section 184 of the Companies Act, 2013."
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. Shareholding of the director / KMP, whether direct or indirect, in the related party",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars of the information": "A copy of the valuation or other external party report, if any, shall be placed before the Audit Committee.",
-            "Details": "Not Applicable in case required/applicable the same shall be obtained"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars of the information": "Other information relevant for decision making.",
-            "Details": "All details are provided in the explanatory statement."
-          }
-        ]
-      },
-      {
-        "page": 26,
-        "table_index": 0,
-        "row_count": 16,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Further, in this instance the lender will also be guided by Section 186 of the Companies Act, 2013 which states that “No loan shall be given under this section at a rate of interest lower than the prevailing yield of one year, three-year, five year or ten-year Government Security closest to the tenor of the loan.” All the terms and conditions in relation to the availing of financial assistance shall be governed through mutually agreed terms between the Company and MMFSL, alongside the parameters mentioned in this explanatory statement."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Interest rate",
-            "Details": "As mentioned above, the loans will be availed at prevailing market rates on an arm’s length basis. The Company benchmarks rates using publicly available data, including rates published by financial institutions/banks. The Company also benchmarks the rates and terms based on criteria such as tenure of the loan, prepayment flexibility, secured or unsecured facility, appropriate available benchmark rate like SBI – MCLR, rates of government bonds and suitable margin and as agreed between the Company and MMFSL."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Cost of borrowing",
-            "Details": "No additional associated cost is envisaged."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Maturity / due date",
-            "Details": "The loan shall be availed for short/long term basis and can be availed in tranches, from time to time, in accordance with the limits as specified under the Listing Regulations and shareholders’ approved limits, from time to time."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Repayment schedule & terms",
-            "Details": "The loan shall be repayable based on the agreed terms and conditions between the Company and MMFSL from time to time."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "The price is determined based on the terms between the Company and MMF",
-            "Details": "Unsecured"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars of the information": "If secured, the nature of security & security coverage ratio",
-            "Details": "Not Applicable since the same are unsecured"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars of the information": "The purpose for which the funds will be utilized by the listed entity / subsidiary",
-            "Details": "The funds will be utilised by the Company to meet its capital requirements from time to time for business purposes."
-          },
-          {
-            "Sr. No.": "C (4) Disclosure only in case of transactions relating to borrowings by the listed entity or its subsidiary",
-            "Particulars of the information": "",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "Sr. No.",
-            "Particulars of the information": "Particulars of the information",
-            "Details": "Details"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars of the information": "Debt to Equity Ratio of the listed entity or its subsidiary based on last audited financial statements Note: This shall not be applicable to listed banks/NBFC/insurance companies/ housing finance companies.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Before transaction",
-            "Details": "Debt to equity ratio as on 31st March 2026 for the Company is 0.20 (standalone)"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. After transaction*",
-            "Details": "0.29"
-          },
-          {
-            "Sr. No.": "10",
-            "Particulars of the information": "Debt Service Coverage Ratio of the listed entity or its subsidiary based on last audited financial statements Note: This shall not be applicable to listed banks/NBFC/insurance companies/ housing finance companies.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Before transaction",
-            "Details": "Debt service coverage ratio as on 31st March 2026 for the Company is 0.20 (standalone)"
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. After transaction*",
-            "Details": "0.15"
-          }
-        ]
-      },
-      {
-        "page": 30,
-        "table_index": 0,
-        "row_count": 4,
-        "rows": [
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of the listed entity’s annual consolidated turnover for the immediately preceding financial year",
-            "Details": "30.85% (Rs. 1,178.31 crore as on 31st March 2026) Note: The percentage has been calculated based on the total amount of ` 363.5 crore (i.e. ` 338.5 crore in aggregate value of transactions as approved by the Shareholders at Resolution No. 8 of the 27th Annual General Meeting of the Company held on 23rd July 2026 and the proposed transaction of Rs. 25 crore pertaining to the material related party transaction proposed under Item No. 3 of this Notice in relation to the proposed borrowings."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year (in case of a transaction involving the subsidiary and where the listed entity is not a party to the transaction)",
-            "Details": "MWCDL MIPCL Value of the proposed transactions 68.27% 136.86% as a percentage of subsidiary’s annual standalone turnover for the immediately preceding financial year"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Value of the proposed transactions as a percentage of the related party’s annual consolidated turnover (if consolidated turnover is not available, calculation to be made on standalone turnover of related party) for the immediately preceding financial year, if available.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Financial performance of the related party for the immediately preceding financial year:",
-            "Details": "FY 2025-26 Amount in ` Crore Parameters MWCDL MIPCL Turnover 532.48 265.58 Profit After Tax 173.09 56.40 Net worth 455.81 466.07"
-          }
-        ]
-      },
-      {
-        "page": 30,
-        "table_index": 2,
-        "row_count": 4,
-        "rows": [
-          {
-            "FY 2025-26 Amount in ` Crore": "Parameters",
-            "col_2": "MWCDL",
-            "col_3": "MIPCL"
-          },
-          {
-            "FY 2025-26 Amount in ` Crore": "Turnover",
-            "col_2": "532.48",
-            "col_3": "265.58"
-          },
-          {
-            "FY 2025-26 Amount in ` Crore": "Profit After Tax",
-            "col_2": "173.09",
-            "col_3": "56.40"
-          },
-          {
-            "FY 2025-26 Amount in ` Crore": "Net worth",
-            "col_2": "455.81",
-            "col_3": "466.07"
-          }
-        ]
-      },
-      {
-        "page": 30,
-        "table_index": 3,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars of the information": "Specific type of the proposed transaction (e.g. sale of goods/services, purchase of goods/ services, giving loan, borrowing etc.)",
-            "Details": "Inter Corporate Deposit (ICD) proposed to be availed by MIPCL from MWCDL for an aggregate amount of Rs. 25 crore for long term, or short term in one or more tranches. Re-payment of principal/interest is a result of the availing of fund/non-fund-based facility and therefore not included in the aforesaid limit which shall be undertaken as may be mutually agreed between MIPCL and MWCDL."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Details of each type of the proposed transaction",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Tenure of the proposed transaction (tenure in number of years or months to be specified)",
-            "Details": "This is an enabling resolution which will be valid from the date of approval upto the next AGM of the Company. The tenure will be as may be agreed between MIPCL and MWCDL."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Whether omnibus approval is being sought?",
-            "Details": "Yes"
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Value of the proposed transaction during a financial year. If the proposed transaction will be executed over more than one financial year, provide estimated break-up financial year-wise.",
-            "Details": "` 25 crore for the proposed modification as mentioned in Item no. 3 of this Notice. ` 363.5 crore which includes the transaction approved at the 27th AGM and Item No. 1 of this Notice."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Justification as to why the RPTs proposed to be entered into are in the interest of the listed entity",
-            "Details": "As mentioned in the explanatory statement."
-          }
-        ]
-      },
-      {
-        "page": 32,
-        "table_index": 0,
-        "row_count": 13,
-        "rows": [
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "",
-            "Details": "Loans availed, if any, from external sources, having similar tenure and nature are also used as benchmark while availing any financial assistance. All terms, including the rate of interest, are reviewed and are undertaken in accordance with the parameters approved by the Board of Directors of the subsidiaries to ensure they are fair, reasonable, and at arm's length. All the terms and conditions in relation to the availing of financial assistance shall be governed through mutually agreed terms between the MIPCL and MWCDL, alongside the parameters mentioned in this explanatory statement."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars of the information": "Interest rate",
-            "Details": "Loan(s) to be availed by the related parties shall be at prevailing market rates on an arm's length basis. Related parties rates using publicly available data, including rates published by financial institutions/banks. They shall also benchmark the rates and terms based on criteria such as tenure of the loan, prepayment flexibility, secured or unsecured facility, appropriate available benchmark rate like SBI – MCLR, rates of government bonds and suitable margin and as agreed between the MIPCL and MWCDL from time to time. Loans availed, if any, from external sources, having similar tenure and nature are also used as benchmark while availing any financial assistance."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars of the information": "Cost of borrowing",
-            "Details": "No additional associated cost is envisaged."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars of the information": "Maturity / due date",
-            "Details": "The loan shall be availed for short/long term basis and can be availed in tranches, from time to time, in accordance with the limits as specified under the Listing Regulations and shareholders’ approved limits, from time to time."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars of the information": "Repayment schedule & terms",
-            "Details": "The loan shall be repayable based on the agreed terms and conditions between MIPCL and MWCDL from time to time."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars of the information": "Whether secured or unsecured",
-            "Details": "Unsecured"
-          },
-          {
-            "Sr. No.": "7",
-            "Particulars of the information": "If secured, the nature of security & security coverage ratio",
-            "Details": "Not Applicable since the same are unsecured"
-          },
-          {
-            "Sr. No.": "8",
-            "Particulars of the information": "The purpose for which the funds will be utilized by the listed entity / subsidiary",
-            "Details": "The funds will be utilised by MIPCL to meet its capital requirements from time to time for business purposes."
-          },
-          {
-            "Sr. No.": "C (4): Disclosure only in case of transactions relating to borrowings by the listed entity or its subsidiary",
-            "Particulars of the information": "",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "Sr. No.",
-            "Particulars of the information": "Particulars of the information",
-            "Details": "Details"
-          },
-          {
-            "Sr. No.": "9",
-            "Particulars of the information": "Debt to Equity Ratio of the listed entity or its subsidiary based on last audited financial statements Note: This shall not be applicable to listed banks/NBFC/insurance companies/housing finance companies.",
-            "Details": ""
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "a. Before transaction",
-            "Details": "Debt to equity ratio as on 31st March 2026 for the Company is 0.20 (standalone) There is NIL Debt outstanding as on 31st March 2026 in MIPCL and MWCDL."
-          },
-          {
-            "Sr. No.": "",
-            "Particulars of the information": "b. After transaction*",
-            "Details": "0.29 of the Company as on 31st March 2026 Debt to equity ratio as on 31st March 2026 of MIPCL is 0.05 There is Debt as on 31st March 2026 in MWCDL."
-          }
-        ]
-      },
-      {
-        "page": 34,
-        "table_index": 0,
-        "row_count": 3,
-        "rows": [
-          {
-            "Particulars": "Amount in crore availed (`)",
-            "Bank Loans (TL/ OD/CC/ WCDL)": "425",
-            "Inter corporate deposit": "1800",
-            "Total": "2"
-          },
-          {
-            "Particulars": "Amount drawn in crore (`)",
-            "Bank Loans (TL/ OD/CC/ WCDL)": "0.18",
-            "Inter corporate deposit": "625",
-            "Total": "625.18"
-          },
-          {
-            "Particulars": "% to outstanding borrowings",
-            "Bank Loans (TL/ OD/CC/ WCDL)": "",
-            "Inter corporate deposit": "",
-            "Total": "28.10%"
-          }
-        ]
-      },
-      {
-        "page": 34,
-        "table_index": 1,
-        "row_count": 3,
-        "rows": [
-          {
-            "Particulars": "Amount in crore availed (`)",
-            "Bank Loans (TL/ OD/CC/ WCDL)": "435",
-            "Inter corporate deposit": "1800",
-            "Total": "2,225"
-          },
-          {
-            "Particulars": "Amount drawn in crore (`)",
-            "Bank Loans (TL/ OD/CC/ WCDL)": "0.43",
-            "Inter corporate deposit": "625",
-            "Total": "625.43"
-          },
-          {
-            "Particulars": "% to outstanding borrowings",
-            "Bank Loans (TL/ OD/CC/ WCDL)": "",
-            "Inter corporate deposit": "",
-            "Total": "27.98%"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "aa378156-995d-44d8-a939-67a782a08ce0",
-    "SCRIP_CD": 532134,
-    "XML_NAME": "ANN_532134_AA378156-995D-44D8-A939-67A782A08CE0",
-    "NEWSSUB": "Bank of Baroda - 532134 - Announcement under Regulation 30 (LODR)-Change in Management",
-    "DT_TM": "2026-11-27T20:16:22.92",
-    "NEWS_DT": "2026-11-27T20:16:22.92",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ddf6beff-9542-4d04-a2a6-4e13c3802037.pdf",
-    "MORE": "",
-    "HEADLINE": "Change in Management",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/bank-of-baroda/bankbaroda/532134/",
-    "SLONGNAME": "Bank of Baroda",
-    "AGENDA_ID": 124,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:16:22",
-    "DissemDT": "2026-11-27T20:16:22.92",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 292169,
-    "SUBCATNAME": "Change in Management",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "00f9724d-3d8b-4338-bf2f-fb7e9762aff0",
-    "SCRIP_CD": 505200,
-    "XML_NAME": "ANN_505200_00F9724D-3D8B-4338-BF2F-FB7E9762AFF0",
-    "NEWSSUB": "Eicher Motors Ltd - 505200 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-    "DT_TM": "2026-11-27T20:15:46.38",
-    "NEWS_DT": "2026-11-27T20:15:46.38",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f0f2ce77-b54f-4a34-8f20-504b4b41aae5.pdf",
-    "MORE": "",
-    "HEADLINE": "Return to Pure Adventure: India Launch of the Royal Enfield Himalayan 750",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/eicher-motors-ltd/eichermot/505200/",
-    "SLONGNAME": "Eicher Motors Ltd",
-    "AGENDA_ID": 35,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:15:46",
-    "DissemDT": "2026-11-27T20:15:46.38",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 674645,
-    "SUBCATNAME": "Press Release / Media Release",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "f511041f-6c6a-4de9-8053-c5bb476f6baa",
-    "SCRIP_CD": 535789,
-    "XML_NAME": "ANN_535789_F511041F-6C6A-4DE9-8053-C5BB476F6BAA",
-    "NEWSSUB": "Sammaan Capital Ltd - 535789 - Compliances-Reg. 57 (1) - Certificate of interest payment/Principal in case of NCD ",
-    "DT_TM": "2026-11-27T20:07:03.32",
-    "NEWS_DT": "2026-11-27T20:07:03.32",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "3ae27be9-06c4-4177-99a4-8d1583226420.pdf",
-    "MORE": "We hereby certify that our Company has made timely payment of Interest amount in respect of the NCDs issued by our Company through Public Issue and listed on the Stock Exchanges.\r\n\r\nRefer attached PDF file for more details.",
-    "HEADLINE": "We hereby certify that our Company has made timely payment of Interest amount in respect of the NCDs issued by our Company through Public Issue and listed on the Stock Exchanges.\r\n\r\nRefer ....",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sammaan-capital-ltd/sammaancap/535789/",
-    "SLONGNAME": "Sammaan Capital Ltd",
-    "AGENDA_ID": 189,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:07:03",
-    "DissemDT": "2026-11-27T20:07:03.32",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 309839,
-    "SUBCATNAME": "Reg. 57 (1) - Certificate of interest payment/Principal in case of NCD",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "227e4e4e-0b5a-4007-a46e-f74ec02de232",
-    "SCRIP_CD": 544367,
-    "XML_NAME": "ANN_544367_227E4E4E-0B5A-4007-A46E-F74EC02DE232",
-    "NEWSSUB": "Quality Power Electrical Equipments Ltd - 544367 - Announcement under Regulation 30 (LODR)-Qualified Institutional Placement",
-    "DT_TM": "2026-11-27T20:06:58.633",
-    "NEWS_DT": "2026-11-27T20:06:58.633",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "3cd9dc32-3757-4881-a583-6a3f0b92a9e9.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of Fund Raising Committee approving closure of QIP, Allocation and Placement Document etc held today i.e. 27th November 2026",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/quality-power-electrical-equipments-ltd/qpower/544367/",
-    "SLONGNAME": "Quality Power Electrical Equipments Ltd",
-    "AGENDA_ID": 145,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:06:58",
-    "DissemDT": "2026-11-27T20:06:58.633",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1026993,
-    "SUBCATNAME": "Qualified Institutional Placement",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "face_value": "10"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0878fa5d-4df2-4cf3-8e66-1ad3dfd96b69",
-    "SCRIP_CD": 544699,
-    "XML_NAME": "ANN_544699_0878FA5D-4DF2-4CF3-8E66-1AD3DFD96B69",
-    "NEWSSUB": "Aye Finance Ltd - 544699 - Transfer Of Equity Shares From Trust To Eligible Grantees",
-    "DT_TM": "2026-11-27T20:04:42.103",
-    "NEWS_DT": "2026-11-27T20:04:42.103",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "a29e7aa8-1e80-4d73-b68f-78c81062761b.pdf",
-    "MORE": "",
-    "HEADLINE": "Pursuant to applicable provisions of SEBI Listing Regulations, an intimation for transfer of Equity shares from trust to eligible grantees upon exercise of options granted is attached herewith",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/aye-finance-ltd/aye/544699/",
-    "SLONGNAME": "Aye Finance Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:04:42",
-    "DissemDT": "2026-11-27T20:04:42.103",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1189765,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Attachment contains no selectable text or is a scanned image.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "1c8c52a8-d642-4aa2-8875-26d5b9513142",
-    "SCRIP_CD": 531358,
-    "XML_NAME": "ANN_531358_1C8C52A8-D642-4AA2-8875-26D5B9513142",
-    "NEWSSUB": "Choice International Ltd - 531358 - Announcement under Regulation 30 (LODR)-Diversification / Disinvestment",
-    "DT_TM": "2026-11-27T20:02:22.53",
-    "NEWS_DT": "2026-11-27T20:02:22.53",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "507cfdb9-49ce-4e60-aad2-bc360ca83958.pdf",
-    "MORE": "",
-    "HEADLINE": "Sale of stake in FLY Hi Financial Services Limited by the Company.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/choice-international-ltd/choicein/531358/",
-    "SLONGNAME": "Choice International Ltd",
-    "AGENDA_ID": 129,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:02:22",
-    "DissemDT": "2026-11-27T20:02:22.53",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 2606240,
-    "SUBCATNAME": "Diversification / Disinvestment",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "25ce025f-3123-460b-bbd8-4d29b4101cdd",
-    "SCRIP_CD": 535789,
-    "XML_NAME": "ANN_535789_25CE025F-3123-460B-BBD8-4D29B4101CDD",
-    "NEWSSUB": "Sammaan Capital Ltd - 535789 - Compliances-Reg. 57 (1) - Certificate of interest payment/Principal in case of NCD ",
-    "DT_TM": "2026-11-27T20:01:12.953",
-    "NEWS_DT": "2026-11-27T20:01:12.953",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e218ce2f-6d33-4281-98d6-7c5ebb0f6b06.pdf",
-    "MORE": "We hereby certify that our Company has made timely payment of Interest amount in respect of the NCDs issued by our Company through Public Issue and listed on the Stock Exchanges.\r\n\r\nRefer attached PDF file for more details.",
-    "HEADLINE": "We hereby certify that our Company has made timely payment of Interest amount in respect of the NCDs issued by our Company through Public Issue and listed on the Stock Exchanges.\r\n\r\nRefer ....",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sammaan-capital-ltd/sammaancap/535789/",
-    "SLONGNAME": "Sammaan Capital Ltd",
-    "AGENDA_ID": 189,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:01:12",
-    "DissemDT": "2026-11-27T20:01:12.953",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 306187,
-    "SUBCATNAME": "Reg. 57 (1) - Certificate of interest payment/Principal in case of NCD",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "bf02ac8e-689f-4786-a3e2-5fd8d3fbab42",
-    "SCRIP_CD": 542651,
-    "XML_NAME": "ANN_542651_BF02AC8E-689F-4786-A3E2-5FD8D3FBAB42",
-    "NEWSSUB": "KPIT Technologies Ltd - 542651 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-    "DT_TM": "2026-11-27T20:00:31.253",
-    "NEWS_DT": "2026-11-27T20:00:31.253",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "23349fbc-6c60-4348-baf0-e49bcc65d293.pdf",
-    "MORE": "",
-    "HEADLINE": "KPIT Technologies Limited has informed the Exchange about Outcome of Investor conference held on Friday, November 27, 2026.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/kpit-technologies-ltd/kpittech/542651/",
-    "SLONGNAME": "KPIT Technologies Ltd",
-    "AGENDA_ID": 80,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T20:00:31",
-    "DissemDT": "2026-11-27T20:00:31.253",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 270977,
-    "SUBCATNAME": "Analyst / Investor Meet",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Conference details & date**: KPIT Technologies Ltd held a one‑to‑one investor/analyst meeting at the “Kotak Midcap Conference 2026” in Mumbai on **Friday, 27 Nov 2026**. Participants included Amansa Invesco, Ishana Capital, JP Morgan Asset Management, Lion Global Investors, Aditya Birla Sunlife AMC, Axis, Max Life Insurance, Nippon MF, Motilal Oswal MF, Ask Investment Managers, Purnartha Investment Managers, Quest Investment Managers, and Shanghvi Family Office.  \n\n- **Information disclosed**: The company **reiterated the information already shared in its earnings call on 28 Oct 2026** and confirmed that **no unpublished price‑sensitive information** was communicated to the investors.  \n\n*No specific financial numbers, decisions, or new disclosures were included in the announcement.*",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0fceb83d-fecd-455e-b37a-b0f3abcbb9c3",
-    "SCRIP_CD": 544447,
-    "XML_NAME": "ANN_544447_0FCEB83D-FECD-455E-B37A-B0F3ABCBB9C3",
-    "NEWSSUB": "Smartworks Coworking Spaces Ltd - 544447 - Intimation Pursuant To Regulation 30 Read With Para A Of Part A Of Schedule IIT Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015, Regarding Service Of Notices In Form RSC-3 To The Secured And Unsecured Creditors In Relation To The Proposed Reduction Of Share Capital (Through Utilization Of Securities Premium Account)",
-    "DT_TM": "2026-11-27T19:59:53.543",
-    "NEWS_DT": "2026-11-27T19:59:53.543",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "489a24c8-be48-442e-a355-054736d3680f.pdf",
-    "MORE": "Intimation pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding service of notices in Form RSC-3 to the Secured and Unsecured Creditors in relation to the proposed Reduction of Share Capital (Through Utilization of Securities Premium Account)",
-    "HEADLINE": "Intimation pursuant to Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, regarding service of notices ....",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/smartworks-coworking-spaces-ltd/smartworks/544447/",
-    "SLONGNAME": "Smartworks Coworking Spaces Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T19:59:53",
-    "DissemDT": "2026-11-27T19:59:53.543",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1154654,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Capital reduction details:** The company has moved to reduce its Securities Premium Account from **₹7,98,22,14,923** to **₹4,12,60,38,398** as per the petition filed with the National Company Law Tribunal (Application No. 196 (ND) of 2026) and the NCLT order dated **23 Nov 2026**.  \n\n- **Creditor notice and timeline:** Notices (Form RSC‑3) were served to all secured and unsecured creditors on **27 Nov 2026** (via speed post and email)",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "cb4b6c59-37d0-4aac-803c-eb0b268f6b70",
-    "SCRIP_CD": 544584,
-    "XML_NAME": "ANN_544584_CB4B6C59-37D0-4AAC-803C-EB0B268F6B70",
-    "NEWSSUB": "SK Minerals & Additives Ltd - 544584 - Board Meeting Intimation for Approving Notice Of Extra-Ordinary General Meeting (EGM) Of The Members Of The Company.",
-    "DT_TM": "2026-11-27T19:56:55.237",
-    "NEWS_DT": "2026-11-27T19:56:55.237",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "46031f22-9ba1-4c5a-b17f-f59f059ef0f8.pdf",
-    "MORE": "SK Minerals & Additives Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/12/2026 ,inter alia, to consider and approve the notice of the Extra-Ordinary General Meeting (EGM) of the members of the Company, proposed to be convened for seeking approval of the members in relation to the proposed acquisition of 100% shares of Synergy Trade Links DMCC, Dubai.",
-    "HEADLINE": "SK Minerals & Additives Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 02/12/2026 ,inter alia, to consider and approve the notice of the Extra-Ordinary ....",
-    "CATEGORYNAME": "Board Meeting",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sk-minerals--additives-ltd/skm/544584/",
-    "SLONGNAME": "SK Minerals & Additives Ltd",
-    "AGENDA_ID": 9,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T19:56:53",
-    "DissemDT": "2026-11-27T19:56:55.237",
-    "TimeDiff": "00:00:02",
-    "Fld_Attachsize": 1040112,
-    "SUBCATNAME": "Board Meeting",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- A board meeting of SK Minerals & Additives Ltd is scheduled for **Wednesday, 2 December 2026** to consider and approve the notice for an **Extra‑Ordinary General Meeting (EGM)**.  \n- The EGM will seek members’ approval for the **proposed acquisition of 100 % of the shares of Synergy Trade Links DMCC, Dubai**, to be made a wholly‑owned subsidiary; **no monetary or other financial details are disclosed** in the announcement.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "3b6d8e38-3228-4f91-adc5-e811993525fe",
-    "SCRIP_CD": 535789,
-    "XML_NAME": "ANN_535789_3B6D8E38-3228-4F91-ADC5-E811993525FE",
-    "NEWSSUB": "Sammaan Capital Ltd - 535789 - Compliances-Reg. 57 (1) - Certificate of interest payment/Principal in case of NCD ",
-    "DT_TM": "2026-11-27T19:54:47.543",
-    "NEWS_DT": "2026-11-27T19:54:47.543",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "c04e1511-3a68-4ed5-9ef7-8afbe6c74b83.pdf",
-    "MORE": "We hereby certify that our Company has made timely payment of Interest amount in respect of the NCDs issued by our Company through Public Issue and listed on the Stock Exchanges.\r\n\r\nRefer attached PDF file for more details.",
-    "HEADLINE": "We hereby certify that our Company has made timely payment of Interest amount in respect of the NCDs issued by our Company through Public Issue and listed on the Stock Exchanges.\r\n\r\nRefer ....",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/sammaan-capital-ltd/sammaancap/535789/",
-    "SLONGNAME": "Sammaan Capital Ltd",
-    "AGENDA_ID": 189,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T19:54:47",
-    "DissemDT": "2026-11-27T19:54:47.543",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 255962,
-    "SUBCATNAME": "Reg. 57 (1) - Certificate of interest payment/Principal in case of NCD",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "currency_unit": "₹ in Lakhs"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "c03ad68d-5cc3-4a98-abeb-b1e47f91b40a",
-    "SCRIP_CD": 509635,
-    "XML_NAME": "ANN_509635_C03AD68D-5CC3-4A98-ABEB-B1E47F91B40A",
-    "NEWSSUB": "Hindustan Composites Ltd - 509635 - Intimation Under Regulation 30 Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-    "DT_TM": "2026-11-27T19:54:47.467",
-    "NEWS_DT": "2026-11-27T19:54:47.467",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "31cfdc76-8a8f-488d-be51-6eb8ee2717f1.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation under Regulation 30 of the Listing Regulations",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/hindustan-composites-ltd/hindcompos/509635/",
-    "SLONGNAME": "Hindustan Composites Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 12,
-    "News_submission_dt": "2026-11-27T19:54:47",
-    "DissemDT": "2026-11-27T19:54:47.467",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 222837,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 2,
-        "table_index": 0,
-        "row_count": 5,
-        "rows": [
-          {
-            "Sr. No.": "1.",
-            "Particulars": "Name of the authority",
-            "Details": "Maharashtra Goods & Services Tax Department."
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Nature and details of the action taken, or order passed.",
-            "Details": "Inspection and search proceeding at the Company’s registered office situated at Lower Parel, Mumbai, under Section 67 of the Maharashtra Goods and Services Tax Act, 2017."
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Date of receipt of direction or order, including any ad-interim or interim orders, or any other communication from the authority.",
-            "Details": "Authorization letter for Inspection and Search was shown to the Company’s officials by the Maharashtra State GST Officials on 27th November, 2026 around 3.23 P.M."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Details of the violation/ contravention committed or alleged to be committed.",
-            "Details": "The Company has not received any such communication yet."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "Impact on financial, operation, or other activities quantifiable in monetary terms to the extent possible.",
-            "Details": "At present, there is no material impact on the financials, business operations or any other activities of the Company due to the aforesaid Inspection and Search proceeding. As the Inspection and Search proceeding is still going on, we will keep the Stock Exchanges updated after receipt of the finding of the such Inspection and Search from the GST Authorities."
-          }
-        ]
-      }
-    ]
   }
 ]
