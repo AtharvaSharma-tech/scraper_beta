@@ -1,5 +1,504 @@
 [
   {
+    "NEWSID": "2bacbbb9-81f1-492c-ad76-024e9f166d16",
+    "SCRIP_CD": 534422,
+    "XML_NAME": "ANN_534422_2BACBBB9-81F1-492C-AD76-024E9F166D16",
+    "NEWSSUB": "Looks Health Services Ltd - 534422 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-28T19:59:03.567",
+    "NEWS_DT": "2026-11-28T19:59:03.567",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "ee38f16b-efc0-4750-8fa9-7551c88edb6f.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement pertaining to publication of Notice of the Extra-Ordinary General Meeting of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/looks-health-services-ltd/looks/534422/",
+    "SLONGNAME": "Looks Health Services Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:59:03",
+    "DissemDT": "2026-11-28T19:59:03.567",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4479223,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- Looks Health Services Ltd submitted newspaper copies dated 28 Nov 2026 announcing an Extra‑Ordinary General Meeting (EGM) to be held on Saturday, 19 Dec 2026 at 02:00 PM at the company’s registered office, with details on remote e‑voting and the cut‑off date.  \n- The submission to BSE was made on 28 Nov 2026; no financial figures, transactions, or monetary decisions were disclosed in the announcement.",
+    "key_metrics": {
+      "currency_unit": "in Billions"
+    },
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9b936e01-dc81-4796-8a8c-26dbdae372c3",
+    "SCRIP_CD": 532712,
+    "XML_NAME": "ANN_532712_9B936E01-DC81-4796-8A8C-26DBDAE372C3",
+    "NEWSSUB": "Reliance Communications Ltd - 532712 - Notice Of 22Nd Annual General Meeting And Annual Report 2025-26",
+    "DT_TM": "2026-11-28T19:52:17.767",
+    "NEWS_DT": "2026-11-28T19:52:17.767",
+    "CRITICALNEWS": "1",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "6f1cc95d-9b0c-427a-a7a4-436875831952.pdf",
+    "MORE": "",
+    "HEADLINE": "Notice of 22nd Annual General Meeting and Annual Report 2025-2026",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/reliance-communications-ltd/rcom/532712/",
+    "SLONGNAME": "Reliance Communications Ltd",
+    "AGENDA_ID": 3,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:52:17",
+    "DissemDT": "2026-11-28T19:52:17.767",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2569062,
+    "SUBCATNAME": "AGM",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The 22nd Annual General Meeting of Reliance Communications Ltd will be held on **Monday, December 21 2026 at 11:30 A.M. (IST)** via video‑conferencing/other audio‑visual means; members can vote electronically, with the eligibility cut‑off date set for **Friday, December 11 2026**.  \n- The company remains under a **corporate insolvency resolution process** (Insolvency and Bankruptcy Code, 2016) with its affairs, business and assets managed by Resolution Professional **Mr. Anish Niranjan Nanavaty** since **June 28 2019**.  \n\n*No specific financial figures or decisions are disclosed in the announcement.*",
+    "key_metrics": {
+      "revenue": "230",
+      "net_profit": "5 crore",
+      "total_assets": "38931",
+      "total_equity": "38931",
+      "total_debt": "",
+      "eps": "2744254050",
+      "dividend": "",
+      "face_value": "5",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 70,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Aggregate amount of loans/ advances in nature of loans - Repayable on demand (A)",
+            "All Parties": "40",
+            "Promoters": "-",
+            "Related Parties": "40"
+          },
+          {
+            "Particulars": "- Agreement does not specify any terms or period of repayment (B)",
+            "All Parties": "6,233",
+            "Promoters": "-",
+            "Related Parties": "6,048"
+          },
+          {
+            "Particulars": "Total (A+B)",
+            "All Parties": "6,273",
+            "Promoters": "-",
+            "Related Parties": "6,088"
+          },
+          {
+            "Particulars": "Percentage of loans/ advances in nature of loans to the total loans",
+            "All Parties": "100%",
+            "Promoters": "-",
+            "Related Parties": "97.05%"
+          }
+        ]
+      },
+      {
+        "page": 72,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "Name of Statute": "Himachal Pradesh Value Added Tax Act, 2005",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.008",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Punjab Value Added Tax Act, 2005",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Kerala Value Added Tax Act, 2003",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.009",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Chhattisgarh Value Added Tax Act, 2003",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.0010",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Orissa Value Added Tax Act, 2004",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Madhya Pradesh Value Added Tax Act, 2003",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Tamilnadu Value Added Tax Act, 2006",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.0011",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "West Bengal Value Added Tax Act,",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.0012",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Income Tax Act, 1961",
+            "Nature of Dues": "Tax Deducted at source",
+            "Amount (` In Crore)": "13.68",
+            "Period to which the amount relates": "FY 2017-18 & F.Y 2018-19",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Professional Tax Act – Various States",
+            "Nature of Dues": "Profession Tax",
+            "Amount (` In Crore)": "0.38",
+            "Period to which the amount relates": "FY 2018-19 onwards",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "The Labour Welfare Fund Act, 1953",
+            "Nature of Dues": "Labour Welfare Fund",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2018-19 onwards",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          }
+        ]
+      },
+      {
+        "page": 77,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Name of Statue": "Central GST Act, 2017 and Madhya Pradesh GST Act, 2017",
+            "Nature of Dues": "Goods and Service Tax (GST) Goods and Service Tax (GST)",
+            "Amount* (` In Crore)": "1.05",
+            "Period": "2018-19",
+            "Forum": "Assistant Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Maharashtra GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "106.54",
+            "Period": "2018-19, 2019-20 and 2020-21",
+            "Forum": "Assistant Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Punjab GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "2.26",
+            "Period": "2018-19",
+            "Forum": "Assistant Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Telangana GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "2.93",
+            "Period": "2019-20",
+            "Forum": "Deputy Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Rajasthan GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "0.01",
+            "Period": "2019-20 and 2020-21",
+            "Forum": "Joint Commissioner of Good and Service Tax, Rajasthan"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Karnataka GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "5.26",
+            "Period": "2020-21",
+            "Forum": "Assistant Commissioner of Goods and Service Tax, Karnataka"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Madhya Pradesh GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "0.004",
+            "Period": "2018-19",
+            "Forum": "Superintendent of Goods and Service Tax, MP"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Maharashtra GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "0.03",
+            "Period": "2018-19",
+            "Forum": "Superintendent of Goods and Service Tax, Maharashtra"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "292.82",
+            "Period": "2009-10 & 2010-11",
+            "Forum": "Bombay High Court"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "0.44",
+            "Period": "2009-10, 2010-11 & 2011-12",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "1.24",
+            "Period": "2010-11, 2011-12 & 2012-13",
+            "Forum": "Bombay High Court"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "90.00",
+            "Period": "Various years",
+            "Forum": "Supreme Court / High Court"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "181.48",
+            "Period": "2014-15",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "30.11",
+            "Period": "2016-17",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "12.80",
+            "Period": "2018-19",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "128.33",
+            "Period": "2015-16",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "0.16",
+            "Period": "2019-20",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "16.79",
+            "Period": "2016-17",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "78.05",
+            "Period": "2019-20",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          }
+        ]
+      },
+      {
+        "page": 79,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Name of Lender": "",
+            "Amount (` in crore)": "Principal",
+            "Period (No. of Days)": "Principal",
+            "Amount (` in crore)_1": "Interest",
+            "Period (No. of Days)_1": "Interest"
+          },
+          {
+            "Name of Lender": "Desai Industrial Finance Private Limited (assigned by Deep Industrial Finance Limited)",
+            "Amount (` in crore)": "260",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Pearl Housing Finance Limited",
+            "Amount (` in crore)": "260",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Invent Assets Securitisation & Reconstruction Private Limited (assigned by Shriyam Auto Fin Limited & Traitriya Construction Finance Limited)",
+            "Amount (` in crore)": "520",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Vishvakarma Equipment Finance Limited",
+            "Amount (` in crore)": "142",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Neptune Steel Strips Limited",
+            "Amount (` in crore)": "68",
+            "Period (No. of Days)": "2283",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Reliance Capital Limited",
+            "Amount (` in crore)": "1,000",
+            "Period (No. of Days)": "2557",
+            "Amount (` in crore)_1": "3",
+            "Period (No. of Days)_1": "2558"
+          },
+          {
+            "Name of Lender": "Other Lenders",
+            "Amount (` in crore)": "7,660",
+            "Period (No. of Days)": "Various Dates",
+            "Amount (` in crore)_1": "68",
+            "Period (No. of Days)_1": "Various Dates"
+          },
+          {
+            "Name of Lender": "Total",
+            "Amount (` in crore)": "39,934",
+            "Period (No. of Days)": "",
+            "Amount (` in crore)_1": "371",
+            "Period (No. of Days)_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "e4e3f4cc-0604-4906-9c37-7546de0ced90",
+    "SCRIP_CD": 526355,
+    "XML_NAME": "ANN_526355_E4E3F4CC-0604-4906-9C37-7546DE0CED90",
+    "NEWSSUB": "Duro Pack Ltd - 526355 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+    "DT_TM": "2026-11-28T19:43:13.45",
+    "NEWS_DT": "2026-11-28T19:43:13.45",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "704ced38-1e77-4b59-af5a-d26e6104248b.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA the revised outcome of Schedule of Analyst/Institutional Investor Meetings under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/duro-pack-ltd/duropack/526355/",
+    "SLONGNAME": "Duro Pack Ltd",
+    "AGENDA_ID": 80,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:43:13",
+    "DissemDT": "2026-11-28T19:43:13.45",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 634221,
+    "SUBCATNAME": "Analyst / Investor Meet",
+    "BSENEWSID": "e4e3f4cc-0604-4906-9c37-7546de0ced90",
+    "INVESTOR_PRESENTATION": "43d33d54-58b5-42f9-8989-1154103827ce.mpeg",
+    "RECORDID": 15007121,
+    "DataInsDate": "2026-11-28T19:43:13.343",
+    "AUDIO_VIDEO_FILE": "https://www.bseindia.com/xml-data/corpfiling/Attachlive/43d33d54-58b5-42f9-8989-1154103827ce.mpeg",
+    "summary": "- The company held an analyst/institutional‑investor interaction on **28 November 2026** as required under SEBI Regulation 30, and has now submitted the revised outcome together with a link to the audio recording of the meeting.  \n- **No financial figures, dates of future actions, or monetary decisions** were disclosed in the announcement; it solely confirms the meeting took place and provides access to the recording.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "37f50153-ec66-411c-a870-b60163fea9af",
+    "SCRIP_CD": 538351,
+    "XML_NAME": "ANN_538351_37F50153-EC66-411C-A870-B60163FEA9AF",
+    "NEWSSUB": "A.F. Enterprises Ltd - 538351 - Financial Results For March 2026",
+    "DT_TM": "2026-11-28T19:35:31.447",
+    "NEWS_DT": "2026-11-28T19:35:31.447",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "47727400-caf9-480f-823f-d1a52b2a6c8c.pdf",
+    "MORE": "",
+    "HEADLINE": "Financila Results for March 2026",
+    "CATEGORYNAME": "Result",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/af-enterprises-ltd/afel/538351/",
+    "SLONGNAME": "A.F. Enterprises Ltd",
+    "AGENDA_ID": 30,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T19:35:31",
+    "DissemDT": "2026-11-28T19:35:31.447",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 13727253,
+    "SUBCATNAME": "Financial Results",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "30.96",
+      "total_assets": "10570.10",
+      "total_equity": "4766.22",
+      "total_debt": "291.28",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "75386cc4-5ae4-4b3d-9fdc-15a633d4409c",
     "SCRIP_CD": 538351,
     "XML_NAME": "ANN_538351_75386CC4-5AE4-4B3D-9FDC-15A633D4409C",
@@ -5637,160 +6136,6 @@
     "AUDIO_VIDEO_FILE": null,
     "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "a5536714-90a6-4bf4-b543-bf2a03cc28bb",
-    "SCRIP_CD": 532955,
-    "XML_NAME": "ANN_532955_A5536714-90A6-4BF4-B543-BF2A03CC28BB",
-    "NEWSSUB": "REC Ltd - 532955 - Intimation Of Incorporation Of Subsidiary Companies.",
-    "DT_TM": "2026-11-28T15:17:36.21",
-    "NEWS_DT": "2026-11-28T15:17:36.21",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f39e30d7-0d46-4b8a-8453-dfeca7e77dca.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of incorporation of subsidiary companies",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/rec-ltd/recltd/532955/",
-    "SLONGNAME": "REC Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:17:36",
-    "DissemDT": "2026-11-28T15:17:36.21",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 860332,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "- **Two new wholly‑owned subsidiaries were incorporated:**  \n  - *Aurangabad Power Transmission Limited* (CIN U42202DL2026GOI472905) – incorporated on **27 Nov 2026** with an authorized and paid‑up capital of **₹5,00,000** (turnover not applicable as it is a newly formed entity).  \n  - *Ramgarh Bhadla III Power Transmission Limited* (CIN U42202DL2026GOI472920) – incorporated on **28 Nov 2026** with the same authorized and paid‑up capital of **₹5,00,000** (turnover not applicable).\n\n-",
-    "key_metrics": {
-      "revenue": ""
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "91c5b2a2-32c6-4f5a-a110-e0d647281a51",
-    "SCRIP_CD": 531595,
-    "XML_NAME": "ANN_531595_91C5B2A2-32C6-4F5A-A110-E0D647281A51",
-    "NEWSSUB": "Capri Global Capital Ltd - 531595 - Announcement under Regulation 30 (LODR)-Acquisition",
-    "DT_TM": "2026-11-28T15:15:43.447",
-    "NEWS_DT": "2026-11-28T15:15:43.447",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "ae421dc8-97ee-4fa8-9966-81593b39db96.pdf",
-    "MORE": "BM held today - Approved the proposal for making a further investment of Rs. 200 Crore in the equity share capital of CGHFL, WOS, by subscribing to the equity shares offered by CGHFL on a Rights basis",
-    "HEADLINE": "BM held today - Approved the proposal for making a further investment of Rs. 200 Crore in the equity share capital of CGHFL, WOS, by subscribing to the equity shares offered by CGHFL on a Rights basis",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/capri-global-capital-ltd/cgcl/531595/",
-    "SLONGNAME": "Capri Global Capital Ltd",
-    "AGENDA_ID": 2,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:15:43",
-    "DissemDT": "2026-11-28T15:15:43.447",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 171784,
-    "SUBCATNAME": "Acquisition",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "",
-      "net_profit": "123 crore",
-      "total_equity": "1169 crore",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "852c818c-d35c-42f3-abab-a84fffe585c8",
-    "SCRIP_CD": 526827,
-    "XML_NAME": "ANN_526827_852C818C-D35C-42F3-ABAB-A84FFFE585C8",
-    "NEWSSUB": "Spice Islands Industries Ltd-$ - 526827 - Intimation Regarding Commencement Of Manufacturing Operations Of Packaged Drinking Water Under The Company''s \"Rogers\" Brand.",
-    "DT_TM": "2026-11-28T15:14:54.26",
-    "NEWS_DT": "2026-11-28T15:14:54.26",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "9b4f8464-4d0f-4f16-9781-3e9543a0342c.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation regarding commencement of manufacturing operation of packaged drinking water under the Company''s \"Rogers\" brand.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/spice-islands-industries-ltd/spiceislin/526827/",
-    "SLONGNAME": "Spice Islands Industries Ltd-$",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:14:54",
-    "DissemDT": "2026-11-28T15:14:54.26",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 581820,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* **Commencement of Operations (Key Dates):** On November 28, 2026, the company announced that it has officially commenced commercial manufacturing operations for packaged drinking water under its \"Rogers\" brand via a contract manufacturing partnership with Hyderabad-based Sriven Enterprises (following an earlier agreement referenced on August 14, 2026).\n* **Financial Details:** The announcement contains no specific financial details, figures, or capital outlay amounts, noting only qualitative expectations of unlocking new revenue streams through expansion into South India.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "0bf3c8a9-0736-4554-ac25-db8afe55cbd9",
-    "SCRIP_CD": 544447,
-    "XML_NAME": "ANN_544447_0BF3C8A9-0736-4554-AC25-DB8AFE55CBD9",
-    "NEWSSUB": "Smartworks Coworking Spaces Ltd - 544447 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-28T15:10:58.407",
-    "NEWS_DT": "2026-11-28T15:10:58.407",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "757090df-0dbb-428a-8ac0-01638f38beac.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation under Regulation 30 read with Para A of Part A of Schedule III of the SEBI (LODR) Regulations, 2015, regarding newspaper publication of notice of hearing before Hon''ble NCLT",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/smartworks-coworking-spaces-ltd/smartworks/544447/",
-    "SLONGNAME": "Smartworks Coworking Spaces Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:10:58",
-    "DissemDT": "2026-11-28T15:10:58.407",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 5733978,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "Here is the summary based strictly on the provided text:\n\n* **Key Dates & Action:** On November 28, 2026, Smartworks Coworking Spaces Limited announced that, pursuant to a National Company Law Tribunal (NCLT) order dated November 23, 2026, it published newspaper notices in *Business Standard* and *Jansatta* regarding a petition hearing scheduled for Tuesday, February 23, 2027.\n* **Financial Decision & Details:** The hearing pertains to a proposed reduction of the company's Securities Premium Account; however, no specific numerical values or financial figures regarding the reduction amount are disclosed in the text.",
-    "key_metrics": {
-      "face_value": "2",
-      "currency_unit": "₹ in Lakhs"
-    },
     "financial_tables": []
   }
 ]
