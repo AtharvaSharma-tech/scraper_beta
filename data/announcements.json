@@ -1,5 +1,98 @@
 [
   {
+    "NEWSID": "baf9ea3f-abc2-4ee1-9b68-edd47624e220",
+    "SCRIP_CD": 509874,
+    "XML_NAME": "ANN_509874_BAF9EA3F-ABC2-4EE1-9B68-EDD47624E220",
+    "NEWSSUB": "Shalimar Paints Ltd-$ - 509874 - Announcement under Regulation 30 (LODR)-Investor Presentation",
+    "DT_TM": "2026-11-28T10:08:51.107",
+    "NEWS_DT": "2026-11-28T10:08:51.107",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "f841aa57-d07c-4557-b7c8-a6dd45f95cf4.pdf",
+    "MORE": "",
+    "HEADLINE": "PFA investor presentation for the analyst meet hosted by Go India Advisors on Tuesday, December 01, 2026 at BKC, Mumbai.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/shalimar-paints-ltd/shalpaints/509874/",
+    "SLONGNAME": "Shalimar Paints Ltd-$",
+    "AGENDA_ID": 120,
+    "TotalPageCnt": 1,
+    "News_submission_dt": "2026-11-28T10:08:51",
+    "DissemDT": "2026-11-28T10:08:51.107",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8508256,
+    "SUBCATNAME": "Investor Presentation",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "revenue": "26",
+      "net_profit": "116 cr",
+      "operating_profit": "26",
+      "total_debt": "5873 cr",
+      "roce": "10.7",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 37,
+        "table_index": 0,
+        "row_count": 6,
+        "rows": [
+          {
+            "col_1": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "H1 FY27": "868"
+          },
+          {
+            "col_1": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "H1 FY27": "10%"
+          },
+          {
+            "col_1": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "H1 FY27": "767"
+          },
+          {
+            "col_1": "CFO / EBITDA",
+            "col_2": "41.9%",
+            "col_3": "35.1%",
+            "col_4": "45.2%",
+            "H1 FY27": "88.4%"
+          },
+          {
+            "col_1": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "H1 FY27": "275"
+          },
+          {
+            "col_1": "",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "H1 FY27": "8.4%*"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "NEWSID": "363150f7-130d-436c-b7e2-0237bcb39155",
     "SCRIP_CD": 500108,
     "XML_NAME": "ANN_500108_363150F7-130D-436C-B7E2-0237BCB39155",
@@ -20577,47 +20670,5 @@
         ]
       }
     ]
-  },
-  {
-    "NEWSID": "830b4db5-970d-4f5f-9005-12115db161ef",
-    "SCRIP_CD": 511642,
-    "XML_NAME": "ANN_511642_830B4DB5-970D-4F5F-9005-12115DB161EF",
-    "NEWSSUB": "Wisec Global Ltd - 511642 - Submission Of Un Audited Results For The Quarter And Half Year Ended 30Th September 2026 Along With Limited Review Report",
-    "DT_TM": "2026-11-27T19:12:48.817",
-    "NEWS_DT": "2026-11-27T19:12:48.817",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "13ff2c34-106a-43b7-9c82-6c1bde19bff6.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Unaudited results for the quarter ended and half year ended 30th September 2026 along with limited review report",
-    "CATEGORYNAME": "Result",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/wisec-global-ltd/wisec/511642/",
-    "SLONGNAME": "Wisec Global Ltd",
-    "AGENDA_ID": 30,
-    "TotalPageCnt": 11,
-    "News_submission_dt": "2026-11-27T19:12:48",
-    "DissemDT": "2026-11-27T19:12:48.817",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1340174,
-    "SUBCATNAME": "Financial Results",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {
-      "revenue": "21.82",
-      "total_assets": "168.15",
-      "total_equity": "35.86",
-      "total_debt": "62.43",
-      "currency_unit": "₹ in Crores"
-    },
-    "financial_tables": []
   }
 ]
