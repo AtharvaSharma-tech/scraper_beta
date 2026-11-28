@@ -1,5 +1,988 @@
 [
   {
+    "NEWSID": "94d8c755-b62e-41bc-83e6-92ee0ad34d60",
+    "SCRIP_CD": 544597,
+    "XML_NAME": "ANN_544597_94D8C755-B62E-41BC-83E6-92EE0AD34D60",
+    "NEWSSUB": "Piramal Finance Ltd - 544597 -  Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
+    "DT_TM": "2026-11-28T20:26:48.197",
+    "NEWS_DT": "2026-11-28T20:26:48.197",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "e857e015-b1ae-425f-b099-6e1e42e2d168.pdf",
+    "MORE": "",
+    "HEADLINE": "Scrutinizer''s Report on Postal Ballot",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/piramal-finance-ltd/piramalfin/544597/",
+    "SLONGNAME": "Piramal Finance Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T20:26:48",
+    "DissemDT": "2026-11-28T20:26:48.197",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8943499,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **Resolution & Date:** On 28 Nov 2026 (last day of the remote e‑voting), shareholders approved the **special resolution to appoint Mr Dinesh Kumar Khara (DIN 06737041) as",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 16,
+        "rows": [
+          {
+            "Resolution Required: (Ordinary/ Special)": "Whether promoter / promoter group are interested in the agenda /resolution?",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "No",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Category",
+            "col_2": "Mode of Voting",
+            "col_3": "No. of shares held",
+            "col_4": "No. of votes polled",
+            "col_5": "% of Votes polled on outstanding shares",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "No. of Votes – in favour",
+            "col_7": "No. of Votes – Against",
+            "col_8": "% of Votes in favour on votes polled",
+            "col_9": "% of Votes against on votes polled"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "",
+            "col_3": "(1)",
+            "col_4": "(2)",
+            "col_5": "(3)={(2)/(1)}*100",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "(4)",
+            "col_7": "(5)",
+            "col_8": "(6)={[4]/[2]}*100",
+            "col_9": "(7)={[5]/[2]}*100"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Promoter and Promoter Group",
+            "col_2": "E-Voting",
+            "col_3": "104635805",
+            "col_4": "104634416",
+            "col_5": "99.9987",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "104634416",
+            "col_7": "0",
+            "col_8": "100.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "104634416",
+            "col_5": "99.9987",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "104634416",
+            "col_7": "0",
+            "col_8": "100.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Public Institutions",
+            "col_2": "E-Voting",
+            "col_3": "88767291",
+            "col_4": "73728037",
+            "col_5": "83.0577",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "71144733",
+            "col_7": "2583304",
+            "col_8": "96.4962",
+            "col_9": "3.5038"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "73728037",
+            "col_5": "83.0577",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "71144733",
+            "col_7": "2583304",
+            "col_8": "96.4962",
+            "col_9": "3.5038"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Public Non Institutions",
+            "col_2": "E-Voting",
+            "col_3": "43227210",
+            "col_4": "1856880",
+            "col_5": "4.2956",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "1851326",
+            "col_7": "5554",
+            "col_8": "99.7009",
+            "col_9": "0.2991"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "1856880",
+            "col_5": "4.2956",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "1851326",
+            "col_7": "5554",
+            "col_8": "99.7009",
+            "col_9": "0.2991"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Grand Total",
+            "col_2": "",
+            "col_3": "236630306",
+            "col_4": "180219333",
+            "col_5": "76.1607",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "177630475",
+            "col_7": "2588858",
+            "col_8": "98.5635",
+            "col_9": "1.4365"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "Particulars": "Assent",
+            "Number of Members who voted through e-voting": "889",
+            "Number of votes through e-voting": "17,76,30,475",
+            "Percentage (%)": "98.5635"
+          },
+          {
+            "Particulars": "Dissent",
+            "Number of Members who voted through e-voting": "80",
+            "Number of votes through e-voting": "25,88,858",
+            "Percentage (%)": "1.4365"
+          },
+          {
+            "Particulars": "Total",
+            "Number of Members who voted through e-voting": "969",
+            "Number of votes through e-voting": "18,02,19,333",
+            "Percentage (%)": "100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "72384f23-42ab-4ff1-8a35-0a0e2348a8d9",
+    "SCRIP_CD": 544597,
+    "XML_NAME": "ANN_544597_72384F23-42AB-4FF1-8A35-0A0E2348A8D9",
+    "NEWSSUB": "Piramal Finance Ltd - 544597 - Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
+    "DT_TM": "2026-11-28T20:22:37.56",
+    "NEWS_DT": "2026-11-28T20:22:37.56",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8ce2b167-5739-4a2d-b97c-e085638e5835.pdf",
+    "MORE": "",
+    "HEADLINE": "Outcome of Postal Ballot",
+    "CATEGORYNAME": "AGM/EGM",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/piramal-finance-ltd/piramalfin/544597/",
+    "SLONGNAME": "Piramal Finance Ltd",
+    "AGENDA_ID": 34,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T20:22:37",
+    "DissemDT": "2026-11-28T20:22:37.56",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8943499,
+    "SUBCATNAME": "Postal Ballot",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": [
+      {
+        "page": 3,
+        "table_index": 0,
+        "row_count": 16,
+        "rows": [
+          {
+            "Resolution Required: (Ordinary/ Special)": "Whether promoter / promoter group are interested in the agenda /resolution?",
+            "col_2": "",
+            "col_3": "",
+            "col_4": "",
+            "col_5": "",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "No",
+            "col_7": "",
+            "col_8": "",
+            "col_9": ""
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Category",
+            "col_2": "Mode of Voting",
+            "col_3": "No. of shares held",
+            "col_4": "No. of votes polled",
+            "col_5": "% of Votes polled on outstanding shares",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "No. of Votes – in favour",
+            "col_7": "No. of Votes – Against",
+            "col_8": "% of Votes in favour on votes polled",
+            "col_9": "% of Votes against on votes polled"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "",
+            "col_3": "(1)",
+            "col_4": "(2)",
+            "col_5": "(3)={(2)/(1)}*100",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "(4)",
+            "col_7": "(5)",
+            "col_8": "(6)={[4]/[2]}*100",
+            "col_9": "(7)={[5]/[2]}*100"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Promoter and Promoter Group",
+            "col_2": "E-Voting",
+            "col_3": "104635805",
+            "col_4": "104634416",
+            "col_5": "99.9987",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "104634416",
+            "col_7": "0",
+            "col_8": "100.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "104634416",
+            "col_5": "99.9987",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "104634416",
+            "col_7": "0",
+            "col_8": "100.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Public Institutions",
+            "col_2": "E-Voting",
+            "col_3": "88767291",
+            "col_4": "73728037",
+            "col_5": "83.0577",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "71144733",
+            "col_7": "2583304",
+            "col_8": "96.4962",
+            "col_9": "3.5038"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "73728037",
+            "col_5": "83.0577",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "71144733",
+            "col_7": "2583304",
+            "col_8": "96.4962",
+            "col_9": "3.5038"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Public Non Institutions",
+            "col_2": "E-Voting",
+            "col_3": "43227210",
+            "col_4": "1856880",
+            "col_5": "4.2956",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "1851326",
+            "col_7": "5554",
+            "col_8": "99.7009",
+            "col_9": "0.2991"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Poll",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Postal Ballot",
+            "col_3": "",
+            "col_4": "0",
+            "col_5": "0.0000",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "0",
+            "col_7": "0",
+            "col_8": "0.0000",
+            "col_9": "0.0000"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "",
+            "col_2": "Total",
+            "col_3": "",
+            "col_4": "1856880",
+            "col_5": "4.2956",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "1851326",
+            "col_7": "5554",
+            "col_8": "99.7009",
+            "col_9": "0.2991"
+          },
+          {
+            "Resolution Required: (Ordinary/ Special)": "Grand Total",
+            "col_2": "",
+            "col_3": "236630306",
+            "col_4": "180219333",
+            "col_5": "76.1607",
+            "Special Resolution – Appointment of Mr. Dinesh Kumar Khara (DIN: 06737041) as an Independent Director of the Company": "177630475",
+            "col_7": "2588858",
+            "col_8": "98.5635",
+            "col_9": "1.4365"
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "table_index": 0,
+        "row_count": 3,
+        "rows": [
+          {
+            "Particulars": "Assent",
+            "Number of Members who voted through e-voting": "889",
+            "Number of votes through e-voting": "17,76,30,475",
+            "Percentage (%)": "98.5635"
+          },
+          {
+            "Particulars": "Dissent",
+            "Number of Members who voted through e-voting": "80",
+            "Number of votes through e-voting": "25,88,858",
+            "Percentage (%)": "1.4365"
+          },
+          {
+            "Particulars": "Total",
+            "Number of Members who voted through e-voting": "969",
+            "Number of votes through e-voting": "18,02,19,333",
+            "Percentage (%)": "100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "7bef9b10-2eac-4b94-8afb-86fbfc0f0d40",
+    "SCRIP_CD": 532022,
+    "XML_NAME": "ANN_532022_7BEF9B10-2EAC-4B94-8AFB-86FBFC0F0D40",
+    "NEWSSUB": "Filatex Fashions Ltd - 532022 - Revised Outcome Of Board Meeting Held On 14Th November, 2026",
+    "DT_TM": "2026-11-28T20:13:53.257",
+    "NEWS_DT": "2026-11-28T20:13:53.257",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "1e6f32ac-f1a1-46cf-a1d9-2d3ab4f068bb.pdf",
+    "MORE": "",
+    "HEADLINE": "Revised Outcome of Board Meeting held on 14th November,2026",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/filatex-fashions-ltd/filatfash/532022/",
+    "SLONGNAME": "Filatex Fashions Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T20:13:53",
+    "DissemDT": "2026-11-28T20:13:53.257",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 8976659,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- The Board met on **14 Nov 2026**; on **28 Nov 2026** Filatex Fashions Ltd submitted a revised outcome to the exchanges, attaching the previously omitted pages of the **Balance Sheet and Cash‑Flow Statement** to complete its financial results.  \n- The announcement contains **no specific financial figures or quantitative decisions**—it only reports the correction and resubmission of the full financial statements.",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "9a64e69e-a44c-4610-951b-c89453b71e40",
+    "SCRIP_CD": 532712,
+    "XML_NAME": "ANN_532712_9A64E69E-A44C-4610-951B-C89453B71E40",
+    "NEWSSUB": "Reliance Communications Ltd - 532712 - Reg. 34 (1) Annual Report.",
+    "DT_TM": "2026-11-28T20:05:30.36",
+    "NEWS_DT": "2026-11-28T20:05:30.36",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "8663af66-a1c9-4e6b-9bd9-451911675138.pdf",
+    "MORE": "",
+    "HEADLINE": "Under Reg. 34 (1) Annual Report 2025-2026 of Reliance Communications Limited",
+    "CATEGORYNAME": "Others",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/reliance-communications-ltd/rcom/532712/",
+    "SLONGNAME": "Reliance Communications Ltd",
+    "AGENDA_ID": 176,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T20:05:30",
+    "DissemDT": "2026-11-28T20:05:30.36",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 2569062,
+    "SUBCATNAME": "Reg. 34 (1) Annual Report",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "- **22nd Annual General Meeting (AGM)** – Scheduled for **Monday, 21 December 2026 at 11:30 A.M. (IST)**, to be held via video‑conferencing/other audio‑visual means. The cut‑off date for determining eligible voting members is **Friday, 11 December 2026**, and members may vote electronically on all resolutions.\n\n- **Insolvency status** – Reliance Communications Ltd. remains under the **corporate insolvency resolution process** under the Insolvency and Bankruptcy Code, 2016. Since **28 June 2019**, its affairs, business and assets have been managed by the **Resolution Professional, Mr. Anish Niranjan Nanavaty**, with the board’s powers vested in him.  \n\n*No specific financial figures or decisions",
+    "key_metrics": {
+      "revenue": "230",
+      "net_profit": "5 crore",
+      "total_assets": "38931",
+      "total_equity": "38931",
+      "total_debt": "",
+      "eps": "2744254050",
+      "dividend": "",
+      "face_value": "5",
+      "currency_unit": "₹ in Crores"
+    },
+    "financial_tables": [
+      {
+        "page": 70,
+        "table_index": 1,
+        "row_count": 4,
+        "rows": [
+          {
+            "Particulars": "Aggregate amount of loans/ advances in nature of loans - Repayable on demand (A)",
+            "All Parties": "40",
+            "Promoters": "-",
+            "Related Parties": "40"
+          },
+          {
+            "Particulars": "- Agreement does not specify any terms or period of repayment (B)",
+            "All Parties": "6,233",
+            "Promoters": "-",
+            "Related Parties": "6,048"
+          },
+          {
+            "Particulars": "Total (A+B)",
+            "All Parties": "6,273",
+            "Promoters": "-",
+            "Related Parties": "6,088"
+          },
+          {
+            "Particulars": "Percentage of loans/ advances in nature of loans to the total loans",
+            "All Parties": "100%",
+            "Promoters": "-",
+            "Related Parties": "97.05%"
+          }
+        ]
+      },
+      {
+        "page": 72,
+        "table_index": 0,
+        "row_count": 11,
+        "rows": [
+          {
+            "Name of Statute": "Himachal Pradesh Value Added Tax Act, 2005",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.008",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Punjab Value Added Tax Act, 2005",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Kerala Value Added Tax Act, 2003",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.009",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Chhattisgarh Value Added Tax Act, 2003",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.0010",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Orissa Value Added Tax Act, 2004",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Madhya Pradesh Value Added Tax Act, 2003",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Tamilnadu Value Added Tax Act, 2006",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.0011",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "West Bengal Value Added Tax Act,",
+            "Nature of Dues": "Works Contract Tax Payable",
+            "Amount (` In Crore)": "0.0012",
+            "Period to which the amount relates": "FY 2017-18",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Income Tax Act, 1961",
+            "Nature of Dues": "Tax Deducted at source",
+            "Amount (` In Crore)": "13.68",
+            "Period to which the amount relates": "FY 2017-18 & F.Y 2018-19",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "Professional Tax Act – Various States",
+            "Nature of Dues": "Profession Tax",
+            "Amount (` In Crore)": "0.38",
+            "Period to which the amount relates": "FY 2018-19 onwards",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          },
+          {
+            "Name of Statute": "The Labour Welfare Fund Act, 1953",
+            "Nature of Dues": "Labour Welfare Fund",
+            "Amount (` In Crore)": "0.01",
+            "Period to which the amount relates": "FY 2018-19 onwards",
+            "Due Date": "Various Dates",
+            "Date of Payment": "Unpaid"
+          }
+        ]
+      },
+      {
+        "page": 77,
+        "table_index": 0,
+        "row_count": 19,
+        "rows": [
+          {
+            "Name of Statue": "Central GST Act, 2017 and Madhya Pradesh GST Act, 2017",
+            "Nature of Dues": "Goods and Service Tax (GST) Goods and Service Tax (GST)",
+            "Amount* (` In Crore)": "1.05",
+            "Period": "2018-19",
+            "Forum": "Assistant Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Maharashtra GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "106.54",
+            "Period": "2018-19, 2019-20 and 2020-21",
+            "Forum": "Assistant Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Punjab GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "2.26",
+            "Period": "2018-19",
+            "Forum": "Assistant Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Telangana GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "2.93",
+            "Period": "2019-20",
+            "Forum": "Deputy Commissioner of Goods and Service Tax"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Rajasthan GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "0.01",
+            "Period": "2019-20 and 2020-21",
+            "Forum": "Joint Commissioner of Good and Service Tax, Rajasthan"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Karnataka GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "5.26",
+            "Period": "2020-21",
+            "Forum": "Assistant Commissioner of Goods and Service Tax, Karnataka"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Madhya Pradesh GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "0.004",
+            "Period": "2018-19",
+            "Forum": "Superintendent of Goods and Service Tax, MP"
+          },
+          {
+            "Name of Statue": "Central GST Act, 2017 and Maharashtra GST Act, 2017",
+            "Nature of Dues": "",
+            "Amount* (` In Crore)": "0.03",
+            "Period": "2018-19",
+            "Forum": "Superintendent of Goods and Service Tax, Maharashtra"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "292.82",
+            "Period": "2009-10 & 2010-11",
+            "Forum": "Bombay High Court"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "0.44",
+            "Period": "2009-10, 2010-11 & 2011-12",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "1.24",
+            "Period": "2010-11, 2011-12 & 2012-13",
+            "Forum": "Bombay High Court"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "90.00",
+            "Period": "Various years",
+            "Forum": "Supreme Court / High Court"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "181.48",
+            "Period": "2014-15",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "30.11",
+            "Period": "2016-17",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "12.80",
+            "Period": "2018-19",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "128.33",
+            "Period": "2015-16",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "0.16",
+            "Period": "2019-20",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "16.79",
+            "Period": "2016-17",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          },
+          {
+            "Name of Statue": "Income Tax Act, 1961",
+            "Nature of Dues": "Income Tax",
+            "Amount* (` In Crore)": "78.05",
+            "Period": "2019-20",
+            "Forum": "Commissioner of Income Tax (Appeals)"
+          }
+        ]
+      },
+      {
+        "page": 79,
+        "table_index": 0,
+        "row_count": 9,
+        "rows": [
+          {
+            "Name of Lender": "",
+            "Amount (` in crore)": "Principal",
+            "Period (No. of Days)": "Principal",
+            "Amount (` in crore)_1": "Interest",
+            "Period (No. of Days)_1": "Interest"
+          },
+          {
+            "Name of Lender": "Desai Industrial Finance Private Limited (assigned by Deep Industrial Finance Limited)",
+            "Amount (` in crore)": "260",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Pearl Housing Finance Limited",
+            "Amount (` in crore)": "260",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Invent Assets Securitisation & Reconstruction Private Limited (assigned by Shriyam Auto Fin Limited & Traitriya Construction Finance Limited)",
+            "Amount (` in crore)": "520",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Vishvakarma Equipment Finance Limited",
+            "Amount (` in crore)": "142",
+            "Period (No. of Days)": "2312",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Neptune Steel Strips Limited",
+            "Amount (` in crore)": "68",
+            "Period (No. of Days)": "2283",
+            "Amount (` in crore)_1": "-",
+            "Period (No. of Days)_1": "-"
+          },
+          {
+            "Name of Lender": "Reliance Capital Limited",
+            "Amount (` in crore)": "1,000",
+            "Period (No. of Days)": "2557",
+            "Amount (` in crore)_1": "3",
+            "Period (No. of Days)_1": "2558"
+          },
+          {
+            "Name of Lender": "Other Lenders",
+            "Amount (` in crore)": "7,660",
+            "Period (No. of Days)": "Various Dates",
+            "Amount (` in crore)_1": "68",
+            "Period (No. of Days)_1": "Various Dates"
+          },
+          {
+            "Name of Lender": "Total",
+            "Amount (` in crore)": "39,934",
+            "Period (No. of Days)": "",
+            "Amount (` in crore)_1": "371",
+            "Period (No. of Days)_1": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "NEWSID": "833f95a7-672b-4cee-b688-174687d89c79",
+    "SCRIP_CD": 543306,
+    "XML_NAME": "ANN_543306_833F95A7-672B-4CEE-B688-174687D89C79",
+    "NEWSSUB": "Dodla Dairy Ltd - 543306 - Intimation Regarding The Change In The Address Of The Corporate Office Of Kfin Technologies Limited, Registrar And Share Transfer Agent ('RTA') Of The Company",
+    "DT_TM": "2026-11-28T20:00:43.82",
+    "NEWS_DT": "2026-11-28T20:00:43.82",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "bdc06edb-ba67-472f-9f73-47e121ed1115.pdf",
+    "MORE": "",
+    "HEADLINE": "Intimation attached",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/dodla-dairy-ltd/dodla/543306/",
+    "SLONGNAME": "Dodla Dairy Ltd",
+    "AGENDA_ID": 1,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T20:00:43",
+    "DissemDT": "2026-11-28T20:00:43.82",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 3546435,
+    "SUBCATNAME": "General",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {},
+    "financial_tables": []
+  },
+  {
+    "NEWSID": "86cd01a9-7ddd-41dc-a378-450769dd92d0",
+    "SCRIP_CD": 534422,
+    "XML_NAME": "ANN_534422_86CD01A9-7DDD-41DC-A378-450769DD92D0",
+    "NEWSSUB": "Looks Health Services Ltd - 534422 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+    "DT_TM": "2026-11-28T20:00:06.35",
+    "NEWS_DT": "2026-11-28T20:00:06.35",
+    "CRITICALNEWS": "0",
+    "ANNOUNCEMENT_TYPE": "A",
+    "QUARTER_ID": null,
+    "FILESTATUS": "N    ",
+    "ATTACHMENTNAME": "22fe421c-87de-416e-9b9d-61ddaeb8e548.pdf",
+    "MORE": "",
+    "HEADLINE": "Newspaper Advertisement pertaining to publication of Notice of the Extra-Ordinary General Meeting of the Company.",
+    "CATEGORYNAME": "Company Update",
+    "OLD": 1,
+    "RN": 1,
+    "PDFFLAG": 0,
+    "NSURL": "https://www.bseindia.com/stock-share-price/looks-health-services-ltd/looks/534422/",
+    "SLONGNAME": "Looks Health Services Ltd",
+    "AGENDA_ID": 144,
+    "TotalPageCnt": 5,
+    "News_submission_dt": "2026-11-28T20:00:06",
+    "DissemDT": "2026-11-28T20:00:06.35",
+    "TimeDiff": "00:00:00",
+    "Fld_Attachsize": 4479223,
+    "SUBCATNAME": "Newspaper Publication",
+    "BSENEWSID": null,
+    "INVESTOR_PRESENTATION": null,
+    "RECORDID": null,
+    "DataInsDate": null,
+    "AUDIO_VIDEO_FILE": null,
+    "summary": "* Summary unavailable (AI API key not configured or failed).",
+    "key_metrics": {
+      "currency_unit": "in Billions"
+    },
+    "financial_tables": []
+  },
+  {
     "NEWSID": "2bacbbb9-81f1-492c-ad76-024e9f166d16",
     "SCRIP_CD": 534422,
     "XML_NAME": "ANN_534422_2BACBBB9-81F1-492C-AD76-024E9F166D16",
@@ -5843,298 +6826,6 @@
     "DataInsDate": "2026-11-28T15:54:35.787",
     "AUDIO_VIDEO_FILE": null,
     "summary": "- The announcement contains no financial details.",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "ffe67c24-229e-4503-a53a-57b785f9ad25",
-    "SCRIP_CD": 514440,
-    "XML_NAME": "ANN_514440_FFE67C24-229E-4503-A53A-57B785F9AD25",
-    "NEWSSUB": "Blue Pearl Agriventures Ltd - 514440 - Announcement under Regulation 30 (LODR)-Resignation of Statutory Auditors",
-    "DT_TM": "2026-11-28T15:54:11.277",
-    "NEWS_DT": "2026-11-28T15:54:11.277",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "f6091ebe-6422-48dd-8374-9b9c72016ac6.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board meeting for the resignation of the Statutory auditor of the company",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/blue-pearl-agriventures-ltd/bpagri/514440/",
-    "SLONGNAME": "Blue Pearl Agriventures Ltd",
-    "AGENDA_ID": 108,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:54:11",
-    "DissemDT": "2026-11-28T15:54:11.277",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 665261,
-    "SUBCATNAME": "Resignation of Statutory Auditors",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* **Resignation of Statutory Auditor:** On November 28, 2026, the Board accepted the resignation of statutory auditor M/s. Sweta Jain & Co LLP (originally appointed on January 23, 2026, with an initial term scheduled through the 38th Annual General Meeting for the financial year ending March 31, 2031).\n* **Appointment to Fill Casual Vacancy:** The Board approved the appointment of M/s. Mittal & Associates (Firm Registration No. 106456W) as the new statutory auditor on November 28, 2026, for the term spanning April 1, 2026, to March 31, 2027; the announcement contains no monetary or financial details.",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the Listed Entity",
-            "Response": "Blue Pearl Agriventures Limited"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Details of the Statutory Auditor: a. Name b. Address c. Phone Number d. Email",
-            "Response": "a. M/s. Shweta Jain & Co LLP b. G-007, Om Sai Enclave, Poonam Complex, Mira Road (East), Thane – 401107 c. 98923 59049 d. sjandcom@gmail.com"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Details of association with the listed entity: a. Date of appointment b. Date of reappointment c. Date on which the term was scheduled to expire d. Latest audit/limited review report submitted prior to resignation and date of submission",
-            "Response": "a. 23/01/2026 b. 30/09/2026 c. 31/03/2031 d. We have issued the Audit Report for the financial year ended 31st March, 2026, and the Limited Review Report for the quarter ended 30th September, 2026."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Detailed reasons for resignation",
-            "Response": "Due to the shortage of professional staff and the non-availability of necessary information and documents from the Company within the required timelines, we are unable to carry out our statutory audit responsibilities effectively and within the prescribed time limits. Consequently, we have decided to resign from the position of Statutory Auditor of the Company."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "In case of any concerns, efforts made by the auditor prior to resignation, including approaching the Audit Committee / Board of Directors along with dates of communication.",
-            "Response": "No separate concerns have been formally communicated to the Audit Committee or Board of Directors in this regard."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "In case information requested by the auditor was",
-            "Response": "To be completed based on the actual circumstances and audit documentation."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "abe44153-aa70-481f-ab69-4a1b670b7d50",
-    "SCRIP_CD": 514440,
-    "XML_NAME": "ANN_514440_ABE44153-AA70-481F-AB69-4A1B670B7D50",
-    "NEWSSUB": "Blue Pearl Agriventures Ltd - 514440 - Board Meeting Outcome for Outcome Of The Board Meeting Held On 28Th November, 2026",
-    "DT_TM": "2026-11-28T15:51:35.793",
-    "NEWS_DT": "2026-11-28T15:51:35.793",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "72ff9dda-70f5-4853-858f-e0652861a712.pdf",
-    "MORE": "",
-    "HEADLINE": "Outcome of the Board meeting held on 28th November, 2026",
-    "CATEGORYNAME": "Others",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/blue-pearl-agriventures-ltd/bpagri/514440/",
-    "SLONGNAME": "Blue Pearl Agriventures Ltd",
-    "AGENDA_ID": 223,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:51:34",
-    "DissemDT": "2026-11-28T15:51:35.793",
-    "TimeDiff": "00:00:01",
-    "Fld_Attachsize": 665261,
-    "SUBCATNAME": "Outcome without intimation",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": [
-      {
-        "page": 7,
-        "table_index": 0,
-        "row_count": 6,
-        "rows": [
-          {
-            "Sr. No.": "1",
-            "Particulars": "Name of the Listed Entity",
-            "Response": "Blue Pearl Agriventures Limited"
-          },
-          {
-            "Sr. No.": "2",
-            "Particulars": "Details of the Statutory Auditor: a. Name b. Address c. Phone Number d. Email",
-            "Response": "a. M/s. Shweta Jain & Co LLP b. G-007, Om Sai Enclave, Poonam Complex, Mira Road (East), Thane – 401107 c. 98923 59049 d. sjandcom@gmail.com"
-          },
-          {
-            "Sr. No.": "3",
-            "Particulars": "Details of association with the listed entity: a. Date of appointment b. Date of reappointment c. Date on which the term was scheduled to expire d. Latest audit/limited review report submitted prior to resignation and date of submission",
-            "Response": "a. 23/01/2026 b. 30/09/2026 c. 31/03/2031 d. We have issued the Audit Report for the financial year ended 31st March, 2026, and the Limited Review Report for the quarter ended 30th September, 2026."
-          },
-          {
-            "Sr. No.": "4",
-            "Particulars": "Detailed reasons for resignation",
-            "Response": "Due to the shortage of professional staff and the non-availability of necessary information and documents from the Company within the required timelines, we are unable to carry out our statutory audit responsibilities effectively and within the prescribed time limits. Consequently, we have decided to resign from the position of Statutory Auditor of the Company."
-          },
-          {
-            "Sr. No.": "5",
-            "Particulars": "In case of any concerns, efforts made by the auditor prior to resignation, including approaching the Audit Committee / Board of Directors along with dates of communication.",
-            "Response": "No separate concerns have been formally communicated to the Audit Committee or Board of Directors in this regard."
-          },
-          {
-            "Sr. No.": "6",
-            "Particulars": "In case information requested by the auditor was",
-            "Response": "To be completed based on the actual circumstances and audit documentation."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "NEWSID": "e71dcabf-2e69-4d7c-af41-61bf36d10296",
-    "SCRIP_CD": 544631,
-    "XML_NAME": "ANN_544631_E71DCABF-2E69-4D7C-AF41-61BF36D10296",
-    "NEWSSUB": "Creative Newtech Ltd - 544631 - Shareholder Meeting / Postal Ballot-Scrutinizer\"s Report",
-    "DT_TM": "2026-11-28T15:46:45.65",
-    "NEWS_DT": "2026-11-28T15:46:45.65",
-    "CRITICALNEWS": "1",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "bef005d5-80bf-48b1-af36-e5c8df259605.pdf",
-    "MORE": "",
-    "HEADLINE": "Submission of Scrutinisers Report on eVoting for the agenda item of EGM held on 28th November 2026",
-    "CATEGORYNAME": "AGM/EGM",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/creative-newtech-ltd/cnl/544631/",
-    "SLONGNAME": "Creative Newtech Ltd",
-    "AGENDA_ID": 28,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:46:45",
-    "DissemDT": "2026-11-28T15:46:45.65",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 1654910,
-    "SUBCATNAME": "EGM",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "bf07a3db-7460-4352-b210-d4b15da4904d",
-    "SCRIP_CD": 532313,
-    "XML_NAME": "ANN_532313_BF07A3DB-7460-4352-B210-D4B15DA4904D",
-    "NEWSSUB": "Mahindra Lifespace Developers Ltd - 532313 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
-    "DT_TM": "2026-11-28T15:46:18.473",
-    "NEWS_DT": "2026-11-28T15:46:18.473",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "52701229-fe55-4231-81dd-6a399f07cf27.pdf",
-    "MORE": "",
-    "HEADLINE": "Newspaper publication - Notice of Postal Ballot and Remote E-voting",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/mahindra-lifespace-developers-ltd/mahlife/532313/",
-    "SLONGNAME": "Mahindra Lifespace Developers Ltd",
-    "AGENDA_ID": 144,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:46:18",
-    "DissemDT": "2026-11-28T15:46:18.473",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 16052803,
-    "SUBCATNAME": "Newspaper Publication",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "529b8a88-42d1-42cb-8161-bc69103b997f",
-    "SCRIP_CD": 502820,
-    "XML_NAME": "ANN_502820_529B8A88-42D1-42CB-8161-BC69103B997F",
-    "NEWSSUB": "DCM Ltd - 502820 - Announcement Under Regulation 30 (LODR)",
-    "DT_TM": "2026-11-28T15:40:30.82",
-    "NEWS_DT": "2026-11-28T15:40:30.82",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "cb1cdb0c-4861-4539-8f80-78df17b92da8.pdf",
-    "MORE": "",
-    "HEADLINE": "Announcement under Regulation 30 (LODR) is enclosed.",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/dcm-ltd/dcm/502820/",
-    "SLONGNAME": "DCM Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:40:30",
-    "DissemDT": "2026-11-28T15:40:30.82",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 487830,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
-    "key_metrics": {},
-    "financial_tables": []
-  },
-  {
-    "NEWSID": "921c7c82-53a3-4b62-a43e-0d3c9d5ff0eb",
-    "SCRIP_CD": 544317,
-    "XML_NAME": "ANN_544317_921C7C82-53A3-4B62-A43E-0D3C9D5FF0EB",
-    "NEWSSUB": "Transrail Lighting Ltd - 544317 - Announcement Of Litigation Under Regulation 30 Of SEBI (LODR) Regulations 2015",
-    "DT_TM": "2026-11-28T15:35:45.67",
-    "NEWS_DT": "2026-11-28T15:35:45.67",
-    "CRITICALNEWS": "0",
-    "ANNOUNCEMENT_TYPE": "A",
-    "QUARTER_ID": null,
-    "FILESTATUS": "N    ",
-    "ATTACHMENTNAME": "e48eaa24-bf43-4912-b801-f2358e067c09.pdf",
-    "MORE": "",
-    "HEADLINE": "Intimation of Pendency of litigation",
-    "CATEGORYNAME": "Company Update",
-    "OLD": 1,
-    "RN": 1,
-    "PDFFLAG": 0,
-    "NSURL": "https://www.bseindia.com/stock-share-price/transrail-lighting-ltd/transraill/544317/",
-    "SLONGNAME": "Transrail Lighting Ltd",
-    "AGENDA_ID": 1,
-    "TotalPageCnt": 3,
-    "News_submission_dt": "2026-11-28T15:35:45",
-    "DissemDT": "2026-11-28T15:35:45.67",
-    "TimeDiff": "00:00:00",
-    "Fld_Attachsize": 322287,
-    "SUBCATNAME": "General",
-    "BSENEWSID": null,
-    "INVESTOR_PRESENTATION": null,
-    "RECORDID": null,
-    "DataInsDate": null,
-    "AUDIO_VIDEO_FILE": null,
-    "summary": "* Summary unavailable (AI API key not configured or failed).",
     "key_metrics": {},
     "financial_tables": []
   }
